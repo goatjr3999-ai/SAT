@@ -1,0 +1,369 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+While the linear veins of some plants facilitate rapid fluid transport, the Castanopsis chrysophylla employs a complex, netlike venation pattern that creates significant hydraulic resistance. Consequently, the intricate architecture of this giant chinquapin tree ______ the high-efficiency conductance seen in simpler species, effectively sacrificing speed for the durability provided by redundant pathways.  
+
+
+A. precludes
+B. bolsters
+C. explicates
+D. revitalizes
+Answer: A
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+As discussed by scholar Anna Mladentseva, many artworks produced in the mid-1990s to the early 2000s exclusively for exhibition on the internet, such as Sinae Kim’s Genesis (2001), have become inaccessible because viewing them requires the use of ______ software (most notably Adobe Flash, discontinued in 2021).
+
+
+A. extraneous
+B. arcane
+C. defunct
+D. ubiquitous
+Answer: C
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Anadromous birds shift between temperate and tropical climates as part of their annual migration patterns. This obligatory movement is why anadromous species can be ______ those that are merely stenothermal (capable of surviving a limited temperature range): the stenothermal Arctic tern thrives in cold climates but does not require migration between contrasting zones, unlike the anadromous bar-headed goose.
+
+
+A. delineated from
+B. redefined as
+C. inferred from
+D. equated with
+Answer: A
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Paleontologists think that *Tyrannosaurus*, *Dsungaripterus*, and other long-extinct theropods and pterosaurs may have breathed using air sacs connected to tubelike extensions inside the animals’ bones. Such structures are found in modern birds, which is why some paleontologists treat the respiratory systems of birds as _______ those of *Tyrannosaurus*, *Dsungaripterus*, and other theropods and pterosaurs.
+
+
+A. emissaries for
+B. harbingers of
+C. subordinates of
+D. proxies for
+Answer: D
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+Alabama cave shrimp, olms, and other organisms lack functional eyes or ocular organs altogether and rely on other mechanisms to navigate their surroundings. Xiaoying Chen and colleagues investigated how the Chinese red-headed centipede is able to recognize and avoid sunlight without having eyes or even any photoreceptors (light-detecting cells). Their research showed that the temperature of the centipedes' antennae rose rapidly when exposed to simulated sunlight. __They also found that the centipedes were less averse to light when their antennae were covered with reflective material.__ These findings suggest that thermal receptors in the antennae are responsible for light detection in the centipedes.
+
+
+A. When combined with the information in the first sentence, it provides support for the conclusion described in the following sentence.
+B. When combined with the information in the previous sentence, it undermines the conclusion described in the following sentence.
+C. When combined with the information in the previous sentence, it provides support for the conclusion described in the following sentence.
+D. When combined with the information in the first sentence, it undermines the conclusion described in the following sentence.
+Answer: C
+
+Question 6:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Though John Crowley, author of The Solitudes, is perhaps not as well known as the most widely read American writers of the past fifty years, his work has had several influential champions, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley’s book Little, Big, __Bloom praises how the novel adroitly blends what playwright Friedrich Schiller termed the naive and sentimental modes__—while Schiller thought works could be classified as either naive (seeking to describe reality) or sentimental (seeking to develop ideas), Little, Big fuses both modes of writing.
+
+
+A. It contrasts the opinions of two critics.
+B. It helps clarify the distinction between two categories.
+C. It compares the work of a writer with that of a poet who admired him.
+D. It gives a reason why a critic appreciates a certain book.
+Answer: D
+
+Question 7:
+[COE]
+Which choice presents the most likely assumption underlying the approach the researchers used in identifying species in the samples from the CCZ, as presented in the text?
+
+The Clarion-Clipperton Zone (CCZ) is an expanse of abyssal seabed between Hawai'i and Mexico. Recently, researchers showed that the CCZ harbors immense biodiversity, including thousands of previously undescribed species of invertebrates. By necessity, the researchers identified *Prionospio branchilucida* and most other CCZ invertebrates solely through morphology, but for *Ledella laedoni* and some others the protocols for collecting samples for molecular analysis were easy to implement, so the researchers conducted both morphological and molecular analyses for these species.
+
+
+A. Both molecular and morphological analysis should be performed when it is practical to do so.
+B. Molecular analysis should be used for any species that can’t be identified using morphological analysis.
+C. Morphological analysis should be conducted on any samples before molecular analysis to ensure accurate identifications.
+D. Molecular analysis is both more difficult to conduct and more accurate than morphological analysis.
+Answer: A
+
+Question 8:
+[Structure]
+Which choice best states the main idea of the text?
+
+Several sociologists have observed that the word “culture,” though commonly used in academic literature, is an ultimately hazy concept—for example, Christian Smith has noted that the word “culture” represents “an amazing variety of often-discordant ideas.” Does the idea of culture encompass knowledge, or habits, or both these things and others? For casual usage, such haziness is permissible—we know culture when we see it—but for researchers, a standardization of the term is called for if sociology is to truly progress.
+
+
+A. There is no widely agreed-upon definition of the word “culture,” though the field of sociology would benefit if there were.
+B. In his research, Smith presented reasons why sociologists disagree on how to analyze “culture.”
+C. Nonspecialists and specialists have different ideas of what the word “culture” means.
+D. Knowledge and habits are key components of what nonspecialists refer to as “culture.”
+Answer: A
+
+Question 9:
+[COE]
+Information in the text best supports which statement about mongoose lemurs?
+
+Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Joel Brown and colleagues found to be negatively associated with foraging by Arizona pocket mice but Deborah J. Curtis and colleagues found to be positively associated with foraging by mongoose lemurs. This discrepancy is explicable in terms of OFT: the lemurs’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the mice.
+
+
+A. If increased lunar intensity imposed the same costs on the lemurs that it imposes on Arizona pocket mice, there would be no association between lunar intensity and the lemurs’ foraging.
+B. If increased lunar intensity creates any disadvantages for the lemurs, those disadvantages are more than compensated for by the advantages that the lemurs gain.
+C. If the advantages that the lemurs gain from increased lunar intensity explain the change in their foraging behavior, those advantages are likely shared by some other species that are not heavily reliant on vision.
+D. If the lemurs’ foraging behavior under increased lunar intensity actually reflects a cost-benefit trade-off, their behavior should be more similar to that of Arizona pocket mice than it is.
+Answer: B
+
+Question 10:
+[COE]
+What does the text most strongly imply about how Landry and Chen’s research benefits their academic field?
+
+Christine Landry and Ignatius Chen’s examination of the financial susceptibility of Emperor Kangxi (who governed not only the heartland of China but also outlying territories during 1661–1722) builds on existing scholarship on early modern Chinese state finance, including Li and Zhao’s studies on the link between government budgets and political structures. However, what sets Landry and Chen’s work apart is their reconstruction of the earliest surviving annual financial accounts for any imperial domain, showing that Kangxi’s fiscal defaults arose from short-lived liquidity crunches rather than from insurmountable, long-term debts.
+
+
+A. Landry and Chen’s study exposed the part that Emperor Kangxi’s defaults played in worsening short-duration liquidity problems.
+B. Landry and Chen’s study uses newly amassed data to discard one plausible cause for Kangxi’s defaults and confirm a different one.
+C. Landry and Chen’s study extends earlier examinations of a specific facet of early modern Chinese finance by Li and Zhao, while also rectifying inaccuracies in that prior work.
+D. Landry and Chen’s study provided a fresh body of evidence supporting Li and Zhao’s theory regarding the reasons behind Kangxi’s multiple defaults.
+Answer: B
+
+Question 11:
+[COE]
+Which potential finding from the team’s study, if true, would most directly support the team’s conclusion?
+
+Psychologists Gregory Bryant, Dorsa Amir, and colleagues investigated cross-cultural perceptions of spontaneous (real) laughter and volitional (fake or forced) laughter. Study participants from 24 societies, including those from Australia and Iran, listened to randomized recordings of 18 spontaneous laughs taken from natural conversations between pairs of women and 18 volitional laughs produced separately by 18 different women in response to an instruction to laugh. Analysis of the participants’ evaluations of the laughs prompted the team to conclude that the ability to distinguish between spontaneous and volitional laughter appears to be universal across cultures.
+
+
+A. The overall rate of correct judgments by participants was substantially better than chance, and spontaneous and volitional laughs were recognized at similar rates in Australia, Iran, and the other societies in the study.
+B. Acoustic features of spontaneous laughter, such as pitch and intensity, have measurable variations both within and across societies.
+C. An assessment of the effect of demographic variables on judgments of laughter type in Australia, Iran, and the other societies in the study revealed that participants’ evaluations were correlated with the economic conditions of the societies in which participants live.
+D. A variety of people from Australia and Iran evaluated the recordings in the study, and no significant differences in listeners’ judgments of laughter types were found.
+Answer: A
+
+Question 12:
+[Infer]
+Which choice most logically completes the text?
+
+Consumers increasingly expect that goods they purchase online will be delivered rapidly, even as soon as the day of purchase. Although efficiencies in long-distance transport of parcels have greatly improved delivery times, last-mile logistics (the final step in delivery to consumers) present a bottleneck for delivery companies. Time pressure resulting from consumer expectations is not the only challenge; other obstacles, such as high personnel costs associated with more deliveries, persist. While innovations to mitigate these challenges have been emerging—the use of cargo bikes, for instance—success has been constrained due to the additional complications that arise (e.g., cargo bikes must frequently return to depots to pick up new parcels). Accordingly, researchers suggest that ___.
+
+
+A. even with a substantial decrease in consumer expectations for rapid delivery, the bottleneck of parcels at the last-mile delivery stage will continue to grow.
+B. solving the problem of last-mile logistics is likely to require further breakthroughs related to delivery methods.
+C. speedy last-mile delivery is a leading factor in customer satisfaction, and thus delivery companies should work to improve the current inefficiencies that exist there.
+D. delivery companies should invest more heavily in proven long-distance parcel transport solutions than in untested last-mile delivery solutions.
+Answer: B
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+A study by sociologist Rina Shah and her team involved the use of sentiment analysis tools to assess user feedback on thousands of online courses. The analysis revealed that courses affiliated with universities received a comparatively low percentage of negative feedback, while a significantly higher percentage of negative feedback was found for courses from standalone for-profit platforms. Furthermore, a requirement for full tuition payment is common for the for-profit courses, whereas university-affiliated courses frequently have their costs subsidized or covered by financial aid. Given the assumption that the instructional quality across these platforms is roughly equivalent, the findings suggest that ______
+
+
+A. Students are generally not informed about the tuition costs before enrolling in online courses.
+B. Learners show a stronger preference for enrolling in university-affiliated courses than in courses from for-profit platforms.
+C. For-profit platforms for professional certification have higher enrollment numbers than university-affiliated online courses.
+D. the expectations for course quality are lower among learners whose fees are subsidized than among those who pay full price.
+Answer: D
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Right-handedness is overwhelmingly prevalent in humans. Among studies of laterality in nonhuman primates, Dulce D. Shafer’s 1988 study of captive gorillas reported no tendency toward right-handedness, while Margaret E. Redishaw’s 1993 study of captive gorillas did. However, the latter study included only 12 individuals, and a meta-analysis of primate laterality studies demonstrated that a minimum sample size of 176 individuals is required to be confident that a finding of population-level handedness is not mere statistical noise. The claim of right-handedness in the 1993 study should therefore be treated skeptically given that _______ .
+
+
+A. the study that did not find right-handedness in gorillas was also based on an insufficient population size.
+B. right-handedness does not occur frequently enough among gorillas to reliably appear in a sample of only 12 individuals.
+C. the apparent difference between the two studies’ results may be partly attributable to the 1988 study using a different standard to determine handedness than the 1993 study did.
+D. the sample size on which the claim is based is far below the threshold identified in the meta-analysis.
+Answer: D
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+Humans have a very strong bias toward right-handedness, with approximately 85–90% having right as their dominant hand. Among studies of nonhuman primates, James Welles’s 1976 study of captive chimpanzees and catarrhine monkeys reported more right-handed individuals than left-handed ones, but William C. McGrew and colleagues’ 1999 study of wild chimpanzees did not find a tendency toward right-handedness. It’s important to note, however, that captive animals spend significantly more time with humans than wild animals do, and therefore ____.
+
+
+A. the apparent difference between the two studies’ results may be partly attributable to the 1976 study using a different standard to determine handedness than the 1999 study did.
+B. the right-handedness exhibited by the captive chimpanzees and catarrhine monkeys might be, in part, an effect of extended contact with humans.
+C. the number of individuals in the study of captive chimpanzees and catarrhine monkeys is likely too small to support the claim that the species tends toward right-handedness.
+D. the number of individuals in the study of wild chimpanzees is probably too small to support the claim that no tendency toward right-handedness was found in that population.
+Answer: B
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+On February 1, 2018, a Florida-based research team—Martha A. Scholl, Maoya Bassiouni, and Angel J. Torres-Sánchez—compiled climate data from several sites in Puerto Rico’s Luquillo Mountains. At site CC1, the site with the highest elevation, the air temperature fluctuated slightly throughout the day, registering _______ and 16.4°C at 10:00 p.m.
+
+
+A. 15.7°C at 8:00 a.m. 18.5°C at 12:00 p.m.
+B. 15.7°C at 8:00 a.m. 18.5°C, at 12:00 p.m.,
+C. 15.7°C, at 8:00 a.m. 18.5°C, at 12:00 p.m.
+D. 15.7°C at 8:00 a.m., 18.5°C at 12:00 p.m.,
+Answer: D
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Recent genomic sequencing of the Denisovan cave remains has led some anthropologists to propose that the ancient hominid groups were strictly isolated. This hypothesis ______ that distinct lineages, such as *H. neanderthalensis*, evolved without introgression or gene flow throughout the Pleistocene cannot stand, geneticists Svante Pääbo and David Reich counter, unless shared immune alleles can first be ruled out.
+
+
+A. posits
+B. posited
+C. positing
+D. had posited
+Answer: C
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Among the many ancient Egyptian units of measurement, the units sa and shesep were used to measure area and ______ neither unit is commonly used today.
+
+
+A. length; respectively,
+B. length respectively
+C. length, respectively;
+D. length, respectively,
+Answer: C
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Latvia, Greece, and the other member nations of the North Atlantic Treaty Organization, or NATO, share a commitment to the principle of collective defense, each NATO member _____ to defend the others if necessary.
+
+
+A. has pledged
+B. pledging
+C. pledges
+D. is pledging
+Answer: B
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In a treatise published November 4th, 1899, the economist Thorstein Veblen attempts to persuade his contemporaries that the leisure class’s obsession with conspicuous consumption, often dismissed as a benign pursuit of aesthetic refinement and social status, _____ actually due to a primitive predatory instinct sublimated into pecuniary emulation.
+
+
+A. largely occur
+B. is largely occurring
+C. largely occurring
+D. have largely occurred
+Answer: B
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+With some elements, like selenium, scientists were able to isolate a relatively pure sample of the substance shortly after discovering its existence—but this wasn’t the case with all elements. ___ the isolation process took a few years. The element molybdenum, for instance, was discovered in 1778 but not isolated until 1781.
+
+
+A. Often,
+B. Even so,
+C. Similarly,
+D. Furthermore,
+Answer: A
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Many past Olympic Games featured demonstration sports—nonmedal events—to showcase sports related to the host country. These events included sumō, a Japanese form of wrestling, and bandy, a hockey-like sport popular in Norway._______ they were chosen as demonstration sports at the Olympic Games in Tokyo, Japan, and Oslo, Norway, respectively.
+
+
+A. By contrast,
+B. Fittingly,
+C. Additionally,
+D. Nevertheless,
+Answer: B
+
+Question 23:
+[Synthesis]
+The student wants to emphasize a difference between David Davidson and John Catchings. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• India Arie is an African American singer and songwriter.
+• The media outlet All Music has described her music as having "glistening acoustic guitar, churchy organ, and smooth, supple beats."
+• Her acclaimed albums feature many talented musicians.
+• David Davidson played violin on her second studio album, *Voyage to India* (2002).
+• John Catchings played cello on her first studio album, *Acoustic Soul* (2001).
+
+
+A. Acoustic Soul and Voyage to India, released in 2001 and 2002, respectively, are albums by singer and songwriter India Arie.
+B. David Davidson played on India Arie’s second studio album, Voyage to India, which was released one year after her album Acoustic Soul.
+C. Both musicians have played on India Arie albums, but David Davidson played violin, whereas John Catchings played cello.
+D. David Davidson and John Catchings have both lent their musical talents to albums by India Arie.
+Answer: C
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Though the musical groups Los Tigres del Norte and Sólido are often categorized under the catchall “regional Mexican music” label, they each adhere to distinct musical traditions. The former works within the norteño tradition, which originated in late nineteenth-century northern Mexico. The latter, _____ follows the tejano tradition, with roots in mid-twentieth-century Texas and northern Mexico.
+
+
+A. to this end,
+B. as a result,
+C. in other words,
+D. on the other hand,
+Answer: D
+
+Question 25:
+[COE]
+Which choice most effectively uses information from the given sentences to make and support a generalization about symbols on currency?
+
+While researching a topic, a student has taken the following notes:
+• Numismatics is the scholarly study of currency, including coins and banknotes.
+• The currency of many nations includes symbolic imagery, such as famous people, buildings, or elements of nature.
+• A country's history, cultural achievements, or natural heritage are often represented by these symbols.
+• A profile of George Washington is featured on the United States quarter.
+• A depiction of a common loon is featured on Canada's one-dollar coin.
+
+
+A. The study of coin design, known as numismatics, examines the symbols many countries place on their currency.
+B. The common loon featured on Canada's one-dollar coin is a symbol that is significant to the nation's natural heritage.
+C. Numismatics is the study of currency; consequently, numismatists are interested in currency from all over the world.
+D. The inclusion of notable figures is a symbolic feature on some countries' currency; for example, the US quarter features a profile of George Washington.
+Answer: D
+
+Question 26:
+[COE]
+Which choice most effectively uses information from the given sentences to present the study’s findings to an audience already familiar with the concept ofseedling emergence?
+
+While researching a topic, a student has taken the following notes:
+• In a 2012 study, Eckstein et al. tested the effect of plant litter on seedling emergence in a grassland setting.
+• The test site was a dry grassland in a temperate midlatitude climate in Germany.
+• The researchers found that in these environmental conditions the presence of plant litter had a positive effect on seedling emergence.
+• Seedling emergence is when a seedling sprouts above ground and begins photosynthesis.
+
+
+A. The findings of Eckstein et al.’s study were published in 2012.
+B. The effect of plant litter, which includes dead leaves and other plant matter, on seedling emergence has been the subject of scientific study.
+C. Eckstein et al. found that in a dry grassland and a temperate midlatitude climate the presence of plant litter had a positive effect on seedling emergence.
+D. In a 2012 study by Eckstein et al., plant litter was found to have a positive effect on seedling emergence, which is when a seedling sprouts and begins photosynthesis.
+Answer: C
+
+Question 27:
+[Synthesis]
+The student wants to explain the principle espoused by the Bauhaus. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Bertrand Goldberg was an architect and industrial designer born in Chicago, Illinois.
+•He began attending the Bauhaus in 1932.
+•The Bauhaus was an influential German art and design school.
+•The school famously espoused the design principle of “form follows function.”
+• “Form follows function” means that an object’s shape should be determined primarily by its intended purpose.
+
+
+A. Famous for its principle of “form follows function,” the Bauhaus was an influential German art and design school.
+B. Bertrand Goldberg was an architect and industrial designer who attended the Bauhaus, famous for espousing the principle of “form follows function.”
+C. According to the Bauhaus, an object’s intended purpose (function) should primarily determine its shape (form).
+D. An object’s intended purpose and its shape are two elements of the design principle “form follows function.”
+Answer: C

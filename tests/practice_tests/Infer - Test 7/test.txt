@@ -1,0 +1,120 @@
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+To address the susceptibility of materials used in components of high-performance machinery, such as aircraft engines, to creep (deformation that is induced by persistent mechanical stress and that often occurs at elevated temperatures), materials researchers have developed silicon carbide (SiC) fibers for producing aerospace composites. Testing the thermomechanical properties of several commercially available SiC fibers, Ramakrishna T. Bhatt et al. found that in comparison with two polymer-derived SiC fibers, a nitrogen-treated SiC fiber exhibited a lower minimum creep rate, a measure of the rate at which a stress-exposed material deforms at a constant temperature and uniaxial load. The finding suggests that ______.
+
+A. unlike the two polymer-derived SiC fibers, the nitrogen-treated SiC fiber can substantially inhibit creep, provided that temperatures and loads are consistent.
+B. composites based on the two polymer-derived SiC fibers have chemical properties that may improve the mechanical and thermal stability of aerospace equipment to a greater extent than do composites based on the nitrogen-treated SiC fiber.
+C. aerospace composites containing the nitrogen-treated SiC fiber may have the ability to withstand mechanical stress for a longer period of time than can aerospace composites containing either of the two polymer-derived SiC fibers.
+D. the two polymer-derived SiC fibers likely hold similar potential for reducing the creep resistance of materials exposed to stress and elevated temperatures, thus prolonging the lifespan of aerospace machinery.
+Answer: C
+
+Question 2:
+[Infer]
+Which choice most logically completes the text?
+
+Exclusively inhabiting tropical countries such as Ghana, wild chimpanzees lack adaptations to seasonal variations in ultraviolet B (UVB) irradiance from sunlight; since UVB exposure enables vertebrates to synthesize vitamin D, Sophie Moittié and colleagues studied 200 chimpanzees in Spain and other mid-latitude countries to see how vitamin D levels are affected by the seasonal variations in UVB irradiance that occur in those locations. They found that chimpanzees’ vitamin D levels were significantly lower in autumn than in summer and appeared unaffected by oral supplementation of vitamin D administered by zookeepers. Moittié and colleagues point out, however, that supplementation was rare, highly varied, and poorly tracked, and therefore ________
+
+A. the effect of supplemental vitamin D on zoo chimpanzees in Spain and other mid-latitude countries can more clearly be observed in summer than in autumn.
+B. the possibility that zoo chimpanzees in Spain and other mid-latitude countries would benefit from supplemental vitamin D during autumn cannot be excluded.
+C. vitamin D levels in zoo chimpanzees in Spain and other mid-latitude countries may be higher during autumn than Moittié and colleagues’ data appear to indicate.
+D. differences in vitamin D supplementation likely explain more of the difference in vitamin D levels across zoo chimpanzees in Spain and other mid-latitude countries than seasonal differences in UVB irradiation do.
+Answer: B
+
+Question 3:
+[Infer]
+Which choice most logically completes the text?
+
+Over 600 languages are spoken in New York City in addition to English—one can find Acehnese spoken in the neighborhood of Astoria, for example, or Hindi in Gramercy Park. English is the most common, with 65% of New Yorkers speaking it at home; Spanish is second, at 20%. A linguist hypothesizes that a Spanish dialect—a variation differing from the parent language in some of its vocabulary, pronunciation, and grammar—has developed in New York City, partly due to its linguistic interaction with English. Previous research shows that younger speakers of nonmajority languages are more likely to borrow words from the majority language of a region than are older speakers. If the linguist’s hypothesis is correct, it is therefore likely to be the case that _____.
+
+A. younger speakers of Spanish in New York City would be more likely to use a dialect specific to New York City than older speakers living in the same neighborhood would be.
+B. the proportion of younger speakers who use a Spanish dialect specific to New York City is higher in neighborhoods where many languages are spoken than in neighborhoods where Spanish and English predominate.
+C. both the number of languages spoken in New York City and the number of dialects of each of those languages will increase over time.
+D. Spanish used by younger speakers in New York City tends to have more words borrowed from other nonmajority languages than borrowed from English.
+Answer: A
+
+Question 4:
+[Infer]
+Which choice most logically completes the text?
+
+For its 1974 work Instant Mural, the Chicano art collective Asco taped members Patszi Valdez and Humberto Sandoval to an outdoor wall in East Los Angeles. The work is manifestly a commentary on constraint, but many critics focus on Valdez and the social constraints women faced at the time, which is understandable but leaves the presence of Valdez's male collaborator Sandoval unexplained. We should instead consider that in 1974, the art establishment's recognition of Chicano artists was (and had long been) restricted to sociohistorical muralists, leaving nonmuralist Chicano artists—like Asco's members—struggling to even exhibit their work; attending to this context opens an interpretation that accounts for all the evidence, allowing us to conclude that ____.
+
+A. while Valdez's presence in Instant Mural represents the social constraints placed on women at the time, Sandoval's presence represents Chicano muralists' frustration at their lack of recognition by the art establishment.
+B. the main subject of Instant Mural is female Chicano artists' experience of being doubly constrained by gender-role expectations and the marginalization of certain types of art.
+C. Instant Mural is best understood not as a critique of the social constraints placed on women but rather as a critique of sociohistorical muralists' depictions of Chicano culture.
+D. Instant Mural is a reflection on the constraining aesthetic expectations placed on Chicano artists in general rather than on the social constraints placed on women specifically.
+Answer: D
+
+Question 5:
+[Infer]
+Which choice most logically completes the text?
+
+Prolonged exposure to anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Graeme Shannon and colleagues found in a 2014 study of black-tailed prairie dogs. Researchers conducted a meta-analysis of studies of how such noise affects animals and found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group. Although, on average, studies of mammals showed larger differences than studies of fish did, for every class of animals examined, there were individual studies showing differences well above the average for mammals. Therefore, the results of the meta-analysis suggest that _____.
+
+A. the differences that studies attribute to exposure to anthropogenic noise are likely to be more pronounced for fish than they are for mammals.
+B. some studies of fish found larger effects of exposure to anthropogenic noise than some studies of mammals did.
+C. the difference found in the study conducted by Graeme Shannon and colleagues was likely larger than the average difference for studies of black-tailed prairie dogs included in the meta-analysis.
+D. the studies in the meta-analysis that examined mammals were more likely than those that examined fish to specify whether the observed effects were detrimental.
+Answer: B
+
+Question 6:
+[Infer]
+Which choice most logically completes the text?
+
+In the early nineteenth century, several botanical gardens in Northern Europe were found to have cultivated orchid hybrids that closely resembled those produced in lesser-known experiments from Southeast Asian botanical societies decades earlier, but there is little evidence that these Northern European horticulturists worked collaboratively on the Southeast Asian experiments. Excluding the possibility of multiple horticulturists coincidentally cultivating hybrids identical to those already bred by the Southeast Asian botanical societies, these facts most strongly suggest that _____
+
+A. the horticulturists learned about these hybrids through secondary sources that documented the Southeast Asian experiments.
+B. the cultivation techniques preferred by Northern European horticulturists were fundamentally different from those used in Southeast Asian botanical experiments.
+C. Southeast Asian orchid hybrids were predominantly applied in areas unrelated to those pursued by Northern European botanical gardens.
+D. Northern European botanical gardens acknowledged the influence of Southeast Asian botanical experiments only after significant horticultural achievements had been made.
+Answer: A
+
+Question 7:
+[Infer]
+Which choice most logically completes the text?
+
+A study by sociologist Rina Shah and her team involved the use of sentiment analysis tools to assess user feedback on thousands of online courses. The analysis revealed that courses affiliated with universities received a comparatively low percentage of negative feedback, while a significantly higher percentage of negative feedback was found for courses from standalone for-profit platforms. Furthermore, a requirement for full tuition payment is common for the for-profit courses, whereas university-affiliated courses frequently have their costs subsidized or covered by financial aid. Given the assumption that the instructional quality across these platforms is roughly equivalent, the findings suggest that ______
+
+A. Students are generally not informed about the tuition costs before enrolling in online courses.
+B. Learners show a stronger preference for enrolling in university-affiliated courses than in courses from for-profit platforms.
+C. For-profit platforms for professional certification have higher enrollment numbers than university-affiliated online courses.
+D. the expectations for course quality are lower among learners whose fees are subsidized than among those who pay full price.
+Answer: D
+
+Question 8:
+[Infer]
+Which choice most logically completes the text?
+
+Quasars—such as J0313-1806, located in the Eridanus constellation—are extremely luminous galactic nuclei powered by supermassive black holes. Quasars range in age, with approximately 200 of them known to have developed within the first billion years of the formation of the universe. Scientific researchers have long wondered how any quasars could have formed so early in the universe’s evolution given that conditions are believed to have been ill-suited to their creation, which suggests that ______.
+
+A. J0313-1806 is likely less massive than quasars that formed more than a billion years after the beginnings of the universe.
+B. J0313-1806 is thought to have formed less than a billion years after the beginnings of the universe.
+C. some aspect of the scientific understanding of quasar formation or the early universe may be incomplete.
+D. quasars that formed in the early universe are likely not as luminous as those that formed later.
+Answer: C
+
+Question 9:
+[Infer]
+Which choice most logically completes the text?
+
+Anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Amy Morris-Drake and colleagues found in a 2017 study of dwarf mongooses. A meta-analysis of more than 100 such studies examining various species found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group, regardless of whether that difference was beneficial or detrimental for the exposed group. So while a study of fish might show a difference that benefits the exposed group, and a study of mammals might show a difference that's harmful to the exposed group, both differences are substantial. Therefore, the results of the meta-analysis suggest that ______.
+
+A. the studies in the meta-analysis that examined mammals were more likely than those about fish to specify whether the observed effects were detrimental.
+B. the study conducted by Amy Morris-Drake and colleagues found substantial differences, but studies included in the meta-analysis of mammals other than dwarf mongooses likely did not.
+C. the studies of the fish likely found significantly larger effects of exposure to anthropogenic noise than most studies of mammals except the study of dwarf mongooses by Amy Morris-Drake and colleagues.
+D. exposure to anthropogenic noise will likely have noticeable effects both on mammals such as dwarf mongooses and on fish such as common carp, but the nature of that effect could be very different for the two species.
+Answer: D
+
+Question 10:
+[Infer]
+Which choice most logically completes the text?
+
+Quasars—such as J0313-1806, located in the Eridanus constellation—are extremely luminous galactic nuclei powered by supermassive black holes. Quasars range in age, with approximately 200 of them known to have developed within the first billion years of the formation of the universe. Scientific researchers have long wondered how any quasars could have formed so early in the universe’s evolution given that conditions are believed to have been ill-suited to their creation, which suggests that ______.
+
+A. J0313-1806 is likely less massive than quasars that formed more than a billion years after the beginnings of the universe.
+B. J0313-1806 is thought to have formed less than a billion years after the beginnings of the universe.
+C. some aspect of the scientific understanding of quasar formation or the early universe may be incomplete.
+D. quasars that formed in the early universe are likely not as luminous as those that formed later.
+Answer: C
+

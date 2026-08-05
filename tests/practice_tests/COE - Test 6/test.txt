@@ -1,0 +1,120 @@
+Question 1:
+[COE]
+Which finding, if true, would most directly challenge the second team’s claim?
+
+Veronica L. Bura, Akito Y. Kawahara, and Jayne E. Yack investigated the evolution and function of sound production in silk moth and hawk moth caterpillars. They found that during harmless simulated attacks on caterpillars, 33% of the tested species produced sound, which ranged from clicks in Antheraea pernyi to whistles in Phyllosphingia dissimilis. A second research team has claimed that caterpillars use these sounds primarily to communicate with other members of their species.
+
+A. Among the caterpillar species that produced sound in response to simulated attacks, no individuals produced sound in the minute before the attacks, but the vast majority of individuals produced sound once the simulated attacks began.
+B. Most of the caterpillar species that were found to not produce sound in response to simulated attacks have been observed producing sound during encounters with other members of their species.
+C. Caterpillars that were found to produce sounds in response to simulated attacks are typically solitary and were tested in isolation.
+D. The sounds caterpillars produced in response to the simulated attacks lacked acoustic characteristics that would make them audible to bats, lizards, or birds, some of the most frequent predators of caterpillars.
+Answer: C
+
+Question 2:
+[COE]
+Information in the text best supports which statement about the design of the house in Calle Liceo?
+
+Mexican architect Luis Barragán’s prolific career, which spanned the 1920s to the 1980s, evolved through distinct phases. After traveling to the United States and Europe in the early 1930s and immersing himself in a broader architectural discourse, Barragán began incorporating principles derived from functionalism and modernism in his work, as seen in the houses in Avenida Parque Mexico, whose unadorned geometric forms contrast with his earlier projects in Guadalajara, such as the house in Calle Liceo, which evince the aesthetics of traditional Mediterranean and Mexican styles.
+
+A. It represents a transitional moment between the early and late phases of Barragán’s development.
+B. It is characteristic of the Guadalajaran architecture that influenced Barragán throughout his career.
+C. It reflects an approach to ornamentation and shape that Barragán later stopped using.
+D. It displays the effects of Barragán’s exposure to international architectural trends in the 1930s.
+Answer: C
+
+Question 3:
+[COE]
+Which finding, if true, would provide evidence that the possibility Grasby et al.investigated does occur?
+
+The Virgin Group’s introduction of the Virgin Atlantic airline in 1984 is an instance of brand extension—the company leveraged its brand recognition as a music retailer to enter a product category where it had not previously competed. To determine if perceived category similarity predicts consumers’ likelihood of purchasing brand extensions, Alicia Grasby et al. identified 30 extended-brand pairs (e.g., the same brand of vacuum cleaner and microwave) in 52 weeks of purchases by approximately 60,000 households; for each pair, Grasby et al. had consumers rate the similarity of the product categories and calculated the change in probability of a brand in one category being purchased if the same brand was purchased in the other category.
+
+A. Items in categories that included extended-brand pairs were purchased more frequently than those in categories without such pairs.
+B. While consumer ratings showed considerable variation across different category pairs, the researchers found that the probability changes were relatively uniform across pairs.
+C. Researchers identified a strong linkage between consumer ratings and the probability changes they computed.
+D. The level of brand recognition had an impact on both consumer ratings and the probability changes determined by the researchers.
+Answer: C
+
+Question 4:
+[COE]
+Which finding, if true, would most directly support the researcher's claim?
+
+In countries with right-hand traffic, drivers who want to make a left turn at a traffic intersection with stoplights have to wait for either a gap in oncoming traffic or a designated left-turn signal to turn green. At busy intersections, this often causes a backup of vehicles waiting to turn left or being prevented from proceeding by left-turning vehicles in front of them. Transportation researcher Vikash V. Gayah claims that urban areas eliminate the option to turn left at busy intersections—both with and without dedicated left-turn signals—would improve traffic flow and, as a result, reduce overall travel times even if such a restriction would require drivers to sometimes travel a slightly longer distance.
+
+A. After a city eliminated left turns at busy intersections, a package-delivery company reports that its drivers have been able to reach more addresses in the city daily, on average, and therefore deliver more packages than previously.
+B. A traffic study of intersections in a large city shows that on average drivers wait longer to make a left turn at intersections without left-turn signals than at intersections with such signals.
+C. Statistics reveal that school buses in a city that eliminated left turns at most intersections took on average two minutes longer to complete their routes after the restriction took effect than they did before.
+D. In a town that installed left-turn signals at all busy intersections, seven out of ten survey respondents agreed with the statement "the streets in my community are easier to navigate by motor vehicle than before."
+Answer: A
+
+Question 5:
+[COE]
+Which finding from the study, if true, would most directly support the team's conclusion?
+
+Neurobiologists Laura Cuaya, Raúl Hernández-Pérez, and colleagues investigated the language detection abilities of eighteen dogs. The researchers monitored the brain activity of Kun-kun (a border collie), Beto (a mixed breed), and other dogs while the animals listened to three recordings: one of The Little Prince being read in Spanish, the second in Hungarian, and a third made up of short, randomly selected fragments of the first two, scrambled so that they didn’t resemble human speech. Each dog was familiar with either Spanish or Hungarian, but not both. The team concluded that differences in dogs' anatomical features may affect their ability to distinguish speech from nonspeech.
+
+A. Long-headed dogs accustomed to hearing Spanish tended to show more brain activity when hearing Spanish than long-headed dogs accustomed to hearing Hungarian showed when hearing Hungarian.
+B. Compared with longer-headed dogs, shorter-headed dogs showed less difference in brain activity when hearing either Spanish or Hungarian than when hearing the scrambled recording.
+C. Compared with longer-headed dogs, shorter-headed dogs showed a greater difference in brain activity when hearing the language they were accustomed to than when hearing the other language.
+D. The pattern of brain activity that long-headed dogs showed when hearing the scrambled recording was different from the pattern of brain activity that short-headed dogs showed when hearing the language they were accustomed to.
+Answer: B
+
+Question 6:
+[COE]
+The text best supports which conclusion about the cultural center operated by the Mi’kmaq of Nova Scotia?
+
+In what is now British Columbia, the Coast Salish Nation manages the Kw’umut Lelum Cultural Center, an institution focused on preserving and presenting their heritage. Drawing on ancestral wisdom to shape its displays, the center highlights Salish traditions and history for the benefit of its community members. Similarly, the Mi’kmaq of Nova Scotia use a comparable approach in their own cultural center. Both centers contrast with non-Indigenous institutions, which, when showcasing Indigenous artifacts, often cater primarily to non-Indigenous visitors and follow Western methodologies in curating exhibits.
+
+A. Its exhibits are likely intended to bridge Indigenous and Western cultural perspectives.
+B. Its exhibits likely draw on the traditional knowledge of various Indigenous nations.
+C. Its capacity to showcase history and traditions may be constrained by the size of its facilities.
+D. Its exhibits are likely curated with a primary focus on serving the Mi’kmaq community.
+Answer: D
+
+Question 7:
+[COE]
+Which finding, if true, would most directly support the researchers’ claim regarding the size of PCFG whales?
+
+Although Eastern North Pacific (ENP) gray whales generally migrate between their wintering waters along the coast of Mexico and their foraging waters in the Arctic, a subset of this population—known as the Pacific Coast Feeding Group (PCFG)—forages along the coastlines of Northern California (USA) and British Columbia (Canada) instead. Interestingly, individuals in this subset reach smaller maximum sizes than other ENP whales do, despite having similar pre-maximum growth rates. Researchers hypothesize that this difference may be an adaptation to distinct resource opportunities in the PCFG foraging range.
+
+A. When foraging along the coasts of Northern California and British Columbia, PCFG whales are in closer proximity to major ports and urban populations than ENP whales in the main group are when foraging in Arctic waters.
+B. The average body size of PCFG whales observed along the coasts of Northern California and British Columbia has remained relatively steady in recent decades, while the average body size of ENP whales in the main group has slightly decreased.
+C. When present along the coasts of Northern California and British Columbia, PCFG whales tend to forage in rocky kelp beds at shallow depths inaccessible to whales as large as those in the ENP main group.
+D. Certain crustacean prey species available along the coasts of Northern California and British Columbia where PCFG whales tend to forage are not available in the Arctic waters where ENP whales in the main group forage.
+Answer: C
+
+Question 8:
+[COE]
+Which finding from Davis and Chen's study, if true, would most directly weaken the claim made by psychologists who hold the conventional view of motivation?
+
+Psychologists who hold a conventional view of motivation argue that publicly declaring a personal goal does not alter an individual's likelihood of achieving that goal. To test this claim, researchers Amir Davis and Li Chen conducted a year-long study focused on individuals attempting to learn a new complex skill. The study made a distinction between subjects who were part of a group encouraged to announce their goal on social media (roughly half of whom did so) and a comparable group of subjects who were instructed not to make any public announcement. Davis and Chen then compared the self-reported satisfaction levels of the two groups of subjects one year after the study began.
+
+A. Subjects' ultimate sense of success was best predicted by their pre-existing levels of determination, regardless of which group they were in.
+B. The group that kept their goals private expressed greater fulfillment at the end of the year than they had initially predicted they would.
+C. Members of the group that announced their intentions were far more likely to report feelings of either extreme success or extreme failure than were members of the group that made no announcement.
+D. A similar tendency to report disappointment about their progress was observed across both the group that made a public statement and the one that did not.
+Answer: C
+
+Question 9:
+[COE]
+Which finding from the experiment, if true, would most directly support Bernal and de Silva's conclusion?
+
+Male túngara frogs make complex calls to attract mates, but their calls also attract frog-biting midges, insects that feed on the frogs' blood. Researchers Ximena Bernal and Priyanka de Silva wondered if the calls alone are sufficient for midges to locate the frogs or if midges use carbon dioxide emitted by frogs as an additional cue to their prey's whereabouts, like mosquitoes do. In an experiment, the researchers placed two midge traps in a túngara frog breeding area. One trap played recordings of túngara frog calls and the other released carbon dioxide along with playing the calls. Bernal and de Silva concluded that carbon dioxide does not serve as an additional cue to frog-biting midges.
+
+A. Only a small number of midges were found in the traps, though the majority were found in the trap that played calls and released carbon dioxide.
+B. Midges entered the trap that released carbon dioxide and played calls only during or immediately after periods of carbon dioxide release.
+C. The trap that released carbon dioxide and played calls attracted few midges when carbon dioxide concentrations were low but attracted many midges when carbon dioxide concentrations were high.
+D. More midges were found in the trap that only played calls than in the trap that played calls and released carbon dioxide.
+Answer: D
+
+Question 10:
+[COE]
+Which quotation from a literary scholar would most directly support the claim in the underlined portion of the text?
+
+Scholars cite Men of Maize, the 1949 novel by Guatemalan author Miguel Ángel Asturias, as a foundational text of magical realism, the Latin American style of fiction in which antirealistic plot devices—often borrowed from the folkloric traditions of Indigenous and colonial societies in the Americas—are deployed in an otherwise realistic mode of representation typical of the modern novel. This style has exerted a decisive influence on authors around the world, including Orhan Pamuk, __whose 2001 novel My Name Is Red resembles classic magical realist novels in its juxtaposition of literary realism with folklore—namely, that of Turkey.__
+
+A. "Although Turkish folklore clearly informs the style and occasionally antirealistic plot of My Name Is Red, the novel also shows the inarguable influence of the magical realist tradition of Latin America."
+B. "The logic of the realistic plot of My Name Is Red is repeatedly and productively disrupted by the presence of imagery and situations drawn from Turkish folklore."
+C. "Like many works in the Latin American magical realist tradition, My Name Is Red is indebted to antirealistic elements in the folkloric tradition of Turkey."
+D. "While My Name Is Red alternates between realistic and antirealistic modes of representation, details suggesting the influence of Turkish folklore nevertheless occur throughout the novel."
+Answer: B
+

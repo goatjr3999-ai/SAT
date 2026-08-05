@@ -1,0 +1,377 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although modern Scandinavian art is remarkably diverse in style and medium, it is also marked by notable thematic ______; art historians have identified recurring motifs in the works of painters such as Edvard Munch and Anders Zorn that reflect the cultural and folkloric traditions of the Nordic people.
+
+
+A. nuance
+B. refinement
+C. cohesion
+D. originality
+Answer: C
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Possessing an outstanding collection of public art, Chicago has everything from monumental mosaics like Marc Chagall’s *Four Seasons* at sites like Chase Tower to innovative street art like Kashink’s mural *Be the Change You Wish To See*located on South Wabash Avenue. The ____ public art on display in the city can thus satisfy any art lover.
+
+
+A. breadth of
+B. controversy over
+C. confusion about
+D. apathy toward
+Answer: A
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Text corpora such as the Oxford English Corpus are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. For instance, one might have an intuition about the ______ of the word “day” in standard English, but only an analysis of a corpus can prove that “day” is the fifth most commonly used noun.
+
+
+A. inception
+B. duration
+C. prevalence
+D. caliber
+Answer: C
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Given that both bats and moths can perceive sound waves in their environments, the hypothesis that their auditory systems are functionally interchangeable is ultimately _____. While moths are adapted to detect the relatively loud ultrasonic clicks emitted by bats for predator avoidance, bats, in contrast, must be able to discern the far fainter echoes produced by their own calls bouncing off nearby prey for echolocation.
+
+
+A. untenable
+B. insuperable
+C. quotidian
+D. meritorious
+Answer: A
+
+Question 5:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Dong Hoang and Els Breugelmans examined consumer reactions to product substitutions when groceries ordered online are out of stock. They found that for margarine—a product category where consumers' purchase decisions typically depend on objective criteria like price—consumers prefer substitutions from national labels to ones from private labels (store brands that often mimic national brands' packaging and ingredients). However, for potato chips—a product category where decisions tend to depend on subjective criteria like texture preferences—consumers exhibited the opposite tendency.
+
+
+A. To present research that investigated how consumer reactions to product substitutions from two types of labels vary based on the category to which the products belong
+B. To provide empirical evidence that supports the claim that many consumers are more accepting of national-label product substitutions than they are of private-label product substitutions
+C. To illustrate that although consumers see most private-label products' attempts to imitate national-label products as unsuccessful, they are still willing to accept certain private-label substitutions
+D. To assert that consumers' tolerance for product substitutions from certain labels is primarily determined by their prior familiarity with potential substitutes
+Answer: A
+
+Question 6:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+The Alan Parsons Project's 1977 album I Robot features one of a myriad of iconic album covers designed by Hipgnosis—a British avant-garde design group—from the late 1960s through the early '80s. Hipgnosis (whose work eventually became a cultural symbol in its own right) was engaged by the Alan Parsons Project and other artists seeking a departure from standard album covers featuring straightforward band portraits. Hipgnosis employed experimental photographic techniques and optic effects that resulted in surreal, conceptually rich art mirroring the mood of the music captured on the albums.
+
+
+A. It presents a claim about the prominence of a band, suggests that this prominence resulted from the band's album covers, and then introduces the design group responsible for the covers.
+B. It establishes the impact of a design group, explains the process the group employed when collaborating with a band, and then specifies the design group's unique methods.
+C. It describes the cover art for an album, mentions the techniques used by the design group to create the art, and then explains the significance of the cover art.
+D. It refers to an album, introduces the design group responsible for the cover art on that album, and then describes the novel approach the design group was known for.
+Answer: D
+
+Question 7:
+[COE]
+According to the text, which choice most accurately describes the significance of the proportion of succulent tissue in the lotus’s stems?
+
+Bamboo and the water lily are hydrophytic species—meaning they thrive in aquatic settings—whereas the cactus and aloe are xerophytes, retaining moisture in specialized tissues to endure arid environments. Unlike hydrophytes, xerophytic plants often exhibit a noticeably large share (exceeding 30%) of succulent cells in their stems, a key adaptation for water storage. In a 2023 investigation, Dr. Helena Rodgers and her research group established that the lotus—an aquatic organism formerly viewed as entirely hydrophytic—possesses approximately 47% of these succulent tissues, thereby challenging that earlier classification.
+
+
+A. It exceeds that of aloe, a xerophyte, thereby raising doubts about the lotus’s status as a hydrophytic plant.
+B. It is not enough evidence to conclude that the lotus should be reclassified, according to Rodgers and her co‐investigators.
+C. It is larger than what is found in cactus, another xerophyte, even though the lotus was originally classified as a purely hydrophytic species.
+D. On its own, this finding suffices to overturn the prior view of how the lotus was categorized.
+Answer: D
+
+Question 8:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Establishing protected areas (PAs), such as Abrolhos Marine Park in Brazil, is a common conservation strategy, but because PAs restrict some kinds of economic activity, it’s widely thought that they hinder economic development. This perception is driven in part by the fact that economic assessments often don’t capture the indirect effects of tourism linked to PAs. But Heng Zhu et al. found that tourism associated with Abrolhos boosts local demand for goods and services in other economic sectors, resulting in, for instance, increased income from fishing in nearby areas.
+
+
+A. It states a hypothesis that accounts for why PAs generally negatively impact local economies, outlines how a research team’s findings support that hypothesis, and then suggests how a novel methodology led a separate team of researchers to a different conclusion.
+B. It makes a generalization about the difficulty of using PAs to reconcile economic and conservation priorities, demonstrates why most PAs fall short of achieving that goal, and then holds up a particular PA as an example of how that goal can be achieved.
+C. It introduces a widely held belief about the effect PAs have on the economy, proposes a reason for that belief’s prevalence, and then details a study whose findings seemingly conflict with that belief.
+D. It explains how PAs typically affect economic development in the regions where they are established, summarizes the findings of several economic studies that support this explanation, and then concedes that a particular PA is an exception to the general trend.
+Answer: C
+
+Question 9:
+[COE]
+Which statement about the mycelium of the twenty mushroom species is best supported by the text?
+
+Ellie Rose Mattoon et al. have confirmed that twenty mushroom species (including *Marasmius capillaris* and species from the genus *Cantharellus*) maintain ambient temperatures in both their fruited bodies and their mycelium (the root-like hyphae from which the fruited bodies grow), though the benefits of this hypothermic behavior are unclear. Noting that relative coolness was more pronounced in fruiting than in nonfruiting sites of the mycelium—a difference that persisted even after fruited bodies were detached—the researchers speculate that thermoregulation in the mycelium may influence reproductive success.
+
+
+A. Temperatures in the fruiting areas of the mycelium are lower than in the nonfruiting areas due to differences in the depth and spread of the mycelium within soil or other organic matter.
+B. The mycelium generally maintains temperatures lower than those of the fruited bodies even when considering temperature variations between fruiting and nonfruiting sites.
+C. The correlation between higher mycelium temperature and greater fruit productivity indicates that successful reproduction may be dependent on thermoregulation in the mycelium.
+D. Variation in thermoregulation across the mycelium may occur independent of the presence or absence of fruited bodies.
+Answer: D
+
+Question 10:
+[Cross Text]
+Based on the texts, both the author of Text 1 and the author of Text 2 would most likely agree with which statement about scholarship on the modernist period in the United States?
+
+Text 1
+Scholarship today overrepresents experimentally fragmented narrative structures, such as that of Jean Toomer’s Cane, beyond the degree to which they actually influenced fiction in the United States during the modernist period (roughly 1900–1945). Meanwhile, Ellen Glasgow’s Barren Ground, whose coherent, linear narrative structure recalls the fiction of previous centuries, attracts woefully little attention from scholars of modernism.
+Text 2
+Distant reading, or computer-assisted quantitative analysis of massive collections of digitized texts, can reveal stylistic elements that have heretofore escaped notice, despite being shared by numerous texts from the modernist period. For too long, scholars have focused on narrative fragmentation versus coherence, inhibiting inquiry into other points of stylistic correspondence among works that would enrich our understanding of the modernist canon.
+
+
+A. At present, it only partially captures the stylistic dimensions of the fiction written in the period.
+B. Its primary methods for analyzing fiction written in the period are growing obsolete as computer technology advances.
+C. Instead of engaging in unproductive debates, it should work to rehabilitate the reputations of neglected modernist works.
+D. It must widen its focus to include aspects of modernist fiction beyond style, a productive but overrepresented site of inquiry.
+Answer: A
+
+Question 11:
+[COE]
+Which quotation from the translation of Uncle Vanya most effectively illustrates the claim?
+
+Uncle Vanya: Scenes from *Country Life in Four Acts* is an 1898 play by Anton Chekhov, originally written in Russian. In the play, Professor Serebrakoff and his wife Helen have come to live in their country estate, which Vanya manages with the help of Sonia, the professor's daughter from a previous marriage. Chekhov portrays Vanya as feeling underappreciated by the professor, as is evident when _______ .
+
+
+A. Professor Serebrakoff says, "I hate this house. It is a regular labyrinth. Every one is always scattered through the twenty-six enormous rooms; one never can find a soul."
+B. Vanya says to Professor Serebrakoff, "We used to think of you as almost superhuman, but now the scales have fallen from my eyes and I see you as you are! You write on art without knowing anything about it. Those books of yours which I used to admire are not worth one copper kopeck. You are an old..."
+C. Vanya says of Professor Serebrakoff, "He is a stingy, whining about his hard lot, though, as a matter of fact, he is extraordinarily lucky."
+D. Vanya says to Professor Serebrakoff, "For twenty-five years I have managed this place [the estate], and have sent you the returns from it like the most honest of servants, and you have never given me one single word of thanks for my work, not one—neither in my youth nor now."
+Answer: D
+
+Question 12:
+[COE]
+Which quotation from The Age of Innocence best illustrates the claim?
+
+*The Age of Innocence* is a 1920 novel by Edith Wharton set in New York City in the 1870s. In the novel, Newland Archer attends an opera; in the audience is May Welland, with whom he is romantically involved. Newland visualizes the details of a future with May: ____.
+
+
+A. “[May] dropped her eyes to the immense bouquet of lilies-of-the-valley on her knee, and Newland Archer saw her white-gloved finger-tips touch the flowers softly.”
+B. “Newland Archer, leaning against the wall at the back of the club box [where his seat was], turned his eyes from the stage and scanned the opposite side of the house.”
+C. “Though there was already talk…of a new Opera House which should compete in costliness and splendour with those of the great European capitals, the world of fashion was still content to reassemble every winter in the shabby red and gold boxes of the sociable old Academy [of Music].”
+D. “Already [Newland’s] imagination, leaping ahead of the engagement ring, the betrothal kiss and the [wedding] march from Lohengrin, pictured [May] at his side.”
+Answer: D
+
+Question 13:
+[COE]
+Which choice most effectively uses data from the table to support Macqueen et al.'s conclusion?
+
+Myoglobin (Mb) Levels in the Cardiac Tissue of Three Teleost Species
+
+Myoglobin (Mb) is a protein that primarily aids in oxygen storage and diffusion across the mitochondrial membrane in cardiac muscle cells; these are necessary functions in aerobic organisms, including teleost fish. Carrying out these functions typically requires Mb to be expressed at high levels, evidenced by red heart tissue. The table shows the average Mb levels and their standard deviations (indicating how dispersed the Mb levels of individual fish are in relation to the average) of three teleost fish species, as calculated by Daniel J. Macqueen et al. Based on the data, the researchers concluded that for some teleost species, oxygen storage and diffusion may occur with negligible assistance from Mb.
+
+
+A. P. buchholzi had very low Mb levels in their cardiac tissue.
+B. Greater average Mb levels in a certain species were associated with greater variance in Mb levels among individuals of that species.
+C. Less variation in Mb levels was observed among P. buchholzi individuals than among G. petersii and D. rerio individuals.
+D. On average, G. petersii had higher Mb levels in their cardiac tissue than D. rerio and P. buchholzi had.
+Answer: A
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Ray Bradbury’s 1957 novel Dandelion Wine is regularly described as autobiographical. That characterization is apt—there are many parallels between the experiences of the novel’s protagonist, Douglas Spaulding, and those of Bradbury—but it should not be taken to mean that Dandelion Wine displays a strong fidelity to facts. Much of the novel is pure invention. Nevertheless, readers interested in understanding Bradbury as a person can gain considerable insight from the book: Dandelion Wine integrates invented material with Bradbury’s interpretations of his memories, and the novel thus ______.
+
+
+A. provides readers with an objective depiction of circumstances that Bradbury experienced.
+B. showcases many of the literary techniques that made Bradbury popular with readers.
+C. can give readers a sense of how Bradbury perceived certain people and events.
+D. prevents readers from identifying any real-life inspirations for its characters.
+Answer: C
+
+Question 15:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In 1995, the journal *Nature* published the findings of Swiss ___ who famously discovered the first exoplanet orbiting a sun-like star.
+
+
+A. astronomer Michel Mayor,
+B. astronomer Michel Mayor
+C. astronomer, Michel Mayor
+D. astronomer, Michel Mayor,
+Answer: A
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Qhapaq Ñan, _____ over 30,000 kilometers through the rugged Andean cordillera, demonstrates the sophisticated engineering prowess of the Inca Empire.
+
+
+A. stretched
+B. stretching
+C. stretches
+D. stretch
+Answer: B
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Hungary has the world’s 91st shortest constitution (15,247 words). In their 2016 analysis, political ___ presented statistical evidence that shorter constitutions correlate with higher GDPs (gross domestic products); less detailed constitutions, the scientists posit, have fewer provisions that could restrict necessary legislation during periods of economic volatility.
+
+
+A. scientists George Tsebelis and Dominic J. Nardi
+B. scientists George Tsebelis and Dominic J. Nardi,
+C. scientists, George Tsebelis and Dominic J. Nardi,
+D. scientists, George Tsebelis and Dominic J. Nardi
+Answer: A
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In their 2021 analysis of moth populations in the Blue Ridge Mountains, ecologist Dr. Amelia Grant and her research team identified 1,432 moths representing 126 distinct species, including a single specimen of the _______ *Eudocima phalonia*, a highly uncommon species recognized by entomologists for its striking orange patterns.
+
+
+A. species
+B. species;
+C. species:
+D. species,
+Answer: A
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The mathematician Emmy Noether’s groundbreaking theorem, conceptually _____ to illustrate the deep connection between symmetry and conservation laws in physics, remains a celebrated cornerstone of theoretical science.
+
+
+A. serves
+B. serves and,
+C. serving
+D. serves,
+Answer: C
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Neurobiologists recently posited that Arc protein (a crucial immediate early gene product) aggregates found within dendritic spines were likely scaffolds produced by local translation. This postulate, based on proteomic studies of synaptic fractions isolated via synaptoneurosome preparations, is corroborated by the protein primarily originating from mRNA—a transcript that, because of its ______ be rapidly translated by proximal ribosomes using extant machinery.
+
+
+A. localization-could
+B. localization, could
+C. localization could
+D. localization could-
+Answer: B
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Today, the Michelin Guide is widely known as the arbiter of fine dining, but when it was created in 1900, it was little more than a marketing gimmick; brothers Andre and Edouard Michelin sought to increase profits for their tire company by encouraging their customers to drive across France, visiting the guide’s recommended hotels and restaurants along the way. Nevertheless, the guide soon grew in scope and ______ its modest French eateries were replaced with some of the most esteemed restaurants from around the world, including Hajime in Osaka and Kitcho Arashiyama in Kyoto.
+
+
+A. influence and
+B. influence
+C. influence, and
+D. influence,
+Answer: C
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In the early 1920s, researchers at the US Geological Survey determined the geographic center of Michigan using a simple method. First, they attached a string to the middle point of a cardboard cutout of the state and suspended it in the air. _________ they adjusted the suspension point until the cutout hung perfectly flat. Ultimately, this point was determined to be the center.
+
+
+A. Then,
+B. First of all,
+C. Instead,
+D. In other words,
+Answer: A
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Nineteenth-century poet Elizabeth Browning initially composed an early draft of her collection Sonnets from the Portuguese in 1850. In 1855, she performed a major revision, cutting 32 lines in total. ______ it originally comprised 388 lines, whereas the final published version contained only 356.
+
+
+A. Furthermore,
+B. For example,
+C. Meanwhile,
+D. That is,
+Answer: D
+
+Question 24:
+[Synthesis]
+The student wants to emphasize a similarity between the Yanakie Isthmus and the Tayabas Isthmus. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• An isthmus is a strip of land that connects two larger pieces of land across an expanse of water.
+• It is also known as a land bridge.
+• The Yanakie Isthmus is located in Australia.
+• It connects Wilsons Promontory to mainland Victoria.
+• The Tayabas Isthmus is located in the Philippines.
+• It connects the Bicol Peninsula to northern Luzon Island.
+
+
+A. The Tayabas Isthmus connects the Bicol Peninsula to northern Luzon Island.
+B. An isthmus, or land bridge, is a strip of land that connects two larger pieces of land across an expanse of water.
+C. The Yanakie Isthmus is a land bridge, located in Australia.
+D. The Yanakie Isthmus and the Tayabas Isthmus both connect two larger pieces of land across an expanse of water.
+Answer: D
+
+Question 25:
+[Synthesis]
+The student wants to provide a concise explanation of how the CRISPR-Cas9 system enables targeted gene modification. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•CRISPR-Cas9 is a genome-editing technology derived from a bacterial immune system, enabling precise alterations to an organism's DNA.
+•Step 1: A customizable guide RNA (gRNA) molecule, engineered to match a specific target DNA sequence, is joined with the Cas9 protein, a nuclease (an enzyme that cuts DNA).
+•Step 2: This gRNA-Cas9 complex is introduced into a cell, where the gRNA directs the complex to the target DNA sequence.
+•Step 3: Once the gRNA binds to the complementary DNA, the Cas9 enzyme is activated, creating a precise double-strand break (DSB) at that location.
+•Step 4: The cell then utilizes its innate DNA repair machinery to mend the break. Researchers can leverage this stage for editing.
+•Step 5: One repair pathway, non-homologous end joining (NHEJ), often introduces small random mutations that can disable a gene. Another, homology-directed repair (HDR), can use a provided DNA template to insert a new sequence with high fidelity.
+
+
+A. CRISPR-Cas9 is a technology where a gRNA-Cas9 complex is introduced into a cell to make double-strand breaks, which are then repaired by either the NHEJ or HDR pathway.
+B. The CRISPR-Cas9 system modifies genes by first using the Cas9 enzyme to locate a target sequence, which then allows an engineered guide RNA molecule to create a double-strand break for editing.
+C. Utilizing a guide RNA to direct the Cas9 enzyme to a specific genomic locus, the CRISPR-Cas9 system induces a double-strand break that leverages the cell's own repair mechanisms to either disable or precisely edit a target gene.
+D. CRISPR-Cas9 functions by creating a gRNA-Cas9 complex that cuts a target gene and then directly inserts a new DNA template into the break, a process known as non-homologous end joining (NHEJ).
+Answer: C
+
+Question 26:
+[Synthesis]
+The student wants to place Einstein's argument within its historical context. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The fifth Solvay Conference on Physics was held in 1927.
+• It brought together twenty-nine of the era’s preeminent scientists to discuss the emerging field of quantum theory.
+• The conference famously featured a debate between physicists Albert Einstein and Niels Bohr.
+• Bohr proposed that subatomic entities like electrons had only probable realities until they were observed.
+• Einstein argued that subatomic entities like electrons had a reality independent of observation.
+• Bohr’s position, later called the Copenhagen interpretation, remains the most widely accepted theory of quantum mechanics.
+
+
+A. During the dawn of quantum theory, Einstein maintained the “independent reality of some subatomic entities, although Bohr’s opposing interpretation would become the widely accepted view.
+B. The attendees of the 1927 Solvay Conference were among the preeminent scientists of their era, including Einstein, who opposed Bohr’s proposal.
+C. In 1927, Einstein and Bohr engaged in a famous debate; Bohr’s argument, later called the Copenhagen interpretation, would remain popular decades after.
+D. Attendees of the 1927 Solvay Conference among whom were the era’s most brilliant minds, heard Einstein argue for the independent reality of subatomic particles, directly challenging Bohr’s views.
+Answer: A
+
+Question 27:
+[Synthesis]
+The student wants to connect the quotation from Browner with information about Ballard’s composition. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Louis Ballard was a classical composer and citizen of the Quapaw Tribe.
+• He sought to synthesize Western classical music with elements of various Native musical traditions.
+• Ballard’s composition Pan Indian Rhythms incorporates Ute notched sticks, a traditional Native instrument.
+• Ethnomusicologist Tara Browner writes that Ballard’s classical music “relies on Indigenous instruments, rhythms, forms,...and other musical elements.”
+
+
+A. Discussing Ballard’s body of works, Browner observes that it relies on elements of various Native musical traditions.
+B. Browner notes that Ballard’s music “relies on Indigenous instruments, rhythms, forms,...and other musical elements,” further indicating that it synthesizes Western classical music with elements of various Native music traditions.
+C. Consistent with Browner’s observation that Ballard’s music “relies on Indigenous instruments, rhythms, forms,...and other musical elements,” Pan Indian Rhythms incorporates Ute notched sticks.
+D. Browner’s writing discusses Ballard, the classical music composer responsible for Pan Indian Rhythms.
+Answer: C

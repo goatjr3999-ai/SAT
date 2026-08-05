@@ -1,0 +1,375 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Some robots such as Wabian (developed in 1995) and ASIMO (developed in 2011) feature humanoid characteristics like the ability to respond to voice commands so that people will find it easier to interact with them. While these features can help to ______ feelings of comfort in people, a robot that looks too human can fall into the “uncanny valley,” meaning that its appearance unintentionally unsettles those who encounter it.
+
+
+A. constrict
+B. repudiate
+C. counterbalance
+D. buttress
+Answer: D
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Exploring labels from obsolete pharmaceuticals, formulas from early 20th-century chemistry sets, and brochures for discontinued chemical products might appear to be a trivial endeavor, yet ephemeral items like these serve as indicators of scientific progress: they can ____ in norms, scientific practices, and issues that more conventional scientific artifacts might overlook.
+
+
+A. register
+B. vindicate
+C. preclude
+D. induce
+Answer: A
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Studying menus from nineteenth-century restaurants, advertisements for defunct amusement parks, and posters promoting long-forgotten plays may seem like a frivolous pursuit, but ephemeral objects like these are useful as markers of cultural change: they can ___ shifts in norms, values, and concerns that traditional objects of historical inquiry may not.
+
+
+A. induce
+B. vindicate
+C. evince
+D. preclude
+Answer: C
+
+Question 4:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+The following text is adapted from J.M. Barrie's 1911 novel *Peter Pan*.
+ [Children] soon know that they will grow up, and the way Wendy knew was this.
+One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, “Oh, why can’t you remain like this for ever!” This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up.
+
+
+A. It makes a prediction about a future event involving Wendy and then supplies a reason for making that prediction.
+B. It presents a question about Wendy’s qualities and then answers that question in detail.
+C. It states an assumption about children and then considers the ways in which Wendy differs from others.
+D. It makes a claim about children and then illustrates it with a description of Wendy’s experience.
+Answer: D
+
+Question 5:
+[COE]
+According to the text, why are the images beneath the surface of a painting valuable to art historians?
+
+When used to examine paintings, nonvisible light, such as ultraviolet, can penetrate the painting’s visible surface and give art historians important insights into an artist’s process. For example, imaging the underlayers of Artemisia Gentileschi’s _Saint Catherine of Alexandria_ (1618–20) revealed that Gentileschi originally painted her own face on the figure. Imaging can also provide insights into a painter’s choice of materials, showing, for example, whether a painter used titanium oxide pigment in a given work.
+
+
+A. They can indicate whether a painting is damaged.
+B. They can be used to prove which artist painted a given work.
+C. They can show how long a painting took to complete.
+D. They can reveal aspects of an artist’s decision-making.
+Answer: D
+
+Question 6:
+[Cross Text]
+Based on the texts, the author of Text 1 and the author of Text 2 would mostly likely agree with which statement?
+
+Text 1
+Based in Los Angeles, Xipe Totec is among the many groups in the US and Mexico specializing in Danza Mexica. This dance form originated in the 1500s, when the Chichimeca Jonaz and other tribes in Central Mexico began sharing and combining their dances, creating a hybrid with distinctive choreography and regalia. As performed by Xipe Totec, the dance form serves as a link between the Indigenous past and present.
+Text 2
+Danza Mexica—or Danza de los Huehuenches, as it is often known in Mexico—originated in the traditions of specific tribal communities. Since then, however, it has undergone significant stylistic changes and spread beyond its place of origin to the rest of Mexico and, more recently, to Mexican communities in the US. Thus, despite its tribally specific origins, the dance form is best understood as an expression of Mexican culture more generally.
+
+
+A. The regalia and choreography of Danza Mexica will continue to evolve in response to trends in other dance forms in Mexican and Mexican American communities.
+B. The role played by Danza Mexica in Mexican culture is comparable to that played by traditional dances in Chichimeca Jonaz culture.
+C. Xipe Totec and other US-based groups largely succeed in honoring the historical origins of Danza Mexica.
+D. Danza Mexica exhibits critical stylistic differences from the tribally specific dances that contributed to its development.
+Answer: D
+
+Question 7:
+[COE]
+Which finding, if true, would most directly support Martínez and colleagues’ conclusion?
+
+The bird species *Myiobius barbatus* (the bearded flycatcher) shares some territory in French Guiana with *Thamnomanes caesius* (the cinereous antshrike), which emits a loud alarm call when it detects predators. Biologist Ari Martínez and colleagues recorded *T. caesius* alarm calls and played them in the vicinity of wild *M. barbatus*. Finding that the birds often froze in place or scattered into vegetation upon hearing the calls, they concluded that *M. barbatus* associates *T. caesius* alarm calls with danger.
+
+
+A. Other bird species than M. barbatus also showed a tendency to freeze in place or scatter into vegetation when Martínez and colleagues played T. caesius alarm calls.
+B. Martínez and colleagues played alarm calls from different T. caesius individuals and observed no significant variation in the responses of M. barbatus.
+C. In some instances, M. barbatus froze in place or scattered into vegetation when Martínez and colleagues approached but before they began playing sounds.
+D. When Martínez and colleagues played control sounds of random noise in the vicinity of M. barbatus, the birds displayed no reaction.
+Answer: D
+
+Question 8:
+[COE]
+According to the text, which trait do researchers think may contribute to a flat-headed cat’s ability to purr?
+
+Why do flat-headed cats purr but jaguars roar? Researchers hypothesize that this difference between the two feline species may be partly due to a U-shaped bone in their throats called the hyoid. Flat-headed cats, which are much smaller than jaguars, have a rigid hyoid that rumbles when the cat’s larynx vibrates, resulting in a purr. By contrast, jaguars have a somewhat flexible hyoid, and the bone is attached to the skull with a stretchy ligament that flat-headed cats lack. These traits allow jaguars and most other species of big cats to produce powerful roars. The same traits may also prevent most big cats from purring.
+
+
+A. The shape of the flat-headed cat’s larynx
+B. The ligament attaching the hyoid bone to the flat-headed cat’s skull
+C. The flat-headed cat’s rigid hyoid bone
+D. The relative size of the flat-headed cat’s body and throat
+Answer: C
+
+Question 9:
+[Structure]
+Which choice best states the main idea of the text?
+
+Why do some people with high incomes vote for politicians supporting higher taxes on those with high incomes like themselves? Economists Benjamin Enke et al. propose that values are a luxury good: that is, the higher one’s income, the more weight one has the liberty to assign to one’s values when voting. Thus, Enke et al. suggest that although the behavior of high-income earners who advocate for higher taxes may seem counterintuitive, such people likely do so because they feel enabled by their economic security to take a stance they think is morally correct.
+
+
+A. A group of economists asserts that people with relatively high incomes are consequently enabled to take certain considerations into account when voting.
+B. According to a group of economists, politicians who support higher taxes on those with high incomes must convince a sufficient number of people with such incomes to vote against their material interest if the politicians are to be elected.
+C. A team of economists finds that people who vote for higher taxes on those with high incomes are likely to think their moral values coincide with their material interests.
+D. According to a team of economists, the higher a voter’s income, the more likely that voter’s values are to conflict with their material interests.
+Answer: A
+
+Question 10:
+[COE]
+Which choice most effectively uses data from the table to complete the engineer's conclusion?
+
+An engineer is conducting an experiment to measure the effect of an anti-reflective coating on the power output of solar panels. The engineer exposed some panels with the coating and some without the coating to four different levels of light intensity. By comparing the power output data for both coated and uncoated panels, the engineer concluded that _______.
+Solar Panel Power Output at Different Light Intensities with and without Anti-Reflective Coating
+
+
+
+A. 1250 W/m² is the ideal light intensity for maximizing the power output of a solar panel.
+B. for those panels that did not have the coating, differences in light intensity were not associated with differences in power output.
+C. panels with the coating generate more power at 500 W/m² and 750 W/m² than they do at 1000 W/m² and 1250 W/m².
+D.  the anti-reflective coating was associated with a greater absolute increase in power output at 500, 750, and 1000 W/m² than at 1250 W/m².
+Answer: D
+
+Question 11:
+[COE]
+Which finding from the simulation, if true, would most directly support the researchers’ conclusion?
+
+In modern flowering plants, such as the snakebark maple, hierarchical reticulate (netlike) venation, which consists of small veins extending from larger central veins, is common, but the earliest vascular plants had nonhierarchical venation. Researchers conducted a simulation using images of Betula alba (a modern flowering plant) leaves and fossil leaves of Reticulopteris muensteri and Rhacopteris lindsaformis, extinct pteridosperms (seed ferns) with nonhierarchical reticulate and nonhierarchical branching venation, respectively, to assess the impact of insect folivory (leaf-eating) on vascular function in plants with different venation patterns. They concluded that when experiencing folivory, plants may benefit from hierarchical venation.
+
+
+A. Removing central veins in B. alba was much more likely to result in the sudden collapse of vascular function than removing smaller veins in any of the three plant species was.
+B. In B. alba, decline in vascular function was directly proportional to the extent of vein network damage, but in R. muensteri and R. lindsaformis, vascular function declined disproportionately rapidly as loss of vein network increased.
+C. Vascular function was negatively correlated with the extent of damage to the vein network in B. alba but was positively correlated with the extent of damage in both R. muensteri and R. lindsaformis.
+D. At a given percentage of leaf vein loss, vascular function in B. alba and R. muensteri was much more likely to remain unimpeded than it was in R. lindsaformis.
+Answer: B
+
+Question 12:
+[Cross Text]
+Based on the texts, both authors would most likely agree with which statement?
+
+Text 1
+ A study conducted by a marine ecology institute focusing on coral reef systems in Southeast Asia predicts that the clownfish (*Amphiprioninae*) will face significant challenges over the next three decades if ocean temperatures rise as high as some models project. Conversely, the tiger shark (*Galeocerdo cuvier*) is expected to endure even the most extreme warming scenarios with minimal negative effects, indicating that conservation efforts for the clownfish should take priority over those for the tiger shark.
+Text 2
+ Environmental organizations tasked with marine conservation face constraints that prevent them from addressing every threat to biodiversity. These groups rely on scientific data to identify the most vulnerable species and prioritize their conservation strategies accordingly.
+
+
+A. A unified strategy is required to prevent ocean temperatures in Southeast Asia from reaching the upper thresholds predicted by climate models.
+B. Marine conservation organizations in Southeast Asia should allocate more resources to protect clownfish than tiger sharks.
+C. Efforts to conserve clownfish populations are likely to succeed if scientific expertise is combined with local knowledge of the marine ecosystem.
+D. Conservation initiatives for both the clownfish and tiger shark should be launched immediately by all parties involved in marine biodiversity protection.
+Answer: B
+
+Question 13:
+[COE]
+Which quotation from a study of California agriculture best supports the student’s claim?
+
+A student is writing a research paper on the history of irrigation in the state of California, situating the development of the Rowena Reservoir (created in Los Angeles County, California, in 1901) in a larger historical context. The student claims that innovation in irrigation techniques was driven in part by the climate in some parts of the state.
+
+
+A. “Competition for scarce water resources in Southern California inspired the development of sprinkler irrigation systems, a manner of irrigating that requires less use of water than traditional surface irrigation methods.”
+B. “While the low humidity of Southern California’s desert areas makes irrigation a requirement if agriculture is to be a success there, the relatively high humidity in the northern parts of the state makes such practices less necessary.”
+C. “The irrigation system developed by the Hohokam people in the 7th century CE in what is now Arizona was simple but applied hydraulic engineering design features that are still used today in both Arizona and California.”
+D. “The necessity of irrigation infrastructure in California today cannot be overstated, since it is the most common means of conveying water for agricultural use.”
+Answer: A
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Northern Michigan’s Alcona County is among the most rural counties in the United States; the US Census Bureau classified it as 98.9% rural in 2010. Researchers studying populations of counties like Alcona often struggle to recruit and retain participants. Melissa Valerio and colleagues tested whether a method called snowball sampling could improve recruitment and retention. Working in two rural counties, the researchers identified a small number of people who had the characteristics desired for a proposed study and asked them to recruit additional participants from their social networks. Valerio and colleagues found that participants recruited via snowball sampling showed a much higher retention rate than did people recruited by strangers, suggesting that _______ .
+
+
+A. people with relatively small social networks are inherently less likely to be recruited to participate in a study via snowball sampling than are people with relatively large social networks.
+B. snowball sampling is more likely to improve retention rates among rural participants than among nonrural participants.
+C. being recruited to participate in a study by someone with whom one is socially connected may impart a feeling of obligation to persist with participation in the study.
+D. social networks can become large enough that two people can share a network but nevertheless regard each other as strangers.
+Answer: C
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+There are over 150 species of the cactus genus Mammillaria throughout the Americas, but their survival can be threatened by high precipitation and dense vegetation that blocks sunlight. Researchers have located species from the genus in almost every state in Mexico, with several of them, like M. knippeliana, restricted to only one state. The fact that this genus has not been observed in eastern and western Coahuila has been attributed to a lack of appropriate habitat, but much of the landscape in this area is notoriously inaccessible, which suggests that____
+
+
+A. M. knippeliana may have been overlooked in eastern and western Coahuila because of its similarity to another species.
+B. the current methods of collecting and tracking Mammillaria species throughout Mexico may cause an overestimation of the number of species in this genus.
+C. the perceived absence of Mammillaria in eastern and western Coahuila may be due to insufficient exploration of the region.
+D. the dense vegetation and high annual precipitation levels in eastern and western Coahuila impede the ability of Mammillaria species to survive.
+Answer: C
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+To understand what epidemiologists believe to be the predictive value of a citywide wastewater surveillance program _____ to flag viral outbreaks before symptoms become widespread—a public health official must become familiar with the program’s statistical assumptions.
+
+
+A. wastewater genomics—namely,
+B. wastewater genomics, namely
+C. wastewater genomics, namely—
+D. wastewater genomics, namely,
+Answer: A
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Many mechanical calculators were powered by a notched cylinder mechanism called the Leibniz wheel. Leibniz wheel calculators were popular in the first half of the twentieth ____ these ingenious devices were eventually replaced by electronic calculators.
+
+
+A. century,
+B. century
+C. century, but
+D. century that
+Answer: C
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The July Pegasid meteor shower’s brightness typically surpasses that of the Draconid meteor shower due to the interplay of three main factors—namely, the size and composition of the ___ velocity upon entering Earth’s mesosphere, with higher-velocity meteoroids releasing more energy; and atmospheric fluctuations, such as changes in sky conditions.
+
+
+A. meteoroids, their
+B. meteoroids; their
+C. meteoroids. Their
+D. meteoroids—their
+Answer: B
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In a 2020 study, Matthew Stewart et al. concluded that fossilized footprints excavated from ancient lake beds in Saudi Arabia date to between 112,000 and 121,000 years ago. The reliability of the dates that Stewart et al. have posited, which were obtained through processes that determined when buried mineral grains surrounding the footprints were last exposed to sunlight, _______ in part upon the researchers’ exclusion of mineral grains that lacked adequate sun exposure before burial.
+
+
+A. having depended
+B. depending
+C. depend
+D. depends
+Answer: D
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The fungus *Tricholoma matsutake*, commonly referred to as matsutake, is known to establish ectomycorrhizal bonds with certain pine tree species; in many cases, such symbiotic relationships, wherein fungal hyphae make contact with the pine’s root system, ____ extensive networks, which can be used to transport nutrients between trees.
+
+
+A. forming
+B. to form
+C. having formed
+D. form
+Answer: D
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In her work, Mohawk artist Skawennati uses video games and other technologies to explore Native representation and participation in the digital space. Since 1989, Indianapolis’s Eiteljorg Museum has celebrated the work of groundbreaking contemporary Native ______ in 2011, it awarded Skawennati one of its prestigious artist fellowships.
+
+
+A. artists, thus
+B. artists;
+C. artists and
+D. artists,
+Answer: B
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Firefly luciferase (Fluc) is a distinctly evolved enzyme that can oxidize a substrate called D-luciferin to induce bioluminescence and can act as a fatty acyl-CoA synthetase (ACS) enzyme, a class of enzyme present in all insects. ___ Fluc is a bifunctional enzyme whose presence indicates an insect is capable of emitting light; in contrast, the presence of ACS alone would be insufficient for determining bioluminescence.
+
+
+A. In fact,
+B. Moreover,
+C. That is,
+D. Nevertheless,
+Answer: C
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The World Cup of men’ s soccer, one of the biggest sporting events on the planet, brought 32 national teams from six continents to the host country, South Africa, in 2010. ________ only 16 teams, most from Europe and the Americas, competed in the 1954 World Cup in Switzerland.
+
+
+A. For example,
+B. As a result,
+C. In other words,
+D. In comparison,
+Answer: D
+
+Question 24:
+[COE]
+Which choice most effectively uses information from the given sentences to emphasize the size of the crater?
+
+While researching a topic, a student has taken the following notes:
+•Impact craters occur when a large object collides with Earth at high speeds.
+•Examples of such objects include comets and meteorites.
+•Zeleny Gai is an impact crater in Ukraine.
+•Researchers have determined that it was formed around 80 million years ago.
+•The crater has a diameter of approximately 3.5 km.
+
+
+A. When a large object struck what is now Ukraine around 80 million years ago, it created Zeleny Gai, a massive crater measuring 3.5 km in diameter.
+B. Long ago, a crater now known as Zeleny Gai was created when a large object collided with Earth.
+C. Researchers have investigated the formation of Zeleny Gai, an ancient impact crater measuring 3.5 km in diameter located in Ukraine.
+D. Impact craters, like Zeleny Gai in Ukraine, are formed when a massive object collides with Earth, creating depressions in the land.
+Answer: A
+
+Question 25:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Plant species known as metal hyperaccumulators can help remove heavy metal pollutants from soil.
+Thalaspi caerulescens, or alpine pennygrass, for instance, can absorb a large quantity of cadmium and store it safely in its roots and shoots. ______ the plant’s roots may not reach far enough into the soil to eliminate the pollutant entirely.
+
+
+A. On the contrary,
+B. Moreover,
+C. Still,
+D. For this reason,
+Answer: C
+
+Question 26:
+[COE]
+The student's goal is to synthesize Soto's quotation with information from Vance's study. Which choice most effectively accomplishes this?
+
+While researching a topic, a student has taken the following notes:
+Dr. Arlo Vance is an ecologist known for his expertise in animal adaptation.
+The investigation of how animal morphology synthesizes with environmental features for camouflage is a focus of his research.
+In a study by Vance, the tail of the leaf-tailed gecko is highlighted for its resemblance to a decaying leaf.
+A statement by biologist Elena Soto describes Vance's research as focusing on species with "specialized morphological features that make them virtually indistinguishable from their surroundings."
+
+
+A. A focus in Vance's research is on animal camouflage, which, as Soto notes, often involves the blending of an animal with its environment.
+B. Soto's observation that some species have "specialized morphological features that make them virtually indistinguishable from their surroundings" is a key theme in Vance's investigation into animal evolution.
+C. The leaf-tailed gecko study by Vance is discussed in Soto's writing on the ecologist's work.
+D. The leaf-tailed gecko's tail, which resembles a decaying leaf, is a prime example of what biologist Elena Soto described as the "specialized morphological features that make them virtually indistinguishable from their surroundings" found in Vance's research.
+Answer: D
+
+Question 27:
+[Synthesis]
+The student wants to emphasize the effect media had on building Wong Fei-hung’s legacy. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Little is known about the life of Wong Fei-hung (1847–1925).
+• He was born near Foshan, China, and gained local recognition as a physician and Hung Ga (also known as Hung Gar) Kung Fu master.
+• He achieved many incredible martial arts feats—some confirmed and some rumored.
+• He has become an internationally known folk hero thanks to his depiction in over a hundred films, television shows, and other media.
+• In the 1991 film *Once Upon a Time in China*, actor Jet Li portrays Wong Fei-hung using superhuman kung fu abilities to save his community.
+
+
+A. Thanks to his depiction in over a hundred pieces of media, Wong Fei-hung was locally known as a successful physician and Hung Ga Kung Fu master.
+B. Wong Fei-hung’s abilities as a kung fu master are depicted in many media, including the 1991 film Once Upon a Time in China.
+C. Various media have depicted Wong Fei-hung, the successful physician and kung fu master who became an internationally known folk hero.
+D. Though he was known locally during his lifetime, Wong Fei-hung’s later depiction in television, film, and other media has turned him into an internationally known folk hero.
+Answer: D

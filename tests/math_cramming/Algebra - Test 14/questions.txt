@@ -1,0 +1,93 @@
+Question 1:
+The function {{MATH_1}} is defined by {{MATH_2}}, and {{MATH_3}}, where a is a constant. What is the value of a?
+
+A. {{MATH_4}}
+B. {{MATH_5}}
+C. {{MATH_6}}
+D. {{MATH_7}}
+Answer: A
+
+Question 2:
+The table shows values of x and their corresponding values of y for three points on line j in the xy-plane.
+
+Line k also lies in the xy-plane and is defined by the equation {{MATH_8}}. At what point {{MATH_9}} do lines j and k intersect?
+
+A. {{MATH_10}}
+B. {{MATH_11}}
+C. {{MATH_12}}
+D. {{MATH_13}}
+Answer: A
+
+Question 3:
+{{MATH_14}}
+The function h estimates an object's height, in feet, above the ground t seconds after the object is dropped, where b is a constant. The function estimates that the object is 19.36 feet above the ground when it is dropped at {{MATH_15}}. How many seconds after being dropped does the function estimate the object will hit the ground? (dien so thap phan)
+
+Answer: 1.1
+
+Question 4:
+{{MATH_17}}
+How many solutions does the given equation have?
+
+A. Zero
+B. One
+C. Two
+D. Infinitely many
+Answer: A
+
+Question 5:
+The function h is defined by {{MATH_18}} , where a and b are positive constants. The graph of {{MATH_19}} in the xy-plane passes through the points (0, 10) and (2, 13). What is the value of ab?
+
+A. {{MATH_20}}
+B. {{MATH_21}}
+C. {{MATH_22}}
+D. {{MATH_23}}
+Answer: B
+
+Question 6:
+The function {{MATH_24}} is defined by {{MATH_25}}. For any positive integer n, the value of {{MATH_26}} is p% less than the value of {{MATH_27}}. What is the value of p?
+
+A. {{MATH_28}}
+B. {{MATH_29}}
+C. {{MATH_30}}
+D. {{MATH_31}}
+Answer: D
+
+Question 7:
+{{MATH_32}}
+In the given equation, k is a constant. The equation has exactly one real solution. What is the value of k?
+
+A. {{MATH_33}}
+B. {{MATH_34}}
+C. {{MATH_35}}
+D. {{MATH_36}}
+Answer: A
+
+Question 8:
+{{MATH_37}}
+{{MATH_38}}
+In the given system of equations, m and b are negative constants. In the xy-plane, the graphs of the equations in the given system intersect at the point {{MATH_39}}, where {{MATH_40}}. Which expression represents the value of b?
+
+A. {{MATH_41}}
+B. {{MATH_42}}
+C. {{MATH_43}}
+D. {{MATH_44}}
+Answer: D
+
+Question 9:
+A biologist mixed a solution that is 0.3% sodium chloride by mass with a solution that is 0.15% sodium chloride by mass to obtain a new solution, which has a mass of 80 grams and contains 0.21 grams of sodium chloride. How many grams of 0.3% sodium chloride solution did the biologist use?
+
+A. {{MATH_45}}
+B. {{MATH_46}}
+C. {{MATH_47}}
+D. {{MATH_48}}
+Answer: C
+
+Question 10:
+{{MATH_49}}
+An engineer connects resistors in series, where the resistors in the series have a total resistance of {{MATH_50}} ohms. In this series, there are x resistors of type A, which each have a resistance of a ohms, and y resistors of type B, which each have a resistance of b ohms. The given equation represents this situation. According to this equation, what is the positive difference between the value of a and the value of b?
+
+A. {{MATH_51}}
+B. {{MATH_52}}
+C. {{MATH_53}}
+D. {{MATH_54}}
+Answer: D

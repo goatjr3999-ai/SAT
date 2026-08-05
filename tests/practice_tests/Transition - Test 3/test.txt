@@ -1,0 +1,240 @@
+Question 1:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A 1990 study of schooling fish observed the fish mimicking the behavior of school-mates rapidly swimming away from a predator. This is an example of an information cascade that benefits the collective. _____ the animal world is at times susceptible to the spread of misinformation, often with unfavorable results: a 2010 study of semipalmated sandpipers concluded that fleeing in response to flock-mates’ false alarms caused the birds to abandon safe nesting grounds unnecessarily.
+
+A. In other words,
+B. Conversely,
+C. Indeed,
+D. Consequently,
+Answer: B
+
+Question 2:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Joseph Goodrich was an outspoken abolitionist whose Wisconsin home was a stop on the underground railroad (the network of people and places that some enslaved people used to escape to freedom). _____ supporters of the railroad were secretive about their antislavery views. By and large, they were vocal abolitionists like Goodrich.
+
+A. Occasionally,
+B. For example,
+C. Accordingly,
+D. However,
+Answer: A
+
+Question 3:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Mountain climbing routes that incorporate metal rungs and cables are known as via ferratas, from the Italian phrase for "iron path." As climbing these routes has shifted from a mode of travel to a sporting activity, modern via ferratas are rarely designed to simply reach a summit. ______ new routes favor recreation over utility, aiming to provide a challenging climb or showcase dramatic scenery.
+
+A. Nonetheless,
+B. On the other hand,
+C. Additionally,
+D. More often,
+Answer: D
+
+Question 4:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Before the first railroads were built in Australia, engineers warned against using multiple track widths across the continent. _____ regional officials couldn’t agree on a single-width system. Thus, railways in Queensland, like the Durundur Railway, were made using narrow tracks, while those in Victoria were built with wide tracks.
+
+A. For this reason,
+B. In other words,
+C. Similarly,
+D. Still,
+Answer: D
+
+Question 5:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In the Southeast Asian country of Indonesia, the percentage of the population living in cities rose from 53.9% to 56.6% between 2015 and 2020. _____ urbanization rates climbed across Southeast Asia as a whole, rising 2.8 percentage points in that five-year period.
+
+A. For example,
+B. Eventually,
+C. In other words,
+D. Concurrently,
+Answer: D
+
+Question 6:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In her 2017 poem “The Kiss,” Sasha Pimentel contemplates Gustav Klimt’s painting The Kiss, presenting a nuanced imaginative response to Klimt’s piece that goes beyond mere description. _____ rather than simply presenting the painting’s elements in a straightforward way, Pimentel uses the painting’s depiction of a couple embracing as a vehicle for exploring themes of beauty and love.
+
+A. Meanwhile,
+B. That is,
+C. Furthermore,
+D. For example,
+Answer: D
+
+Question 7:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A team of ornithologists documented patterns of conspecific brood parasitism among wood ducks (Aix sponsa) in California. The researchers observed several female wood ducks visiting dozens of nesting sites and laying eggs to be incubated by other nesting A. sponsa. Subject 7F64B, _____ visited a select few nesting sites before laying and incubating her eggs herself.
+
+A. for example,
+B. in particular,
+C. similarly,
+D. alternatively,
+Answer: D
+
+Question 8:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In his 2020 poem “This Town,” Saad Ali contemplates Ivan Aivazovsky’s 1859 painting Lunar Night on the Black Sea.Translating the painting's depiction of a seascape into vivid figurative phrases—such as “a dozen sea shells converse”—Ali suggests the fluid interplay of poetry and painting. ______ Ali’s poem highlights fundamental tensions between these modes of representation.
+
+A. At the same time,
+B. Therefore,
+C. Specifically,
+D. In other words,
+Answer: A
+
+Question 9:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+According to Einstein's theory of general relativity, gravity should not be understood as a force pulling objects toward one another across empty space. ______ it is the curvature of spacetime itself, caused by the presence of mass and energy, that dictates how objects move. This geometric framework for understanding gravity can be used to explain phenomena from the orbits of planets to the bending of light from distant stars.
+
+A. For example,
+B. Rather,
+C. Accordingly,
+D. Likewise,
+Answer: B
+
+Question 10:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A team led by Portuguese researcher Isabel C.F.R. Ferreira found that many species of mushrooms contain chemicals called phenolic compounds, such as protocatechuic acid and biochanin. _____ Ferreira detected protocatechuic acid in Agaricus bisporus mushrooms and biochanin in Ganoderma lucidum mushrooms.
+
+A. Nevertheless,
+B. However,
+C. For this reason,
+D. For example,
+Answer: D
+
+Question 11:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A tech startup may select a name that stands out and is as innovative as possible. _____ they could name themselves after a groundbreaking technology or concept that inspires them. This mirrors the approach of the Silicon Valley-based AI company Neuralink, which named itself after the concept of "neural links," reflecting advancements in brain-computer interfaces.
+
+A. Therefore,
+B. Alternatively,
+C. In other words,
+D. For example,
+Answer: B
+
+Question 12:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+William Shakespeare likely arrived in London as early as 1585, at the age of 21, to pursue a career in the theater. Little is known of his early years there, but by 1593 he was becoming known for plays such as Richard III. ____ in 1599, he would delight audiences with Much Ado About Nothing, considered by some to be one of his greatest works.
+
+A. In other words,
+B. Conversely,
+C. Thus,
+D. Later,
+Answer: D
+
+Question 13:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The Madison is a type of line dance that involves neat rows of dancers performing a repeated sequence of steps in unison. ____ many other dances are also defined by order, repetition, and synchronicity, but the Madison is distinguished by its extreme uniformity; when an auditorium full of dancers performs the Madison, one almost gets the impression of a military march.
+
+A. Of course,
+B. However,
+C. Specifically,
+D. Moreover,
+Answer: A
+
+Question 14:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In evolutionary biology, Lynn Margulis's theory of endosymbiosis—which posits that eukaryotic cells evolved from the merging of separate prokaryotic organisms—is a significant challenge to the strictly competition-based model of evolution that has dominated the field for decades. ______ Margulis's theory introduces a new perspective on the fundamental mechanisms of evolutionary change and the origins of cellular complexity.
+
+A. For example,
+B. By contrast,
+C. As such,
+D. That said,
+Answer: C
+
+Question 15:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Pennsylvania politician and writer Samuel Bryan strategically adopted the pen name “Centinel” when voicing disapproval of the ratification of the US Constitution in the Philadelphia Independent Gazetteer. Publishing pseudonymously offered a number of advantages, such as shielding a writer from criticism and controversy. _____ by removing a potential source of bias (the writer’s name), it encouraged readers to focus on an essay’s arguments.
+
+A. In other words,
+B. Specifically,
+C. For example,
+D. Moreover,
+Answer: D
+
+Question 16:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Ugandan American professor Peter Nazareth believed that Elvis Presley's music is best understood not as a homogeneous collection but as an anthology (because Elvis showcased the contributions of a wide range of gospel, blues, and rock artists). ____ Nazareth entitled his college course on Elvis and his music, which focused on Elvis's many musical influences, "Elvis as an Anthology."
+
+A. In addition,
+B. In sum,
+C. That is,
+D. To that end,
+Answer: D
+
+Question 17:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As a federalist, New York physician and writer Charles McKnight favored the US Constitution’s provisions for a strong centralized government and supported the document’s ratification; ____ essays he published in the New-York Journal in December 1787 under the pseudonym “Examiner” disparaged the arguments of the anti-federalists, who opposed the Constitution’s adoption.
+
+A. in other words,
+B. fittingly,
+C. by comparison,
+D. nevertheless,
+Answer: B
+
+Question 18:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The traditional process of Turkish paper marbling (ebru) generally proceeds like this: First, the artisan fills a shallow tray with a water-bath solution. Next, the artisan adds inks or paints to the solution, which can then be manipulated into intricate designs. _____ the artisan slips paper in and out of the liquid, transferring the design onto the paper.
+
+A. Nevertheless,
+B. Therefore,
+C. Actually,
+D. Finally,
+Answer: D
+
+Question 19:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Marcel Duchamp intended his 1917 so-called ready-made sculpture Fountain to challenge then-prevailing conceptions about the nature of art. _____ Duchamp’s Fountain did just that, raising the question of whether displaying any object in an art gallery could be said to transform the object—even, as Duchamp’s sculpture was, a urinal—into a legitimate work of art.
+
+A. Instead,
+B. In addition,
+C. Similarly,
+D. Indeed,
+Answer: D
+
+Question 20:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+French mathematician Michel Talagrand has shown that over large numbers of trials, variables that appear to be independent and random are in fact extremely likely to cluster around an average. _____ according to Talagrand’s research, if you flip a coin 1,000 times, there is a 99.7% probability that the coin will land heads side up between 450 and 550 times.
+
+A. In addition,
+B. However,
+C. For instance,
+D. In comparison,
+Answer: C
+

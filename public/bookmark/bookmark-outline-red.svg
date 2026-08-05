@@ -1,0 +1,15 @@
+<!-- bookmark-solid-red.svg -->
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+>
+  <!-- Hình bookmark full fill đỏ -->
+  <path
+    d="M6 3h12v18l-6-4-6 4z"
+    fill="#ef4444"
+    stroke="#ef4444"
+    stroke-linejoin="round"
+  />
+</svg>

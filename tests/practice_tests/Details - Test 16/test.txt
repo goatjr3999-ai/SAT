@@ -1,0 +1,61 @@
+Question 1:
+[Details]
+Which choice best describes the function of the references to "neighborhood type" and "individual physical fitness" in the text as a whole?
+
+Lisbon has high pedestrian traffic, but simply replicating a feature of Lisbon associated with walkability—e.g., its high number of relatively short blocks—may be insufficient to induce increased walking in other cities. As urbanist Mariella Alfonzo argues, our understanding of individuals' decision-making about whether to walk is insufficiently robust: some studies emphasize the role of neighborhood type, others the role of individual physical fitness, and so on, but walking decisions are made in complex contexts in which multiple conditions and needs inform individuals' choices.
+
+A. They are examples of factors that studies suggest are important in people's decision-making about walking but that the text claims most people rarely consider when making walking decisions.
+B. They represent factors that have been identified as important influences on walking decisions but that the text suggests are merely some of the many factors that may contribute to people's decision-making about walking.
+C. They illustrate factors that researchers believe people consider when making walking decisions in most contexts but that the text argues are unique to walking decisions made by people in Lisbon.
+D. They identify factors that Alfonzo argues have been overemphasized in studies of decision-making about walking but that the text asserts are relevant to most people's walking decisions.
+Answer: B
+
+Question 2:
+[COE]
+Which quotation from a translation of The Underdogs most effectively illustrates the claim?
+
+The Underdogs is a 1915 novel by Mariano Azuela, originally written in Spanish. In the novel, Azuela depicts a traveling group of soldiers as having a renewed sense of agency and authority as they set off on a new stage of their journey: ___
+
+A. “The sonorous, joyful bells rang again. From within the church, the honeyed voices of a female chorus rose melancholy and grave.”
+B. “All day long [the soldiers] rode through the canyon, up and down the steep, round hills, dirty and bald as a man’s head, half after hill in endless succession. At last, late in the afternoon, they described several stone church towers in the heart of a bluish ridge, and, beyond, the white road with its curling spirals of dust and its gray telegraph poles.”
+C. “The men threw out their chests as if to breathe the widening horizon, the immensity of the sky, the blue from the mountains and the fresh air, redolent with the various odors of the sierra. They spurred their horses to a gallop as if in that mad race they laid claims of possession to the earth.”
+D. “Before Juchipila was lost from sight, Valderrama got off his horse, bent down, kneeled, and gravely kissed the ground.”
+Answer: C
+
+Question 3:
+[COE]
+Which choice best describes the main purpose of the text?
+
+In Egypt, use of solid fuel (e.g., coal, wood) as a share of total household fuel use fell by more than 90 percent between 2000 and 2015; such shifts are often explained by appeal to the energy ladder, a model holding that fuel choice is mediated mainly by household income (specifically, high-technology fuels displace solid fuels as incomes rise). Alemu Mekonnen and Gunnar Köhlin’s study of fuel use in Ethiopia shows this model to be reductive, however: household fuel use was heterogeneous, flexible, and influenced by several factors, including the local availability of different fuel sources.
+
+A. To contrast patterns in household fuel use in two countries
+B. To account for the effect of fuel use on household income
+C. To critique a frequently used model of changes in household fuel prices
+D. To challenge a common explanation for households’ fuel choices
+Answer: D
+
+Question 4:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+In Egypt, use of solid fuel (e.g., coal, wood) as a share of total household fuel use fell by more than 90 percent between 2000 and 2015; such shifts are typically explained by appeal to the energy ladder, a model holding that fuel choice is mediated mainly by household income (specifically, high-technology fuels displace solid fuels as incomes rise). Alemu Mekonnen and Gunnar Köhlin’s study of fuel use in Ethiopia shows how reductive this model is, however: __although income of course constrained fuel choice__, several circumstances, including the local availability of different fuel sources, influenced decisions.
+
+A. It anticipates a potential objection to the description of a model that the text provides.
+B. It admits the superficial plausibility of an assumption that the text presents as lacking any empirical support.
+C. It acknowledges the role played by a factor whose importance the text suggests has been overstated.
+D. It concedes that a finding may not appear to support the main view that the text advances.
+Answer: C
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined portion of the text?
+
+The following text is adapted from Adib Khorram’s 2018 novel "Darius the Great Is Not Okay." The narrator, Darius, is a teenager visiting family in Iran. He and his friend Sohrab are at the entrance of the ruins of the ancient city of Persepolis.
+“The Gate of All Nations,” Sohrab said. He gestured to the lamassus [sculptures] and pillars surrounding us. “That’s the name in English.” It wasn’t much of a gate anymore, since anyone of any nation could have easily stepped around it instead of walking through. But it was still amazing. Behind the lamassu, more __columns sprouted from the ground like ancient trees in a petrified forest__, forty feet tall, spindly but still miraculously upright. Giant stone slabs formed the remains of what must once have been a breathtaking structure.
+
+A. It presents an image to illustrate what one part of the ruins looks like.
+B. It emphasizes that the narrator already knows a lot about the city.
+C. It suggests that the narrator had expected to visit a forest.
+D. It indicates the specific time in the past when the buildings became ruins.
+Answer: A
+

@@ -1,0 +1,130 @@
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+Tatiana R. Feuerborn and colleagues analyzed the genomes of more than a hundred domesticated dogs from sites in Siberia dating from 11,000 years ago to the present. They found that the dogs constituted a genetically isolated population of Arctic breeds until approximately 2,000 years ago, at which point there was substantial interbreeding with Near Eastern dog breeds. Furthermore, beginning around 2,000 years ago, some sites contain artifacts consistent with a Near East origin, like glass beads, but the people show no evidence of having traveled extensively outside Siberia. From this, Feuerborn and colleagues concluded that around 2,000 years ago ____.
+
+
+A. dogs and artifacts like glass beads began to be transported from the Near East to Siberia.
+B. people from Siberia began to reach the Near East, where they acquired dogs and artifacts such as glass beads.
+C. glass beads and other artifacts from the Near East began to be exchanged for dogs from Siberia.
+D. dogs from the Near East began to be exchanged for glass beads and other artifacts from Siberia.
+Answer: A
+
+Question 2:
+[Infer]
+Which choice most logically completes the text?
+
+To better understand the burrowing habits of *Alpheus bellulus* (the tiger pistol shrimp), some studies have used resin casting to obtain precise measurements of the shrimps’ burrows. Resin casting involves completely filling an empty burrow with a liquid plastic that hardens to create a three-dimensional model; however, recovering the model inevitably requires destroying the burrow. In their 2022 study, Miyu Umehara and colleagues discovered that an x-ray computed tomography (CT) scanner can accurately record a burrow’s measurements both at a moment in time and throughout the entire burrow-building process, something that’s impossible with resin casting because ____.
+
+
+A. it can only be used on burrows below a certain size.
+B. it does not allow for multiple castings of the same burrow over time.
+C. the casting process takes more time than A. bellulus takes to construct a burrow.
+D. the process of recovering the model distorts the resin’s shape.
+Answer: B
+
+Question 3:
+[Infer]
+Which choice most logically completes the text?
+
+A team of biologists led by Jae-Hoon Jung, Antonio D. Barbosa, and Stephanie Hutin investigated the mechanism that allows *Arabidopsis thaliana* (thale cress) plants to accelerate flowering at high temperatures. They replaced the protein ELF3 in the plants with a similar protein found in another species (stiff brome) that, unlike *A. thaliana*, displays no acceleration in flowering with increased temperature. A comparison of unmodified *A. thaliana* plants with the altered plants showed no difference in flowering at 22° Celsius, but at 27° Celsius, the unmodified plants exhibited accelerated flowering while the altered ones did not, which suggests that ____.
+
+
+A. temperature-sensitive accelerated flowering is unique to A. thaliana.
+B. A. thaliana increases ELF3 production as temperatures rise.
+C. ELF3 enables A. thaliana to respond to increased temperatures.
+D. temperatures of at least 22° Celsius are required for A. thaliana to flower.
+Answer: C
+
+Question 4:
+[Infer]
+Which choice most logically completes the text?
+
+One challenge when researching whether holding elected office changes a person’s behavior is the problem of ensuring that the experiment has an appropriate control group. To reveal the effect of holding office, researchers must compare people who hold elected office with people who do not hold office but who are otherwise similar to the office‐holders. Since researchers are unable to control which politicians win elections, they therefore ____.
+
+
+A. struggle to find valid data about the behavior of politicians who do not currently hold office.
+B. can only conduct valid studies with people who have previously held office rather than people who presently hold office.
+C. should select a control group of people who differ from office holders in several significant ways.
+D. will find it difficult to identify a group of people who can function as an appropriate control group for their studies.
+Answer: D
+
+Question 5:
+[Infer]
+Which choice most logically completes the text?
+
+Geoglyphs are large‐scale designs of lines or shapes created in a natural landscape. The Nazca Lines were created in the Nazca Desert in Peru by several Indigenous civilizations over a period of many centuries. Peruvian archaeologist Johny Isla specializes in these geoglyphs. At a German exhibit about the Nazca Lines, he saw an old photograph of a large geoglyph of a whalelike figure and was surprised that he didn’t recognize it. Isla returned to Peru and used a drone to search a wide area, looking for the figure from the air. This approach suggests that Isla thought that if he hadn’t already seen it, the whalelike geoglyph ____.
+
+
+A. must represent a species of whale that went extinct before there were any people in Peru.
+B. is actually located in Germany, not Peru, and isn’t part of the Nazca Lines at all.
+C. is probably in a location Isla hadn’t ever come across while on the ground.
+D. was almost certainly created a long time after the other Nazca Lines geoglyphs were created.
+Answer: C
+
+Question 6:
+[Infer]
+Which choice most logically completes the text?
+
+During the Bourbon Restoration in France (1814–1830), the right to vote required in part that a person paid at least 300 francs in direct taxes to the government. The four most common taxes (the *quatre vieilles*) were levied on real estate (both land and buildings); the doors and windows in taxpayer homes; the rental values of homes; and the businesses of artisans and merchants. (Foreign investments were either exempt from taxation or taxed lightly.) Although relatively few people paid the tax on real estate, it was the main means of voter qualification and accounted for over two-thirds of government receipts during this period, suggesting that during the Bourbon Restoration ____.
+
+
+A. those people who had the right to vote most likely had substantial holdings of French real estate.
+B. the voting habits of French artisans and merchants were effective in reducing tax burdens on businesses.
+C. the number of doors and windows in French residences was kept to a minimum but increased after 1830.
+D. French people with significant foreign investments were unlikely to have the right to vote.
+Answer: A
+
+Question 7:
+[Infer]
+Which choice most logically completes the text?
+
+Laura Mulvey has theorized that in narrative film, shots issuing from a protagonist’s point of view compel viewers to identify with the character. Such identification is heightened by “invisible editing,” or editing so inconspicuous that it renders cuts between shots almost unnoticeable. Conversely, Mulvey proposes that conspicuous editing or an absence of point-of-view shots would induce a more critical stance toward a protagonist. Consider, for example, the attic scene in Alfred Hitchcock’s *The Birds*, a conspicuously edited sequence of tens of shots, few of which correspond to the protagonist’s point of view. According to Mulvey’s logic, this scene should affect viewers by ____ .
+
+
+A. obscuring their awareness of the high degree of artifice involved in constructing the montage.
+B. lessening their identification with the protagonist, if not alienating them from the character altogether.
+C. compelling them to identify with the film’s director, whose proxy is the camera, and not with the protagonist.
+D. diverting their attention away from the film’s content and toward its stylistic attributes.
+Answer: B
+
+Question 8:
+[Infer]
+Which choice most logically completes the text?
+
+The increased integration of digital technologies throughout the process of book creation in the late 20th and early 21st centuries lowered the costs of book production, but those decreased costs have been most significant in the manufacturing and distribution process, which occurs after the authoring, editing, and design of the book are complete. This suggests that in the late 20th and early 21st centuries, ____ .
+
+
+A. digital technologies made it easier than it had been previously for authors to write very long works and get them published.
+B. customers generally expected the cost of books to decline relative to the cost of other consumer goods.
+C. publishers increased the variety of their offerings by printing more unique titles but also printed fewer copies of each title.
+D. the costs of writing, editing, and designing a book were less affected by the technologies used than were the costs of manufacturing and distributing a book.
+Answer: D
+
+Question 9:
+[Infer]
+Which choice most logically completes the text?
+
+A heliograph is a semaphore device used for sending optical communications—usually in the form of Morse code—by reflecting flashes of sunlight off a mirror. Heliographs were used for rapid communication across expansive distances for military, surveying, and forestry purposes during the late nineteenth and early twentieth centuries, but they were largely effective only during the daytime, and the range of the device depended on factors such as the opacity of the air and line of sight. Therefore, heliographs were eventually replaced by technology that ____.
+
+
+A. worked on similar principles but was easier to produce and maintain.
+B. was not so constrained by environmental circumstances.
+C. could be used for more than military, surveying, or forestry purposes.
+D. enabled communication that didn’t require knowledge of Morse code.
+Answer: B
+
+Question 10:
+[Infer]
+Which choice most logically completes the text?
+
+In a study of the cognitive abilities of white-faced capuchin monkeys (*Cebus imitator*), researchers neglected to control for the physical difficulty of the tasks they used to evaluate the monkeys. The cognitive abilities of monkeys given problems requiring little dexterity, such as sliding a panel to retrieve food, were judged by the same criteria as were those of monkeys given physically demanding problems, such as unscrewing a bottle and inserting a straw. The results of the study, therefore, ____.
+
+
+A. could suggest that there are differences in cognitive ability among the monkeys even though such differences may not actually exist.
+B. are useful for identifying tasks that the monkeys lack the cognitive capacity to perform but not for identifying tasks that the monkeys can perform.
+C. should not be taken as indicative of the cognitive abilities of any monkey species other than C. imitator.
+D. reveal more about the monkeys’ cognitive abilities when solving artificial problems than when solving problems encountered in the wild.
+Answer: A
+

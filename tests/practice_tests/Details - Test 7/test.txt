@@ -1,0 +1,127 @@
+Question 1:
+[COE]
+It can most reasonably be inferred from the text that the finding about the catalyst composition was important for which reason?
+
+To discern how thermal variation impacts catalyst-mediated conversion of chemical reactants in industrial reactors, John Doe et al. extracted catalyst-bed samples from Reactor A operating at approximately 200°C and transferred them to Reactor B, where the ambient temperature was elevated by 2°C. Conversion rates driven by the catalyst were accelerated in the relocated samples; notably, the catalyst composition remained unchanged, permitting Doe et al. to ascribe the enhancement to temperature-induced increases in catalyst activity.
+
+A. It offered initial proof that catalyst-mediated conversion rates were heightened in the relocated samples.
+B. It implied that temperature-induced modifications in catalyst performance might be occurring under elevated operating conditions.
+C. It eliminated a possible alternative justification for the enhanced catalyst-mediated conversion rates.
+D. It clarified that catalyst activity levels in the reactor samples differed based on the specific catalysts present.
+Answer: C
+
+Question 2:
+[COE]
+The researcher wants to make a generalization about tropical flowering plants. Which choice most effectively uses relevant details from the notes to achieve this?
+
+While researching a topic, a student has taken the following notes:
+• The human nose contains receptors that detect a variety of floral scents.
+• Certain floral compounds are present in plants such as jasmine and lavender.
+• Participants in an experiment smelled a sample of ylang-ylang, a tropical flowering plant.
+• They rated its floral scent intensity as moderate.
+• The participants smelled a sample of gardenia, another tropical flowering plant.
+• They rated its floral scent intensity as high.
+
+A. Some tropical flowering plants emit scents that activate floral receptors in the human nose.
+B. Ylang-ylang and gardenia are two examples of tropical flowering plants.
+C. Participants in a study evaluated the floral scent intensity of multiple plants.
+D. In a scientific study, participants assessed the floral scent intensity of ylang-ylang and gardenia, two tropical flowering plants.
+Answer: A
+
+Question 3:
+[COE]
+Which quotation from “A Pair of Silk Stockings” most effectively illustrates the claim?
+
+"A Pair of Silk Stockings" is an 1897 short story written by Kate Chopin. In the story, Mrs. Sommers attends a play, which she experiences as a temporary escape from the circumstances of her daily life: ______.
+
+A. “The play was over, the music ceased, the crowd filed out. It was like a dream ended.”
+B. “But there were vacant seats here and there, and into one of them she was ushered, between brilliantly dressed women who had gone there to kill time and eat candy and display their gaudy attire.”
+C. “It was a little later when she entered the theatre, the play had begun and the house seemed to her to be packed.”
+D. “When she entered [the restaurant] her appearance created no surprise, no consternation, as she had half feared it might.”
+Answer: A
+
+Question 4:
+[COE]
+The text makes which point about the people at the gathering?
+
+The following text is from Virginia Woolf's 1919 novel Night and Day. The narrator describes a gathering of artists and intellectuals.
+One person after another rose, and, as with an ill-balanced axe, attempted to hew out his conception of art a little more clearly, and sat down with the feeling that, for some reason which he could not grasp, his strokes had gone awry. As they sat down they turned almost invariably to the person sitting next them, and rectified and continued what they had just said in public.
+
+A. Each is contemptuous of the other attendees but strives to impress them.
+B. Each fails at presenting a wholly coherent vision of art but does not understand why.
+C. Each becomes entangled in a debate about art, and no one knows how to resolve the debate.
+D. Each delights in speaking publicly about abstract subjects but detests speaking privately about them.
+Answer: B
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined portion of the text?
+
+While captive chimpanzees are known to learn tool use, wild chimpanzees had not been observed using tools until recently, when scientists documented chimpanzees near Kibale Forest in Uganda utilizing tools to extract insects from tree hollows and seeds from the Mbira fruit. What could account for this group’s use of tools? It seems unlikely that the Kibale chimpanzees are inherently more intelligent; captive chimpanzees have already shown that the species possesses the cognitive ability to use tools. An alternative explanation could be environmental. Whereas earlier studies focused on chimpanzees living in arid woodland regions, the Kibale chimpanzees inhabit a dense rainforest where insects thrive in tree hollows and Mbira fruit is plentiful. However, __in other regions where Mbira also grows, chimpanzees do gather its seeds__, but without tools, they collect fewer seeds than their Kibale counterparts.
+
+A. to explain why chimpanzees living in drier woodlands seemingly do not use tools to gather food
+B. to propose an alternative to the environmental explanation for Kibale chimpanzees’ tool use
+C. to illustrate how the environment might affect cognitive development in chimpanzee populations
+D. to imply that the Kibale chimpanzees’ tool use cannot be fully attributed to the availability of specific foods in their environment
+Answer: D
+
+Question 6:
+[COE]
+According to the text, what is a difference between how historians view Leszek and how they view Władysław I Herman?
+
+Historians point to the rule of the Piast dynasty as crucial to the formation of the Polish state. However, some differentiate between members of the dynasty like Władysław I Herman, who ruled as duke from 1079 to 1102 CE, and the less well-documented Leszek the White, who is said to have ruled in the 9th and 10th centuries but whose historical actuality is disputed. Leszek appears in the Gesta principum Polonorum, a chronicle of medieval Polish history written between 1112 and 1118. However, the chronicle's documentation of Leszek relies on oral tradition, unlike its records of later rulers.
+
+A. Historians believe that the Gesta principum Polonorum provides more evidence for Leszek's existence than it does for Władysław I Herman's existence.
+B. Historians agree that Władysław I Herman existed, but disagree about whether Leszek existed.
+C. Historians agree that Leszek ruled Poland much later than Władysław I Herman.
+D. Historians find the orally transmitted stories affirming the existence of Władysław I Herman to be more convincing than similar stories about Leszek.
+Answer: B
+
+Question 7:
+[COE]
+Which choice most effectively uses a quotation from Aunt Sue’s Stories to illustrate the claim?
+
+"Aunt Sue’s Stories" is a 1926 poem by Langston Hughes. In the poem, the speaker indicates that the stories Aunt Sue tells are based on Aunt Sue’s personal experiences, saying that ____.
+
+A. A listening child “knows that Aunt Sue / Never got her stories out of any book at all, / But that they came / Right out of her own life.”
+B. The people in the stories “Mingle themselves softly / In the flow of old Aunt Sue’s voice, / Mingle themselves softly.”
+C. Dark shadows “cross and recross / Aunt Sue’s stories.”
+D. The stories are told during “Summer nights on the front porch.”
+Answer: A
+
+Question 8:
+[COE]
+Based on the text, which choice best explains why it is challenging to confidently assign authorship of the essay "The Senate"?
+
+The Federalist Papers are a collection of essays written by Alexander Hamilton, John Jay, and James Madison and published pseudonymously in the independent journal and other New York newspapers in 1787-88. Though the authorship of most of the essays is certain, that of some is obscure; for instance, while No. 12, "The Utility of the Union in Respect to Revenue," was surely penned by Hamilton, No. 62, "The Senate," may have been written by either Hamilton or Madison. The difficulty of determining No. 62's author arises not from a lack of evidence but from too much contradictory evidence.
+
+A. Support can be found for a strong case that either Hamilton or Madison was the sole author of "The Senate."
+B. Evidence shows that two versions of "The Senate," one authored by Hamilton and another authored by Madison, appeared in different New York newspapers.
+C. The evidence that would indisputably prove that either Hamilton or Madison was the sole author of "The Senate" has been lost.
+D. It is most likely that "The Senate" was the product of a collaborative effort between Hamilton and Madison.
+Answer: A
+
+Question 9:
+[COE]
+Which choice most effectively uses a quotation from a translation of The Clouds to illustrate the claim?
+
+The Clouds is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught customers rhetorical techniques to use in public speaking, along with providing instruction in other subjects. In the play, Aristophanes satirizes sophists as teaching students how to be persuasive without regard for what is morally good, as seen when the character _____.
+
+A. Socrates, a sophist, says that he studies astronomy while in a basket hanging a few feet off the ground because “I should not have rightly discovered things celestial if I had not suspended the intellect, and mixed the thought in a subtle form with its kindred air.”
+B. Strepsiades encourages his son to learn to be a sophist, saying, “Go, I entreat you, dearest of men, go and be taught.”
+C. Socrates, a sophist, says to a new customer, “Come now; what do you now wish to learn first of those things in none of which you have ever been instructed?”
+D. Strepsiades hires a sophist to teach his son and says to the sophist, “But see that he learns those two [styles of argument]; the better, whatever it may be; and the worse, which, by maintaining what is unjust, overturns the better. If not both, at any rate the unjust one by all means.”
+Answer: D
+
+Question 10:
+[COE]
+It can be inferred that the presence of volcanic dust and ash on snow surfaces in Greenland is likely to
+
+Red algae, a vibrant and abundant microbial species that thrives on snow and ice, has been observed across various mountainous and polar regions. During their life cycle, and as a defense against intense sunlight, these red algae produce pigments known as anthocyanins. This protective pigmentation process leads to algal blooms that color the snow and ice, resulting in a darkened surface that reduces albedo (a measure of how much sunlight is reflected by the Earth’s surface). This reduction in albedo can accelerate melting rates, a phenomenon of particular concern in Greenland, where glaciers are receding rapidly and where volcanic ash and dust also contribute to albedo reduction on icy surfaces.
+
+A. offset any decrease in albedo caused by red algae
+B. slow the growth of red algal species in the affected area
+C. lead to changes in the life cycle of local red algal species
+D. have an effect on glacial melting similar to that of red algae
+Answer: D
+

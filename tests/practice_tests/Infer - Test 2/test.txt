@@ -1,0 +1,120 @@
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+Exclusively inhabiting tropical countries such as Liberia, wild chimpanzees lack adaptations to seasonal variations in ultraviolet B (UVB) irradiance from sunlight; since UVB exposure enables vertebrates to synthesize vitamin D, this raises questions about how chimpanzees in mid-latitude zoos are affected by the lower and more variable UVB irradiance in those locations. In a study of 20 chimpanzees in Norway and other mid-latitude countries, Sophie Moitié and colleagues found not only that chimpanzees’ vitamin D levels correlate with UVB irradiance but also that vitamin D levels show no evidence of plateauing as UVB irradiance reaches its highest local levels, suggesting that ______
+
+A. averaged across seasons, vitamin D levels in zoo chimpanzees in mid-latitude countries such as Norway tend to be comparable to those in wild chimpanzees in tropical countries such as Liberia.
+B. adaptations to seasonal variations in UVB irradiance may be emerging in zoo chimpanzees in Norway and other mid-latitude countries.
+C. zoo chimpanzees in Norway and other mid-latitude countries tend to synthesize more vitamin D than they are inherently capable of synthesizing.
+D. chimpanzees can continue producing vitamin D with increasing UVB exposure without risk of excess vitamin D synthesis.
+Answer: D
+
+Question 2:
+[Infer]
+Which choice most logically completes the text?
+
+Although the language of the Olmec civilization, which flourished in southern Mexico circa 1500 BCE–400 BCE, hasn’t been identified, it likely belonged to the Mixe-Zoquean family, a group of related languages whose present-day representatives are spoken in an area corresponding to ancient Olmec sites. The family can be subdivided into a Zoque branch, which includes the modern language Chiapaneco Zoque, and a Mixe branch, which includes the modern language North Central Mixe. Many words in the Mayan languages—languages spoken in the region but otherwise unrelated to the Mixe-Zoquean family—are Mixe-Zoquean in origin and were likely borrowed during the period when the Olmecs dominated the entire region. Tellingly, these words derive from the Zoque branch, suggesting that ___.
+
+A. the language of the Olmec civilization was likely the founding language of the family that includes Chiapaneco Zoque and North Central Mixe.
+B. Chiapaneco Zoque and other languages in the Zoque branch weren’t supplanted by languages in the Mixe branch until after 400 BCE.
+C. Chiapaneco Zoque is more likely to have evolved from the language of the Olmec civilization than North Central Mixe is.
+D. the language of the Olmec civilization made contributions not only to the vocabulary of the Mayan languages but also to the vocabulary of North Central Mixe and other languages in the Mixe branch.
+Answer: C
+
+Question 3:
+[Infer]
+Which choice most logically completes the text?
+
+Whereas Joan Lockard’s 1984 study of captive gorillas reported more right-handedness than left-handedness, Jane Goodall’s 1963 study of wild chimpanzees did not. According to a meta-analysis of studies of nonhuman primates, captive populations are more likely to be described as right-handed than wild populations are. Statistical analysis indicates a handedness study would need a minimum of 176 individuals to show a representative result; however, the study by Lockard included a total population of 8, and the study by Goodall included a total population of 8. This suggests that _____
+
+A. the study by Lockard reliably represents handedness in captive primates but not in wild primates.
+B. Goodall likely underestimated the prevalence of right-handedness among the wild chimpanzees in the study.
+C. neither the study by Lockard nor the study by Goodall provides sufficient evidence to make a meaningful comparison about handedness in primates.
+D. the study by Lockard reliably represents handedness in captive primates, but the study by Goodall likely does not reliably represent handedness in wild primates.
+Answer: C
+
+Question 4:
+[Infer]
+Which choice most logically completes the text?
+
+Zooarchaeologist Ophélie Lebrasseur and her team examined a fox skeleton discovered in 1991 at an archaeological site alongside artifacts of human habitation (like spear points) in central Argentina. Lebrasseur et al. determined that the fox was Dusicyon avus, an extinct species resembling a jackal, and radiocarbon dating placed the fox at the site at the same time as human inhabitants. (Indeed, the inhabitants may have deliberately buried the fox.) In addition, while wild foxes have a diet entirely made of meat, isotopic signatures of the skeleton's teeth indicated that the fox's diet, like that of the humans, was partly composed of plant material. Lebrasseur et al. therefore concluded that _____.
+
+A. the humans who were alive at the same time as the fox most likely ate more meat than the fox did.
+B. the fox had a diet more similar to that of jackals than to that of wild foxes.
+C. the humans who were alive at the same time as the fox hunted using the spears whose points were also found at the site.
+D. the fox may have been a companion animal of the humans who inhabited the site at the same time.
+Answer: D
+
+Question 5:
+[Infer]
+Which choice most logically completes the text?
+
+Buried collections of Bronze Age metal items (called hoards) have been found all over Britain. For hoards discovered since the 1960s, such as the 2005 discovery of the Collette hoard, advancements like inexpensive metal detectors, ground-penetrating radar, and aerial surveys have made it much easier for searchers to locate hoards before putting the first shovel in the ground. Hoards found before the 1960s, however, such as the discovery of the Husbands Bosworth hoard around 1801, were not aided by such technologies and thus were much more likely to ______.
+
+A. include bronze tools and weapons and gold jewelry.
+B. result from artifacts being unearthed accidentally.
+C. occur before the ground was disturbed.
+D. include rare items from the 10th century BCE.
+Answer: B
+
+Question 6:
+[Infer]
+Which choice most logically completes the text?
+
+Scientists looking for signs of ancient life in Asia have found many examples of fossilized hominins, including in a geological formation at the Minatogawa Limestone Quarry. However, to find even older specimens like early multicellular organisms from the Ediacaran period, scientists must look elsewhere, such as in the Ediacaran geological formation at Mistaken Point in North America, because ____.
+
+A. North America has sites with hominins but not sites with early multicellular organisms.
+B. Early multicellular organisms are found at more sites around the world than hominins.
+C. That formation is from an earlier time than the formation with the hominins.
+D. The hominins at Mistaken Point are better preserved than the hominins at the Minatogawa Limestone Quarry.
+Answer: C
+
+Question 7:
+[Infer]
+Which choice most logically completes the text?
+
+In June of 1988, Morocco liberalized its stock market, meaning that it began allowing foreign individuals and businesses to invest money in Moroccan companies. This was part of a wave of stock market liberalizations around the world—Argentina in 1989, Jamaica in 1991, and so on. The standard view among economists at the time was that liberalization would make it easier for companies to raise money from investors. Economist Peter Blair Henry examined the economies of 11 countries that were part of the liberalization wave and found that, on average, companies based in those countries received significant increases in investment in the three years following liberalization, suggesting that ___.
+
+A. companies in the countries Henry studied did not benefit from liberalization until at least three years after liberalization occurred.
+B. companies in Argentina experienced a greater increase in investment following liberalization than did companies in Morocco.
+C. economists who held the standard view of liberalization failed to anticipate some serious negative effects of liberalization.
+D. economists’ expectations about the effect of liberalization on investment were largely correct for the countries Henry studied.
+Answer: D
+
+Question 8:
+[Infer]
+Which choice most logically completes the text?
+
+Numerous investigations have identified a positive link between dissolved nitrogen levels and phosphorus in soil samples across European regions. However, a study by Alessandro Moretti, Livia Greco, and Marco Bellini in Italy did not detect this relationship, prompting some researchers to propose that the correlation may be specific to Northern Europe. Yet, several studies outside Northern Europe, including one by Sofia Jensen and her team in Sweden, yielded findings consistent with those from the Northern European studies, while only a few aligned with Moretti, Greco, and Bellini's results, implying that ______
+
+A. certain conditions in Jensen and colleagues’ study may have affected accurate phosphorus measurement.
+B. the hypothesis that the positive correlation is exclusive to Northern Europe is accurate.
+C. dissolved nitrogen and phosphorus levels in soil tend to increase and decrease together.
+D. dissolved nitrogen and phosphorus levels in Italian soils are significantly higher than in other regions.
+Answer: C
+
+Question 9:
+[Infer]
+Which choice most logically completes the text?
+
+There are over 150 species of the cactus genus Mammillaria throughout the Americas, but their survival can be threatened by high precipitation and dense vegetation that blocks sunlight. Researchers have located species from the genus in almost every state in Mexico, with several of them, like M. knippeliana, restricted to only one state. The fact that this genus has not been observed in eastern and western Coahuila has been attributed to a lack of appropriate habitat, but much of the landscape in this area is notoriously inaccessible, which suggests that____
+
+A. M. knippeliana may have been overlooked in eastern and western Coahuila because of its similarity to another species.
+B. the current methods of collecting and tracking Mammillaria species throughout Mexico may cause an overestimation of the number of species in this genus.
+C. the perceived absence of Mammillaria in eastern and western Coahuila may be due to insufficient exploration of the region.
+D. the dense vegetation and high annual precipitation levels in eastern and western Coahuila impede the ability of Mammillaria species to survive.
+Answer: C
+
+Question 10:
+[Infer]
+Which choice most logically completes the text?
+
+Biochemists I. Sam Saguy and Eli J. Pinthus studied the mass and heat transfer processes that occur when foods, such as the Indian snacks makka poha and shankarpali, are fried in oil. During frying, water in the crust evaporates, leaving voids that oil can fill, thereby increasing the food’s fat content. As the process continues, water from the food’s center moves to the crust as long as the crust remains permeable. Therefore, the less moisture a food loses during frying, ____.
+
+A. the less the fat content is increased through frying.
+B. the higher the temperature must be to fry the food.
+C. the slower the crust will lose its permeability.
+D. the crispier the crust will be when frying is completed.
+Answer: A
+

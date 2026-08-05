@@ -1,0 +1,376 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Jane Goodall has argued that inconsistent government commitments to reforestation ______ efforts to mitigate the effects of climate change on chimpanzees in Tanzania and other African countries, as temporary gains are often reversed by subsequent inaction, undermining long-term population stability.
+
+
+A. galvanize
+B. elucidate
+C. ameliorate
+D. hamstring
+Answer: D
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Run by researchers in Australia, the Australian Longitudinal Study on Women's Health (ALSWH) is an examination of women's health that has attempted to track approximately 50,000 people for several years. Long-running studies like this need a lot of participants not merely for statistical robustness but also because of _______ : over such a length of time, a substantial number of participants will withdraw or fall out of contact with the researchers.
+
+
+A. attrition
+B. replicability
+C. impartiality
+D. circumspection
+Answer: A
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Given that healthy genetic diversity supports honey bee population robustness—a matter of public interest given the bees’ crucial role as pollinators of many crops, such as watermelon—a study revealing a ______ of diversity among US honey bees raised concern, though it also noted the potential to enhance the number of bees carrying several newly discovered genetic variants (e.g., C3-567-USA).
+
+
+A. paucity
+B. disparity
+C. repository
+D. redundancy
+Answer: A
+
+Question 4:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+With a shell that measured 1.7 meters, the extinct mollusk Parapuzosia seppenradensis is the largest ammonite in the fossil record. Ever since fossilized remains of this species were discovered in 1895, scientists have been perplexed by its size. After examining 154 ammonite fossils including some of P. seppenradensis from Montana and Parapuzosia leptophylla (a smaller ammonite species) from England, paleontologist Christina Ifrim, Andrew S. Gale, and colleagues concluded that P. seppenradensis may have evolved from P. leptophylla and gradually increased in size as larger ammonites were better able to escape being preyed on by mosasaurs.
+
+
+A. It states a long-standing scientific assumption and then shows how recent research has overturned that assumption.
+B. It describes a scientific mystery and then discusses a research team’s attempt to solve that mystery.
+C. It compares fossils found in Montana and England and then points out which of those fossils provides more information.
+D. It notes the discovery of a new ammonite species and then remarks on the importance of that discovery.
+Answer: B
+
+Question 5:
+[Details]
+Which choice best states the function of the underlined sentence in the text as a whole?
+
+__Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship.__ While horizontal gene transfer is common among prokaryotes—single-celled organisms, such as the bacteria Enterococcus cecorum and Lactobacillus curvatus—it has rarely been observed among eukaryotes (multicellular organisms). However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought.
+
+
+A. It explains a biological process by contrasting it with a somewhat similar process.
+B. It explains why a common perception of a biological process is flawed.
+C. It argues that two biological phenomena are more similar than they may initially appear to be.
+D. It proposes a direction for future research into a biological phenomenon.
+Answer: A
+
+Question 6:
+[Structure]
+Which choice best states the main idea of the text?
+
+The following text is from Nathaniel Hawthorne's 1830 short story "Sir William Phips":
+Few of the personages of past times (except such as have gained renown in successor legends as well as in in-written history) are anything but mere names to their friends. They seldom stand up in our imaginations like men. The knowledge, communicated by the historian and biographer, is analogous to that which we acquire of a country by the map—minute, perhaps, and accurate, and available for all necessary purposes, but cold and naked, and wholly destitute of the mimic charm produced by landscape painting.
+
+
+A. Historians are more interested in the lives of famous people than in those of the less famous.
+B. The creativity of historians is restricted by the need to write strictly truthful works.
+C. The lives of historical figures are usually documented as a collection of facts, rather than as a representation of their personalities.
+D. Paintings may be more beautiful than maps, but maps are more useful than paintings.
+Answer: C
+
+Question 7:
+[COE]
+Which choice most effectively uses data from the graph to complete the text?
+
+Research suggests that REM sleep in animals is homeostatically regulated: animals compensate for periods of REM sleep deprivation by increasing subsequent REM sleep. When on land, fur seals get enough REM sleep, but during the weeks they’re in the water, they get almost none. In a study of fur seals’ sleep habits, researchers recorded the REM sleep (as a percentage of baseline) of fur seals once they had returned to land. They concluded that REM sleep may not be homeostatically regulated in fur seals, citing as evidence the fact that the seals in the study ______
+
+
+
+A. didn’t show significantly less REM sleep during the second day after returning to land than they did during the first day.
+B. showed no significant differences from one another in baseline levels of REM sleep.
+C. didn’t consistently demonstrate a significant increase in REM sleep after their period of deprivation in the water.
+D. showed no significant difference between REM sleep after returning to land and REM sleep while in the water.
+Answer: C
+
+Question 8:
+[Infer]
+Which choice most logically completes the text?
+
+Paleontologist Amelia Drake and her colleagues analyzed a fossilized bird skeleton unearthed in 1995 at an ancient settlement site in northern Australia, where tools like stone blades were also found. The team identified the bird as *Corvus antiquus*, an extinct species similar to a crow, and radiocarbon dating revealed that the bird coexisted with human inhabitants of the site. Interestingly, while wild crows typically consume only meat, isotopic analysis of the fossil’s beak showed that its diet included plant-based foods, much like the diet of the humans. As a result, Drake and her team concluded that _____.
+
+
+A. the humans who lived alongside the bird likely consumed more animal protein than the bird did.
+B. the bird's diet was closer to that of domesticated birds than to that of wild crows.
+C. the bird might have been a domesticated or companion animal for the humans living at the site.
+D. the humans who lived alongside the bird likely used the stone blades found at the site for hunting.
+Answer: C
+
+Question 9:
+[COE]
+Which finding, if true, would provide evidence that the possibility Grasby et al. investigated does occur?
+
+The Virgin Group’s introduction of the Virgin Atlantic airline in 1984 is an instance of brand extension—the company leveraged its brand recognition as a music retailer to enter a product category where it had not previously competed. To determine if perceived category similarity predicts consumers’ likelihood of purchasing brand extensions, Alicia Grasby et al. identified 30 extended-brand pairs (e.g., the same brand of vacuum cleaner and microwave) in 52 weeks of purchases by approximately 60,000 households; for each pair, Grasby et al. had consumers rate the similarity of the product categories and calculated the change in probability of a brand in one category being purchased if the same brand was purchased in the other category.
+
+
+A. Consumers tended to purchase more products in categories in which extended-brand pairs are found than in categories in which extended-brand pairs are not found.
+B. There was a strong positive correlation between consumers’ ratings and the changes in probability calculated by the researchers.
+C. Consumers’ ratings varied substantially by category pair, whereas the changes in probability calculated by the researchers were broadly similar for each pair.
+D. Consumers’ ratings and the changes in probability calculated by the researchers were both affected by level of brand recognition.
+Answer: B
+
+Question 10:
+[COE]
+Which choice most effectively uses data from the table to complete the example?
+
+US Hydroelectric Power Plants, 2019
+
+A run-of-river hydroelectric power plant, as the name suggests, uses the natural flow of a water source to generate electricity but is unable to start or stop that flow through its generators. In contrast, a peaking hydroelectric power plant (used when demand for electricity peaks) controls the flow of water through its generators: starting flow when demand is high enough, stopping it when demand is too low, and otherwise regulating it to keep pace with changing electricity needs. Although peaking plants do not typically operate continuously as run-of-river plants do, some run-of-river plants can generate fewer megawatt-hours of power per year (MWh/yr) than some peaking plants. For example, the ______.
+
+
+A. average power generated annually by the Oneida plant is higher than that generated by the J. Woodruff plant.
+B. run-of-river plant with the highest average annual power generation in the table generates less electricity than the peaking plant with the highest annual power generation in the table.
+C. average power generated annually by the Oneida plant is higher than that generated by the Gaston Shoals plant.
+D. highest average power generated annually in the table is by a run-of-river plant.
+Answer: B
+
+Question 11:
+[COE]
+Which choice best describes data from the graph that support the student’s claim?
+
+In a college course on urban affairs, a student asserts that increased traffic congestion in the United States in the 1990s was present both in very large cities such as Philadelphia, Pennsylvania, and smaller areas such as Allentown-Bethlehem, Pennsylvania, and Anchorage, Alaska; though those smaller areas may have been less affected by traffic congestion than very large cities, this congestion also worsened in them over time.
+
+
+
+A. While the annual number of hours of traffic delay per commuter was always higher in the Philadelphia, Pennsylvania, area than in the Anchorage, Alaska, area for each year between 1990 and 2000, the amount of traffic delay rose in both areas during this period.
+B. In at least one of the four urban areas shown, the amount of traffic delay was less than 20 hours per commuter per year at one point between 1990 and 2000.
+C. Even though the amount of traffic delay per commuter per year was greater in the Allentown-Bethlehem, Pennsylvania, area than in the Philadelphia, Pennsylvania, area throughout the period from 1990 to 2000, the amounts were nearly identical in 1996.
+D. In 1992, the amount of traffic delay in the Philadelphia, Pennsylvania, area was less than 30 hours per commuter per year.
+Answer: A
+
+Question 12:
+[COE]
+Which choice most effectively uses data from the table to complete the assertion?
+
+Monthly Temperatures and Wing Centroid Sizes of Fruit Fly Specimens
+
+Drosophila (fruit flies) have generation times of 10–12 days, so seasonal changes in humidity and other environmental conditions can drive seasonal fluctuations in chromosome rearrangements in species such as D. persimilis and D. subobscura. Drosophila body size (for which wing centroid size serves as a proxy measure) correlates with life span. Banu Şebnem Önder and Cansu Fidan Aksoy measured the wing sizes of members of a D. melanogaster population in Yeşilöz, Turkey, that were collected monthly between May and October over three years. Their research suggests that Drosophila collected in relatively cooler months should tend to have a shorter life span, as is illustrated by the finding that
+
+
+A. the average male wing centroid size was consistently smaller than the average female wing centroid size in all four months in the table.
+B. the average monthly low temperature was lower in May than in September.
+C. the average female wing centroid size was 2.02 mm in July but was 2.29 mm in October.
+D. the average male wing centroid size was smaller in May than in July.
+Answer: D
+
+Question 13:
+[COE]
+Which quotation from The Monster most effectively illustrates the claim?
+
+*The Monster* is an 1898 story by Stephen Crane. In the story, the character of Jim, a young boy, is playing in his yard while his father mows the lawn; while playing, Jim accidentally damages a peony (a flower). Crane emphasizes Jim's energy and his distracted absorption in his play by writing, _______ .
+
+
+A. "[W]hen [Jim] swung around the curve at the flower-bed, a wheel of his cart destroyed a peony."
+B. "Finally [Jim] went to the peony and tried to stand it on its pins; resuscitated, but the spine of it was hurt, and it could only hang limply from his hand."
+C. "[Jim's father] was shaving this lawn as if it were a priest's chin."
+D. "Little Jim was, for the time, engine Number 36, and he was making the run between Syracuse and Rochester. He was fourteen minutes behind time, and the throttle was wide open."
+Answer: D
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Evan MacLean and colleagues evaluated behavioral and genetic data from over 14,000 dogs, representing more than 100 breeds, and found that certain similarities in behavior between breeds correspond to genetic similarities between those breeds, suggesting a genetic basis for breed differences in behavior. This was the case for both dog rivalry and energy but was especially pronounced for chasing, which can be seen when a dog pursues small animals like birds or squirrels. A different study found that the French bulldog and the bullmastiff breeds exhibit similar chasing behavior, suggesting that ______.
+
+
+A. their similarities with respect to that behavior could result from a shared aspect of their genetics.
+B. individual French bulldogs likely display higher levels of chasing than individual bullmastiffs.
+C. French bulldogs and bullmastiffs show a greater tendency toward chasing than most other dog breeds do.
+D. the two breeds will likely become less genetically similar over time.
+Answer: A
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+In an analysis of medieval urbanization in Coventry, Macon, and other European settlements, researchers dive on modern urban scaling theory, which posits that population density in core urban areas decreases as a city grows. They hypothesized that this typical pattern might not have held in medieval settlements because of the constraining influence of strict hierarchical social structures (which are much less pronounced in modern cities) on social networking and economic integration—drives of urban agglomeration—the team created a model that accounted for the presence of restrictive institutions. They found that the typically expected density-size relationship held for each of the 173 medieval settlements whose growth they analyzed, suggesting that _____.
+
+
+A. despite a change in the role of social structures over time, there is likely a notable consistency between medieval settlements and modern cities in underlying elements of the social and economic interactions among individuals that shape the development of core urban areas.
+B. the constraining influence of hierarchical medieval institutions likely had a significant effect on individuals in some social groupings but little to no effect on members of other social groupings.
+C. although there tends to be a positive relationship between population size and development of core urban areas for both medieval settlements and modern cities, that relationship is much stronger in modern cities.
+D. the social and economic dynamics that affect urban agglomeration were likely much different in medieval settlements than in modern cities, despite the similarity across time in population density patterns.
+Answer: A
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The "rational actor" model in classical economics posits that individuals consistently make decisions to maximize utility, creating efficient markets. However, behavioral economists have identified systematic deviations from this logic in volatile financial environments ______ speculative bubbles often persist despite contradictory data, effectively challenging the premise of self-correcting equilibrium.
+
+
+A. environments, though;
+B. environments; though
+C. environments, though
+D. environments, though,
+Answer: A
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Sashimi is the name of a Martian rock. ______ identified by NASA's Spirit rover, which first touched down on Mars in 2004.
+
+
+A. It was
+B. I was
+C. We were
+D. Those were
+Answer: A
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The 2015 scholarly compendium on Astrobiological Engineering was composed by Dr. Selena Moritz. When the manuscript was initially circulated, numerous reviewers were unaware that Moritz was the ______ codename that appeared on the compendium’s cover—“E. Cartwright”— concealed the researcher’s genuine identity.
+
+
+A. author, though. The
+B. author, though, the
+C. author; though the
+D. author, though the
+Answer: A
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Among the world’s largest deserts are the Great Basin Desert, ranked _______ and the Atacama Desert, ranked twenty-sixth.
+
+
+A. tenth in size, the Namib Desert; ranked twenty-third;
+B. tenth in size; the Namib Desert; ranked twenty-third;
+C. tenth in size; the Namib Desert, ranked twenty-third;
+D. tenth in size the Namib Desert, ranked twenty-third
+Answer: C
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Star actress Kiki Omeili, who has appeared in 47 Nollywood films, is one of numerous luminaries to be pictured in Nigerian portraitist like Udé’s exhibition Nollywood Portraits. ______ referred to Nollywood—Nigeria’s $3 billion film industry—as “Africa’s vivid mirror par excellence,” honors its legacy with his vivid classical portraits of Omeili and her peers.
+
+
+A. Udé
+B. Udé, having
+C. Udé, has
+D. Udé has
+Answer: B
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+F. Julius LeMoyne was an outspoken abolitionist whose Pennsylvania home was a stop on the underground railroad (the network of people and places that some enslaved people used to escape to freedom). It was relatively rare for supporters of the railroad to be secretive about their antislavery views. _____ they were vocal abolitionists like LeMoyne.
+
+
+A. Fittingly,
+B. Granted,
+C. More often,
+D. For example,
+Answer: C
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Much like Tennessee designates a state flower, tree, and bird, it also has a state soil known as Dickson soil. Dickson is an apt selection for state soil, largely due to its widespread presence throughout the state. _____ Dickson soil holds significance in Tennessee’s agricultural sector as it plays a vital role in cultivating various crops, including com and soybeans.
+
+
+A. By contrast,
+B. At that time,
+C. Alternatively,
+D. Additionally,
+Answer: D
+
+Question 23:
+[COE]
+Which option most logically completes the text?
+
+On April 12, 1981, NASA celebrated the first successful mission of the Space Shuttle program with a public ceremony in Washington, D.C. This event was only one among many celebrations recognizing achievements in space exploration. ____ from 1961 to 2020, Washington, D.C. hosted eighteen major public ceremonies honoring American astronauts.
+
+
+A. Hence,
+B. In other words,
+C. Nevertheless,
+D. In sum,
+Answer: D
+
+Question 24:
+[COE]
+The student wants to explain the principle summarized by the phrase “survival of the fittest.” Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+Charles Darwin was an English naturalist and geologist.
+He published his groundbreaking book *On the Origin of Species* in 1859.
+The theory of evolution by natural selection is a foundational concept in modern biology.
+The theory is often summarized by the phrase “survival of the fittest.”
+“Survival of the fittest” means that an organism's traits should be well-suited to its environment to increase its chances of surviving and reproducing.
+
+
+A. According to the theory of evolution, an organism's chances of surviving and reproducing (fitness) are primarily determined by how well its traits are suited to its environment.
+B. Charles Darwin was an English naturalist who proposed the theory of evolution, often summarized by the principle of “survival of the fittest.”
+C. Often summarized as “survival of the fittest,” the theory of evolution is a foundational concept in modern biology.
+D. An organism's traits and its environment are two elements of the biological principle “survival of the fittest.”
+Answer: A
+
+Question 25:
+[Synthesis]
+The student aims to write a comprehensive summary explaining the mechanism by which CRISPR-Cas9 is utilized for targeted gene correction. Which choice most effectively synthesizes the relevant information from the notes to achieve this goal?
+
+While conducting research for a dissertation on genetic engineering, a graduate student has compiled the following notes:
+• The CRISPR-Cas9 system, originally identified as an adaptive immune mechanism in prokaryotes, has been repurposed by scientists as a versatile tool for precision genome engineering.
+• The Cas9 protein functions as a molecular scissor, specifically a nuclease, that is capable of inducing a double-strand break (DSB) at a targeted locus within a DNA sequence.
+• The specificity of the Cas9-induced cleavage is dictated by a synthetic single-guide RNA (sgRNA), which contains a ~20-nucleotide sequence complementary to the target DNA.
+• The sgRNA directs the Cas9 protein to the precise genomic location; following the DNA cleavage, the cell's innate DNA repair mechanisms are activated.
+• These repair pathways can be manipulated: Non-homologous end joining (NHEJ) often results in gene knockout, while homology-directed repair (HDR), when a donor template is supplied, can be used for precise gene insertion or correction.
+
+
+A. Guided by a synthetic single-guide RNA (sgRNA) to a specific DNA locus, the Cas9 nuclease creates a double-strand break, which, in the presence of a donor template, can be resolved by the homology-directed repair (HDR) pathway to achieve precise gene correction.
+B. The CRISPR-Cas9 system achieves precise gene insertion by employing the Cas9 protein to make a cut, which is then repaired by the non-homologous end joining (NHEJ) pathway, a process guided by a complementary DNA template.
+C. Originally an adaptive immune system in prokaryotes, CRISPR-Cas9 involves a Cas9 protein and a single-guide RNA that work together to identify and cleave a target DNA sequence.
+D. The specificity of CRISPR-Cas9 genome engineering is determined by the Cas9 protein, which functions as a molecular scissor that, when complexed with an sgRNA, activates the cell's innate knockout mechanisms for repair.
+Answer: A
+
+Question 26:
+[Synthesis]
+The student wants to describe how Martinez’s paintings integrate Zapotec and modern artistic traditions. Which option most effectively uses relevant details from the notes to achieve this objective?
+
+While researching a topic, a student compiled the following notes:
+• Diana Martinez was a painter from the Zapotec community.
+• Her artwork merges contemporary abstract styles with elements of Zapotec cultural heritage.
+• Martinez’s painting *Echoes of Tradition* incorporates Zapotec weaving patterns.
+• Her piece *Ritual Horizon* uses natural dyes traditionally made from cochineal insects, a key element in Zapotec crafts.
+
+
+A. In her paintings Echoes of Tradition and Ritual Horizon, Martinez combines elements of Zapotec cultural heritage, such as weaving patterns and traditional dyes, with contemporary abstract techniques.
+B. While both paintings reflect elements of Zapotec traditions, Echoes of Tradition does so by featuring weaving patterns, and Ritual Horizon does so by incorporating natural cochineal dyes.
+C. Echoes of Tradition and Ritual Horizon are two notable works by Martinez, a Zapotec painter known for blending traditional and modern art.
+D. Martinez uses distinct methods to integrate contemporary abstract techniques with Zapotec cultural elements, including weaving patterns and natural dyes, in her paintings.
+Answer: A
+
+Question 27:
+[Synthesis]
+The student wants to provide an overview of the matsutake commodity chain. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• A commodity chain is the series of links connecting the production and purchase of a commodity on the world market.
+• Chinese American anthropologist Anna Tsing studies the contemporary commodity chain of matsutake mushrooms.
+• At one end of the matsutake chain are mushroom pickers in Oregon.
+• At the other end are wealthy consumers who buy the costly matsutake in Japan.
+• According to Tsing, “Japanese traders began importing matsutake in the 1980s, when the scarcity of matsutake in Japan first became clear.”
+
+
+A. The contemporary matsutake commodity chain has its origins in the 1980s when, according to Tsing, “the scarcity of matsutake in Japan first became clear.”
+B. Commodity chains include the linked production and purchase of commodities, such as the matsutake mushroom, on the world market.
+C. Decades after the Japanese import of matsutake began, a commodity chain now links matsutake pickers in Oregon with wealthy consumers of the costly mushrooms in Japan.
+D. Wealthy consumers who buy the costly mushrooms in Japan are at one end of the matsutake commodity chain.
+Answer: C

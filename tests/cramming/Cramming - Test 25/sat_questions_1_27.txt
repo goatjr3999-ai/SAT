@@ -1,0 +1,406 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+While Samuel Taylor Coleridge approached nature through a lens of classical education and philosophical detachment, often idealizing the landscape, John Clare’s poetry emerged from the grueling reality of a tenant farmer. Because Clare drew exclusively from intimate, hands-on toil in nineteenth-century rural England, literary critics frequently cite his unvarnished empiricism as ______ to Coleridge’s abstract romanticism.
+
+
+A. antithetical
+B. analogous
+C. concomitant
+D. derivative
+Answer: A
+
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In a 2022 study, Nicolás M. Morato and colleagues attempted to resolve a long-standing paradox: although water is critical to most reactions that enable life, during the earliest stages of Earth’s history—when most of the planet’s surface was covered by oceans—the presence of water likely ____ the formation of proteins and other biomolecules that are found in all living organisms.
+
+
+A. exploited
+B. imitated
+C. hampered
+D. reflected
+Answer: C
+
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+There is no formal measure in the United States Senate that could be ______ to have been excessively prolonged as a tactic to block voting on a matter. In response, a rule was created to allow a majority of senators to curtail deliberation.
+
+
+A. invoked
+B. improvised
+C. partitioned
+D. abolished
+Answer: A
+
+
+Question 4:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+Scientists discovered a 390-million-year-old fossilized forest of Calamophyton trees in modern-day England. The scientists believe the emergence of these Calamophyton forests changed the land significantly. __For example, the tree roots would have greatly reduced soil erosion, and the accumulated twigs the trees shed likely created new habitats for animal life.__
+
+
+A. It suggests that there are likely fossilized Calamophyton forests from before 390 million years ago.
+B. It provides two competing views of when the Calamophyton forest likely emerged.
+C. It illustrates how Calamophyton forests likely changed conditions on the land.
+D. It indicates how fast the Calamophyton forest spread.
+Answer: C
+
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+Mauricio Drelichman and Hans-Joachim Voth’s research on the fiscal vulnerability of Philip II (who ruled not only Spain but other regions including Milan from 1556 to 1598) builds on other studies of European early modern state finance, including Hoffman and Norberg’s work on the relationship between state finance and political development. But Drelichman and Voth’s unique contribution is __their reconstruction of the earliest extant set of annual fiscal records for any sovereign state__, which demonstrate that Philip’s defaults were caused by short-term liquidity crises, not long-term unsustainable debts.
+
+
+A. To highlight how Drelichman and Voth contribute new evidence that underpins their main conclusion
+B. To emphasize the chronological sequence of events leading to Philip II’s defaults
+C. To contrast the scope of Drelichman and Voth’s research with that of other scholars
+D. To suggest that their findings rely on long-term sustainability, not short-term issues
+Answer: A
+
+
+Question 6:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Economist Gabriel Zucman finds that 8% of worldwide household wealth is held in tax havens (territories such as Hong Kong with low tax rates for investors who reside outside those territories). Zucman also finds that use of tax havens differs between countries: they are rarely used by investors living in South Korea, while other investors who use a tax haven reside in Saudi Arabia or Venezuela. Philosopher Ingrid Robeyns disapproves of the use of tax havens as a method of tax avoidance that, though legally permissible, nonetheless helps investors to sidestep payment toward government upkeep.
+
+
+A. It contrasts two economic theories about a particular financial practice.
+B. It summarizes an economist's findings about a practice and then presents a philosopher's critique of that practice.
+C. It describes a legal argument against a practice and then presents evidence to support that argument.
+D. It explains the history of a financial practice and then discusses its modern-day consequences.
+Answer: B
+
+
+Question 7:
+[Cross Text]
+Based on the texts, both the author of Text 1 and the author of Text 2 would most likely agree with which statement about scholarship on works from the modernist period in Britain and Ireland?
+
+Text 1:
+ Scholarship today overrepresents experimentally fragmented narrative structures, such as that of Flann O’Brien’s At Swim-Two-Birds, beyond the degree to which they actually influenced fiction in Britain and Ireland during the modernist period (roughly 1900–1945). Meanwhile, Elizabeth Bowen’s The Last September, whose coherent, linear narrative structure recalls the fiction of previous centuries, attracts woefully little attention from scholars of modernism.
+Text 2:
+ Distant reading, or computer-assisted quantitative analysis of massive collections of digitized texts, can reveal stylistic elements that have heretofore escaped notice, despite being shared by numerous texts from the modernist period. For too long, scholars have focused on narrative fragmentation versus coherence, inhibiting inquiry into other points of stylistic correspondence among works that would enrich our understanding of the modernist canon.
+
+
+A. It must widen its focus to include aspects of modernist fiction beyond style, a productive but overrepresented site of inquiry.
+B. Without a major shift in focus, the vision that it presents of fiction written in the period will continue to be unnecessarily limited.
+C. Instead of engaging in unproductive debates, it should work to rehabilitate the reputations of neglected modernist works.
+D. Its primary methods for analyzing fiction written in the period are growing obsolete as computer technology advances.
+Answer: B
+
+
+Question 8:
+[COE]
+Which choice most effectively uses data from the graph to complete the assertion?
+
+Due to the Chorotega region's accessibility, various types of forested areas were converted to cattle pasture as rising international meat prices drove a cattle ranching boom in the 1960s and 1970s. Juan Pablo Arroyo-Mora and colleagues used historical aerial photography and remote sensing data to track fragmentation metrics across different land use capability classes (categories that indicate possible uses of forest land). One such metric, edge density, can be used to indicate the regularity of forest patch sizes, with decreases in edge density suggesting a trend towards uninterrupted forest patches with more regular shapes. The team found a range of edge density levels, from lows of around 80 meters per hectare or less in the 1960s and 1970s for all classes, to a high in 1986 of approximately ______.
+
+
+
+A. 140 for Class VII.
+B. 160 for Class I-IV.
+C. 60 for Class VII.
+D. 50 for Class VI.
+Answer: B
+
+
+Question 9:
+[COE]
+Based on the text, the author would most likely agree with which statement about Tokyo's "high population density"?
+
+Tokyo has high pedestrian traffic, but other cities cannot increase their pedestrian traffic simply by replicating a single feature of Tokyo—e.g., __its high population density__—that is associated with walkability. As urbanist Mariela Alfonzo argues, many factors influence people's decision-making about whether to walk: some studies have shown the importance of personal preference, others have shown the importance of perceived safety, and so on, and it is clear that none of these factors in isolation fully explains pedestrian habits in a given city.
+
+
+A. It may increase walkability in Tokyo but is known to reduce walkability in other cities.
+B. It should be understood as just one of several factors that influence pedestrian activity in Tokyo.
+C. It affects walking decisions in Tokyo less than personal preference and perceived safety do.
+D. It is better understood as an effect of the high level of pedestrian traffic in Tokyo than as a cause of that pedestrian traffic.
+Answer: B
+
+
+Question 10:
+[COE]
+Which finding, if true, would most directly weaken the researchers’ conclusion?
+
+Nautilids are marine mollusks that begin growing their shells before emerging from their eggs and continue to add shell segments throughout their lifetimes. The walls between their shell chambers are called septa, and the deeper the water in which a septum forms, the greater the concentration of the isotope oxygen-18 the septum will contain. Since temperature falls as depth increases, if the area of ocean a nautilid inhabits is known, this isotopic signature can reveal the temperature at which its septa formed. Paleontologist Amane Tajika and colleagues examined each of the septa in two nautilid shells and concluded that septum sample M23 formed at a temperature of 14.0 °C whereas sample F02 formed at 20.8 °C.
+
+
+A. At a depth of 140 meters in the nautilids’ habitat, the water is 20.8 °C and the concentration of oxygen-18 is equal to that in sample F02.
+B. The concentration of oxygen-18 in F02 is higher than that in M23.
+C. The concentration of oxygen-18 in F02 is lower than that in M23.
+D. At a depth of 385 m in the nautilids’ habitat, the water is 14.0 °C and the concentration of oxygen-18 is equal to that in sample M23.
+Answer: B
+
+
+Question 11:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Though John Crowley, author of *Four Freedoms*, is perhaps not as well known as the most widely read American writers of the past fifty years, his work has had several influential champions, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley’s book *Little, Big*, __Bloom praises how the novel adroitly blends what playwright Friedrich Schiller termed the naive and sentimental modes__—while Schiller thought works could be classified as either naive (seeking to describe reality) or sentimental (seeking to develop ideas), *Little, Big* fuses both modes of writing.
+
+
+A. It contrasts the opinions of two critics.
+B. It helps clarify the distinction between two categories.
+C. It gives a reason why a critic appreciates a certain book.
+D. It compares the work of a writer with that of a poet who admired him.
+Answer: C
+
+
+Question 12:
+[COE]
+Which choice best describes data from the table that support Taylor and team’s conclusion?
+
+Some animals evade predation with the help of contrasting markings that signal toxicity. Lisa Taylor and team studied how jumping spiders behave toward termites (their regular prey) to which solid black, solid white, or black-and-white striped (i.e., contrasting) capes were affixed. Each spider was placed in a clear container in the center of a circular dish in which six termites, two with each of the three cape types, could be seen. Noting which termites the spiders first looked at and which termites they ultimately targeted, the researchers concluded that contrasting markings were a deterrent.
+
+
+
+A. Half of the spiders that first looked at a termite wearing a black-and-white striped cape attacked a termite wearing a solid white cape, and the other half of those spiders were just as likely to attack a termite wearing a black-and-white striped cape as they were to attack a termite wearing a solid black cape.
+B. For each type of cape, a majority of the spiders that first looked at a termite wearing that type of cape attacked a termite wearing that same type of cape.
+C. Regardless of the type of cape worn by termites the spiders first looked at, the large majority of spider attacks were on termites wearing solid-color capes.
+D. None of the spiders that first looked at a termite wearing a solid white cape attacked a termite wearing a black-and-white striped cape.
+Answer: C
+
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+Like many other genera of wild bees, bumblebees have in recent decades experienced population collapse caused by, among other factors, habitat destruction and climate variation. Bumblebees are also one of the most researched bee genera, second only to honeybees. As a result, ecologists have gained much of their insight about wild-bee declines from bumblebees. In a 2021 paper, zoologist Guillaume Ghisbain notes that bumblebees are among the relatively few wild-bee genera that display social behaviors and dietary generalism (ability to obtain nectar and pollen from a diversity of plant species), two traits that are associated with increased resilience to some specific environmental changes. Ghisbain therefore contends that ______.
+
+
+A. although bumblebees have been more extensively studied than most wild bees, researchers should not use bumblebees to draw conclusions about the decline of other wild bees, even ones with feeding patterns and levels of sociability that are similar to those of bumblebees.
+B. because bumblebees and other bees with generalist diets are less negatively affected by environmental stress than bees with specialized diets are, they are less likely to experience major population changes in the future than bees with specialized diets are.
+C. because the responses of bumblebees and other wild bees to environmental threats are not always comparable, researchers need to exercise caution when extrapolating information about wild-bee population declines from bumblebees.
+D. although bumblebees and many other wild bees have experienced similar population declines in the past, compared with other wild bees, bumblebees are likely at greater risk of being harmed by climate variation than by habitat destruction.
+Answer: C
+
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Belonging to neither the minimalist nor the abstract art movements but heavily influencing both, Constantin Brâncuși spent his sculpting career returning to the same few themes—a kiss, a sleeping head, and a bird in flight—each rendered in pristine, simple, almost abstract forms. Perhaps the most famous example is *Bird in Space* (1941), a tall, slender bronze sculpture that arcs upward in a manner suggestive of a bird. Despite the seeming simplicity of his works, the exacting standards to which Brâncuși held his work meant that he produced relatively few pieces over his career. There is thus something of a disparity between ______.
+
+
+A. the themes Brâncuși explored and the themes favored by artists he inspired.
+B. Brâncuși’s importance to the history of art and his total artistic output.
+C. the nature of much of Brâncuși’s work and the abstraction of Bird in Space.
+D. Brâncuși’s relatively limited productivity and the diversity of his sculptures.
+Answer: B
+
+
+Question 15:
+[COE]
+Which excerpt from a translation of Leonora at the Observatory most effectively illustrate the claim?
+
+Leonora at the Observatory is a 1954 narrative by Celeste, originally composed in Spanish. The narrator is a seventeen-year-old residing in a remote, rural village. She articulates a profound emotional connection to the enveloping night sky: ________.
+
+
+A. "If I had a mother, I am certain she would not have allowed me to remain [in El Cielo] for more than a day. But Father—he remains oblivious and unconcerned about my whereabouts."
+B. "Nebulous expanses punctuate [the night sky] sporadically, as do clusters of stars. But these interruptions are insignificant, for the resplendent cosmos engulfs everything. Consequently, this splendid expanse is starkly desolate, with its sporadic celestial bodies providing the requisite number of twinkling lights to accentuate the velvet darkness of the sky."
+C. "And then there are my cherished constellations, those that are thousands and millions of years old. It breaks my heart to witness one of them fade away."
+D. "Beneath the stars, you kindle a fire, even during summer, because it is prohibited; you cook anything available, an apple, a pear, a potato pilfered from a field, some wholemeal bread if there is nothing else."
+Answer: C
+
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Despite the fact that what is now known as the Cavendish balance was first constructed by John Michell, the device is named after the eighteenth-century English natural philosopher Henry Cavendish. One might assume cases like this, where a discovery or concept is not named after the first person who discovered it, to be ___they are counted among a litany of examples of Stigler’s law.
+
+
+A. rare, on the contrary,
+B. rare, on the contrary;
+C. rare on the contrary,
+D. rare; on the contrary,
+Answer: D
+
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Kepler’s telescope, invented in 1609, utilizes merely one of the five optical principles that optimize visual magnification, as outlined by historians Miller and Wright. After 1950, such advanced instrument capability appeared more common, as demonstrated in Palomar’s reflector, constructed in 1948 and _____ four of those principles.
+
+
+A. had utilized
+B. utilizing
+C. utilized
+D. utilizes
+Answer: B
+
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Creating personas—brief profiles of imaginary characters that represent key segments of a customer base—can help user experience (UX) designers think like and empathize with those using their products. Fictional yet realistic,______
+
+
+A. these personas include specific details (demographics, browsing habits, etc.) that UX designers draw from actual users.
+B. specific details that UX designers draw from actual users (demographics, browsing habits, etc.) are included in these personas.
+C. UX designers include specific details (demographics, browsing habits, etc.) drawn from actual users in these personas.
+D. actual users are the source of the specific details (demographics, browsing habits, etc.) that UX designers include in these personas.
+Answer: A
+
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Le Corbusier's urbanist proposal "Ville Radieuse" introduces a zone, a spatial concept utilized in modernist city planning, labeled the Green Belt. Frequently, harmony between the zone's dedicated parks and walkways (the central and peripheral leisure areas, respectively) and its integrated residential blocks _______ a feeling of serenity.
+
+
+A. fostering
+B. fosters
+C. foster
+D. have fostered
+Answer: B
+
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Substantiated by GPS tracking data from over 500 migratory geese, ____.
+
+
+A. wetlands and lakes were, a 2023 research project revealed, the birds' preferred resting spots.
+B. the birds' preferred resting spots were revealed, in a 2023 research project, to be wetlands and lakes.
+C. the primary resting spots for the birds were wetlands and lakes, according to a 2023 research project.
+D. results from a 2023 research project suggested that wetlands and lakes were the birds' preferred resting spots.
+Answer: D
+
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Their Last Ride was first released in 2022. This short ______ is about the environmental issues affecting wild and domestic horses, was directed by Cherokee filmmaker Neta Rhyne.
+
+
+A. documentary
+B. documentary which
+C. Documentary,
+D. documentary, which
+Answer: D
+
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+William Shakespeare likely arrived in London as early as 1585, at the age of 21, to pursue a career in the theater. Little is known of his early years there, but by 1593 he was becoming known for plays such as Richard III. ____ in 1599, he would delight audiences with Much Ado About Nothing, considered by some to be one of his greatest works.
+
+
+A. In other words,
+B. Conversely,
+C. Thus,
+D. Later,
+Answer: D
+
+
+Question 23:
+[Synthesis]
+The student wants to emphasize a difference between Judeth Insel and Ricky Quiñones. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• India Arie is an African American singer and songwriter.
+• The media outlet BBC Music has described her music as a “blend of hip hop, soul and folk [that is] as subtle as it [is] inspired.”
+• Her acclaimed albums feature many talented musicians.
+• Judeth Insel played viola on her first studio album, *Acoustic Soul* (2001).
+• Ricky Quiñones played guitar on her second studio album, *Voyage to India* (2002).
+
+
+A. Judeth Insel played on India Arie’s first studio album, Acoustic Soul, which was released one year before her album Voyage to India.
+B. Both musicians have played on India Arie albums, but Judeth Insel played viola, whereas Ricky Quiñones played guitar.
+C. Acoustic Soul and Voyage to India, released in 2001 and 2002, respectively, are albums by singer and songwriter India Arie.
+D. Judeth Insel and Ricky Quiñones have both lent their musical talents to albums by India Arie.
+Answer: B
+
+
+Question 24:
+[Synthesis]
+The student wants to emphasize an objective of the GREEN SURGE study. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• A multiyear study called GREEN SURGE examined forty-four different types of UNAs (urban natural areas) in cities throughout Europe.
+• A primary aim of the study was to determine the benefits of UNAs in these cities.
+• Large urban parks are among the types of UNAs included in the study.
+• Large urban parks are defined as green city areas reserved for recreational use.
+• They can benefit urban environments by contributing to biodiversity.
+
+
+A. For multiple years, the GREEN SURGE study was conducted in cities throughout Europe.
+B. To achieve its main objective, the GREEN SURGE study examined forty-four different types of UNAs, including large urban parks.
+C. Determining the benefits of UNAs in European cities was a primary aim of the GREEN SURGE study.
+D. Large urban parks, which were included in the GREEN SURGE study, can benefit urban environments by contributing to biodiversity.
+Answer: C
+
+
+Question 25:
+[Synthesis]
+The student wants to provide an example of a public service that Ixmiquilpan is responsible for. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Ixmiquilpan is a municipality in the state of Hidalgo, Mexico.
+• Municipalities are governmental regions responsible for providing many public services to their residents.
+• One service they provide is water treatment.
+• Ixmiquilpan’s population was 98,654 in 2020.
+• Hidalgo is divided into 84 municipalities.
+
+
+A. Ixmiquilpan is one of 84 municipalities in Hidalgo providing public services to their communities.
+B. Ixmiquilpan—a governmental region in the state of Hidalgo, Mexico—provides public services to its residents.
+C. As a municipality, Ixmiquilpan is responsible for providing water treatment to its residents.
+D. In 2020, the municipality of Ixmiquilpan had a population of 98,654.
+Answer: C
+
+
+Question 26:
+[Synthesis]
+The student wants to emphasize the global rank of Mauritania’s youth population. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Mauritania is a country in North Africa.
+• A high percentage of Mauritania’s population (39.9 percent) is under fifteen years old.
+• It has the thirty-fourth-largest under-fifteen population in the world.
+•Roughly 40 percent of Africa’s population is under fifteen years old—the highest of any continent.
+• According to the United Nations (UN), Africa’s “high number of young people is an opportunity for the continent's growth—but only if these new generations are fully empowered to realize their best potential.”
+
+
+A. With 39.9 percent of its population under fifteen years of age, Mauritania has the thirty-fourth-largest population for that age range in the world.
+B. Africa's high population of young people is due in part to the high percentage of young people in Mauritania.
+C. Making up roughly 40 percent of the continent's total population, Africa's under-fifteen population offers “an opportunity for the continent's growth,” according to the UN.
+D. “Only if these new generations are fully empowered to realize their best potential,” says the UN, will Africa’s high percentage of young people lead to the continent's growth.
+Answer: A
+
+
+Question 27:
+[Synthesis]
+The student wants to specify Percival Lowell’s contributions to the discovery of Pluto. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•1905: US astronomer Percival Lowell begins searching beyond Neptune for a mysterious planet he calls “Planet X.”
+•1916: Lowell dies but leaves money to upgrade his observatory.
+•1929: A new telescope is built at the observatory.
+•February 1930: Observatory assistant Clyde Tombaugh records the first photographic evidence of Planet X.
+•March 1930: Astronomers rename Planet X, calling it Pluto to honor Lowell (the first two letters are Lowell’s initials, PL).
+
+
+A. Astronomers renamed Planet X in 1930 to honor Lowell for his contributions to the discovery of Pluto.
+B. After a new telescope was built at Lowell’s observatory in 1929, Clyde Tombaugh recorded the first photographic evidence of Planet X, later renamed Pluto.
+C. In 1930, Lowell became the first person to record photographic evidence of Pluto, known at the time as Planet X.
+D. Lowell began the search for Pluto in 1905 and later left money to upgrade the observatory where it was discovered in 1930.
+Answer: D

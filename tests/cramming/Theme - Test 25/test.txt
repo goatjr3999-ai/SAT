@@ -1,0 +1,290 @@
+Question 1:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Scientists studying asteroid deflection have focused on secondary objects such as S/2020 (2013 PY6), a moonlet orbiting the near-Earth asteroid 2013 PY6. In 2022 NASA intentionally crashed a probe into just such an object, successfully altering its orbit. Scientists have yet to demonstrate, ______ that 2013 PY6 and other primary objects would be similarly affected.
+
+
+A. for example,
+B. though,
+C. likewise,
+D. moreover,
+Answer: B
+
+Question 2:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Scientists studying asteroid deflection have focused on secondary objects such as S/2018 (2018 EB), a moonlet orbiting the near-Earth asteroid 2018 EB. In 2022 NASA intentionally crashed a probe into just such an object, the moonlet Dimorphos. ______ Dimorphos’s orbital period around the near-Earth asteroid Didymos was permanently altered.
+
+
+A. In addition,
+B. Specifically,
+C. Consequently,
+D. In comparison,
+Answer: C
+
+Question 3:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The near-Earth asteroid Atira is orbited by the moonlet S/2017 (163693). In 2022 scientists studying asteroid deflection intentionally crashed a probe into a similar moonlet, Dimorphos, shortening its orbital period by 32 minutes. ______ it used to take Dimorphos 11 hours, 55 minutes to orbit the near-Earth asteroid Didymos; now it takes 11 hours, 23 minutes.
+
+
+A. That is,
+B. Furthermore,
+C. Meanwhile,
+D. For example,
+Answer: A
+
+Question 4:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Scientists studying asteroid deflection have focused on secondary objects such as S/2018 (15745), a moonlet orbiting the near-Earth asteroid Yuliya. In 2022 NASA intentionally crashed a probe into just such an object, successfully altering its orbit. _______ these results are no guarantee that Yuliya and other primary objects would be similarly affected.
+
+
+A. Accordingly,
+B. Granted,
+C. Likewise,
+D. Moreover,
+Answer: B
+
+Question 5:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Scientists studying asteroid deflection have focused on secondary objects such as 5/2015 (190208), a moonlet orbiting the near-Earth asteroid 2006 AQ. In 2022 NASA intentionally crashed a probe into just such an object, successfully altering its orbit. Scientists have yet to determine the extent to which that 2006 AQ and other primary objects would be similarly affected, ______
+
+
+A. for example.
+B. admittedly.
+C. moreover.
+D. likewise.
+Answer: B
+
+Question 6:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The near-Earth asteroid 2007 LE is orbited by the moonlet S/2012 (461852). In 2022 scientists studying asteroid deflection intentionally crashed a probe into a similar moonlet, Dimorphos, shortening its orbital period by 32 minutes. _____ it used to take Dimorphos 11 hours, 55 minutes to orbit the near-Earth asteroid Didymos; now it takes 11 hours, 23 minutes.
+
+
+A. Nevertheless,
+B. Specifically,
+C. However,
+D. In addition,
+Answer: B
+
+Question 7:
+[COE]
+Which statement about Narragansett flint corn is best supported by the text?
+
+Still grown by the Narragansett people, Narragansett flint corn belongs to the group of varieties known as flint corn that are adapted to the Woodlands of eastern North America. Yet corn was domesticated in Mexico. Did flint corn's ancestors spread to the Woodlands by way of a western route through the Southwest or an eastern route along the Gulf Coast? One genetic study shows that Woodlands flint varieties descend from corn populations at Southwestern sites, including one in Arizona dating to roughly 275 BCE. No ancient specimens of flint corn have been found along the Gulf Coast.
+
+
+A. Its absence from archaeological sites along the Gulf Coast remains a mystery.
+B. It flourished in the Woodlands because it had already adapted to similar climates elsewhere.
+C. Its ancestral line passed through Arizona before ultimately arriving in the Woodlands.
+D. It doesn't descend from the ancient flint corn populations that once grew along the Gulf Coast.
+Answer: C
+
+Question 8:
+[COE]
+Which finding, if true, would most directly support the researcher’s claim?
+
+A team of public transportation experts in Detroit is creating a new streetcar stop for the Woodward Avenue Streetcar system that will service a neighborhood in which a stop does not currently exist. To decide where to place the stop, the team is using a survey from ten years ago that asked how far neighborhood residents would be willing to walk to a streetcar stop. The team also looked at studies showing that people's willingness to walk to public transit is influenced by factors like weather and the presence of paved sidewalks and available crosswalks. A researcher has argued that the survey does not accurately reflect the feelings of today’s residents of this neighborhood.
+
+
+A. The number of sidewalks and crosswalks in the neighborhood that the streetcar stop will service has increased substantially in the last ten years.
+B. Residents of Detroit are much less likely to use public transit on rainy days than on clear days.
+C. There has been a sharp increase in the last ten years in cyclists who use the roads in the neighborhood that the streetcar stop will service.
+D. Current users of the Woodward Avenue Streetcar are satisfied with the number of stops along the line. ​​
+Answer: A
+
+Question 9:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Edinburgh has high pedestrian traffic, but simply replicating a feature of Edinburgh associated with walkability—e.g., its high number of pedestrian amenities—may be insufficient to induce increased walking in other cities. As urbanist Mariela Alfonzo argues, our understanding of individuals' decision-making about whether to walk is insufficiently robust: __some studies emphasize the role of local norms, others the role of sidewalk width, and so on, but walking decisions are made in complex contexts in which multiple conditions and needs inform individuals' choices__.
+
+
+A. It illustrates a scholarly disagreement described earlier in the sentence.
+B. It summarizes the findings of studies whose methods are discussed earlier in the sentence.
+C. It elaborates on a claim presented earlier in the sentence.
+D. It acknowledges a potential objection to the argument presented earlier in the sentence.
+Answer: C
+
+Question 10:
+[Structure]
+Which choice best states the main purpose of the text?
+
+A team of public transportation experts in Detroit is creating a new streetcar stop for the Woodward Avenue Streetcar system that will service a neighborhood in which a stop does not currently exist. To decide where to place the stop, the team is using a survey from ten years ago that asked how far neighborhood residents would be willing to walk to a streetcar stop. The team also looked at studies showing that people's willingness to walk to public transit is influenced by factors like weather and the presence of paved sidewalks and available crosswalks. A researcher has argued that the survey does not accurately reflect the feelings of today's residents of this neighborhood.
+
+
+A. To argue that surveys older than ten years are not useful for city planning.
+B. To compare the results of a survey with the findings of studies on people's willingness to walk.
+C. To provide an overview of the Woodward Avenue Streetcar system in Detroit.
+D. To identify a potential shortcoming in the methodology used for a project.
+Answer: D
+
+Question 11:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Maryam Hosseini and her team used aerial images of well-mapped areas of Boston to train a computer program to identify sidewalks. When it was tested on images of Brooklyn, it _____ identified sidewalks in the vast majority of cases and even whether sidewalks were concrete or brick. Hosseini believes the program will improve on this already-strong performance as it gets used more.
+
+
+A. clumsily
+B. reliably
+C. rarely
+D. slowly
+Answer: B
+
+Question 12:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+City planners need accurate maps of their city’s sidewalks to properly maintain them, but mapping manually is slow. Maryam Hosseini and her team addressed this by training a computer program to identify sidewalks in aerial images of Manhattan. When they used the program on aerial images of Brooklyn, it accurately _____ sidewalks and could even distinguish between concrete and cobblestone.
+
+
+A. approved
+B. neglected
+C. mistook
+D. detected
+Answer: D
+
+Question 13:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Some cities track pedestrian activity to map their sidewalks, but this method often _______ sidewalks few pedestrians use, resulting in incomplete maps. Maryam Hosseini and her team found that a computer program trained to identify sidewalks in aerial images of Boston could also accurately identify sidewalks in aerial images of Philadelphia and even distinguished between concrete and granite.
+
+
+A. neglects
+B. oversees
+C. approves
+D. detects
+Answer: A
+
+Question 14:
+[Details]
+Which choice best describes the function of the references to "demographic characteristics" and "sidewalk width" in the text as a whole?
+
+Rome has high pedestrian traffic, but simply replicating a feature of Rome associated with walkability—e.g., its high number of street crossings—may be insufficient to induce increased walking in other cities. As urbanist Mariela Alfonzo argues, our understanding of individuals' decision-making about whether to walk is insufficiently robust: some studies emphasize the role of demographic characteristics, others the role of sidewalk width, and so on, but walking decisions are made in complex contexts in which multiple conditions and needs inform individuals' choices.
+
+
+A. They identify factors that Alfonzo argues have been overemphasized in studies of decision-making about walking but that the text asserts are relevant to most people's walking decisions.
+B. They represent factors that have been identified as important influences on walking decisions but that the text suggests are merely some of the many factors that may contribute to people's decision-making about walking.
+C. They are examples of factors that studies suggest are important in people's decision-making about walking but that the text claims most people rarely consider when making walking decisions.
+D. They illustrate factors that researchers believe people consider when making walking decisions in most contexts but that the text argues are unique to walking decisions made by people in Rome.
+Answer: B
+
+Question 15:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Some cities estimate where sidewalks are located using road maps, which is not very accurate. Maryam Hosseini and her team trained a computer program to identify sidewalks in aerial images of Manhattan and used it on images of Chicago. The program’s performance was ______ to that of the road-map method: it more accurately identified sidewalks, and it even distinguished between concrete and brick.
+
+
+A. changed
+B. supportive
+C. similar
+D. superior
+Answer: D
+
+Question 16:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Some cities track pedestrian movements to map their sidewalk networks, but this method often results in incomplete maps because it can _____ an area with few pedestrians for an area without sidewalks. To help address this problem, Maryam Hosseini and her team trained a computer program to identify sidewalks in aerial images of Boston; they found it could not only accurately identify sidewalks in aerial images of Chicago, it could even distinguish between concrete and asphalt.
+
+
+A. mistake
+B. create
+C. search
+D. deceive
+Answer: A
+
+Question 17:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Maryam Hosseini and colleagues trained a computer program to identify sidewalks in aerial images of Manhattan and used it on images of Washington, DC. Its performance on the images of Washington, DC, was _____ that on images of Manhattan; the accuracy was nearly the same for both, and the program could consistently distinguish whether the sidewalks were made of concrete or granite.
+
+
+A. similar to
+B. uncertain about
+C. unique from
+D. supportive toward
+Answer: A
+
+Question 18:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Maryam Hosseini and colleagues trained a computer program to identify sidewalks in aerial images of Manhattan and used it on images of Washington, DC. For both Manhattan and Washington, DC, it _____ well: the program was very accurate for both cities and could distinguish between concrete and granite.
+
+
+A. noted
+B. recovered
+C. functioned
+D. promoted
+Answer: C
+
+Question 19:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+When it was built in the nineteenth century, the Eiffel Tower was criticized—even protested—for its unique appearance. ______ the spire-like structure earned not just acceptance but adoration, and its iconic design is now echoed in everything from the Eiffel Tower replica in Voronezh, Russia, to the Copenhagen Zoo Tower in Copenhagen, Denmark.
+
+
+A. Ultimately,
+B. Similarly,
+C. Thus,
+D. For example,
+Answer: A
+
+Question 20:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+When it was completed in 1889, the Eiffel Tower in Paris, France, was criticized - even protested for - the novelty of its unique spire-like silhouette. ______ the design became accepted - even beloved - and can now be found in everything from the Eiffel Tower replica in Uman, Ukraine, to the Funkturm Berlin in Berlin, Germany.
+
+
+A. Over time,
+B. Indeed,
+C. Therefore,
+D. Furthermore,
+Answer: A
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A magnificent wrought-iron lattice structure designed by Gustave Eiffel for the 1889 World's ______ the Eiffel Tower has become a global cultural icon of France.
+
+
+A. Fair
+B. Fair:
+C. Fair;
+D. Fair,
+Answer: D
+
+Question 22:
+[Synthesis]
+The student wants to specify the result of the addition of the television antenna to the top of the Eiffel Tower. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•The Eiffel Tower was completed in 1889 for the Exposition Universelle (World's Fair) in Paris.
+•It was the tallest man-made structure in the world at the time of its construction, standing at 324 meters.
+•In 1957, a television antenna was added to the top of the tower, increasing its height to 330 meters.
+•The tower was chosen as the location for the antenna due to its height and location.
+•Today, the Eiffel Tower is no longer the tallest man-made structure in the world, but it remains one of the most popular tourist attractions in Paris.
+
+
+A. The Eiffel Tower was completed in 1889 for the Exposition Universelle in Paris and a television antenna was added to the top of the tower in 1957.
+B. The height of the Eiffel Tower increased from 324 meters to 330 meters after a television antenna was added on its top.
+C. Despite having a television antenna at its top, the Eiffel Tower is no longer the tallest man-made structure in the world.
+D. Standing at 330 meters, the Eiffel Tower also has a television antenna at the top of it.
+Answer: B

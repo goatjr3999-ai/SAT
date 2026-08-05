@@ -1,0 +1,184 @@
+Question 1:
+A circle in the {{MATH_1}}plane has its center at {{MATH_2}}. Line {{MATH_3}} is tangent to this circle at the point {{MATH_4}}. What is the slope of line{{MATH_3}}?
+
+A. {{MATH_5}}
+B. {{MATH_6}}
+C. {{MATH_7}}
+D. {{MATH_8}}
+Answer: A
+
+Question 2:
+For which of the following tables are all the values of {{MATH_9}} and their corresponding values of {{MATH_10}} solutions to the given inequality?
+{{MATH_11}}
+
+A. A
+B. B
+C. C
+D. D
+Answer: B
+
+Question 3:
+In the given equation, {{MATH_12}}is an integer. The equation has no real solutions. What is the least possible value of{{MATH_12}}?
+{{MATH_13}}
+
+Answer: -31
+
+Question 4:
+A right rectangular prism has a volume representing by the expression {{MATH_14}} where {{MATH_15}} is a constant greater than 0. The height of the prism is given by the expression {{MATH_16}} If the length of the rectangular base is 3 times its width, which expression represents the total surface area, in square units, of the prism?
+
+A. {{MATH_17}}
+B. {{MATH_18}}
+C. {{MATH_19}}
+D. {{MATH_20}}
+Answer: C
+
+Question 5:
+For the given equation, {{MATH_100}} is a constant. What is the value of {{MATH_101}}?
+
+{{MATH_102}}
+
+(Điền đáp án dạng phân số)
+
+Answer: -8/3
+
+Question 6:
+The function {{MATH_21}} is defined by the given equation, where {{MATH_22}} and {{MATH_23}} are integer constants. If {{MATH_24}}, {{MATH_25}}, and {{MATH_26}}, which of the following could be the value of {{MATH_27}}?
+{{MATH_28}}
+
+A. 38
+B. 40
+C. 73
+D. 75
+Answer: D
+
+Question 7:
+An auditorium has seats for 1,600 people. Tickets to attend a show at the auditorium currently cost $4.00. For each $1.00 increase to the ticket price, 100 fewer tickets will be sold. This situation can be modeled by the equation {{MATH_29}}, where {{MATH_30}} represents the increase in ticket price, in dollars, and {{MATH_31}} represents the revenue, in dollars, from ticket sales. If this equation is graphed in the {{MATH_32}}-plane, at what value of {{MATH_30}} is the maximum of the graph?
+
+A. 4
+B. 6
+C. 12
+D. 16
+Answer: B
+
+Question 8:
+Given that {{MATH_33}} and {{MATH_34}} are integers:
+{{MATH_35}}
+which of the following must be true?
+
+A. {{MATH_36}} is a factor of {{MATH_37}}
+B. {{MATH_38}} is a factor or 112
+C. {{MATH_38}} if a factor of {{MATH_37}}
+D. {{MATH_34}}is a factor of 112
+Answer: D
+
+Question 9:
+Line {{MATH_39}} is defined by {{MATH_40}}. Line {{MATH_41}} is parallel to line {{MATH_39}}in the {{MATH_42}}-plane. What is the slope of line {{MATH_43}}
+
+Answer: 4
+
+Question 10:
+A researcher observes a sample of a nuclide. An exponential model estimates that the mass, in grams, of the sample decreases 22% every 11.11 minutes. Which of the following equations could represent this model, where M is the estimated mass, in grams, of the sample t minutes after the researcher began observing the sample?
+
+A. {{MATH_44}}
+B. {{MATH_45}}
+C. {{MATH_46}}
+D. {{MATH_47}}
+Answer: D
+
+Question 11:
+The expression {{MATH_48}} is equivalent to {{MATH_49}}, where {{MATH_50}} and {{MATH_51}} are positive constants and {{MATH_52}}. What is the value of {{MATH_53}}? (phân số)
+
+Answer: 361/8
+
+Question 12:
+The solution to the given system of equations is (x, y) ={{MATH_54}}, where p and w are integers. What is the value of p?
+22x – 21y = 43
+5x + 14y = 59
+
+Answer: 263
+
+Question 13:
+The expression {{MATH_103}} is equivalent to the expression {{MATH_104}}, where {{MATH_105}}, {{MATH_106}} and {{MATH_107}} are constants. What is the value of {{MATH_106}}?
+
+Answer: -384
+
+Question 14:
+In the given equation, {{MATH_55}} is a positive constant.
+{{MATH_56}}
+The product of the solutions to the equation is 154. What is the value of {{MATH_55}}?
+
+Answer: 12
+
+Question 15:
+In triangle {{MATH_57}}, the measure of angle {{MATH_58}} is 90. Point {{MATH_59}} lies on segment {{MATH_60}}, and segment {{MATH_61}} is a perpendicular to segment {{MATH_60}}. The length of segment {{MATH_62}} is 668, and the length of segment {{MATH_61}}is 501. What is the value of {{MATH_63}}
+
+A. {{MATH_64}}
+B. {{MATH_108}}
+C. {{MATH_66}}
+D. {{MATH_65}}
+Answer: D
+
+Question 16:
+The functions f and g are defined by the equations shown, where a and b are integer constants, {{MATH_67}} and {{MATH_68}}. If {{MATH_69}} and {{MATH_70}} are graphed in the xy-plane, which of the following equations displays, as a constant or coefficient, the y-coordinate of the y-intercept of the graph of the corresponding function?
+I. {{MATH_71}}
+II. {{MATH_72}}
+
+A. I and II
+B. I only
+C. II only
+D. Neither I nor II
+Answer: D
+
+Question 17:
+The function {{MATH_73}} is defined by {{MATH_74}}. For any positive integer {{MATH_75}}, the value of {{MATH_76}} is {{MATH_77}} less than the value of {{MATH_78}}. What is the value of {{MATH_79}}?
+
+A. 78
+B. 61
+C. 39
+D. 22
+Answer: B
+
+Question 18:
+The table gives the volume of two similar cylinders. If the radius of cylinder A is 9 cm. What is the value of j - k?
+
+Volume = πr-h
+Surface area = 2πr- + 2πrh
+
+Answer: 10800
+
+Question 19:
+The expression {{MATH_80}} where{{MATH_81}} is a constant, is equivalent to {{MATH_82}}, where {{MATH_83}} and {{MATH_84}} are integer constants. Which of the following expressions could have a value that is a noninteger?
+
+A. {{MATH_85}}
+B. {{MATH_86}}
+C. {{MATH_87}}
+D. {{MATH_88}}
+Answer: B
+
+Question 20:
+In the{{MATH_32}}-plane, a circle has its center at the intersection of the lines {{MATH_89}}and {{MATH_90}} Line{{MATH_91}} is tangent to this circle at the point {{MATH_92}}where {{MATH_93}} is a constant greater than the {{MATH_30}}-coordinate of the center. If line {{MATH_91}} is perpendicular to the line defined by {{MATH_94}} what is the value of {{MATH_95}}
+
+A. 7
+B. 8
+C. 9
+D. 11
+Answer: D
+
+Question 21:
+The predicted population of a city x years after 1986 , where {{MATH_96}}, can be modeled by the function {{MATH_97}}. Which of the following is the best interpretation of the statement "f(4) is approximately equal to 55,150 " in this context?
+
+A. 4 years after 1986 , the predicted population of the city is approximately 55,150 people.
+B. 4 years after 1986 , the population of the city is predicted to decrease by approximately 55,150 people.
+C. Every 4 years after 1986 , the population of the city is predicted to decrease by approximately 55,150 people.
+D. Every 4 years after 1986 , the population of the city is predicted to increase by approximately 55,150 people.
+Answer: A
+
+Question 22:
+In the given equation, c is a constant. The equation has no real solutions if {{MATH_98}}. What is the least possible value of n?
+{{MATH_99}}
+
+A. -49
+B. -14
+C. 14
+D. 49
+Answer: D

@@ -1,0 +1,183 @@
+Question 1:
+The grap of {{MATH_1}} is shown. Which equation defines function f?
+
+A. {{MATH_2}}
+B. {{MATH_3}}
+C. {{MATH_4}}
+D. {{MATH_5}}
+Answer: B
+
+Question 2:
+One gallon of sealant costs $23 and will cover 250 square feet of a surface. A deck has a total surface area of d square feet. Which equation represents the cost c, in dollars, of the sealant needed to cover the deck twice?
+
+A. {{MATH_6}}
+B. {{MATH_7}}
+C. {{MATH_8}}
+D. {{MATH_9}}
+Answer: C
+
+Question 3:
+The graph shows the momentum y, in newton-seconds, of an object x seconds after the object started moving, for 0 ≤ x ≤ 8. What is the average rate of change, in newton-seconds per second, in the momentum of the object from x = 2 to x = 6? (điền đ-p -n dạng ph-n số)
+
+Answer: 3/2
+
+Question 4:
+The given system of equations intersects at points {{MATH_10}} and {{MATH_11}}, where
+{{MATH_12}}.
+{{MATH_13}}
+{{MATH_14}}
+What is the least possible value of {{MATH_15}}? (Dùng Desmos)
+
+A. 12
+B. 10
+C. 8
+D. 6
+Answer: B
+
+Question 5:
+A metallurgist is creating a custom alloy by mixing two types of reclaimed metal. Type A metal contains 6 ounces of copper per pound of metal, and Type B metal contains 14 ounces of copper per pound of metal. The metallurgist uses a total of 10.5 pounds of copper in the mixture. Which of the following equations represents this situation, where {{MATH_16}} is the weight of Type A metal, in pounds, and {{MATH_15}} is the weight of Type B metal, in pounds?
+
+A. {{MATH_17}}
+B. {{MATH_18}}
+C. {{MATH_19}}
+D. {{MATH_20}}
+Answer: B
+
+Question 6:
+The functions g and h are defined by the given equations.
+{{MATH_21}}
+{{MATH_22}}
+If g(8) = t, where t is a constant, what is the value of h(t)?
+
+A. {{MATH_23}}
+B. 22
+C. 31
+D. 51
+Answer: C
+
+Question 7:
+A biologist wanted to study the effectiveness of a fertilizer on the growth of corn seeds. To make the conditions as similar as possible for all plants, a greenhouse was used. The greenhouse was split down the middle and half A of the greenhouse was treated with the fertilizer being studied throughout the experiment and half B was not. The biologist obtained two 750-seed packages. The seeds from one package were planted in the soil treated by the fertilizer, and the seeds from one package were planted in the soil not treated by the fertilizer. How should the experiment be changed to allow the researched to conclude whether the fertilizer has an effect on the growth of corn seeds?
+
+A. No changes to the experiment are required.
+B. All 1,500 corn seeds should receive the fertilizer.
+C. One of the packages of corn seeds should be planted in a field rather than the greenhouse.
+D. Half of the seeds from each package should be randomly assigned to each half of the greenhouse.
+Answer: D
+
+Question 8:
+Kenny engages in up to 3 types of exercise each week for a total of 6 hours while training for a triathlon. Kenny swims for the same number of minutes each week. The equation {{MATH_24}} represents the situation where Kenny bikes for {{MATH_25}} minutes during a week and runs for any remaining training time {{MATH_26}}, in minutes. If this equation is graphed in the {{MATH_27}}-plane, which statement is the best interpretation of the {{MATH_25}}-intercept of the graph?
+
+A. During a week when Kenny doesn-t run, he bikes for 190 minutes.
+B. During a week when Kenny doesn-t bike, he runs for 190 minutes.
+C. Each week, Kenny bikes and runs for a total of 190 minutes.
+D. During a week when Kenny swims for 190 minutes, he bikes for 170 minutes.
+Answer: A
+
+Question 9:
+Which of the following inequalities gives a value of c where the equation below has no solution?
+{{MATH_28}}
+
+A. {{MATH_29}}
+B. {{MATH_30}} and {{MATH_31}}
+C. {{MATH_32}}
+D. {{MATH_33}}
+Answer: D
+
+Question 10:
+The function g is defined by {{MATH_34}}where t is a constant. In the xy-plane, the graph of y = g(x) passes through the point (23, 0). What is the value of g(0)?
+
+Answer: 391
+
+Question 11:
+Two spheres have radii in the ratio 12 : 13. The difference in their surface areas is 400π square inches. If the volume of the smaller sphere can be written as vπ, what is the value of v?
+
+Answer: 18432
+
+Question 12:
+In the given equation, {{MATH_35}} and {{MATH_36}} .
+{{MATH_37}}
+If {{MATH_38}}, where n is a constant, what is the value of n? (Điền đ-p -n dạng ph-n số) (Dùng Desmos)
+
+Answer: 31/42
+
+Question 13:
+The function {{MATH_39}} is defined by the equation
+{{MATH_40}}
+where {{MATH_15}} and {{MATH_41}} are constants. In the {{MATH_42}}plane, the graph of {{MATH_43}} passes through the points {{MATH_44}}and {{MATH_45}} If v(q) = 0, which of the following could be the value of {{MATH_46}}
+
+A. -7
+B. -5
+C. 5
+D. 7
+Answer: A
+
+Question 14:
+The graph of {{MATH_47}} is shown below. Which equation defines the function f ?
+
+A. {{MATH_48}}
+B. {{MATH_49}}
+C. {{MATH_50}}
+D. {{MATH_51}}
+Answer: B
+
+Question 15:
+Circle A has the equation {{MATH_52}}. Circle B has the equation
+{{MATH_53}}. If Circle B passes through the center of circle A, what is a possible value of {{MATH_54}}?
+
+A. {{MATH_55}}
+B. {{MATH_56}}
+C. {{MATH_57}}
+D. {{MATH_58}}
+Answer: B
+
+Question 16:
+In the figure below, point B and the center of each circle lie on {{MATH_59}}. The ratio of AB to BC is 5 to 3. If a point is randomly selected in the figure, what is the probability the point is in the shaded region? (Điền đ-p -n dạng ph-n số)
+
+Note: Figure not drawn to scale.
+
+Answer: 39/64
+
+Question 17:
+A researcher surveyed undergraduate students, graduate students, and postdoctoral students. The number of undergraduate students surveyed was 7,450% of the number of postdoctoral students surveyed and the number of graduate students surveyed was 24% of the number of undergraduate students surveyed. If there were 3,576 graduate students surveyed, what was the sum of the number of undergraduate students and postdoctoral students surveyed?
+
+Answer: 15100
+
+Question 18:
+One of the two equations in a system of linear equations is given.
+{{MATH_60}}
+The system has no solution. Which equation could be the second equation in this system?
+
+A. {{MATH_61}}
+B. {{MATH_62}}
+C. {{MATH_63}}
+D. {{MATH_64}}
+Answer: B
+
+Question 19:
+In triangle PQR, the measure of angle P is {{MATH_65}}, the measure of angle Q is {{MATH_66}}, and the measure of angle R is {{MATH_67}}. If side QR is extended through point R to point S, and the measure of angle PRS is {{MATH_68}}, what is the value of x + y?
+
+Answer: 39
+
+Question 20:
+In the given figure, {{MATH_69}} is the diameter of the circle. If the length of {{MATH_69}} is equal to 100 and the length of {{MATH_70}} is equal to {{MATH_71}}, what is the value of {{MATH_72}}?
+
+Answer: 40
+
+Question 21:
+In the given system of equations, {{MATH_73}} is a positive integer constant.
+{{MATH_74}}
+{{MATH_75}}
+The system has no real solutions. What is the least possible value of {{MATH_73}}?
+
+Answer: 3
+
+Question 22:
+In the given system of equations, c is a constant. The system has two distinct real solutions. Which of the following could be the value of c?
+{{MATH_76}}
+{{MATH_77}}
+
+A. 3
+B. 7
+C. {{MATH_78}}
+D. 13
+Answer: D

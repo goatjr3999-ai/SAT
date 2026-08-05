@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <title>Lí thuyết – GlorySAT</title>
+  <link rel="stylesheet" href="cipher.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="theory.css" />
+  <link rel="icon" type="image/png" href="/images/logo.webp" />
+</head>
+
+<body>
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <a href="index.html" class="sigma-logo-top">
+      <img src="/images/logo.webp" alt="GlorySAT logo" class="sigma-logo-img" />
+      <span class="sigma-logo-text">GlorySAT</span>
+    </a>
+
+    <nav class="sidebar-nav">
+      <a href="index.html" class="sidebar-item"><img src="/images/home.webp" class="sidebar-icon" alt="home"> Trang chủ</a>
+      <div class="sidebar-item collapsible" id="practice-toggle">
+        <span><img src="/images/luyende.webp" class="sidebar-icon" alt="luyende"> Luyện đề</span>
+        <span class="chevron"><img src="/images/down.webp" class="sidebar-chevron" alt="open"></span>
+      </div>
+      <div class="sidebar-submenu" id="practice-submenu">
+        <a
+          href="practice.html?category=starter"
+          class="sidebar-subitem"
+          data-category="starter"
+        >Starter</a>
+        <a
+          href="practice.html?category=real_tests"
+          class="sidebar-subitem"
+          data-category="real_tests"
+        >Đề thi thật</a>
+        <a
+          href="practice.html?category=practice_tests"
+          class="sidebar-subitem"
+          data-category="practice_tests"
+        >Đề luyện</a>
+        <a
+          href="practice.html?category=cramming"
+          class="sidebar-subitem"
+          data-category="cramming"
+        >Cramming</a>
+        <a
+          href="practice.html?category=math"
+          class="sidebar-subitem"
+          data-category="math"
+        >Math</a>
+        <a
+          href="practice.html?category=math_cramming"
+          class="sidebar-subitem"
+          data-category="math_cramming"
+        >Math Cramming</a>
+      </div>
+      <a href="wrong_answers.html" class="sidebar-item"><img src="/images/history.webp" class="sidebar-icon" alt="wrong"> Kho câu sai</a>
+      <a href="theory.html" class="sidebar-item active"><img src="/images/lithuyet.webp" class="sidebar-icon" alt="lithuyet"> Lí thuyết</a>
+    </nav>
+
+    <div class="sidebar-footer">
+      
+      
+      <a href="/logout" class="logout-bottom">Đăng xuất</a>
+    </div>
+  </aside>
+
+  <!-- MAIN CONTENT -->
+  <main class="main-content theory-page">
+    <header class="page-header">
+      <div>
+        <h1 class="page-title-2">Lí thuyết</h1>
+      </div>
+    </header>
+
+    <section class="theory-layout">
+      <!-- ====== THEORY BUTTONS (8 TYPES) ====== -->
+<div class="theory-type-row" id="theory-type-row">
+  <button type="button" class="theory-type-btn active" data-target="wic-theory">WIC</button>
+  <button type="button" class="theory-type-btn" data-target="main-idea-theory">Main Idea</button>
+  <button type="button" class="theory-type-btn" data-target="details-theory">Details</button>
+  <button type="button" class="theory-type-btn" data-target="coe-theory">COE</button>
+  <button type="button" class="theory-type-btn" data-target="infer-theory">Infer</button>
+  <button type="button" class="theory-type-btn" data-target="grammar-theory">Grammar</button>
+  <button type="button" class="theory-type-btn" data-target="transition-theory">Transition</button>
+  <button type="button" class="theory-type-btn" data-target="synthesis-theory">Synthesis</button>
+</div>
+
+<!-- ====== THEORY PANEL (8 CONTENTS) ====== -->
+<div class="theory-panel" id="theory-panel">
+
+  <!-- WIC -->
+  <article class="theory-content active" id="wic-theory" data-title="WIC">
+    <h2>Dạng Word In Context (WIC)</h2>
+    <ul>
+      <li>Nắm ý chính của các phần khác trong bài để <strong>dự đoán nghĩa/sắc thái</strong> của từ cần điền trong blank. Sau đó, chọn từ phù hợp.</li>
+      <li>Một số câu sẽ có <strong>synonym</strong> (từ đồng nghĩa) hoặc <strong>antonym</strong> (từ trái nghĩa) với từ cần điền trong blank. Nếu spot ra được những từ này thì việc làm WIC sẽ dễ hơn rất nhiều.</li>
+      <li>Với phần WIC, quan trọng nhất là cần có một vốn <strong>Vocab</strong> tốt. Có thể học Vocab theo cách <strong>passive</strong> (mỗi ngày học ~20 từ) hoặc học từ <strong>active</strong> qua những test đã làm.</li>
+      <li>Có một số ứng dụng học Vocab nổi bật như <strong>Anki</strong>, <strong>Quizlet</strong>, …</li>
+    </ul>
+  </article>
+
+  <!-- MAIN IDEA -->
+  <article class="theory-content" id="main-idea-theory" data-title="Main Idea">
+    <h2>Dạng Main Idea</h2>
+    <ul>
+      <li>Khi đọc Main Idea, đọc tập trung kĩ vào phần <strong>SVO</strong> của câu, các phần <strong>Modifier</strong> (bổ nghĩa) đọc lướt nhanh qua.</li>
+      <li>Đọc xong mỗi câu, cần nắm ý chính của câu đó, từ đó dễ liên kết ý chính của các câu với nhau và chọn Main Idea hoàn chỉnh của bài.</li>
+    </ul>
+  </article>
+
+  <!-- DETAILS -->
+  <article class="theory-content" id="details-theory" data-title="Details">
+    <h2>Dạng Details</h2>
+    <ul>
+      <li>Đọc qua một lượt bài y hệt như cách đọc Main Idea.</li>
+      <li>Sau đó, tập trung kĩ vào phần <strong>Underline</strong>, xem nó có vai trò gì trong nội dung chính của bài.</li>
+    </ul>
+  </article>
+
+  <!-- COE -->
+  <article class="theory-content" id="coe-theory" data-title="COE">
+    <h2>COE</h2>
+    <ul>
+      <li>Đọc <strong>Claim</strong> trước.</li>
+      <li>Sau khi đọc Claim, đọc lại một lượt từ đầu bài để hiểu rõ <strong>Context</strong> hơn.</li>
+      <li>Với dạng COE, nên nắm rõ một số <strong>correlation</strong> (sự tương quan trong bài). Ví dụ như <strong>A tăng B giảm</strong>, <strong>A thay đổi dẫn tới B thay đổi</strong>, … → từ đó liên kết với nhau và tìm ra đáp án đúng.</li>
+    </ul>
+  </article>
+
+  <!-- INFER -->
+  <article class="theory-content" id="infer-theory" data-title="Infer">
+    <h2>Infer</h2>
+    <ul>
+      <li>Đây là dạng khó nhất của SAT, bắt buộc phải đọc và hiểu bản chất của đoạn mới chọn được đáp án đúng.</li>
+      <li>Hiểu kĩ câu trước Blank, vì câu này sẽ đóng vai trò quan trọng trong việc chọn đáp án.</li>
+      <li>Các yếu tố không liên quan tới nội dung trong bài được gọi là <strong>Out of Scope</strong>. Đáp án nào có yếu tố Out of Scope là đáp án sai.</li>
+    </ul>
+  </article>
+
+  <!-- GRAMMAR -->
+  <article class="theory-content" id="grammar-theory" data-title="Grammar">
+    <h2>Grammar</h2>
+
+    <p>Đây là phần ăn điểm trong SAT, và để đạt được một số điểm cao, mọi người không được phép làm sai phần này.</p>
+
+    <h3>Các cách để liên kết 2 câu</h3>
+    <ul>
+      <li><strong>Period / semi-colon</strong></li>
+      <li><strong>Colon</strong></li>
+      <li><strong>Comma + FANBOYS</strong></li>
+    </ul>
+
+    <h3>Initial Modifier</h3>
+    <ul>
+      <li>Khi modifier đứng đầu câu và tách khỏi SVO chính của câu bằng <strong>comma</strong></li>
+      <li>Cấu trúc: <strong>Modifier, SVO.</strong></li>
+      <li>Phải đảm bảo modifier phải make sense với chủ ngữ. <strong>V-ing, ____</strong> → Chủ ngữ trong đáp án phải là người thực hiện hành động</li>
+    </ul>
+
+    <h3>Non-essential Modifier</h3>
+    <ul>
+      <li>Phần thông tin phụ được đưa vào trong câu.</li>
+      <li>Khi bỏ phần modifier này đi, không ảnh hưởng đến overall meaning của câu.</li>
+      <li>Tách khỏi phần chính của câu bằng <strong>pair of commas</strong> hoặc <strong>dashes</strong>.</li>
+    </ul>
+
+    <h3>Colon</h3>
+    <ul>
+      <li>Cấu trúc: <strong>SVO1: [giải thích cho SVO1 phía trước]</strong></li>
+    </ul>
+
+    <h3>Rule</h3>
+    <ul>
+      <li>Phần trước colon luôn phải là một câu hoàn chỉnh</li>
+      <li>Phần sau colon có thể là anything — <strong>SVO</strong>, <strong>list of items</strong>, <strong>explanation</strong>, <strong>N</strong>, <strong>V-ing</strong></li>
+    </ul>
+
+    <h3>Punctuation + Transition (trio - 3 câu)</h3>
+    <h4>Placement of transition</h4>
+    <ul>
+      <li><strong>SVO1.</strong> However, <strong>SVO2</strong> → <strong>SVO1.</strong> S, however, VO2.</li>
+      <li>Phổ biến trong đề thi: <strong>SVO1.</strong> SVO2, however.</li>
+    </ul>
+
+    <h4>Hai cấu trúc đúng trong đề thi</h4>
+    <ul>
+      <li><strong>SVO1.</strong> SVO2, however: <strong>SVO3.</strong> — Câu 1 contrast câu 2, và câu 3 giải thích câu 2</li>
+      <li><strong>SVO1.</strong> SVO2; however, <strong>SVO3.</strong> — Câu 2 contrast câu 3</li>
+    </ul>
+
+    <h4>Các cấu trúc sai trong đề thi</h4>
+    <ul>
+      <li>Không dùng comma và transition để nối 2 câu với nhau — <strong>SVO1, however, SVO2</strong> → <strong>SAI</strong></li>
+      <li><strong>SVO1, so SVO2</strong> → <strong>ĐÚNG</strong></li>
+    </ul>
+
+    <p>
+      Marie is considered the best poet. She resisted the recognition, however, believing it fails to capture her …
+      <br />
+      <strong>SVO1.</strong> SVO2, however, V-ing modifier = <strong>SVO1.</strong> However, SVO2, V-ing modifier
+    </p>
+  </article>
+
+  <!-- TRANSITION -->
+  <article class="theory-content" id="transition-theory" data-title="Transition">
+    <h2>Transition</h2>
+
+    <h3>Transition</h3>
+    <ul>
+      <li><strong>Logical Reading:</strong> hiểu được sự liên kết của 2 câu</li>
+      <li>Làm quá trình <strong>prediction</strong>: dự đoán sự liên kết</li>
+    </ul>
+
+    <h3>Các dạng transition</h3>
+    <ul>
+      <li><strong>Addition</strong></li>
+      <li><strong>Contrast</strong></li>
+      <li><strong>Causal</strong></li>
+      <li><strong>Explanation</strong></li>
+    </ul>
+
+    <h3>Less common words: không thể hiện mối quan hệ logic nào cả</h3>
+    <ul>
+      <li>Trong 4 đáp án, luôn có 3 từ thuộc nhóm cơ bản</li>
+      <li>Ultimately, fittingly, of course, then, today, there, …</li>
+      <li>Dùng khi 3 từ còn lại sai</li>
+    </ul>
+
+    <h3>Nhóm 1: Similarity</h3>
+    <ul>
+      <li>Transitions: <strong>similarly</strong>, <strong>likewise</strong></li>
+      <li>Cấu trúc: <strong>SVO1.</strong> Similarly, <strong>SVO2</strong></li>
+      <li>Dùng khi 2 câu similar về nội dung</li>
+      <li>Cách thức của verb là giống nhau</li>
+      <li>Parallel về mặt meaning</li>
+    </ul>
+
+    <h4>Example:</h4>
+    <ul>
+      <li>Park HangSeo nâng tầm bóng đá Việt Nam bằng chiến thuật phòng ngự phản công. Similarly, Kim SangSik cải cách bóng đá Việt Nam bằng …</li>
+      <li>Pattern chung: nâng tầm - cải cách</li>
+      <li><strong>Double check:</strong></li>
+      <li>
+        <ul>
+          <li>Interview yourself: tìm thấy nội dung giống nhau trong 2 câu không?</li>
+          <li>Thường là cách thức của verb là giống nhau</li>
+          <li>Sự giống nhau khác “In other words” —&gt; Paraphase chứ không phải chỉ ra sự giống nhau</li>
+        </ul>
+      </li>
+    </ul>
+
+    <h3>Nhóm 2: Contrast</h3>
+    <ul>
+      <li>
+        Commonly used words:
+        <ul>
+          <li>However, Nevertheless, That said, Counterintuitively, Surprisingly, …</li>
+          <li>Granted, Admittedly, …</li>
+          <li>Actually, In reality, In actuality, …</li>
+        </ul>
+      </li>
+      <li>Thông thường: <strong>Granted = However</strong></li>
+      <li>
+        Phân biệt
+        <ul>
+          <li><strong>SVO1.</strong> Granted, <strong>SVO2</strong> — Thừa nhận một quan điểm mà có thể weaken my point, nhưng overall thì SVO1 vẫn đúng</li>
+          <li><strong>SVO1.</strong> In actuality, <strong>SVO2</strong> — Lý thuyết thì SVO1 là đúng, nhưng trên thực tế thì SVO1 sai (SVO2 counter SVO1)</li>
+          <li><strong>SVO1.</strong> However, <strong>SVO2</strong> — Thể hiện sự không lường trước, hạn chế, hoặc vấn đề</li>
+        </ul>
+      </li>
+      <li>
+        Một lỗi hay nhầm:
+        <ul>
+          <li>That said = However, …</li>
+          <li>That is = Indeed, In fact, …</li>
+        </ul>
+      </li>
+    </ul>
+
+    <h3>Nhóm 3: Casual</h3>
+    <ul>
+      <li>Bởi vì SVO1 nên SVO2</li>
+      <li>
+        Commonly used words:
+        <ul>
+          <li>Thus, Hence, As a result, Consequently, …</li>
+          <li>As such, In turn, Fittingly, To that end, …</li>
+        </ul>
+      </li>
+    </ul>
+
+    <h3>Nhóm 4: By contrast</h3>
+    <ul>
+      <li>Commonly used words: By contrast, Conversely, …</li>
+      <li>Khi muốn nhấn mạnh sự contrast</li>
+      <li>Tìm thấy 2 từ trái nghĩa (2 nội dung trái nghĩa nhau)</li>
+      <li>Chỉ quan tâm sự khác nhau khi cả However và By contrast xuất hiện</li>
+    </ul>
+
+    <h3>Nhóm 5: Explanation</h3>
+    <ul>
+      <li><strong>In other words</strong>, <strong>Put differently</strong> — Khi SVO2 là một dạng paraphrase của SVO1, vẫn cùng một nội dung như nhau</li>
+      <li><strong>Specifically</strong>, <strong>In particular</strong> — Khi SVO2 giải thích chi tiết hơn cho SVO1, SVO2 thường đưa thông tin mới vào</li>
+    </ul>
+
+    <h3>Note</h3>
+    <ul>
+      <li><strong>Ultimately</strong> = finally, thường được chọn khi 3 đáp án còn lại sai</li>
+      <li><strong>Alternatively</strong>, <strong>Alternately</strong> — như nhau</li>
+      <li>Cấu trúc: <strong>SVO1.</strong> Alternatively, <strong>SVO2</strong> — Dùng khi SVO2 đưa idea vào như là thay thế cho SVO1</li>
+      <li><strong>Fittingly</strong>, dùng khi 3 đáp án còn lại bị sai và khi SVO2 có nội dung align với SVO1</li>
+      <li>Casual: <strong>Fittingly = As a result</strong></li>
+      <li><strong>There</strong>: chỉ dùng khi câu phía trước có nhắc đến một địa điểm nào đó. SVO2 sẽ xảy ra tại location trong cái SVO1</li>
+      <li>
+        <strong>Then</strong>: 2 meaning
+        <ul>
+          <li>Later (hiếm dùng trong đề thi)</li>
+          <li>Now and then, that time — mô tả thời điểm xảy ra sự kiện đó, thời điểm được mention trong câu trước.</li>
+        </ul>
+      </li>
+    </ul>
+  </article>
+
+  <!-- SYNTHESIS -->
+  <article class="theory-content" id="synthesis-theory" data-title="Synthesis">
+    <h2>Synthesis</h2>
+
+    <h3>Mod 1</h3>
+    <ul>
+      <li>Không cần đọc bullet, chọn xong đáp án lướt qua bài check lại thông tin</li>
+    </ul>
+
+    <h3>Mod 2 (2 câu cuối)</h3>
+    <ul>
+      <li>Khi chọn đáp án xong, cần đọc kĩ bullet.</li>
+    </ul>
+
+    <h3>Các dạng bài của Synthesis</h3>
+
+    <h4>Make a generalization</h4>
+    <ul>
+      <li>Đáp án đúng là đáp án chứa nhiều thông tin trong bài nhất.</li>
+      <li>Đọc hết tất cả các bullets.</li>
+      <li>
+        Chú ý các từ thể hiện sự generalization như:
+        <ul>
+          <li>various/ a great number/ ...</li>
+          <li>both/ and/ or/ ...</li>
+        </ul>
+      </li>
+      <li>Nếu câu hỏi là "make a generalization about X" thì đáp án đúng phải có <strong>X</strong> là chủ ngữ hoặc X là nội dung chính của đáp án đúng.</li>
+    </ul>
+
+    <h4>Make and support</h4>
+    <ul>
+      <li>Phải có đủ cả 2 phần "make" và "support", tức là đáp án đúng phải có đưa ra một cái <strong>claim</strong> và <strong>ví dụ</strong> để support cái claim đó.</li>
+    </ul>
+
+    <h4>Introduce sth to a/an familiar/unfamiliar audience</h4>
+    <ul>
+      <li>Nếu là <strong>unfamiliar</strong>: đáp án đúng phải có thông tin cơ bản của sth.</li>
+      <li>Nếu là <strong>familiar</strong>: đáp án đúng không có thông tin cơ bản của sth.</li>
+    </ul>
+
+    <h4>Các dạng khác</h4>
+    <ul>
+      <li>Câu hỏi sẽ có các yêu cầu cụ thể.</li>
+      <li>Đáp án đúng phải đáp ứng hết tất cả các yêu cầu đó</li>
+    </ul>
+  </article>
+
+</div>
+    </section>
+  </main>
+
+  <!-- PLAN MODAL -->
+  <div class="plan-modal-backdrop" id="plan-modal">
+    <div class="plan-modal">
+      <button class="plan-close" id="plan-close">X</button>
+
+      <div class="plan-header-center">
+        <div class="plan-title-top">NÂNG CẤP GLORY</div>
+        <div class="plan-subtitle plan-subtitle-center">
+          Với giá chỉ gần bằGói GLORY 1 tháng của chúng mình có gì ?
+        </div>
+      </div>
+
+      <div class="plan-grid plan-grid-row">
+        <div class="plan-right">
+          <ul class="plan-benefits">
+            <li>Tổng hợp <b>tất cả các câu chúng mình từng làm</b> để đạt 1550->1600</li>
+            <li>Hơn 6000 câu Verbal + Toán</li>
+            <li>Group Zalo giải đáp các câu hỏi của mọi người</li>
+          </ul>
+
+          <p class="plan-footer-text">
+            Mọi người muốn đăng kí hoặc tư vấn có thể inbox trực tiếp qua Threads/Instagram glory.sat của chúng mình nhé!
+          </p>
+        </div>
+      </div>
+
+      <div class="plan-upgrade-center">
+        <button class="upgrade-btn" id="upgrade-btn">Nâng cấp ngay</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="theory.js"></script>
+  <script>
+    const accountStatus = document.getElementById("account-status");
+    const planModal = document.getElementById("plan-modal");
+    const closePlanBtn = document.getElementById("plan-close");
+    const upgradeBtn = document.getElementById("upgrade-btn");
+    let isProAccount = false;
+
+    function openPlanModal() {
+      if (!planModal) return;
+      planModal.classList.add("open");
+      document.body.classList.add("modal-open");
+    }
+
+    function closePlanModal() {
+      if (!planModal) return;
+      planModal.classList.remove("open");
+      document.body.classList.remove("modal-open");
+    }
+
+    function getSelectedPlan() {
+      return "month";
+    }
+
+    if (planModal) {
+      planModal.addEventListener("click", (event) => {
+        if (event.target === planModal) closePlanModal();
+      });
+    }
+
+    if (closePlanBtn) {
+      closePlanBtn.addEventListener("click", closePlanModal);
+    }
+
+    if (upgradeBtn) {
+      upgradeBtn.addEventListener("click", () => {
+        const plan = getSelectedPlan();
+        window.location.href = `/payment.html?plan=${plan}`;
+      });
+    }
+
+    async function loadAccountStatus() {
+      const el = document.getElementById("account-status");
+      if (!el) return;
+
+      const dot = el.querySelector(".status-dot");
+      const text = el.querySelector(".status-text");
+
+      const setState = (isPro) => {
+        isProAccount = !!isPro;
+        const isClickable = !isProAccount;
+        el.classList.toggle("pro", isProAccount);
+        if (dot) dot.classList.toggle("pro", !!isPro);
+        if (text) text.textContent = isPro ? "Tài khoản Pro" : "Tài khoản thường";
+        el.classList.toggle("clickable", isClickable);
+      };
+
+      try {
+        const res = await fetch("/api/me");
+        if (!res.ok) throw new Error("Session not available");
+        const me = await res.json();
+        setState(!!me?.isPro);
+      } catch (err) {
+        if (text) text.textContent = "Không lấy được trạng thái";
+        el.classList.remove("clickable");
+        console.error("Không thể lấy trạng thái tài khoản", err);
+      }
+    }
+
+    (function initPracticeMenu() {
+      const submenu = document.getElementById("practice-submenu");
+      const toggle = document.getElementById("practice-toggle");
+      const chevron = toggle?.querySelector(".chevron");
+
+      function setOpen(open) {
+        if (!submenu || !toggle) return;
+        submenu.classList.toggle("open", open);
+        toggle.classList.toggle("active", open);
+        if (chevron) {
+          const img = chevron.querySelector("img");
+          if (img) img.src = open ? "/images/up.webp" : "/images/down.webp";
+        }
+      }
+
+      if (toggle) {
+        toggle.addEventListener("click", () => setOpen(!submenu?.classList.contains("open")));
+      }
+
+      setOpen(false);
+    })();
+
+    if (accountStatus) {
+      accountStatus.addEventListener("click", () => {
+        if (!isProAccount) openPlanModal();
+      });
+    }
+
+    loadAccountStatus();
+  </script>
+
+  <script src="pro-account-popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,87 @@
+Question 1:
+A book-of-the-month club charges ${{MATH_1}} for the first book purchased during the month and an additional ${{MATH_2}} for each book after the first. Which equation describes this situation, where y is the total cost, in dollars, for books purchased during a month, x is the number of books purchased during the month, and {{MATH_3}} ?
+
+A. {{MATH_4}}
+B. {{MATH_5}}
+C. {{MATH_6}}
+D. {{MATH_7}}
+Answer: C
+
+Question 2:
+A company developed a plan to set the selling price of a product. The company determined that for a selling price of ${{MATH_8}}, zero products would be sold. For each ${{MATH_9}} decrease in the selling price, the number of products sold would increase by one. For a revenue of exactly ${{MATH_10}}, which of the following could be the number of products sold?
+(revenue = price × number of products sold)
+
+A. {{MATH_11}}
+B. {{MATH_12}}
+C. {{MATH_13}}
+D. {{MATH_14}}
+Answer: A
+
+Question 3:
+The equation of the graph shown is {{MATH_15}}, where a and b are constants. What is the value of {{MATH_16}}?
+
+Answer: 12
+
+Question 4:
+{{MATH_18}}
+Which of the following equations is equivalent to the given equation, where b is a positive constant?
+
+A. {{MATH_19}}
+B. {{MATH_20}}
+C. {{MATH_21}}
+D. {{MATH_22}}
+Answer: A
+
+Question 5:
+The equation {{MATH_23}} gives the distance d, in feet, from a reference point on the surface of Mars to a Mars rover, where t is the number of minutes after the start of a period of observation. By how many feet does the Mars rover’s distance from the reference point increase over a period of {{MATH_24}} minutes?
+
+A. {{MATH_25}}
+B. {{MATH_26}}
+C. {{MATH_27}}
+D. {{MATH_28}}
+Answer: C
+
+Question 6:
+{{MATH_29}}
+In the given equation, b is an integer. The equation has no real solutions. What is the least possible value of b?
+
+Answer: -13
+
+Question 7:
+An object's average acceleration, in meters per second squared, is the change in the object's speed, in meters per second, divided by the time during which the change occurred, in seconds. A certain object's speed changes by 45 meters per second in 6 seconds. What is this object's average acceleration, in meters per second squared, during this time period?
+
+A. {{MATH_31}}
+B. {{MATH_32}}
+C. {{MATH_33}}
+D. {{MATH_34}}
+Answer: B
+
+Question 8:
+{{MATH_35}}
+{{MATH_36}}
+A solution to the given system of equations is (x, y). What is a possible value of x?
+
+A. {{MATH_37}}
+B. {{MATH_38}}
+C. {{MATH_39}}
+D. {{MATH_40}}
+Answer: A
+
+Question 9:
+Lao walks at a speed of 2 miles per hour and runs at a speed of 6 miles per hour. He walksfor w hours and runs for r hours for a combined total of 10 miles. Which equation represents this situation?
+
+A. {{MATH_41}}
+B. {{MATH_42}}
+C. {{MATH_43}}
+D. {{MATH_44}}
+Answer: A
+
+Question 10:
+{{MATH_45}}
+The given function f estimates the distance a train has traveled, in kilometers, from a station in a certain city x hours after crossing the city border. What is the best interpretation of 12 in this context?
+
+A. Between the station and the city border, the train traveled an estimated total distance of 12 kilometers.
+B. After crossing the city border the train traveled at an estimated speed of 12 kilometers per hour.
+C. After crossing the city border the train traveled an estimated total distance of 12 kilometers.
+D. Between the station and the city border, the train traveled at an estimated speed of 12 kilometers per hour.
+Answer: A

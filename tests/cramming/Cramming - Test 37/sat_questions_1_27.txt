@@ -1,0 +1,403 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Though iconic Brutalist structures, like the Barbican Estate (1976) in London, UK, are known for their visually arresting use of concrete, the choice of the material was also ______. The unprecedented expansion of public services and civic institutions in the United Kingdom during the 1950s–70s required widescale construction, and concrete was inexpensive and plentiful.
+
+
+A. anomalous
+B. polarizing
+C. onerous
+D. pragmatic
+Answer: D
+
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Merging the continuous text of prose with the condensed language of poetry, the prose poem—exemplified by Claudia Rankine’s “Coherence in Consequence”—resists rigid classification. Because some writers emphasize conventional poetic devices while others strictly maintain a prosaic aesthetic, the form is distinguished by the ______ of its execution.
+
+
+A. heterogeneity
+B. intransigence
+C. synchronicity
+D. obfuscation
+Answer: A
+
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Studying advertisements for defunct amusement parks, menus from nineteenth-century restaurants, and handbills promoting long-forgotten political candidates may seem like a frivolous pursuit, but ephemeral objects like these are useful as _____ cultural change, revealing shifts in norms, values, and concerns that traditional objects of historical inquiry may not.
+
+
+A. alternatives to
+B. conjectures about
+C. indices of
+D. pretexts for
+Answer: C
+
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+There is _____ in the director’s most recent film that keeps the melodramatic possibilities latent in its script safely at bay. The restraint exercised in the storytelling allows for a more nuanced exploration of the characters' internal conflicts, maintaining a dignified tone throughout the narrative.
+
+
+A. a mawkishness
+B. a predictability
+C. an austerity
+D. an ostentatiousness
+Answer: C
+
+
+Question 5:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Anne Carson’s work, Nox, is intentionally crafted as a _____ literary artifact, standing in stark contrast to the e-reader, which is designed to disappear seamlessly in your hand during a commute. The tangible and weighty nature of Nox demands a more engaged, physical interaction from its readers, highlighting the deliberate choice of format.
+
+
+A. evanescent
+B. cumbersome
+C. immutable
+D. ephemeral
+Answer: B
+
+
+Question 6:
+[Structure]
+Which choice best states the main purpose of the text?
+
+In 2016 Ana Filipa Lopes and colleagues published a study concluding that ocean acidification has a strong effect on the behavior of Atherina presbyter, a species of fish. However, Lopes and colleagues’ study relied on a mean sample size of only about 15 fish. In a 2022 review of various scientists’ conclusions about the impacts of ocean acidification on fish behavior, Timothy D. Clark and colleagues caution that relying on such a relatively small sample size can increase the potential for biased analysis. Such analysis, in turn, can contribute to reports of exaggerated effects.
+
+
+A. To discuss an aspect of ocean acidification that is frequently overlooked
+B. To note a potential concern about the findings of a scientific study
+C. To present a debate between two research teams about a cause of ocean acidification
+D. To explain how the behavior of a fish species has changed over time
+Answer: B
+
+
+Question 7:
+[Structure]
+Which choice best states the main idea of the text?
+
+Habitat navigation is a skill that helps animals reach food or safety. To test how navigation works in fish, Shachar Givon and colleagues taught goldfish to drive a vehicle—a motorized fish tank with wheels—on land. The vehicle was programmed to move in the same direction that the fish swam in within the tank. In the experiment, the fish were tasked with driving their tank to a pink board. They received a treat when they succeeded, and they often did. Because the fish could move their tank to the board, Givon concludes that their navigational skills aren’t specific to an aquatic environment.
+
+
+A. Fish can navigate only within their natural aquatic environment in order to find food and safety.
+B. An animal’s navigational skills directly depend on that animal’s particular environment.
+C. Researchers can train animals to complete many different tasks when they offer the animals treats.
+D. Research shows that although they live in the water, fish can navigate on land with a little mechanical help.
+Answer: D
+
+
+Question 8:
+[COE]
+Which quotation from a translation of Uncle Vanya most effectively illustrates the claim?
+
+"Uncle Vanya: Scenes from Country Life in Four Acts" is an 1898 play by Anton Chekhov, originally written in Russian. In the play, Professor Serebryakov and his wife Helena have come to stay at their country estate, which Vanya manages with the help of Sonia, the professor's daughter from a previous marriage. Chekhov portrays the professor as being unable to adjust to living at the country estate, as is evident when ______.
+
+
+A. Professor Serebryakov says, "I am a book-worm and a scholar, and am unfamiliar with practical affairs. I cannot, I find, dispense with the help of well-informed people."
+B. Professor Serebryakov says to Helena, "I am used to my library and the lecture hall and to the esteem and admiration of my colleagues. Now I suddenly find myself plunged into this wilderness [the estate] and condemned to see the same stupid people from morning till night and listen to their futile conversations."
+C. Professor Serebryakov says to Helena, "Of course I see that it is foolish for me to live so long, but what I shall soon set you all free. My life cannot drag on much longer."
+D. Vanya says to himself, "I was proud of [Professor Serebryakov] and of his learning. I received all his words and writings as inspired and now? Now he has retired, and what is the total of his life? A blank!"
+Answer: B
+
+
+Question 9:
+[COE]
+Which finding from the study, if true, would most directly account for the recommendation by Venter et al.?
+
+Vegetation has two primary mechanisms by which it reduces air pollution: deposition (absorption of pollutants) and, the more effective, dispersion (dilution of pollutants by ventilation). Accordingly, establishment of green space to reduce major air pollutants such as coarse particulate matter in urban areas receives considerable attention. Research by Zander S. Venter et al. comprised data from air-quality monitoring stations in Belgium, the US state of West Virginia, and thousands of other global locations over a ten-year span, coupled with aerial imagery of those locations from the same period. The researchers ultimately recommended that reducing anthropogenic emissions remain the primary focus of urban air-quality improvement efforts.
+
+
+A. The association between levels of coarse particulate matter and green space is strongly negative for locations containing or in close proximity to major cities but becomes insignificant for more rural locations.
+B. The association between green space and coarse particulate matter levels is moderately negative overall but becomes slightly negative and sometimes positive when consideration is limited to busy streets with tree cover heavy enough to hinder ventilation.
+C. Ambient levels of coarse particulate matter are comparable across locations with comparable local infrastructure (e.g., typical building shape) but vary considerably depending on the predominant type of vegetation present.
+D. There is a predictable relationship between a location’s typical climate conditions and the efficacy of green space in that location, but anomalous local weather events have an outsized effect on deposition and dispersion of coarse particulate matter.
+Answer: B
+
+
+Question 10:
+[COE]
+Which choice best describes data from the table that supports a hypothesis by Ehmann and colleagues?
+
+One way that young orangutans acquire foraging skills is through a behavior scientists call peering—closely watching older orangutans as they engage in an activity that the young have not yet mastered. Since male orangutans typically leave the area of their birth upon maturity and females do not, Beatrice Ehmann and her colleagues hypothesized that it is more advantageous for immature males than females to devote attention to orangutans who are immigrants to the home region of the immature individual, and this should be reflected in sex-specific differences in peering behavior.
+
+
+
+A. Individual 17 directed a higher proportion of peering events at immigrants to its home region than did individual 10, and individual 1 directed a higher proportion of peering events at immigrants to its home region than did individual 6.
+B. The proportion of peering events directed at immigrants to immature orangutans' home regions ranged from a low of 0.33 to a high of 1.00.
+C. Individual 10 had the highest total number of peering events observed at 33.
+D. Individual 6 and individual 1 directed a lower proportion of peering events at immigrants to their home regions than did individual 17 and individual 10.
+Answer: D
+
+
+Question 11:
+[Infer]
+Which choice most logically completes the text?
+
+Neuroscientist Artin Arshamian and his team sought to determine what affects a person's perception of an odor as pleasant: is it culture, personal taste, or aspects of human anatomy? The team assessed odor preferences in ten groups of people with different modes of living (urban, agricultural, and hunter-gatherer), including the Manig people from a small community in Thailand and urban dwellers from a large city in Mexico. The team observed that across cultures, people generally rated odors about the same: ethyl butyrate, which smells like peaches, was typically rated more pleasant than mushroom alcohol, which smells like fungus. The team's study thus undermined the idea that ______.
+
+
+A. person who perceives certain odors as pleasant will likely perceive the odors as roughly equal in pleasantness
+B. culture significantly influences whether a person perceives an odor as pleasant or unpleasant
+C. people agree in their perception of odors as pleasant or unpleasant regardless of where they live
+D. personal taste has little influence on whether odors are perceived as pleasant or unpleasant
+Answer: B
+
+
+Question 12:
+[COE]
+Taken together, information in the text and graph best support which conclusion about the campaign ads used in the study by Valentino et al.?
+
+Political scientists have asserted that by providing succinct and clear information about candidates and issues, campaign advertisements should reduce the differences in political knowledge observed between groups of voters. Cognitive scientists have noted, however, that existing domain knowledge facilitates the acquisition of new information in that domain. Valentino et al. shed light on this issue by presenting control ads or ads for George W. Bush or Al Gore (candidates in the 2000 US presidential election) to participants with low or high existing political knowledge, then quizzing participants on their understanding of both candidates’ positions.
+
+
+
+A. They appear to have benefited high-knowledge participants more than they benefited low-knowledge participants, which lends more support to the view advanced by political scientists than to the view advanced by cognitive scientists.
+B. They appear to have had an effect contrary to the effect that political scientists expect campaign ads to have, possibly due to the phenomenon that cognitive scientists have identified.
+C. They appear to have worsened the problem that political scientists claim that campaign ads should alleviate, possibly because the phenomenon identified by cognitive scientists appears not to have occurred.
+D. They appear to have had the result that political scientists predict that campaign ads will have, but only for high-knowledge participants, which is what cognitive scientists would expect.
+Answer: B
+
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+Carcinization, or the evolution of a crablike body form, has taken place in crustaceans many times over the last 250 million years. Decarcinization has occurred several times as well, even though it often involves the loss of traits such as sideways walking that seem to have helped carcinized groups persist in a variety of ecosystems. In a 2021 paper, Joanna Wolfe and team note that many decarcinized groups are extinct and have very few living relatives—signs that decarcinization might be an “evolutionary dead-end.” But the team also discusses frog crabs, a living decarcinized group with traits suited to dwelling in sediment; fossils show that the group had decarcinized members as far back as the Early Cretaceous. This example suggests that ______.
+
+
+A. the evolutionary benefits of a crablike body form are less certain than many studies of carcinization had previously implied.
+B. despite having many living relatives, some decarcinized groups did not benefit from decarcinization.
+C. sideways walking may have been less important to the survival of frog crabs than a protected abdomen and other traits associated with carcinization.
+D. a crablike body form may not be optimal in all cases, with ecological conditions sometimes favoring the persistence of decarcinization.
+Answer: D
+
+
+Question 14:
+[COE]
+Which statement, if true, would most directly support the claim in the underlined sentence?
+
+Most Native languages belong to language families, or groups of languages whose similarities in vocabulary and grammar suggest shared descent from a single language spoken long ago. In contrast, the language spoken by the Chimariko people in a mountainous area of Northern California was an isolate, or a language with no demonstrated relationship to other languages. Isolates are more prevalent in mountainous regions, likely because challenging terrain inhibits the geographical expansion of language families. __Yet factors other than geographical barriers also influenced the distribution of Indigenous languages in California and elsewhere in the present-day United States.__
+
+
+A. In mountainous regions of the western US, isolate-speaking peoples historically relied on foraging, hunting, and fishing, while peoples who speak languages in the Uto-Aztecan family historically practiced intensive farming.
+B. Several nonisolate languages in the US Southeast, such as Miccosukee, are also associated with challenging terrain, albeit with swamps and coastal wetlands rather than mountain chains.
+C. Northern Paiute, a language in the Uto-Aztecan family, was originally spoken in a vast expanse of Idaho, Nevada, and Oregon—a region whose mountainousness rivals that of the homeland of the Chimariko people.
+D. The isolates spoken in California and the surrounding region, such as Chimariko, possess similarities to neighboring nonisolate languages at the level of vocabulary, suggesting that isolates can easily acquire words from unrelated languages through cultural exchange.
+Answer: A
+
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+Although the language of the Olmec civilization, which flourished in southern Mexico circa 1500 BCE–400 BCE, hasn’t been identified, it likely belonged to the Mixe-Zoquean family, a group of related languages whose present-day representatives are spoken in an area corresponding to ancient Olmec sites. The family can be subdivided into a Zoque branch, which includes Francisco León Zoque, and a Mixe branch, which includes North Central Mixe. Many words in the Mayan languages—languages spoken in the region but otherwise unrelated to the Mixe-Zoquean family—are Mixe-Zoquean in origin and were likely borrowed during the period when the Olmecs dominated the entire area. Tellingly, all those words derive from the Zoque branch, suggesting that _____.
+
+
+A. North Central Mixe and the other languages of the Mixe branch likely supplanted the languages of the Zoque branch sometime before 1500 BCE.
+B. the language of the Olmec civilization was likely the founding language of the family that includes Mayan languages.
+C. the language of the Olmec civilization contributed words not only to Mayan languages but also to other languages in the Mixe-Zoquean family.
+D. the Mixe-Zoquean family had already diverged into the Mixe and Zoque branches by the time the Olmecs became the prevailing power in the region.
+Answer: D
+
+
+Question 16:
+[COE]
+What evidence from the table most strongly supports the scientists' conclusion?
+
+Using atomic absorption spectroscopy, a precise method for measuring elemental concentrations, a team of environmental scientists led by Dr. Aris Thorne investigated potential water pollution in the Willow Creek River. They collected water samples from three locations: upstream from an industrial factory (serving as a control), downstream from the factory, and directly from the factory's wastewater effluent. By comparing the concentrations of specific heavy metals across the samples, the team concluded that the factory's discharge is the primary source of downstream contamination, rather than naturally occurring mineral deposits.
+Heavy Metal Concentrations in Water Samples (in Parts per Million, ppm)
+
+
+
+A. The presence of mercury and cadmium was recorded in the downstream and factory effluent samples, whereas these metals were absent from the upstream control sample.
+B. Concentrations for both zinc and copper were identified in the upstream, downstream, and effluent samples.
+C. Both lead and mercury were found in the upstream control sample as well as in the factory effluent.
+D. The data indicates that concentrations of lead and zinc are significantly higher in the factory effluent compared to the downstream sample.
+Answer: A
+
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The African baobab (Adansonia digitata) known as Panke Baobab, located in Zimbabwe, was one of the oldest known trees in the world, at 2,419 years old. With over two millennia of climate data in its tree ______ single tree like this, claims dendrochronologist Valerie Trouet, can tell the history of the world.
+
+
+A. rings, a
+B. rings. A
+C. rings and a
+D. rings; a
+Answer: A
+
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Assembling ____ by hand and in painstaking detail, Nigerian American artist Ndidi Okonkwo works at a methodical pace when completing her massive collage-based paintings.
+
+
+A. it
+B. that
+C. her
+D. them
+Answer: D
+
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+While the greater adjutant can be found in places like the Inner Gulf of Thailand and the Chhep Wildlife Sanctuary in Cambodia, more than 80 percent of this endangered stork species is found in Assam, India. There, wildlife biologist Dr. Purnima Devi Barman is on the front lines of conservation efforts that—through community involvement and scientific ____ aim to bring adjutants back from near extinction.
+
+
+A. study,
+B. study—
+C. study:
+D. study
+Answer: B
+
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Although the term “balloonomaniac”—referring to the hot-air balloon fad in England and France in the late 1700s—might suggest that the public as a whole was captivated by the technology, it was not universally ______ whereas many flocked to balloon launches and purchased balloon-themed items ranging from dinnerware to accessories, others dismissed the hot-air balloon as an impractical and dangerous extravagance.
+
+
+A. embraced:
+B. embraced
+C. embraced,
+D. embraced and
+Answer: A
+
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Residents of Cairo, Egypt, rely on its rapid transit system, the Cairo Metro, for millions of trips each year. ____ city officials strive to maintain the system’s 71 stations to ensure each of these journeys is as smooth as possible.
+
+
+A. For this reason,
+B. However,
+C. For example,
+D. Alternatively,
+Answer: A
+
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Artist and writer Kameelah Janan Rasheed wanted to demonstrate the value of textual revision and to encourage audiences to embrace it as a sign of learning. _________ she was transparent about the revision process for her 2019 book *No New Theories*, adding annotations to the original text to indicate where her ideas had shifted or deepened.
+
+
+A. Thus,
+B. Nevertheless,
+C. Instead,
+D. D. Later
+Answer: A
+
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As can be seen in the case of *The Dial*, a New York magazine published from July 1920 to July 1929, some small periodicals influential in the development of the modernist movement have been explored in depth by scholars. The London magazine *Voices* (1919), ________remains among those modernist periodicals "of interest and significance about which relatively little is known," according to scholars Peter Brooker and Andrew Thacker.
+
+
+A. likewise,
+B. moreover,
+C. though,
+D. for instance,
+Answer: C
+
+
+Question 24:
+[Synthesis]
+The student wants to emphasize an objective of the GREEN SURGE study. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• A multiyear study called GREEN SURGE examined forty-four different types of UNAs (urban natural areas) in cities throughout Europe.
+• A primary aim of the study was to determine the benefits of UNAs in these cities.
+• Large urban parks are among the types of UNAs included in the study.
+• Large urban parks are defined as green city areas reserved for recreational use.
+• They can benefit urban environments by contributing to biodiversity.
+
+
+A. For multiple years, the GREEN SURGE study was conducted in cities throughout Europe.
+B. To achieve its main objective, the GREEN SURGE study examined forty-four different types of UNAs, including large urban parks.
+C. Determining the benefits of UNAs in European cities was a primary aim of the GREEN SURGE study.
+D. Large urban parks, which were included in the GREEN SURGE study, can benefit urban environments by contributing to biodiversity.
+Answer: C
+
+
+Question 25:
+[Synthesis]
+The student wants to explain why mitochondria are not considered separate organisms from their host cells. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• A eukaryotic cell is a complex cell with a nucleus and organelles; it can exist as an independent organism.
+• A prokaryotic cell (like a bacterium) is a simpler, independent organism with its own complete genome.
+• The theory of endosymbiosis posits that organelles like mitochondria originated when a free-living prokaryote was engulfed by an ancestral host cell.
+• This relationship was initially thought by some to be a form of simple, potentially reversible, mutualism.
+• Genomic studies show that over evolutionary time, the endosymbiont (the engulfed cell) transferred many of its essential genes to the host cell's nucleus.
+• Consequently, the mitochondrion lost its genetic autonomy and can no longer survive or reproduce outside the host.
+• The host cell is now critically dependent on the mitochondrion for energy production.
+• The result of this permanent integration is considered a single, composite organism.
+
+
+A. According to the theory of endosymbiosis, a single composite organism is formed when a eukaryotic host cell engulfs a prokaryotic cell.
+B. Although they originated as independent prokaryotes, mitochondria are no longer separate organisms because they have lost the genetic capacity for autonomous survival through the transfer of essential genes to the host's nucleus.
+C. Mitochondria and their host cells form a single organism because their relationship is a simple, reversible form of mutualism.
+D. Because the host cell has become critically dependent on the mitochondrion for its energy production, the mitochondrion is no longer a separate organism.
+Answer: B
+
+
+Question 26:
+[Synthesis]
+The student wants to provide an example of a poem by Johnson. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Charles Bertram Johnson (1880–1958) was an African American poet.
+•Johnson also worked as an educator and minister.
+• “Old Things” is a poem by Johnson.
+•It was published in the March 1923 issue of The Crisis.
+•The Crisis is an influential Black literary magazine.
+
+
+A. Johnson was an African American poet, educator, and minister.
+B. Johnson published poetry in a literary magazine called The Crisis.
+C. One example of a poem by Johnson is “Old Things” (1923).
+D. The Crisis is an influential Black literary magazine that has published poetry.
+Answer: C
+
+
+Question 27:
+[COE]
+Which choice most effectively uses information from the given sentences to emphasize a difference between the two flags?
+
+While researching a topic, a student has taken the following notes.
+• Vexillology is the study of flags.
+• The flags of many countries include symbols like animals, plants, or landforms.
+• These symbols often represent an aspect of the region's history, culture, or landscape.
+• The flag of Eritrea includes an olive branch.
+• The flag of Croatia includes leopards.
+
+
+A. Many countries feature symbols on their flags, such as animals, plants, or landforms, and the study of these designs is known as vexillology.
+B. Countries like Eritrea and Croatia use symbols on their flags; examples include plants and animals.
+C. Vexillologists study flags, like those of Eritrea and Croatia.
+D. Eritrea includes a plant on its flag, whereas Croatia's flag includes an animal.
+Answer: D

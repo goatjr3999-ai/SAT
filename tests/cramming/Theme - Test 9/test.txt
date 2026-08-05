@@ -1,0 +1,271 @@
+Question 1:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+The *Lartington* is just one of approximately three million known historical shipwrecks spread throughout the world’s oceans, and their impact on sea life and underwater ecosystems is of great interest to researchers. Rachel Mugge and colleagues were particularly curious about the effects of wooden shipwrecks on seafloor microbial communities. The researchers studied two wooden shipwrecks in the Gulf of Mexico by placing pieces of pine and oak between zero and 200 meters away from each shipwreck to collect samples of three kinds of microbes: bacteria, archaea, and fungi. They found that across the three microbial communities, peak diversity and richness was observed on pine and oak samples placed approximately 125 meters from the shipwrecks.
+
+
+A. It notes a general scientific interest in shipwrecks’ ecological effects, describes a specific study related to that interest, and then states one of the study’s findings.
+B. It states the number of known shipwrecks, describes the historical significance of one of those shipwrecks, and then comments on the various microbes found at the shipwreck site.
+C. It names a famous historical shipwreck, describes the type of wood used to build that ship, and then explains how that wood type influences underwater microbial communities.
+D. It introduces a study of microbial communities near shipwrecks that has received significant scholarly attention, summarizes the results of that study, and then describes a research team’s reaction to the study.
+Answer: A
+
+Question 2:
+[COE]
+According to the text, which type of microbe community was most significantly influenced by wood type?
+
+The Madiana is just one of approximately three million known historical shipwrecks spread throughout the world’ s oceans, and their impact on underwater life and ecosystems is of great interest to researchers. Justyna Hampel and colleagues were particularly curious about the effects of wooden shipwrecks on three different seafloor microbial communities: bacteria, archaea, and fungi. The researchers studied two wooden shipwrecks in the Gulf of Mexico by placing pieces of pine and oak between zero and 200 meters away from each shipwreck to collect samples of microbes. They found that wood type had a much more significant influence on bacterial community composition than on archaeal or fungal community composition.
+
+
+A. Archaea
+B. Bacteria
+C. Algae
+D. Fungi
+Answer: B
+
+Question 3:
+[COE]
+Which choice best states the purpose of the text?
+
+The *Lartington* is just one of approximately three million known historical shipwrecks spread throughout the world’s oceans, and their impact on sea life and underwater ecosystems is of great interest to researchers. Rachel Mugge and colleagues were particularly curious about the effects of wooden shipwrecks on seafloor microbial communities. The researchers studied two wooden shipwrecks in the Gulf of Mexico by placing pieces of pine and oak between zero and 200 meters away from each shipwreck to collect samples of three kinds of microbes: bacteria, archaea, and fungi. They found that across the three microbial communities, peak diversity and richness was observed on pine and oak samples placed approximately 125 meters from the shipwrecks.
+
+
+A. To outline an experiment comparing microbial growth on different types of wood placed in the ocean.
+B. To argue that historic shipwrecks are harmful to marine ecosystems and ought to be removed.
+C. To present a study investigating influence of a particular phenomenon and summarize its key finding.
+D. To claim that microbial diversity inevitably decreases as the distance from any shipwreck increases.
+Answer: C
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although most critics judge Vasily Grossman’s **Stalingrad**—his World-War-II saga about the Soviet Union—less accomplished than his later novel *Everything Flows*, some still praise the book. Gary Saul Morson, for instance, called it “remarkably bold” in *The New York Review of Books*. Yet because extensive cuts and rewrites were imposed by Soviet censors, such accolades must be ______ in light of the novel’s compromised textual state.
+
+
+A. disparage
+B. replicated
+C. construed
+D. expunged
+Answer: C
+
+Question 5:
+[Structure]
+Which choice best states the main idea of the text?
+
+Studies of ocean wave breaking have predominantly focused on traveling waves (those propagating along the horizontal plane), so Mark McAllister et al. utilized a circular water tank to produce and study spike waves, axisymmetric standing waves that can erupt vertically when traveling waves propagating in opposing directions intersect. Traveling waves break when wave steepness (height-to-length ratio) passes a critical threshold; breaking thus constrains wave height. McAllister et al. found that spike waves can exceed that constraint, as do other factors than just steepness (e.g., jet stability and cavity shape) mediate spike-wave breaking.
+
+
+A. McAllister et al. suggest that spike waves can form when traveling waves propagating in opposing directions intersect and that spike waves tend to be higher than traveling waves.
+B. The process of breaking limits the height of traveling waves, but the study by McAllister et al. suggests that spike waves can exceed those limits if their height-to-length ratio reaches a critical threshold.
+C. The study by McAllister et al. suggests that when traveling waves intersect in specific ways, the resulting wave may be higher than would be expected based on the properties of traveling waves.
+D. Previous studies have suggested that steepness mediates breaking in traveling waves, but the study by McAllister et al. shows that jet stability and cavity shape may also influence breaking in such waves.
+Answer: C
+
+Question 6:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Studies of ocean wave breaking have predominantly focused on traveling waves (those propagating along the horizontal plane), so Mark McAllister et al. utilized a circular water tank to produce and study spike waves, axisymmetric standing waves that can erupt vertically when traveling waves propagating in opposing directions intersect. Traveling waves break when wave steepness (height-to-length ratio) passes a critical threshold; breaking thus constrains wave height. McAllister et al. found that spike waves can exceed that constraint, as do other factors than just steepness (e.g., jet stability and cavity shape) mediate spike-wave breaking.
+
+
+A. It describes a traditional area of scientific focus, then presents the findings of a study that challenges that tradition.
+B. It outlines the methodology of a particular scientific study, then explains how that methodology differs from those of previous studies.
+C. It establishes the conventional understanding of a constraint on one phenomenon, then discusses a study that investigates a related phenomenon not subject to the same constraint.
+D. It presents two competing theories about a single phenomenon and then argues in favor of the more recent one.
+Answer: C
+
+Question 7:
+[WIC]
+As used in the text, what does the word "object" most nearly mean?
+
+The following text is from Agatha Christie's 1924 novel *The Man in the Brown Suit*. My object in life is to be thoroughly comfortable. I have devoted a certain amount of thought, and a considerable amount of money, to further that end. But I cannot say that I always succeed.
+
+
+A. Article
+B. Goal
+C. Regret
+D. Shock
+Answer: B
+
+Question 8:
+[COE]
+Which quotation from The Man in the Brown Suit most effectively illustrates the claim?
+
+*The Man in the Brown Suit* is a 1924 novel by Agatha Christie. In the novel, the protagonist, Anne Beddingfeld, talks about how much her father disliked living in the present era, saying, ______
+
+
+A. "Although [Papa] was a fellow of almost every important society, and had rows of letters after his name, the general public scarcely knew of his existence."
+B. "[Papa] really was a genius—every one admits that."
+C. "[Papa's] mind dwelt in Palaeolithic times, and the inconvenience of life for him was that his body inhabited the modern world."
+D. "In a few minutes Papa stalked off."
+Answer: C
+
+Question 9:
+[COE]
+Which quotation from The Man in the Brown Suit most effectively illustrates the claim?
+
+*The Man in the Brown Suit* is a 1924 novel by Agatha Christie. In the novel, the protagonist, Anne Beddingfeld, expresses a deep desire for excitement and a frustration with the dullness of her life, saying, ______
+
+
+A. "I had thought that I had the boat deck to myself, but now I observed another figure leaning over the rail."
+B. "I yearned for adventure, for love, for romance, and I seemed condemned to an existence of drab utility."
+C. "I slept heavily that night on my hard bunk, struggling with ill-defined, menacing dreams."
+D. "Things that one would shrink from attempting normally are easily tackled in a flush of anger."
+Answer: B
+
+Question 10:
+[COE]
+Which quotation from The Man in the Brown Suit most effectively illustrates the claim?
+
+The Man in the Brown Suit is a 1924 novel by Agatha Christie. In the novel, the protagonist, Anne Beddingfeld, expresses a deep desire for excitement and a frustration with the dullness of her life, saying, ______
+
+
+A. “I found my way down to the saloon, began to eat gingerly, and finished by consuming an enormous meal.”
+B. “I yearned for adventure, for love, for romance, and I seemed condemned to an existence of drab utility.”
+C. “Things that one would shrink from attempting normally are easily tackled in a flush of anger.”
+D. “I was conscious of an aching head and a shooting pain down my left arm when I tried to move.”
+Answer: B
+
+Question 11:
+[Cross Text]
+Based on the texts, how would the author of Text 2 most likely respond to the argument presented in Text 1?
+
+Text 1
+Sir Geoffrey Luttrell paid for the making of the Luttrell Psalter, a medieval record of religious songs illustrated with striking images. Not all of Luttrell's actions were admirable, however. Most infamously, he participated in what was essentially a private war against Sempringham Priory, a monastery near his manor, even making off with 500 pounds' worth of monastery property during a violent raid. Historians shouldn't overlook this fault in his character.
+Text 2
+Some historians claim that an assessment of Luttrell's life must mention both his support of the Luttrell Psalter and his behavior toward his neighbors. But contemporary descriptions of Luttrell's "raid" on Sempringham Priory contain what appear to be exaggerated claims characteristic of complaints by those whose property has been legally seized as compensation for money owed, which is likely the case here.
+
+
+A. By arguing that when considering Luttrell's character, one should take into account that primary sources for his interaction with Sempringham Priory may not be objective
+B. By suggesting that judging Luttrell's actions regarding Sempringham Priory is difficult because contemporary depictions disagree about important details
+C. By pointing out that scholars evaluating Luttrell's behavior should bear in mind that many details in firsthand descriptions of his conflict with Sempringham Priory have been shown to be false
+D. By claiming that a proper analysis of Luttrell's dispute with Sempringham Priory needs to acknowledge that Priory sources concede that Luttrell was owed money
+Answer: A
+
+Question 12:
+[Cross Text]
+Based on the texts, how would the author of Text 2 most likely respond to the underlined sentence in Text 1?
+
+Text 1:
+ Sir Geoffrey Luttrell funded the creation of the Luttrell Psalter, notable for its portrayal of life on a 14th-century English estate. Not all of Luttrell’s actions were admirable, however. Most infamously, he participated in a power-driven, and violent, raid against Sempringham Priory, a monastery near his manor, even making off with 500 pounds’ worth of monastery property during a raid. __Historians shouldn’t overlook this fault in his character.__
+Text 2:
+ Some historians claim that though Luttrell was responsible for the creation of the Luttrell Psalter, this should not obscure his mistreatment of his neighbors. But his conflict with Sempringham Priory must be seen as an incident of a property dispute involving land on which his manor sat: he was taking property to which he thought he had a right.
+
+
+A. By agreeing that though the law was clear, Luttrell was wrong to have raided Sempringham Priory
+B. By pointing out that if Luttrell had taken the actions of which he is accused, then there would be documentation of those actions in the Luttrell Psalter
+C. By asserting that a consideration of Luttrell’s behavior should take into account that he believed his actions were justified
+D. By suggesting that whatever infractions Luttrell might have committed are outweighed by the cultural value of the Luttrell Psalter
+Answer: C
+
+Question 13:
+[Cross Text]
+Based on the texts, how would the author of Text 2 most likely respond to the claim in the underlined sentence in Text 1?
+
+Text 1:
+ Sir Geoffrey Luttrell paid for the making of the Luttrell Psalter, a medieval record of religious songs illustrated with striking images. Not all of Luttrell’s actions were admirable, however. Most infamously, he participated in what was essentially a private war against Sempringham Priory, a monastery near his manor, even making off with 500 pounds’ worth of monastery property during a raid. __So Luttrell’s reputation should be regarded as questionable at best.__
+Text 2:
+ Some historians claim that an assessment of Luttrell’s life must mention both his support of the Luttrell Psalter and his behavior toward his neighbors. But his conflict with Sempringham Priory must be seen as an indirect result of a property dispute involving land on which his manor sat: he was taking property to which he thought he had a right.
+
+
+A. By pointing out that if Luttrell had taken the actions of which he is accused, then there would be documentation of those actions in the Luttrell Psalter
+B. By agreeing that though the law might have permitted Luttrell to do so, Luttrell was wrong to have raided Sempringham Priory
+C. By asserting that a consideration of Luttrell’s behavior should take into account that he believed his actions were justified
+D. By suggesting that whatever infractions Luttrell might have committed are outweighed by the cultural value of the Luttrell Psalter
+Answer: C
+
+Question 14:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The metal displayed in the structure of House in Kamiaraya by Kazuto Nishi Architects and the metal hardware in UE House by GENETO are representative aspects of a juxtaposition common in contemporary Japanese architecture: the _____ of sleek, contemporary elements and traditional organic materials in a single design is a trend with both aesthetic and highly practical purposes.
+
+
+A. designation
+B. analysis
+C. diffusion
+D. synthesis
+Answer: D
+
+Question 15:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+The metal featured in both the structure of the House in Kamiaraya by Kazuto Nishi Architects and the hardware in the One-Room Residence of 5 Layers by Matsuyama Architect and Associates is representative of a trend in contemporary Japanese interior design to juxtapose sleek, modern accents with traditional organic materials such as paper. The prominent featuring of metal stems from the post-World War II emphasis on technological progress, while more traditional natural materials help preserve longstanding architectural and aesthetic approaches.
+
+
+A. The text introduces the salient characteristics of two buildings and then details the historical events that occasioned the buildings’ designs.
+B. The text names projects that are noteworthy for their inclusion of certain materials and then explains past important uses of the materials.
+C. The text distinguishes between two aesthetic approaches to architecture and then submits that one approach has had more of a long-term impact than the other has had.
+D. The text cites examples of a design trend and then briefly establishes the principles underlying the trend.
+Answer: D
+
+Question 16:
+[Cross Text]
+Based on the texts, how would the author of Text 2 most likely respond to the claim in the underlined portion of Text 1?
+
+Text 1
+The metal featured in both the structure of the ARK by APOLLO Architects &amp; Associates and the hardware in the UE House by GENETO is representative of a trend in contemporary Japanese interior design to juxtapose sleek, modern components with traditional, organic materials. The prominent featuring of metal stems from the post-World War II era emphasis on technological progress, while __the use of more traditional natural materials helps preserve long-standing architectural and aesthetic principles__.
+Text 2
+The use of metal in contemporary Japanese interior design can honor traditional aesthetics just as much as the use of bamboo and other organic materials does. For instance, the ancient Japanese philosophical principle of *wabi-sabi* (appreciation of beauty in imperfection and impermanence) is epitomized by the patina of discoloring oxidation that emerges on the metals and then changes over time.
+
+
+A. By agreeing with the claim in general but noting that the outcome described in the claim can be accomplished by other means as well
+B. By acknowledging the reasonableness of the claim but asserting that the approach described in the claim has drawbacks
+C. By recognizing that the claim applies in certain situations and enumerating the instances where a different approach might be called for
+D. By supporting the claim with examples and offering a term that further elucidates the claim
+Answer: A
+
+Question 17:
+[Infer]
+Which choice most logically completes the text?
+
+In contemporary Japanese architecture, sleek and modern elements are often juxtaposed with warmer, organic elements to uphold long-standing Japanese design sensibilities while also reflecting modern Japan’s industrial character—one aesthetic balance exemplified by the use of visible metal in the structure of the Complete One-Room Residence of 5 Layers by Matsuyama Architect and Associates and of metal hardware in the House in Kuramae by Tomoyasu Architects &amp; Associates) and of metal hardware in the House in Tamagawa (by Case Design Studio). The metals characteristic of this architectural approach tend to develop a natural patina over time, with oxidization imbued on the surfaces with rich, pleasing earth tones. Thus, a single design element can ______.
+
+
+A. be expected to have more practical than aesthetic applications for Japanese architecture.
+B. indicate which design sensibility is most salient in a particular type of architecture.
+C. be representative of the same principle of balance that the overall design aims to achieve.
+D. lend warmth or coolness to a space depending on whether it is used structurally.
+Answer: C
+
+Question 18:
+[Infer]
+Which choice most logically completes the text?
+
+Some representations of the cataclysmic fate of the fictional city of Atlantis illustrate a common trope in disaster stories: people's self-destructive carelessness. Explanations of real-world societal collapse betray a similar pattern. One theory about the downfall of the Greenland Norse settlements, for example, argues that residents invited disaster by clinging to European land-use practices in Greenland's harsh climate, leading to overgrazing, soil erosion, and famine. Archaeological evidence, however, suggests that residents adapted to environmental conditions by increasing the share of marine products in their diet over time. Given that other factors—e.g., a sharp decline in trade with Europe—played a crucial role in the settlements' eventual demise, it therefore seems unlikely that ______
+
+
+A. their residents would have failed to appreciate the relevance of fictional disaster stories to their own predicament.
+B. extreme cold was merely indirectly responsible for an irreversible collapse of the settlements' subsistence economy.
+C. their residents' focus on environmental challenges prevented them from devoting adequate attention to economic issues.
+D. their residents' lack of environmental awareness was ultimately responsible for the settlements' collapse.
+Answer: D
+
+Question 19:
+[Infer]
+Which choice most logically completes the text?
+
+Some representations of the cataclysmic fate of the comic book planet Krypton illustrate a common trope in disaster stories: people’s self-destructive carelessness. Explanations of real-world societal collapse betray a similar pattern. One theory about the downfall of Rapa Nui, for example, argues that residents invited disaster by despailing the island’s Jubaea palm forests, leading to a scarcity of wood for fuel and canoe construction. Archaeological evidence, however, suggests that residents adapted to environmental conditions by relying on grass and other plants for cooking and driftwood for making canoes. Given that other factors—e.g., disease and conflict arising from European contact—played a crucial role in Rapa Nui’s eventual demise, it therefore seems unlikely that ______.
+
+
+A. deforestation was merely indirectly responsible for an irreversible collapse of Rapa Nui’s subsistence economy.
+B. its residents’ focus on environmental challenges prevented them from devoting adequate attention to political issues.
+C. its residents would have failed to appreciate the relevance of fictional disaster stories to their own predicament.
+D. its residents’ lack of environmental awareness was ultimately responsible for Rapa Nui’s collapse.
+Answer: D
+
+Question 20:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In 2015, geologist Peter Rogerson calculated that the geographic center of Georgia was a point 17.7 miles southeast of the municipality of Macon. Rogerson’s calculation was more accurate than the one from 1920 by the US Geological Survey. ____ this earlier calculation was made using far more rudimentary equipment—only cardboard and string.
+
+
+A. Of course,
+B. Ultimately,
+C. Likewise,
+D. To that end,
+Answer: A

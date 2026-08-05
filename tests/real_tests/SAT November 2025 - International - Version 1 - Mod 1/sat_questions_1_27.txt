@@ -1,0 +1,366 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Scientists have used machine learning tools to study elephant sounds, uncovering a sophisticated communication system. The tools ______ unique patterns in the rumbling sounds elephants make. The scientists claim that these patterns are specific calls the elephants use for individuals, similar to names.
+
+
+A. created
+B. corrected
+C. detected
+D. scattered
+Answer: C
+
+Question 2:
+[WIC]
+As used in the text, what does the word “considered” most nearly mean?
+
+The following text is from Chinua Achebe's 1964 novel *Arrow of God*. The novel is set in Nigeria in the 1920s. Ezeulu, who is the religious leader for several villages, announces when the annual yam harvest can begin.
+Whenever Ezeulu __considered__ the immensity of his power over the year and the crops and, therefore, over the people he wondered if it was real. It was true he named the day for the feast of the Pumpkin Leaves and for the New Yam feast; but he did not choose it. He was merely a watchman. His power was no more than the power of a child over a goat that was said to be his.
+©1964 by Chinua Achebe
+
+
+A. Pondered
+B. Anticipated
+C. Allowed
+D. Respected
+Answer: A
+
+Question 3:
+[WIC]
+As used in the text, what does the word "traces" most nearly mean?
+
+The following text is adapted from John Matheus’s 1925 short story “Fog.” The fog extended its tentacles over city and river, gradually obliterating __traces__ of familiar landscapes. At five-thirty the old Panhandle bridge, supported by massive sandstone pillars, stalwart, as when erected fifty years before to serve a generation now passed behind the portals of life, had become a spectral outline against the sky.
+
+
+A. Debris
+B. Copies
+C. Indications
+D. Remembrances
+Answer: C
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Microplastics are a common pollutant in large masses of water like glaciers. High concentrations and ______ among particles—variations in size, shape, and material—make it onerous to comprehensively classify the microplastics in a water sample, so Ojeda-Benítez et al. are exploring a device to help quickly and accurately identify certain characteristics.
+
+
+A. restraints
+B. inconsistencies
+C. incompatibilities
+D. disruptions
+Answer: B
+
+Question 5:
+[WIC]
+As used in the text, what does the word “consideration” most nearly mean?
+
+The following text is adapted from Henry James’s 1881 novel The Portrait of a Lady. Everything Osmond did was pose—pose so subtly considered that if one were not on the lookout one mistook it for impulse. Ralph had never met a man who lived so much in the land of __consideration__. His tastes, his studies, his accomplishments, his collections, were all for a purpose.
+
+
+A. Deference
+B. Calculation
+C. Indecision
+D. Courtesy
+Answer: B
+
+Question 6:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Adult glass eels can be found off the coast of Maine, but the eels begin their lives in the Sargasso Sea, a biodiverse area in the North Atlantic Ocean where they are born and later return to breed. Though biologists believe they have identified the general area in the Sargasso Sea that is crucial to the endangered eels’ survival, little is yet known about how the animals spawn there. Scientists believe that solving the mystery will lead to better conservation of glass eels and their habitat, __helping in turn to sustain several other species that rely on them as a food source.__
+
+
+A. It presents a finding from a study that identifies the circumstances required to ensure the survival of glass eels.
+B. It suggests that scientists are more concerned about other species than about glass eels’ habitat.
+C. It indicates that the benefit of understanding glass eels’ spawning behavior extends beyond the eels.
+D. It discusses a role that glass eels and other species serve in supporting the ecosystem of the Sargasso Sea.
+Answer: C
+
+Question 7:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Tomi Adeyemi’s first published work, the inventive West African–inspired fantasy novel Children of Blood and Bone, has intriguing things to say about the relationship between identity and power. Adeyemi works in a decades-long tradition going back to writers such as Samuel Delany and Octavia Butler, who move cultural elements of the Black diaspora into their science fiction and fantasy in a movement known as Afrofuturism. At its core, the movement is characterized by speculation, not just about distant futures or other planets but also about alternate versions of our shared past. Afrofuturism’s meditations on authority reinvigorate the creative potential of fiction.
+
+
+A. It notes the political stance of an author, compares that author’s book to other earlier works, and then analyzes the influence of political events on the book.
+B. It praises a newly published author, compares that author with others who might appear superficially similar, and then points out the features of that author’s work that make it unique.
+C. It introduces an intriguing debut work, contextualizes that work as part of an ongoing literary tradition, and then describes important themes of that tradition.
+D. It summarizes a book, describes characteristics of the artistic movement of which the book is a part, and then points out the features the book shares with more widely read works.
+Answer: C
+
+Question 8:
+[COE]
+Which statement about the Hispanic Society of America is best supported by the text?
+
+Founded in 1904, the Hispanic Society of America showcases the arts and cultures of Spanish-speaking and Portuguese-speaking regions around the world, including Latin America. It is located in New York City and has more than 18,000 objects in its museum collection. Since 2000, a number of other institutions devoted to Latino cultures have opened in the United States. A notable example is LA Plaza de Cultura y Artes in Los Angeles. It focuses on Mexican American art and culture.
+
+
+A. Its collection includes over 18,000 objects.
+B. It is no longer located in New York City.
+C. It was founded after 2000.
+D. It is visited by more people than any other Latino cultural institution in the US.
+Answer: A
+
+Question 9:
+[COE]
+Based on the text, what is the most likely reason Walsh and colleagues chose to avoid the method used in the spinach study?
+
+In a 2024 study, Corrine Walsh and colleagues examined whether the composition of soil microbial communities could affect plants’ flavor chemistry. Whereas Baslam et al. (2011) showed that adding specific bacterial or fungal strains to soil can yield increased flavonoid content in spinach crops, Walsh and team applied intact microbial communities gathered from ecologically distinct settings across Colorado, including areas of ponderosa pine forest and irrigated pasture, to mustard plants and evaluated the flavor compounds in the plants’ seeds. This ensured that the microbial conditions in their experiment would better reflect the variation and complexity of naturally occurring communities.
+
+
+A. The composition of microorganisms in the soil in the spinach study may not have been representative of a naturally existing composition.
+B. The microbial community in the soil from the spinach study affected plants’ nutrition, not their flavor chemistry.
+C. The microbial community in the soil from the spinach study likely included similar species to those in wild soils.
+D. The diversity of species of microorganisms in the soil from the spinach study was already abnormally high before the researchers added further microorganisms.
+Answer: A
+
+Question 10:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+Home Console and Computer Games of the 1980s
+
+A student is writing a paper on the global rise of the home video game industry during the 1980s. The student is researching the relative popularity of various genres of console and computer games. Looking at the information in the table, the student finds that games in the genres of______
+
+
+A. puzzle and sports sold nearly the same number of units.
+B. platformer and education sold nearly the same number of units.
+C. puzzle and platformer outsold the games in the other genres.
+D. platformer and sports outsold the games in the other genres.
+Answer: C
+
+Question 11:
+[COE]
+Which choice most effectively uses data from the graph to complete the statement?
+
+Wenhao Xu and colleagues demonstrated that applying a low direct current electrical field to graphite (a conductor) and an acrylamide (AAm) gel can increase how strongly materials adhere to each other. At some voltages, adhesion strength—as measured in kilopascals (kPa) of stress needed to pull the materials apart—was high (more than 30 kPa). But the mere application of a direct current electrical field with positive voltage is not sufficient to cause increased adhesion, as evidenced by the fact that ______.
+
+
+
+A. at 0 V, mean adhesion strength was equal to 0 kPa.
+B. at 3 V, mean adhesion strength reached its highest observed level at approximately 30 kPa.
+C. at 2 V, mean adhesion strength was lower than it was at both 1 V and 3 V.
+D. at 1 V, mean adhesion strength was approximately equal to adhesion strength at 0 V.
+Answer: D
+
+Question 12:
+[COE]
+Which choice most effectively uses data from the table to complete the text?
+
+Working in Ghana, Emmanuel Hanyabui and colleagues compared the impact on pineapple growth of different combinations of soil additives, including NPK fertilizer (an inorganic fertilizer containing nitrogen, phosphorus, and potassium), organic compost, and biochar (a carbon-rich material produced from organic waste matter). Based on data in the table, pineapple farmers with no access to inorganic soil additives would likely increase the weight and size of their fruits by the greatest amount by using ______.
+Effect of Various Soil Treatments on Mean Pineapple Fruit Weight and Size
+
+
+
+A. compost alone.
+B. biochar alone.
+C. biochar and compost.
+D. biochar and NPK fertilizer.
+Answer: C
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+Neuroscientist Artin Arshamian and his team sought to determine what affects a person’s perception of an odor as pleasant: is it culture, personal taste, or aspects of human anatomy? The team assessed odor preferences in ten groups of people with different modes of living (urban, agricultural, and hunter-gatherer) including urban dwellers from a large city in Thailand and the Seri people from a small community in Mexico. The team observed that across cultures, people generally rated odors about the same: vanillin, which smells like vanilla, was typically rated more pleasant than galbazine, which smells like peanuts. The team therefore concluded that______
+
+
+A. culture likely plays more of a role in a person’s perception of how pleasant an odor is than does human anatomy.
+B. a person’s mode of living likely doesn’t have a large influence on that person’s perception of whether an odor is pleasant or unpleasant.
+C. a person who lives in an urban area is more likely to encounter the odor of vanillin than is a person who lives in a small community.
+D. a person who perceives certain odors as pleasant will likely perceive the odors as roughly equal in pleasantness.
+Answer: B
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Outi Tervo and team studied the effect of human-caused noise on narwhals (Monodon monoceros), arctic marine mammals that are sensitive to acoustic changes in their environment. Hypothesizing that elevated sound levels affect foraging among narwhals, Tervo’s team compared narwhal diving behaviors in natural sound conditions with those behaviors in two human-caused sound exposure conditions—ship sounds and ship sounds coupled with sonic pulses. Both exposure conditions resulted in significant decreases in the number and target depth of deep dives (associated with foraging) relative to natural conditions. However, differences between diving behaviors in the two exposure types were negligible, a finding that could be attributed to the fact that ______.
+
+
+A. sonic pulses can be heard at significantly greater ocean depths than ship sounds can.
+B. ship sounds contribute so much to the overall sound level that the addition of sonic pulses has little effect on the narwhals’ auditory environment.
+C. narwhals forage at shallower depths in the presence of ship sounds alone than in the presence of ship sounds coupled with sonic pulses.
+D. the narwhals weren’t as sensitive to human-caused sounds as the researchers had predicted.
+Answer: B
+
+Question 15:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Jesse Treviño’s 1976 painting Mis Hermanos was featured in the Smithsonian’s 2013 exhibition Our America: The Latino Presence in American Art. The piece ______ chosen for the exhibition by curator E. Carmen Ramos.
+
+
+A. is
+B. had been
+C. will be
+D. is being
+Answer: B
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Mia Heavener’s 2019 novel Under Nushagak Bluff, which takes place in a mid-twentieth-century rural Alaskan fishing ______ the story of three Yup’ik women who grapple with the rise of commercial fisheries and other changes affecting their community.
+
+
+A. village: tells
+B. village. Tells
+C. village, tells
+D. village tells
+Answer: C
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Many works of the Greek historian Strabo (1st century BCE) are ______ his Geographica, a descriptive history of the ancient world, is an extant work: it can still be read.
+
+
+A. lost. Conversely,
+B. lost and conversely,
+C. lost, conversely,
+D. lost, and conversely
+Answer: A
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Enacted in 1944, Iceland’s 4,089-word constitution, in contrast to Spain’s, which was enacted in 1978 and contains a far greater number (17,608) of words, ______ as the 2nd shortest in the world. Such data are studied by constitutional scholars like George Tsebelis, who can use them to draw broader conclusions.
+
+
+A. have ranked
+B. rank
+C. are ranking
+D. ranks
+Answer: D
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Operating with a theoretically vast scope of cosmic distances, astrophysicists have found ways to leverage distant ______ to map the distribution of intergalactic matter.
+
+
+A. quasars' emissions'
+B. quasars emissions
+C. quasars' emissions
+D. quasar's emissions
+Answer: C
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Recordings of electrical activity in the brain, ______ increased activity in brain areas associated with suppressing motor functions.
+
+
+A. electrograms show that while responding to hypothetical match scenarios, the most highly skilled soccer players have
+B. hypothetical match scenario responses show that the most highly skilled soccer players captured in electrograms have
+C. the most highly skilled soccer players responding to hypothetical match scenarios have electrograms that show
+D. responses to hypothetical match scenarios show that the most highly skilled soccer players have electrograms with
+Answer: A
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A team led by Portuguese researcher Isabel C.F.R. Ferreira found that many species of mushrooms contain chemicals called phenolic compounds, such as cinnamic acid and catechin. ______ Ferreira detected cinnamic acid in Agaricus blazei mushrooms and catechin in Lentinus edodes mushrooms.
+
+
+A. For this reason,
+B. However,
+C. Nevertheless,
+D. For example,
+Answer: D
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Resins play several important roles in maintaining the health of conifers and many other kinds of trees. ______ resins quickly seal wounds, which helps prevent harmful insects and fungi from entering trees. These sticky substances also help trees retain water that is needed for them to survive.
+
+
+A. Regardless,
+B. Next,
+C. However,
+D. For example,
+Answer: D
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+While some researchers have identified the planet Kepler-296e as potentially habitable, it’s unlikely that humanity will be able to take advantage of its favorable conditions anytime soon—it’s 737 light years away. ______ humanity must first focus on making planets within our solar system more habitable.
+
+
+A. Likewise,
+B. Instead,
+C. For example,
+D. Next,
+Answer: B
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The Tres Zapotes archaeological site is located in our home state of Veracruz, Mexico. ______ an 8.5-ton stone statue of a human head was left behind by the ancient Olmec civilization. In the nearby state of Tabasco was another stone statue that weighs 19.8 tons.
+
+
+A. In other words,
+B. Here,
+C. Similarly,
+D. Therefore,
+Answer: B
+
+Question 25:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In a 1948 article titled “The Language of Lines,” Brazilian photographer José Yalenti argued that black-and-white photography’s distinctive—and in his view, superior—use of lines is what elevates the medium to the status of fine art. ______ Yalenti insisted that conveying perspective through linear forms is photography’s “indisputable and exclusive domain,” creating a visual language surpassing even celebrated painters’ works.
+
+
+A. Indeed,
+B. In any case,
+C. However,
+D. Even so,
+Answer: A
+
+Question 26:
+[Synthesis]
+The student wants to emphasize the combined deadweight tonnage of the Bahamas’ merchant ships in 2021. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•A merchant ship is any ship hired to carry cargo or passengers.
+•A ship’s carrying capacity is also known as its deadweight tonnage (DWT).
+•In 2021, there were a total of 1,323 merchant ships registered in the Bahamas.
+•The combined DWT of these ships was 74.3 million tons.
+
+
+A. The carrying capacity of a merchant ship is also known as deadweight tonnage.
+B. In 2021, the Bahamas had 1,323 merchant ships hired to carry cargo or passengers.
+C. Combined, the Bahamas’ merchant ships had a deadweight tonnage of 74.3 million tons in 2021.
+D. There were a total of 1,323 merchant ships—ships hired to carry cargo or passengers—registered in the Bahamas in 2021.
+Answer: C
+
+Question 27:
+[Synthesis]
+The student wants to support Browner’s claim about Louis Ballard’s compositions. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Louis Ballard was a classical composer and citizen of the Quapaw Tribe.
+•Ballard’s composition Desert Trilogy was nominated for the Pulitzer Prize in music in 1971.
+•His composition Devil’s Promenade incorporates a Seneca cow-horn rattle, a traditional Native instrument.
+•Ethnomusicologist Tara Browner claims that Ballard’s compositions rely on elements originating within Native musical traditions.
+
+
+A. According to Browner, composer Louis Ballard, who wrote Desert Trilogy, relies on elements with origins in Native musical traditions.
+B. Classical composer Louis Ballard, who wrote Devil’s Promenade, was nominated for the Pulitzer Prize in music in 1971.
+C. Browner posits that Louis Ballard’s compositions rely on elements originating within Native musical traditions; Devil’s Promenade affirms this assertion, incorporating a Seneca cow-horn rattle.
+D. Browner claims that Louis Ballard’s compositions, one of which was nominated for the Pulitzer Prize, rely on elements originating within Native musical traditions.
+Answer: C
+

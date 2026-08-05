@@ -1,0 +1,240 @@
+Question 1:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Analyses of Rembrandt’s seventeenth-century painting The Night Watch, citing its richly saturated colors and stark contrasts between light and shadow, often characterize the work as an exemplar of the Baroque-era style. Many art historians, however, challenge the very notion of a distinct Baroque era. They claim that the so-called Baroque aesthetic was, _____ just an extension of the stylings of the Renaissance era.
+
+A. in reality,
+B. first of all,
+C. similarly,
+D. nevertheless,
+Answer: A
+
+Question 2:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The 2012 paper on CRISPR-Cas9 by Jennifer Doudna and Emmanuelle Charpentier garnered significant scientific acclaim and recognition for its contribution to genetic engineering, a revolutionary tool for editing DNA that adapts a natural defense mechanism found in bacteria and archaea. ______ few were surprised when the discovery earned the Nobel Prize in Chemistry in 2020.
+
+A. Furthermore,
+B. As such,
+C. Nevertheless,
+D. Admittedly,
+Answer: B
+
+Question 3:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Though the musical groups Los Palominos and Banda Los Recoditos are often categorized under the catchall "regional Mexican music" label, they each adhere to distinct musical traditions. The former works within the tejano tradition, which originated in mid-twentieth-century Texas and northern Mexico. The latter, _____ follows the banda tradition, with roots in mid-nineteenth-century southern and central Mexico.
+
+A. therefore,
+B. to this end,
+C. however,
+D. in other words,
+Answer: C
+
+Question 4:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+At past Olympics, in contrast to demonstration sports with international appeal, regionally popular sports were exhibited as onetime showcases. ______ while the internationally popular sport of handball became a medal event after demonstration, kaatsen, a handball sport popular in the Netherlands, only appeared at the 1928 Amsterdam Olympics.
+
+A. Moreover,
+B. Accordingly,
+C. Granted,
+D. However,
+Answer: B
+
+Question 5:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+With some elements, like phosphorus, scientists were able to isolate a relatively pure sample of the substance shortly after discovering its existence—but this wasn’t the case with all elements. ___ the isolation process took a few years. The element molybdenum, for instance, was discovered in 1778 but not isolated until 1781.
+
+A. Even so,
+B. Similarly,
+C. Furthermore,
+D. Often,
+Answer: D
+
+Question 6:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In a 2022 analysis of 200 terms, researchers found a broad pattern of valence-dependent mutation for which negative words saw a faster rate of cognate replacement—______ the rate at which a word will be replaced over time with a noncognate form. Adjectives (e.g., “frightened”) saw the largest effect; nouns (e.g., “pain”), meanwhile, saw the smallest.
+
+A. likewise,
+B. that is,
+C. for example,
+D. in addition,
+Answer: B
+
+Question 7:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Eirene, one of the eighty known moons of Jupiter, is designated as Jupiter LVII (“LVII” means “57”; Roman numerals typically indicate the order in which the moons were named rather than the order of their proximity to Jupiter). It is incorrect to assume, ___ that Eirene is the fifty-seventh moon from Jupiter in terms of proximity.
+
+A. moreover,
+B. finally,
+C. however,
+D. then,
+Answer: D
+
+Question 8:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As genetic engineering has advanced, many corporations have sought to gain an advantage in, or even patent, the genetic code of essential food crops. ______ it is the 2001 International Treaty on Plant Genetic Resources—signed by the European Union, Brazil, and over 140 other nations—that curtails these commercial ambitions and ensures that access to these genetic resources remains open for the international community.
+
+A. Consequently,
+B. Specifically,
+C. Alternatively,
+D. Ultimately,
+Answer: D
+
+Question 9:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A team of entomologists studied the foraging strategies of honeybees (*Apis mellifera*) in a mixed-flower meadow in Germany. The researchers observed that most forager bees were specialists, consistently visiting a single type of flower to collect nectar. Bee #42, ______ switched between multiple flower types during a single foraging trip.
+
+A. for example,
+B. in particular,
+C. similarly,
+D. alternatively,
+Answer: D
+
+Question 10:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A double-blind study design is often used in clinical trials to ensure unbiased results when testing a new drug's efficacy. Using this methodology offers a number of advantages, such as preventing both researchers and participants from letting their expectations influence the outcome. ______ by eliminating potential sources of bias (like the placebo effect or researcher expectations), it encouraged an objective assessment of the drug's true effects.
+
+A. Moreover,
+B. In other words,
+C. Specifically,
+D. For example,
+Answer: A
+
+Question 11:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Soil polluted with cadmium (a heavy metal) is harmful to many plants and animals, but the plant species Elodea canadensis, or Canadian waterweed, not only thrives in such conditions but also helps remediate them. As a metal hyperaccumulator, Elodea canadensis absorbs a large amount of cadmium and stores it safely in its roots and shoots; ____ cadmium concentrations in the soil decrease.
+
+A. specifically,
+B. nevertheless,
+C. in addition,
+D. accordingly,
+Answer: D
+
+Question 12:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The world’s first airplane, the 1903 Wright Flyer, was not very aerodynamic, as evidenced by its low lift-to-drag ratio of just 8:3. The F-104 Starfighter jet, like most modern aircraft, is far more aerodynamic. ___ its lift-to-drag ratio is more than twice that of the Wright Flyer.
+
+A. However,
+B. Nevertheless,
+C. In conclusion,
+D. Specifically,
+Answer: D
+
+Question 13:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Eirene, one of the eighty known moons of Jupiter, is designated as Jupiter LVII (“LVII” means “57”; Roman numerals typically indicate the order in which the moons were named rather than the order of their proximity to Jupiter). It is incorrect to assume, ___ that Eirene is the fifty-seventh moon from Jupiter in terms of proximity.
+
+A. moreover,
+B. finally,
+C. however,
+D. then,
+Answer: D
+
+Question 14:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The Beatrice, an offshore wind farm located off the coast of Scotland, produces about 588 megawatts (MW) of electricity per year. ____ England's Hornsea Project One offshore wind farm, which generates the most power of any single offshore farm, produces 1,218 MW of electricity.
+
+A. For instance,
+B. As a result,
+C. That is,
+D. By comparison,
+Answer: D
+
+Question 15:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As part of a study, participants were asked to list animals they thought of as “charismatic,” which was defined as “attractive, fascinating, or appealing.” Researchers compiled the responses into a single list and found that elephants were ranked higher than crocodiles. ____ elephants were ranked third, and crocodiles were ranked fifteenth.
+
+A. Therefore,
+B. Specifically,
+C. On the other hand,
+D. Later,
+Answer: B
+
+Question 16:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In 1928, bacteriologist Alexander Fleming discovered penicillin through a serendipitous observation of a mold contaminating a petri dish. ______ this seemingly accidental discovery proved to be profoundly significant: when the mold's antibacterial properties were isolated and tested by pharmacologists decades later, the substance became the foundation for modern antibiotics.
+
+A. Still,
+B. Similarly,
+C. In other words,
+D. Fittingly,
+Answer: A
+
+Question 17:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+With the rapid advancement of artificial intelligence, numerous tech companies have sought to push the boundaries of automated innovation. _____ it is the 2019 Global AI Ethics Agreement—ratified by industry leaders from over 50 countries—that curtails unchecked AI development and promotes responsible practices.
+
+A. Consequently,
+B. Specifically,
+C. Alternatively,
+D. Ultimately,
+Answer: D
+
+Question 18:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Speedball, a fast-paced game combining elements of soccer and basketball, was not an official competition in the 1984 Los Angeles Summer Olympic Games. _____ speedball was showcased at the Games as an exhibition event. Exhibition events have often been included at past Olympics to introduce audiences to innovative sports.
+
+A. For example,
+B. Rather,
+C. Thus,
+D. Additionally,
+Answer: B
+
+Question 19:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The concept of "alpha" wolves—dominant pack leaders who win their status through aggression—is a popular idea in wildlife biology. However, the researcher who originally coined the term has since demonstrated that the behavior was only observed in captive, unrelated wolves. Wild wolf packs, in fact, function like families with the parents leading. The "alpha" model, ______ should be understood as a misinterpretation of animal social structures.
+
+A. for example,
+B. by contrast,
+C. nevertheless,
+D. therefore,
+Answer: D
+
+Question 20:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+On June 10, 1991, Gulf War veterans were recognized with a ticker-tape parade in New York City. This was just one of a number of military-related parades over the years. ____ between 1886 and 2022, there were twenty-nine ticker-tape parades held in New York to honor US war veterans.
+
+A. Hence,
+B. In other words,
+C. Nevertheless,
+D. In sum,
+Answer: D
+

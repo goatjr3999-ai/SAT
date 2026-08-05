@@ -1,0 +1,390 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Traditionally, certain features of mosque architecture are nearly _____, such as the mihrab (or niche), which almost all mosques include. But mosques can also be built to reflect a multitude of different architectural styles, as in the case of the Great Mosque of Central Java, which includes elements from the Javanese and Greek revival styles.
+
+
+A. universal
+B. elaborate
+C. illusory
+D. idealized
+Answer: A
+
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The metal displayed in the structure of House in Kamiaraya by Kazuto Nishi Architects and the metal hardware in UE House by GENETO are representative aspects of a juxtaposition common in contemporary Japanese architecture: the ______ of sleek, contemporary elements and traditional organic materials in a single design is a trend with both aesthetic and highly practical purposes.
+
+
+A. synthesis
+B. designation
+C. analysis
+D. diffusion
+Answer: A
+
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+While fifteenth-century manuscript collections were typically repositories for genteel romances favored by the elite, the Heegge Manuscript (HM) deviates sharply from this norm. By prioritizing practical religious counsel and parodic tales over courtly literature, Richard Heegge revealed a marked ______ for the "low" aesthetic of popular entertainment.
+
+
+A. predilection
+B. antipathy
+C. ambivalence
+D. insouciance
+Answer: A
+
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The scientists proposed that individuals in authority concentrate so intensely on their personal priorities that they become unaware of those around them. Their subordinates, reluctant to confront the leader, _______ this behavior.
+
+
+A. subvert
+B. imitate
+C. abet
+D. expose
+Answer: C
+
+
+Question 5:
+[COE]
+The author of the passage cites Rosenblum’s book most likely in order to
+
+The condition of scholarship devoted to the history of women in photography is confounding. Recent years have witnessed the posthumous inflation of the role of the hobbyist Alice Austen into that of a pioneering documentarian while dozens of notable senior figures—Marion Palfi, whose photographs of civil-rights activities in the South served as early evidence of the need for protective legislation, to name one—received scant attention from scholars. And, while Naomi Rosenblum’s synoptic *History of Women Photographers* covers the subject through 1920 in a generally useful fashion, once she reaches the 1920s, when the venues, forms, applications, and movements of the medium expanded exponentially, she resorts to an increasingly terse listing of unfamiliar names, with approaches and careers summarized in a sentence or two.
+
+
+A. suggest that the works documented more thoroughly by historians of women in photography often do not warrant that attention
+B. offer an explanation for the observation that not all aspects of the history of women in photography have received the same level of attention
+C. provide an example of a way in which scholarship on the history of women in photography has been unsatisfactory
+D. suggest that employing a strictly chronological approach when studying the history of women in photography may be unproductive
+Answer: C
+
+
+Question 6:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+*The Silence of Dean Maitland* is one of twenty-five works from the nineteenth and early twentieth centuries reissued in 2020 in a project professing to give overdue credit to authors by replacing nonfemale pseudonyms with the authors’ given female names (crediting Mary Tuitiett rather than Maxwell Gray, in this case). Olivia Rutigliano and other scholars cite a lack of nuance and erasure of intention in the implication that pseudonymous identities were invariably necessary due to social roles, appropriately contending that what may have been a constraint for some was an elective exercise in self-fashioning for others.
+
+
+A. A literary project is briefly described, the stance taken by Rutigliano and others in response to that project is introduced, and then support for that stance is expressed.
+B. Details about a reissue of The Silence of Dean Maitland are given, a question about the authorship of that work is raised, and then the circumstances of the work’s original publication are considered.
+C. The Silence of Dean Maitland is cited as a prominent work from a literary movement, a study of the movement’s defining features is mentioned, and then one of the study’s insights is presented.
+D. An assertion about a literary project is reported, the team of scholars that advanced the assertion is identified, and then the reasoning behind the assertion is summarized.
+Answer: A
+
+
+Question 7:
+[Cross Text]
+Based on the texts, Slater and Mann (Text 1) and Rose and colleagues (Text 2) would most likely agree with which statement?
+
+Text 1
+For decades, ornithologists assumed that if they saw a singing Scott’s oriole—a bird species found in temperate North America—they must be observing a male trying to attract a mate or claim territory. As Peter J.B. Slater and Nigel I. Mann have emphasized, however, a similar assumption can’t be made about birds in the tropics, where females sing as often as males do. Slater and Mann call for more research on this discrepancy between tropical and temperate female birdsong.
+Text 2
+Recent evidence shows that a female Scott’s oriole is as capable of song as a male is. In fact, female birdsong is more common among temperate species than currently assumed, claim Evangeline Rose and colleagues. These female songbirds sing less frequently than males do, and in duller tones, making it “easy for researchers to miss the quiet and hidden females and focus on
+the loud and colorful males,” says Rose.
+
+
+A. Singing behavior is remarkably similar between temperate and tropical songbird species.
+B. Singing behavior is one of very few traits that differ between male and female songbirds.
+C. Birdsong is mainly driven by mate attraction and territorial defense.
+D. Among some bird species, both females and males sing.
+Answer: D
+
+
+Question 8:
+[Structure]
+Which choice best states the main idea of the text?
+
+Studies of ocean wave breaking have predominantly focused on traveling waves (those propagating along the horizontal plane), so Mark McAllister et al. utilized a circular water tank to produce and study spike waves, axisymmetric standing waves that can erupt vertically when traveling waves propagating in opposing directions intersect. Traveling waves break when wave steepness (height-to-length ratio) passes a critical threshold; breaking thus constrains wave height. McAllister et al. found that spike waves can exceed that constraint, as do other factors than just steepness (e.g., jet stability and cavity shape) mediate spike-wave breaking.
+
+
+A. McAllister et al. suggest that spike waves can form when traveling waves propagating in opposing directions intersect and that spike waves tend to be higher than traveling waves.
+B. The process of breaking limits the height of traveling waves, but the study by McAllister et al. suggests that spike waves can exceed those limits if their height-to-length ratio reaches a critical threshold.
+C. The study by McAllister et al. suggests that when traveling waves intersect in specific ways, the resulting wave may be higher than would be expected based on the properties of traveling waves.
+D. Previous studies have suggested that steepness mediates breaking in traveling waves, but the study by McAllister et al. shows that jet stability and cavity shape may also influence breaking in such waves.
+Answer: C
+
+
+Question 9:
+[COE]
+What does the text most strongly suggest about specimens from natural history collections?
+
+J. Mason Heberling and David J. Burke relied on historical DNA (hDNA)—genomic data incidentally preserved in specimens housed in natural history collections—to investigate the evolutionary trajectory of arbuscular mycorrhizal fungi. Although this approach offers unique benefits, such as access to genomic data from extirpated populations, it remains relatively underutilized because archival specimens are sometimes stored in ways that compromise DNA quality, a situation not easily remediable under current methodological paradigms and with extant DNA extraction and analysis technologies.
+
+
+A. While they were used in a study that made an important scientific discovery, they are generally of marginal value as sources of genomic data.
+B. Because of their often-deteriorated condition, they tend to yield genomic data that are time-consuming to extract and interpret.
+C. While they may contain valuable genomic data, not all of them can yield usable DNA.
+D. They are primarily used as sources of genomic data by scientists studying organisms that have undergone major evolutionary change.
+Answer: C
+
+
+Question 10:
+[Infer]
+Which choice most logically completes the text?
+
+Biochemists I. Sam Saguy and Eli J. Pinthus studied the mass and heat transfer processes that occur when foods, such as the Indian snacks makka poha and shankarpali, are fried in oil. During frying, water in the crust evaporates, leaving voids that oil can fill, thereby increasing the food’s fat content. As the process continues, water from the food’s center moves to the crust as long as the crust remains permeable. Therefore, the less moisture a food loses during frying, ____.
+
+
+A. the less the fat content is increased through frying.
+B. the higher the temperature must be to fry the food.
+C. the slower the crust will lose its permeability.
+D. the crispier the crust will be when frying is completed.
+Answer: A
+
+
+Question 11:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+**Examples of Hoards found in Ireland and Northern Ireland**
+
+Deposits of valuable objects, called hoards, have been unearthed in many different parts of Ireland and Northern Ireland. Technological advancements in the twenty-first century have made it easier to locate hoards, but plenty of hoards were found earlier. For example, ______.
+
+
+A. the Balline Hoard was found in 1868.
+B. the Ardagh Hoard, Balline Hoard, and Carrick-on-Suir Hoard have all been found since 1868.
+C. the Ardagh Hoard and Balline Hoard were both found before 2000.
+D. Balline Hoard and Carrick-on-Suir Hoard were both discovered in the 1900s.
+Answer: C
+
+
+Question 12:
+[COE]
+Which quotation from The Wonderful Wizard of Oz most effectively illustrates the claim?
+
+The Wonderful Wizard of Oz is a 1900 novel by L. Frank Baum. In the novel, Dorothy lives in Kansas with her aunt and uncle, but she later finds herself in a land called Oz. The narrator indicates that her aunt and uncle’s house in Kansas is remote and solitary, writing that ____
+
+
+A. in Oz, “Dorothy and her companions! passed through the rest of the forest in safety, and when they came out from its gloom saw before them a steep hill, covered from top to bottom with great pieces of rock.”
+B. in Oz, “Dorothy fell asleep only once, and then she dreamed she was in Kansas, where Aunt Em was telling her how glad she was to have her little girl at home again.”
+C. in Kansas, “Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer’s wife.”
+D. in Kansas, “When Dorothy stood in the doorway and looked around, she could see nothing but the great gray prairie on every side. Not a tree nor a house broke the broad sweep of flat country.”
+Answer: D
+
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+Although Grant Tavinor concludes that computer games are art by virtue of their forming a subcategory of fiction, and Beryx Gaut similarly places them within the realm of cinema, neither approach adequately captures a central aspect of playing these games when the player no longer tunes into the narrative and is instead simply absorbed in the instrumentalities of gameplay. This is among the reasons philosopher C. Thi Nguyen contends that the work of computer-game designers is in what he calls the medium of player agency, which the designer prescribes through rules and goals, and which elicits positive aesthetic experiences in the player who agrees to adopt it. Therefore, Nguyen’s position is that Tavinor’s and Gaut’s frameworks ______
+
+
+A. are helpful starting points for studying computer games as art, even though these frameworks are overly simplistic.
+B. are useful for analyzing the narrative aspects of computer games, even if neither attempts to address player agency.
+C. overtake the influence of fiction and cinema on the narrative elements of computer games.
+D. subsume computer games under other categories of media that do not address a feature of games that is integral to player enjoyment.
+Answer: D
+
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Careful planning was essential for the success of the Deep Impact probe, which conducted a flyby of comet 9P/Tempel and then traveled to comet 103P/Hartley. The CONTOUR probe mission seemed similarly well-planned, but engineers lost communications with the probe before it could achieve the mission goal of visiting comet 73P/Schwassmann-Wachmann. This shows that _____
+
+
+A. the Deep Impact was more successful than the CONTOUR because it had fewer tasks to accomplish.
+B. having multiple mission goals ensures that a probe will accomplish at least one of its tasks.
+C. the CONTOUR would likely have accomplished its tasks if it had been sent somewhere other than comet 73P/Schwassmann-Wachmann.
+D. careful planning alone does not guarantee that a probe will accomplish its mission.
+Answer: D
+
+
+Question 15:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In modern genetics, the theory of Lamarckian inheritance (1744–1829), whose core ideas were long dismissed by mainstream science, is being re-evaluated by a new generation of scientists—a renewed debate that is significantly driven by epigenetics researchers like Dr. Eva Jablonka, whose research ______ the mechanisms for inheriting acquired traits prompts a fundamental reconsideration of evolutionary theory itself.
+
+
+A. demonstrates
+B. demonstrating
+C. has demonstrated
+D. is demonstrating
+Answer: B
+
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Borgia map is a mappa mundi from the fifteenth century. Currently held at the Vatican Library in Vatican City, it is one of over 1,000 such world maps from the European Middle Ages still remaining, with the even older Hereford map from the fourteenth century (now held at Hereford Cathedral in Hereford, England) ____ another one.
+
+
+A. being
+B. is
+C. has been
+D. was
+Answer: A
+
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The neurotechnology company Neuros Medical is working on an exciting new technology: a process that uses bioelectric signals to target sensory nerves to help relieve pain. Neuros Medical’s technology, alongside other such neuromodulation technologies that function by stimulating nervous system structures, ______ the way for future advancements in neurotechnology.
+
+
+A. paving
+B. is paving
+C. are paving
+D. have paved
+Answer: B
+
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Taking a structuralist approach to analyzing Tomas Rivera’s novel *And the Earth Did Not Devour Him* would lead a critic to focus on the linguistic conventions inherent in the novel. On the other hand, a New Historical analysis ______ on historical context and its relationship to power structures might yield a radically different interpretation of Rivera’s novel.
+
+
+A. would be focusing
+B. would focus
+C. focuses
+D. focusing
+Answer: D
+
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+L. Leann Kanda, a researcher and sewing enthusiast, experimented with several techniques in her attempt to replicate the famous pleating of the Fortuny Delphos gown. The specific method, which the fashion ______ developed in the early twentieth century, is considered lost.
+
+
+A. designers, Henriette Nigrin and Mariano Fortuny y Madrazo
+B. designers Henriette Nigrin and Mariano Fortuny y Madrazo
+C. designers Henriette Nigrin and Mariano Fortuny y Madrazo,
+D. designers, Henriette Nigrin and Mariano Fortuny y Madrazo,
+Answer: B
+
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Scientists have long known that cyclones can contribute to the formation of polynyas, large patches of unfrozen water that sporadically form amid vast sheets of sea ice. A recent study found evidence that these polynyas may be ______ but also by vapor streams, which travel through the atmosphere from the tropics toward the North and South Poles.
+
+
+A. caused not only by cyclones—
+B. caused—not only by cyclones—
+C. caused, not only by cyclones,
+D. caused not only by cyclones
+Answer: D
+
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Some bands choose a name that’s as unique as possible to distinguish themselves from other bands. The electronic rock band Primary ______ took a different approach. They chose to name themselves after a song by a well-known band, the Cure.
+
+
+A. therefore,
+B. by contrast,
+C. for example,
+D. secondly,
+Answer: B
+
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Kore, one of the eighty known moons of Jupiter, is designated as Jupiter XLIX ("XLIX" means "49"). Roman numerals typically indicate the order in which the moons were named rather than the order of their proximity to Jupiter. It is incorrect to assume, ___ that Kore is the forty-ninth moon from Jupiter in terms of proximity.
+
+
+A. however,
+B. moreover,
+C. finally,
+D. accordingly,
+Answer: D
+
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As gene-editing technology has become more accessible, many researchers have considered its potential to cure genetic diseases, or even enhance human traits. ______ it is the broad ethical consensus—supported by international scientific committees—that currently limits these applications and ensures that the technology is used responsibly.
+
+
+A. Consequently,
+B. Specifically,
+C. Alternatively,
+D. Ultimately,
+Answer: D
+
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Upper-atmospheric jets—phenomena whereby electrical discharges cause narrow cones of blue light to briefly burst upward from the tops of thunderstorms—have been observed reaching to the ionosphere. The extreme altitudes involved (the ionosphere begins about 80 km above Earth) mark these gigantic jets as outliers; ______ the majority of jets reach heights of only 20 to 50 km.
+
+
+A. consequently,
+B. indeed,
+C. in addition,
+D. nevertheless,
+Answer: B
+
+
+Question 25:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As genetic engineering has advanced, many corporations have sought to gain an advantage in, or even patent, the genetic code of essential food crops. ______ it is the 2001 International Treaty on Plant Genetic Resources—signed by the European Union, Brazil, and over 140 other nations—that curtails these commercial ambitions and ensures that access to these genetic resources remains open for the international community.
+
+
+A. Consequently,
+B. Specifically,
+C. Alternatively,
+D. Ultimately,
+Answer: D
+
+
+Question 26:
+[Synthesis]
+The student wants to explain whom the award is named for and identify one recipient of it. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The A.M. Turing Award is a prestigious award given by the Association for Computing Machinery (ACM).
+• The ACM gives the award for "major contributions of lasting importance to computing."
+• It is named after groundbreaking British mathematician Alan Turing.
+• Judea Pearl won the award in 2011.
+
+
+A. The A.M. Turing Award is given for "major contributions of lasting importance to computing."
+B. The A.M. Turing Award, which is named for British mathematician Alan Turing, was given to Judea Pearl in 2011.
+C. In 2011, Judea Pearl won the A.M. Turing Award, which is given for "major contributions of lasting importance to computing."
+D. It was in 2011 that Judea Pearl won the A.M. Turing Award.
+Answer: B
+
+
+Question 27:
+[Synthesis]
+The student wants to explain how Helmholtz describes F sharp major. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• In music theory, the term "key" refers to the set of musical notes that forms the foundation of a piece of music.
+• In On the Sensations of Tone (1863), German physicist Hermann von Helmholtz describes the mood of various musical keys.
+• He describes the key of F sharp major as "brilliant, very clear."
+• "Give Me One Reason" (1995) by Tracy Chapman is a song written in F sharp major.
+
+
+A. The key of F sharp major is one of various keys, which are sets of musical notes that form the foundations of pieces of music.
+B. In On the Sensations of Tone, Helmholtz describes the mood of F sharp major.
+C. The song "Give Me One Reason" could be described as "brilliant, very clear."
+D. In On the Sensations of Tone, Helmholtz describes the mood of F sharp major as "brilliant, very clear."
+Answer: D

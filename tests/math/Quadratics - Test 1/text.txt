@@ -1,0 +1,53 @@
+Question 1:
+A quadratic function can be used to model the height, in feet, of an object above the ground in terms of the time, in seconds, after the object was launched. According to the model, an object was launched into the air from a height of 0 feet and reached its maximum height of 784 feet 7 seconds after it was launched. Based on the model, what was the height, in feet, of the object 3 seconds after it was launched?
+Answer: 528
+Explain : Sử dụng Desmos 
+
+Question 2:
+f(x) = {{MATH_1}}
+What is the minimum value of the given function?
+Answer: 75
+
+Question 3:
+The function g is defined by the given equation.
+g(x) = {{MATH_2}}
+For what value of x does g(x) reach its maximum?
+Answer: 2.5
+Explain : Sử dụng Desmos hoặc sử dụng tính chất x-vertex = (x1 + x2) / 2 rồi thay x-vertex vào
+
+Question 4:
+When the quadratic function f is graphed in the xy-plane, where y = f(x), its vertex is (-3, 6). One of the x-intercepts of this graph is ({{MATH_3}}, 0). What is the other x-intercept of the graph?
+
+A. ({{MATH_4}}, 0)
+B. ({{MATH_5}}, 0)
+C. ({{MATH_6}}, 0)
+D. ({{MATH_7}}, 0)
+Answer: B
+Explain : Sử dụng tính chất (x1 + x2) / 2 = x-vertex. Có x1 = 17/4 và x-vertex = -3.
+
+Question 5:
+The function f is defined by the given equation.
+f(x) = {{MATH_8}}
+For what value of x does f(x) reach its minimum?
+
+A. -11  
+B. 11/2  
+C. 11  
+D. -11/2  
+Answer: D
+Explain : Tương tự câu 3. 
+
+Question 6:
+In the xy-plane, a parabola with equation y = {{MATH_9}}, where a, b, and c are constants, has a vertex at the point (-5, -100). If c > 0, which of the following is a possible value of b?
+
+A. -60  
+B. -40  
+C. 40  
+D. 60  
+Answer: D
+Explain : a(x+5)^2 - 100 = ax^2 + bx + c rồi tính được b theo c --> tìm ra được giá trị có thể của b. 
+
+Question 7:
+A golf ball was struck from a certain height above the ground. The ball reached its maximum height of 72 feet above the ground 3 seconds after it was struck, and the ball hit the ground 7 seconds after it was struck. A quadratic function can be used to model the height, in feet, of the ball above the ground in terms of the time, in seconds, after the ball was struck. Based on the model, what was the height, in feet, of the ball 5 seconds after it was struck?
+Answer: 54
+Explain : Desmos kiểu phương trình vertex : y1 ~ a(x1-h)^2 + k

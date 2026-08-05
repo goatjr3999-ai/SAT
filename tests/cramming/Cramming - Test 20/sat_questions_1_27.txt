@@ -1,0 +1,371 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Economist Jingting Fan argues that the effects of international trade may display spatial variation at sub-national levels. For instance, imported goods may reduce expenses for a country’s average consumer, but for consumers living far from ports, high intranational transport costs could ______ the price advantages associated with imports.
+
+
+A. misconstrue
+B. underestimate
+C. nullify
+D. denigrate
+Answer: C
+
+Question 2:
+[WIC]
+As used in the text, what does the phrase “most advanced” most nearly mean?
+
+The following text is from Thomas Hardy’s 1874 novel Far from the Madding Crowd. Bathsheba and Liddy are traveling down a road when Liddy points out a neighbor whom Bathsheba hasn’t met yet.
+Liddy looked. “That! That’s Farmer Boldwood—of course ‘tis—the man you couldn’t see the other day when he called.”
+“Oh, Farmer Boldwood,” murmured Bathsheba, and looked at him as he outstripped them. The farmer had never turned his head once, but with eyes fixed on the __most advanced__ point along the road, passed as unconsciously and abstractedly as if Bathsheba and her charms were thin air.
+
+
+A. Most modern
+B. Brightest
+C. Farthest
+D. Most matured
+Answer: C
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Posterior skeletal aeration (PSA) denotes an organism’s respiratory extensions penetrating its bony framework. Although such cavities seldom endure in fossilized remains, paleontologists propose that they once existed in creatures like Spinosaurus, Saltasaurus, and several Jurassic reptiles. To ______ PSA from vestigial evidence, specialists scrutinize morphological hallmarks, including conspicuous voids in the bone.
+
+
+A. extrapolate
+B. procure
+C. segregate
+D. safeguard
+Answer: A
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Prose poetry, a hybrid form exemplified by Claudia Rankine’s “Coherence in Consequence,” fuses the continuous text of prose with the condensed language of poetry. However, given that some practitioners rely heavily on traditional poetic devices while others adhere to a strictly prosaic aesthetic, the genre displays a notable absence of ______ its stylistic norms.
+
+
+A. disparity in
+B. homogeneity in
+C. equivocation in
+D. versatility in
+Answer: B
+
+Question 5:
+[COE]
+Which of the following statements about a chameleon's color-shifting is supported by the passage?
+
+It is a widely held assumption that the primary purpose of a chameleon's color change is camouflage. This belief posits that chameleons are masters of disguise, blending into their environment to evade predators. In reality, this color-shifting ability is predominantly a mechanism for social signaling and physiological regulation. For instance, a darker coloration can be adopted by a chameleon to absorb more heat when it is cold. Once sufficient heat is absorbed, its bodily functions become much more efficient. In dense, uniformly green foliage, where the need for complex signaling is reduced, this dramatic color-shifting is observed less frequently. However, these reptiles can certainly use their ability for concealment, and doing so becomes necessary when a predator is detected.
+
+
+A. The regulation of a chameleon's physiological state is a key reason for its color changes.
+B. The color change is completed before a social interaction begins.
+C. This ability is most frequently used in dense foliage.
+D. Camouflage is consistently disregarded in favor of communication.
+Answer: A
+
+Question 6:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+The following text is from Mary Shelley's 1818 novel Frankenstein. Victor Frankenstein, who is narrating this portion of text, describes the state of scientific knowledge as he began his own study of the natural world.
+The untaught peasant beheld the elements around him and was acquainted with their practical uses. The most learned philosopher knew little more. He had partially unveiled the face of Nature, but her highest immortal lineaments were still a wonder and a mystery. __He might dissect, anatomise, and give names; but, not to speak of a final cause, causes in their secondary and tertiary grades were utterly unknown to him__. I had gazed upon the fortifications and impediments that seemed to keep human beings from entering the citadel of nature, and rashly and ignorantly I had repined.
+
+
+A. It explains what can be gained from a scientific approach to understanding natural phenomena.
+B. It describes an intensely debated scientific controversy that Victor dedicated his life to resolving.
+C. It undermines the idea that a practical approach to understanding natural phenomena is inferior to a scientific approach.
+D. It suggests that Victor did not discover what he wanted to know from the scientific research available to him.
+Answer: D
+
+Question 7:
+[Details]
+Which choice best describes the function of the reference to Brown's biography in the text as a whole?
+
+The following text is from Yung Wing's 1909 memoir My Life in China and America: Yung Wing was the first American college graduate of Chinese heritage; Phoebe Brown was the first prominent female hymn writer in the United States.
+I look back upon my acquaintance with Mrs. Phoebe H. Brown with a mingled feeling of respect and admiration. She certainly was a remarkable New England woman—a woman of surpassing strength of moral and religious character. Those who have had the rare privilege of reading her stirring biography, will, I am sure, bear me out in this statement. She went through the crucible of unprecedented adversities and trials of life and came out one of the rare shining lights that beautify the New England sky.
+
+
+A. It emphasizes that Brown's life has been a popular subject for writers because it was so remarkable.
+B. It suggests that other people who are familiar with Brown's life would share the author's view of her.
+C. It explains why Brown was unique amongst her peers.
+D. It describes the nature of the relationship between Yung and Brown.
+Answer: B
+
+Question 8:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+The rapid downfall of the video rental corporation FilmBuster, culminating in its 2010 bankruptcy, remains a frequently cited case study in corporate strategy. In contrast to other large retailers of the era that successfully managed significant debt through restructuring, FilmBuster's debt was a secondary issue, so its collapse cannot be attributed merely to poor financial management. And as business analyst Maria Chen highlights, the reductive explanation of blaming a single competitor's rise is untenable as an account of a multi-year decline, especially given FilmBuster’s own strategic blunders. Instead, Chen is likely correct that FilmBuster's failure was caused by a fundamental inflexibility in its revenue model, which was heavily reliant on late fees.
+
+
+A. It describes a historical business event, discusses competing analyses of that event that the author finds unconvincing, and then presents new financial data to support a different analysis.
+B. It presents a corporate case study, describes a contrast between that corporation and other corporations, and then explains why those other corporations should not be used as a point of comparison.
+C. It introduces a business phenomenon, refutes two potential explanations for that phenomenon, and then presents a third explanation that the author regards as plausible.
+D. It discusses a market shift, evaluates the possible consequences of that shift, and then states that a definitive explanation for the shift has not yet been determined.
+Answer: C
+
+Question 9:
+[COE]
+Which choice most effectively uses data from the graph to complete the statement?
+
+Modular construction, or a process in which a building is manufactured off-site in sections and assembled on-site, is gaining traction in the architectural industry, given modular construction’s multifarious advantages, which range from the reduction of noise pollution in crowded urban areas to a faster return on investment. An architecture company wishes to pursue modular construction projects but wants to avoid those in building categories that may already be oversaturated with projects. An executive from the company complies data about both permanent and relocatable modular constructions of various types and concludes that ______.
+
+
+
+A. it is advisable to avoid both permanent and relocatable workforce housing projects because they are not the most common of the modular structures.
+B. relocatable multifamily modular constructions represent more desirable opportunities for investment than permanent multifamily modular constructions do.
+C. assembly projects are likely to be the least profitable opportunity for investment for both permanent and relocatable modular structures.
+D. permanent multifamily modular constructions represent the best opportunity for investment given their relative popularity and the standard nature of their designs.
+Answer: B
+
+Question 10:
+[COE]
+Which finding, if true, would most directly weaken the botanists' hypothesis?
+
+Leaves are typically green during the growing season, a color resulting from the reflection of light by chlorophyll. This pigment's abundance obscures other colors by absorbing most wavelengths except green. In autumn, as chlorophyll degrades, yellow and orange carotenoid pigments are revealed. However, some leaves, such as those of maples, become a vibrant red. A team of botanists has hypothesized that this coloration is a consequence of newly produced red anthocyanin pigments in the leaf's sap combining with the exposed yellow carotenoids.
+
+
+A. The presence of anthocyanins in green summer leaves does not alter their color due to the dominance of chlorophyll.
+B. The synthesis of anthocyanins is notably greater in regions experiencing colder autumn temperatures.
+C. Trees that develop red leaves and those that develop yellow leaves are frequently found in different types of soil.
+D. Both red autumn leaves and yellow autumn leaves are found to contain similarly negligible traces of anthocyanin pigments.
+Answer: D
+
+Question 11:
+[COE]
+Which quotation from a literary scholar would most directly support the claim in the underlined portion of the text?
+
+Scholars cite Pedro Páramo, the 1955 novel by Mexican author Juan Rulfo, as a foundational text of magical realism, the Latin American style of fiction in which antirealistic plot devices—often borrowed from the folkloric traditions of Indigenous and colonial societies in the Americas—are deployed in an otherwise realistic mode of representation typical of the modern novel. This style has exerted a decisive influence on authors around the world, including José Saramago, __whose 1982 novel Baltasar and Blimunda resembles classic magical realist novels in its juxtaposition of literary realism with folklore—namely, that of Portugal__.
+
+
+A. “While Baltasar and Blimunda alternates between realistic and antirealistic modes of representation, details suggesting the influence of Portuguese folklore nevertheless occur throughout the novel.”
+B. “Although Portuguese folklore clearly informs the style and occasionally antirealistic plot of Baltasar and Blimunda, the novel also shows the inarguable influence of the magical realist tradition of Latin America.”
+C. “The logic of the realistic plot of Baltasar and Blimunda is repeatedly and productively disrupted by the presence of imagery and situations drawn from Portuguese folklore.”
+D. “Like many works in the Latin American magical realist tradition, Baltasar and Blimunda is indebted to antirealistic elements in the folkloric tradition of Portugal.”
+Answer: C
+
+Question 12:
+[COE]
+Which quotation from Bennett's study best supports this assertion?
+
+Cognitive psychologist Laura Bennett's 1998 study, conducted in London during the late 1950s, focused on the mental visualization abilities of individuals anticipating significant life events. In the experiment, participant Henry Carter was asked to imagine his upcoming marriage to Susan Taylor. Henry vividly envisioned future events with Susan: ____.
+
+
+A. "Susan momentarily glanced down at the delicate ring resting softly between her fingers, causing Henry Carter to notice her slight, thoughtful smile."
+B. "Henry Carter shifted slightly in his seat, redirecting his attention from the window to observe the participants on the opposite side of the study room."
+C. "Even though there had been discussions about creating a more advanced research facility that could rival renowned psychological institutes in other European cities, most participants remained comfortable attending sessions within the familiar environment of the older laboratory."
+D. "Immediately, Henry's thoughts jumped beyond the formal proposal and the celebratory events, vividly picturing Susan standing next to him in their future life."
+Answer: D
+
+Question 13:
+[COE]
+Which choice most effectively uses data from the graph to complete the text?
+
+Hemerocallis sp. plants typically carry a negative electrical charge, while bees and other pollinators tend to accumulate a positive charge. Given that negatively and positively charged objects attract, a research team hypothesized that the difference in charges could attract *Hemerocallis sp.* stamens to the plants’ pollinators. Based on the team’s experiments, the hypothesis was well supported for positive charges above a certain threshold. The team found that foraging honeybees exceeded that threshold, which suggests that ______.
+
+
+
+A. red mason bees can also attract the stamens.
+B. red mason bees and European peacock caterpillars, with greater maximum charges than foraging honeybees have, cannot attract the stamens.
+C. European peacock caterpillars tend to repel the stamens.
+D. the threshold positive charge for a pollinator to attract the stamens must be greater than 100 pC.
+Answer: A
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Indigenous songs can be repositories of ecological information, from Teniar lavaforms and landmarks to Kwakwaka’wakw songs about rainforest sounds. Kwakwaka’wakw song keeper Kwaxsistalla Wathl’thla aided research by ethnobiologist Dana Lepofsky et al. by contributing songs that reference creating terraced intertidal gardens to foster the healthy development of clams, a staple in the Kwakwaka’wakw people’s diet. Such structures date as far back as 3,500 years ago. Intriguingly, analysis of local paleoecological marine bivalve records has revealed significant increases in clam size and productivity as clam garden practices became more prevalent and harvesting pressure increased—a finding that bolsters the notion that ___.
+
+
+A. contemporary Kwakwaka’wakw people have only minimally deviated from the clam-gardening practices described in the people's songs.
+B. the Kwakwaka’wakw people initially adapted their clam garden practices from similar methods observed among other Indigenous peoples in neighboring areas.
+C. the practical approach described in the Kwakwaka’wakw songs effectively maintained clams as a sustainable food source.
+D. the Kwakwaka’wakw people encouraged the health of clam gardens and reduced pressure on them by periodically increasing their reliance on other sources of sustenance.
+Answer: C
+
+Question 15:
+[COE]
+Which choice provides the most direct evidence from the table to support the lead engineer's determination?
+
+**Performance Evaluation of Metals for Aerospace Components**
+
+A team of aerospace engineers led by Dr. Anya Sharma is evaluating several metals for use in a critical satellite component. The evaluation uses three different computational models: one assessing structural integrity, another for thermal resistance, and a third performing a cost-benefit analysis. Each model generates a suitability score for the metals on a scale of 1 to 50, where a score of 1 indicates the highest possible suitability for that criterion. After reviewing the results generated by the models, the lead engineer determines that for components where withstanding extreme heat is the most critical factor, the design specifications should prioritize the use of copper.
+
+
+A. Titanium was rated as more suitable by the structural integrity model than it was by the cost-benefit analysis model.
+B. According to the thermal resistance model, steel was deemed more suitable than aluminum.
+C. Copper received a more favorable score from the thermal resistance model than any of the other four metals.
+D. The suitability score for copper under the thermal resistance model was significantly better than its score in the cost-benefit analysis.
+Answer: C
+
+Question 16:
+[Infer]
+Which choice most logically completes the text?
+
+Apple's introduction of the Apple Watch in 2015 is an instance of brand extension—the company leveraged its brand recognition as a computer manufacturer to enter a new product category. To investigate how market share affects consumers’ likelihood of purchasing brand extensions, Alicia Grasby et al. identified 30 extended-brand pairs (e.g., the same brand of cooking oil and butter) in household purchasing data; for each pair, Grasby et al. calculated the branded products’ market share and calculated the increase in probability of a brand in one category being purchased if the same brand was purchased in the other category. A broad inverse relationship between the two values emerged, which can most reasonably be attributed to the fact that ______.
+
+
+A. consumers tend to be less familiar with brands with low market share than brands with high market share and thus may purchase both products in a pair with low market share without recognizing that the products are the same brand.
+B. brands with high market share have high purchase probability regardless of whether the other product in the pair is purchased and thus have less potential to increase in purchase probability than brands with low market share do.
+C. as a brand’s market share increases, the number of competing brands in the same product category tends to decrease, and thus the rate of increase in market share tends to accelerate as a brand’s market share grows.
+D. the purchase probability of a brand is affected by the purchase probability of the particular product category to which it belongs, and thus brands in categories that are rarely purchased tend to have low purchase probabilities regardless of market share.
+Answer: B
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In the early 20th century, the Ford Motor Company's assembly line was a model of industrial efficiency, producing cars at an unprecedented rate. A new Model T could be fully assembled in just 93 ______ this intense focus on speed and unchanging design meant the company fell behind competitors who offered customers more variety and options.
+
+
+A. minutes, however;
+B. minutes, however,
+C. minutes however,
+D. minutes. However,
+Answer: D
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The "working memory" model updates the concept of short-term memory by emphasizing the active manipulation of information rather than passive storage. Compared to that of sensory memory, _____ the cognitive process of maintenance rehearsal.
+
+
+A. the retention of information, distinct in the working memory model's framework, is achieved through
+B. working memory's duration is extended, as information is kept accessible for manipulation by
+C. working memory, with its extended duration, retains information that is kept accessible for manipulation by
+D. information kept accessible for manipulation is retained within the working memory model's framework by
+Answer: B
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The prefrontal cortex’s adaptive plasticity typically surpasses that of the primary sensory cortices due to the interplay of three main factors—namely, the density and organization of the ____ synaptic efficiency during complex problem-solving tasks, with synchronized neural firing strengthening the retrieval pathways; and neurochemical modulation, such as the precise regulation of dopamine release.
+
+
+A. neurons, their
+B. neurons; their
+C. neurons. Their
+D. neurons—their
+Answer: B
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In casual arguments, people often rely on personal experience to make a point. By sharing a vivid, relatable story, speakers can create a powerful emotional connection, which is why anecdotes can be very persuasive. This type of reasoning shuns ______ that is subject to what psychologists call “confirmation bias”—in other words, people tend to seek out and remember stories that support their existing beliefs.
+
+
+A. statistical data in favor of a narrative approach
+B. statistical data, in favor of a narrative approach,
+C. statistical data, in favor of a narrative approach
+D. statistical data—in favor of a narrative approach
+Answer: A
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Conceiving of a communal gathering space in the style of European town centers, _______ recalled those he saw in his native Vienna.
+
+
+A. architect Victor Gruen’s designs for Illinois’s Yorktown Center, an indoor shopping mall completed in 1968, with promenades, fountains, and greenery that
+B. architect Victor Gruen designed Illinois’s Yorktown Center, an indoor shopping mall completed in 1968, with promenades, fountains, and greenery that
+C. the promenades, fountains, and greenery of Illinois’s Yorktown Center, an indoor shopping mall designed by architect Victor Gruen and completed in 1968,
+D. Yorktown Center, an indoor shopping mall in Illinois completed in 1968, was designed by architect Victor Gruen with promenades, fountains, and greenery that
+Answer: B
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In the 19th century, Louis Pasteur's famous experiments on fermentation involved simple microscopes, which used single glass lenses to observe yeast cells. Unsurprisingly, this basic optical technology had been entirely superseded by the time modern microbiology labs were established in the 20th century. ______ powerful electron microscopes revealed the intricate internal structures of microorganisms.
+
+
+A. In other words,
+B. For this reason,
+C. In addition,
+D. Then,
+Answer: D
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A team of entomologists studied the foraging strategies of honeybees (*Apis mellifera*) in a mixed-flower meadow in Germany. The researchers observed that most forager bees were specialists, consistently visiting a single type of flower to collect nectar. Bee #42, ______ switched between multiple flower types during a single foraging trip.
+
+
+A. for example,
+B. in particular,
+C. similarly,
+D. alternatively,
+Answer: D
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+At the Museum of Natural History in Washington, DC, a single specimen of the planktonic marine organism G. hexagonus is preserved as the reference organism for the species. This specimen is a holotype, meaning it was the basis of the first formal scientific description of G. hexagonus. ______ the reference organism for the planktonic G. truncatulinoides, preserved at the Natural History Museum in London, is a neotype, meaning it acts as a reference organism but is not the exact specimen originally described.
+
+
+A. By contrast,
+B. Moreover,
+C. Admittedly,
+D. For instance,
+Answer: A
+
+Question 25:
+[Synthesis]
+The student wants to emphasize a difference between the two compositions. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Louis Ballard was a classical composer and citizen of the Quapaw Tribe.
+• His compositions synthesize Western classical music with elements of various Native musical traditions.
+• Ballard’s classical piece Katchina Dances features traditional Hopi songs.
+• Ballard’s classical piece Fantasy Aborigine No. 3 incorporates a Tewa seashell rattle, a traditional Native instrument.
+
+
+A. Katchina Dances and Fantasy Aborigine No. 3 are two compositions written by Ballard, a classical music composer
+B. In his two compositions Katchina Dances and Fantasy Aborigine No. 3, Ballard blends elements of various Native musical traditions, such as Indigenous songs or instruments, with Western classical music.
+C. Ballard has different approaches to blending Western classical music with elements of various Native musical traditions, such as using Indigenous songs and instruments in his compositions.
+D. While both compositions integrate various Native musical traditions, Katchina Dances does so by featuring traditional Hopi songs and Fantasy Aborigine No. 3 does so by incorporating a Tewa seashell rattle.
+Answer: D
+
+Question 26:
+[Synthesis]
+The student wants to provide a specific example of a fantastical element being presented matter-of-factly in magical realism. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a literary genre, a student has taken the following notes:
+• Gabriel García Márquez was a Colombian author who pioneered a literary style known as magical realism.
+• A key characteristic of magical realism is the blending of realistic, everyday settings with supernatural or fantastical elements.
+• The presentation of fantastical elements in a straightforward, matter-of-fact tone is a central technique of the genre.
+• In García Márquez's novel *One Hundred Years of Solitude*, the character Remedios the Beauty inexplicably ascends to heaven while folding laundry.
+• García Márquez stated his aim was to create a "poetic transposition of reality" where the line between the mundane and the miraculous is blurred.
+
+
+A. Magical realism, a style pioneered by Gabriel García Márquez in works like One Hundred Years of Solitude, is characterized by the blending of realistic settings and supernatural elements.
+B. In Gabriel García Márquez's magical realist novel One Hundred Years of Solitude, the fantastical event of Remedios the Beauty ascending to heaven is presented in a straightforward manner, occurring as she folds laundry.
+C. One Hundred Years of Solitude by Gabriel García Márquez is an example of magical realism, a genre for which the matter-of-fact presentation of the supernatural is a central technique.
+D. The presentation of fantastical elements in the works of García Márquez serves to create a "poetic transposition of reality" where the mundane and the miraculous are blurred.
+Answer: B
+
+Question 27:
+[Synthesis]
+The student wants to generalize about satellite orbits. Which option most effectively uses relevant information from the notes to achieve this goal?
+
+While gathering information on a topic, a student made the following notes:
+• A fully self-sufficient satellite orbit is called a continuous orbit.
+• Most satellites require occasional maintenance or reprogramming from ground control.
+• Sarah Walker, a Canadian engineer, designed the *EagleSat*, which maintained a self-sustained orbit for five years without external adjustments.
+• Miguel Sánchez, a Spanish engineer, created the *StarProbe*, which sustained a similar orbit for seven years.
+
+
+A. Sánchez’s StarProbe maintained its orbit longer than Walker’s EagleSat.
+B. Walker and Sánchez both developed satellites capable of maintaining self-sufficient orbits.
+C. A continuous orbit is defined as a satellite orbit that operates without requiring any external maintenance.
+D. Most satellites rely on ground control for adjustments, but some are designed to sustain continuous orbits without intervention.
+Answer: D

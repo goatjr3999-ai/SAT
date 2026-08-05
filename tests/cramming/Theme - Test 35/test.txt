@@ -1,0 +1,239 @@
+Question 1:
+Which choice best describes data from the table that weaken the student’s argument?
+
+Value, Cost, and Seigniorage of US Coins by Denomination, 2023
+
+Issuing a one-dollar coin yields positive seigniorage—profit generated when the face value of a coin exceeds the unit cost of producing it—for Singapore’s government, which can be used to fund such services as education. Issuing coins can also result in negative seigniorage, however; and this phenomenon led Australia to stop producing certain coins. A student argues that it is in the financial interest of the United States to follow the example of Australia with regard to each of the four coins shown in the table.
+
+
+A. Seigniorage per dollar issued was slightly greater for quarter-dollar coins than for ten-cent coins, but seigniorage in millions of dollars was much greater for quarter-dollar coins than for ten-cent coins.
+B. Although issuing one-cent and five-cent coins resulted in negative seigniorage in millions of dollars, issuing ten-cent and quarter-dollar coins resulted in positive seigniorage in millions of dollars.
+C. Issuing one-cent and five-cent coins created negative seigniorage in millions of dollars, but for each of those coins, the gross cost of issuing the coin was lower than the gross cost of issuing ten-cent or quarter-dollar coins was.
+D. Although issuing five-cent coins created the greatest negative seigniorage in millions of dollars, issuing one-cent coins created the greatest negative seigniorage per dollar issued.
+Answer: B
+
+Question 2:
+Based on the information in the text and the table, the two students most likely disagree about the answer to which question?
+
+Value, Cost, and Seigniorage of US Coins by Denomination, 2023
+
+Issuing a one-dollar coin yields positive seigniorage—the profit generated when the face value of a coin exceeds the cost of producing it—but the profit from issuing a one-cent coin can in turn be used to fund such services as education. Some countries, such as the Netherlands, have ceased manufacturing certain coins because their production created negative seigniorage. In an economics class discussing the data in the table, one student argues that in 2023, the one-cent coin was the most financially unviable for the US to produce, while another student argues that the five-cent coin was.
+
+
+A. When evaluating the financial implications of issuing a coin, which is more important, the total seigniorage from issuing that coin or the seigniorage per dollar when issuing that coin?
+B. If issuing a given coin results in negative seigniorage per dollar issued, can that be changed to positive seigniorage per dollar issued by reducing the cost of issuing the coin?
+C. If issuing a given coin results in positive seigniorage per dollar but not as much positive seigniorage per dollar as issuing a different coin does, does it make financial sense to continue issuing the first coin?
+D. When determining whether it makes financial sense to issue a given coin, which is more important, the total value of the units of that coin produced or the gross cost of issuing that coin?
+Answer: A
+
+Question 3:
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+Seigniorage is the difference between the face value of a coin and the unit cost of producing it. Positive seigniorage results in revenue for the issuing government, and this profit can be used to support transportation and other government-funded services. However, some coins cost more to produce than their value. __While this has led some countries, including New Zealand, to cease manufacturing certain coins, another approach is to alter the composition of some coins so that they are made with relatively inexpensive metals__.
+
+
+A. It details the rationale behind a particular economic decision made by New Zealand.
+B. It summarizes a method that the government of New Zealand uses to fund transportation.
+C. It presents additional information to supplement a definition presented earlier in the text.
+D. It indicates potential solutions to a problem discussed earlier in the text.
+Answer: D
+
+Question 4:
+Which experimental result, if true, would most directly support the conclusion drawn by Dr. Wexler and her team?
+
+For years, scientists have known that certain sea creatures like octopuses and crabs perceive their surroundings in three dimensions, much like humans do. However, it has been observed that tortugans and terrapins, surprisingly, perceive their world in only two dimensions. Scientists, always eager to fill gaps in our understanding of the natural world, recently turned their attention to the Spotted Mediterranean Cuttlefish (Sepia delmaieri), a peculiar cephalopod known for its unique hunting techniques, to determine if its visual perception is two or three dimensional. Researchers led by Dr. Abigail Wexler at the Marine Biology Institute in Florida, launched a unique study. Some cuttlefish were outfitted with specially designed 3D goggles while others remained un-goggled, serving as the control group. After observing their behaviors, the research team concluded that the Spotted Mediterranean Cuttlefish perceive their world in three dimensions.
+
+
+A. When equipped with 3D goggles, cuttlefish showed increased aggression towards other species.
+B. Cuttlefish were able to remove the 3D goggles with their tentacles in less than 60 seconds.
+C. With the 3D goggles on, the cuttlefish exhibited no behavioral change when presented with prey.
+D. Cuttlefish wearing 3D goggles showed a preference for brighter, more colorful environments.
+Answer: C
+
+Question 5:
+00001_The argument for the cognitive sophistication of early hominins is significantly strengthened by the examination of 150 limestone spheroids, dating back approximately 1.4 million years. Archaeologists concluded that the creation of these objects was not accidental but resulted from a ______ process of chipping away at the rocks over time to achieve a nearly perfect spherical form, an endeavor suggesting a level of foresight and planning previously underestimated.
+ 
+Which choice completes the text with the most logical and precise word or phrase?
+
+A. capricious
+B. perfunctory
+C. meticulous
+D. equivocal
+Answer: C
+
+Question 6:
+Which choice completes the text with the most logical and precise word or phrase?
+
+A team of archaeologists examined 150 spherically shaped limestone rocks called spheroids that date back about 1.4 million years, concluding that early hominins intentionally chipped away at rocks to form these spheroids over time. The fact that their attempt to make the stones as round as possible was ______ suggests that early hominins may have been more cognitively sophisticated than previously thought.
+
+
+A. concerning
+B. comparable
+C. sympathetic
+D. deliberate
+Answer: D
+
+Question 7:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The examination of 150 limestone spheroids dating back 1.4 million years led archaeologists to a compelling ______: the rocks' consistent spherical shape was not a natural occurrence but the result of intentional crafting by early hominins, an activity that suggests a previously underestimated level of cognitive sophistication.
+
+
+A. consternation
+B. supposition
+C. encomium
+D. aberration
+Answer: B
+
+Question 8:
+Which choice most logically completes the text?
+
+Saeed M.Z.A. Tarabieh conducted a study of consumer attitudes toward Jordanian food and beverage companies and found that for consumers who value environmental conservation, their likelihood of purchasing a product decreased when their perception of the product's risk of causing environmental harm increased. Subsequently, other researchers conducted a study of various demographic groups in Brazil, investigating participants' intentions to purchase a new skin-care product, and found that, on average, college students had the highest perception among all the demographic groups in the study of the environmental risks of the skin-care product. Assuming that the results of Tarabieh's study are broadly applicable, this finding suggests that ___.
+
+
+A. college students likely prioritize other factors over a product's environmental sustainability when making purchasing decisions.
+B. the students might be less likely than participants in the other demographic groups to purchase the skin-care product.
+C. there is not a meaningful difference in the average likelihood of purchasing environmentally friendly products among the demographic groups included in the study.
+D. the new skin-care product is more appealing to college students than other similar products on the market are.
+Answer: B
+
+Question 9:
+Which choice most logically completes the text?
+
+In a 2018 study, Deepak Jaiswal and Rishi Kant found that consumers' knowledge of environmental issues had no effect on the likelihood that the consumers would purchase environmentally friendly products. Since this study was based on fewer than 400 young adults in India, however, doubts have been raised about how reliable and representative the findings are. To better understand the issue, Wenjuan Zhang and colleagues analyzed the results of 54 studies of eco-friendly consumer behavior, such as a 2018 study from Indonesia that included 916 participants and a 2018 study from India with 202 participants. Taking all 54 studies together, Zhang and colleagues found a significant positive effect of environmental knowledge on eco-friendly purchasing decisions, suggesting that ______.
+
+
+A. a sample size of 202 may be sufficient to make reliable conclusions about the relationship between knowledge of environmental issues and purchasing decisions.
+B. concerns about the broad applicability of Jaiswal and Kant's conclusion were justified.
+C. the number of participants in Jaiswal and Kant's study was far below the number of participants in most studies of purchasing decisions.
+D. Jaiswal and Kant's methodology was more precise than the methodology used in the 2018 study from Indonesia.
+Answer: B
+
+Question 10:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The sloping tile roofs and picturesque façade of Mission San Luis Rey de Francia in Oceanside, California, exemplify the Spanish contribution to Californian architecture, an influence that is _____ throughout the state—architectural tourists visiting Los Angeles Union Station in Los Angeles, for example, can easily recognize how its style draws inspiration from the Spanish missions.
+
+
+A. palpable
+B. understated
+C. disputed
+D. corroborated
+Answer: A
+
+Question 11:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Architectural historians point out that the sloping tile roofs and arched façade of Mission Nuestra Señora de la Soledad became an icon of Spanish influence in California. Later builders sought to echo that look; the design of Santa Clara University, for instance, strives for a remarkable ______ to the appearance of the early Spanish missions.
+
+
+A. ostentation
+B. disparity
+C. verisimilitude
+D. ornamentation
+Answer: C
+
+Question 12:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The sloping tile roofs and picturesque façade of Mission San Rafael Arcángel in San Rafael, California, exemplify the Spanish contribution to Californian architecture, an influence that is palpable throughout the state—architectural tourists visiting Santa Clara University in Santa Clara, for example, can easily ______ how its style draws inspiration from the Spanish missions.
+
+
+A. abate
+B. apprreciate
+C. obfuscate
+D. perceive
+Answer: D
+
+Question 13:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The sloping tile roofs and picturesque facade of Mission San Carlos Borromeo de Carmelo in Carmel, California, are enduring symbols of the Spanish contribution to Californian architecture. Elements of this style have been reproduced throughout the state—the design of Santa Clara University in Santa Clara, for example, is considered to ____ the style of the Spanish missions.
+
+
+A. Renovate
+B. Imitate
+C. Neglect
+D. Reject
+Answer: B
+
+Question 14:
+Which choice best states the main purpose of the text?
+
+The following text is adapted from Adib Khorram’s 2018 novel *Darius the Great Is Not Okay*. Darius, a teenager from the United States, is visiting his grandparents, Babou and Mamou, in Iran. They are preparing for a holiday celebration.
+I felt like a tourist.
+But Babou fussed with my cap a little more, even though Mamou had already gotten it settled. He looked me in the eye from time to time, like he was looking for something, and thought maybe—just maybe—I had it in me after all.
+Babou hummed to himself as he smoothed out my shoulder seams and rested his hands on them.
+“I am glad you are here to see this, Darius-jan.” Maybe I wasn’t such a tourist.
+
+
+A. To emphasize that Darius has been looking forward to an event
+B. To demonstrate that Darius and Babou would prefer not to travel
+C. To show that Babou affects the way Darius thinks of himself
+D. To suggest that Babou and Mamou will visit Darius in the United States soon
+Answer: C
+
+Question 15:
+Which choice best describes the main purpose of the text?
+
+The following part is excerpted from Adib Khorram's 2018 novel Darius the Great Is Not Okay. Darius, a teenager from the United States, is visiting his grandparents, Mamou and Babou, and other family members in Iran.
+I was very used to the air all the way asleep, and even though Mamou was soft and warm, leaning up against her wasn't a terribly comfortable position to sleep in. So I stared and stared out the clouds of Farsi that blew my way from the front seat of Babou's Peugeot Pars.
+It reminded me of when I was little, and Mom chanted to me in Farsi every night before bedtime. It's hard to describe the Farsi chanting, the way Mom drew her voice out like the moans of a cello as she recited poems by Rumi or Hafez. I didn't know what they meant, but that didn't matter. It was quiet and soothing.
+©2018 by Adib Khorram
+
+
+A. to name some of the narrator's favorite poets who wrote in Farsi
+B. to describe a situation the narrator thinks is annoying
+C. to reveal that the narrator's mother is a poet
+D. to connect a current experience to a memory from the narrator's past
+Answer: D
+
+Question 16:
+Based on the text, what does the narrator mainly remember about the times when his mother chanted to him?
+
+The following text is adapted from Adib Khorram’s 2018 novel *Darius the Great Is Not Okay*. Darius, a teenager from the United States, is visiting his family members in Iran.
+I dozed and floated on the clouds of Farsi that blew my way from the front seat of Dayi [Uncle] Jamsheed’s SUV. It reminded me of when I was little, and Mom chanted to me in Farsi every night before bedtime. It’s hard to describe Farsi chanting: the way Mom drew her voice out like the notes of a cello as she recited poems by Rumi or Hafez. I didn’t know what they meant, but that didn’t matter. It was quiet and soothing.
+
+
+A. That he liked the characters in the stories his mother made up while chanting
+B. That his mother had music playing in the background while she chanted
+C. That his mother didn’t usually chant at night
+D. That he found the sound of his mother’s chanting to be calming
+Answer: D
+
+Question 17:
+Which choice best describes the main purpose of the text?
+
+The following text is adapted from Adib Khorram’s 2018 novel Darius the Great Is Not Okay. Darius, a teenager from the United States, is visiting his grandparents, Mamou and Babou, and other family members in Iran.
+I was too tired to fall all the way asleep, and even though Mamou was soft and warm, leaning up against her wasn't a terribly comfortable position to sleep in. So I dozed and floated on the clouds of Farsi that blew my way from the front seat of Dayi [Uncle] Jamsheds’s SUV. It reminded me of when I was little, and Mom chanted to me in Farsi every night before bedtime. It's hard to describe Farsi chanting: the way Mom drew her voice out like the notes of a cello as she recited poems by Rumi or Hafez. I didn't know what they meant, but that didn't matter: It was quiet and soothing.
+
+
+A. To name some of the narrator’s favorite poets who wrote in Farsi
+B. To connect a current experience to a memory from the narrator’s past
+C. To show that the narrator is annoyed by a situation
+D. To indicate that the narrator's mother wants to be a musician
+Answer: B
+
+Question 18:
+Which choice most logically completes the text?
+
+Many Indian snack foods, such as bhatoora and paneer pakora, acquire their flavor from being fried in oil; some are also coated in batter beforehand. Chemists Marc A. Meyers and Andrew Grazela studied the mass and heat transfer processes that occur when foods are fried in batters containing hydrocolloids, polymers that become viscous or gel-like in water. During frying, water in the food evaporates, leaving voids that oil (a pure fat) can fill. As the process continues, water from the food's center moves to the crust as long as the crust remains permeable. However, hydrocolloids can create structures in the crust that reduce the transfer of moisture out of the food's core during frying. Therefore, a food fried without a hydrocolloid batter coating will likely ______.
+
+
+A. have a more viscous crust when frying is completed than it would have if it were fried with a coating of hydrocolloid batter.
+B. have a higher fat content than it would have if it were fried with a coating of hydrocolloid batter.
+C. need to be cooked more quickly at a higher temperature than it would need to be cooked if it were fried with a coating of hydrocolloid batter.
+D. need to be cooked in a different oil than it would need to be cooked in if it were fried with a coating of hydrocolloid batter.
+Answer: B
+
+Question 19:
+Which choice most logically completes the text?
+
+Biochemists I. Sam Saguy and Eli J. Pinthus studied the mass and heat transfer processes that occur when foods, such as the Indian snacks makka poha and shankarpali, are fried in oil. During frying, water in the crust evaporates, leaving voids that oil can fill, thereby increasing the food’s fat content. As the process continues, water from the food’s center moves to the crust as long as the crust remains permeable. Therefore, the less moisture a food loses during frying, ____.
+
+
+A. the less the fat content is increased through frying.
+B. the higher the temperature must be to fry the food.
+C. the slower the crust will lose its permeability.
+D. the crispier the crust will be when frying is completed
+Answer: A

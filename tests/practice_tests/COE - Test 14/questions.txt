@@ -1,0 +1,116 @@
+Question 35:
+[COE]
+Which finding, if true, will support the conclusion?
+
+Describing adverbs "as damaging to a writer," novelist Graham Greene is one of several authors and literary critics who have recommended minimizing the use of adverbs, especially those ending in -ly (e.g., "obediently"), in works of fiction. To investigate the prevalence of -ly adverbs in novels, author and statistician Ben Blatt used natural language processing—machine learning technology that reads and interprets text—to calculate the rates at which these words occur in the novels of Ernest Hemingway, who was awarded the Nobel Prize in Literature in 1954. Blatt concluded that in Hemingway’s oeuvre, there is a negative correlation between -ly adverb proliferation and perceived literary merit.
+
+
+A. Whereas Hemingway’s acclaimed novel The Sun Also Rises has one of the lowest -ly adverb rates among Hemingway’s works, F. Scott Fitzgerald’s classic novel The Great Gatsby has the lowest -ly adverb rate among Fitzgerald’s novels.
+B. Whereas Hemingway used on average 80 -ly adverbs per 10,000 words in the 10 novels of Hemingway’s that Blatt investigated, Toni Morrison, winner of the 1993 Nobel Prize in Literature, used on average 76 -ly adverbs per 10,000 words in her novels.
+C. In his celebrated novel A Farewell to Arms, Hemingway used 67 -ly adverbs per 10,000 words, whereas 67% of celebrated authors’ novels that have fewer than 50 -ly adverbs per 10,000 words have been classified as great by critics.
+D. In The Sun Also Rises, which is widely recognized as a literary masterpiece, Hemingway used 63 -ly adverbs per 10,000 words, whereas in his less-acclaimed novel True at First Light, Hemingway used 102 -ly adverbs per 10,000 words.
+Answer: D
+
+Question 7:
+[COE]
+Which finding, if true, would most directly support Martinez and colleagues' hypothesis?
+
+The bird species Corapipo gutturalis (the white-throated manakin) practices a foraging strategy known as sallying (catching insects in flight and returning to a perch to eat them), enabling it to scan for prey and predators simultaneously. Cymbilaimus lineatus (the fasciated antshrike), on the other hand, practices foliage gleaning (picking insects off leaves), substantially limiting the bird’s field of vision while foraging. Biologist Ari Martinez and colleagues, who studied the ecological community these species share in French Guiana, hypothesized that avian foraging strategies that reduce individual vigilance are associated with greater reliance on other species to watch for predators.
+
+
+A. When Martinez and colleagues played alarm calls from another local bird species, C. gutturalis displayed predator-avoidance behavior, whereas C. lineatus did not display any behavioral change.
+B. Martinez and colleagues observed that C. lineatus regularly joined multispecies flocks, whereas C. gutturalis rarely or never did.
+C. Martinez and colleagues found that the predator alarm calls of C. gutturalis and C. lineatus have a high degree of acoustic similarity.
+D. Of several species practicing foliage gleaning that Martinez and colleagues observed, only C. lineatus routinely associated with other species.
+Answer: B
+
+Question 9:
+[COE]
+Which finding, if true, would most directly support the underlined claim?
+
+The Reckoning and Resilience (2022) exhibition at Duke University's Nasher Museum of Art in Durham, North Carolina, is dedicated to the work of thirty North Carolina artists, including Lien Truong, Kennedi Carter, and Meg Stein. __Although the Nasher Museum has focused exhibitions entirely on North Carolina artists before, as it did previously in the photography exhibition Across County Lines, the breadth of disciplines in Reckoning and Resilience sets it apart.__
+
+
+A. Reckoning and Resilience and Across County Lines were curated to emphasize works that are not owned by the Nasher Museum.
+B. Truong is a painter, Carter is a photographer, and Stein is a sculptor.
+C. The Nasher Museum has a world-class collection of contemporary art that includes many paintings and sculptures from artists both inside and outside North Carolina.
+D. Carter is a North Carolina photographer, as were all of the artists featured in Across County Lines.
+Answer: B
+
+Question 15:
+[COE]
+Which finding, if true, would most directly support the hypothesis presented in the text?
+
+Some food packaging contains silver nanoparticles (Ag-NPs), which can leach into waterways and soils via wastewater. In a 2015 study, Tina Ramskov and colleagues found that Ag-NPs can accumulate in the bodies of marine annelid worms (*Capitella teleta*). While bioaccumulation of manufactured nanoparticles may be inherently worrisome, it has been hypothesized that Ag-NP bioaccumulation in invertebrates like *C. teleta* could serve a valuable proxy role, obviating the need for manufacturers to conduct costly and intrusive sampling of vertebrate species—such as Atlantic salmon (*Salmo salar*), commonly used in regulatory compliance testing—for nanoparticle bioaccumulation, as environmental protection laws currently require.
+
+
+A. Ag-NP concentrations in C. teleta correlate strongly with Ag-NP levels in the environment, whereas Ag-NP concentrations in S. salar are fairly stable regardless of the environment.
+B. When C. teleta and S. salar are exposed to similar levels of Ag-NPs, individuals of the two species tend to accumulate similar amounts of Ag-NPs, adjusted for body size.
+C. Compared with S. salar, C. teleta can tolerate significantly higher Ag-NP concentrations without displaying any negative effects.
+D. It is easier to detect low and harmless concentrations of Ag-NPs in C. teleta than it is to detect high and harmful concentrations of Ag-NPs in S. salar.
+Answer: B
+
+Question 16:
+[COE]
+Which finding, if true, would most directly weaken the hypothesis presented in the text?
+
+Many pastes contain copper oxide nanoparticles (CuO-NPs), which can leach into waterways and soils via wastewater. In a 2012 study. Superb K. Misra and colleagues found that CuO-NPs can accumulate in the bodies of great pond snails (*Lymnaea stagnalis*). While bioaccumulation of manufactured nanoparticles may be inherently worrisome, it has been hypothesized that CuO-NP bioaccumulation in invertebrates like *L. stagnalis* could serve a valuable proxy role, obviating the need for manufacturers to conduct costly and intrusive sampling of vertebrate species–such as African clawed frogs (*Xenopus laevis*), commonly used in regulatory compliance testing–for nanoparticle bioaccumulation, as environmental protection laws currently require.
+
+
+A. L. stagnalis has been shown to accumulate several other types of manufactured nanoparticles in addition to CuO-NPs, whereas X. laevis has been shown to accumulate only CuO-NPs.
+B. When L. stagnalis and X. laevis are exposed to similar levels of CuO- NPs, concentrations of CuO-NPs in animals of both species show little variation from individual to individual.
+C. The rate of CuO-NP uptake in L. stagnalis differs from the rate of CuO- NP uptake in X. laevis in a way that is not yet well understood by researchers.
+D. Compared with X. laevis, L stagnalis can accumulate detectable Cu NP concentrations with significantly fewer negative effects.
+Answer: C
+
+Question 18:
+[COE]
+Which finding, if true, would most directly support the idea advanced by Gil de Zúñiga and Diehl?
+
+As media consumption has become increasingly multiplatform and socially mediated, active news acquisition has diminished in favor of an attitude known as “news finds me” (NFM), in which people passively rely on their social networks and ambient media environments for information about current events. Homero Gil de Zúñiga and Trevor Diehl examined data on a representative group of adults in the United States to determine participants’ strength of NFM attitude, political knowledge, and political interest. Although no major election took place sufficiently near the study for Gil de Zúñiga and Diehl to identify causality between NFM and voting behavior, they did posit that NFM may reduce voting probability through an indirect effect.
+
+
+A. NFM attitude tends to increase in strength as major elections approach, and people are significantly more likely to vote in major elections than in minor elections.
+B. NFM attitude has a strong negative effect on political knowledge and interest, and there is known to be a strong positive correlation between political knowledge and interest and the likelihood of voting.
+C. Political interest is known to have a strong positive effect on likelihood of voting but shows only a weak positive effect on political knowledge, and NFM attitude shows little correlation with either political knowledge or political interest.
+D. The likelihood of voting increases as political knowledge increases, and the relationship between NFM attitude and political knowledge tends to strengthen as the size of people’s social networks increases.
+Answer: B
+
+Question 2:
+[COE]
+Which finding, if true, would most strongly support the underlined explanation?
+
+Gorgets, or necklaces with large pendants, have been part of the ceremonial attire of tribes from the US Southeast for centuries. One of the oldest examples, the Fairfield Gorget, was found in Fairfield, Missouri, in 1958. Its overall design resembles that of other art from the region during the Mississippian period (900–1600 CE). Yet the image on the gorget is of a jaguar—a species whose range doesn’t extend to Missouri. Jaguar images are common in ancient Mexican art, and Mexico lies squarely in the species’ range. Therefore, some scholars argue that __long-distance trade in Mexican art objects brought the imagery to Missouri, where a local artist could have adopted it and incorporated it into the Fairfield Gorget.__
+
+
+A. The Fairfield Gorget is dated not to the Mississippian period but instead to the earlier Woodland period, which ended around 900 CE.
+B. The range of the jaguar is shown to have expanded dramatically after the Mississippian period came to a close around 1600 CE.
+C. An ancient Mexican art object is found at a site that dates to the Mississippian period and is close to where the Fairfield Gorget was found.
+D. Certain works by present-day artists from Southeastern tribes reflect outside cultural influences, including contemporary Mexican art.
+Answer: C
+
+Question 8:
+[COE]
+Which finding, if true, would most directly support Nuñez and colleagues' claim?
+
+The phrase usa-don sonda is a future-oriented expression used by members of the Yupno, an Indigenous group in Papua New Guinea, that translates to “next week.” Rafael Nuñez and colleagues recorded Yupno speakers explaining several of these temporal-related words and phrases and coded each speaker’s manual gestures. Previous research has found evidence of English speakers referring to the left/right axis to describe events in time, and many researchers believe that this tendency to make temporal distinctions along imagined linear axes is universal. However, Nuñez and colleagues claim that this tendency is not in fact ubiquitous.
+
+
+A. When outdoors and referring to the future, Yupno speakers facing uphill gesture in front of themselves, whereas those facing downhill gesture behind themselves.
+B. Some Yupno grammatical structures used when talking about time are also used in English.
+C. Yupno speakers typically use their left hand to make temporal gestures regardless of whether the gestures are past oriented or future oriented.
+D. Yupno speakers were observed making temporal gestures both indoors and outdoors, though with greater frequency when indoors.
+Answer: A
+
+Question 41:
+[COE]
+Which finding, if true, would most directly weaken the students' conclusion?
+
+Students in a biology class investigated why individual house mice (Mus musculus) can differ from one another. They found that knockout mice with the gene Asb5 deactivated tended to have lower concentrations of sodium in their blood than did wild-type mice, the students concluded that the varying concentrations of sodium among house mice in nature are solely attributable to variations in the level of expression of Asb5.
+
+
+A. Some wild-type mice were very similar to the knockout mice with regard to circulating sodium level but showed a wide variety of levels of expression of Asb5.
+B. A sampling of house mice captured in natural settings shows that individual mice can differ from one another in the level of expression of Asb5.
+C. The level of expression of Asb5 does not appear to affect the functioning of any other genes in house mice.
+D. The mice with Asb5 deactivated were identical to the wild-type mice except with regard to circulating sodium level.
+Answer: A

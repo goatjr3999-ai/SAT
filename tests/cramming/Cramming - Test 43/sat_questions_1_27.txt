@@ -1,0 +1,396 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The collectibles market is one of the most difficult segments of the consumer economy to ______. Few economists would have predicted, for example, that the prices of vintage G.I. Joe action figures would soar in the 2010s, but soar they did.
+
+
+A. avoid
+B. monitor
+C. forecast
+D. exchange
+Answer: C
+
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Historical Dictionary of Science Fiction is a crowdsourced project started in 2001 by lexicographer Jesse Sheidlower to record terms that originated in science fiction. Volunteers share digitized excerpts from personal collections of sci-fi magazines not typically preserved in libraries—____ that allow the earliest uses of phrases such as “warp speed” (1952) to be identified and added to the dictionary.
+
+
+A. justifications
+B. contributions
+C. resolutions
+D. negotiations
+Answer: B
+
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Corn’s diffusion toward the Oneida people was geographically and temporally ______: as with other varieties developed by eastern North American tribes, the ancestry of Oneida white corn extends to southwestern populations, including one grown in Arizona circa 275 BCE, to older populations in northern Mexico, and finally to southern Mexico, where corn was domesticated circa 7000 BCE.
+
+
+A. opaque
+B. incremental
+C. volatile
+D. idiosyncratic
+Answer: B
+
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Paleontologists think that Ornithomimus, Phuwiangosaurus, and other long-extinct theropods and sauropods may have breathed using air sacs connected to tubelike extensions inside the animals’ bones. Such structures are found in modern birds, which is why some paleontologists treat the respiratory systems of birds as ______ those of Ornithomimus, Phuwiangosaurus, and other theropods and sauropods.
+
+
+A. subordinates of
+B. emissaries for
+C. harbingers of
+D. proxies for
+Answer: D
+
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+Most Native languages belong to language families, or groups of languages whose structural and lexical correspondence likely derives from their descent from a single language spoken long ago. A minority—such as Washoe, which is spoken in California and Nevada, and Chitimacha, which is spoken in Louisiana—are isolates, having no demonstrable genealogical relationship to other languages. __Yet Washoe and Chitimacha, like all isolates, are potentially remnants of families whose other members vanished before the historical record could attest to them, perhaps through the geographical expansion of extant families.__
+
+
+A. It implies that a nonisolate language may have influenced both Washoe and Chitimacha to such a degree that their relationship to their former families is no longer discernible.
+B. It suggests that the ancestral languages of both Washoe and Chitimacha were likely isolates that replaced nonisolate languages through geographic expansion in the distant past.
+C. It asserts that the historical record tends to overrepresent nonisolate languages relative to isolates, such that the origins of Washoe and Chitimacha are obscure to scholars in the present day.
+D. It proposes that the distinction made between present-day nonisolate languages and isolates like Washoe and Chitimacha may not have been applicable in the distant past.
+Answer: D
+
+
+Question 6:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Can marsh thistle plants grow on Mars? Can pea plants? __You might think the answer to these questions is obviously no,__ but researchers in the Netherlands recently showed that many common plant species can thrive in soil designed to simulate Martian conditions, as long as water is supplied. In fact, some species actually did better in Martian soil than in Earth soil: 54 percent of marsh thistle plants grown in simulated Martian soil were alive after 50 days, compared with 46 percent that were when planted in soil from their home planet.
+
+
+A. It signals the surprising nature of the findings discussed in the text.
+B. It clarifies a potential point of confusion about the hypothesis tested in the study discussed in the text.
+C. It acknowledges that readers may object to the method used in the experiment discussed in the text.
+D. It draws a distinction between the two species discussed in the text.
+Answer: A
+
+
+Question 7:
+[COE]
+Based on the text, why does Miguel accompany his brother to the sisters’ house one day?
+
+The following text is from Julia Alvarez’s 2000 novel In the Name of Salomé. The narrator and her sister, daughters of a famous poet, are being tutored by Alejandro Román.
+Our tutor, Alejandro Román, brought his younger brother, Miguel, to class one day. By now I was eighteen and had learned everything Alejandro had to teach me, so I was glad for a new face. Miguel was an aspiring poet, and he had heard from his brother that the Ureña girls were none other than the daughters of Nicolás Ureña, and they were smart as clockwork. Miguel was hoping not only to meet us but to make the acquaintance of the poet himself at Mamá’s house.
+©2000 by Julia Alvarez
+
+
+A. Miguel wishes to share his poems with the sisters and ask them for feedback on his writing.
+B. Miguel has not received formal instruction in poetry and wants to ask the sisters’ famous father to be his mentor.
+C. Miguel’s brother has shared with him all the knowledge he has, and Miguel wants to learn from the sisters now.
+D. Miguel anticipates having the opportunity to be introduced to both the sisters and their father.
+Answer: D
+
+
+Question 8:
+[Infer]
+Based on the text, what would be the most reasonable next step for the students to take to accomplish their goal?
+
+In 2002, the US state of Minnesota enacted rate stability regulations (RSRs), constraining insurance companies’ latitude to raise premiums (the recurring fees policyholders pay to maintain insurance policies) once policies are in effect. Although RSRs are intended to benefit consumers, Naoki Aizawa and Ami Ko note that RSRs could curtail insurers’ profits to such a degree that insurers abandon the market, thereby reducing the competitive pressure that typically restrains premium prices for newly issued policies. To determine whether this occurred in Minnesota, students first collect data on the number of insurers in the state for a few years leading up to and following 2002 and the premium prices for new policies offered by those insurers.
+
+
+A. Compare changes over time in the insurer-number data the students have collected with changes over time in insurer-number data from another state that enacted RSRs but not during the same period
+B. Compare changes over time within each of the two types of data the students have collected with changes over time in analogous data for the same period from an otherwise similar state that had not enacted RSRs
+C. Compare changes over time within each of the two types of data the students have collected with changes over time in the same types of data from Minnesota for a period beginning several years after 2002
+D. Compare changes over time in the premium price data the students have collected with changes over time in premium prices for policies that were already in effect during the same period in an otherwise similar state that had not enacted RSRs
+Answer: B
+
+
+Question 9:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+Average Ratings of Perceived Personality Traits of Dogs and Human Willingness to Keep or Interact with Them
+
+Studies have found that when looking at other people’s eyes, humans tend to perceive dilated pupils positively and constricted pupils negatively. Noting that a dark iris—the colored portion surrounding the pupil—is hard to distinguish from the black of the pupil (and thereby affects the pupil’s apparent size) and that many domestic dogs have dark irises, Akitsugu Konno et al. showed close-up images of dogs’ faces to human participants and asked them to rate the dogs’ traits and their own attitudes toward the dogs. Their findings suggest that _____
+
+
+A. iris color in domestic dogs may be an adaptation to elicit positive responses from humans, as participants responded more negatively to images of dogs whose iris colors can make pupils appear large than they did to images of dogs without such iris colors.
+B. humans may not be as sensitive to pupil size in dogs as they are to pupil size in other people, as participants’ responses to the images show no relationship to differences in the shade of dogs’ irises that could affect how large the dogs’ pupils appear to be.
+C. humans’ responses to pupil size in other people may extend to dogs, as participants responded more positively to images of dogs whose iris colors were likely to make their pupils appear large than they did to images of dogs whose iris colors were unlikely to have that effect.
+D. differences in dogs’ pupil size may elicit a stronger response in humans than differences in people’s pupil size do, as participants’ responses to the images when dogs’ pupils were actually large were indistinguishable from participants’ responses when dogs’ pupils only appeared to be large due to iris color.
+Answer: C
+
+
+Question 10:
+[COE]
+Which quotation from an interview with a costume designer would most effectively support the student’s claim?
+
+The 1958 production of Maybe Tuesday was the first Broadway show for which Ann Roth was credited as a costume designer. Roth was among the Broadway costume designers interviewed by Sara Jablon-Roberts and Eulanda A. Sanders for their study of historical accuracy in costume design for shows with a historical setting. They found that even designers who value historical accuracy will often include contemporary design elements that don’t fit with the historical period. In a research paper about theatrical costume design, a student argues that costume designers for modern productions of plays such as the musical Our Town (set in the early 1900s) sometimes include such elements unintentionally.
+
+
+A. “Total historical accuracy in costume design isn’t achievable because our habits and tastes as designers will always be influenced by modern styles.”
+B. “A truly historically accurate costume will sometimes make the character look comically strange to a modern audience.”
+C. “I tend to pay careful attention to the accessories, like gloves, hats, and jewelry, in my work.”
+D. “Costumes must always reflect the appropriate historical period.”
+Answer: A
+
+
+Question 11:
+[COE]
+A marine biologist is researching four selferactinian coral species, which are also called stony corals because of the hard skeletons they develop. Consulting the table, she notes that the two species for which the maximum depths are most similar are ______.
+
+Minimum and Maximum Depths of Stony Coral Species in Caribbean and Indo-Pacific Waters
+
+
+
+A. Acropora echinata and Peciliopora meandrina.
+B. Pociliopora meandrina and Agaricia grahamae.
+C. Acropora anthocercis and Agaricia grahamae.
+D. Acropora anthocercis and Acropora echinata.
+Answer: A
+
+
+Question 12:
+[COE]
+Which choice best describes data from the graph that support Ehmann and colleagues’ hypothesis?
+
+Average Overlap between Immature Orangutans’ Diets (ID) and Their
+
+Male orangutans typically disperse from the territory in which they were born when they reach maturity, whereas females typically do not. Beatrice Ehmann and her colleagues hypothesized that this difference in life trajectory should be reflected in the diets of immature orangutans: males should share fewer of their mothers' dietary preferences than females do since those preferences tend to be particular to the food resources available in the local area and may be of relatively low utility beyond it. The researchers calculated the percent of mother orangutans' diets shared with their offspring's diets and the percent of immature orangutans' diets not shared with their mothers' diets.
+
+
+A. The percent of the mother’s diet shared with its offspring’s diet was smaller for individual 17 than for individual 8, and the percent of the individual’s diet not shared with its mother’s diet was greater for individual 17 than for individual 8.
+B. The majority of the diet of the mother of individual 8 was shared with the diet of individual 8, whereas significantly less than half the diet of the mother of individual 17 was shared with the diet of individual 17.
+C. The percent of individual 8’s mother’s diet that was shared with individual 8’s diet ranged from approximately 59% to approximately 76%, whereas the percent of individual 17’s mother’s diet that was shared with individual 17’s diet ranged from approximately 15% to approximately 19%.
+D. Neither individual 17 nor individual 8 had a diet that consisted mostly of food not shared with the individual’s mother’s diet, whereas more of both individuals’ mothers’ diets were shared with their offspring.
+Answer: A
+
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+In classical Greek and Roman mythology, female characters are typically cast as either villains lacking in psychological depth or passive victims who are marginal to these stories, which usually focus on the exploits of male characters. Recently, a subgenre has emerged in which writers reimagine these stories from the perspectives of their female characters, giving them agency and complex motivations. Purists argue that such efforts represent a distinctively modern tendency to impose our own values on past civilizations, obscuring those civilizations’ beliefs. Defenders of the subgenre counter that reimaginings of the myths for new cultural contexts are almost as old as the myths themselves, suggesting that ______.
+
+
+A. the complex motivations given to female characters in modern retellings of Greek and Roman myths reflect a recent shift toward psychological depth in fictional representation.
+B. purists are overlooking a long tradition of adapting Greek and Roman myths to focus on female characters.
+C. bringing female perspectives to the forefront is not indicative of a novel attitude regarding fidelity to Greek and Roman myths’ ideologies.
+D. modern writers’ foregrounding of female characters is chiefly motivated by a desire to counterbalance the primacy of male perspectives among earlier adaptations of Greek and Roman myths.
+Answer: C
+
+
+Question 14:
+[COE]
+Which choice most effectively uses a quotation from a translation of The Clouds to illustrate the claim?
+
+The Clouds is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught paying customers a variety of subjects and sometimes engaged in what would now be described as research. Aristophanes satirizes sophists’ practices and views as foolish, as seen when the character ______
+
+
+A. Socrates, a sophist, says of a new customer, “I have not seen any man so boorish, nor so impracticable, nor so stupid, nor so forgetful; who, while learning some little petty quibbles, forgets them before he has learned them.”
+B. Strepslades encourages his son to learn to be a sophist, saying, “Reform your habits as quickly as possible, and go and learn what I advise.”
+C. Strepslades, after taking lessons from a sophist, says to his son, “Approach, that you may know more; and I will tell you a thing, by learning which you will be a man. But see that you do not teach this to any one.”
+D. Socrates, a sophist, explains why he studies astronomy while sitting in a basket hanging a few feet off the ground, saying, “I should not have rightly discovered things celestial if I had not suspended the intellect, and mixed the thought in a subtle form with its kindred air.”
+Answer: D
+
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+All stainless steel contains varying amounts of iron, carbon, and corrosion-inhibiting chromium. However, ferritic stainless steel, often used for induction cookers, contains a higher percentage of chromium (at least 10.5%) than does austenitic stainless steel and a higher concentration of iron, which is responsible for its magnetic properties. Unlike ferritic stainless steel, austenitic stainless steel has a face-centered cubic crystalline structure resulting from the addition of nickel to the alloy. Austenitic stainless steel has two subtypes: the 200 series, often used for dishwashers, and the 300 series, which has more nickel than the 200 series and is often used for storage containers or sinks. Thus, stainless steel used to manufacture ______.
+
+
+A. sinks will have similar magnetic properties to stainless steel used to manufacture induction cookers.
+B. storage containers will have a concentration of chromium lower than 10.5%, while stainless steel used to manufacture dishwashers will not.
+C. induction cookers will have a face-centered cubic crystalline structure.
+D. dishwashers will have a lower percentage of chromium in its composition than stainless steel used for induction cookers will.
+Answer: D
+
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A senior data scientist at Apple, Kate Niehaus works on developing artificial intelligence technology, with a specific focus on trustworthy machine ______ machine learning involves teaching computer algorithms to be accurate, safe, and fair.
+
+
+A. learning, trustworthy
+B. learning, which trustworthy
+C. learning. Trustworthy
+D. learning trustworthy
+Answer: C
+
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Austronesian language family comprises some 1,200 languages—including the ____ Gilbertese and Tongan, which are spoken by 120,000 and 108,000 speakers, respectively—and accounts for one-fifth of the world’s languages, making it of keen interest to linguists like Marian Klamer.
+
+
+A. languages,
+B. languages:
+C. languages
+D. languages—
+Answer: C
+
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Alberto Gabriele, author of *Reading Popular Culture in Victorian Print*, tracks the transnational dissemination of works by author Mary Elizabeth Braddon via the magazine ______ from 1866 to 1899 and distributed throughout the Australian cities of Melbourne, Adelaide, and Hobart; the continental European cities of Brussels, Paris, and Turin; and cities in Turkey, India, and Jamaica, this magazine helped make Braddon’s serialized novels globally available.
+
+
+A. Belgravia, published
+B. Belgravia; published
+C. Belgravia. Published
+D. Belgravia published
+Answer: C
+
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A single specimen of G. hexagonus, collected at a depth of 483 fathoms (884 meters) in the Pacific Ocean, and a single specimen of G. rubescens, collected at a depth of 769 fathoms (1,407 meters) in the Indian Ocean, have been preserved as exemplars of their respective ______ former in a repository at Washington, DC’s Museum of Natural History and the latter in a repository at the Netherlands’ Naturalis Biodiversity Center.
+
+
+A. species; the
+B. species. The
+C. species, and the
+D. species, the
+Answer: D
+
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Eiger, the Mönch, the Jungfrau—Alpine summits like these were little more than wastelands to many Europeans until the eighteenth century, when attitudes toward such intimidating landscapes shifted as part of a broader aesthetic ______ by Irish philosopher Edmund Burke, this shift framed mountains as sublime objects capable of producing delightful terror.
+
+
+A. revolution, initiated
+B. revolution that, initiated
+C. revolution initiated
+D. revolution. Initiated
+Answer: D
+
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+While some researchers have identified the planet Teegarden’s Star c as potentially habitable, it’s unlikely that humanity will be able to take advantage of its favorable conditions anytime soon—it’s 12.58 light years away. ______ at 1,196 light years away, the planet Kepler-1410b is also inaccessible.
+
+
+A. For example,
+B. Likewise,
+C. Instead,
+D. As a result,
+Answer: B
+
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In a given rock formation, Chattian rock from 27.8 million years ago might directly abut Roadian rock from 273 million years ago, with millions of years of material missing in between. ______ time did not stand still during these intervening years; the unaccounted-for sedimentary material was likely removed from the stratigraphic record via erosion and weathering.
+
+
+A. As a result,
+B. On the contrary,
+C. Of course,
+D. In particular,
+Answer: C
+
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In an ekphrastic poem, a poet explores a work of visual art, such as a drawing, sculpture, or painting. Robert Hayden’s 1994 poem Monet’s Waterlilies, for example, meditates on Claude Monet’s 1899 painting Water Lilies; Sasha Pimentel’s 2017 poem The Kiss, ____ takes a painting as its subject: Gustav Klimt’s 1908 work The Kiss.
+
+
+A. nevertheless,
+B. likewise,
+C. hence,
+D. conversely.
+Answer: B
+
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As an anti-federalist, Pennsylvania politician and writer Samuel Bryan objected to the US Constitution’s provisions for a powerful centralized government and opposed the document’s ratification; ____ essays he published in the Philadelphia Independent Gazetteer in October 1787 under the pseudonym “Centinel” disparaged the arguments of the federalists, who supported the Constitution’s adoption.
+
+
+A. by comparison,
+B. fittingly,
+C. nevertheless,
+D. in other words,
+Answer: B
+
+
+Question 25:
+[Synthesis]
+The student wants to describe Diaz’s sculpture. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Happiness Is Expensive is a 2012 sculpture by American artist Alejandro Diaz.
+•It is crafted from white neon lighting that spells out the title phrase (“happiness is expensive”).
+•Pyramid (Yellow) is a 2011 sculpture by Mexican-Swiss artist Ana Roldán.
+•It is crafted from yellow neon lighting that forms an abstract triangle shape.
+
+
+A. Alejandro Diaz created his sculpture in 2012, and Ana Roldán’s was made in 2011.
+B. Alejandro Diaz’s sculpture Happiness Is Expensive is crafted from white neon lighting that spells out the title phrase (“happiness is expensive”).
+C. Alejandro Diaz and Ana Roldán are artists who have used neon in their sculptures.
+D. Pyramid (Yellow) is a neon sculpture by Ana Roldán, and it contains an abstract triangle shape in yellow neon lighting.
+Answer: B
+
+
+Question 26:
+[COE]
+Which choice most effectively uses information from the given sentences to specify Bashiri Johnson’s contribution to India Arie’s music?
+
+•India Arie is an African American singer and songwriter.
+ •The media outlet All Music has described her music as having “glistening acoustic guitar, churchy organ, and smooth, supple beats.”
+ •Her first studio album, *Acoustic Soul*, was released in 2001.
+ •It features the song “Beautiful.”
+ •Bashiri Johnson played percussion on the album.
+
+
+A. Bashiri Johnson played percussion on India Arie’s 2001 album Acoustic Soul.
+B. India Arie is an African American singer and songwriter whose music has been described as having “glistening acoustic guitar, churchy organ, and smooth, supple beats.”
+C. Featuring the song “Beautiful,” Acoustic Soul is India Arie’s first studio album.
+D. Acoustic Soul, India Arie’s first studio album, features Bashiri Johnson.
+Answer: A
+
+
+Question 27:
+[Synthesis]
+The student wants to emphasize a similarity between the two positions. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Body positions are a fundamental aspect of dance.
+•In Cecchetti method ballet, there is a position for the dancer’s arms called fourth position en avant.
+•In the position, one arm is out to the side, and the other is rounded to roughly align the fingers with the navel.
+•In Vaganova method ballet, there is a position for the dancer’s arms called big pose.
+•In this position, one arm is out to the side, and the other is rounded and raised above the head.
+
+
+A. Fourth position en avant in Cecchetti method ballet and big pose in Vaganova method ballet are both positions for the dancer’s arms.
+B. Both fourth position en avant and big pose are positions in Vaganova method ballet.
+C. In fourth position en avant, one arm is out to the side, and the other is rounded to roughly align the fingers with the navel, in contrast to big pose, where one arm is out to the side, and the other is rounded and raised above the head.
+D. In Cecchetti method ballet, there are a number of positions, including fourth position en avant.
+Answer: A

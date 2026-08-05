@@ -1,0 +1,87 @@
+Question 1:
+For the polynomial function {{MATH_1}}, the graph of {{MATH_2}} in the xy-plane passes through the points {{MATH_3}}{{MATH_4}}, and {{MATH_5}}. Which of the following must be a factor of {{MATH_6}}?
+
+A. {{MATH_7}}
+B. {{MATH_8}}
+C. {{MATH_9}}
+D. {{MATH_10}}
+Answer: C
+
+Question 2:
+If {{MATH_11}}, what is the value of {{MATH_12}}?
+
+A. {{MATH_13}}
+B. {{MATH_14}}
+C. {{MATH_15}}
+D. {{MATH_16}}
+Answer: D
+
+Question 3:
+For what value of a is {{MATH_17}} equivalent to {{MATH_18}} , where {{MATH_19}}?
+
+Answer: 49
+
+Question 4:
+{{MATH_21}}
+The function {{MATH_22}} is defined by the given equation. Which of the following equivalent forms of {{MATH_23}}displays, as a coefficient or a base, the y-coordinate of the y-intercept of the graph of {{MATH_24}} in the xy-plane?
+
+A. {{MATH_25}}
+B. {{MATH_26}}
+C. {{MATH_27}}
+D. {{MATH_28}}
+Answer: D
+
+Question 5:
+In a set of three consecutive integers, where the integers are ordered from least to greatest, the first integer is represented by x. The sum of {{MATH_29}} and the second integer is less than the product of {{MATH_30}} and the third integer. Which inequality represents this situation?
+
+A. {{MATH_31}}
+B. {{MATH_32}}
+C. {{MATH_33}}
+D. {{MATH_34}}
+Answer: B
+
+Question 6:
+The function g is defined by {{MATH_35}}. What is the value of {{MATH_36}}?
+
+A. {{MATH_37}}
+B. {{MATH_38}}
+C. {{MATH_39}}
+D. {{MATH_40}}
+Answer: B
+
+Question 7:
+Micah deposited a total of ${{MATH_41}} into two retirement accounts last year by depositing x dollars once each month into one account and y dollars twice each month into the other account. Which equation represents this situation?
+
+A. {{MATH_42}}
+B. {{MATH_43}}
+C. {{MATH_44}}
+D. {{MATH_45}}
+Answer: B
+
+Question 8:
+The ratio {{MATH_46}} to {{MATH_47}} is equivalent to the ratio {{MATH_48}} to {{MATH_49}}, where k is a constant. What is the value of k?
+
+A. {{MATH_50}}
+B. {{MATH_51}}
+C. {{MATH_52}}
+D. {{MATH_53}}
+Answer: B
+
+Question 9:
+Which expression is equivalent to {{MATH_54}} ?
+
+A. {{MATH_55}}
+B. {{MATH_56}}
+C. {{MATH_57}}
+D. {{MATH_58}}
+Answer: D
+
+Question 10:
+{{MATH_59}}
+The given equation relates the resistance R, in ohms, of a wire to its length {{MATH_60}} , in meters, and its cross-sectional area A, in square meters. Which equation correctly expresses the length, in meters, of the wire in terms of its resistance, in ohms, and its cross-sectional area, in square meters?
+
+A. {{MATH_61}}
+B. {{MATH_62}}
+C. {{MATH_63}}
+D. {{MATH_64}}
+Answer: D

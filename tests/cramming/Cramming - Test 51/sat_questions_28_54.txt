@@ -1,0 +1,384 @@
+Question 1:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Research on Chaenocephalus aceratus and other icefishes of the Teleostei class has shown that their hearts are pale due to low levels of myoglobin expression, which was once thought to be related to their polar habitats. Recently, researchers have found that some tropical teleost species (such as Amblyeleotris wheeleri) also have pale hearts, raising the possibility that myoglobin deficiency in teleosts could be ______ habitat.
+
+
+A. irrespective of
+B. predictive of
+C. obscured by
+D. mediated by
+Answer: A
+
+
+Question 2:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Because it enabled more immediate transcription of a piece of music than conventional Western notation—fast enough to allow the ______ recording in print of improvisational performances—musical stenography was promoted by many nineteenth- and twentieth-century scholars (such as John Austin and Charles C. Guilford, each with their own proposed method).
+
+
+A. archaic
+B. purported
+C. prescient
+D. synchronous
+Answer: D
+
+
+Question 3:
+Which choice completes the text with the most logical and precise word or phrase?
+
+A superficial reading of Hannah Arendt's 1963 treatise *Eichmann in Jerusalem* can make its central thesis seem ________; her now-famous phrase, "the banality of evil," may strike the modern reader as a simple, almost self-evident observation—but in fact, the work is a philosophically dense and morally challenging examination of conscience, bureaucratic complicity, and the nature of totalitarianism that fundamentally altered post-war thought.
+
+
+A. anomalous
+B. perspicacious
+C. ostentatious
+D. unassuming
+Answer: D
+
+
+Question 4:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The 2022 anthology *The Big Book of Cyberpunk* contains 108 stories, including Fritz Leiber’s “Coming Attraction” (1950) and Erica Satifka’s “Act of Providence” (2021). With its chronological range, it is more comprehensive than the much shorter 1986 *Mirrorshades* anthology. *Mirrorshades*, by contrast, reflects a selection of stories makes that anthology more ______.
+
+
+A. capacious
+B. outmoded
+C. cursory
+D. discerning
+Answer: D
+
+
+Question 5:
+Which finding about the Across County Lines exhibition, if true, would most directly support the underlined claim?
+
+The Reckoning and Resilience (2022) exhibition at Duke University’s Nasher Museum of Art was the first to focus entirely on North Carolina artists since the exhibition Across County Lines four years earlier. The curators of the 2022 exhibition included painters like Beverly McIver, photographers like Kenneth Carter, and printmakers like Ayla Gizlice. __But whereas the work by Carter would have fit the theme for Across County Lines, works by McIver and Gizlice would not have.__
+
+
+A. It consisted mostly of works by printmakers.
+B. It consisted entirely of works by photographers.
+C. It was curated specifically to emphasize works that are not owned by the Nasher Museum.
+D. It included a greater number of artists than Reckoning and Resilience.
+Answer: B
+
+
+Question 6:
+Which quotation from a translation of The Underdogs most effectively illustrates the claim?
+
+The Underdogs is a 1915 novel by Mariano Azuela, originally written in Spanish. In the novel, Azuela makes a comparison using natural imagery to convey the mental state of the protagonist, Demetrio: ______
+
+
+A. “Yet he was previous; an hour or more elapsed with no sound or stir save the song of the locust in the brush or the frog stirring in his mudhole.”
+B. “Demetrio laid a hand on his hair which covered his ears, and stretching himself out for a long time, seemed to be lost in thought."
+C. “At this hour, as usual, the calculated rocks, the sun-burnt branches, and the dry weeds faded into the semi-obscurity of the shadows.”
+D. “Demetrio suppressed a sigh. Memories crowded and buzzed through his brain like bees about a hive.”
+Answer: D
+
+
+Question 7:
+Which choice best states the function of the underlined sentence in the text as a whole?
+
+Like “Eyes of Zapata” by Sandra Cisneros, Rudolfo Anaya’s Heart of Aztlan often includes words and phrases from the Mexican dialect of Spanish. __Since neither work translates the Spanish text into English, readers unfamiliar with Spanish must infer the meaning from the surrounding English text__. In comparison, Arturo Islas’s The Rain God includes fewer Spanish words and phrases and nearly always provides a direct translation into English. Thus, unlike either Cisneros or Anaya, Islas presumes that context may not always be sufficient for some readers to determine the meaning of the Spanish words and phrases.
+
+
+A. It illustrates the previous sentence’s claim about similarities between the plot of “Eyes of Zapata” and the plot of Heart of Aztlan.
+B. It provides details that support the text’s description of how Arturo Islas uses English vocabulary in his Spanish-language novels.
+C. It expands on the previous sentence’s point about the inclusion of Spanish vocabulary in “Eyes of Zapata” and Heart of Aztlan.
+D. It offers a specific example of how Arturo Islas altered the plot of The Rain God when translating the novel from Spanish directly into English.
+Answer: C
+
+
+Question 8:
+Which choice best states the main idea of the text?
+
+At local and national levels, there is increasing interest in implementing urban green spaces to mitigate heat and pollutants. Examinations of this strategy suggest its efficacy is nuanced, however; for example, an analysis of 19 street designs that incorporate vegetation identified that it's not always the case that green spaces improve air quality. Further, green space research tends to focus on large-scale effects in cities; decision-makers may be unaware that those outcomes are not always generalizable across spatial scales.
+
+
+A. Without sufficient investigation and careful planning, the use of urban green spaces for air pollution mitigation purposes may be less effective than expected in certain areas.
+B. There is evidence suggesting that urban green spaces are associated with measurable reductions in concentrations of major air pollutants such as coarse particulate matter.
+C. Given the lack of replicable empirical support for urban green spaces as a means of mitigating air pollution, interest in the implementation of such spaces is misguided.
+D. Although the capacity of urban green spaces to reduce concentrations of certain pollutants in the atmosphere has been demonstrated at different across spatial scales, such spaces should be more widely implemented.
+Answer: A
+
+
+Question 9:
+Based on the texts, which choice best describes a similarity in the points of view presented in Text 1 and Text 2?
+
+Text 1
+In separate studies, Marine Fernandez and colleagues and Xinxua He and colleagues showed that plants can benefit from their connection to a common mycorrhizal network (CMN)—a lattice of fungal strands in the soil. Fernandez and colleagues found that when connected to a CMN, alder and birch plants’ root systems separate while allowing mycorrhizal strands through—a crucial step He and colleague’ study did not take.
+Text 2
+ He and colleagues took the necessary precaution of separating the plants' root systems (thereby excluding root-to-root transmission). However, any barrier used must be one that fully allows for a CMN to connect the plants. Impermeable bags also allow liquids through. Thus, the researchers’ experimental design cannot ensure that the nutrient transfer observed can be attributed to a CMN and not to some other pathway.
+
+
+A. Each text attempts to dispel a common misunderstanding about the likelihood of plant-to-plant nutrient transfer.
+B. Each text assumes that most nutrient transfer between plants is via a CMN.
+C. Each text analyzes methods for studying CMN nutrient transfer in order to propose an alternative method of study.
+D. Each text critiques the methodology of a study about nutrient transfer via a CMN.
+Answer: D
+
+
+Question 10:
+Based on the texts, how would the author of Text 2 most likely respond to the overall characterization in Text 1 of the publicity campaign?
+
+Text 1
+Cecilia De Noel, Garden of Kama, and twenty-three other works of the late 1800s and early 1900s were rereleased in 2020 as publicity for a prestigious prize for women writers of fiction. Recognizing that women long had to use male pseudonyms for their works to be granted serious consideration (by publishers and readers alike), the campaign restored the authors’ given female names in place of such pseudonyms and brought visibility to identities that should not have been hidden.
+Text 2
+The belief that women historically were barred from publishing under names perceived as female is persistent. That it is also an overgeneralization becomes obvious when considering writers such as Elizabeth Barrett Browning, who published Poems and many other works under her own name in the 1800s, and Mary Mackay, who elected to use the female pseudonym Marie Corelli for her novels and stories in the late 1800s.
+
+
+A. By suggesting that Barrett Browning and Mackay are among the historical examples that challenge the assumption about the historical use of pseudonyms by female writers that is presented in Text 1
+B. By agreeing that the authors of Cecilia De Noel, Garden of Kama, and the other works referred to in Text 1 were not afforded the same opportunities as Barrett Browning and Mackay to shape their own representations when publishing
+C. By asserting that while it is clearly inappropriate to conclude that Barrett Browning was motivated by the same set of factors as the authors of the works discussed in Text 1 to publish under the names they did, it is appropriate to conclude that Mackay was
+D. By acknowledging that the circumstances of publication for Barrett Browning and Mackay differed from those for the authors whose works are the focus of Text 1, given that Barrett Browning and Mackay each published multiple works
+Answer: A
+
+
+Question 11:
+Which choice best describes the overall structure of the text?
+
+The following text is Emily Dickinson's circa 1859 poem "Setting Sail."
+Exultation is the going
+Of an inland soul to sea, -
+Past the houses, past the headlands,
+Into deep eternity!
+Bred as we, among the mountains,
+Can the sailor understand
+The divine intoxication
+Of the first league out from land?
+
+
+A. The speaker recounts feeling profoundly moved by a recent undertaking, then questions the widespread perception that such undertakings are unremarkable.
+B. The speaker characterizes the experience of a particular emotion by way of a comparison, then extends that comparison to accentuate the intensity of that emotion.
+C. The speaker depicts a common attitude at the outset of a journey, then contrasts that attitude with the speaker's state of mind after embarking on an actual journey.
+D. The speaker acknowledges the allure of novel experiences, then hints at the danger of failing to appreciate what is familiar.
+Answer: B
+
+
+Question 12:
+Which finding, if true, would most directly support Martinez and colleagues' hypothesis?
+
+The bird species *Piculus flavigula* (the yellow-throated woodpecker), which forages in relatively dense vegetation, and *Willisornis poecilinotus* (the common scale-backed antbird), which forages in open areas or low density vegetation, share territory in French Guiana with *Thamnomanes caesius* (the cinereous antshrike), which emits a loud alarm call when it detects predators. Biologist Ari Martínez and colleagues, who studied the ecological community the species share, hypothesized that there is an inverse relationship between birds’ field of vision while foraging and their sensitivity to alarm calls from neighboring species.
+
+
+A. W. poecilinotus displayed no reaction when Martinez and colleagues played T. caesius alarm calls, whereas P. flavigula displayed predator-avoidance behavior in response to the calls.
+B. Many local bird species with similar foraging habits to those of P. flavigula displayed no reaction when Martinez and colleagues played T. caesius alarm calls, whereas P. flavigula displayed predator-avoidance behavior.
+C. Some individuals of W. poecilinotus displayed predator-avoidance behavior when Martinez and colleagues played T. caesius alarm calls, whereas nearly all did when P. flavigula alarm calls were played.
+D. When Martinez and colleagues played T. caesius alarm calls, P. flavigula and W. poecilinotus displayed no reaction, whereas T. caesius displayed predator-avoidance behavior.
+Answer: A
+
+
+Question 13:
+Which choice best describes the overall structure of the text?
+
+Establishing protected areas (PAs), such as the Mamanuca Islands in Fiji, is a common conservation strategy, but because PAs restrict some kinds of economic activity, it is widely assumed that they hinder local economic development. This perception is driven in part by the fact that economic assessments often don't capture the indirect effects of the establishment of a PA. But research found that this kind of land-use planning in the Mamanuca Islands boosts local demand for services and other economic sectors, resulting in, for instance, increased income from retail in nearby areas.
+
+
+A. It explains how PAs typically affect economic development in the regions where they are established, summarizes the findings of several economic studies that support this explanation, and then concedes that a particular PA is an exception to the general trend
+B. It states a hypothesis that accounts for why PAs generally negatively impact local economies, outlines how a research team’s findings support that hypothesis, and then suggests that a novel methodology led a separate team of researchers to a different conclusion.
+C. It introduces a widely held belief about the effect PAs have on the economy, proposes a reason for that belief’s prevalence, and then details a study whose findings seemingly conflict with that belief.
+D. It makes a generalization about the difficulty of using PAs to reconcile economic and conservation priorities, demonstrates why most PAs fall short of achieving that goal, and then holds up a particular PA as an example of how that goal can be achieved.
+Answer: C
+
+
+Question 14:
+Which choice most logically completes the text?
+
+In the publication _*A Self-Instructing Method of Short Hand Musical Notation*_, Clyde Edgar Sinn and Clarence E. Sinn explored a method of musical stenography, as did other scholars in the nineteenth and twentieth centuries. Such systems of musical notation consisted of dots and squiggles that, though esoteric, theoretically allowed for a more rapid and precise written documentation of performances—including of improvisations introduced by performers—than was possible with conventional Western musical notation. However, the phonograph (which uses a stylus or needle to engrave an encoding of a sound wave on a cylinder or disc) eventually became a more widespread mode of recording than stenography ever was, most likely because ______.
+
+
+A. although stenography greatly reduced the likelihood of error in the documentation of improvisational performances, the challenge of learning a specialized form of notation prevented stenography from becoming as popular as conventional Western notation.
+B. though phonography was a more expensive undertaking than musical stenography due to the technology involved, phonography’s ability to encode more music than stenography in the same amount of time compensated for the added expense.
+C. musical stenography never attained the level of accuracy that allowed conventional Western notation to capture the nuances of improvisational performances, even though it was indeed faster to write than conventional Western notation was.
+D. the phonograph’s recording process allowed it to objectively capture the details of a piece of music, and unlike stenography, phonographs did not require familiarity with a specialized form of manual notation.
+Answer: D
+
+
+Question 15:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In 2010, anthropologist Livia Barbosa published a study wherein she documented survey respondents’ perceptions of popular Brazilian foods, such as coxinha and broa. While the data may now be somewhat outdated, scholars in the future interested in tracking changes in food and sociability in Brazilian society ______ Barbosa’s study useful.
+
+
+A. find
+B. will find
+C. had found
+D. found
+Answer: B
+
+
+Question 16:
+Which choice most logically completes the text?
+
+In a study of the teeth of different species of monitor lizard, scientists examined specimens from museum collections. They found that Komodo dragon teeth, which were already known to be distinctly serrated (jagged and sawlike), always have orange pigmentation along their edges. This pigmentation was found in other monitor species whose teeth have prominent serrations, such as lace monitors, but was absent in species whose teeth have small or no serrations, such as savannah monitors. Laboratory analysis showed that the pigmentation comes from an iron-rich coating that makes the tooth edges more resistant to wear than the edges of teeth without pigmentation are. Taken together, these findings suggest that ______.
+
+
+A. the orange pigmentation on the serrated teeth of some monitor lizard species primarily evolved as a lure to attract certain prey species rather than as a structural adaptation to strengthen teeth.
+B. monitor lizard species with teeth similar to those of the lace monitor likely rely more on maintaining the sharpness of their teeth’s cutting edges for feeding than species with teeth similar to those of the savannah monitor do.
+C. monitor lizard species with teeth similar to those of the savannah monitor likely consume a smaller variety of prey than species with teeth similar to those of the lace monitor do.
+D. the iron richness of the habitat of a given monitor lizard species is a significant factor influencing whether the species has orange pigmentation on its teeth.
+Answer: B
+
+
+Question 17:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In quantum mechanics, the Copenhagen interpretation posits a wave function collapse upon measurement, but a radical alternative seeks to eliminate this postulate. Physicist Hugh Everett III's 1957 dissertation ______ that the wave function never collapses but instead bifurcates into multiple non-communicating branches has engendered the controversial Many-Worlds Interpretation (MWI).
+
+
+A. positing
+B. posited
+C. has posited
+D. posits
+Answer: A
+
+
+Question 18:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Nicosia is home to roughly 27 percent of Cyprus's total population. This means that about 1 in 4 ______ live in Cyprus's capital, Nicosia.
+
+
+A. people
+B. people who
+C. people,
+D. people, who
+Answer: A
+
+
+Question 19:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+One might assume that when mathematician and scholar Charles Babbage joined with 55 other renowned British writers in 1837 to petition the US Congress for copyright ______ prestige of the signatories and the petition’s arguments in defense of writers “reputation and property” would prompt swift reform, but this reform did not occur until the International Copyright Act of 1891 was passed over a half century later.
+
+
+A. protection and the
+B. protection, so the
+C. protection. The
+D. protection, the
+Answer: D
+
+
+Question 20:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+It should come as no surprise that Merry Clayton and Darlene Love ____ so prominently in Twenty Feet from Stardom, an award-winning documentary exploring the role of backup singers in popular music. Both artists provided backup vocals for some of the most iconic songs of the twentieth century.
+
+
+A. has featured
+B. featuring
+C. features
+D. feature
+Answer: D
+
+
+Question 21:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+F. Scott Fitzgerald’s classic 1925 novel about an enigmatic Long Island millionaire has a title that is instantly recognizable to many readers: The Great Gatsby. Fitzgerald’s novel originally had a different ______ while writing and editing, Fitzgerald had planned to call the novel Trimalchio in West Egg.
+
+
+A. title; though
+B. title, though
+C. title, though,
+D. title, though;
+Answer: D
+
+
+Question 22:
+Which choice completes the text with the most logical transition?
+
+Many historical accounts of the 1930s focus on the widespread movement of people from dust bowl-ravaged Great Plains states to faraway California. However, a 2016 study of 1940 census data complicates this popular narrative; ______ researchers determined, migrants in states hardest hit by prolonged droughts and dust storms—Colorado, Kansas, Oklahoma, and Texas—merely relocated within the region.
+
+
+A. nevertheless,
+B. additionally,
+C. for this reason,
+D. more often,
+Answer: D
+
+
+Question 23:
+Which choice completes the text with the most logical transition?
+
+Between 1589 and 1611, the prolific playwright William Shakespeare, author of the tragedy Antony and Cleopatra (1606), wrote approximately 20 plays classified as histories or tragedies. ______ he somehow found the time to author 17 comedies, including Twelfth Night (1601).
+
+
+A. For example,
+B. In summary,
+C. Meanwhile,
+D. Specifically,
+Answer: C
+
+
+Question 24:
+The student wants to define the term “epistolary novel.” Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•*The Incarnations* (2015) is an epistolary novel by English author Susan Barker.
+•Epistolary novels are novels written primarily as a series of fictional documents.
+•These documents can be letters, journal entries, newspaper clippings, and more.
+•*The Incarnations* is about a Beijing taxi driver.
+•The letters are sent between a taxi driver named Wang Jun and a mysterious woman.
+
+
+A. Consisting primarily of letters sent between a taxi driver named Wang Jun and a mysterious woman, Susan Barker’s The Incarnations is an epistolary novel.
+B. Susan Barker’s novel The Incarnations was published in 2015 and consists primarily of letters sent between a taxi driver named Wang Jun and a mysterious woman.
+C. An epistolary novel is a novel written primarily as a series of fictional documents, such as letters, journal entries, or newspaper clippings.
+D. Published in 2015, The Incarnations is an epistolary novel by English author Susan Barker.
+Answer: C
+
+
+Question 25:
+The student wants to make a generalization about the germination of seeds ingested by bats. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Katrin Heer, Larissa Albrecht, and Elisabeth K.V. Kalko published a study in 2010.
+•In it, the researchers found that ingestion by bats had a neutral effect on the germination of *Ficus nymphaeifolia* plant seeds.
+•Researchers Fabiana Paiva and M. S. Godoy Filho published a study in 2017.
+•In it, the researchers found that ingestion by bats had a negative effect on the germination of *Ficus lutchiana* plant seeds.
+•Silmara R. Zotz and Gesine C. Geisel-Zotz Fischer published a study in 2009.
+•In it, the researchers found that ingestion by bats had a positive effect on the germination of *Ficus pertusa* plant seeds.
+
+
+A. Bat ingestion has consistently been found to have a positive effect on seed germination.
+B. As was found in the 2010 study, ingestion by bats has a positive effect on the germination of plant seeds.
+C. Over the years, researchers have studied the effect that seed germination has had on ingestion by bats.
+D. Seed ingestion by bats can have varying effects on seed germination.
+Answer: D
+
+
+Question 26:
+The student wants to make a generalization about linocut prints. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•*Waiting* is a 1987 black-and-white linocut print by Kuwaiti artist Thuraya Al-Baqsami.
+•It depicts a tranquil, everyday scene (a woman in a headscarf gazing out a window).
+•*¡Será todo nuestra!* (“It will all be ours!”) is a 1977 color linocut print by Mexican American artist Carlos Cortéz.
+•It features a scene with an explicitly political point of view (a group of laborers preparing to go on strike).
+•Lino cutting is an inexpensive printmaking technique in which an image is carved onto linoleum tile, covered in ink or paint, and stamped onto paper.
+
+
+A. Linocuts can depict a range of scenes, from the explicitly political to the tranquil and everyday.
+B. Cortéz’s linocut features a group of laborers preparing to go on strike, while Al-Baqsami’s depicts a woman in a headscarf gazing out a window.
+C. Cortéz made ¡Será todo nuestra! (“It will all be ours!”) in 1977, while Al-Baqsami made Waiting later, in 1987.
+D. Lino cutting is a printmaking technique in which linoleum tile is used to create works with an explicitly political point of view.
+Answer: A
+
+
+Question 27:
+The student wants to contrast the philosophical origins of the sublime as defined by Burke and Kant. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• In aesthetics, the sublime refers to an experience of awe, vastness, or terror that transcends mere beauty.
+• In his 1757 treatise, philosopher Edmund Burke's conception of the sublime is fundamentally empirical; he argues it originates from sensory experiences that provoke terror and pain, such as observing a powerful storm from a safe distance.
+• Philosopher Immanuel Kant, in his *Critique of Judgment* (1790), offers a rationalist counterpoint.
+• For Kant, the sublime is not located in the object itself but is a feeling arising from the mind's inability to comprehend the object's magnitude, leading to an awareness of its own rational power.
+• Caspar David Friedrich's 1818 painting *Wanderer above the Sea of Fog* is often cited as a prime visual representation of the sublime.
+
+
+A. The sublime, as represented in art like Wanderer above the Sea of Fog, is conceived by Burke as a feeling produced when the mind fails to comprehend the scene's magnitude.
+B. The sublime is an aesthetic experience, distinct from beauty, that is often associated with feelings of awe, vastness, and terror.
+C. Burke posits that the sublime originates from sensory experiences of terror, whereas Kant argues that it arises from the mind's confrontation with its own rational limits.
+D. Both Burke and Kant engaged with the concept of the sublime, using it to explain experiences that go beyond simple beauty.
+Answer: C

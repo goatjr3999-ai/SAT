@@ -1,0 +1,60 @@
+Question 1:
+For a polynomial function f, the graph of y = f(x) contains the points (−6, 0), (7, 0), (0, 0), and (4, 0).
+Which of the following must be a factor of f(x)?
+
+A. {{MATH_12}}
+B. {{MATH_13}}
+C. {{MATH_14}}
+D. {{MATH_15}}
+Answer: D
+
+
+Question 2:
+The function h is defined by {{MATH_1}}, where b and c are constants.
+The graph contains the points (2, 0) and (0, {{MATH_16}}).
+If h(m) = 0, what is the greatest possible value of m?
+Answer: 179
+
+
+Question 3:
+The function f is defined by {{MATH_2}}.
+The graph does not intersect the line x = 4.
+If f(5) = f(6) = 0, what is the value of a + b + c?
+Answer: 11
+
+
+Question 4:
+The function q is defined by {{MATH_3}}, where a > b > 53.
+If q(539) = h and q(-521) = k, what is the value of {{MATH_4}}?
+Answer: 379
+
+
+Question 5:
+Which of the following has x + 2a as a factor, where a is a positive integer?
+
+A. {{MATH_5}}
+B. {{MATH_6}}
+C. {{MATH_7}}
+D. {{MATH_8}}
+Answer: D
+
+
+Question 6:
+The function h(x) = {{MATH_17}} passes through (−3, 0), (−2, 0), (4, 0), and (6, 0).
+If h(0) = q and the product of all roots is r, what is the value of q + r?
+Answer: 288
+
+
+Question 7:
+One of the factors of {{MATH_9}} is x + b, where b is positive.
+What is the smallest possible value of b?
+Answer: 8
+
+
+Question 8:
+In the given equation, k is a constant.
+The equation has exactly one real solution.
+What is the minimum possible value of 4k?
+
+{{MATH_10}} = {{MATH_11}}
+Answer: 235

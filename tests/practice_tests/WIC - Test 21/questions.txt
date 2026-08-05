@@ -1,0 +1,261 @@
+Question 183:
+[WIC]
+As used in the text, what does the word "display" most nearly mean?
+
+The following text is adapted from John Matheus's 1926 short story, "Mr. Bradford Teaches Sunday School."
+Mr. Bradford is driving through the countryside in Florida. The moss in the towering water oaks had become enlivened with a verdant sheen of silver and hung like festoons of carnival or like funeral decorations for the mourning of the dead. The pine green was resplendent. The bald cypresses spread themselves along the water courses while the willows wept as they always did. Mr. Bradford was conscious of this gorgeous display of nature.
+
+
+A. Spectacle
+B. Pretentiousness
+C. Resemblance
+D. Deception
+Answer: A
+
+Question 193:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+During his career, Cuban composer and pianist Ernesto Lecuona produced hundreds of compositions. Especially impressive is how ____ his body of work is: Lecuona showcased a diverse range of musical talents in different areas, from orchestral pieces and operas to popular film scores.
+
+
+A. outdated
+B. varied
+C. forgotten
+D. lonely
+Answer: B
+
+Question 110:
+[COE]
+Which choice completes the text with most logical and precise word or phrase?
+
+Ji-li Jiang's book Red Kite, Blue Kite has earned a lot of praise. In fact, the book ______ the Asian/Pacific American Award for Literature.
+
+
+A. guessed
+B. blamed
+C. received
+D. forgot
+Answer: C
+
+Question 150:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+A team of microbiologists measured surface temperatures of various wild mushrooms, including Amanita muscaria and a species from the genus Thelephora. The temperatures ranged from 1.4 to 5.9°C lower than the temperature of the surrounding air, a difference the team ______ to water evaporating from the mushrooms and thus cooling them.
+
+
+A. conceded
+B. prescribed
+C. attributed
+D. amended
+Answer: C
+
+Question 235:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Sophia Kwan and Lorenzo Medina’s evaluation of predator-prey dynamics within the Serengeti ecosystem during the early 2000s revealed a compelling ______: despite frequent collapses of predator populations, the ecosystem maintained a substantially higher overall stability than the Yellowstone ecosystem of the late twentieth century, which ecologists regard as a paradigm of ecological equilibrium.
+
+
+A. portent
+B. paragon
+C. approbation
+D. paradox
+Answer: D
+
+Question 245:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Barring major archaeological discoveries, we are unlikely to ever have _____ account of ancient Egypt under the female pharaoh Hatshepsut, as much of the evidence of her reign was deliberately destroyed by her successors.
+
+
+A. a superficial
+B. an imaginative
+C. a questionable
+D. an exhaustive
+Answer: D
+
+Question 144:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In the late 1970s, the price of collectible stamps from earlier in the century rose dramatically, which had the counterintuitive effect of _____ demand: buyers who hadn’t previously wanted to purchase old stamps suddenly thronged the market, believing prices would continue to rise and the stamps could be resold later at a profit.
+
+
+A. exploiting
+B. precipitating
+C. monetizing
+D. stabilizing
+Answer: B
+
+Question 64:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Text corpora such as the British National Corpus are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. If one has a ________ that the word "own" has a high incidence in English, for example, an analysis of a corpus can support that hypothesis by showing that "own" is the eighth most commonly used adjective.
+
+
+A. synopsis
+B. scheme
+C. recognition
+D. supposition
+Answer: D
+
+Question 36:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Text corpora such as the American National Corpus are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. For example, a linguist who assumes that the word “get” appears quite often in written English could ________ that assumption with data from a corpus: “get” is the fifth most commonly used verb.
+
+
+A. refute
+B. transpose
+C. substantiate
+D. entail
+Answer: C
+
+Question 250:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Often, the Nobel Prize in Chemistry is given to a single person, such as Irving Langmuir in 1932. But scientists recognized with a Nobel Prize do not often conduct their work in _____. Instead, success in fields like chemistry is usually achieved through direct cooperation with other experts, as was the case for George Smith, who was among those awarded for “the phage display of peptides and antibodies.”
+
+
+A. isolation from
+B. deference to
+C. collaboration with
+D. competition with
+Answer: A
+
+Question 37:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In a 2020 paper, Arya Udry et al. cautioned that although similarities in the isotopic signatures of elements detected in Mars’ s atmosphere and in Martian meteorites recovered on Earth make it tempting to treat the geochemical properties of the meteorites as ________ those of Mars’ s interiors, Mars’ s geology cannot be ascertained based solely on meteorite-sample analyses.
+
+
+A. contrivances of
+B. adjuncts to
+C. proxies for
+D. aberrations in
+Answer: C
+
+Question 246:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Roc-aux-Sorciers frieze—a group of relief carvings of animals found in what is now France and dating from around 14,000 years ago—is sometimes said to be emotionally powerful despite its age, but in fact the frieze is _____ precisely because of its age. It is the link of shared humanity with the artists across so many centuries that gives the Roc-aux-Sorciers frieze such resonance.
+
+
+A. pristine
+B. meticulous
+C. affecting
+D. ingenious
+Answer: C
+
+Question 165:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+As a member of Indigenous Photograph, artist Tshepiso Mabula ka Ndongeni (Xhosa) can _____ her work more broadly than she could without the organization's reach. Photography editors around the world can search for Indigenous photographer members on the organization’s website to find images that document and reflect the lives of Indigenous communities.
+
+
+A. empty
+B. promote
+C. alter
+D. discover
+Answer: B
+
+Question 271:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Karam Kang has demonstrated that lobbying does little to alter the probability that a particular energy policy under consideration by the United States Congress will be enacted, but lobbying is not as ________ as this finding seems to suggest. As Kang herself notes, lobbying can shape which policy proposals members of Congress bring forward for consideration in the first place.
+
+
+A. cynical
+B. ineffectual
+C. biased
+D. counterproductive
+Answer: B
+
+Question 128:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Though iconic Brutalist structures, like the Barbican Estate (1976) in London, UK, are known for their visually arresting use of concrete, the choice of the material was also ______. The unprecedented expansion of public services and civic institutions in the United Kingdom during the 1950s–70s required widescale construction, and concrete was inexpensive and plentiful.
+
+
+A. anomalous
+B. polarizing
+C. onerous
+D. pragmatic
+Answer: D
+
+Question 168:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Studying advertisements for defunct amusement parks, menus from nineteenth-century restaurants, and handbills promoting long-forgotten political candidates may seem like a frivolous pursuit, but ephemeral objects like these are useful as _____ cultural change, revealing shifts in norms, values, and concerns that traditional objects of historical inquiry may not.
+
+
+A. alternatives to
+B. conjectures about
+C. indices of
+D. pretexts for
+Answer: C
+
+Question 249:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Sarah Marquis, a Swiss explorer, walked 16,000 kilometers across Asia, Siberia, and Australia, undoubtably accomplishing much, but to ____ a lasting historical legacy for oneself, one woman managed to differentiate what can be the first to do something. For example, people will always remember that Anésia Pinheiro Machado was the first female pilot in Brazil to fly with passengers and the first to make stunt flights.
+
+
+A. recognize
+B. undermine
+C. constrain
+D. establish
+Answer: D
+
+Question 184:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+As a work of scholarship, Advancing U.S. Latino Entrepreneurship (2020) is notable for its ______. Featuring contributions from Zulema Valdez, Bea Stotzer, and others, it explores contemporary issues while also providing context dating all the way back to the sixteenth century on Latino populations and their experiences with business and commerce.
+
+
+A. scope
+B. impartiality
+C. terseness
+D. reputation
+Answer: A
+
+Question 146:
+[WIC]
+As used in the text, what does the word “supported” most nearly mean?
+
+The following text is adapted from John Matheus’s 1925 short story Fog.
+ The fog extended its tentacles over city and river, gradually obliterating traces of familiar landscapes. At five-thirty the old Panhandle bridge, supported by massive sandstone pillars, stalwart, as when erected fifty years before to serve a generation now passed behind the portals of life, had become a spectral outline against the sky.
+
+
+A. Nurtured
+B. Endorsed
+C. Held up
+D. Improved on
+Answer: C
+
+Question 55:
+[WIC]
+As used in the text, what does the word "suddenly" most nearly mean?
+
+[The] Mole zstood still a moment, held in thought. As one wakened suddenly from a beautiful dream, who struggles to recall it, and can re-capture nothing but a dim sense of the beauty of it, the beauty! Till that, too, fades away in its turn.
+
+
+A. Abruptly
+B. Repeatedly
+C. Voluntarily
+D. Tenderly
+Answer: A

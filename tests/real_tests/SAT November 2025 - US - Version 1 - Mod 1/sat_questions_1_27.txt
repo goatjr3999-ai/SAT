@@ -1,0 +1,387 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In the search for new impact craters on Mars, the roles of seismic monitoring and orbital imaging as data sources are______: when vibrations detected with seismic monitoring indicate roughly where an impact has occurred, researchers can use orbital images of that relatively limited area of the rocky surface to precisely locate a new crater.
+
+
+A. interchangeable
+B. exhaustive
+C. redundant
+D. complementary
+Answer: D
+
+Question 2:
+[WIC]
+As used in the text, what does the word "consideration" most nearly mean?
+
+The following text is adapted from Henry James's 1881 novel The Portrait of a Lady. Everything Osmond did was pose-pose so subtly considered that if one were not on the lookout one mistook it for impulse. Ralph had never met a man who lived so much in the land of __consideration__. His tastes, his studies, his accomplishments, his collections, were all for a purpose.
+
+
+A. Indecision
+B. Calculation
+C. Courtesy
+D. Deference
+Answer: B
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Microplastics are a common pollutant in large masses of water like glaciers. High concentrations and ______ among particles—variations in size, shape, and material—make it onerous to comprehensively classify the microplastics in a water sample, so Kutay Icoz et al. are exploring a device to help quickly and accurately identify certain characteristics.
+
+
+A. restraints
+B. inconsistencies
+C. incompatibilities
+D. disruptions
+Answer: B
+
+Question 4:
+[WIC]
+As used in the text, what does the word "breathes" most nearly mean?
+
+The following text is adapted from the 1895 poem "Ojistoh" by Emily Pauline Johnson, a Kanien'kehá:ka (Mohawk) writer also known as Tekahionwake. I am Ojistoh, I am she, the wife Of him whose name __breathes__ bravery and life And courage to the tribe who calls him chief. I am Ojistoh, his white star, and he Is land, and lake, and sky—and soul to me.
+
+
+A. Absorbs
+B. Rejects
+C. Acquiesces
+D. Imparts
+Answer: D
+
+Question 5:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Bing Xie and her team have discovered that plains zebras make at least four types of vocalizations: "snorts," "soft snorts," "squeals," and "quagga quagga" calls. The researchers used machine-learning algorithms to ______ recorded vocalizations according to type, finding that snorts vary across individual zebras, while squeals are more uniform across zebra populations.
+
+
+A. suppress
+B. extend
+C. collapse
+D. categorize
+Answer: D
+
+Question 6:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is from Robert Lowell's 1964 poem "For the Union Dead."
+The South Boston Aquarium closed permanently in 1954.
+The old South Boston Aquarium stands
+in a Sahara of snow now. Its broken windows are boarded.
+The bronze weathervane cod has lost half its scales.
+The airy tanks are dry.
+
+
+A. To contrast the effects of different kinds of weather on a building
+B. To argue that a building should be rehabilitated
+C. To describe details of the deteriorated state of a building
+D. To explain why a once-popular building was abandoned
+Answer: C
+
+Question 7:
+[COE]
+Which quotation from Peter Pan best supports the claim?
+
+Peter Pan is a 1911 novel by J.M. Barrie. In the fantasy novel, Peter is a young boy who can fly. He brings Wendy, John, and Michael to Neverland, the mythical island where he lives. The narrator suggests that activity on the island stops when Peter is away and starts again when he is about to return: ______
+
+
+A. "There is no entrance to be seen."
+B. "Wendy and John and Michael stood on tip-toe in the air to get their first sight of the island."
+C. "Feeling that Peter was on his way back, the Neverland had again woke into life."
+D. "[Wendy] was often at the lagoon on sunny days after rain."
+Answer: C
+
+Question 8:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Understanding juvenile sea turtles' migratory patterns is crucial for conservation efforts. While adult sea turtles are well studied, little is known about juveniles during their oceanic stage, when they spend most of their time in the open ocean. To learn about this stage, researchers tagged and released six juvenile green sea turtles (Chelonia mydas) into the eastern Caribbean Sea. Their findings revealed that the majority of the turtles passively drifted with ocean currents throughout the region. However, two individuals swam against the currents, possibly in search of foraging grounds off the coast of South America.
+
+
+A. To compare the behavior of adult and juvenile sea turtles during migration
+B. To summarize research on an understudied stage of sea turtle development
+C. To suggest reasons why some juvenile sea turtles swim against the ocean currents
+D. To describe successful conservation efforts for sea turtles
+Answer: B
+
+Question 9:
+[Infer]
+Which choice most logically completes the text?
+
+All stainless steel contains varying amounts of iron, carbon, and corrosion-inhibiting chromium. However, ferritic stainless steel, often used for induction cookers, contains a higher percentage of chromium (at least 10.5%) than does austenitic stainless steel and a higher concentration of iron, which is responsible for its magnetic properties. Unlike ferritic stainless steel, austenitic stainless steel has a face-centered cubic crystalline structure resulting from the addition of nickel to the alloy. Austenitic stainless steel has two subtypes: the 200 series, often used for home water tanks, and the 300 series, which has more nickel than the 200 series and is often used for storage containers or sinks. Thus, stainless steel used to manufacture
+
+
+A. induction cookers will have a face-centered cubic crystalline structure.
+B. home water tanks will have a lower percentage of chromium in its composition than stainless steel used for induction cookers will.
+C. storage containers will have a concentration of chromium lower than 10.5%, while stainless steel used to manufacture home water tanks will not.
+D. sinks will have similar magnetic properties to stainless steel used to manufacture induction cookers.
+Answer: B
+
+Question 10:
+[COE]
+Based on data in the table, pineapple farmers with no access to inorganic soil additives would likely increase the weight and size of their fruits by the greatest amount by using. Which choice most effectively uses data from the table to complete the text?
+
+Working in Ghana, Emmanuel Hanyabui and colleagues compared the impact on pineapple growth of different combinations of soil additives, including NPK fertilizer (an inorganic fertilizer containing nitrogen, phosphorus, and potassium), organic compost, and biochar (a carbon-rich material produced from organic waste matter).
+Effect of Various Soil Treatments on Mean Pineapple Fruit Weight and Size
+
+
+
+A. biochar and compost.
+B. biochar alone.
+C. biochar and NPK fertilizer.
+D. compost alone.
+Answer: A
+
+Question 11:
+[COE]
+What does the text most directly suggest about translation apps?
+
+Linguist John McWhorter asserts that translation apps for smartphones and computers are—despite generally failing to convey many nuances—increasingly obviating the need to learn new languages. Advances in language processing technology have greatly boosted the utility of these apps for perfunctory tasks, like inquiring about an item on a menu, and passing interactions; be that as it may, richer communication (e.g., in business dealings or meaningful personal exchanges) often hinges on conversational patterns and gradations of meaning.
+
+
+A. They have improved remarkably over time but remain insufficient to support the complexity called for in certain interactions.
+B. They have gained impressive capabilities but continue to be widely viewed as inadequate for most practical purposes.
+C. They are becoming simpler to use but are inconsistent in how comprehensively they cover different languages.
+D. They are coming to be embraced by international tourists but are viewed with skepticism by many business professionals.
+Answer: A
+
+Question 12:
+[COE]
+Which choice most effectively uses data from the graph to complete the statement?
+
+Wenhao Xu and colleagues demonstrated that applying a low direct current electrical field to graphite (a conductor) and an acrylamide (AAm) gel can increase how strongly materials adhere to each other. At some voltages, adhesion strength—as measured in kilopascals (kPa) of stress needed to pull the materials apart—was high (more than 30 kPa). But the mere application of a direct current electrical field with positive voltage is not sufficient to cause increased adhesion, as evidenced by the fact that
+
+
+
+A. at 2 V, mean adhesion strength was lower than it was at both 1 V and 3 V.
+B. at 3 V, mean adhesion strength reached its highest observed level at approximately 30 kPa.
+C. at 0 V, mean adhesion strength was equal to 0 kPa.
+D. at 1 V, mean adhesion strength was approximately equal to adhesion strength at 0 V.
+Answer: D
+
+Question 13:
+[COE]
+Which choice most effectively uses data from the graph to complete the sentence?
+
+Since the nation's earliest days, both houses of the United States Congress have counted many military veterans among their elected officials, including Hiram L. Fong (who served in the US Army Air Force) and Ralph Harold Metcalfe Sr. (who served in the US Army). A research institute gathered historical data about congressional members who have reported past military experience and determined that______
+
+
+
+A. from 2003 to 2023, the House of Representatives had a higher percentage of those members than the Senate did.
+B. from 1953 to 2003, those members constituted a majority in both houses of Congress.
+C. the percentage of those members decreased substantially in both houses of Congress from 1973 to 2013.
+D. the percentage of those members remained fairly consistent, regardless of house, from 1993 to 2023
+Answer: C
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Outi Tervo and team studied the effect of human-caused noise on narwhals (Monodon monoceros), arctic marine mammals that are sensitive to acoustic changes in their environment. Hypothesizing that elevated sound levels affect foraging among narwhals, Tervo's team compared narwhal diving behaviors in natural sound conditions with those behaviors in two human-caused sound exposure conditions—ship sounds and ship sounds coupled with sonic pulses. Both exposure conditions resulted in significant decreases in the number and target depth of deep dives (associated with foraging) relative to natural conditions. However, differences between diving behaviors in the two exposure types were negligible, a finding that could be attributed to the fact that
+
+
+A. the narwhals weren't as sensitive to human-caused sounds as the researchers had predicted.
+B. sonic pulses can be heard at significantly greater ocean depths than ship sounds can.
+C. narwhals forage at shallower depths in the presence of ship sounds alone than in the presence of ship sounds coupled with sonic pulses.
+D. ship sounds contribute so much to the overall sound level that the addition of sonic pulses has little effect on the narwhals' auditory environment.
+Answer: D
+
+Question 15:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Recordings of electrical activity in the brain, ______ increased activity in brain areas associated with suppressing motor functions.
+
+
+A. the most highly skilled soccer players responding to hypothetical match scenarios have electrograms that show
+B. responses to hypothetical match scenarios show that the most highly skilled soccer players have electrograms with
+C. electrograms show that while responding to hypothetical match scenarios, the most highly skilled soccer players have
+D. hypothetical match scenario responses show that the most highly skilled soccer players captured in electrograms have
+Answer: C
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Bertie Marshall, a key figure in the history of steel band music in Trinidad and Tobago, made several innovations to_____ the steel wheels so the instrument could be easily transported during Carnival, a cover to protect the pans from the sun, and amplification so the sound of the pans could be better heard over large crowds and other instrumentation.
+
+
+A. drum,
+B. drum;
+C. drum
+D. drum:
+Answer: D
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+While some biologists cite the general lineage species concept (Queiroz 1998), others adhere to the biological species concept (Coyne and Orr 2004), with at least fourteen other concepts used across the field. Such lack of consensus, however, isn't necessarily cause for alarm. Scholars supporting a pluralist approach—in place of a single, monistic concept—to defining a species ______ that a diversity of species concepts fits their equally diverse applications throughout the discipline.
+
+
+A. is arguing
+B. to argue
+C. argue
+D. argues
+Answer: C
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Brigadier General Virgilio Cordero was a soldier in the United States 65th Infantry Regiment, a Puerto Rico-based regiment of the US Army. In 2016, the United States Congress honored Cordero and the other servicepeople of the 65th Infantry Regiment with one of its highest ______Congressional Gold Medal.
+
+
+A. honors; the
+B. honors the
+C. honors: the
+D. honors (the
+Answer: C
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The city of Seoul, South Korea, is home to an office of the International Criminal Police Organization (Interpol). However, you won't see Interpol agents chasing international criminals in Seoul. Interpol can help with investigations, but only South Korean authorities _____permitted to make arrests there.
+
+
+A. were
+B. had been
+C. are
+D. were being
+Answer: C
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Astronomers Annie and Edward Maunder meticulously studied historical records of dark areas on the sun's surface known as sunspots. Their work in the late 1800s led to the identification of a period from 1645 to 1715—now known as the Maunder ______ sunspots were notably scarce, a phenomenon that solar physicists continue to investigate.
+
+
+A. Minimum—when
+B. Minimum: when
+C. Minimum, when
+D. Minimum when
+Answer: A
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+When ordering the branches of the Susitna River system, cartographers tend to begin with the riverway's lowest point, the Susitna River. ______ hydrologists begin at the top of the river system, with the Skwentna River and other tributaries fed by the riverway's source, Alaska's Susitna Glacier.
+
+
+A. For example,
+B. In other words,
+C. In a similar way,
+D. By contrast,
+Answer: D
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Resins play several important roles in maintaining the health of conifers and many other kinds of trees. ______ resins quickly seal wounds, which helps prevent harmful insects and fungi from entering trees. These sticky substances also help trees retain water that is needed for them to survive.
+
+
+A. However,
+B. Regardless,
+C. For example,
+D. Next,
+Answer: C
+
+Question 23:
+[Synthesis]
+The student wants to compare the length of time Fannie May Salter and Ida Lewis worked as lighthouse keepers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Lighthouses send out crucial light signals to help ships and other watercraft navigate at night.
+• Before automation, lighthouses were run by lighthouse keepers.
+• Fannie May Salter was the lighthouse keeper at Turkey Point Light in Maryland.
+• She held this position for twenty-two years (1925–1947).
+• Ida Lewis was the lighthouse keeper at Lime Rock Light in Rhode Island.
+• She held this position for fifty-four years (1857–1911).
+
+
+A. Fannie May Salter and Ida Lewis were both lighthouse keepers at a time when such a person was needed to operate a lighthouse.
+B. From 1925 to 1947, the nighttime waters of Maryland were more navigable thanks to lighthouse keepers Fannie May Salter and Ida Lewis.
+C. Fannie May Salter worked as a lighthouse keeper for twenty-two years, but Ida Lewis did so for even longer: fifty-four years.
+D. Before automation, lighthouse keepers like Fannie May Salter, who served for twenty-two years, and Ida Lewis were crucial to ensuring safe navigation for watercraft.
+Answer: C
+
+Question 24:
+[Synthesis]
+The student wants to compare the durations of the two sailors' journeys. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Bert terHart is a Canadian sailor.
+• Seaburban is a sailboat.
+• terHart sailed Seaburban on a nonstop, 266-day journey around the world.
+• Jesse Martin is an Australian sailor.
+• Lionheart is a sailboat.
+• Martin sailed Lionheart on a nonstop, 328-day journey around the world.
+
+
+A. Both Martin and terHart embarked on sailing journeys around the world.
+B. Martin's journey took place aboard Lionheart, while terHart sailed on Seaburban.
+C. Canadian sailor Bert terHart sailed Seaburban around the world in 266 days.
+D. Martin's 328-day journey around the world took longer than terHart's 266-day journey.
+Answer: D
+
+Question 25:
+[Synthesis]
+The student wants to emphasize a difference between the two bird species. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The waved albatross is a species of bird found in the Galápagos Islands.
+• It has an average weight of 3,800 grams.
+• The vegetarian finch is a species of bird found in the Galápagos Islands.
+• It has an average weight of 34 grams.
+
+
+A. On average, the waved albatross weighs 3,800 grams, while the vegetarian finch weighs only 34 grams.
+B. The vegetarian finch and the waved albatross can be found in the Galápagos Islands.
+C. The waved albatross is a bird with an average weight of 3,800 grams.
+D. The vegetarian finch and the waved albatross are both bird species.
+Answer: A
+
+Question 26:
+[Synthesis]
+The student wants to emphasize a similarity between Almaty and Auckland. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Usually, a country's capital is also its largest city by population.
+• The capital of Kazakhstan is Nur-Sultan.
+• Its largest city by population is Almaty.
+• The capital of New Zealand is Wellington.
+• Its largest city by population is Auckland.
+
+
+A. While Almaty is in Kazakhstan, Auckland is in New Zealand.
+B. The capital of Kazakhstan is Nur-Sultan; the capital of New Zealand is Wellington.
+C. Although neither is a capital city, both Almaty and Auckland are the most populous cities in their countries.
+D. The most populous city in Kazakhstan is Almaty, but its capital is Nur-Sultan.
+Answer: C
+
+Question 27:
+[Synthesis]
+The student wants to emphasize a difference between the two seaweeds. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The human tongue contains taste receptors for a rich, savory flavor called umami.
+• Umami is triggered by the compounds in a variety of foods, including tuna and blue cheese.
+• Participants in a study tasted a sample of sea palm, a type of brown seaweed.
+• They rated its umami intensity as moderate.
+• The participants tasted a sample of bull kelp, another type of brown seaweed.
+• They rated its umami intensity as high.
+
+
+A. After tasting two types of brown seaweed, sea palm and bull kelp, participants in a study found bull kelp's umami flavor to be the more intense of the two.
+B. While sea palm and bull kelp contain umami flavor, umami can also be found in tuna and blue cheese.
+C. Sea palm is a type of brown seaweed, but so is bull kelp.
+D. Some types of brown seaweed, like sea palm and bull kelp, trigger umami flavor in human taste buds.
+Answer: A
+

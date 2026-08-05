@@ -1,0 +1,150 @@
+Question 1:
+[Cross Text]
+Based on the texts, both the author of Text 1 and the author of Text 2 would most likely agree with which statement about scholarship on the modernist period in the United States?
+
+Text 1
+Scholarship today overrepresents experimentally fragmented narrative structures, such as that of Jean Toomer’s Cane, beyond the degree to which they actually influenced fiction in the United States during the modernist period (roughly 1900–1945). Meanwhile, Ellen Glasgow’s Barren Ground, whose coherent, linear narrative structure recalls the fiction of previous centuries, attracts woefully little attention from scholars of modernism.
+Text 2
+Distant reading, or computer-assisted quantitative analysis of massive collections of digitized texts, can reveal stylistic elements that have heretofore escaped notice, despite being shared by numerous texts from the modernist period. For too long, scholars have focused on narrative fragmentation versus coherence, inhibiting inquiry into other points of stylistic correspondence among works that would enrich our understanding of the modernist canon.
+
+A. At present, it only partially captures the stylistic dimensions of the fiction written in the period.
+B. Its primary methods for analyzing fiction written in the period are growing obsolete as computer technology advances.
+C. Instead of engaging in unproductive debates, it should work to rehabilitate the reputations of neglected modernist works.
+D. It must widen its focus to include aspects of modernist fiction beyond style, a productive but overrepresented site of inquiry.
+Answer: A
+
+Question 2:
+[Cross Text]
+Based on the texts, the author of Text 1 would most likely agree with the author of Text 2 on which point?
+
+Text 1
+Isaac Asimov, author of The Naked Sun and The Gods Themselves, is highly regarded despite his mediocre writing style. His prose is workmanlike; his characters are flat and discuss ideas rather than emotions. That his work is enjoyable despite this is a testament to his prodigious imagination—even if people read his books only for the ideas, they will have plenty to consider.
+Text 2
+Asimov is critiqued for his style, but it is wrong to fault a writer for failing to do what he never intended to do. For example, although most of his novel Foundation consists of people discussing science and politics and we find out little about his characters' lives, Asimov wanted to convey the vast sweep of human history over centuries, and one of his points is that at such a timescale, individuals don’t matter. Thus his lack of characterization is central to his thematic aims.
+
+A. The Naked Sun is more representative of Asimov's writing style than Foundation is.
+B. Asimov's writing style is often unfairly criticized.
+C. Asimov's characters can be concerned mainly with intellectual matters rather than emotions.
+D. Asimov was correct to suggest that individual humans have little influence over the course of human history.
+Answer: C
+
+Question 3:
+[Cross Text]
+Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree with which statement about many new albums?
+
+Text 1
+In the past, music albums were created to be played back on physical formats like records. A typical record holds only about twenty-five minutes of music on each of its shiny black sides. This forced artists and producers to think carefully about what music to include on an album and what to leave out. Today’s artists don’t have to worry as much about fitting their music on physical formats. For this reason, many of today’s artists are making albums that are much longer than albums from decades past.
+Text 2
+In today’s digital age, most music is created to be streamed from online services. These services remove the limitations of physical formats like records and CDs. This may be why many new albums are longer and have more songs than albums crafted for physical formats. Unfortunately, many of these longer albums suffer from a lack of focus.
+
+A. Many new albums include more artwork than albums generally once included.
+B. Many new albums sell more copies than albums generally once sold.
+C. Many new albums are longer than albums generally once were.
+D. Many new albums are quieter than albums generally once were.
+Answer: C
+
+Question 4:
+[Cross Text]
+Which choice best describes a difference in how the authors of the texts view the benefits of being named a City of Gastronomy?
+
+Text 1
+In 2019 Mérida, Mexico, was named a City of Gastronomy by UNESCO in recognition of the city's unique food culture. The honor is well known among both residents of the city and tourists who visit. Simply by selecting Mérida, UNESCO has helped bring awareness to local recipes, cooking practices, and chefs and has provided a significant boost to the city's tourism industry.
+Text 2
+Many people in Mérida's restaurant industry hoped that food tourism would increase after the city was chosen as a City of Gastronomy in 2019. However, as researcher Serang Park and colleagues argue, cities must still create effective marketing strategies to benefit fully from being named a City of Gastronomy. Without the intentional effort that was made to promote the city's food scene, many current and potential visitors to Mérida would not even be aware that it's home to uniquely delicious food.
+
+A. The author of Text 1 considers the effects of Mérida's City of Gastronomy status to be less permanent than the author of Text 2 considers them to be.
+B. The author of Text 1 states that the benefits are automatic, while the author of Text 2 states that effort is required to fully achieve the benefits.
+C. The author of Text 1 views Mérida's status as a City of Gastronomy as having been beneficial for the city, but the author of Text 2 questions whether there's been a benefit.
+D. The author of Text 1 assumes that a city's restaurant owners and chefs are most likely to benefit from a city being named a City of Gastronomy, but the author of Text 2 states that the honor most affects tour guides and tour operators
+Answer: B
+
+Question 5:
+[Cross Text]
+Based on the texts, the author of Text 2 would most like to know the answer to which question about Galloway and Brown's study that is not addressed in Text 1?
+
+Text 1:
+The University of Pennsylvania and the investment bank Barclays are two of the many institutions offering training programs in entrepreneurship. But what results do such programs produce? In a study of business students and graduates in Scotland, researchers Laura Galloway and Wendy Brown addressed this question and reported that participants who received entrepreneurial training showed strong intentions to become entrepreneurs.
+Text 2:
+While studies of entrepreneurial training typically report positive results, a close look at these studies reveals widespread methodological shortcomings. This research literature is plagued by unclear hypotheses, insufficient sample sizes, a lack of control groups, and failures to establish pretraining baselines for the measured attributes of participants.
+
+A. Did the participants that Galloway and Brown included in the study share any characteristics or life circumstances?
+B. How many Scottish business students and graduates did Galloway and Brown include in the study?
+C. Did Galloway and Brown measure any attributes of the participants in the study after they had received the training?
+D. Did Galloway and Brown compare Scottish business students and graduates who received the training with a group of successful entrepreneurs who did not receive the training?
+Answer: B
+
+Question 6:
+[Cross Text]
+Based on the texts, what would Salman-Engin and colleagues (Text 1) most likely say about the discussion of the model in Text 2?
+
+Text 1
+Studies contributing to the body of evidence that people generally enjoy socializing have routinely focused on interactions in ongoing relationships (from spouses to classmates), but psychologist Selin Salman-Engin and colleagues have demonstrated the benefit of making connections with strangers. Greater positive affect was reported by participants in their study who warmly thanked a shuttle driver than by those who didn’t speak to the driver.
+Text 2
+Social relations research commonly draws on a model that centers an individual within three concentric circles. The innermost circle holds one's strongest ties (e.g., a treasured friend), the next holds close but less important ties (e.g., a teammate), and the outermost holds weak ties (those more distant but important enough to be counted as part of one’s social network).
+
+A. It underscores that most research on social interactions fails to capture a category of connections that has the capacity to contribute positively to individuals’ sense of well-being.
+B. It reflects an overemphasis on relationship longevity in researchers’ evaluations of the relative importance of various connections in an individual's social network.
+C. It explains researchers’ observations that individuals typically expect interactions with familiar people to be more positive than their interactions with unfamiliar people would be.
+D. It emphasizes distinctions among types of close connections that aren't adequately represented in social relations research, since most studies categorize relationships as either close or casual.
+Answer: A
+
+Question 7:
+[Cross Text]
+Based on the texts, what would the author of Text 2 most likely say in response to the underlined claim in Text 1?
+
+Text 1
+In 2019 Belo Horizonte, Brazil, was named a City of Gastronomy by UNESCO in recognition of the city’s unique food culture. The honor is well known among residents of the city as well as tourists who visit. __It’s obvious that the selection of Belo Horizonte by UNESCO has brought awareness to local recipes, cooking practices, and chefs and has provided a boost to the city’s tourism industry.__
+Text 2
+Many people in Belo Horizonte’s restaurant industry hoped that food tourism would increase after the city was chosen as a City of Gastronomy in 2019. However, as researcher Eerang Park and colleagues argue, cities must still create effective marketing strategies to benefit fully from being named a City of Gastronomy. Without an intentional effort to promote the city’s food scene, many current and potential visitors to Belo Horizonte may not even be aware that it’s home to uniquely delicious food.
+
+A. Many people worked together to help Belo Horizonte be recognized by UNESCO, but chefs deserve the most credit for Belo Horizonte’s selection as a City of Gastronomy.
+B. Belo Horizonte may have benefited from being selected by UNESCO, but tourism can likely be further increased by making more potential visitors aware of the city’s status as a City of Gastronomy.
+C. The naming of Belo Horizonte as a City of Gastronomy was long overdue, given the city’s unique and delicious food.
+D. The benefits of being named a City of Gastronomy extend well beyond tourism.
+Answer: B
+
+Question 8:
+[Cross Text]
+Based on the texts, the author of Text 2 would most likely agree with which statement about the “Gondwanan species” discussed in Text 1?
+
+Text 1
+The island of Grande Terre split from the former supercontinent Gondwana around 80 million years ago, carrying Gondwanan species from a variety of clades with it. The island was periodically submerged until 37 million years ago, but some researchers suggest that its current biota includes species from clades predating the split that took refuge on islands near Grande Terre during submergence events and then returned.
+Text 2
+Thomas R. Buckley et al. found that the crown age—the age of the most recent common ancestor of all species in the clade (i.e., the clade’s founder)—of Grande Terre’s clade of stick insects is 41.1 million years, which is among the oldest clade crown ages of species inhabiting the island today. Nearly all of Grande Terre’s living species belong to clades that originated much more recently: for example, the crown age of the island’s clade of Goodeniaceae plants is 2.0 million years.
+
+A. Most of them began recolonizing Grande Terre from nearby islands around 2.0 million years ago.
+B. Clades to which they belong originated no earlier than 41.1 million years ago.
+C. Few if any of them were members of a clade that includes species currently inhabiting Grande Terre.
+D. Although most of them have living descendants on Grande Terre, the stick insects and Goodeniaceae plants do not.
+Answer: C
+
+Question 9:
+[Cross Text]
+Based on the texts, both authors would most likely agree with which statement?
+
+Text 1
+A conservation group representing 11 tribal nations in the Great Lakes region reported to various state and federal natural resources agencies operating in the region that the northern wild rice plant (manoomin in the Ojibwe language) will likely fare significantly worse than the American crow (aanagé in Ojibwe) due to rising temperatures over the next 50 years. This collaborative approach has helped build trust between government and tribal groups, which will likely improve the quality of any joint conservation projects.
+Text 2
+State and federal natural resources agencies are increasingly incorporating traditional ecological knowledge from tribal groups in the agencies' plans to address threats to natural resources due to increasing temperatures. This approach has helped build positive relationships between tribal groups and these agencies and furthermore tends to lead to better conservation outcomes.
+
+A. A collaborative approach to conservation is likely to help reduce the predicted temperature increases in the Great Lakes region.
+B. In the Great Lakes region, conservation efforts focused on the northern wild rice plant are likely to be more effective than those focused on the American crow.
+C. Natural resources conservation projects are likely to benefit from collaboration between tribal and government groups.
+D. In the Great Lakes region, it is more important to focus conservation efforts on the northern wild rice plant than it is to focus on the American crow.
+Answer: C
+
+Question 10:
+[Cross Text]
+Based on the texts, the author of Text 2 would most likely agree with which statement about Blackwell and colleagues' findings (Text 1)?
+
+Text 1
+In parts of New Zealand, the stoat is a major predator of the house mouse. Researcher G.L. Blackwell and colleagues found that when this predation pressure on house mice was temporarily reduced, their numbers significantly increased. This finding illustrates a foundational ecological principle: predators control prey population numbers.
+Text 2
+François Potvin and colleagues found that excluding wolves from a site in Quebec, Canada, where they typically prey on white-tailed deer had no significant effect on white-tailed deer abundance. Many other predation relief studies show an increase in prey abundance, but those studies often focus on small, rapidly reproducing prey, like birds, mice, and frogs, rather than large, slowly reproducing prey, like white-tailed deer, which could account for the difference between those results and Potvin and colleagues' results.
+
+A. They may have been different if the ratio of the body size of stoats to that of house mice was greater than it is.
+B. They may reflect a response that does not tend to be observed in prey species other than house mice.
+C. They may be partially explained by the fact that stoats are smaller and reproduce more rapidly than wolves.
+D. They may be partially attributable to physical characteristics of house mice that are not shared by white-tailed deer.
+Answer: D
+

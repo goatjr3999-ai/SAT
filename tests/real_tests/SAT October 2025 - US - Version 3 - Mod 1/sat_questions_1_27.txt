@@ -1,0 +1,376 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Microplastics are a common pollutant in large masses of water like glaciers. High concentrations and ______ among particles—variations in size, shape, and material—make it onerous to comprehensively classify the microplastics in a water sample, so Vázquez-Morillas et al. are exploring a device to help quickly and accurately identify certain characteristics.
+
+
+A. restraints
+B. inconsistencies
+C. disruptions
+D. incompatibilities
+Answer: B
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Hawai‘i has a rich literary history that originated with the traditional stories of the Kānaka Maoli, or the Native Hawaiian people. Anwei Skinsnes Law, Imaikalani Kalahele, and other writers have built on this tradition and brought Hawaiian literature to international prominence, ______ the manifold experiences of the Hawaiian people for readers around the world.
+
+
+A. excising
+B. illuminating
+C. presupposing
+D. controlling
+Answer: B
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Analysis of preserved plants cataloged in the Southeast Regional Network of Expertise and Collections indicates that rising temperatures correlate with earlier leaf production, but such specimens represent only brief moments in plants' overall development. ______ this research with studies involving live plants would enable a fuller understanding of how these observed changes affect plant fitness.
+
+
+A. Anticipating
+B. Foregrounding
+C. Categorizing
+D. Complementing
+Answer: D
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Text corpora such as the American National Corpus are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. If one has a ______ that the word “man” has a high incidence in English, for example, an analysis of a corpus can support that hypothesis by showing that “man” is the seventh most commonly used noun.
+
+
+A. recognition
+B. synopsis
+C. scheme
+D. conjecture
+Answer: D
+
+Question 5:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Single-celled foraminifera inhabiting coastal waters experience significant environmental salinity changes during tidal cycles. How, then, do they ______ internal salt levels? Some organisms maintain high concentrations of phosphates that allow them to affect the concentration of internal electrolytes—including salt—in response to external changes. It may be that coastal foraminifera do the same.
+
+
+A. regulate
+B. elude
+C. counteract
+D. tolerate
+Answer: A
+
+Question 6:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+A study by Mohamed Alburaki, Maria Bouga, and colleagues suggests that overall, US honey bee populations exhibit low genetic diversity. Working with a large sample of honey bee specimens collected from most US states, the researchers determined that there are just three maternal evolutionary lineages in the populations: the North Mediterranean lineage, the West Mediterranean lineage, and the African lineage. They found that of the specimens from Oregon, 100% descended from the North Mediterranean lineage—__a finding in keeping with that for the lineage in many of the other states studied.__
+
+
+A. It indicates that a result described earlier in the sentence reflects a widespread trend.
+B. It acknowledges that the results of the study discussed in the text are not entirely consistent with the researchers’ hypothesis.
+C. It summarizes the central conclusions of the study that is discussed in the text.
+D. It expands on the claim made earlier in the sentence by providing specific data.
+Answer: A
+
+Question 7:
+[Details]
+Which choice best describes the function of the underlined portions in the text as a whole?
+
+In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Quito, Ecuador, and Bogotá, Colombia, were surveyed about parks in their cities. *__Of the 618 respondents from Quito__*, 82.9% indicated that they use the city’s parks, and *__of the 1,121 respondents from Bogotá__*, 71.9% indicated using city parks. Given that the percentage of Quito respondents who reported living within a 10-minute walk of a park was much lower than that reported by Bogotá respondents, greater proximity alone can’t explain the difference in park use.
+
+
+A. They introduce counterexamples to the scenario described earlier in the text.
+B. They present potential explanations for the team’s findings that the text goes on to refute.
+C. They provide information about the sizes of the samples the researchers collected.
+D. They mark a shift from a discussion of the researchers’ conclusion to a discussion of their methods.
+Answer: C
+
+Question 8:
+[COE]
+Which choice best states the overall structure of the text?
+
+The following text is from George Eliot’s 1857 short story “The Sad Fortunes of the Rev. Amos Barton.” In the text, the narrator addresses the reader directly and alludes to a discussion among Rev. Amos Barton’s neighbors.
+It was happy for the Rev. Amos Barton that he did not, like us, overhear the conversation recorded in the last chapter. Indeed, what mortal is there of us, who would find his satisfaction enhanced by an opportunity of comparing the picture he presents to himself of his own doings, with the picture they make on the mental retina of his neighbours? We are poor plants buoyed up by the air-vessels of our own conceit: alas for us, if we get a few pinches that empty us of that windy self-subsistence! The very capacity for good would go out of us.
+
+
+A. The narrator suggests that a character’s neighbors disdain him and then uses an extended comparison to suggest that the reasons for his negative reputation are likely legitimate.
+B. The narrator expresses relief that a disagreement was resolved more expediently than expected and then indicates how the situation might have gone differently.
+C. The narrator comments on the fact that a character remains unaware of how he is viewed by others and then generalizes about the problem of learning others’ opinions of one’s own actions.
+D. The narrator summarizes an earlier episode involving a specific character and then predicts how it will eventually affect that character later in the story.
+Answer: C
+
+Question 9:
+[Structure]
+Which choice best states the main idea of the text?
+
+The following text is adapted from María Amparo Ruiz de Burton’s 1885 novel The Squatter and the Don. Mercedes and Clarence, who develop a romantic relationship in the novel, have been traveling with a group of friends.
+[Mercedes] was still very pale, and her hands yet trembled, when the thundering of the east-bound train was heard in the distance. Two shrieks pierced the air simultaneously, as the two trains passed each other. Her heart gave accelerated throbs when she heard those shrieks, because she knew that one of them came from the train which bore Clarence away, and it seemed to her as if expressive of his pain at being torn from her. Yes, that magician, the locomotive, understood it all, and shrieked to say he did so, because he knew she, too, wished to shriek like that.
+
+
+A. Clarence does not enjoy traveling by train.
+B. Mercedes feels heartbroken to be separated from Clarence.
+C. Mercedes hopes that Clarence has a pleasant journey.
+D. The sounds at the train station irritate Mercedes.
+Answer: B
+
+Question 10:
+[COE]
+Based on the text, what can be concluded about clothing made during the Ice Age?
+
+Ian Gilligan et al. claim that during the Ice Age, humans at Yafteh Cave in Southwest Asia made fitted clothing by boring holes in pieces of hide and fur with a sharpened bone tool called an awl and then threading cord through the holes to bind the pieces together. Eventually, as evidenced by artifacts at Xiaogushan in East Asia, someone perforated the end of a bone awl to make an eye (hole) to hold the cord, thereby creating a sewing needle with which both steps could be performed in a single motion. This sped up the process of making clothing and, by freeing them from the need to push cord through holes manually, allowed artisans to make smaller holes and thus finer seams.
+
+
+A. Clothing made with awls at sites like Yafteh Cave likely had coarser seams than clothing made with needles at sites like Xiaogushan did.
+B. Clothing made with awls at sites like Yafteh Cave likely had finer seams than clothing made with needles at sites like Xiaogushan did.
+C. Clothing made with awls at sites like Yafteh Cave could likely be made more quickly than clothing made with needles at sites like Xiaogushan.
+D. Clothing made at sites like Yafteh Cave was likely made with needles, while clothing made at sites like Xiaogushan was likely made with awls.
+Answer: A
+
+Question 11:
+[COE]
+The bear with the greatest approximate weight shown in the table was the bear with identification number ______.
+
+Scientists collected information about brown bears in Katmai National Park in Alaska. This information included each bear’s sex, age, and approximate weight.
+**Brown Bears in Katmai National Park, Alaska**
+
+
+
+A. 127.
+B. 130.
+C. 156.
+D. 183.
+Answer: C
+
+Question 12:
+[COE]
+Which choice most effectively uses data from the table to complete the assertion?
+
+An intern at a publishing house who is writing a report needs to determine whether there are any book genres for which the average price of a paperback book declined from 2016 to 2019. Consulting the table, she finds that this was the case for the genre of ______.
+**Average Paperback Prices, 2016–19**
+
+
+
+A. body, mind, and spirit.
+B. psychology.
+C. humor.
+D. history.
+Answer: B
+
+Question 13:
+[COE]
+Which finding, if true, would most directly support the US transportation experts’ claim?
+
+As of 2023, Turkey has 1,015 kilometers of high-speed rail lines in operation and 614 kilometers under construction; in Finland, 1,120 kilometers are in operation with 201 kilometers under construction. In contrast, the United States has a relatively low amount of high-speed rail for its size: only 735 kilometers of high-speed rail in operation and 1,789 kilometers under construction. Many US transportation experts argue that this should change, claiming that high-speed rail is more cost-effective than highway systems are.
+
+
+A. In most locations in the US, increasing highway capacity is more expensive relative to the volume of traffic that can be accommodated than increasing high-speed rail capacity is.
+B. Building successful high-speed rail infrastructure would require that the US government establish a fund to maintain the rail lines long-term.
+C. Unlike people in the United States, people in Turkey and Finland are less interested in traveling by highway than they are in traveling by high-speed rail.
+D. In much of the US, the existing rail infrastructure is so old that it would have to be replaced entirely in order to accommodate high-speed trains.
+Answer: A
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Chemists M.H. Gamble, P. Rice, and J.D. Selman studied the mass and heat transfer processes that occur when foods, such as the Indian snacks boondi and paneer pakora, are oil fried. During frying, water in the crust evaporates, leaving voids that oil (a pure fat) can fill. As the process continues, water from the food’s center moves to the crust as long as the crust remains permeable. Therefore, it is likely that, all other things being equal, sections of a food that lose less moisture during the frying process ______
+
+
+A. will have a crust that loses its permeability less quickly during the frying process than sections that lose more moisture.
+B. will develop a thicker crust during the frying process than sections that lose more moisture.
+C. will have a higher temperature after frying is completed than sections that lose more moisture.
+D. will have a lower fat content after frying is completed than sections that lose more moisture.
+Answer: D
+
+Question 15:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Lines of code written in Fortran, a programming language used for processing scientific data, ______ translated into executable commands by a tool called a compiler. As a result, Fortran is commonly referred to as a compiled language.
+
+
+A. are typically
+B. was typically
+C. has typically been
+D. is typically
+Answer: A
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Curator Patricia Ononiwu Kaishian assembled the 2025 exhibition *Outcasts: Mary Banning’s World of Mushrooms* at the New York State Museum in Albany with a twofold ______ the contributions of Banning, a pioneering 19th-century mycologist, and drawing attention to the museum’s historically significant mycology collection.
+
+
+A. purpose, recognizing:
+B. purpose recognizing
+C. purpose: recognizing
+D. purpose; recognizing
+Answer: C
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Established in 1935 for the specific purpose of installing electrical systems in rural areas of the US, ______ helped the nation recover from the Great Depression.
+
+
+A. the US government in many ways, just one of which was the Rural Electrification Administration (REA),
+B. the Rural Electrification Administration (REA) was just one of many ways the US government
+C. the US government's many ways, just one of which was the Rural Electrification Administration (REA),
+D. many ways, just one of which was the Rural Electrification Administration (REA), were how the US government
+Answer: B
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Notable for their colorful feather accents and elaborate ______ Pomo artist Susan Billy’s baskets are not simply practical objects: they are striking works of art.
+
+
+A. construction:
+B. construction,
+C. construction
+D. construction.
+Answer: B
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A bias toward studying animals over plants was one of the many shortcomings researcher Sonia Llorente-Culebras and her team ______ analyzing nearly 400 biodiversity studies from around the globe.
+
+
+A. discovered while
+B. discovered, while
+C. discovered: while
+D. discovered. While
+Answer: A
+
+Question 20:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Zinc and cadmium are among the elements contained in the salty, concentrated brine that remains after seawater is desalinated. Elements can be extracted from this brine in much the same way that materials are mined from the earth. ______ recovering materials from desalination by-products is known as brine mining.
+
+
+A. Fittingly,
+B. Next,
+C. Rather,
+D. Granted,
+Answer: A
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Many influential studies of British Romanticism by Paul de Man and other scholars have focused on the period’s most prominent poets, such as John Keats, the author of “Ode to Psyche.” A 2022 essay by scholar Stacey McDowell, ______ spotlights a Romantic-era poet whose work, though significant, is less widely known and studied: Ann Yearsley (1753–1806).
+
+
+A. for example,
+B. indeed,
+C. likewise,
+D. by contrast,
+Answer: D
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Charles Ginnever's steel sculpture *Prospect Mountain Project* is displayed at Storm King Art Center, an outdoor sculpture park in New York. ______ it endures rain, snow, heat, and humidity. Ginnever's sculpture is particularly well suited to withstand these elements, though, because it is made of corrosion-resistant steel.
+
+
+A. Nevertheless,
+B. In addition,
+C. There,
+D. However,
+Answer: C
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As technology has advanced, many countries have sought to gain an advantage in, or even control parts of, space and its celestial bodies. _____ it is the 1967 Outer Space Treaty—signed by Austria, Finland, and over 100 other nations—that curtails these ambitions and ensures that space remains a neutral place for the international community.
+
+
+A. Consequently,
+B. Specifically,
+C. Alternatively,
+D. Ultimately,
+Answer: D
+
+Question 24:
+[Synthesis]
+The student wants to indicate where the Yukon River is located. Which choice most effectively uses relevant information from the notes to accomplish thisgoal?
+
+While researching a topic, a student has taken the following notes:
+• The Yukon River is 1,980 kilometers long.
+• It is in North America.
+• It ranks No. 23 among the longest rivers in the world.
+• The Rhine River is 768 kilometers long.
+• It is in Europe.
+• It ranks No. 129 among the longest rivers in the world.
+
+
+A. The Yukon River is located in North America.
+B. The Yukon and Rhine rivers are among the longest rivers in the world.
+C. The Yukon River is 1,980 kilometers long.
+D. The Rhine River is ranked No. 129 among the longest rivers in the world.
+Answer: A
+
+Question 25:
+[Synthesis]
+The student wants to compare the relative abundance of calcium on Earth to that of strontium. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• An element's relative abundance in a given environment can be expressed as a mass fraction, mole fraction, or volume fraction.
+• Mass fraction is the ratio of an element's mass to the combined mass of all elements in a given environment.
+• The mass fraction of calcium is 17,100 parts per million (ppm) on Earth.
+• The mass fraction of strontium is 13 ppm on Earth.
+
+
+A. Calcium's mass relative to the combined mass of all elements on Earth is 17,100 ppm.
+B. The relative abundance of calcium and strontium on Earth can be expressed as a mass fraction, mole fraction, or volume fraction.
+C. On Earth, strontium is far less abundant than calcium, based on the mass fraction of the two elements.
+D. Unlike strontium, calcium has a mass fraction on Earth of 17,100 ppm.
+Answer: C
+
+Question 26:
+[Synthesis]
+The student wants to indicate the name of the artist who created the prize-winning sculpture Modulation d'espace II. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The Carnegie Prize is an international art competition.
+• It is administered by the Carnegie Museum of Art in Pittsburgh, Pennsylvania.
+• One Carnegie Prize gold medal winner is Eduardo Chillida of Spain.
+• Chillida's sculpture *Modulation d'espace II* was honored in 1964.
+
+
+A. The Carnegie Prize is an international art competition administered by the Carnegie Museum of Art.
+B. The prize-winning sculpture Modulation d'espace II is by the artist Eduardo Chillida.
+C. In 1964, an artist from Spain won a Carnegie Prize gold medal.
+D. The Carnegie Museum of Art in Pittsburgh, Pennsylvania, administers a competition honoring outstanding artworks.
+Answer: B
+
+Question 27:
+[Synthesis]
+The student wants to compare how Charpentier and Helmholtz describe the mood of E minor. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• In music theory, the term "key" refers to the set of musical notes that forms the foundation of a piece of music.
+• In *Règles de Composition* (1682), French composer Marc-Antoine Charpentier describes the moods of various musical keys.
+• He describes the key of E minor as "amorous."
+• In *On the Sensations of Tone* (1863), German physicist Hermann von Helmholtz undertakes the same task.
+• He describes the key of E minor as "restlessness."
+• "Eleanor Rigby" by the Beatles (1966) is a song written in E minor.
+
+
+A. The song “Eleanor Rigby” by the Beatles is written in the key of E minor, the mood of which has been described as "amorous."
+B. The key of E minor is one of various keys, which are sets of musical notes that form the foundations of pieces of music.
+C. Charpentier describes the mood of E minor as “amorous,” while Helmholtz describes it as “restlessness.”
+D. Charpentier and Helmholtz each undertook the task of describing the mood of various keys, including E minor.
+Answer: C

@@ -1,0 +1,376 @@
+Question 1:
+[WIC]
+As used in the text, what does the word "frugal" most nearly mean?
+
+The following text is Emily Dickinson's circa 1873 poem "There is no Frigate like a Book." A frigate is a light, fast ship; coursers are swift horses.
+There is no Frigate like a Book
+To take us Lands away
+Nor any Coursers like a Page
+Of prancing Poetry—
+This Traverse may the poorest take
+Without oppress of Toll—
+How __frugal__ is the Chariot
+That bears the Human soul.
+
+
+A. Inexpensive
+B. Stingy
+C. Prevalent
+D. Thoughtful
+Answer: A
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The results of randomized clinical trials testing the efficacy of common medical interventions sometimes fail to _____ conclusions that practitioners reach based on their real-world observations of patients. While there are several possible reasons for this, one is that practitioners may overlook confounding variables that account for the results they attribute to the interventions in question.
+
+
+A. implement
+B. circumvent
+C. corroborate
+D. disseminate
+Answer: C
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Sarah Marquis, who walked 16,000 kilometers across Asia, Siberia, and Australia, undoubtedly accomplished much, but her place in our historical memory is perhaps more _____ than that of a noteworthy “first” such as Anésia Pinheiro Machado, who was the first female pilot in Brazil to carry passengers and the first to make stunt flights, a deed for which she will always be remembered.
+
+
+A. indefatigable
+B. conspicuous
+C. peripheral
+D. commendable
+Answer: C
+
+Question 4:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+With a shell that measured 1.7 meters, the extinct mollusk Parapuzosia seppenradensis is the largest ammonite in the fossil record. Ever since fossilized remains of this species were discovered in 1895, scientists have been perplexed by its size. After examining 154 ammonite fossils including some of P. seppenradensis from Montana and Parapuzosia leptophylla (a smaller ammonite species) from England, paleontologist Christina Ifrim, Andrew S. Gale, and colleagues concluded that P. seppenradensis may have evolved from P. leptophylla and gradually increased in size as larger ammonites were better able to escape being preyed on by mosasaurs.
+
+
+A. It states a long-standing scientific assumption and then shows how recent research has overturned that assumption.
+B. It describes a scientific mystery and then discusses a research team’s attempt to solve that mystery.
+C. It compares fossils found in Montana and England and then points out which of those fossils provides more information.
+D. It notes the discovery of a new ammonite species and then remarks on the importance of that discovery.
+Answer: B
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Companies involved in petroleum distribution hold petroleum stockpiles among their assets, which as social attitudes increasingly favor using less carbon-intensive sources of energy, could become liabilities if their market value falls below what companies have invested to acquire and maintain them. This phenomenon is known as “asset stranding” and poses an existential threat to these companies. The significance to investors of the potential for stranding is evident, and companies ought to disclose such risks to them, __but it is no less important to ensure that when unsustainable companies involved in petroleum distribution cease operations, those companies’ employees are assisted in their transitions to other jobs.__
+
+
+A. It expands on an earlier discussion about one group with interests in companies involved in petroleum distribution by introducing another group whose interests the text implies may be less apparent than the first group’s are.
+B. It describes one group’s interest in companies involved in petroleum distribution as obvious in contrast to another group’s less obvious interest mentioned earlier in the text.
+C. It discusses how companies involved in petroleum distribution failed to disclose certain liabilities and how that failure affects two groups introduced earlier in the text.
+D. It provides general background information on a phenomenon that is discussed in relation to each of two different groups mentioned earlier in the text.
+Answer: A
+
+Question 6:
+[COE]
+The text suggests that the narrator's initial perception of Mr. Holloway, upon starting his employment, was that of a
+
+This excerpt is from Diana Miller's novel, The Apprentice, first released in 2001.
+My initial salary had been dispensed, and as I made my way back to my dwelling, a gratifying sense pervaded me that my employer had begrudgingly parted with every cent of my meager earnings—(My previous view of Mr. Holloway as a kinsman had long since faded—he revealed himself to be an oppressive taskmaster, aspiring to nothing more than the role of a merciless despot). Potent, though repetitive, thoughts consumed me; an internal dialogue ensued, with two voices reiterating the same refrains. The first declared, "Julian, your existence is unbearable." The second questioned, "What power do you have to change it?" My pace quickened against the biting chill of a January evening.
+
+
+A. benign competitor.
+B. supportive confederate.
+C. discerning critic.
+D. rigorous guide.
+Answer: B
+
+Question 7:
+[COE]
+It can be inferred that the author of the passage mentions predators primarily in order to
+
+When marine organisms called phytoplankton photosynthesize, they absorb carbon dioxide dissolved in seawater, potentially causing a reduction in the concentration of atmospheric carbon dioxide, a gas that contributes to global warming. However, phytoplankton flourish only in surface waters where iron levels are sufficiently high. Martin therefore hypothesized that adding iron to iron-poor regions of the ocean could help alleviate global warming. While experiments subsequently confirmed that such a procedure increases phytoplankton growth, field tests have shown that such growth does not significantly lower atmospheric carbon dioxide. When phytoplankton utilize carbon dioxide for photosynthesis, the carbon becomes a building block for organic matter, but the carbon leaks back into the atmosphere when **__predators__** consume the phytoplankton and respire carbon dioxide.
+
+
+A. help explain why Martin’s hypothesis is incorrect
+B. identify one effect of adding iron to iron-poor waters
+C. indicate how some carbon dioxide is converted to solid organic matter
+D. help account for differences in the density of phytoplankton between different regions of the ocean
+Answer: A
+
+Question 8:
+[COE]
+Which quotation from a translation of Uncle Vanya most effectively illustrates the claim?
+
+"*Uncle Vanya: Scenes from Country Life in Four Acts*" is an 1898 play by Anton Chekhov, originally written in Russian. In the play, Professor Serebryakov and his wife Helena have come to stay at their country estate, which Vanya manages with the help of Sonia, the professor's daughter from a previous marriage. Chekhov portrays the professor as being unable to adjust to living at the country estate, as is evident when ______.
+
+
+A. Professor Serebryakov says, "I am a book-worm and a scholar, and am unfamiliar with practical affairs. I cannot, I find, dispense with the help of well-informed people."
+B. Professor Serebryakov says to Helena, "I am used to my library and the lecture hall and to the esteem and admiration of my colleagues. Now I suddenly find myself plunged into this wilderness [the estate] and condemned to see the same stupid people from morning till night and listen to their futile conversations."
+C. Professor Serebryakov says to Helena, "Of course I see that it is foolish for me to live so long, but what I shall soon set you all free. My life cannot drag on much longer."
+D. Vanya says to himself, "I was proud of [Professor Serebryakov] and of his learning. I received all his words and writings as inspired and now? Now he has retired, and what is the total of his life? A blank!"
+Answer: B
+
+Question 9:
+[COE]
+Which finding, if true, would most directly support the second research team’s hypothesis?
+
+Water flowing around an obstruction creates vortices (patterns of swirls) of varying size; by detecting the vortices, fish can determine the size and position of the obstruction. Testing by Yuzo R. Yanagisuru, Otar Akanyeti, and James C. Liao using models of three head shapes—narrow (low ratio of width to length), intermediate, and wide (high ratio of width to length)—showed that for large vortices, fish with intermediate heads would be better able than wide-headed fish to distinguish between vortices and general turbulence in the water. A second research team has therefore hypothesized that in low-visibility conditions, intermediate-headed fish will be more likely than wide-headed fish to detect obstructions that create large vortices.
+
+
+A. A study using obstructions that created large vortices in low-visibility conditions found that the devil catfish (Bagarius bagarius), which has a relatively wide head, bumped into more than half of the obstructions.
+B. A study using obstructions that created large vortices in low-visibility conditions found that the wide-headed devil catfish (Bagarius bagarius) bumped into obstructions more often than the intermediate-headed rainbow trout (Oncorhynchus mykiss) did.
+C. A study using obstructions that created large vortices in low-visibility conditions found that the intermediate-headed rainbow trout (Oncorhynchus mykiss) bumped into the obstructions just as often as the wide-headed devil catfish (Bagarius bagarius) did.
+D. A study using obstructions that created large vortices in low-visibility conditions found that some specimens of the intermediate-headed rainbow trout (Oncorhynchus mykiss) bumped into the obstructions more often than other specimens of the same fish did.
+Answer: B
+
+Question 10:
+[COE]
+Which finding, if true, would best support the linguist’s hypothesis?
+
+The Quechua language of the Andes in South America has 18 distinct vowel and consonant sounds, while the Xhosa language of southern Africa has 80. What might account for this variation in sound complexity across languages? One linguist proposes that when early humans originated in Africa, they communicated with a single language. As humans dispersed across Africa and eventually around the world, this language diversified. With each migration, new languages formed from the original, each retaining fewer sounds from humanity’s first language.
+
+
+A. Languages that developed in northern South America tend to have more sounds than languages that emerged in East Asia do, even though northern South America is farther from Africa than East Asia is.
+B. Languages that originated in southern Europe tend to have fewer sounds than languages that developed in East Asia do, and southern Europe is closer to Africa than East Asia is.
+C. Languages that emerged in Central Asia tend to have more sounds than languages that developed in East Asia do, and Central Asia is closer to Africa than East Asia is.
+D. Languages that emerged in Southeast Asia tend to have more sounds than languages that developed in East Asia do, even though the two regions are about the same distance from Africa.
+Answer: C
+
+Question 11:
+[Details]
+Which choice best states the function of the underlined sentence in the text as a whole?
+
+Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship__. While horizontal gene transfer is common among prokaryotes—single-celled organisms, such as the bacteria *Brevibacillus borstelensis* and *Lactococcus lactis*—it has rarely been observed among eukaryotes (multicellular organisms)__. However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought.
+
+
+A. It indicates a distinction between the mechanics of two kinds of biological processes.
+B. It contrasts the frequency with which a biological phenomenon has been detected in two categories of organisms.
+C. It explains why a common perception of a biological process is flawed.
+D. It argues that two biological phenomena are more similar than they may initially appear to be.
+Answer: B
+
+Question 12:
+[COE]
+Which finding, if true, would most directly support the second research team’s hypothesis?
+
+Water flowing around an obstruction creates vortices (swirls) that vary in size with the obstruction’s size and position, and fish sense these vortices to navigate around the obstructions. Using models of three fish with head shapes—narrow (less than half of body width to length), intermediate, and wide (high ratio of width to length)—Yuza R. Amagai and Atar Akarye, and James L. Liao showed that as vortex size increases, pressure fluctuations at the snout increase for narrow-headed fish but remain low for wide-headed fish. A second research team has therefore hypothesized that in low visibility, a fish will be more likely to avoid an obstruction when the associated pressure fluctuations at the fish’s snout are greater.
+
+
+A. A study using obstructions that created large vortices in low-visibility conditions found that the narrow-headed longnose gar (Lepisosteus osseus) bumped into the obstructions just as often as the wide-headed oyster toadfish (Opsanus tau) did.
+B. A study using obstructions that created large vortices in low-visibility conditions found that the wide-headed oyster toadfish (Opsanus tau) bumped into obstructions more often than the narrow-headed longnose gar (Lepisosteus osseus) did.
+C. A study using obstructions that created large vortices in low-visibility conditions found that some specimens of the narrow-headed longnose gar (Lepisosteus osseus) bumped into the obstructions more often than other specimens of the same fish did.
+D. A study using obstructions that created large vortices in low-visibility conditions found that the oyster toadfish (Opsanus tau), which has a relatively wide head, bumped into more than half of the obstructions.
+Answer: B
+
+Question 13:
+[COE]
+Which choice most effectively uses data from the graph to complete the assertion?
+
+To understand the extent of deforestation in the Chorotega region of Costa Rica, Juan Pablo Arroyo-Mora and colleagues used historical aerial photography and remote sensing data to track changes in the forest cover area across different land use capability classes (categories that indicate possible uses of forest land). Due to the Chorotega region’s climate, various types of forested areas were converted to cattle pasture as rising international meat prices drove a cattle ranching boom in the 1960s and 1970s. By the mid-1980s, however, increased public awareness and environmental reforms, along with a decline in meat prices, triggered a natural regrowth process, as evident by the____
+
+
+
+A. increase in the forest cover area for all classes from 1979 to 2000.
+B. similarity in forest cover area in Class I-IV and Class VII in 1986.
+C. difference between the forest cover area in Class I-IV and in Class VII in 2000.
+D. decrease in the forest cover area for all classes from 1960 to 1979.
+Answer: A
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+The oceanic whitetip shark and the Pacific halibut are ectothermic (cold-blooded) fish, whereas the shortfin mako shark and the yellowfin tuna are regional endotherms—they retain metabolic heat resulting in body temperatures above the ambient water temperature. Modeling the effect of falling ambient temperatures on ectotherms indicated to researchers Haley R. Dolton and colleagues that ectotherms’ body temperatures inexorably decrease toward the ambient temperature. Data from wild basking sharks show that even though their body temperature consistently remains 1.0 to 1.5°C above ambient, it also declines as the ambient temperature falls. This suggests that the body temperatures of the ______.
+
+
+A. Yellowfin tuna and the shortfin mako shark are likely to be more variable than the body temperature of the basking shark.
+B. Basking shark and the shortfin mako shark remain fixed even as ambient water temperature changes, while the body temperature of the Pacific halibut changes with variations in the ambient water temperature.
+C. Basking shark and the yellowfin tuna remain fixed even if the ambient water temperature changes, while the body temperature of the oceanic whitetip shark varies even if the ambient temperature is stable.
+D. Pacific halibut and the basking shark are at least partly determined by the ambient water temperature.
+Answer: D
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+Chelsea Wood et al. tracked temperature-driven changes in the abundance of *Gonocerca* sp. (a complex life cycle parasite, or CLP, that requires three host species throughout its life cycle), *Gyrodactylus* sp. (a directly transmitted parasite, which requires only one host species), and 83 other parasite taxa found on eight fish species. CLPs are transmitted when an infected host is ingested by an individual of another species, typically shielding CLPs from the external environment, whereas directly transmitted parasites are exposed to external conditions during transmission. However, Wood et al. found that three-host CLP abundance decreased as sea temperatures rose, whereas directly transmitted parasite abundance was largely stable, suggesting that ______.
+
+
+A. as the number of host species involved in a parasite’s transmission increases, the parasite is better protected against rising temperatures.
+B. directly transmitted parasites identified in the study were more likely to use transmission strategies that shield them from warming temperatures than were three-host CLPs.
+C. CLPs primarily transmitted by ingestion were less dependent on host species adversely affected by warming temperatures than were CLPs that use other transmission strategies.
+D. any advantages that the transmission strategy used by three-host CLPs may have conferred did not completely offset the negative effects of other temperature-driven factors on CLP abundance.
+Answer: D
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Topographical prominence is a measure of a mountain’s independence from other mountains. Having 13,199 feet of prominence, _____
+
+
+A. geographers have ranked Mount Rainier, a peak in the United States, as the world’s 21st most prominent mountain.
+B. the list of mountains geographers rank as the world’s most prominent includes Mount Rainier, a peak located in the United States, at number 21.
+C. Mount Rainier, a peak located in the United States, is ranked by geographers as the world’s 21st most prominent mountain.
+D. the ranking given by geographers to Mount Rainier, a peak located in the United States, is 21st most prominent mountain in the world.
+Answer: C
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Trade with neighboring civilizations contributed to the success of the Srivijaya Empire, which reigned in Southeast Asia from around 600 CE to 1200 CE. By supplying tin, medicines, and wood to societies that lacked these valuable _______ Srivijaya Empire grew not only in wealth but also in power and influence.
+
+
+A. items, the
+B. items. The
+C. items; the
+D. items the
+Answer: A
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Quadrantid meteor shower has a zenithal hourly rate (ZHR) of 110, meaning that at the shower's peak, 110 meteors per hour could potentially be seen by a hypothetical observer. A calculation that assumes ideal viewing conditions, _______.
+
+
+A. the number of meteors an actual viewer observes in an hour may differ considerably from the ZHR.
+B. there may be a considerable difference between the number of meteors an actual viewer observes in an hour and the ZHR.
+C. an actual viewer's observed number of meteors in an hour and the ZHR may differ considerably.
+D. the ZHR may differ considerably from the number of meteors an actual viewer observes in an hour.
+Answer: D
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Should Italy cut taxes? As of 2017, Italy’s top tax rate (55%) was lower than the highest point on the country’s Laffer curve. A theoretical relationship between tax rates and revenues, the curve can be used to determine whether tax cuts will ultimately increase a country’s tax revenue, according to some ___ 2017 data suggested that Italy was below the threshold for a tax cut.
+
+
+A. economists; as the
+B. economists the
+C. economists. The
+D. economists, the
+Answer: C
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The realist framework of international relations emphasizes state sovereignty, prioritizing national security over supranational cooperation. However, the Geneva-based Conflict Research Group has analyzed an anomalous political structure in the nation of ______ in the autonomous region of Rojava, these administrators are both implementing distinct democratic confederalism and challenging the Westphalian state model.
+
+
+A. Syria; where,
+B. Syria where
+C. Syria; where
+D. Syria, where,
+Answer: D
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Every US state has an associated state soil, which is typically selected by a group of experts, then passed through the state legislature to receive its official designation. For example, Arkansas’s Stuttgart soil was formally designated in 1997, and Maine’s Chesuncook soil in 1999. _____ years pass between a soil’s selection and official designation, as the legislative process can be notoriously slow.
+
+
+A. Often,
+B. Therefore,
+C. Similarly,
+D. Indeed,
+Answer: A
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Though Middle English was widely spoken in fourteenth-century England, the English language was rarely employed in literature until poet Geoffrey Chaucer pioneered its literary use. ______ his manuscripts contain the first documented uses of over 2,000 English words—like the word “digestion” in his 1395 poem “The Squire’s Tale”—which led a contemporary to dub him “the first finder of our fair language.”
+
+
+A. However,
+B. Besides,
+C. In fact,
+D. On the contrary,
+Answer: C
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Researchers in France claim that leopards and brown bears are among the twenty most “charismatic” animals (defined as “attractive, fascinating, or appealing”). To create their top-twenty list, researchers used survey data from Western Europe. European attitudes toward leopards and brown bears might not be shared around the world, _____
+
+
+A. of course.
+B. in other words.
+C. for example.
+D. in particular.
+Answer: A
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A team led by Portuguese researcher Isabel C.F.R. Ferreira found that many species of mushrooms contain chemicals called phenolic compounds, such as protocatechuic acid and biochanin. _____ Ferreira detected protocatechuic acid in Agaricus bisporus mushrooms and biochanin in Ganoderma lucidum mushrooms.
+
+
+A. Nevertheless,
+B. However,
+C. For this reason,
+D. For example,
+Answer: D
+
+Question 25:
+[Synthesis]
+The student wants to describe the process of relief printing. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Bread is a 1968 black-and-white linocut print by Black American artist Elizabeth Catlett.
+• It features a young girl eating a slice of bread.
+• Relief printing is a technique in which an image is first carved onto a printing block made of wood, rubber, or other materials.
+• The block is then painted and stamped onto a print surface.
+• Lino cutting is a type of relief printing that uses linoleum tile as the printing block.
+
+
+A. Relief printing is a technique that can use wood, rubber, and other materials as the printing block, not just linoleum tile.
+B. Catlett used a relief printing technique called lino cutting, carving an image onto linoleum tile.
+C. Catlett used relief printing to create the 1968 linocut Bread.
+D. In relief printing, an image is carved onto a printing block, which is then painted and pressed onto a print surface.
+Answer: D
+
+Question 26:
+[Synthesis]
+The student wants to refute a claim that blueberries are a better source of vitamin C than broccoli is. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Broccoli is a vegetable that contains ascorbic acid, an essential nutrient for humans.
+•Blueberries are fruits that contain ascorbic acid.
+•There is 90 milligrams (mg) of ascorbic acid per every 100 grams (g) of broccoli.
+•There is 10 mg of ascorbic acid per every 100 g of blueberries.
+•Humans cannot make ascorbic acid in their bodies, so they must get it from foods, including fruits and vegetables.
+•Ascorbic acid is also known as vitamin C.
+
+
+A. Broccoli contains vitamin C (also known as ascorbic acid); in fact, there is 90 mg of vitamin C in every 100 g of broccoli.
+B. Broccoli contains ascorbic acid (also known as vitamin C), and blueberries do too.
+C. Humans cannot make ascorbic acid in their bodies, but they can get it from broccoli and blueberries.
+D. With 90 mg of vitamin C per every 100 g, broccoli is actually a better source of vitamin C than blueberries, which contain only 10 mg per every 100 g.
+Answer: D
+
+Question 27:
+[COE]
+Which choice most effectively uses information from the given sentences to make and support a generalization about symbols on flags?
+
+While researching a topic, a student has taken the following notes:
+•Vexillology is the study of flags.
+•The flags of many countries include symbols like animals, plants, or landforms.
+• These symbols often represent an aspect of the region’s history, culture, or landscape.
+• The flag of Kazakhstan includes an eagle.
+• The flag of Slovenia includes Triglav mountain.
+
+
+A. Many countries feature symbols on their flags, and the study of these designs is known as vexillology.
+B. Kazakhstan’s flag includes an eagle, a symbol that is important to that country’s national identity.
+C. Vexillology is the study of flags; accordingly, vexillologists are interested in flags from around the world.
+D. The flags of some countries include symbols of animals; Kazakhstan’s, for example, includes an eagle.
+Answer: D

@@ -1,0 +1,124 @@
+Question 1:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is from Bram Stoker’s 1911 novel The Lair of the White Worm. Adam is meeting his great-uncle Richard at a port.
+The meeting so auspiciously begun proceeded well. Adam, seeing that the old man was interested in the novelty of the ship, suggested that he should stay the night on board, and that he would himself be ready to start at any hour and go anywhere that the other suggested. This affectionate willingness to fall in with his own plans quite won the old man’s heart. He warmly accepted the invitation, and at once they became not only on terms of affectionate relationship, but almost like old friends.
+
+A. It describes why Adam and his great-uncle Richard are excited for their upcoming journey on the ship.
+B. It contrasts great-uncle Richard’s wary first impressions of Adam with his ultimate affection toward him.
+C. It showcases how Adam’s flexibility and consideration strengthen his relationship with his great-uncle Richard.
+D. It states the reasons why Adam and his great-uncle Richard decide to sleep on the ship rather than finding lodging on land.
+Answer: C
+
+Question 2:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Founded in Long Beach, California, in 1996, the Museum of Latin American Art is dedicated to modern and contemporary art by Latin American artists and Latino artists in the United States. Since its founding, it has acquired more than 1,300 objects for its permanent collection. More recently founded US-based institutions devoted to Latino cultures include Casa de Rosado. Located in Lansing, Michigan, it focuses on the arts and cultures of Latino communities in Michigan.
+
+A. To trace a historical development that encouraged the founding of two institutions
+B. To trace the founding of two institutions, including how they acquired funding to purchase artworks
+C. To present information about two institutions, including each institution’s area of focus
+D. To draw a contrast between the collection sizes of two institutions
+Answer: C
+
+Question 3:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is adapted from Jerome K. Jerome's 1889 novel Three Men in a Boat (To Say Nothing of the Dog).
+"We [people] are creatures of the sun. We love light and life. That is why we crowd into the towns and cities, and the country grows more and more deserted every year. In the sunlight—in the daytime, when Nature is alive and busy all around us, we like the open hill-sides and the deep woods well enough; but in the night, when our Mother Earth has gone to sleep, and left us waking, oh! the world seems so lonesome, and we get frightened, like children in a silent house. Then we sit and sob, and long for the gas-lit streets, and the sound of human voices, and the answering throb of human life."
+
+A. To address common traits that motivate many people to choose to live in urban environments
+B. To indicate that people sometimes experience feelings of isolation in crowded areas
+C. To illustrate the idea that most people tend to prefer hillsides in the country to certain aspects of towns and cities
+D. To caution people not to be so quick to dismiss the natural beauty that can be found in rural areas
+Answer: A
+
+Question 4:
+[Structure]
+Which choice best states the main idea of the text?
+
+At over a thousand pages across two volumes, The Fifty-Year Mission, compiled by Edward Gross and Mark A. Altman, is presented as the “complete, uncensored, unauthorized oral history” as told by the people behind the media franchise Star Trek. The work aspires to be comprehensive by, for example, including accounts from cast and crew members of every Star Trek television series and film to date. But while The Fifty-Year Mission is clearly a unique and valuable resource, it has a shortcoming common among oral histories: it lacks a clear authorial point of view that could otherwise unite the various accounts into a cohesive whole.
+
+A. The Fifty-Year Mission includes more accounts from people involved with Star Trek television shows than it does from people involved with Star Trek films.
+B. The compilers of The Fifty-Year Mission had lofty goals for their oral history of the Star Trek franchise, but the published work lacks information about many key events in the franchise’s history.
+C. The large amount of material compiled into The Fifty-Year Mission is surprising given that many of the people involved in the Star Trek franchise did not participate in the oral history project.
+D. The Fifty-Year Mission represents a worthwhile attempt to thoroughly recount the history of the Star Trek franchise, but its approach has an important limitation.
+Answer: D
+
+Question 5:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Researchers César A. Hidalgo, Elisa Castañer, and Andres Sevtsuk created a computer model to predict the mix of hotels, bicycle stores, and other businesses found in a given neighborhood. How we define a neighborhood and its boundaries is subjective, so the team used a clustering algorithm to locate dense groupings of amenities that represent human-identified neighborhoods like Boston’s North End. The predictive model, which incorporates this algorithm, is sure to be invaluable in determining the optimal mix of a city’s amenities.
+
+A. It describes how an algorithm can predict the success of certain businesses, discusses an example of a use of that algorithm, and suggests potential uses of the algorithm in other fields.
+B. It explains why urban planners are interested in understanding the locations of certain businesses, details a study that has addressed this question, and identifies one key finding.
+C. It summarizes trends in recent urban development, describes a potential problem for urban planners, and suggests a computational tool that can be used to solve that problem.
+D. It introduces a research team’s study of urban neighborhoods, describes an aspect of the study’s methodology, and suggests a potential application of the team’s research.
+Answer: D
+
+Question 6:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Mexican architect Luis Barragán’s prolific career, which spanned the 1920s to the 1980s, evolved through distinct phases. After traveling to the United States and Europe in the early 1930s and immersing himself in a broader architectural discourse, Barragán shifted his style to incorporate principles of modernism, as seen in the Plazaro Suárez House. The project’s unadorned geometric forms, typical of the modernist aesthetic, contrasted with the historically inspired architecture seen in his earlier projects in Guadalajara, such as the house in Calle Pedro Loza.
+
+A. It summarizes the career of a particular architect, states how a journey influenced that architect’s career, and then emphasizes how influential that architect’s career has been.
+B. It presents a general claim about a particular architect’s career, describes the early stages of the architect’s career, and then explains a later shift in that career.
+C. It explains the design aesthetic of a particular architect, acknowledges the sources of those design choices, and then contrasts that aesthetic with the designs of earlier architects.
+D. It provides a general statement about the career of a particular architect, highlights a transition in that career, and then expounds on the ways that transition is evident in the architect’s work.
+Answer: D
+
+Question 7:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Though John Crowley, author of The Translator, is not as well known as the most widely read American writers of the past fifty years, his work has had several influential champions, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley’s book Little, Big, Bloom argues that the novel adroitly blends what playwright Friedrich Schiller termed the naive and sentimental modes—while Schiller thought works could be classified as either naive (seeking to describe reality) or sentimental (seeking to develop ideas), Little, Big fuses both modes of writing.
+
+A. It accounts for a writer’s lack of popular appeal, cites a literary figure who appreciates that writer, and summarizes the qualities that make the writer’s work unique.
+B. It identifies a writer whose work is regarded as difficult to read, brings up two admirers of that writer’s work, and gives information that may make the writer’s work more accessible to new readers.
+C. It mentions a writer whose work is not widely known, presents two people who hold a positive opinion of that writer, and gives a reason why one of those people holds that opinion.
+D. It describes a writer’s successful career, presents two literary figures who were supporters of that writer’s career, and explains why the writer was able to achieve what he did.
+Answer: C
+
+Question 8:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Joel Brown and colleagues showed that high moonlight intensity inhibits the activity of the Arizona pocket mouse (Perognathus amplus), a result explicable in terms of benefits and costs: greater lunar intensity may not enable the mice to increase foraging success enough to offset the higher chance of detection by predatory owls or hawks. Most other nocturnal mammals respond to lunar intensity variations similarly to Arizona pocket mice, but Azara's night monkeys (Aotus azarae) display the opposite pattern, as their heavy reliance on visual foraging results in a different balance of reward and risk.
+
+A. It introduces an observation of a behavioral pattern, presents an explanation for the pattern, and then describes an exception to the pattern that casts doubt on that explanation.
+B. It describes and accounts for a finding, characterizes the finding as representative of a general pattern, and then describes and accounts for an exception to that pattern.
+C. It discusses two different responses to the same natural phenomenon, explains why one of those responses occurs, and then suggests that the other response still needs to be explained.
+D. It presents and explains a study result, indicates that the result is similar to the results of many other studies, and then attributes a conflicting study result to a difference in that study's methods.
+Answer: B
+
+Question 9:
+[Structure]
+Which choice best states the main idea of the text?
+
+The following text is from a translation of María Dueñas’s 2009 novel The Time in Between. The narrator has just rented an apartment and is entering it for the first time.
+"Over the years there have been many times when my destiny has delivered me unexpected moments, unforeseen twists and turns that I’ve had to handle on the fly as they appeared. Occasionally I was ready for them; very often I wasn’t. Never, however, was I so aware of entering a new stage as I was that afternoon in October when I finally dared to cross the threshold and my steps sounded hollowly in the unfurnished apartment. Behind me was a complicated past, and in front of me, like an omen, I could see a space opening out, a great empty space that time would take care of filling up."
+
+A. The narrator feels optimistic about the future success of a new business.
+B. The narrator has always had a plan for how to handle big moments in her life.
+C. The narrator recognizes that a particular moment marks a major shift in her life.
+D. The narrator wants to express her gratitude for the people who have helped her.
+Answer: C
+
+Question 10:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is adapted from Matthew Arnold’s 1869 nonfiction book Culture and Anarchy.
+The Times , replying to some foreign strictures on the dress, looks, and behavior of the English abroad, urges that the English ideal is that everyone should be free to do and to look just as he likes. But culture indefatigably tries, not to make what each raw person may like, the rule by which he fashions himself; but to draw ever nearer to a sense of what is indeed beautiful, graceful, and becoming, and to get the raw person to like that.
+
+A. It argues that what is beautiful is a matter of fact rather than opinion.
+B. It analyzes the unique sense of taste of the English.
+C. It indicates that opinions regarding culture shift over time.
+D. It makes a claim about one of the principal effects of culture.
+Answer: D
+

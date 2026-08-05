@@ -1,0 +1,193 @@
+Question 1:
+Two right circular cones, Cone A and Cone B, are designed to have equal volumes. For Cone A, its height is defined to be one-sixth of its radius. For Cone B, its height is four-thirds of its radius. Which of the following represents the ratio of the lateral surface area of Cone A to the lateral surface area of Cone B?
+Volume of a cone: {{MATH_1}}
+Lateral area: πrℓ
+
+A. {{MATH_2}} / 5
+B. 2{{MATH_2}} / 5
+C. {{MATH_3}} / 5
+D. 8{{MATH_2}} / 5
+Answer: B
+
+Question 2:
+A right circular cylinder has a radius of 12 centimeters and a volume of {{MATH_39}} cubic centimeters. What is the height, in centimeters, of the cylinder?
+
+A. 4
+B. 9
+C. 17
+D. 36
+Answer: C
+
+Question 3:
+In the given expression, {{MATH_4}} is a positive integer. If {{MATH_5}} is a factor of the expression, where {{MATH_6}} and {{MATH_7}} are positive integers, what is the greatest possible value of {{MATH_4}}? (Giải mẹo)
+{{MATH_8}}
+
+Answer: 2041
+
+Question 4:
+The functions f and g are defined by the given equations, where 𝑥 ≥ 0. Which of the following equations displays, as a constant or coefficient, the maximum value of the function it defines, where x ≥ 0 ?
+{{MATH_9}}
+{{MATH_10}}
+
+A. I only
+B. II only
+C. I and II
+D. Neither I nor II
+Answer: B
+
+Question 5:
+Which expression is equivalent to {{MATH_40}}, where x > π ?
+
+A. {{MATH_41}}
+B. {{MATH_42}}
+C. {{MATH_43}}
+D. {{MATH_44}}
+
+Answer: B
+
+Question 6:
+Rectangle ABCD and EFGH are similar. The length of each side of EFGH is 10 times the length of the corresponding side of ABCD. The area of ABCD is 100 square units. What is the area, in square units, of EFGH?
+
+A. 10
+B. 100
+C. 1,000
+D. 10,000
+Answer: D
+
+Question 7:
+In the given equation, k is an integer constant.
+x(kx – 40) = –8
+If the equation has two distinct real solutions, what is the greatest possible value of k?
+
+Answer: 49
+
+Question 8:
+Rectangle ABCD is similar to rectangle EFGH. The area of rectangle ABCD is 648 square inches, and the area of rectangle EFGH is 72 square inches. The length of the longest side of rectangle ABCD is 36 inches. What is the length, in inches, of the longest side of rectangle EFGH?
+
+A. 4
+B. 9
+C. 12
+D. 36
+Answer: C
+
+Question 9:
+In the given equation, k and n are constants and {{MATH_11}}.
+{{MATH_12}}
+The equation has no solution. What is the value of k? (điền đ-p -n dạng ph-n số)
+
+Answer: -13/14
+
+Question 10:
+A right circular cone has a volume of {{MATH_45}} cubic centimeters and the area of its base is {{MATH_46}} square centimeters. What is the slant height, in centimeters, of this cone?
+
+A. 12
+B. 15
+C. 36
+D. 39
+Answer: D
+
+Question 11:
+Data set A and data set B each have 11 values. Which of the following statements best compares the median of data set A and the median of data set B?
+Data set A: 2, 2, 2, 5, 5, 8, 11, 11, 14, 14, 14
+Data set B: 2, 5, 5, 8, 8, 8, 8, 8, 11, 11, 14
+
+A. The median of data set A is greater than the median of data set B.
+B. The median of data set A is less than the median of data set B.
+C. The medians of data sets A and B are equal.
+D. There is not enough information to compare the medians.
+Answer: C
+
+Question 12:
+The graph of the polynomial function f in the xy-plane, where y = f(x), has x-intercepts of (−3, 0) and (6, 0). Which of the following must be true?
+
+A. f(0) = −3
+B. f(6) = −3
+C. f(−3) = 0
+D. f(−3) = 6
+Answer: C
+
+Question 13:
+In the given system of equations, a is a constant.
+{{MATH_13}}
+{{MATH_14}}
+The graphs of the equations in the given system intersect at exactly one point, {{MATH_15}}, in the x y-plane. What is the value of x?
+
+A. -8
+B. -6
+C. 6
+D. 8
+Answer: C
+
+Question 14:
+Right rectangular prism X is similar to right rectangular prism Y. The surface area of right rectangular prism X is 59 square centimeters (cm^{2}), and the surface area of right rectangular prism Y is 1,475 cm^{2}. The volume of right rectangular prism Y is 1,500 cubic centimeters (cm^{3}). What is the sum of the volumes, in cm^{3}, of right rectangular prism X and right rectangular prism Y?
+
+Answer: 1512
+
+Question 15:
+The floor of a library has an area of 9375 square feet. An architect creates a scale model of the floor of the library, where the length of each side of the model is {{MATH_47}} times the length of the corresponding side of the floor of the actual library. What is the area, in square feet, of the scale model?
+
+A. 15
+B. 150
+C. 225
+D. 375
+Answer: A
+
+Question 16:
+Cristina was elected to the city council. Each city council person is required to attend at least 21 of the 27 scheduled council meetings in a year to keep their position. Which inequality represents the number of city council meetings, x, Cristina must attend in a year to keep her position on the city council?
+
+A. x ≤ 21
+B. x ≥ 48
+C. 21 ≤ x ≤ 27
+D. 27 ≤ x ≤ 48
+Answer: C
+
+Question 17:
+In the xy-plane, a circle has center C with coordinates (h, k). Points A and B lie on the circle. Point A has coordinates {{MATH_16}}, and {{MATH_17}} is a right angle. What is the length of {{MATH_18}}?
+
+A. {{MATH_19}}
+B. {{MATH_20}}
+C. {{MATH_21}}
+D. {{MATH_22}}
+Answer: B
+
+Question 18:
+A 12-pound cat eats two types of canned cat food: chicken-flavored and duck-flavored. The recommended amount of chicken-flavored food is 3.25 cans per 6 pounds of a cat-s weight per day. The recommended amount of duck-flavored food is 0.75 cans per 5 pounds of a cat-s weight per day. If {{MATH_23}} is the number of chicken-flavored cans and {{MATH_24}} is the number of duck-flavored cans a 12-pound cat eats in one day, which equation describes all the possible values of {{MATH_23}} and {{MATH_24}} for the cat to eat the recommended amount of food based on its weight?
+
+A. {{MATH_25}}
+B. {{MATH_26}}
+C. {{MATH_27}}
+D. {{MATH_28}}
+Answer: D
+
+Question 19:
+In the {{MATH_29}}-plane, circle M is the graph of the equation {{MATH_30}}, where a is a positive constant. Circle V is obtained by shifting circle M 12a units to the right. Which equation represents circle V?
+
+A. {{MATH_31}}
+B. {{MATH_32}}
+C. {{MATH_33}}
+D. {{MATH_34}}
+Answer: D
+
+Question 20:
+A real estate company offers a series of three webinars. 2,000 people attended the first webinar. 65% of the people who attended the first webinar attended the second webinar, and 44% of the people who attended both the first and second webinar attended the third webinar. Of those who attended the first but did not attend the second webinar, 31% attended the third webinar: How many people attended both the first and third webinars but did not attend the second webinar?
+
+Answer: 217
+
+Question 21:
+Square P has a side length of x inches. Square Q has a perimeter that is 32 inches greater than the perimeter of square P. The function f gives the area of square Q, in square inches. Which of the following defines f?
+
+A. {{MATH_48}}
+B. {{MATH_49}}
+C. {{MATH_50}}
+D. {{MATH_51}}
+
+Answer: A
+
+Question 22:
+The function {{MATH_35}}4 gives a toy car-s height above the ground {{MATH_36}}, in inches, x seconds after it started moving on an elevated track, where {{MATH_37}}. Which of the following is the best interpretation of the vertex of the graph of {{MATH_38}} in the xy-plane?
+
+A. The toy car-s minimum height was 4 inches above the ground.
+B. The toy car-s minimum height was 6 inches above the ground.
+C. The toy car-s height was 4 inches above the ground when it started moving.
+D. The toy car-s height was 6 inches above the ground when it started moving.
+Answer: A

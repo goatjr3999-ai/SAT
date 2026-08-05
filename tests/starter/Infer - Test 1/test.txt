@@ -1,0 +1,130 @@
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+Some Astyanax mexicanus, a river‐dwelling fish found in northeast Mexico, have colonized caves in the region. Although there is little genetic difference between river and cave A. mexicanus and all members of the species can emit the same sounds, biologist Carole Hyacinthe and colleagues found that the context and significance of those sounds vary by location—e.g., the click that river‐dwelling A. mexicanus use to signal aggression is used by cave dwellers when foraging—and the acoustic properties of cave fish sounds show some cave‐specific variations as well. Hyacinthe and colleagues note that differences in sonic communication could accumulate to the point of inhibiting interbreeding among fish from different locations, suggesting that ____.
+
+
+A. although A. mexicanus living in rivers are genetically similar to those living in caves, river fish rely on sonic communication less than cave fish do.
+B. although A. mexicanus is a single species at present, it could be in the process of splitting into distinct populations with different characteristics.
+C. although all A. mexicanus emit sounds, the fish living in rivers produce some sounds that the fish living in caves do not, and vice versa.
+D. although A. mexicanus from different locations can interbreed currently, river fish and cave fish are sufficiently genetically distinct that they can be considered separate species.
+Answer: B
+
+Question 2:
+[Infer]
+Which choice most logically completes the text?
+
+During their larval phase, numerous species of coral reef fish are drawn toward areas where light is present. To better understand how artificial light at night (ALAN) might affect some coral reef fish, researchers explored the effect of exposure to low levels of ALAN on the reproductive success of the common clownfish (*Amphiprion ocellaris*). While exposure to low levels of ALAN had no significant effect on spawning frequency and egg fertilization in *A. ocellaris*, incubation in the presence of ALAN completely inhibited hatching. These findings suggest that ____.
+
+
+A. A. ocellaris that settle in areas with low levels of ALAN have significantly higher rates of successful egg fertilization than A. ocellaris that settle in areas without ALAN do.
+B. the reproductive success of A. ocellaris would be at risk if they were to selectively settle in regions that are regularly exposed to low levels of ALAN.
+C. the reproductive success of A. ocellaris is more greatly affected by the presence of low levels of ALAN during incubation than the reproductive success of other species of coral reef fish is.
+D. the spawning frequency of A. ocellaris was more strongly affected by the presence of low levels of ALAN than egg fertilization was, though both were less affected than incubation.
+Answer: B
+
+Question 3:
+[Infer]
+Which choice most logically completes the text?
+
+Researchers Suchithra Rajendran and Maximilian Poppinger modeled varying levels of passenger redistribution from short-haul flights (flights of 50 to 210 minutes, from airfield to landing) to high-speed rail trips. Planes travel faster than trains, but air travel typically requires 3 hours of lead time for security, baggage handling, and boarding that rail travel doesn’t, so short-haul routes take similar amounts of time by air and by rail. However, the model suggests that as rail passenger volumes approach current capacity limits, long lead times emerge. Therefore, for rail to remain a viable alternative to short-haul flights, ____.
+
+
+A. rail systems should offer fewer long-haul routes and airlines should offer more long-haul routes.
+B. rail systems may need to schedule additional trains for these routes.
+C. security, baggage handling, and boarding procedures used by airlines may need to be implemented for rail systems.
+D. passengers who travel by rail for these routes will need to accept that lead times will be similar to those for air travel.
+Answer: B
+
+Question 4:
+[Infer]
+Which choice most logically completes the text?
+
+In a three‐year study of parasitic infections by *Anomotaenia brevis* tapeworms in *Temnothorax nylanderi* ants, entomologist Susanne Foitzik and colleagues found something unexpected: rather than reducing its host’s fitness, as is typical of parasites, *A. brevis* greatly extends the lifespan of a *T. nylanderi* worker ant and seems to halt the effects of aging. Furthermore, those infected receive special treatment, ceasing their share of labor to sustain the colony and remaining in the nest as uninfected workers feed, groom, and transport them. By contrast, the researchers observed that uninfected workers in parasitized colonies have shortened lifespans, most likely because the ____.
+
+
+A. uninfected workers are at high risk for direct exposure to A. brevis in the course of providing social care to the infected workers in the nest.
+B. need to compensate for reduced contributions within the colony while also caring for infected workers is burdensome to the uninfected workers.
+C. high level of activity maintained by the uninfected workers makes them better able than infected workers to quickly disperse when the nest is attacked by a predator.
+D. average lifespan of T. nylanderi worker ants in colonies without parasitic activity typically falls well below three years, the range covered by the study.
+Answer: B
+
+Question 5:
+[Infer]
+Which choice most logically completes the text?
+
+Indigenous cultures possess unique knowledge of the medicinal uses of plants. According to a 2021 study, 73 percent of the medicinal uses of plants native to North America are reflected in the vocabulary of a single Indigenous language. However, as more and more Indigenous people exclusively speak a globally dominant language, such as English, their ancestral languages fade from daily use. These facts lend added importance to tribal nations’ efforts to preserve their languages. By ensuring the continued use of Cherokee, Ojibwe, and the hundreds of other Indigenous languages in what is now the United States, tribal nations are also ____ .
+
+
+A. increasing the number of medicinal plants represented in the vocabularies of Indigenous languages.
+B. transmitting terms for medicinal plants from Indigenous languages to globally dominant languages.
+C. preserving knowledge about the medicinal value of plants native to the tribal nations’ lands.
+D. ensuring that citizens of tribal nations have physical access to medicinal plants.
+Answer: C
+
+Question 6:
+[Infer]
+Which choice most logically completes the text?
+
+Compiled in the late 1500s largely through the efforts of Indigenous scribes, *Cantares Mexicanos* is the most important collection of poetry in Classical Nahuatl, the principal language of the Aztec Empire. The poems portray Aztec society before the occupation of the empire by the army of Spain, and marginal notes in *Cantares Mexicanos* indicate that much of the collection’s content predates the initial invasion. Nonetheless, some of the poems contain inarguable references to beliefs and customs common in Spain during this era. Thus, some scholars have concluded that ____.
+
+
+A. while its content largely predates the invasion, Cantares Mexicanos also contains additions made after the invasion.
+B. although those who compiled Cantares Mexicanos were fluent in Nahuatl, they had limited knowledge of the Spanish language.
+C. before the invasion by Spain, the poets of the Aztec Empire borrowed from the literary traditions of other societies.
+D. the references to beliefs and customs in Spain should be attributed to a coincidental resemblance between the societies of Spain and the Aztec Empire.
+Answer: A
+
+Question 7:
+[Infer]
+Which choice most logically completes the text?
+
+Overgrazing by purple sea urchins has caused many kelp forests along North America’s west coast to be replaced by urchin barrens—areas stripped of vegetation and covered in purple sea urchins. Urchins in barrens persist in a state of starvation that lessens their nutritional value—and thus their appeal—to many predators. Sarah Gravem and colleagues placed sunflower sea stars, a once‐abundant predatory species suffering massive population declines in recent years, in aquariums that each contained a nutritionally poor and a nutritionally rich purple sea urchin. The researchers found that the sea stars selected the nutritionally rich urchin in 42.7% of trials and the nutritionally poor urchin in 37.5% of trials, suggesting that ____.
+
+
+A. sunflower sea stars are willing to hunt sea urchins, but if given a choice, they will prey on other more nutritious marine animals instead.
+B. sunflower sea stars are reluctant to feed on both nutritionally poor and nutritionally rich sea urchins and are therefore unlikely to thrive in kelp forests.
+C. sunflower sea stars are less likely to consume sea urchins in barrens than other species of sea stars are, putting sunflower sea stars at a high risk of extinction.
+D. sunflower sea stars do not always avoid foraging on nutritionally poor sea urchins, making sunflower sea star population recovery a potentially important tool for controlling urchin barrens.
+Answer: D
+
+Question 8:
+[Infer]
+Which choice most logically completes the text?
+
+In 2022, Crystal Reeck and colleagues studied whether the decision‐making modes that guide consumers influence their choice between nonenvironmentally friendly standard electricity plans and environmentally friendly green plans that cap electricity usage. Study participants who self‐reported using either an Affect Mode or Role Mode—which prioritize choices that have a stronger positive emotional or social impact, respectively—were more likely to select a green plan. Conversely, participants using a Calculation Mode—which aims to minimize both financial cost and personal inconvenience—were more likely to select a standard plan, even when the green option was cheaper. This finding suggests that participants using a Calculation Mode ____.
+
+
+A. were equally unlikely to factor the financial savings of the green plan into their decision‐making as were participants using either the Affect or Role Modes.
+B. may have been less strongly motivated to appear socially responsible with their choice of plan than they realized.
+C. may have determined that the green plan imposed additional burdens on them that were not sufficiently offset by the potential financial savings.
+D. were less likely to believe that the green plan was truly cost‐effective than were participants using either the Affect or Role Modes.
+Answer: C
+
+Question 9:
+[Infer]
+Which choice most logically completes the text?
+
+Archaeologists and historians used to believe that the Maya civilization during its Classic period (roughly 250–900) lacked agricultural marketplaces. One reason for this belief was that these scholars misunderstood the ecology of the regions the Maya inhabited. Marketplaces typically emerge because different individuals or groups want to trade resources they control for resources they don’t control. Scholars seriously underestimated the ecological diversity of the Maya landscape and thus assumed that ____.
+
+
+A. marketplaces likely would not have attracted many traders from outside the regions controlled by the Maya.
+B. farming practices would have been largely the same throughout Maya lands even if the crops produced varied significantly.
+C. marketplaces would not have enabled Maya people to acquire many products different from those they already produced.
+D. farmers would trade agricultural products only if they had already produced enough to meet their own needs.
+Answer: C
+
+Question 10:
+[Infer]
+Which choice most logically completes the text?
+
+Marta Coll and colleagues’ 2010 Mediterranean Sea biodiversity census reported approximately 17,000 species, nearly double the number reported in Carlo Bianchi and Carla Morri’s 2000 census—a difference only partly attributable to the description of new invertebrate species in the interim. Another factor is that the morphological variability of microorganisms is poorly understood compared to that of vertebrates, invertebrates, plants, and algae, creating uncertainty about how to evaluate microorganisms as species. Researchers’ decisions on such matters therefore can be highly consequential. Indeed, the two censuses reported similar counts of vertebrate, plant, and algal species, suggesting that ____.
+
+
+A. Coll and colleagues reported a much higher number of species than Bianchi and Morri did largely due to the inclusion of invertebrate species that had not been described at the time of Bianchi and Morri’s census.
+B. Some differences observed in microorganisms may have been treated as variations within species by Bianchi and Morri but treated as indicative of distinct species by Coll and colleagues.
+C. Bianchi and Morri may have been less sensitive to the degree of morphological variation displayed within a typical species of microorganism than Coll and colleagues were.
+D. The absence of clarity regarding how to differentiate among species of microorganisms may have resulted in Coll and colleagues underestimating the number of microorganism species.
+Answer: B
+

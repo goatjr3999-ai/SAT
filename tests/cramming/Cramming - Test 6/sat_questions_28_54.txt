@@ -1,0 +1,377 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Yupno people of the remote Finisterre Range of Papua New Guinea do not measure age and have no artificial means (e.g., clocks) of tracking time, but this does not imply that the Yupno are _____ time. As Rafael Núñez and colleagues have recently shown, the Yupno language contains many temporal expressions, such as usa-don sonda, which translates to “next week.”
+
+
+A. inattentive to
+B. dependent on
+C. meticulous about
+D. preoccupied with
+Answer: A
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+A study revealed that in March 2023, 8.3 percent of users canceled their subscriptions to streaming platforms. Addressing this level of user attrition presents a significant hurdle for service providers: subscribers’ initial excitement about a new service frequently begins to ____, prompting companies to explore additional strategies to sustain engagement.
+
+
+A. wane
+B. revitalize
+C. amalgamate
+D. rectify
+Answer: A
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Studying menus from nineteenth-century restaurants, advertisements for defunct amusement parks, and posters promoting long-forgotten plays may seem like a frivolous pursuit, but ephemeral objects like these are useful as markers of cultural change: they can ___ shifts in norms, values, and concerns that traditional objects of historical inquiry may not.
+
+
+A. induce
+B. vindicate
+C. evince
+D. preclude
+Answer: C
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In his analysis of works by James Joyce and other renowned English-language novelists, Ben Blatt discovered that high rates of -ly adverbs are rarely found in critically acclaimed literature; his findings suggest that a ______ of such modifiers may actually enhance a novel's perceived literary merit.
+
+
+A. paucity
+B. profusion
+C. manifestation
+D. predilection
+Answer: A
+
+Question 5:
+[Structure]
+What choices best state the main purpose of the passage?
+
+Since the Hawaiian Islands have never been connected to other land masses, the great variety of plants in Hawaii must be a result of the long-distance dispersal of seeds, a process that requires both a method of transport and an equivalence between the ecology of the source area and that of the recipient area. There is some dispute about the method of transport involved. Some biologists argue that ocean and air currents are responsible for the transport of plant seeds to Hawaii. Yet the results of flotation experiments and the low temperatures of air currents cast doubt on these hypotheses. More probable is bird transport, either externally, by accidental attachment of the seeds to feathers, or internally, by the swallowing of fruit and subsequent excretion of the seeds. While it is likely that fewer varieties of plant seeds have reached Hawaii externally than internally, more varieties are known to be adapted to external than to internal transport.
+
+
+A. discussing different approaches biologists have taken to testing theories about the distribution of plants in Hawaii
+B. discussing different theories about the transport of plant seeds to Hawaii
+C. discussing the extent to which air currents are responsible for the dispersal of plant seeds to Hawaii
+D. resolving a dispute about the adaptability of plant seeds to bird transport
+Answer: B
+
+Question 6:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Puck and other nineteenth- and early twentieth-century US general-interest periodicals included contributions by various individual writers but often strove to display a single, broadly appealing style and perspective. Accordingly, scholars long characterized the genre of mass-media periodicals as having __erased the distinctiveness of individual voices in service of commercial aims.__ More recently, scholars have complicated this picture by showing that Half-Century Magazine and other titles from the period that were marketed to Black women featured a more heterogeneous mix of voices.
+
+
+A. It notes an enduring tension within commercial publishing that the text later attempts to resolve.
+B. It presents a broad critique of nineteenth- and early twentieth-century US periodicals that is explained in more detail later in the text.
+C. It presents a negative view of nineteenth- and early twentieth-century US periodicals that is qualified later in the text.
+D. It reveals why the publications referenced earlier in the text have historically been neglected by literary scholars.
+Answer: C
+
+Question 7:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+The Life of Martin R. Delany is one of twenty-five works from the nineteenth and early twentieth centuries reissued in 2020 in a project professing to give overdue credit to authors by replacing nonfemale pseudonyms with the authors’ given female names (crediting Frances Rollin Whipper rather than Frank A. Rollin, in this case). Claire Jarvis and other scholars cite a lack of nuance and erasure of intention in the implication that pseudonymous identities were invariably necessary due to social roles, appropriately contending that what may have been a constraint for some was an elective exercise in self-fashioning for others.
+
+
+A. The Life of Martin R. Delany is cited as a prominent work from a literary movement, a study of the movement’s defining features is mentioned, and then one of the study’s insights is presented.
+B. A literary project is briefly described, the stance taken by Jarvis and others in response to that project is introduced, and then support for that stance is expressed.
+C. An assertion about a literary project is reported, the team of scholars that advanced the assertion is identified, and then the reasoning behind the assertion is summarized.
+D. Details about a reissue of The Life of Martin R. Delany are given, a question about the authorship of that work is raised, and then the circumstances of the work’s original publication are considered.
+Answer: B
+
+Question 8:
+[Structure]
+Which choice best states the main idea of the text?
+
+Studies of ocean wave breaking have predominantly focused on traveling waves (those propagating along the horizontal plane), so Mark McAllister et al. utilized a circular water tank to produce and study spike waves, axisymmetric standing waves that can erupt vertically when traveling waves propagating in opposing directions intersect. Traveling waves break when wave steepness (height-to-length ratio) passes a critical threshold; breaking thus constrains wave height. McAllister et al. found that spike waves can exceed that constraint, as do other factors than just steepness (e.g., jet stability and cavity shape) mediate spike-wave breaking.
+
+
+A. McAllister et al. suggest that spike waves can form when traveling waves propagating in opposing directions intersect and that spike waves tend to be higher than traveling waves.
+B. The process of breaking limits the height of traveling waves, but the study by McAllister et al. suggests that spike waves can exceed those limits if their height-to-length ratio reaches a critical threshold.
+C. The study by McAllister et al. suggests that when traveling waves intersect in specific ways, the resulting wave may be higher than would be expected based on the properties of traveling waves.
+D. Previous studies have suggested that steepness mediates breaking in traveling waves, but the study by McAllister et al. shows that jet stability and cavity shape may also influence breaking in such waves.
+Answer: C
+
+Question 9:
+[COE]
+Which choice most effectively uses data from the table to challenge the student's hypothesis?
+
+**** To evaluate the efficacy of a new bio-fertilizer, a team of agronomists measured the average crop yield for three different soil types before and after the fertilizer's application over one growing season. The results are presented in the table below. After reviewing the data, a student hypothesizes that the application of this new bio-fertilizer consistently leads to an increase in crop yield.
+**Average Crop Yield ( kg/hectare ) Before and After Bio-Fertilizer Application**
+
+
+
+A. The crop yield for Sandy Loam soil was observed to be 500 kg/hectare greater after the application of the bio-fertilizer than it was before the application.
+B. All three soil types demonstrated post-application yields exceeding 2,500 kg/hectare , though the yield for Clay soil was initially the lowest.
+C. A significant improvement was recorded for Clay soil, where the crop yield rose by 1,000 kg/hectare after the bio-fertilizer was introduced.
+D. Although the crop yield for Silty Clay soil remained high after the application, it showed a decrease from the yield that was measured before the application.
+Answer: D
+
+Question 10:
+[COE]
+Which finding, if true, would most directly weaken the student’s claim?
+
+Geneticist Elaine Ostrander led an international collaboration in which Jocelyn Plassais and other researchers investigated the evolutionary history of size variation in modern dogs. The researchers identified multiple versions of the gene regulating the production of IGF-1 (insulin-like growth factor 1) in dogs and found that dogs of the same breed consistently share the same version of the gene. In a discussion of the study, a student hypothesizes that small breeds of dogs (for example, toy poodles) must share a version that represses IGF-1 production that would otherwise confer larger body size.
+
+
+A. The majority of the most prevalent dog breeds have limited activity in the gene that regulates IGF-1 production.
+B. The gene that regulates IGF-1 production is not the only gene that influences body size in dogs but is the only such gene that shows within-breed version consistency.
+C. The degree of size variation among dogs is greater than that of any other land-based mammal.
+D. Some breeds with small body sizes and low IGF-1 concentrations have a different version of the gene regulating IGF-1 production than do toy poodles.
+Answer: D
+
+Question 11:
+[COE]
+Which finding from Davis and Chen's study, if true, would most directly weaken the claim made by psychologists who hold the conventional view of motivation?
+
+Psychologists who hold a conventional view of motivation argue that publicly declaring a personal goal does not alter an individual's likelihood of achieving that goal. To test this claim, researchers Amir Davis and Li Chen conducted a year-long study focused on individuals attempting to learn a new complex skill. The study made a distinction between subjects who were part of a group encouraged to announce their goal on social media (roughly half of whom did so) and a comparable group of subjects who were instructed not to make any public announcement. Davis and Chen then compared the self-reported satisfaction levels of the two groups of subjects one year after the study began.
+
+
+A. Subjects' ultimate sense of success was best predicted by their pre-existing levels of determination, regardless of which group they were in.
+B. The group that kept their goals private expressed greater fulfillment at the end of the year than they had initially predicted they would.
+C. Members of the group that announced their intentions were far more likely to report feelings of either extreme success or extreme failure than were members of the group that made no announcement.
+D. A similar tendency to report disappointment about their progress was observed across both the group that made a public statement and the one that did not.
+Answer: C
+
+Question 12:
+[Infer]
+Based on the text, what would be the most reasonable next step for the students to take to accomplish their goal?
+
+In 2002, the US state of Minnesota enacted rate stability regulations (RSRs), constraining insurance companies’ latitude to raise premiums (the recurring fees policyholders pay to maintain insurance policies) once policies are in effect. Although RSRs are intended to benefit consumers, Naoki Aizawa and Ami Ko note that RSRs could curtail insurers’ profits to such a degree that insurers abandon the market, thereby reducing the competitive pressure that typically restrains premium prices for newly issued policies. To determine whether this occurred in Minnesota, students first collect data on the number of insurers in the state for a few years leading up to and following 2002 and the premium prices for new policies offered by those insurers.
+
+
+A. Compare changes over time in the insurer-number data the students have collected with changes over time in insurer-number data from another state that enacted RSRs but not during the same period
+B. Compare changes over time within each of the two types of data the students have collected with changes over time in analogous data for the same period from an otherwise similar state that had not enacted RSRs
+C. Compare changes over time within each of the two types of data the students have collected with changes over time in the same types of data from Minnesota for a period beginning several years after 2002
+D. Compare changes over time in the premium price data the students have collected with changes over time in premium prices for policies that were already in effect during the same period in an otherwise similar state that had not enacted RSRs
+Answer: B
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+Ethnographers have spent decades analyzing the traditional songs of Indigenous peoples around the world. Only recently, however, have ethnographers started to recognize that many Indigenous songs encode and transmit valuable ecological knowledge—citing, for instance, songs of the Kwakwaka’ wakw people in British Columbia, Canada, that share vital information about clam gardens, and those of the Sakha people in Siberia, Russia, that address the effects of climate change on local ecosystems. It seems likely, therefore, that ethnographers may want to ________
+
+
+A. reconsider their view that the transmission of ecological knowledge is an important function of some Indigenous songs.
+B. reexamine some of their earlier analyses of Indigenous peoples' songs in light of this new perspective.
+C. explore the possibility that the Kwakwaka’ wakw people were influenced by the songs of the Sakha.
+D. place greater emphasis on the use of Indigenous songs by individuals than on the songs' roles in society.
+Answer: B
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+India has classified the spiraling whitefly as an invasive species that could harm some of the country’s native species. But researchers Alejandro Camacho and Jason McLachlan have pointed out that "invasive" and "native" are labels that describe temporary circumstances. Changes in Earth’s climate may force animals from their current ranges. Climate changes may also create good habitats in areas where a species couldn’t live previously. In the case of India, these observations suggest that ___
+
+
+A. the country’s designation of the spiraling whitefly as invasive may be appropriate now but not in the future.
+B. it’s useful at present for the country to distinguish between invasive and native species in some instances but not in the case of the spiraling whitefly.
+C. even if Earth’s climate doesn’t change in the way scientists predict, the spiraling whitefly will likely establish itself in the country.
+D. the country was previously home to some spiraling whiteflies but they were outcompeted by invading species.
+Answer: A
+
+Question 15:
+[COE]
+Which completion of the text is best supported by data in the table?
+
+In a materials science study, researchers are developing two new anti-corrosive coatings, "Ceramax" (C) and "Duroshield" (D), for steel alloys used in marine environments. They prepared three types of steel samples for testing: Type C samples coated only with Ceramax, Type D samples coated only with Duroshield, and Type CD samples which were left uncoated to serve as a baseline. The researchers already know from prior studies that resistance to industrial chemical spills is significantly enhanced by Ceramax, but is not affected by the presence of Duroshield. To test performance in marine conditions, the samples were exposed to a continuous saltwater spray, and their structural integrity was measured over several weeks. The data from this test, combined with the prior knowledge about chemical resistance, suggest that _______.
+**Structural Integrity of Coated Steel Samples After Saltwater Exposure**
+
+
+
+A. Ceramax provides strong protection against saltwater corrosion, and its effectiveness is not dependent on the presence of Duroshield.
+B. Duroshield is only effective against specific types of corrosion, while Ceramax offers protection against a broader range of corrosive agents.
+C. Duroshield appears to have been developed as a specialized defense against saltwater corrosion.
+D. the greatest protection against saltwater corrosion is achieved when both Ceramax and Duroshield are applied together.
+Answer: A
+
+Question 16:
+[Infer]
+Which choice most logically completes the text?
+
+Saeed M.Z.A. Tarabieh conducted a study of consumer attitudes toward Jordanian food and beverage companies and found that for consumers who value environmental conservation, their likelihood of purchasing a product decreased when their perception of the product’s risk of causing environmental harm increased. Subsequently, other researchers conducted a study of various demographic groups in Vietnam, investigating participants’ intentions to purchase a new skin-care product, and found that, on average, parents of small children had the lowest perception among all the demographic groups in the study of the environmental risks of the skin-care product. Assuming that the results of Tarabieh’s study are broadly applicable, this finding suggests that _______ .
+
+
+A. parents of small children might be more likely than participants in the other demographic groups to purchase the skin-care product.
+B. the new skin-care product is less appealing to parents of small children than other similar products on the market are.
+C. there is not a meaningful difference in the average likelihood of purchasing environmentally friendly products among the demographic groups included in the study.
+D. parents of small children likely prioritize other factors over a product’s environmental sustainability when making purchasing decisions.
+Answer: A
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+On July 19, 2013, marine biologists observed a remarkable and uncommon event in the Great Barrier Reef, approximately 100 kilometers from ______ bleaching event of a large coral reef, a visually dramatic yet temporary occurrence generally caused by prolonged exposure to elevated water temperatures.
+
+
+A. shore. The
+B. shore; it was the
+C. shore: the
+D. shore; the
+Answer: C
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Nigerian American artist Toyin Ojih Odutola uses black-ink pens to create highly detailed drawings of human figures. Her portrait of novelist Zadie ____ is displayed in the National Portrait Gallery in London.
+
+
+A. Smith—
+B. Smith:
+C. Smith,
+D. Smith
+Answer: D
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Investigating the star Betelgeuse—______ 2020 study by astronomers Elena Petrova, Kenji Tanaka, and Sam Carter determined that a dust cloud, not an impending supernova, caused its recent unusual dimming.
+
+
+A. the famous red supergiant in Orion's shoulder, as it's often described, a
+B. the famous red supergiant in Orion's shoulder, as it's often described—a
+C. the famous red supergiant in Orion's shoulder, as it's often described. A
+D. the famous red supergiant in Orion's shoulder —as it's often described, a
+Answer: B
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A 2016 study by researchers Andreas Keller and Leslie Vosshall evaluating how participants described the odors of various chemical compounds revealed some similarities between the odor of sample 17 (o-anisaldehyde) and that of sample 8 (DL-phenylalanine). The ______ primary descriptors both included “burnt”; however, the next most common word used for sample 17 was “sour,” while that for sample 8 was “edible.”
+
+
+A. sample’s odors
+B. samples’ odors’
+C. samples odors’
+D. samples’ odor’s
+Answer: B
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In September 1928, a Scottish physician accidentally discovered a powerful antibiotic in his London laboratory. Regarded as a turning point in medical history, a result of a contaminated petri dish, ______ Fleming was jointly awarded the 1945 Nobel Prize in Medicine.
+
+
+A. the properties that ushered in the age of antibiotics had been revealed by the discovery
+B. the age of antibiotics was ushered in by the discovery, which revealed the mold's bacteria-killing properties
+C. the discovery revealed the mold's bacteria-killing properties and ushered in the age of antibiotics
+D. the mold's bacteria-killing properties were revealed by the discovery, which ushered in an age of
+Answer: C
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Mountain climbing routes that incorporate metal rungs and cables are known as via ferratas, from the Italian phrase for "iron path." As climbing these routes has shifted from a mode of travel to a sporting activity, modern via ferratas are rarely designed to simply reach a summit. ______ new routes favor recreation over utility, aiming to provide a challenging climb or showcase dramatic scenery.
+
+
+A. Nonetheless,
+B. On the other hand,
+C. Additionally,
+D. More often,
+Answer: D
+
+Question 23:
+[Synthesis]
+The student wants to explain wind farms to a new audience. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Wind is a renewable energy source.
+• A wind farm uses turbines to convert wind into electrical power.
+• A wind farm’s maximum electrical output is called its nameplate capacity.
+• Hornsdale Wind Farm is located in Hornsdale, Australia.
+• Its nameplate capacity is 316 megawatts.
+
+
+A. Nameplate capacity is another name for a wind farm’s maximum electrical output.
+B. Hornsdale, Australia, is home to Hornsdale Wind Farm.
+C. Hornsdale Wind Farm, located in Hornsdale, Australia, has a nameplate capacity of 316 megawatts.
+D. Wind farms use turbines to generate electricity from a renewable energy source: the wind.
+Answer: D
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The near-Earth asteroid Atira is orbited by the moonlet S/2017 (163693). In 2022 scientists studying asteroid deflection intentionally crashed a probe into a similar moonlet, Dimorphos, shortening its orbital period by 32 minutes. ______ it used to take Dimorphos 11 hours, 55 minutes to orbit the near-Earth asteroid Didymos; now it takes 11 hours, 23 minutes.
+
+
+A. That is,
+B. Furthermore,
+C. Meanwhile,
+D. For example,
+Answer: A
+
+Question 25:
+[Synthesis]
+The student wants to explain why the modern scientific consensus rejects the concept of linguistic determinism. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching cognitive linguistics, a student has taken the following notes:
+• The principle of linguistic relativity posits that the structure of a language affects its speakers' cognition and worldview.
+ • This principle is often associated with the Sapir-Whorf hypothesis, which has two main interpretations.
+ • The "strong" version, known as linguistic determinism, asserts that language *determines* thought; an individual's cognitive categories are limited and defined by their linguistic categories.
+ • The "weak" version, linguistic relativity, proposes that language merely *influences* thought and certain non-linguistic behaviors, creating biases or tendencies but not insurmountable constraints.
+ • Most contemporary research has largely discredited linguistic determinism as being too absolute.
+ • Evidence for the weak version exists; for example, studies show that speakers of languages with grammatical gender may subconsciously attribute stereotypically masculine or feminine properties to inanimate objects.
+ • The modern consensus is that while language can shape certain cognitive habits, it does not imprison the mind within a fixed framework.
+
+
+A. According to the modern view, linguistic determinism is untenable because it suggests that thought is merely influenced by language, a position that fails to account for how grammatical gender can shape perceptions of objects.
+B. Linguistic determinism is rejected because while language has been shown to influence cognitive tendencies—creating perceptual biases—it does not determine thought by imposing rigid, inescapable boundaries on what a person can conceive.
+C. The Sapir-Whorf hypothesis, which encompasses both linguistic determinism and linguistic relativity, has been a foundational concept in exploring the intricate relationship between language and human cognition.
+D. Because the weak version of the hypothesis has been supported by evidence, the strong version, linguistic determinism, has been largely discredited by most contemporary researchers.
+Answer: B
+
+Question 26:
+[Synthesis]
+The student wants to synthesize the information to make a generalization about the modern scientific view of planetary habitability. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While conducting research for a paper on astrobiology, a student compiled the following notes:
+• The habitable zone, colloquially known as the "Goldilocks zone," is traditionally defined as the orbital region around a star where liquid water could potentially exist on a planet's surface.
+• Recent discoveries of subsurface oceans on moons like Europa and Enceladus, located far outside our solar system's traditional habitable zone, have challenged this surface-centric definition.
+• The presence of extremophiles—organisms that thrive in harsh environments on Earth (e.g., hydrothermal vents, acidic rivers)—suggests that life's biochemical requirements might be more flexible than previously assumed.
+• A planet's magnetic field is now considered a critical factor for habitability, as it shields the atmosphere and any surface life from being stripped away by stellar winds and cosmic radiation.
+• Consequently, some scientists propose a more nuanced "abiogenesis zone," which considers a wider range of factors, including geothermal activity and atmospheric pressure, not just stellar proximity.
+
+
+A. The existence of extremophiles on Earth definitively proves that life can exist in the subsurface oceans of moons like Europa and Enceladus.
+B. The traditional definition of the habitable zone is being revised because factors beyond stellar proximity, such as the presence of a magnetic field and the potential for subsurface liquid water, are now understood to be crucial for sustaining life.
+C. A planet’s ability to host life is primarily determined by its location within the "Goldilocks zone," where liquid water is shielded by a strong magnetic field.
+D. The concept of an "abiogenesis zone" has largely replaced the outdated "Goldilocks zone" theory, with most research now focused exclusively on moons with significant geothermal activity.
+Answer: B
+
+Question 27:
+[Synthesis]
+The student wants to contrast ethylene and hexachloroethane. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Refrigerants are chemical compounds used in cooling technologies, such as air conditioners.
+•Air conditioners can use refrigerants to absorb heat and release cold air.
+•The refrigerant ethylene is a hydroolefin (HO).
+•HOs are composed of the elements hydrogen and carbon.
+•The refrigerant hexachloroethane is a perchlorocarbon (PCC).
+•PCCs are composed of chlorine and carbon.
+
+
+A. Ethylene and hexachloroethane are chemical compounds used in cooling technologies; the compounds are known as refrigerants.
+B. Hexachloroethane, a refrigerant, can be used in cooling technologies to absorb heat and release cold air.
+C. The hydroolefin ethylene and the perchlorocarbon hexachloroethane are both refrigerants that can be used in cooling technologies like air conditioners.
+D. Ethylene, a hydroolefin, is composed of hydrogen and carbon; hexachloroethane, a perchlorocarbon, is composed of chlorine and carbon.
+Answer: D

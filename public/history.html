@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>GlorySAT – Lịch sử làm bài</title>
+  <link rel="stylesheet" href="history.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <script src="lockdown.js"></script>
+  <link rel="icon" type="image/png" href="/images/logo.webp" />
+</head>
+
+<body class="home-page">
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <a href="index.html" class="sigma-logo-top">
+      <img src="/images/logo.webp" alt="GlorySAT logo" class="sigma-logo-img" />
+      <span class="sigma-logo-text">GlorySAT</span>
+    </a>
+
+    <nav class="sidebar-nav">
+      <a href="index.html" class="sidebar-item"><img src="/images/home.webp" class="sidebar-icon" alt="home"> Trang chủ</a>
+      <div class="sidebar-item collapsible" id="practice-toggle">
+        <span><img src="/images/luyende.webp" class="sidebar-icon" alt="luyende"> Luyện đề</span>
+        <span class="chevron"><img src="/images/down.webp" class="sidebar-chevron" alt="open"></span>
+      </div>
+      <div class="sidebar-submenu" id="practice-submenu">
+        <a
+          href="practice.html?category=starter"
+          class="sidebar-subitem"
+          data-category="starter"
+        >Starter</a>
+        <a
+          href="practice.html?category=real_tests"
+          class="sidebar-subitem"
+          data-category="real_tests"
+        >Đề thi thật</a>
+        <a
+          href="practice.html?category=practice_tests"
+          class="sidebar-subitem"
+          data-category="practice_tests"
+        >Đề luyện</a>
+        <a
+          href="practice.html?category=cramming"
+          class="sidebar-subitem"
+          data-category="cramming"
+        >Cramming</a>
+        <a
+          href="practice.html?category=math"
+          class="sidebar-subitem"
+          data-category="math"
+        >Math</a>
+        <a
+          href="practice.html?category=math_cramming"
+          class="sidebar-subitem"
+          data-category="math_cramming"
+        >Math Cramming</a>
+      </div>
+      <a href="wrong_answers.html" class="sidebar-item"><img src="/images/history.webp" class="sidebar-icon" alt="wrong"> Kho câu sai</a>
+      <a href="theory.html" class="sidebar-item"><img src="/images/web1.png" class="sidebar-icon" alt="lithuyet"> Lí thuyết</a>
+    </nav>
+
+    <div class="sidebar-footer">
+      
+      
+      <a href="/logout" class="logout-bottom">Đăng xuất</a>
+    </div>
+  </aside>
+
+  <button
+    class="mobile-sidebar-toggle"
+    id="mobile-sidebar-toggle"
+    type="button"
+    aria-label="Mở menu"
+    aria-expanded="false"
+  >☰</button>
+  <div class="mobile-sidebar-backdrop" id="mobile-sidebar-backdrop" hidden></div>
+
+
+  <!-- MAIN CONTENT -->
+  <div class="main-content">
+    <h1 class="page-title" id="test-title">Loading...</h1>
+    <div id="history-box" class="history-card">
+      Loading...
+    </div>
+
+    <button id="back-btn" class="btn back-btn">← Back</button>
+  </div>
+
+          <div class="plan-modal-backdrop" id="plan-modal">
+  <div class="plan-modal">
+
+    <button class="plan-close" id="plan-close">X</button>
+
+    <!-- Title ở giữa -->
+    <div class="plan-header-center">
+      <div class="plan-title-top">NÂNG CẤP GLORY</div>
+      <div class="plan-subtitle plan-subtitle-center">
+        Với giá chỉ gần bằGói GLORY 1 tháng của chúng mình có gì ?
+      </div>
+    </div>
+
+    <!-- 2 COLUMN LAYOUT -->
+    <div class="plan-grid plan-grid-row">
+
+      <!-- RIGHT -->
+      <div class="plan-right">
+
+        <!-- Description vẫn nằm bên phải -->
+
+
+        <ul class="plan-benefits">
+          <li>Thông tin về Web chúng mình sẽ có trong <a href="aboutus.html">About Us</a>. Mọi người đọc kĩ phần này trước khi đăng kí nhé ^^</li>
+        </ul>
+        
+        <p class="plan-footer-text">
+          Mọi người muốn đăng kí hoặc tư vấn có thể inbox trực tiếp qua Threads/Instagram glory.sat của chúng mình nhé!
+        </p>
+        
+
+      </div>
+
+    </div>
+
+    <!-- Button căn giữa -->
+    <div class="plan-upgrade-center">
+      <button class="upgrade-btn" id="upgrade-btn">Nâng cấp ngay</button>
+    </div>
+
+  </div>
+</div>
+
+  <script>
+  const accountStatus = document.getElementById("account-status");
+  const planModal = document.getElementById("plan-modal");
+  const closePlanBtn = document.getElementById("plan-close");
+  const upgradeBtn = document.getElementById("upgrade-btn");
+  let isProAccount = false;
+
+  function openPlanModal() {
+    if (!planModal) return;
+    planModal.classList.add("open");
+    document.body.classList.add("modal-open");
+  }
+
+  function closePlanModal() {
+    if (!planModal) return;
+    planModal.classList.remove("open");
+    document.body.classList.remove("modal-open");
+  }
+
+  function getSelectedPlan() {
+    return "month";
+  }
+
+  if (planModal) {
+    planModal.addEventListener("click", (event) => {
+      if (event.target === planModal) closePlanModal();
+    });
+  }
+
+  if (closePlanBtn) {
+    closePlanBtn.addEventListener("click", closePlanModal);
+  }
+
+  if (upgradeBtn) {
+    upgradeBtn.addEventListener("click", () => {
+      const plan = getSelectedPlan();
+      window.location.href = `/payment.html?plan=${plan}`;
+    });
+  }
+
+  // Lấy file test
+  const params = new URLSearchParams(window.location.search);
+  const file = params.get("file");
+  const categoryFromFile = file?.split("/")[0];
+
+  async function loadHistory() {
+    const box = document.getElementById("history-box");
+
+    if (!file) {
+      box.innerHTML = '<div class="history-empty">Missing file parameter.</div>';
+      return;
+    }
+
+    try {
+      const res = await fetch(`/api/test-history?file=${encodeURIComponent(file)}`, {
+        method: "GET",
+        credentials: "same-origin",
+      });
+
+      const contentType = res.headers.get("content-type") || "";
+      if (!contentType.includes("application/json")) {
+        box.innerHTML = '<div class="history-empty">Please login again.</div>';
+        return;
+      }
+
+      if (!res.ok) {
+        box.innerHTML = `<div class="history-empty">Error loading history</div>`;
+        return;
+      }
+
+      const data = await res.json();
+      const history = data.history || [];
+
+      if (history.length === 0) {
+        box.innerHTML = '<div class="history-empty">No history yet.</div>';
+        return;
+      }
+
+      box.innerHTML = "";
+
+      history.forEach(entry => {
+        const row = document.createElement("div");
+        row.className = "history-row";
+
+        const timeText = new Date(entry.taken_at).toLocaleString("vi-VN");
+
+        row.innerHTML = `
+          <div class="history-info">
+            <div class="history-time">${timeText}</div>
+            <div class="history-score">Score: <b>${entry.score}</b> / ${entry.total_questions}</div>
+          </div>
+
+          <button class="btn review-btn">Review</button>
+        `;
+
+        row.querySelector(".review-btn").onclick = () => {
+          window.location.href =
+            `past_exam.html?attempt=${encodeURIComponent(entry.id)}&file=${encodeURIComponent(file)}`;
+        };
+
+        box.appendChild(row);
+      });
+
+    } catch (err) {
+      box.innerHTML = '<div class="history-empty">Error loading history</div>';
+    }
+  }
+
+  // Back button
+  document.getElementById("back-btn").onclick = () => {
+    const backUrl = categoryFromFile
+      ? `practice.html?category=${encodeURIComponent(categoryFromFile)}`
+      : "practice.html";
+    window.location.href = backUrl;
+  };
+  // Set page title = tên test
+if (file) {
+  // Hiển thị tên test không kèm tiền tố thư mục (ví dụ: real_tests/ hoặc practice_tests/)
+  const raw = decodeURIComponent(file);
+  const display = String(raw).replace(/^(?:real_tests|practice_tests)\/+/, "");
+  document.getElementById("test-title").textContent = display;
+} else {
+  document.getElementById("test-title").textContent = "Test";
+}
+  // Load history on page load
+  loadHistory();
+
+  (function initPracticeMenu() {
+    const submenu = document.getElementById("practice-submenu");
+    const toggle = document.getElementById("practice-toggle");
+    const chevron = toggle?.querySelector(".chevron");
+
+    function setOpen(open) {
+      if (!submenu || !toggle) return;
+      submenu.classList.toggle("open", open);
+      toggle.classList.toggle("active", open);
+      if (chevron) {
+        const img = chevron.querySelector('img');
+        if (img) img.src = open ? '/images/up.webp' : '/images/down.webp';
+      }
+    }
+
+    if (toggle) {
+      toggle.addEventListener("click", () => setOpen(!submenu?.classList.contains("open")));
+    }
+
+    setOpen(true);
+    if (categoryFromFile) {
+      document
+        .querySelectorAll(`.sidebar-subitem[data-category="${categoryFromFile}"]`)
+        .forEach((item) => item.classList.add("active"));
+    }
+  })();
+</script>
+<script>
+  (function initMobileSidebar() {
+    const sidebar = document.querySelector(".sidebar");
+    const toggleBtn = document.getElementById("mobile-sidebar-toggle");
+    const backdrop = document.getElementById("mobile-sidebar-backdrop");
+
+    if (!sidebar || !toggleBtn || !backdrop) return;
+
+    function setSidebarState(isOpen) {
+      sidebar.classList.toggle("open", isOpen);
+      backdrop.hidden = !isOpen;
+      toggleBtn.setAttribute("aria-expanded", String(isOpen));
+      document.body.classList.toggle("sidebar-open", isOpen);
+    }
+
+    toggleBtn.addEventListener("click", () => {
+      setSidebarState(!sidebar.classList.contains("open"));
+    });
+
+    backdrop.addEventListener("click", () => setSidebarState(false));
+
+    window.addEventListener("resize", () => {
+      if (window.innerWidth > 900) {
+        setSidebarState(false);
+      }
+    });
+  })();
+</script>
+
+<script>
+  async function loadAccountStatus() {
+    const el = document.getElementById("account-status");
+    if (!el) return;
+
+    const dot = el.querySelector(".status-dot");
+    const text = el.querySelector(".status-text");
+
+    const setState = (isPro) => {
+      isProAccount = !!isPro;
+      const isClickable = !isProAccount;
+      el.classList.toggle("pro", isProAccount);
+      if (dot) dot.classList.toggle("pro", !!isPro);
+      if (text) text.textContent = isPro ? "Tài khoản Pro" : "Tài khoản thường";
+      el.classList.toggle("clickable", isClickable);
+    };
+
+    try {
+      const res = await fetch("/api/me");
+      if (!res.ok) throw new Error("Session not available");
+      const me = await res.json();
+      setState(!!me?.isPro);
+    } catch (err) {
+      if (text) text.textContent = "Không lấy được trạng thái";
+      el.classList.remove("clickable");
+      console.error("Không thể lấy trạng thái tài khoản", err);
+    }
+  }
+
+  if (accountStatus) {
+      accountStatus.addEventListener("click", () => {
+        if (!isProAccount) openPlanModal();
+      });
+    }
+
+    loadAccountStatus();
+  </script>
+
+  <script src="pro-account-popup.js"></script>
+</body>
+</html>

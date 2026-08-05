@@ -1,0 +1,120 @@
+Question 1:
+[COE]
+Which finding, if true, would most directly support Gillett's argument?
+
+In the mid-twentieth century, musicologists made a concerted effort to analyze the development of Rock and Roll, but they did not always agree about the genre's origins. Scholars such as Alan Lomax claimed that Rock and Roll derived largely from the traditions of the rural American Blues, which had been developing in the South since the late nineteenth century. Scholars such as Charlie Gillett, by contrast, argued that while the Blues influence is undeniable, Rock and Roll is mainly the product of the ongoing synthesis of various popular music forms in post-World War II America.
+
+A. The music that the musicologists analyzed included several songs using the 12-bar blues chord progression, a structure originating in early twentieth-century Blues music.
+B. Much of the music that the musicologists analyzed had similar lyrical themes from artist to artist.
+C. Most of the music that the musicologists analyzed was initially released on small, independent record labels.
+D. Most of the music that the musicologists analyzed consisted of rockabilly songs—a hybrid of blues rhythms and country-western vocal styles—of a clearly mid-century origin.
+Answer: D
+
+Question 2:
+[COE]
+Which finding, if true, would most directly support the research’s suggestion?
+
+In a series of experiments, Julio Sevilla and Claudia Townsend showed that manipulating the space between products in store displays can influence consumers’ views of those products. Participants in several of the experiments regarded the same products in the same (generic) retail settings as significantly more valuable when the product-to-space ratio was low than when it was high. But in one of the experiments, Sevilla and Townsend arranged the same jewelry with different levels of intervening space at an upscale retailer (Tiffany &amp; Co.) and a relatively inexpensive retailer (Forever 21). The result of this experiment suggests that a store context associated with inexpensive products may moderate the effect Sevilla and Townsend observed in their other experiments.
+
+A. At both Tiffany & Co. and Forever 21, participants judged jewelry spaced far apart to be less valuable than jewelry spaced close together, but the difference in perceived value was significantly greater at Tiffany & Co. than at Forever 21.
+B. When jewelry was spaced far apart, participants judged the jewelry at Tiffany & Co. to be more valuable than the jewelry at Forever 21, but when jewelry was spaced close together, participants judged the jewelry at Tiffany & Co. to be less valuable than the jewelry at Forever 21.
+C. At Tiffany & Co., participants judged jewelry spaced far apart to be substantially more valuable than jewelry spaced close together; but at Forever 21, participants judged jewelry spaced far apart to be only slightly more valuable than jewelry spaced close together.
+D. Participants judged jewelry spaced far apart at Tiffany & Co. to be similar in value to jewelry spaced far apart at Forever 21, but participants judged jewelry spaced close together at Tiffany & Co. to be more valuable than jewelry spaced close together at Forever 21.
+Answer: C
+
+Question 3:
+[COE]
+Which finding, if true, would most directly weaken the botanists' hypothesis?
+
+Leaves are typically green during the growing season, a color resulting from the reflection of light by chlorophyll. This pigment's abundance obscures other colors by absorbing most wavelengths except green. In autumn, as chlorophyll degrades, yellow and orange carotenoid pigments are revealed. However, some leaves, such as those of maples, become a vibrant red. A team of botanists has hypothesized that this coloration is a consequence of newly produced red anthocyanin pigments in the leaf's sap combining with the exposed yellow carotenoids.
+
+A. The presence of anthocyanins in green summer leaves does not alter their color due to the dominance of chlorophyll.
+B. The synthesis of anthocyanins is notably greater in regions experiencing colder autumn temperatures.
+C. Trees that develop red leaves and those that develop yellow leaves are frequently found in different types of soil.
+D. Both red autumn leaves and yellow autumn leaves are found to contain similarly negligible traces of anthocyanin pigments.
+Answer: D
+
+Question 4:
+[COE]
+Which finding, if true, would most directly support Núñez and colleagues' claim?
+
+The phrase ***usa-don sonda*** is a future-oriented expression used by members of the Yupno, an Indigenous group in Papua New Guinea, that translates to "next week." Rafael Núñez and colleagues recorded Yupno speakers explaining several of these temporal-related words and phrases and coded each speaker's manual gestures. Previous research has found evidence of Spanish speakers referring to the left/right axis to describe events in time, and many researchers believe that this tendency to make temporal distinctions along imagined linear axes is universal. However, Núñez and colleagues claim that this tendency is not in fact ubiquitous.
+
+A. Yupno speakers were observed making temporal gestures both indoors and outdoors, though with greater frequency when indoors.
+B. Yupno speakers typically use their left hand to make temporal gestures regardless of whether the gestures are past oriented or future oriented.
+C. Some Yupno grammatical structures used when talking about time are also used in Spanish.
+D. When outdoors and referring to the future, Yupno speakers facing uphill gesture in front of themselves, whereas those facing downhill gesture behind themselves.
+Answer: D
+
+Question 5:
+[COE]
+Which finding, if true, would most directly support the graduate students’ conclusion?
+
+Musicologists from the Royal Academy of Music at London Sofia Nguyen and Carlos Mendes conducted a comprehensive analysis of Baroque performance-practice studies by evaluating research from different European conservatories and various archival institutions. The studies were assigned ratings based on their procedural transparency (with a higher rating for clearer documentation of interpretive choices) and stylistic relevance (with a higher rating for studies examining compositions drawn from comparable historical contexts). Based on the analysis, a group of graduate students determined that the methodology of a performance-practice study conducted by Elena Rossi and colleagues was less clearly articulated than it was in a study by David Chen and colleagues.
+
+A. The study by Chen and colleagues had a lower stylistic-relevance rating than the study by Rossi and colleagues.
+B. The study by Chen and colleagues had a higher procedural-transparency rating than the study by Rossi and colleagues.
+C. The study by Rossi and colleagues had low procedural-transparency and stylistic-relevance ratings.
+D. The study by Chen and colleagues had a lower procedural-transparency rating than the study by Rossi and colleagues.
+Answer: B
+
+Question 6:
+[COE]
+Which finding from the study, if true, would most directly support the team’s conclusion?
+
+Neurobiologists Laura Cuaya, Raúl Hernández-Pérez, and colleagues investigated the language detection abilities of eighteen dogs raised in similar settings. The researchers monitored the brain activity of Pan (an Australian shepherd), Alma (a mixed breed), and other dogs while the animals listened to three recordings: one of The Little Prince being read in Spanish, the second in Hungarian, and a third made up of short, randomly selected fragments of the first two, scrambled so that they didn’t resemble human speech. Each dog was familiar with either Spanish or Hungarian, but not both. The team concluded that the amount of previous language exposure a dog has received may influence its ability to distinguish familiar languages from unfamiliar ones.
+
+A. The similarity between the pattern of brain activity a dog showed in response to hearing the scrambled recording and the pattern of brain activity it showed in response to hearing the language it was not accustomed to was greatest among older dogs.
+B. Although the dogs’ general hearing sensitivity declined with age, dogs of all ages showed more brain activity in response to hearing the language they were accustomed to than in response to hearing the other language.
+C. The difference between the pattern of brain activity a dog showed when hearing the language it was accustomed to and the pattern of brain activity it showed when hearing the language it was not accustomed to was greatest among older dogs.
+D. Dogs showed a different pattern of brain activity when hearing the language they were accustomed to than when hearing the scrambled recording, and the difference in brain activity increased with the age of the dog scanned.
+Answer: C
+
+Question 7:
+[COE]
+Which finding from Christina Zdenek, Timothy Staples, and their team’s study, if true, would most directly challenge the underlined assumption?
+
+A student is studying how woma pythons, eastern brown snakes, and rough-scaled death adders react to sound. The student knew that many snakes display movement of more than 20 cm in response to sound traveling through the ground but assumed that __snakes do not detect sound traveling through the air__ until reading a study by Christina Zdenek, Timothy Staples, and their team.
+
+A. Neither eastern brown snakes nor rough-scaled death adders display movement of more than 20 cm in response to airborne sound.
+B. Woma pythons have better overall hearing than do rough-scaled death adders.
+C. Both woma pythons and eastern brown snakes react only to sounds traveling through the ground.
+D. Woma pythons, eastern brown snakes, and rough-scaled death adders display movement of more than 20 cm in response to both ground and airborne sound waves.
+Answer: D
+
+Question 8:
+[COE]
+Which finding, if true, would most directly challenge the second research team's hypothesis?
+
+Water flowing around an obstruction creates vortices (swirls) that vary in size with the obstruction’s size and position, and fish sense these vortices in order to navigate around the obstructions. Using models of three fish-head shapes—narrow (low ratio of width to length), intermediate, and wide (high ratio of width to length)—Yuzou P. Nangiautan, Otar Akayret, and James C. Liao showed that as vortices are increased, pressure fluctuations at the snout increase for narrow-headed and intermediate-headed fish but remain low for wide-headed fish. A second research team has therefore hypothesized that in low visibility, a fish will be more likely to avoid an obstruction when the associated pressure fluctuations at the fish’s snout are greater.
+
+A. A study using obstructions that created large vortices in low-visibility conditions found that the Synodontis macropunctata, which has a relatively wide head, bumped into less than half of the obstructions.
+B. A study using obstructions that created large vortices in low-visibility conditions found that the intermediate-headed dusky smooth-hound (Mustelus canis) bumped into the obstructions just as often as the wide-headed Synodontis macropunctata did.
+C. A study using obstructions that created large vortices in low-visibility conditions found that the wide-headed Synodontis macropunctata bumped into obstructions more often than the intermediate-headed dusky smooth-hound (Mustelus canis) did.
+D. A study using obstructions that created large vortices in low-visibility conditions found that some specimens of the intermediate-headed dusky smooth-hound (Mustelus canis) bumped into the obstructions more often than others did.
+Answer: B
+
+Question 9:
+[COE]
+Which of the following, if true, most seriously weakens the argument?
+
+Art conservators meticulously removed an overlay of 18th-century crimson paint from a figure in a canvas by a 16th-century Italian maestro, revealing an underlying stratum of verdant paint. Given that the verdant layer has been authenticated to originate from the 16th century, it is inferred that the figure must have originally been green, rather than red, when the artwork was finalized in 1573. This conclusion, however, hinges critically on the premise that no earlier layers alter the composition.
+
+A. The conservators were tasked with restoring the painting to its original coloration upon completion.
+B. X-ray analysis uncovers an additional layer of paint beneath the green paint on the figure.
+C. Chemical techniques were employed to ascertain the chronological ages of both the red and green paint layers.
+D. The red paint was applied in the 18th century as an attempt to mend damage incurred during the late 17th century.
+Answer: B
+
+Question 10:
+[COE]
+Which of the following statements about a chameleon's color-shifting is supported by the passage?
+
+It is a widely held assumption that the primary purpose of a chameleon's color change is camouflage. This belief posits that chameleons are masters of disguise, blending into their environment to evade predators. In reality, this color-shifting ability is predominantly a mechanism for social signaling and physiological regulation. For instance, a darker coloration can be adopted by a chameleon to absorb more heat when it is cold. Once sufficient heat is absorbed, its bodily functions become much more efficient. In dense, uniformly green foliage, where the need for complex signaling is reduced, this dramatic color-shifting is observed less frequently. However, these reptiles can certainly use their ability for concealment, and doing so becomes necessary when a predator is detected.
+
+A. The regulation of a chameleon's physiological state is a key reason for its color changes.
+B. The color change is completed before a social interaction begins.
+C. This ability is most frequently used in dense foliage.
+D. Camouflage is consistently disregarded in favor of communication.
+Answer: A
+

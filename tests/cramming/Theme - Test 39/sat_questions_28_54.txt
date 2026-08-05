@@ -1,0 +1,364 @@
+Question 1:
+Which choice completes the text with the most logical and precise word or phrase?
+
+**Theater and film scholars often draw parallels between the lives of performers and aspects of roles they’ve played; however, the most insightful of these discussions, such as Linda Costanzo Cahir’s consideration of resemblances between actor Vivien Leigh and the character Blanche DuBois, maintain a rigid distinction between the actor and the character, taking care never to _____ them.
+
+
+A. conflate
+B. epitomize
+C. lambaste
+D. overshadow
+Answer: A
+
+
+Question 2:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The ____ of horse populations across Eurasia today reflects the competitive advantages of the highly mobile DOM2 breed that emerged through domestication and selective breeding in the 3rd millennium BCE. DOM2 spread quickly and extensively, completely supplanting other horse breeds in places like El Acequión, Spain, and Hohler Stein bei Schwabthal, Germany, by the end of the 2nd millennium BCE.
+
+
+A. profusion
+B. homogeneity
+C. ubiquity
+D. variability
+Answer: B
+
+
+Question 3:
+Taken together, the three underlined portions most clearly serve which function in the text as a whole?
+
+The following text is from Rachel Heng's 2023 novel The Great Reclamation. Ah Boon is fishing off the coast of Singapore.
+When he pulled up the nets, they contained only one kind of __fish—black pomfrets__, the flat diamonds of their bodies slick in the morning light. This uniformity did not surprise him; over the years, he'd learned that the waters here were temperamental. They could be relied upon for a good catch, but from time to time threw up __only prawns or squid__, and other times __colorful varieties__ of fish that weren’t even supposed to be found in this region. He’d grown to accept the unpredictability, embracing it as a game to be played, like the reading of tea leaves or the grooves of a palm. ©2023 by Rachel Heng
+
+
+A. They illustrate the changeable nature of the fishing grounds where Ah Boon is.
+B. They underscore Ah Boon’s lack of surprise at seeing sea creatures that aren’t usually found in the region.
+C. They emphasize the wide variety of sea creatures that Ah Boon has caught on this particular fishing trip.
+D. They provide examples of what Ah Boon most frequently catches in the area.
+Answer: A
+
+
+Question 4:
+According to the text, which choice most accurately describes the importance of the percentage of compact myocardial tissue in the basking shark’s heart?
+
+**The blue shark and the striped marlin are ectothermic (cold-blooded) fish, whereas the salmon shark and the Pacific bluefin tuna are regional endotherms—they retain metabolic heat resulting in body temperatures above the ambient water temperature. Unlike those of ectotherms, regional endotherms’ hearts have a relatively high proportion (greater than 30 %) of compact myocardial tissue, which is needed to maintain these animals’ blood pressure. In a 2023 study, Haley R. Dolton and colleagues found that basking sharks—planktivorous filter-feeders that were classified as full ectotherms at the time—have hearts consisting of 47 % compact myocardial tissue, thereby undermining that classification.
+
+
+A. It is insufficient to establish that the basking shark should be categorized as Dolton and colleagues suggest.
+B. It is higher than that of the salmon shark, a regional endotherm, despite the basking shark being a full ectotherm.
+C. It is higher than that of the Pacific bluefin tuna, a regional endotherm, which calls into question the basking shark’s status as a regional endotherm.
+D. It is, by itself, sufficient to invalidate how the basking shark has been categorized in the past.
+Answer: D
+
+
+Question 5:
+Which choice best states the main idea of the text?00006
+Pallikkathayil’s argument suggests that if we have a duty to respect other people’s agential interests and if possession of false beliefs constrains agency, then we have an inviolable duty to speak truthfully.
+Pallikkathayil’s argument shows that if our intuition that circumstances may make lying permissible is correct, then it is unclear whether there are any grounds for an opposition to lying in the first place.
+One potential means of justifying opposition to lying is Pallikkathayil’s argument that we have an obligation to respect other people’s agency that entails a commitment to truthfulness except in certain circumstances. (True)
+Many people have an intuitive sense that lying is permissible in some circumstances but lack a principled way to identify those circumstances, and Pallikkathayil’s argument may provide a means of resolving that problem.
+Pallikkathayil’s argument suggests that if we have a duty to respect other people’s agential interests and if possession of false beliefs constrains agency, then we have an inviolable duty to speak truthfully.Pallikkathayil’s argument shows that if our intuition that circumstances may make lying permissible is correct, then it is unclear whether there are any grounds for an opposition to lying in the first place.One potential means of justifying opposition to lying is Pallikkathayil’s argument that we have an obligation to respect other people’s agency that entails a commitment to truthfulness except in certain circumstances. (True)Many people have an intuitive sense that lying is permissible in some circumstances but lack a principled way to identify those circumstances, and Pallikkathayil’s argument may provide a means of resolving that problem.==End==
+
+Philosophers note that many people have an intuitive sense that while we ought not to lie, there may be circumstances in which lying is permissible. If this intuition is correct and we lack an inviolable duty to speak truthfully, what grounds opposition to lying in the first place? Japa Pallikkathayil has advanced one answer by appealing to a duty to respect others’ agential interests: the possession of false beliefs constrains agency, and thus we ought not to impede the formation of true beliefs unless doing so prevents a greater constraint on someone’s agency or an otherwise impermissible end.
+
+
+A. Pallikkathayil’s argument suggests that if we have a duty to respect other people’s agential interests and if possession of false beliefs constrains agency, then we have an inviolable duty to speak truthfully.
+B. Pallikkathayil’s argument shows that if our intuition that circumstances may make lying permissible is correct, then it is unclear whether there are any grounds for an opposition to lying in the first place.
+C. One potential means of justifying opposition to lying is Pallikkathayil’s argument that we have an obligation to respect other people’s agency that entails a commitment to truthfulness except in certain circumstances.
+D. Many people have an intuitive sense that lying is permissible in some circumstances but lack a principled way to identify those circumstances, and Pallikkathayil’s argument may provide a means of resolving that problem.
+Answer: C
+
+
+Question 6:
+Which choice best describes how Text 1 differs from Text 2?
+
+Text 1
+Kikko (tortoiseshell) and other Japanese sashiko embroidery patterns use motifs drawn from nature and daily activities, classic sources of inspiration in folk-art traditions. A category that resists firm delineation, folk art is generally defined by an intimate connection to quotidian life. "The beauty of such objects," writes Sōetsu Yanagi in The Unknown Craftsman, "is not so much of the noble, the huge, or the lofty as a beauty of the warm and familiar."
+Text 2
+Through their beautiful handmade aesthetic, painting and textiles from Japan's twentieth-century mingei (folk art) movement represent an unambiguous rejection of mass-produced consumer goods. At the same time, mingei, properly considered, stands apart from fine art, as its rootedness in commonplace craft traditions gives it an authenticity and accessibility that fine art, with its prizing of sophistication and innovation, cannot match.
+
+
+A. Both texts highlight the principally utilitarian nature of folk-art objects, but Text 1 acknowledges a complementary decorative function that is not mentioned in Text 2.
+B. Text 1 suggests that the nature-based aesthetic of folk art is inherently resistant to change, while Text 2 implies that the pressures of consumer culture have indirectly altered how folk art is made.
+C. Text 1 identifies characteristics shared by folk art across cultural contexts, while Text 2 describes how a universal characteristic of folk art is manifest within a specific tradition.
+D. Both texts valorize folk-art traditions, but Text 1 does so by emphasizing qualities that are intrinsic to folk art, whereas Text 2 makes reference to other modes of cultural production.
+Answer: D
+
+
+Question 7:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Scholars of Mexican literature have focused their attention on writers of the fertile period following the Mexican Revolution (which lasted from 1910-1920), such as Laura Esquivel. These writers are often considered the leading figures of the Mexican literary canon, but nineteenth-century writers like Antonio Menendez de la Peña are just as ______ Mexican literature.
+
+
+A. overlooked in
+B. polarizing in
+C. essential to
+D. knowledgeable about
+Answer: C
+
+
+Question 8:
+Which choice completes the text with the most logical and precise word or phrase?
+
+For most of its length, the Paraná River has sufficiently high flow velocity to suspend sedimentary particles, but when the river reaches the calmer waters of the Atlantic Ocean, its channel widens and divides, reducing flow velocity and thereby ______ sedimentary particle suspension. Particles are thus deposited, eventually forming deltaic lobes.
+
+
+A. obscuring
+B. interrupting
+C. compounding
+D. expediting
+Answer: B
+
+
+Question 9:
+Which quotation from "The Monster" most effectively illustrates the claim?
+
+"The Monster" is an 1898 story by Stephen Crane. In the story, the character of Jimmie is a young boy who has been scolded by his father for accidentally damaging a flower in his garden; Jimmie then looks for sympathy from Henry Johnson, the man responsible for the care of Jimmie's father's horses. Crane demonstrates Henry's tendency towards such sympathy, writing, ______
+
+
+A. "In regard to almost everything in life [Jimmie and Henry] seemed to have minds precisely alike."
+B. "Henry would sometimes choose to absolutely repudiate [Jimmie's behavior], and when Jimmie appeared in his shame would bully him most virtuously, preaching with assurance the precepts of [Jimmie's father's] creed, and pointing out to Jimmie all of his abominations."
+C. "For a minute Jimmie refused to take an interest in anything. He was very downcast."
+D. "Henry... could usually provide a sin to place himself on a footing with the disgraced one. Perhaps he would remember that he had forgotten to put the hitching-strap in the back of the buggy on some recent occasion, and had been reprimanded by [Jimmie's father]."
+Answer: D
+
+
+Question 10:
+Which finding, if true, would most clearly be an exception to the pattern Blatt identified?
+
+Describing the adverb as "a word that distracts," novelist Elmore Leonard is one of several authors and literary critics to recommend minimizing the use of adverbs, especially those ending in -ly (e.g., “grudgingly”), in works of fiction. To investigate the prevalence of -ly adverbs in novels, Ben Blatt used natural language processing—machine learning technology that reads and interprets text—to calculate the rates at which these words occur in both popular fiction and in novels that commonly appear on lists of notable works of English literature, such as Willa Cather’s My Ántonia. Blatt concluded that there is a positive correlation between -ly adverb avoidance and novels’ perceived literary merit.
+
+
+A. The novels of Virginia Woolf, one of the most celebrated writers of the twentieth century, have an average of 116 -ly adverbs per 10,000 words, while the novels of Jane Austen, one of the most celebrated writers of the nineteenth century, have an average of 128 -ly adverbs per 10,000 words.
+B. William Faulkner’s classic novel The Sound and the Fury has the lowest -ly adverb rate among Faulkner’s novels in Blatt’s study, while F. Scott Fitzgerald’s classic novel The Great Gatsby has the lowest -ly adverb rate among Fitzgerald’s novels in Blatt’s study.
+C. D.H. Lawrence’s acclaimed novel Women in Love and novels by several genre fiction authors that many critics regard as lacking in artistic quality have a comparable number of -ly adverbs per 10,000 words.
+D. Whereas award-winning and best-selling novels have on average 114 and 115 -ly adverbs per 10,000 words, respectively, fan fiction novels, which are frequently authored by nonprofessional authors, have on average 154 -ly adverbs per 10,000 words.
+Answer: C
+
+
+Question 11:
+Based on the texts, Malone et al. (Text 2) would most likely agree with which statement about the "approach" described in Text 1?
+
+Text 1
+ Livestock farming and other human activities are significant sources of atmospheric methane (CH₄), but, as Wenxue Ding and colleagues have shown, so too are naturally occurring emissions from sources like peatlands. The team found that a "bottom-up" approach to monitor given natural sources' variability and spatial diffusion, but one promising __approach__ is to use CH₄ flux data from extant monitoring infrastructure as proxies for CH₄ fluxes in unmonitored areas.
+Text 2
+ Sparkle Malone and colleagues examined the United States' network of eddy covariance (EC) towers—the equipment used to track CH₄ fluxes—to evaluate the utility of network data for quantifying biogenic CH₄. Malone et al. found that EC towers are disproportionately concentrated in areas where biogenic CH₄ emissions are known to be elevated, a pattern that seriously compromises the representativeness of network data.
+
+
+A. It could compromise the accuracy of the biogenic CH₄ emissions data that EC towers collect in areas with elevated emissions.
+B. It may suggest that biogenic CH₄ emissions in unmonitored areas are higher than they actually are.
+C. It would only be viable if the EC towers monitoring biogenic CH₄ emissions could detect smaller fluxes than they can at present.
+D. It is likely to be useful for determining biogenic CH₄ emissions in unmonitored areas of some regions but not of most regions.
+Answer: B
+
+
+Question 12:
+Which choice best describes data in the graph that support Liu et al.'s conclusion?
+
+Fracture Toughness Values for CrMnFeCoNi and CrCoNi at Various Temperatures
+
+High entropy alloys (HEAs) typically combine five or more elements in roughly equal proportions, and medium entropy alloys (MEAs) typically combine three or four elements in similar proportions. HEAs and MEAs are known for withstanding cracking at extremely low (cryogenic) temperatures relatively well, though their fracture toughness generally falls as temperature does. Dong Liu et al. investigated the fracture toughness (both the initiation and propagation toughness) of the HEA CrMnFeCoNi and its MEA derivative CrCoNi and concluded that the alloys' toughness performance differs from that of most HEAs and MEAs.
+
+
+A. CrCoNi outperformed CrMnFeCoNi at 20 kelvins in both initiation toughness and propagation toughness even though it is composed of fewer elements.
+B. Both CrMnFeCoNi and CrCoNi showed substantially higher propagation toughness than initiation toughness throughout the range from 20 kelvins to 293 kelvins.
+C. The changes in initiation toughness and propagation toughness were greater between 20 kelvins and 77 kelvins than between 77 kelvins and 198 kelvins for both CrMnFeCoNi and CrCoNi.
+D. For both CrMnFeCoNi and CrCoNi, initiation toughness and propagation toughness were lower at 293 kelvins than at 20 kelvins.
+Answer: D
+
+
+Question 13:
+Which statement, if true, would most directly illustrate the text's assertion about language families and isolates to overall linguistic diversity?
+
+The language of the Tunica people, whose homeland comprises a comparatively swampy region in present-day Mississippi and Louisiana, is an isolate, or a language with no demonstrable connections to other languages. This is not unusual. In fact, many marshes and swamps correlate with the incidence of isolates, perhaps because geophysical barriers preserve isolates against the encroachment of language families (groups of languages whose words and grammatical structures suggest descent from a common progenitor language). Curiously, the same barriers are associated with diversification, which promotes the development of families of languages. The presence of isolates like Tunica functions as an index of overall linguistic diversity in a region.
+
+
+A. Despite incursions by various colonial powers—first Spain, then France, Britain, and finally the United States—into the challenging terrain of Mississippi and Louisiana, the grammar of Tunica has largely resisted the influence of non-Indigenous languages.
+B. Barring an as-yet-undemonstrated genealogical relationship in the deep past, Tunica's lexical similarities with the nearby languages of the Muskogean family are best attributed to later patterns of "borrowing" of linguistic features through contact instead of through descent from a common ancestral language.
+C. The tribes of the Caddo Confederacy, who inhabited a vast region to the northwest of the Tunica homeland, spoke Caddo as well as Adai, a poorly documented language whose relationship to Caddo is unknown and which is typically regarded as an isolate.
+D. Houma and the many other languages of the Muskogean family proliferated in the areas adjoining the homelands of a number of isolate-speaking peoples, such as the Tunica and Timucua.
+Answer: D
+
+
+Question 14:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Many of late nineteenth-century artist James McNeill Whistler’s oil paintings and lithographs depict the streets of European cities. While his contemporaries’ approaches to these subjects were often sentimental, Whistler’s eye seemed ____. In this way, he anticipated the early twentieth-century photographs of Walker Evans, which create the illusion of being objective documentations of life.
+
+
+A. tranquil
+B. peculiar
+C. nostalgic
+D. dispassionate
+Answer: D
+
+
+Question 15:
+Which choice best states the main idea of the text?
+
+When Kenyan writer Ngũgĩ wa Thiong’o, who had previously published four novels in English, began writing in his native language, Gĩkũyũ, in the 1970s, several fellow writers and critics cautioned that doing so might make his works inaccessible outside his own community. Some noted that Kiswahili—widely spoken in Kenya and elsewhere in Africa—would be a more practical choice. Rejecting their arguments, Ngũgĩ went on to author dozens of acclaimed works in Gĩkũyũ that have been translated into a total of more than thirty languages.
+
+
+A. Although Ngũgĩ insisted on publishing his first works in Gĩkũyũ, they have since been translated into many other languages.
+B. Although Ngũgĩ’s decision to write in Gĩkũyũ was met with some skepticism, it didn’t prevent him from achieving literary success.
+C. The reaction to Ngũgĩ’s rejection of English illustrates that some literary experts believe that fame is most easily gained by writing in a widely understood language, such as Gĩkũyũ.
+D. In the 1970s, Ngũgĩ became convinced that literature ought to be written in authors’ native languages, and he proceeded to publish many works in Gĩkũyũ.
+Answer: B
+
+
+Question 16:
+Which finding, if true, would most directly support the text’s claim about wireless communication devices?
+
+Piezoelectric harvesters convert kinetic energy (resonance) to electrical energy, precluding the need for external electrical sources. The vibration of a spacecraft, for example, can provide sufficient energy to power many of its sensors piezoelectrically. A newly designed piezoelectric harvester incorporating a highly conductive carbon-fiber-reinforced polymer (CFRP) electrode has been shown to provide steady energy loads during resonance, an absolute prerequisite for wireless communication devices to be powered piezoelectrically.
+
+
+A. The high conductivity of the CFRP is what makes the energy output from a piezoelectric harvester sufficient for wireless communication devices.
+B. The CFRP electrode is incompatible with most wireless communication devices.
+C. Intermittent or unpredictable electrical supply undermines the efficacy of wireless communication devices.
+D. The near-constant kinetic vibration of a spacecraft makes it possible to power its wireless communication devices using only non-CFRP piezoelectric harvesters.
+Answer: C
+
+
+Question 17:
+Which choice most logically completes the text?
+
+Many Indian snack foods, such as bhatoora and paneer pakora, acquire their flavor from being fried in oil; some are also coated in batter beforehand. Chemists Marc A. Meyers and Andrew Grazela studied the mass and heat transfer processes that occur when foods are fried in batters containing hydrocolloids, polymers that become viscous or gel-like in water. During frying, water in the food evaporates, leaving voids that oil (a pure fat) can fill. As the process continues, water from the food's center moves to the crust as long as the crust remains permeable. However, hydrocolloids can create structures in the crust that reduce the transfer of moisture out of the food's core during frying. Therefore, a food fried without a hydrocolloid batter coating will likely _____.
+
+
+A. have a more viscous crust when frying is completed than it would have if it were fried with a coating of hydrocolloid batter.
+B. have a higher fat content than it would have if it were fried with a coating of hydrocolloid batter.
+C. need to be cooked more quickly at a higher temperature than it would need to be cooked if it were fried with a coating of hydrocolloid batter.
+D. need to be cooked in a different oil than it would need to be cooked in if it were fried with a coating of hydrocolloid batter.
+Answer: B
+
+
+Question 18:
+Which choice best states the main purpose of the text?
+
+In their study of the steering muscles regulating sclerites (minute hardened structures) in the Drosophila (fruit fly) wing hinge, Johan M. Melis et al. used machine learning to devise a convolutional neural network (CNN) model capable of predicting the pattern of wing motion produced by the maximum activity of the muscles. The CNN model’s output aligned with results of prior studies by other researchers measuring muscle activity patterns directly—one of several indications, said Melis et al., that the model accurately represents important biomechanical processes underlying wing motion.
+
+
+A. To present evidence from Melis et al.’s study in support of the efficacy of their CNN model
+B. To provide an overview of how Melis et al. honed the accuracy of their CNN model
+C. To compare results obtained by Melis et al. using their CNN model to prior results obtained from other researchers’ models
+D. To account for Melis et al.’s reliance in their study on a CNN model in lieu of direct measurement
+Answer: A
+
+
+Question 19:
+Which choice most effectively uses data from the graph to complete the assertion?
+
+While US public charities, like Kaiser Foundation Hospitals, must file Form 990 yearly with the IRS, private foundations, such as the Gordon and Betty Moore Foundation, must file a different form, 990–PF. In addition, foundations that engage in certain prohibited activities must also file Form 4720 and pay a penalty tax on the money involved. Private foundations are prohibited from holding excess interests in a business enterprise, “self-dealing” (conducting activities that benefit foundation insiders), making taxable expenditures such as outlays for lobbying, and failing to cross a required threshold in making charitable distributions from income. Out of the organizations that filed Form 990–PF in the years 2003–2005, ______
+
+
+A. a smaller percentage of those that also filed Form 4720 did so because they held excess interests in a business enterprise than the percentage of those that filed Form 4720 because they did not meet the minimum charitable distribution requirement.
+B. those that also filed Form 4720 collectively paid larger penalties for failing to meet the minimum charitable distribution requirement than for other reasons.
+C. those that were also required to file Form 4720 because they had excess holdings in a business enterprise paid, on average, a larger penalty than those organizations that filed Form 4720 because they made taxable expenditures.
+D. those that also filed Form 4720 paid a larger penalty for failing to meet a minimum charitable distribution requirement than those organizations that filed Form 990 but also filed Form 4720 for the same reason.
+Answer: B
+
+
+Question 20:
+Which finding, if true, would most directly support the researchers’ claim regarding the size of PCFG whales?
+
+Although Eastern North Pacific (ENP) gray whales generally migrate between their wintering waters along the coast of Mexico and their foraging waters in the Arctic, a subset of this population—known as the Pacific Coast Feeding Group (PCFG)—forages along the coastlines of Northern California (USA) and British Columbia (Canada) instead. Interestingly, individuals in this subset reach smaller maximum sizes than other ENP whales do, despite having similar pre-maximum growth rates. Researchers hypothesize that this difference may be an adaptation to distinct resource opportunities in the PCFG foraging range.
+
+
+A. When foraging along the coasts of Northern California and British Columbia, PCFG whales are in closer proximity to major ports and urban populations than ENP whales in the main group are when foraging in Arctic waters.
+B. The average body size of PCFG whales observed along the coasts of Northern California and British Columbia has remained relatively steady in recent decades, while the average body size of ENP whales in the main group has slightly decreased.
+C. When present along the coasts of Northern California and British Columbia, PCFG whales tend to forage in rocky kelp beds at shallow depths inaccessible to whales as large as those in the ENP main group.
+D. Certain crustacean prey species available along the coasts of Northern California and British Columbia where PCFG whales tend to forage are not available in the Arctic waters where ENP whales in the main group forage.
+Answer: C
+
+
+Question 21:
+Which choice most logically completes the text?
+
+In classical Greek and Roman mythology, female characters are typically cast as either villains lacking in psychological depth or passive victims who are marginal to these stories, which usually focus on the exploits of male characters. Recently, a subgenre has emerged in which writers reimagine these stories from the perspectives of their female characters, giving them agency and complex motivations. Purists argue that such efforts represent a distinctively modern tendency to impose our own values on past civilizations, obscuring those civilizations’ beliefs. Defenders of the subgenre counter that reimaginings of the myths for new cultural contexts are almost as old as the myths themselves, suggesting that ______.
+
+
+A. the complex motivations given to female characters in modern retellings of Greek and Roman myths reflect a recent shift toward psychological depth in fictional representation.
+B. purists are overlooking a long tradition of adapting Greek and Roman myths to focus on female characters.
+C. bringing female perspectives to the forefront is not indicative of a novel attitude regarding fidelity to Greek and Roman myths’ ideologies.
+D. modern writers’ foregrounding of female characters is chiefly motivated by a desire to counterbalance the primacy of male perspectives among earlier adaptations of Greek and Roman myths.
+Answer: C
+
+
+Question 22:
+Which quotation from a study of California agriculture best supports the student’s claim?
+
+A student is writing a research paper on the history of irrigation in the state of California, situating the development of the Rowena Reservoir (created in Los Angeles County, California, in 1901) in a larger historical context. The student claims that innovation in irrigation techniques was driven in part by the climate in some parts of the state.
+
+
+A. “While the low humidity of Southern California’s desert areas makes irrigation a requirement if agriculture is to be a success there, the relatively high humidity in the northern parts of the state makes such practices less necessary.”
+B. “Competition for scarce water resources in Southern California inspired the development of sprinkler irrigation systems, a manner of irrigating that requires less use of water than traditional surface irrigation methods.”
+C. “The irrigation system developed by the Hohokam people in the 7th century CE in what is now Arizona was simple but applied hydraulic engineering design features that are still used today in both Arizona and California.”
+D. “The necessity of irrigation infrastructure in California today cannot be overstated, since it is the most common means of conveying water for agricultural use.”
+Answer: B
+
+
+Question 23:
+Which choice most effectively uses a quotation from a translation of The Clouds to illustrate the claim?
+
+The Clouds is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught paying customers a variety of subjects and sometimes engaged in what would now be described as research. Aristophanes satirizes sophists’ practices and views as foolish, as seen when the character ______
+
+
+A. Socrates, a sophist, says of a new customer, “I have not seen any man so boorish, nor so impracticable, nor so stupid, nor so forgetful; who, while learning some little petty quibbles, forgets them before he has learned them.”
+B. Strepslades encourages his son to learn to be a sophist, saying, “Reform your habits as quickly as possible, and go and learn what I advise.”
+C. Strepslades, after taking lessons from a sophist, says to his son, “Approach, that you may know more; and I will tell you a thing, by learning which you will be a man. But see that you do not teach this to any one.”
+D. Socrates, a sophist, explains why he studies astronomy while sitting in a basket hanging a few feet off the ground, saying, “I should not have rightly discovered things celestial if I had not suspended the intellect, and mixed the thought in a subtle form with its kindred air.”
+Answer: D
+
+
+Question 24:
+Which quotation from a study of irrigation best supports the student’s claim?
+
+A student is writing a research paper on the history of irrigation in the United States, situating the development of the Bear River Reservoir (created in Amador County, California, in 1900) in a larger historical context. The student claims that innovation in irrigation practices throughout the United States has led to designs with increased efficiency.
+
+
+A. “While the low humidity of Southern California’s desert areas makes irrigation a requirement if agriculture is to be a success there, the relatively high humidity in the northern parts of the state makes such practices less necessary.”
+B. “The importance of irrigation infrastructure in the United States today cannot be overstated, since it is the most widely utilized means of conveying water for food production. Accordingly, any increase in the efficiency of irrigation, however small, would be of significant economic and social value.”
+C. “The irrigation system developed by the Hohokam people in the 7th century CE in what is now Arizona was simple but applied hydraulic engineering design features that are still in use today.”
+D. “Competition for water as a scarce economic resource inspired the development of sprinkler irrigation systems, which have contributed to the reduction of water used for irrigation in the United States to 45% of the total water usage of its population. Comparatively, 70% of the world’s water usage is dedicated to irrigation.”
+Answer: D
+
+
+
+Question 25:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Many of late nineteenth-century artist James McNeill Whistler’s oil paintings and lithographs depict the streets of European cities. While his contemporaries’ approaches to these subjects were often sentimental, Whistler’s eye seemed ____. In this way, he anticipated the early twentieth-century photographs of Walker Evans, which create the illusion of being objective documentations of life.
+
+
+A. tranquil
+B. peculiar
+C. nostalgic
+D. dispassionate
+Answer: D
+
+
+Question 26:
+Which quotation from the article would best illustrate the theater historian’s claim?
+
+Founded in 1965 and originally established as a cultural extension of the United Farm Workers—a union representing many Mexican American agricultural workers at the time—the theater troupe El Teatro Campesino has achieved recognition as a source of inspiration for subsequent Chicano theater companies and as a contributor to the dramatic arts. In an article about the company, a theater historian posits that a significant stylistic influence on El Teatro’s early performances was the audience-mediated slapstick comedy of carpa theater, vaudeville-style shows popular in Mexico and the US Southwest in the 1920s and ’30s.
+
+
+A. “The members of the company, which in addition to founder Luis Valdez consisted entirely of nonprofessional actors, traveled into farm fields, where they, with minimal props and costumes, performed comedy in the form of brief humorous vignettes.”
+B. “The company was focused on the reality of the present situation and discovered that humor was often found in that reality; consequently, comedy became a tool to convey social critique while entertaining and inspiring audiences.”
+C. “The company relied heavily on satire, humor, and references to contemporary popular culture as well as a make-do aesthetic—often referred to as rasquache—that reflected not only the troupe’s limited financial resources but also its sociopolitical message.”
+D. “The company presented actos, short comedy sketches, that often relied on exaggerated physical humor to groups of agricultural workers, whose reactions—enthusiastic cheers of appreciation and, occasionally, loud boos of disapproval—promoted continued revision of the work.”
+Answer: D
+
+
+Question 27:
+Which choice completes the text with the most logical and precise word or phrase?
+
+**If confirmed by other researchers, a newly reported measurement of W boson’s mass could _____ the dominant theory of particle physics, the standard model, as the new measurement differs significantly from the standard model’s prediction of the elementary particle’s mass.
+
+
+A. satisfy
+B. simplify
+C. overtake
+D. undermine
+Answer: D

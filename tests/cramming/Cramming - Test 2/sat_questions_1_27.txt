@@ -1,0 +1,370 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Linguists studying the American continents are faced with a huge diversity of languages, from Mayo in North America to Koreguaje in South America. The task of documenting them all is daunting; indeed, this veritable ______ of distinct tongues complicates any attempt at a unified classification.
+
+
+A. surfeit
+B. paucity
+C. equilibrium
+D. schism
+Answer: A
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The discoveries of natural satellites by Scott S. Sheppard’s team of astronomers have been _____: S/2017 J 2, which the group of researchers found orbiting Jupiter in 2017, is just one of over one hundred that they have spotted, while many astronomers have been happy to discover only one or two.
+
+
+A. plentiful
+B. random
+C. likely
+D. inferior
+Answer: A
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Certain features are almost always included in the designs of mosques, like the ablution (ritual cleansing) area, which is considered to be a ______ of mosque architecture. Even mosques that exhibit elements of multiple architectural styles, such as the Al-Masjid an-Nabawi, which incorporates elements from the Islamic, Ottoman, and Mamluk revivalist styles, will also include several of these standard features.
+
+
+A. motivation
+B. hallmark
+C. rejection
+D. duplicate
+Answer: B
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In Keshni Kashyap's award-winning novel *Tina's Mouth*, which has been praised by many reviewers, the protagonist finds herself in a difficult social predicament. Feeling isolated and misunderstood by her peers, she concludes she has no ______ but to express her uncensored thoughts in a personal journal, a decision that ultimately drives the plot forward.
+
+
+A. umbrage
+B. recourse
+C. approbation
+D. enmity
+Answer: B
+
+Question 5:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The decline of the giant pika, a species found throughout northern North America before it became extinct around 8000 BCE, surely had a number of _____ the larger ecosystem in which it existed. The giant pika was part of a complex food web with other organisms, and its disappearance likely affected several other species.
+
+
+A. commonalities to
+B. precedents in
+C. provenances in
+D. repercussions for
+Answer: D
+
+Question 6:
+[Details]
+Which choicce best describe the function of the underlined portion in the text as a whole?
+
+Long‐standing interpretations of ancient communities predominantly come from analyzing resilient relics—such as stone bangles. However, Dr. Elena Gomez and her colleagues offered innovative perspectives by exploring plant‐derived artifacts. Because organic objects like cane lances decay swiftly, they are rarely scrutinized. __That limited availability__ made the team’s investigation of remarkably intact plant‐based materials recovered from a cavern in France especially thrilling; in fact, the group found these specimens were much older than initially presumed.
+
+
+A. It points to a dilemma described earlier in the text.
+B. It indicates that the scientists did not completely fulfill a stated aim.
+C. It depicts the uncertain aspect of a result obtained by the researchers.
+D. It distinguishes between two varieties of artifacts mentioned earlier.
+Answer: A
+
+Question 7:
+[COE]
+The text best supports which conclusion about the cultural center operated by the Mi’kmaq of Nova Scotia?
+
+In what is now British Columbia, the Coast Salish Nation manages the Kw’umut Lelum Cultural Center, an institution focused on preserving and presenting their heritage. Drawing on ancestral wisdom to shape its displays, the center highlights Salish traditions and history for the benefit of its community members. Similarly, the Mi’kmaq of Nova Scotia use a comparable approach in their own cultural center. Both centers contrast with non-Indigenous institutions, which, when showcasing Indigenous artifacts, often cater primarily to non-Indigenous visitors and follow Western methodologies in curating exhibits.
+
+
+A. Its exhibits are likely intended to bridge Indigenous and Western cultural perspectives.
+B. Its exhibits likely draw on the traditional knowledge of various Indigenous nations.
+C. Its capacity to showcase history and traditions may be constrained by the size of its facilities.
+D. Its exhibits are likely curated with a primary focus on serving the Mi’kmaq community.
+Answer: D
+
+Question 8:
+[Cross Text]
+Based on the texts, both the author of Text 1 and the author of Text 2 would most likely agree with which statement about scholarship on the modernist period in the United States?
+
+Text 1
+Scholarship today overrepresents experimentally fragmented narrative structures, such as that of Jean Toomer’s Cane, beyond the degree to which they actually influenced fiction in the United States during the modernist period (roughly 1900–1945). Meanwhile, Ellen Glasgow’s Barren Ground, whose coherent, linear narrative structure recalls the fiction of previous centuries, attracts woefully little attention from scholars of modernism.
+Text 2
+Distant reading, or computer-assisted quantitative analysis of massive collections of digitized texts, can reveal stylistic elements that have heretofore escaped notice, despite being shared by numerous texts from the modernist period. For too long, scholars have focused on narrative fragmentation versus coherence, inhibiting inquiry into other points of stylistic correspondence among works that would enrich our understanding of the modernist canon.
+
+
+A. At present, it only partially captures the stylistic dimensions of the fiction written in the period.
+B. Its primary methods for analyzing fiction written in the period are growing obsolete as computer technology advances.
+C. Instead of engaging in unproductive debates, it should work to rehabilitate the reputations of neglected modernist works.
+D. It must widen its focus to include aspects of modernist fiction beyond style, a productive but overrepresented site of inquiry.
+Answer: A
+
+Question 9:
+[COE]
+Which statement about Alfafali and other Africanist scholars is best supported by information in the text?
+
+Thomas Piketty and other historians of capitalism rarely discuss domestic capitalism in Africa before the period of European colonization, implicitly presenting capitalism as external to and imposed on Africa. Crisalynne Alfafali and other Africanist scholars have shown, however, that in parts of Africa, export-oriented manufacturing, the existence of salaried labor, and other features of capitalism predated colonization. One reason for this discrepancy is that historians of capitalism tend to focus on longitudinal economic data drawn from archival records, which do not exist for much of precolonial Africa.
+
+
+A. They likely view capitalism as having been more beneficial for Africa than historians of capitalism do.
+B. They likely have a different view about which activities should be considered capitalist in nature than historians of capitalism do.
+C. They likely make use of different types of evidence than historians of capitalism typically rely on.
+D. They likely differ from historians of capitalism in the methods they use to derive longitudinal economic data from archival records.
+Answer: C
+
+Question 10:
+[COE]
+Based on the text, what is notable about Schmidt’s behavior?
+
+The following text is from Mark Haber’s 2022 novel Saint Sebastian’s Abyss. The narrator and Schmidt are both art critics.
+When my first wife admitted to Schmidt over dinner that she didn’t find art, painting in particular, especially compelling, Schmidt winced, set down his fork, and sighed dramatically; he then excused himself, explaining an appointment he’d forgotten about had suddenly and inexplicably been remembered, while making it abundantly clear there was no appointment at all.
+
+
+A. Schmidt is only given to theatrical behavior when in the company of the narrator and his first wife.
+B. Schmidt conveys his feelings about one of his dining companions without explicitly stating them.
+C. Schmidt’s absentmindedness regarding his schedule is uncharacteristic of him.
+D. Schmidt’s departure is occasioned by the resumption of a previous disagreement with the narrator’s first wife about a particular painting.
+Answer: B
+
+Question 11:
+[COE]
+Which finding, if true, would most directly support the researchers' hypothesis presented in the text?
+
+Some herbicides contain copper oxide nanoparticles (CuO-NPs), which can leach into waterways and soils via wastewater. In a 2012 study, Chengfang Pang and colleagues found that CuO-NPs can accumulate in the bodies of New Zealand mud snails (Potamopyrgus antipodarum). While bioaccumulation of manufactured nanoparticles may be inherently worrisome, it has been hypothesized that CuO-NP bioaccumulation in invertebrates like P. antipodarum could serve a valuable proxy role, obviating the need for manufacturers to conduct costly and intrusive sampling of vertebrate species—such as African clawed frogs (Xenopus laevis), commonly used in regulatory compliance testing—for nanoparticle bioaccumulation, as environmental protection laws currently require.
+
+
+A. Compared with X. laevis, P. antipodarum can tolerate significantly higher CuO-NP concentrations without displaying any negative effects.
+B. It is easier to detect low and harmless concentrations of CuO-NPs in P. antipodarum than it is to detect high and harmful concentrations of CuO-NPs in X. laevis.
+C. CuO-NP concentrations in P. antipodarum tend to vary more from individual to individual than do CuO-NP concentrations in X. laevis when the species are exposed to similar levels of CuO-NPs.
+D. In comparable environments, P. antipodarum and X. laevis display comparable rates of CuO-NP uptake.
+Answer: D
+
+Question 12:
+[COE]
+Which choice most effectively uses data from the table to complete the example?
+
+Many films in a language other than English grow to be financially successful over the course of their time in movie theaters in the United States, but some become immediate successes in their opening weekends. A journalist claims that a film's reception can greatly influence its long-term success. Indications that the film is of high quality, such as an Oscar nomination, can dramatically boost public interest in the film and thus its overall earnings, even with a relatively modest opening weekend performance. For example, ___
+
+
+
+A. the opening weekend earnings for Instructions Not Included were $7,846,426 and $904,998 for The Girl Who Played with Fire.
+B. The Girl Who Played with Fire earned more money in its opening weekend than Amélie earned, but Amélie had higher lifetime earnings.
+C. Both Amélie and All About My Mother were recognized by the Oscars, but Amélie had higher lifetime earnings.
+D. All About My Mother was recognized by the Oscars, but Instructions Not Included, which was not recognized, had higher lifetime earnings.
+Answer: B
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+Antonia Olivia Dolan and colleagues had musicians and nonmusicians with clinically average hearing listen to recordings of nature sounds and music in popular genres like classic rock and heavy metal and adjust the volume to optimize their listening enjoyment. The researchers found that for a given recording that a musician and nonmusician identified as their favorite among those included in the study, optimal volume tended to be higher for the musician than for the nonmusician. Thus, if a musician and nonmusician both identified Led Zeppelin’s “Whole Lotta Love” as their favorite recording and the musician preferred to listen to it at a volume of 90.2 decibels, the nonmusician would be expected to
+
+
+A. find listening to “Whole Lotta Love” at 90.2 decibels less enjoyable than listening to it at a lower volume.
+B. not find it enjoyable to listen to any recordings at a volume as low as 90.2 decibels.
+C. prefer listening to other music at 90.2 decibels over listening to “Whole Lotta Love” at that volume.
+D. enjoy listening to the nature sounds at 90.2 decibels more than listening to “Whole Lotta Love” at 90.2 decibels.
+Answer: A
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+A 2018 analysis by economists Kenji Tanaka and Sofia Rossi suggested that increased corporate tax rates can have a detrimental effect on the overall financial health of a company—primarily by reducing the capital available for growth and investment. A common method for gauging corporate financial health is to examine its stock performance. Investigating this metric in the technology sector after a major tax reform, researchers David Chen and Maria Flores found that stock prices did not show a consistent decline in response to the increased tax burden. However, they observed that corporations may respond to tax hikes by executing share buyback programs, which can artificially elevate stock prices by reducing the number of shares in circulation, and they thus concluded that ______.
+
+
+A. analysts should consider the possibility that because corporations possess methods to counteract downward pressure on stock prices, stock performance may not be a consistently dependable measure of a company's underlying financial health.
+B. while their finding was at odds with the analysis by Tanaka and Rossi, this inconsistency could not be explained by the tendency of corporations to implement stock buybacks to conceal the true financial impact of tax increases.
+C. although higher corporate tax rates do not always lead to a decrease in stock prices, there is likely a broader trend of declining corporate financial health that is connected to tax policy but independent of stock market reactions.
+D. the effect of tax policy on corporate health that Tanaka and Rossi described was not apparent in the technology sector because the capital strategies used by these firms are probably not generalizable to all industries.
+Answer: A
+
+Question 15:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The 1968 founding of the Mexican American Legal Defense and Education Fund and the 1946 Mendez v. Westminster court decision are regarded as important events in US civil rights ___ former establishing a Latino rights advocacy group and the latter legally affirming the rights of Latino students.
+
+
+A. history the
+B. history, as the
+C. history. The
+D. history, the
+Answer: D
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Economists Claudia Goldin and Robert Margo meticulously examined historical records of wage structures in the United States known as the income distribution. Their analysis in the early 1990s led to the delineation of a distinct timeframe from 1940 to 1950—now termed the Great ______ wage inequality was drastically reduced, a divergence that labor economists continue to reference.
+
+
+A. Compression—when
+B. Compression when
+C. Compression: when
+D. Compression, when
+Answer: A
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Bathymetric profiling, a technique of submarine topography mapping, has identified geological formations at extreme depths below _____ the hydrothermal vent field known as Lost City; at 6,000 meters down, the chaotic terrain of the hadal trenches; and, in the deepest recesses, sedimentary deposits that have remained undisturbed for millennia.
+
+
+A. sea level at 800 meters down:
+B. sea level, at 800 meters down,
+C. sea level at 800 meters down,
+D. sea level: at 800 meters down,
+Answer: D
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In their 2017 study of vegetation cover in central Nigeria, researchers Aladesanmi Agbelade et al. used the Normalized Difference Vegetation Index (NDVI), which remains a popular metric for assessing vegetation density across large areas. The index’s accuracy may be compromised in certain environmental ______ NDVI values may appear artificially low in areas with dense canopy cover, potentially resulting in an underestimation of vegetation density.
+
+
+A. conditions, though;
+B. conditions; though
+C. conditions, though
+D. conditions, though,
+Answer: A
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+As the textbook Chemistry by Raymond Chang explains, every one of the periodic table’s 118 elements (including fluorine, or F) ______ shown with both its symbol and its atomic number.
+
+
+A. are
+B. are being
+C. have been
+D. is
+Answer: D
+
+Question 20:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In Argentina, the Chamber of Deputies is elected via a proportional representation (PR) system. In PR elections, votes are cast (not for specific candidates, as they are in single-member plurality systems, but for political parties) and then tabulated; ___ each qualifying party is awarded a number of seats proportional to the number of votes it received.
+
+
+A. second of all,
+B. in fact,
+C. by contrast,
+D. accordingly,
+Answer: D
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Jetties—long, narrow structures that extend from a landmass into the water—are often constructed to protect coastlines from erosion. Jetties can sometimes have the opposite _______ obstructing the natural flow of sand along the shore can lead to increased erosion in some areas.
+
+
+A. effect, though,
+B. effect, though;
+C. effect, though
+D. effect; though,
+Answer: B
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In eastern Mexico, Monument 53 and Monument 89 are the names given to two massive human head statues that were left behind by the ancient Olmec civilization. Both statues are made of stone and are extremely heavy. ______ they each weigh more than 5 tons!
+
+
+A. In fact,
+B. In any case,
+C. Instead,
+D. Earlier,
+Answer: A
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+KYUK is a Native-run radio station broadcasting from the Yukon-Kuskokwim Delta in Alaska. In 2004, Loris Taylor wanted to make sure that stations like KYUK continued to thrive. ______ she founded Native Public Media, a support system for Native radio stations that now includes around sixty stations.
+
+
+A. Therefore,
+B. Regardless,
+C. In other words,
+D. Besides,
+Answer: A
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The World Cup of men’s soccer, one of the biggest sporting events on the planet, brought 32 national teams from six continents to the host country, Brazil, in 2014. The event, which is held every four years, has expanded greatly since it was played in Italy in 1934. _____ the World Cup included only 16 teams, most from Europe and the Americas.
+
+
+A. On the other hand,
+B. As a result,
+C. Then,
+D. Similarly,
+Answer: C
+
+Question 25:
+[COE]
+The researcher wants to highlight a similarity between acetone and ethanol. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• In general, applying high-frequency sound waves to certain liquids results in their temperature rising.
+• The process of applying these high-frequency sound waves is termed sonication.
+• In a 2021 experiment conducted by Amina Patel and Robert Greer, different liquids were tested for temperature increase under sonication.
+• When acetone was exposed to sonication, its average temperature rose by 15°C.
+• When ethanol underwent sonication, its average temperature rose by 24°C.
+
+
+A. According to a 2021 experiment, both acetone and ethanol experienced temperature increases when exposed to sonication.
+B. Scientists found that under sonication, ethanol's average temperature rose more significantly than acetone's.
+C. In 2021, researchers studied how sonication affected the temperature of various liquids, including acetone and ethanol.
+D. Applying high-frequency sound waves generally raises the temperature of liquids, a phenomenon known as sonication.
+Answer: A
+
+Question 26:
+[Synthesis]
+The student wants to explain what a merchant vessel is and provide examples. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• A merchant vessel is any ship hired to carry cargo or passengers.
+• Common merchant vessels include bulk carriers, cruise liners, and oil tankers.
+• A vessel's carrying capacity is also known as its deadweight tonnage (DWT).
+• In 2021, there were a total of 1,236 merchant vessels registered in Greece.
+• The combined DWT of these vessels was 64.9 million tons.
+
+
+A. There were a total of 1,236 ships hired to carry cargo or passengers registered in Greece in 2021.
+B. The carrying capacity of bulk carriers, cruise liners, and oil tankers is measured in deadweight tonnage.
+C. A merchant vessel is any ship hired to carry cargo or passengers—like bulk carriers, cruise liners, and oil tankers.
+D. In total, Greece's 1,236 merchant vessels had a carrying capacity of 64.9 million tons in 2021.
+Answer: C
+
+Question 27:
+[Synthesis]
+The student wants to paraphrase a quotation from Kuhn to explain the non-cumulative, revolutionary nature of scientific progress. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching the philosophy of science, a student has taken the following notes:
+• The traditional view of scientific progress is that it is a linear, cumulative enterprise where new knowledge is continuously added to existing knowledge.
+ • In his 1962 book, *The Structure of Scientific Revolutions*, philosopher Thomas Kuhn challenged this view.
+ • Kuhn introduced the concept of a "paradigm"—a dominant theoretical framework and set of practices within which "normal science" operates.
+ • According to Kuhn, scientific advancement is not cumulative; rather, it's a "series of peaceful interludes punctuated by intellectually violent revolutions," where an "existing paradigm is found to have failed in the task of solving a problem...and is replaced by a new one."
+ • Kuhn also argued that successive paradigms are often "incommensurable," meaning they are so fundamentally different that they lack a common standard for direct comparison.
+
+
+A. Kuhn argues that scientific progress is a linear, cumulative process, punctuated by occasional anomalies that are resolved within the existing paradigm, leading to intellectually violent revolutions.
+B. According to Kuhn, the progression of science is characterized not by a steady accumulation of knowledge but by revolutionary moments in which an established theoretical framework is supplanted by a new one due to its inability to resolve critical anomalies.
+C. Thomas Kuhn's concept of a paradigm shift, as outlined in The Structure of Scientific Revolutions, has become a foundational idea in the philosophy of science, explaining how scientific theories evolve over time.
+D. In Kuhn's view, the failure of a paradigm is demonstrated when new and old theories become incommensurable, meaning that scientists operating under different frameworks can no longer effectively communicate about their work.
+Answer: B

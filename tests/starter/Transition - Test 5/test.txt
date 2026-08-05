@@ -1,0 +1,91 @@
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+A potter choosing which type of clay to use for a piece considers two key factors: the desired look of the piece and its intended use. ______ earthenware clay is often used for decorative pieces because of its rustic look. This type of clay is not often used in industrial settings, though, because it is less durable than other clays.
+
+
+A. In conclusion,
+B. For example,
+C. Regardless,
+D. In other words,
+Answer: B
+
+Question 2:
+[Infer]
+Which choice most logically completes the text?
+
+In 1815, while in exile in Jamaica, Venezuelan revolutionary Simón Bolívar penned a letter praising England’s republican government and expressing hope that Latin American nations seeking independence from Spain might achieve something similar. The letter was addressed to a local merchant, Henry Cullen; _____ though, Bolivar’s goal was to persuade political leaders from England and Europe to support his cause.
+
+
+A. additionally,
+B. ultimately,
+C. accordingly,
+D. consequently,
+Answer: B
+
+Question 3:
+[Infer]
+Which choice most logically completes the text?
+
+In 2018, Kurt Luther and Vikram Mohanty created the web-based tool Civil War Photo Sleuth (CWPS). A user uploading an unknown Civil War soldier’s photograph to CWPS first tags the photo with all known information. _____CWPS’s facial-recognition software analyzes twenty-seven different physical features and looks for matches to tagged images already in the database.
+
+
+A. Then,
+B. For example,
+C. Likewise,
+D. In fact,
+Answer: A
+
+Question 4:
+[Infer]
+Which choice most logically completes the text?
+
+When composing music for film, Japanese composer Joe Hisaishi typically uses traditional orchestral instrumentation with the piano as the lead, resulting in emotional, contemplative melodies. ______ for the score of the animated film *Spirited Away*, he incorporated some unorthodox digital instruments, such as synthesized chimes and bells, to create the whimsical, otherworldly sound of the spirit world.
+
+
+A. However,
+B. Moreover,
+C. Similarly,
+D. Therefore,
+Answer: A
+
+Question 5:
+[Infer]
+Which choice most logically completes the text?
+
+With its clichéd imagery of suburban lawns and power lines, John Ashbery’s 2004 poem “Ignorance of the Law Is No Excuse” may seem barren terrain for critical analysis. ______ cultural critic Lauren Berlant finds fertile ground in just its first two stanzas, devoting most of a book chapter to deciphering the “weight of the default space” Ashbery creates in this poem.
+
+
+A. That is,
+B. Likewise,
+C. Nonetheless,
+D. In turn,
+Answer: C
+
+Question 6:
+[Infer]
+Which choice most logically completes the text?
+
+If you were to view the OI Kokwe volcano in Kenya or the Asavyo volcano in Ethiopia from above, you might notice that their low profiles and gently sloping sides make each of them look a bit like a shield lying flat on the ground. ______volcanologists classify volcanoes of this type as shield volcanoes.
+
+
+A. Still,
+B. Besides,
+C. Second,
+D. Fittingly,
+Answer: D
+
+Question 7:
+[Infer]
+Which choice most logically completes the text?
+
+According to traditional classifications, each of William Shakespeare's plays belongs to one of three distinct genres: comedy, history, or tragedy. The play *Much Ado About Nothing* (1598-99),______ is classified as a comedy, whereas *Richard II* (1595) is classified as a history.
+
+
+A. in addition,
+B. similarly,
+C. for instance,
+D. however,
+Answer: C
+

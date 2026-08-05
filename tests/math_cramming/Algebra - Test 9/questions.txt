@@ -1,0 +1,86 @@
+Question 1:
+Which of the following expressions is equivalent to {{MATH_1}} ？
+
+A. {{MATH_2}}
+B. {{MATH_3}}
+C. {{MATH_4}}
+D. {{MATH_5}}
+Answer: D
+
+Question 2:
+For {{MATH_6}}, the function {{MATH_7}} is defined as follows:
+{{MATH_8}} equals {{MATH_9}}% of x
+Which of the following could describe this function?
+
+A. Decreasing exponential
+B. Decreasing linear
+C. Increasing exponential
+D. Increasing linear
+Answer: D
+
+Question 3:
+{{MATH_10}}
+{{MATH_11}}
+The functions {{MATH_12}} and g are defined by the given equations. What is the value of {{MATH_13}}?
+
+A. {{MATH_14}}
+B. {{MATH_15}}
+C. {{MATH_16}}
+D. {{MATH_17}}
+Answer: C
+
+Question 4:
+If {{MATH_18}}what is the value of {{MATH_19}} ?
+
+Answer: -12
+
+Question 5:
+For the linear function p, {{MATH_21}} where c is a constant, {{MATH_22}} and the slope of the graph of {{MATH_23}} in the xy-plane is{{MATH_24}}. For the linear function t, {{MATH_25}} and {{MATH_26}} . What is the slope of the graph of {{MATH_27}} in the xy-plane?
+
+A. {{MATH_28}}
+B. {{MATH_29}}
+C. {{MATH_30}}
+D. {{MATH_31}}
+Answer: D
+
+Question 6:
+The positive number a is {{MATH_32}}% of the sum of the positive numbers b and c, and b is {{MATH_33}}% of c. What percent of b is a?
+
+A. {{MATH_34}}
+B. {{MATH_35}}
+C. {{MATH_36}}
+D. {{MATH_37}}
+Answer: A
+
+Question 7:
+{{MATH_38}}
+The function F gives the temperature, in degrees Fahrenheit, that corresponds to a temperature of x kelvins. If a temperature increased by {{MATH_39}} kelvins. By how much did the temperature increase, in degrees Fahrenheit (dien so thap phan)?
+
+Answer: 13.86
+
+Question 8:
+The function {{MATH_41}} is a quadratic function. In the xy-plane, the graph of {{MATH_42}}has a vertex at {{MATH_43}} and passes through the points {{MATH_44}} and {{MATH_45}}. What is the value of {{MATH_46}}?
+
+A. {{MATH_47}}
+B. {{MATH_48}}
+C. {{MATH_49}}
+D. {{MATH_50}}
+Answer: C
+
+Question 9:
+The table shows three values of x and their corresponding values of y, where s is a constant. There is a linear relationship between x and y. Which of the following equations represents this relationship?
+
+A. {{MATH_51}}
+B. {{MATH_52}}
+C. {{MATH_53}}
+D. {{MATH_54}}
+Answer: B
+
+Question 10:
+The graph of {{MATH_55}} is shown. Which equation defines function {{MATH_56}} ？
+
+A. {{MATH_57}}
+B. {{MATH_58}}
+C. {{MATH_59}}
+D. {{MATH_60}}
+Answer: B

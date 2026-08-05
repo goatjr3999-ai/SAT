@@ -1,0 +1,363 @@
+Question 1:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Corn’s diffusion toward the Oneida people was geographically and temporally ______: as with other varieties developed by eastern North American tribes, the ancestry of Oneida white corn extends to southwestern populations, including one grown in Arizona circa 275 BCE, to older populations in northern Mexico, and finally to southern Mexico, where corn was domesticated circa 7000 BCE.
+
+
+A. opaque
+B. incremental
+C. volatile
+D. idiosyncratic
+Answer: B
+
+
+Question 2:
+Which choice best describes data from the table that support Taylor and team’s conclusion?
+
+Some animals evade predation with the help of contrasting markings that signal toxicity. Lisa Taylor and team studied how jumping spiders behave toward termites (their regular prey) to which solid black, solid white, or black-and-white striped (i.e., contrasting) capes were affixed. Each spider was placed in a clear container in the center of a circular dish in which six termites, two with each of the three cape types, could be seen. Noting which termites the spiders first looked at and which termites they ultimately targeted, the researchers concluded that contrasting markings were a deterrent.
+
+
+
+A. Half of the spiders that first looked at a termite wearing a black-and-white striped cape attacked a termite wearing a solid white cape, and the other half of those spiders were just as likely to attack a termite wearing a black-and-white striped cape as they were to attack a termite wearing a solid black cape.
+B. For each type of cape, a majority of the spiders that first looked at a termite wearing that type of cape attacked a termite wearing that same type of cape.
+C. Regardless of the type of cape worn by termites the spiders first looked at, the large majority of spider attacks were on termites wearing solid-color capes.
+D. None of the spiders that first looked at a termite wearing a solid white cape attacked a termite wearing a black-and-white striped cape.
+Answer: C
+
+
+Question 3:
+Which finding, if true, would most directly undermine the researchers' hypothesis?
+
+Morphological specialist plants—those with highly modified traits, e.g., long corollas (collections of petals)—may interact exclusively with pollinators with complementary traits and are thus also often ecological specialists, typically associated with greater pollinator partitioning (i.e., sharing relatively few pollinator species with other plants). Hypothesizing that these types of specialization are positively correlated among _Bomarea hirsuta_ and other hummingbird-visited plants of the Talamanca Mountain Range, María A. Maglianesi et al. monitored hummingbird-plant interactions at sites of various elevations, including Los Cusingos Bird Sanctuary (low elevation) and Villa Mills Experimental Biological Station (high elevation), and recorded corolla lengths of visited plants.
+
+
+A. Though plant species with nonspecialized corollas made up a smaller proportion of the plant population at Los Cusingos Bird Sanctuary than at Villa Mills Experimental Biological Station, the level of pollinator partitioning was greater at the low-elevation site than at the high-elevation site.
+B. Though plant species at Los Cusingos Bird Sanctuary typically have longer corollas than plant species at Villa Mills Experimental Biological Station do, a consistent level of pollinator partitioning was observed across the two sites.
+C. Though mean corolla length varied more widely among plant species at Los Cusingos Bird Sanctuary than at Villa Mills Experimental Biological Station, the level of pollinator partitioning was greater at the low-elevation site than at the high-elevation site.
+D. Though the level of pollinator partitioning increased with elevation at a consistent rate, a greater number of hummingbird species were observed at Los Cusingos Bird Sanctuary than at Villa Mills Experimental Biological Station.
+Answer: B
+
+
+Question 4:
+Which choice most effectively uses data from the table to complete the example?
+
+Table: Properties of TRAPPIST-1 Exoplanets Compared to Earth’s Properties
+
+TRAPPIST-1 is a planetary system with a central red dwarf star and several Earth-sized exoplanets. Each planet in this system is so close in orbit to the star that the gravitational forces acting between the planet and the star cause the planet’s rotational period around its axis and orbital period around the star to be equal. For example, the orbital period of TRAPPIST-1e is _____
+
+
+A. 6.1 days, and its rotational period is 0.92 days.
+B. 1.51 days, which is the shortest rotational period of any of the TRAPPIST planets.
+C. 6.1 days, and its rotational period is also 6.1 days.
+D. 9.21 days, which is the same as the rotational period of TRAPPIST-1f.
+Answer: C
+
+
+Question 5:
+Assuming the data in the table are broadly representative, do the data support the researcher’s hypothesis as presented in the text?
+
+By examining trait distributions across phylogenetic lineages, evolutionary biologists can determine whether trait similarities result from shared ancestry, leading to consistent presence of the trait among closely related species, or from convergent evolution under similar selective pressures, leading to the independent appearance of the trait in more distantly related species occupying similar ecological niches. Hypothesizing that orbit (eye socket) orientation in the families Canidae and Felidae (both within the order Carnivora) is primarily driven by the latter mechanism, a researcher measured frontation angles—the extent to which species’ orbits face downward or upward—in feld and candi species occupying various habitats and preferring different substrates.
+Average Frontation Angle for Five Species by Family, Habitat, and Preferred Substrate
+
+
+
+A. No, because frontation angles are relatively consistent across ecological categories, with values for species inhabiting closed arboreal habitats and species inhabiting open terrestrial habitats ranging from 56.51 to 67.61 and from 54.89 to 65.80, respectively
+B. Yes, because frontation angles are lower for candi species than for feld species regardless of habitat or preferred substrate, with values for species from the same taxonomic family clustering in a relatively narrow range
+C. Yes, because frontation angles show a moderately strong relationship with ecological niches, with two out of three species in either inhabiting closed habitats or preferring terrestrial substrates
+D. No, because frontation angles cluster by taxonomic family rather than by ecological categories, with similar values measured for species from the same family despite their occupation of different ecological niches
+Answer: D
+
+
+Question 6:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Studying sales and price data for 325 brands of laundry detergents, shaving razors, cereal bars, and other consumer packaged goods, Koushyar Rajavi and colleagues found that pricing, though hardly ______ brand success, made a much less pronounced contribution to brand success than retail distribution breadth did.
+
+
+A. uncharacteristic of
+B. determinative of
+C. contingent on
+D. immaterial to
+Answer: D
+
+
+Question 7:
+Which choice best describes data from the table that support the researchers' conclusion?
+
+Observed Traits in a Population of Broadleaf Arrowhead, by Flowering Date
+
+The mating environment hypothesis predicts that populations of flowering plants compensate for reduced mating opportunities due to dichogamy (a plant's expression of male and female functions at separate times to prevent self-pollination) by adjusting the bias of floral sex allocation during the flowering period, increasing the probability of successful cross-plant pollination. Researchers tested the hypothesis by examining a population of broadleaf arrowhead, a plant for which bloom onset generally takes longer for male flowers than for female flowers, during the flowering season. They concluded that the mating environment hypothesis is not well supported by their observational data.
+
+
+A. Whereas the total number of open flowers per growth unit peaked on day 15, the proportion of male flowers experienced a peak earlier in the flowering season, on day 10.
+B. Despite the sharp reduction in the total number of open flowers per growth unit from day 15 to 20, there was no decline in the estimated reproductive success rate of male flowers in that interval.
+C. Sex allocations were largely evenly distributed on days 10 and 15 but were female biased on days 5 and 20.
+D. Although sex allocations became overwhelmingly female biased by day 20, male flowers' estimated reproductive success rate did not vary from day 5 to 20.
+Answer: D
+
+
+Question 8:
+Based on the text and the table, is the student’s conclusion reasonable?
+
+In a 2013 study, Akihito Mochizuki et al. determined that aqueous concentration of the element uranium (U) in Lake Biwa, Japan, varies nearly threefold from season to season. Such fluctuations in lakes are driven primarily by variations in lakes’ pH levels. On the basis of the findings of Mochizuki et al., a student analyzing data on concentrations of U-238, an isotope that accounts for more than 99% of all naturally occurring U, in water samples from two Chinese lakes—Gabai Lake and Tuosu Lake—hypothesizes that relative to these two lakes, Lake Biwa experiences greater seasonal variation in pH levels.
+Seasonal Variation in U-238 Concentration in Gabai Lake and Tuosu Lake
+
+
+
+A. No, because the data show only U-238 concentrations and not pH levels in the Gabai Lake and Tuosu Lake samples, making it impossible to draw well-founded conclusions about variation in pH levels in those lakes.
+B. Yes, because the data show that the U-238 concentrations in the samples from Gabai Lake and Tuosu Lake remain relatively stable, increasing only from 16.2 µg/L to 18.3 µg/L and 34.4 µg/L to 35.5 µg/L, respectively, from summer to winter.
+C. No, because the data reveal different ranges of seasonal variation in U-238 concentrations between the sampled lakes, from Gabai Lake ranging from 16.2 µg/L to 18.3 µg/L and the samples from Tuosu Lake ranging from 34.4 µg/L to 35.5 µg/L.
+D. Yes, because the data indicate that the difference between the U-238 concentrations in the Gabai Lake samples and those in the Tuosu Lake samples remains nearly constant from summer to winter.
+Answer: B
+
+
+Question 9:
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Visiting flowers that produce high volumes of nectar allows hummingbirds, including scaly-breasted hummingbirds, to maximize their foraging efficiency. But nectar can't be seen from outside the flower, and while __some studies have suggested that petal length may indicate nectar volume__, Marla A. Maglianesi and team found no such association among hummingbird-visited plants at Los Cusingos Bird Sanctuary and other sites in Costa Rica. The researchers hypothesize that by driving hummingbirds to visit more plants in search of high-reward flowers, plants' lack of reliable signaling may increase chances of pollination.
+
+
+A. It suggests that a hypothesis discussed later in the text regarding a potential visual cue that hummingbirds rely on to increase their foraging efficiency has little support from the broader scientific community.
+B. It summarizes contradictory study findings concerning a floral trait that influences hummingbird foraging patterns, which the study mentioned later in the text aimed to resolve.
+C. It attributes the inconclusive findings reported in the text regarding the influence of a particular floral trait on interactions between hummingbirds and plants to differences in study sites.
+D. It acknowledges research findings, which weren't replicated by the study discussed later in the text, positing a relationship between floral traits that potentially underlies hummingbird foraging decisions.
+Answer: D
+
+
+Question 10:
+Which statement, if true, would most strongly support the text's description of On Earth We're Briefly Gorgeous?
+
+Autofiction is an emerging literary form that incorporates autobiographical writing into fiction. Practitioners of autofiction emphasize the autobiographical aspects of their work by patterning their protagonists' lives after their own, typically naming their protagonists after themselves. Autofiction usually borrows formal elements from autobiographical writing too, including its first person point of view and its use of a narrative voice so forthright that it borders on confessional. Ocean Vuong's 2019 novel On Earth We're Briefly Gorgeous is a representative work of autofiction, one that erases the distinction that fiction typically observes between authors and the characters they create.
+
+
+A. The novel portrays the upbringing of the protagonist, a young writer, in a working-class Vietnamese American family that is virtually identical to Vuong's family, and the protagonist narrates the novel in a tone that many reviewers describe as surprisingly frank.
+B. Although the narrative of On Earth We're Briefly Gorgeous proceeds in a largely chronological fashion, as narratives do in most works of fiction, the form of Vuong's narrative is unique: the novel consists of a single long letter that the protagonist, a soft-spoken young man, has written to his mother.
+C. On Earth We're Briefly Gorgeous makes use of imagery in much the same way that contemporary poetry does, exploiting certain images—butterflies for example—for their emotional or conceptual associations; in this way, Vuong blurs the distinction between poetry and fiction.
+D. The novel's protagonist bears an obvious resemblance to Vuong, and in interviews Vuong speaks of the protagonist as a sort of alter ego; the protagonist refers to himself as "Little Dog" throughout the novel and never divulges his actual name.
+Answer: A
+
+
+Question 11:
+Which choice most effectively uses information from the text and data from the table to support the student’s claim?
+
+Projected Percent Change in Agricultural Production and Market Price under Tariff-Elimination Scenario
+
+A tariff is a tax on imported goods intended to protect domestic producers of similar goods from international competition. Eliminating tariffs can lead to an influx of cheaper imported goods, lowering prices; in a place where domestic production is relatively expensive, this influx can suppress domestic production, as the country’s consumers favor more cheaply produced imported goods over domestically produced ones. A student consults a table showing projected changes in production and average market prices of agricultural commodities in four countries in a tariff-elimination scenario. Based on the data, the student claims that compared with India and Russia, agricultural production in Argentina and the United States is likely relatively inexpensive.
+
+
+A. Although agricultural production in India and Russia would likely decrease if tariffs were eliminated, it would likely increase in both Argentina and the United States.
+B. Although eliminating tariffs would likely cause agricultural market prices to decrease in most locations, it would likely cause agricultural market prices to increase in both Argentina and the United States.
+C. Argentina and the United States are the only countries shown that are projected to see both an increase in agricultural production and a reduction in agricultural prices in the absence of tariffs.
+D. In the absence of tariffs, total agricultural production in Argentina and the United States would likely exceed that in India and Russia.
+Answer: A
+
+
+Question 12:
+Which choice most effectively uses a quotation from a translation of The Clouds to illustrate the claim?
+
+The Clouds is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught customers rhetorical techniques to use in public speaking, along with providing instruction in other subjects. In the play, Aristophanes satirizes sophists as having an exaggerated sense of their own wisdom, as seen when the character ______.
+
+
+A. Strepsiades encourages his son to learn to be a sophist, saying, "If you have any concern for your father's patrimony, become one of them."
+B. Strepsiades says of a sophist business, "There dwell men who in speaking of the heavens persuade people that it is an oven, and that it encompasses us, and that we are the embers. These men teach, if one give them money, to conquer in speaking, right or wrong."
+C. Socrates, a sophist, says to a new customer, "Come, then, take care that whenever I propound any clever dogma about abstruse matters, you [seize] immediately."
+D. Socrates, a sophist, says of a new customer, "I have not seen any man so boorish, nor so impracticable, nor so stupid, nor so forgetful; who, while learning some little petty quibbles, forgets them before he has learned them".
+Answer: C
+
+
+Question 13:
+Which choice best states the function of the underlined portion in the text as a whole?
+
+Fossil evidence indicates that the End-Triassic mass extinction—the relatively sudden die-off of about 80 percent of species (including many species of dinosaurs)—occurred approximately 201 million years ago. Researchers have identified the effects of volcanic activity as a possible initial cause of this mass extinction. But mass extinctions, __while abrupt in geological terms__**,** unfold over thousands or millions of years: it’s likely that multiple factors drove extensive species loss.
+
+
+A. It expands on the uncertainty mentioned earlier regarding the pace of extinction of species of dinosaurs relative to that of other species.
+B. It offers support for an earlier claim about the primary cause of a mass extinction that is then qualified by the information that follows.
+C. It emphasizes that a question about the beginning of a mass extinction raised by the researchers mentioned earlier is still unresolved.
+D. It concedes that the pace of mass extinctions as described in the information that follows is perceived differently when considered from another point of view.
+Answer: D
+
+
+Question 14:
+What does the text most strongly suggest about the study conducted by Rosas-Guerrero et al.?
+
+Pollination syndromes are suites of floral traits that have independently evolved as a result of selection pressure exerted by pollinators; psychophilous (butterfly-pollinated) flowers, for example, frequently exhibit a narrow, tubular shape. In a review of previous studies covering 417 plant species, Victor Rosas-Guerrero et al. concluded that the syndromes reliably predict angiosperms’ most effective pollinators. However, in a response paper, Jeff Ollerton et al. note that Rosas-Guerrero et al. may have inadvertently excluded studies published before the term “pollinator effectiveness” came into common use.
+
+
+A. Because the study contained data on a limited number of plant species, its conclusion is accurate for those species but cannot be applied to species not in the study.
+B. A limitation in the methodology used by the researchers may entail that the study’s conclusion is not well supported.
+C. Due to the difficulty of gathering representative research on angiosperms, the study may have included previous research with a focus too heterogeneous to be comparable.
+D. The approach selected by the researchers enabled them to sort through and remove obviously incomplete or inconsistent data before conducting their analysis.
+Answer: B
+
+
+Question 15:
+Which quotation from The Monster most effectively illustrates the claim?
+
+*The Monster* is an 1898 story by Stephen Crane. In the story, the character of Jim, a young boy, is playing in his yard while his father mows the lawn; while playing, Jim accidentally damages a peony (a flower). Crane emphasizes Jim's energy and his distracted absorption in his play by writing, _______ .
+
+
+A. "[W]hen [Jim] swung around the curve at the flower-bed, a wheel of his cart destroyed a peony."
+B. "Finally [Jim] went to the peony and tried to stand it on its pins; resuscitated, but the spine of it was hurt, and it could only hang limply from his hand."
+C. "[Jim's father] was shaving this lawn as if it were a priest's chin."
+D. "Little Jim was, for the time, engine Number 36, and he was making the run between Syracuse and Rochester. He was fourteen minutes behind time, and the throttle was wide open."
+Answer: D
+
+
+Question 16:
+Which choice most logically completes the text?
+
+The advent of online streaming has led many music listeners to drift away from ownership of music (through downloads or through physical media such as compact discs) in favor of the streaming services Apple Music and AccuRadio, among others. Luis Aguiar studied the effect of the 2011 implementation of a restriction on the free version of the French streaming service Deezer: its unlimited usage was reduced to five hours a month, while the paid premium version’s usage remained unlimited. Aguiar found that listeners who used the free service visited licensed online music sellers (e.g., the iTunes store) and sites that make unlicensed music available to download about 2% less after the restriction was implemented, suggesting that _____
+
+
+A. consumers are unlikely to purchase physical copies of music that is readily available through streaming.
+B. restrictions on the amount of music that can be streamed may actually suppress users’ interest in owning music.
+C. most users of the free streaming service were probably encouraged by the restriction to move to a paid version of the service with unlimited, ad-free listening.
+D. the implementation of the restriction reduced the overall number of users of the streaming service.
+Answer: B
+
+
+Question 17:
+Which choice most logically completes the text?
+
+Exclusively inhabiting tropical countries such as Burundi, wild chimpanzees lack adaptations to seasonal variations in ultraviolet B (UVB) irradiance from sunlight, since UVB exposure enables vertebrates to synthesize vitamin D. Sophie Moittié and colleagues studied zoo chimpanzees in Ireland and other mid-latitude countries to see how vitamin D levels are affected by the seasonal variations in UVB irradiance that occur in those locations. They found that chimpanzees’ vitamin D levels were significantly lower in winter than in summer and appeared unaffected by oral supplementation of vitamin D administered by zookeepers. Moittié and colleagues point out, however, that supplementation was rare, highly varied, and poorly tracked, and therefore they caution against concluding that _____
+
+
+A. winter reductions in UVB irradiance in Ireland and other mid-latitude countries can contribute to variations in zoo chimpanzees’ vitamin D levels.
+B. the lack of an observed effect of supplementary vitamin D on zoo chimpanzees in Ireland and other mid-latitude countries may reflect shortcomings in the data rather than actual ineffectiveness.
+C. providing zoo chimpanzees in Ireland and other mid-latitude countries with supplemental vitamin D has no promise as a strategy for offsetting winter reductions in their vitamin D levels.
+D. vitamin D levels among zoo chimpanzees in Ireland and other mid-latitude countries likely show different seasonal patterns than do vitamin D levels among wild chimpanzees in Burundi and other tropical countries.
+Answer: C
+
+
+Question 18:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The mihrab (or niche) is one of many features that are foundational to traditional mosque architecture and is therefore considered ______ aspect of mosque design. Even mosques that exhibit elements of multiple architectural styles, such as the KH Hasyim Asy'ari Grand Mosque, which incorporates elements from the Betawi and Indonesian Islamic styles, will also include several of these standard features.
+
+
+A. an imposing
+B. an embellished
+C. a quintessential
+D. an unprecedented
+Answer: C
+
+
+Question 19:
+Which choice best describes the overall structure of the text?
+
+*The Silence of Dean Maitland* is one of twenty-five works from the nineteenth and early twentieth centuries reissued in 2020 in a project professing to give overdue credit to authors by replacing nonfemale pseudonyms with the authors’ given female names (crediting Mary Tuitiett rather than Maxwell Gray, in this case). Olivia Rutigliano and other scholars cite a lack of nuance and erasure of intention in the implication that pseudonymous identities were invariably necessary due to social roles, appropriately contending that what may have been a constraint for some was an elective exercise in self-fashioning for others.
+
+
+A. A literary project is briefly described, the stance taken by Rutigliano and others in response to that project is introduced, and then support for that stance is expressed.
+B. Details about a reissue of The Silence of Dean Maitland are given, a question about the authorship of that work is raised, and then the circumstances of the work’s original publication are considered.
+C. The Silence of Dean Maitland is cited as a prominent work from a literary movement, a study of the movement’s defining features is mentioned, and then one of the study’s insights is presented.
+D. An assertion about a literary project is reported, the team of scholars that advanced the assertion is identified, and then the reasoning behind the assertion is summarized.
+Answer: A
+
+
+Question 20:
+Which finding from the simulation, if true, would most directly support the researchers’ conclusion?
+
+In modern flowering plants, such as the snakebark maple, hierarchical reticulate (netlike) venation, which consists of small veins extending from larger central veins, is common, but the earliest vascular plants had nonhierarchical venation. Researchers conducted a simulation using images of Betula alba (a modern flowering plant) leaves and fossil leaves of Reticulopteris muensteri and Rhacopteris lindsaformis, extinct pteridosperms (seed ferns) with nonhierarchical reticulate and nonhierarchical branching venation, respectively, to assess the impact of insect folivory (leaf-eating) on vascular function in plants with different venation patterns. They concluded that when experiencing folivory, plants may benefit from hierarchical venation.
+
+
+A. Removing central veins in B. alba was much more likely to result in the sudden collapse of vascular function than removing smaller veins in any of the three plant species was.
+B. In B. alba, decline in vascular function was directly proportional to the extent of vein network damage, but in R. muensteri and R. lindsaformis, vascular function declined disproportionately rapidly as loss of vein network increased.
+C. Vascular function was negatively correlated with the extent of damage to the vein network in B. alba but was positively correlated with the extent of damage in both R. muensteri and R. lindsaformis.
+D. At a given percentage of leaf vein loss, vascular function in B. alba and R. muensteri was much more likely to remain unimpeded than it was in R. lindsaformis.
+Answer: B
+
+
+Question 21:
+Based on the texts, the author of Text 2 would most like to know the answer to which question about Cruz and colleagues' study that is not addressed in Text 1?
+
+Text 1:
+The University of California, Irvine, and the online class provider edX are two of the many institutions offering training programs in entrepreneurship. But what results do such programs produce? In a study of businesspeople in Spain, researcher Natalia Cruz and colleagues addressed this question and reported that participants who received entrepreneurial training showed high innovativeness in entrepreneurial activities.
+Text 2:
+While studies of entrepreneurial training typically report positive results, a close look at these studies reveals widespread methodological shortcomings. This research literature is plagued by unclear hypotheses, insufficient sample sizes, a lack of control groups, and failures to establish pretraining baselines for the measured attributes of participants.
+
+
+A. Did Cruz and colleagues measure any attributes of the participants in the study after they had received the training?
+B. Did the participants that Cruz and colleagues included in the study share any characteristics or life circumstances?
+C. How many Spanish businesspeople did Cruz and colleagues include in the study?
+D. Did Cruz and colleagues compare Spanish businesspeople who received the training with a group of successful entrepreneurs who did not receive the training?
+Answer: C
+
+
+Question 22:
+Which choice most logically completes the text?
+
+In 1973, oil prices rose 16% between April and September, creating what economists term an oil shock. Although oil shocks have occurred multiple times since 1945, a broadly applicable description of how oil shocks affect economies at the national level has proved elusive, a problem typically attributed to the fact that oil shocks' effects are substantially conditioned on country-specific characteristics (oil import-export ratios, most importantly). Recently, however, Gbadebo Oladosu et al. showed that economists' estimates of national economies' responsiveness to oil shocks are highly heterogeneous even within a given country and time frame—ranging by more than a factor of five in the case of Japan during a recent oil shock, for instance—suggesting that ______.
+
+
+A. differences in oil import-export ratios from one country to another may account for more of the differences in the effects of oil shocks on those countries' economies than economists previously believed.
+B. controlling for variations in countries' oil import-export ratios may have obscured inconsistencies in economists' findings about the effects of oil shocks at national levels.
+C. economists' conventional measures of national economic activity may be insufficiently sensitive to the effects of oil shocks.
+D. methodological discrepancies in studies of oil shocks may have contributed to economists' inability to provide a generalized model of oil shocks' effects on national economies.
+Answer: D
+
+
+Question 23:
+Which finding from the study, if true, would most directly account for the recommendation by Venter et al.?
+
+Vegetation has two primary mechanisms by which it reduces air pollution: deposition (absorption of pollutants) and, the more effective, dispersion (dilution of pollutants by ventilation). Accordingly, establishment of green space to reduce major air pollutants such as coarse particulate matter in urban areas receives considerable attention. Research by Zander S. Venter et al. comprised data from air-quality monitoring stations in Belgium, the US state of West Virginia, and thousands of other global locations over a ten-year span, coupled with aerial imagery of those locations from the same period. The researchers ultimately recommended that reducing anthropogenic emissions remain the primary focus of urban air-quality improvement efforts.
+
+
+A. The association between levels of coarse particulate matter and green space is strongly negative for locations containing or in close proximity to major cities but becomes insignificant for more rural locations.
+B. The association between green space and coarse particulate matter levels is moderately negative overall but becomes slightly negative and sometimes positive when consideration is limited to busy streets with tree cover heavy enough to hinder ventilation.
+C. Ambient levels of coarse particulate matter are comparable across locations with comparable local infrastructure (e.g., typical building shape) but vary considerably depending on the predominant type of vegetation present.
+D. There is a predictable relationship between a location’s typical climate conditions and the efficacy of green space in that location, but anomalous local weather events have an outsized effect on deposition and dispersion of coarse particulate matter.
+Answer: B
+
+
+Question 24:
+Which finding from the simulation, if true, would most directly support the researchers’ conclusion?
+
+In modern flowering plants, such as the snakebark maple, hierarchical reticulate (netlike) venation, which consists of small veins extending from larger central veins, is common, but the earliest vascular plants had nonhierarchical venation. Researchers conducted a simulation using images of Betula alba (a modern flowering plant) leaves and fossil leaves of Reticulopteris muensteri and Rhacopteris lindsaformis, extinct pteridosperms (seed ferns) with nonhierarchical reticulate and nonhierarchical branching venation, respectively, to assess the impact of insect folivory (leaf-eating) on vascular function in plants with different venation patterns. They concluded that when experiencing folivory, plants may benefit from hierarchical venation.
+
+
+A. Removing central veins in B. alba was much more likely to result in the sudden collapse of vascular function than removing smaller veins in any of the three plant species was.
+B. In B. alba, decline in vascular function was directly proportional to the extent of vein network damage, but in R. muensteri and R. lindsaformis, vascular function declined disproportionately rapidly as loss of vein network increased.
+C. Vascular function was negatively correlated with the extent of damage to the vein network in B. alba but was positively correlated with the extent of damage in both R. muensteri and R. lindsaformis.
+D. At a given percentage of leaf vein loss, vascular function in B. alba and R. muensteri was much more likely to remain unimpeded than it was in R. lindsaformis.
+Answer: B
+
+
+Question 25:
+In a paper for a philosophy class, a student wants to challenge the line of reasoning presented in the text. Which quotation from a work of philosophy would be most effective for the student to include?
+
+Elizabeth Gaskell, who was born in 1810, is the author of *North and South.* In a commonsense view, “Elizabeth Gaskell was born in 1810” and “the author of *North and South* was born in 1810” are identical in meaning and thus—because “was born in 1810” is constant—“Elizabeth Gaskell” is identical to “the author of *North and South.*” But this conclusion conflicts with the principle, foundational to logic and mathematics, that identical entities are necessarily substitutable in any possible world (i.e., if A = B, then B can always be substituted for A), since it was possible for Gaskell to exist but not to write *North and South.* This situation suggests that there may be something wrong with our principle about the substitutability of identical entities.
+
+
+A. “In everyday speech, we tend to talk about circumstantial characteristics of individuals (e.g., a person behaves shyly at a party) as though they are inherent characteristics of those individuals (we say the person is shy) though unfair; this tendency is more efficient than spelling out all the contingent circumstances every time we want to communicate about individuals.”
+B. “A proper name is a mere tag that refers to an individual but lacks any content; although it and a description are often able to refer to the same person in our minds, equating them is a mistake, since a name communicates no properties of the person, while a description does.”
+C. “Although the principle that two entities that are identical are necessarily substitutable sounds plausible and is useful in everyday life, it is very hard to demonstrate the validity of this principle through a logical proof without making some highly debatable assumptions.”
+D. “When scholars write about an author, they typically use the author’s full name or last name, whereas acquaintances would typically have referred to that author by first name alone; though different parts of the same proper name are used in different contexts, it would be incorrect to think that different people are therefore being referenced.”
+Answer: B
+
+
+Question 26:
+Which choice most logically completes the text?
+
+In 1973, oil prices rose 16% between April and September, creating what economists term an oil shock. Although oil shocks have occurred multiple times since 1945, a broadly applicable description of how oil shocks affect economies at the national level has proved elusive, a problem typically attributed to the fact that oil shocks' effects are substantially conditioned on country-specific characteristics (oil import-export ratios, most importantly). Recently, however, Gbadebo Oladosu et al. showed that economists' estimates of national economies' responsiveness to oil shocks are highly heterogeneous even within a given country and time frame—ranging by more than a factor of five in the case of Japan during a recent oil shock, for instance—suggesting that ______.
+
+
+A. differences in oil import-export ratios from one country to another may account for more of the differences in the effects of oil shocks on those countries' economies than economists previously believed.
+B. controlling for variations in countries' oil import-export ratios may have obscured inconsistencies in economists' findings about the effects of oil shocks at national levels.
+C. economists' conventional measures of national economic activity may be insufficiently sensitive to the effects of oil shocks.
+D. methodological discrepancies in studies of oil shocks may have contributed to economists' inability to provide a generalized model of oil shocks' effects on national economies.
+Answer: D
+
+
+Question 27:
+Which finding, if true, would most directly weaken the researchers’ conclusion?
+
+Nautilids are marine mollusks that begin growing their shells before emerging from their eggs and continue to add shell segments throughout their lifetimes. The walls between their shell chambers are called **septa**, and the deeper the water in which a septum forms, the greater the concentration of the isotope **oxygen-18** the septum will contain. Since temperature falls as depth increases, if the area of ocean a nautilid inhabits is known, this isotopic signature can reveal the temperature at which its septa formed. Paleontologist Amane Tajika and colleagues examined each of the septa in two nautilid shells and concluded that septum sample **M23** formed at a temperature of 14.0 °C whereas sample **F02** formed at 20.8 °C.
+
+
+A. At a depth of 140 meters in the nautilids’ habitat, the water is 20.8 °C and the concentration of oxygen-18 is equal to that in sample F02.
+B. The concentration of oxygen-18 in F02 is higher than that in M23.
+C. The concentration of oxygen-18 in F02 is lower than that in M23.
+D. At a depth of 385 m in the nautilids’ habitat, the water is 14.0 °C and the concentration of oxygen-18 is equal to that in sample M23.
+Answer: B

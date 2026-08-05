@@ -1,0 +1,378 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although protected areas (PAs) achieve nature conservation goals by restricting certain kinds of economic activity, ecologically responsible industries can thrive in such areas: many PAs, including Abernethy National Nature Reserve in Scotland, generate revenue from tourism. However, these ventures' success often stems from particular regional circumstances and can be challenging to _______ elsewhere.
+
+
+A. concede
+B. redress
+C. counterfeit
+D. replicate
+Answer: D
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+As discussed by scholar Anna Mladentseva, many artworks produced in the mid-1990s to the early 2000s exclusively for exhibition on the internet, such as Sinae Kim’s Genesis (2001), have become inaccessible because viewing them requires the use of ______ software (most notably Adobe Flash, discontinued in 2021).
+
+
+A. extraneous
+B. arcane
+C. defunct
+D. ubiquitous
+Answer: C
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Proposals to raise the age at which retirees begin receiving government transfers of funds are generally discussed in terms of the effects on transfer recipients, but Andria Smythe has argued that delaying such transfers could ______ wealth creation among working adults by lengthening the period in which they are providing financial support to their nonworking parents.
+
+
+A. disparage
+B. compound
+C. outstrip
+D. stymie
+Answer: D
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The discoverers of the minor planet 1227 Geranium named it after the plant genus that includes cranesbills. Most of the recently discovered minor planets, however, are given only an identification number, largely due to there being over 500,000 such bodies known at present, which makes the already challenging task of finding a unique name for each nearly ___.
+
+
+A. feasible
+B. unnecessary
+C. substantial
+D. insurmountable
+Answer: D
+
+Question 5:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is adapted from George Eliot’s 1857 short story “The Sad Fortunes of the Rev. Amos Barton.” The Countess Czerlaski is a newcomer to the town of Milby.
+I am by no means sure that if the good people of Milby had known the truth about the Countess Czerlaski, they would not have been considerably disappointed to find that it was very far from being as bad as they imagined. Nice distinctions are troublesome. It is so much easier to make up your mind that your neighbour is good for nothing, than to enter into all the circumstances that would oblige you to modify that opinion.
+
+
+A. To offer commentary on a human foible that may account for why the people of Milby view the Countess Czerlaski as they do
+B. To speculate on the circumstances under which the unfavorable opinion of the Countess Czerlaski that is held by the people of Milby could be improved
+C. To explain why the people of Milby are somewhat correct to reproach the Countess Czerlaski for her misdeeds
+D. /To engage the reader’s compassion for both the Countess Czerlaski and the people of Milby by detailing their different viewpoints
+Answer: A
+
+Question 6:
+[COE]
+In pointing to the apparent job decline in the manufacturing sector, the analysts mentioned in the passage intend to raise a question whether
+
+Although some analysts point to specific sectors like manufacturing, where job numbers appear to have fallen, a recent economic report's conclusion is that in recent years the national economy has experienced faster overall job growth than in previous decades. It has long been suspected by economists that several factors are responsible for more significant shifts in employment in modern economies than in the past. First, much of the economy is now based on technology, which is highly dynamic; as some jobs become obsolete, new ones are created, which serves to accelerate labor market churn. Second, the globalized nature of the market means less capital is needed to shift production. Third, less economic value is lost to regulatory friction in a deregulated environment than in a highly regulated one.
+
+
+A. The manufacturing sector is less likely to experience significant employment shifts than are other sectors of the economy.
+B. Those more sector-specific job losses might indicate an important weakness not captured by the upward trend of the overall economic data.
+C. There might be a reversal of the employment trend in the manufacturing sector.
+D. The factors that cause employment change in the manufacturing sector are different from those that affect the rest of the economy.
+Answer: B
+
+Question 7:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of La Paz, Bolivia, and Caracas, Venezuela, were surveyed about parks in their cities. Of the 528 respondents from La Paz, 67.5% indicated that they use the city’s parks, and of the 1,043 respondents from Caracas, 44.7% indicated using city parks. Given that the percentage of La Paz respondents who reported having access to desired nonpark amenities near parks was much lower than that reported by Caracas respondents, the difference in park use can’t be explained by La Paz residents having more access to desired nonpark amenities near parks.
+
+
+A. An unresolved question about park planning is described, and then examples from a study of La Paz and Caracas are used to answer that question.
+B. A study of park use in La Paz is described, and then a similar study of park use in Caracas is analyzed to corroborate the findings of the La Paz study.
+C. An unexpected finding is described, and then that finding is attributed to the method used to collect survey data in La Paz and Caracas.
+D. A study involving surveys in La Paz and Caracas is introduced, and then a possible explanation for some of the results is considered and rejected.
+Answer: D
+
+Question 8:
+[Cross Text]
+Taken together, Text 1 and Text 2 best support which statement about the clades of leaf beetles and Pycnandraplants on Grande Terre?
+
+Text 1
+The land that became Grande Terre island split from remnants of the former supercontinent Gondwana approximately 80 million years ago, carrying Gondwanan biota with it and experienced periodic submersion until 37 million years ago. Some researchers posit that the island’s current biota includes members of Gondwanan clades (i.e., clades predating the split) that persisted by seeking temporary refuge on nearby islands during submergence events.
+Text 2
+In a recent study, Anna Papadopoulou et al. found that the crown age—the age of the most recent common ancestor of all species in the clade (i.e., the clade’s founder)—is 59.9 million years for Grande Terre’s clade of leaf beetles. Most of the island’s extant biota belong to clades with younger crown ages, however: Igor V. Bartish et al. found that the crown age of Grande Terre’s clade of *Pycnandra* plants is 22.9 million years, for example.
+
+
+A. The clade of leaf beetles originated before Grande Terre split from Gondwana, whereas the clade of Pycnandra plants originated after the split but before the periodic submergence events began.
+B. The clade of leaf beetles must have originated on Gondwana, but the clade of Pycnandra plants may or may not have.
+C. Neither the clade of leaf beetles nor the clade of Pycnandra plants originated on Gondwana.
+D. Both the clade of leaf beetles and the clade of Pycnandra plants originated elsewhere and colonized Grande Terre.
+Answer: C
+
+Question 9:
+[COE]
+Which choice most effectively uses data from the table to complete the example?
+
+As the second-most populous continent in the world, Africa was home to an estimated 1.186 billion people in 2015. In a paper for a social studies class, a student nonetheless notes that countries with very large populations may be less densely populated than countries with much smaller populations, as can be seen by comparing ____.
+
+
+
+A. Zambia, which has a low density, with Benin, which has a similar density despite both countries having different geographic sizes.
+B. The geographic size of Mali (1,240,000 square kilometers) with Lesotho, which has a much lower population and a higher density.
+C. Mali, which has a high population of 17,600,000 inhabitants and a relatively low density of 14.2 inhabitants/square kilometer, with Lesotho, which has a much lower population and a higher density.
+D. The populations of both Lesotho and Benin in 2015 with their populations in 2010.
+Answer: C
+
+Question 10:
+[COE]
+Which quotation from a translation of Claudine at School most effectively illustrates the claim?
+
+Claudine at School is a 1900 novel by Colette, originally written in French. The narrator is a fifteen-year-old girl living in a small, rural town surrounded by forests. She suggests that spending time in the forests can alter one’s perception: ______
+
+
+A. “Montigny ‘built in tiers’? No, that’s not how I see it; to my mind, the houses just tumble haphazard from the top of the hill to the bottom of the valley.”
+B. “You’re so well-sheltered [in the woods] that when you come out of those depths you are quite lost and dazzled and feel ill at ease in the broad daylight.”
+C. “Under the firs, you light a fire, even in summer, because it’s forbidden; you cook any old thing, an apple, a pear, a potato stolen from a field, some wholemeal bread if you’ve nothing better.”
+D. “The charm, the delight of this countryside composed of hills and of valleys so narrow that some are ravines, lies in the woods—the deep, encroaching woods that ripple and wave away into the distance as far as you can see.”
+Answer: B
+
+Question 11:
+[COE]
+Which quotation from a translation of The Underdogs most effectively illustrates the claim?
+
+The Underdogs is a 1915 novel by Mariano Azuela, originally written in Spanish. In the novel, Azuela depicts a traveling group of soldiers as having a renewed sense of agency and authority as they set off on a new stage of their journey: ___
+
+
+A. “The sonorous, joyful bells rang again. From within the church, the honeyed voices of a female chorus rose melancholy and grave.”
+B. “All day long [the soldiers] rode through the canyon, up and down the steep, round hills, dirty and bald as a man’s head, half after hill in endless succession. At last, late in the afternoon, they described several stone church towers in the heart of a bluish ridge, and, beyond, the white road with its curling spirals of dust and its gray telegraph poles.”
+C. “The men threw out their chests as if to breathe the widening horizon, the immensity of the sky, the blue from the mountains and the fresh air, redolent with the various odors of the sierra. They spurred their horses to a gallop as if in that mad race they laid claims of possession to the earth.”
+D. “Before Juchipila was lost from sight, Valderrama got off his horse, bent down, kneeled, and gravely kissed the ground.”
+Answer: C
+
+Question 12:
+[Infer]
+Which choice most logically completes the text?
+
+Research into whether floating mats of macroalgae affect the prevalence of microphytobenthos (MPB)—benthic, or bottom-dwelling, microalgae—has produced varying results: Amber Hardison and colleagues determined that macroalgae do not impact MPB, whereas Kristina Sundbäck and colleagues observed that benthic chlorophyll concentrations (a common measure of MPB biomass) decreased in the presence of macroalgae. Hypothesizing that macroalgal mats have a negative effect on MPB biomass, Alice F. Besterman and Michael L. Pace surveyed mudflats in Curlew Bay and other coastal sites in Virginia. Because Besterman and Pace did not find a significant correlation between benthic chlorophyll concentrations and the abundance of macroalgal mats, it can be concluded that ______
+
+
+A. rather than inhibiting chlorophyll production in MPB, as they had hypothesized, macroalgal mats may positively affect chlorophyll production.
+B. their hypothesis about the relationship between macroalgae and MPB was not supported and their finding was instead consistent with that of Hardison and colleagues.
+C. differences between their study design and that of Sundbäck and colleagues likely explain the discrepancy in the two studies’ findings about the responses of MPB to macroalgal mats.
+D. although this finding was consistent with that of Sundbäck and colleagues, trends in MPB biomass are likely not a result of stresses caused by macroalgae.
+Answer: B
+
+Question 13:
+[COE]
+Which quotation from an economist’s commentary on The Wealth of Nations would most effectively support the student’s argument?
+
+A student enrolled in an economics class is preparing an essay about Adam Smith's *The Wealth of Nations*, in which Smith analyzes economic instability and suggests methods for sustaining stable markets. Smith identifies distinct vulnerabilities within various economic systems—for example, market economies may temporarily adopt restrictive measures during financial crises but fail to abolish them afterward—yet certain strategies for market stability remain universally relevant. The student specifically argues that Smith emphasizes strict adherence to market regulations, insisting even minor deviations must be consistently addressed to maintain economic health.
+
+
+A. “In discussing market stability, Smith notes that ‘Markets remain stable when potential threats remain remote, or sometimes precisely because these threats are imminent; fear of disruption keeps the market managers vigilant.’ According to Smith, economic leaders must frequently alert the public about risks of market failures.”
+B. “Smith argues, in laying out the conditions for effective market governance, that ‘a mechanism of hidden inefficiency quietly weakens the economy.’ He uses the analogy of gradual, unnoticed expenses slowly eroding wealth until it disappears entirely.”
+C. “When comparing different economic systems, Smith argues ‘market economies might persist not due to their intrinsic robustness but because economic leaders maintain favorable relations with both consumers and producers.’ This group would typically include individuals inclined to integrate previously marginalized economic sectors into mainstream participation.”
+D. “Addressing the prevention of corruption, Smith insists that ‘economic policy must ensure officials cannot benefit financially beyond what is stipulated’; particularly, he identifies market economies as highly vulnerable to bribery and financial misconduct.”
+Answer: B
+
+Question 14:
+[Structure]
+Which choice best states the main idea of the text?
+
+The following text is Emily Dickinson’s circa 1873 poem “There is no Frigate like a Book.” A frigate is a light, fast ship; coursers are swift horses.
+There is no Frigate like a Book
+To take us Lands away
+Nor any Coursers like a Page
+Of prancing Poetry—
+This Traverse may the poorest take
+Without oppress of Toll—
+How frugal is the Chariot
+That bears the Human soul.
+
+
+A. People can learn more about distant places by reading books than by traveling to those places.
+B. Reading is a way of defying the modern world's emphasis on money.
+C. Literature can metaphorically transport people to new places regardless of their means.
+D. Poetry helps people recognize their similarities despite cultural differences.
+Answer: C
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+In the publication *A Self-Instructing Method of Short Hand Musical Notation*, Clyde Edgar Sinn and Clarence E. Sinn explored a method of musical stenography, as did other scholars in the nineteenth and twentieth centuries. Such systems of musical notation consisted of dots and squiggles that, though esoteric, theoretically allowed for a more rapid and precise written documentation of performances—including of improvisations introduced by performers—than was possible with conventional Western musical notation. However, the phonograph (which uses a stylus or needle to engrave an encoding of a sound wave on a cylinder or disc) eventually became a more widespread mode of recording than stenography ever was, most likely because ______
+
+
+A. although stenography greatly reduced the likelihood of error in the documentation of improvisational performances, the challenge of learning a specialized form of notation prevented stenography from becoming as popular as conventional Western notation.
+B. the phonograph's recording process allowed it to objectively capture the details of a piece of music, and unlike stenography, phonographs did not require familiarity with a specialized form of manual notation.
+C. though phonography was a more expensive undertaking than musical stenography due to the technology involved, phonography's ability to encode more music than stenography in the same amount of time compensated for the added expense.
+D. musical stenography never attained the level of accuracy that allowed conventional Western notation to capture the nuances of improvisational performances, even though it was indeed faster to write than conventional Western notation was.
+Answer: B
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In their study of ancient construction techniques, MIT researchers used microscopic analysis and chemical testing to understand the ______ that made Roman concrete uniquely durable.
+
+
+A. property's of the massive kilns’
+B. property's of the massive kilns
+C. properties of the massive kilns
+D. properties’ of the massive kiln’s
+Answer: C
+
+Question 17:
+[Infer]
+Which choice most logically completes the text?
+
+Technological discontinuance—when a technological advance, such as the use of bronze metallurgy across the ancient world, is abandoned after sustained adoption—can result when difficulty in accessing resources increases. A dataset of over 4,500 shields, beads, and other gold objects from the Caucasus dating to 4000-500 BCE revealed a drop in the number of gold artifacts from sites in the Middle Kura zone circa 1500 BCE. No such drop occurred in the nearby Middle Arazes zone, but modeling suggests that walking times to the nearest gold ore deposits were comparable in the two regions. Yet, concluding that the abandonment of gold metallurgy in the Middle Kura can’t therefore be attributed to proximity to gold deposits depends on the assumption that ______.
+
+
+A. the number of gold objects at Middle Kura sites inversely correlates with distance from the nearest gold deposit.
+B. not all the gold objects found at any given site were made with gold sourced from the same deposit.
+C. evidence of mining infrastructure found at gold deposits across the Caucasus has been accurately dated.
+D. nothing prevented the peoples of the Middle Kura after 1500 BCE from identifying and exploiting the nearest gold deposits.
+Answer: D
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The 20th century saw the founding of many Latino advocacy _____ to protect and advance the rights of Latino Americans, both the American GI Forum (1948) and the Mexican American Legal Defense and Education Fund (1968) contributed to the history of US civil rights.
+
+
+A. groups. Established
+B. groups and established
+C. groups established
+D. groups, established
+Answer: A
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Relative to that of Boston, _____ according to urban historians: streamlined navigability for commercial traffic facilitated by the deliberate regularization of avenues and streets.
+
+
+A. Chicago's street layout is rational and orthogonal, which offers a logistic advantage,
+B. a logistic advantage of Chicago's street layout is that it is rational and orthogonal,
+C. Chicago utilizes a street layout that is rational and orthogonal,
+D. Chicago has a rational and orthogonal street layout, which offers a logistic advantage,
+Answer: A
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Multidisciplinary at its core, ___
+
+
+A. Dzawada’enuxw artist Marianne Nicolson engages a range of art forms—primarily photography, painting, and carving—in her body of work.
+B. a range of art forms—primarily photography, painting, and carving—are engaged by Dzawada’enuxw artist Marianne Nicolson in her body of work.
+C. photography, painting, and carving are among the range of art forms that Dzawada’enuxw artist Marianne Nicolson primarily engages in her body of work.
+D. Dzawada’enuxw artist Marianne Nicolson’s body of work engages a range of art forms—primarily photography, painting, and carving.
+Answer: D
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In 2015, a study led by the ecologist Dr. Lila Anderson examined the connection between wetland invertebrate populations and aquatic _____ essential compounds such as dissolved nitrogen, phosphate ions, and calcium carbonate, these nutrients enhance algal growth, indirectly providing food for invertebrates.
+
+
+A. nutrients, which include
+B. nutrients, including
+C. nutrients including
+D. nutrients; including
+Answer: D
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Modernista architects championed nature in their designs. _____ the wavy exterior wall and botanical window dressings of Torre Cortés, a Modernista private home designed by Salvador Valeri i Pupurull, couldn’t exactly grow in a forest. Still, one sees natural influences in Valeri i Pupurull’s penchant for curves (rather than right angles) and plant- and animal-inspired flourishes.
+
+
+A. Granted,
+B. Similarly,
+C. Furthermore,
+D. Thus,
+Answer: A
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+With some elements, like phosphorus, scientists were able to isolate a relatively pure sample of the substance shortly after discovering its existence—but this wasn’t the case with all elements. ___ the isolation process took a few years. The element molybdenum, for instance, was discovered in 1778 but not isolated until 1781.
+
+
+A. Even so,
+B. Often,
+C. Specifically,
+D. In fact,
+Answer: B
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Box modeling and contour modeling approaches to three-dimensional digital modeling for video games yield graphics that accurately represent the relative sizes and proportions of real-world objects, but since these graphics are rendered from perfect geometric shapes, they tend to lack organic realism. _______ these 3D elements may display unnaturally precise angles and curves as compared to their real-world counterparts.
+
+
+A. However,
+B. In addition,
+C. In conclusion,
+D. As such,
+Answer: D
+
+Question 25:
+[Synthesis]
+The student wants to provide an explanation and example of the law of superposition. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The law of superposition in geology states that older sedimentary layers lie beneath younger ones in undisturbed rock sequences.
+ • This law specifies that, within these sequences, deeper layers were deposited earlier than the layers above them.
+ • The principles of the law of superposition can also apply to volcanic ash layers.
+ • The Mazama Ash, approximately 7,600 years old, forms a notable volcanic layer across parts of North America.
+ • Mazama Ash lies beneath younger sediment deposits.
+
+
+A. The geological law of superposition, relevant to various sedimentary sequences, states that deeper rock layers are older than layers above.
+B. Approximately 7,600 years old, Mazama Ash is an example illustrating the geological law of superposition’s concept regarding age-based layering.
+C. According to the law of superposition, rock layers form in sequences from oldest at the bottom to youngest on top; volcanic deposits also follow this principle.
+D. Mazama Ash is located beneath younger sedimentary layers, clearly demonstrating the law of superposition, which applies to both sedimentary and volcanic deposits.
+Answer: D
+
+Question 26:
+[Synthesis]
+The student wants to explain the implications of the discovery at the Saltville site. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The Clovis First hypothesis proposes that ancient humans known as Clovis were the first to populate North America.
+• The Clovis arrived around 13,000 years ago.
+• Stone tools found at the Saltville site in Virginia date to approximately 16,000 years ago.
+• These items support the idea that humans were present in North America before the Clovis population arrived.
+• More than a dozen North American sites containing pre-Clovis items have been identified.
+
+
+A. It is the contention of the Clovis First hypothesis that the Clovis, an ancient human population, were the first to inhabit North America, arriving around 13,000 years ago.
+B. Located in Virginia, Saltville is one of more than a dozen North American sites where pre-Clovis items have been discovered.
+C. The approximately 16,000-year-old stone tools found at Saltville, a site in Virginia, should not be overlooked; they have important implications for the Clovis First hypothesis.
+D. Contrary to the Clovis First hypothesis, the approximately 16,000-year-old stone tools found at Saltville suggest that humans were in North America before the Clovis arrived.
+Answer: D
+
+Question 27:
+[Synthesis]
+The student wants to emphasize the significance of Photo 51 to Watson and Crick's reputation. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•In a seminal 1953 paper, biologists James Watson and Francis Crick proposed the double-helix structure of DNA.
+•Watson and Crick earned a global reputation as the discoverers of DNA's structure, later sharing a Nobel Prize for the achievement.
+•In 1952, chemist and X-ray crystallographer Rosalind Franklin produced "Photo 51," a high-resolution diffraction image of a DNA fiber.
+•Photo 51 provided critical evidence of DNA's helical shape and precise dimensions.
+•According to historian Brenda Maddox, Franklin's image was shown to Watson without Franklin's knowledge or consent, directly enabling the final formulation of the Watson-Crick model.
+
+
+A. Brenda Maddox’s historical work challenged Watson and Crick’s reputation by revealing that they used Photo 51 to formulate their model of the double helix.
+B. Evidence that Franklin’s Photo 51 was a critical precursor to the Watson-Crick model suggests that the reputation of Watson and Crick as the sole discoverers of DNA's structure is a significant oversimplification.
+C. More than a year before Watson and Crick published their paper, Rosalind Franklin had already used X-ray crystallography to take a high-resolution image of a DNA fiber.
+D. The double-helix model proposed by Watson and Crick in 1953 was immediately disproven by evidence contained within Rosalind Franklin's Photo 51.
+Answer: B

@@ -1,0 +1,129 @@
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+For years, art historians debated the origins of certain elements in Johannes Vermeer's 1667 painting *Mistress and Maid*, particularly the dark, formless curtain that is the only feature in the otherwise empty background. Since Vermeer's works usually include detailed, vibrant backgrounds, some historians speculated that another artist finished the painting long after Vermeer's death. In a recent study, researchers used macro X-ray fluorescence to determine that the curtain's appearance was due to the natural degradation of the paint's copper pigments over time. The researchers also discovered that the curtain concealed unfinished sketches of four human figures, indicating that the artist had purposely rejected a more elaborate background. Therefore, the team concluded that ______
+
+
+A. the painting was likely completed after Vermeer's death.
+B. the curtain was a later addition by another artist using copper pigments.
+C. the curtain was likely painted by Vermeer.
+D. there is not enough information to explain why the curtain appears unfinished.
+Answer: C
+
+Question 52:
+[Infer]
+Which choice most logically completes the text?
+
+In dialects of English spoken in Scotland, the "r" sound is strongly emphasized when it appears at the end of syllables (as in "car") or before other consonant sounds (as in "bird"). English dialects of the Upland South, a region stretching from Oklahoma to western Virginia, place similar emphasis on "r" at the ends of syllables and before other consonant sounds. Historical records show that the Upland South was colonized largely by people whose ancestors came from Scotland. Thus, linguists have concluded that ________.
+
+
+A. the English dialects spoken in the Upland South acquired their emphasis on the "r" sound from dialects spoken in Scotland.
+B. emphasis on the "r" sound will eventually spread from English dialects spoken in the Upland South to dialects spoken elsewhere.
+C. the English dialects spoken in Scotland were influenced by dialects spoken in the Upland South.
+D. people from Scotland abandoned their emphasis on the "r" sound after relocating to the Upland South.
+Answer: A
+
+Question 75:
+[Infer]
+Which choice most logically completes the text?
+
+The great egret and the wood stork are long-legged birds that live in wetlands, like the Everglades in Florida. Laura D’Acunto and colleagues wanted to know how these birds choose an area in which to live. They looked at features of the birds’ habitats, such as the extent of tree-canopy coverage in the area and how deep the water is during the birds’ breeding season. They found that great egrets prefer areas with deep water during breeding season, but that was not true for wood storks. The researchers concluded that water management strategies that increase the depth of water in potential wetland bird habitats during breeding season are therefore more likely to ______
+
+
+A. decrease the area’s appeal to both great egrets and wood storks than they are to increase the appeal to either.
+B. attract birds that don’t typically live in wetlands to the area than they are to attract great egrets or wood storks to the area.
+C. attract great egrets to the area than they are to attract wood storks to the area.
+D. extend the average lifespan of great egrets already in the area than they are to attract a greater number of those birds to the area.
+Answer: C
+
+Question 38:
+[Infer]
+Which choice most logically completes the text?
+
+As is the case with many structures in the Brutalist style—structures characterized by massive scale, extensive use of unfinished concrete, and their sometimes awkwardly unbalanced appearance—Trellick Tower, designed by Ernő Goldfinger, is polarizing. Though Brutalism’s critics fault the style for its violation of conventional aesthetic principles, such as proportion and refinement, the style’s defenders argue that flouting such principles serves to exemplify human activity in architectural form. For instance, by leaving surfaces unfinished and rough textures and seams exposed, Brutalist structures showcase rather than conceal the labor involved in a building’s construction. A defense of Brutalism along these lines would thus likely __________
+
+
+A. suggest that critics of the Brutalist style would reconsider their negative assessment of these buildings if such critics were made aware of the subtle ways in which Brutalist structures pay homage to conventional aesthetic principles.
+B. acknowledge that criticism of Brutalist structures’ lack of proportion and refinement is legitimate but would contend that these criteria aren’t representative of how the general public appraises them.
+C. concede that the Brutalist style is aesthetically unappealing by certain standards but would argue that architects shouldn’t be encumbered by those standards if those standards inhibit purposeful experimentation with architectural form.
+D. maintain that the craftsmanship manifest in the physical appearance of Brutalist structures is superior in quality to the craftsmanship involved in more aesthetically appealing architecture.
+Answer: C
+
+Question 76:
+[Infer]
+Which choice most logically completes the text?
+
+In an analysis of medieval urbanization in Coventry, Macon, and other European settlements, researchers dive on modern urban scaling theory, which posits that population density in core urban areas decreases as a city grows. They hypothesized that this typical pattern might not have held in medieval settlements because of the constraining influence of strict hierarchical social structures (which are much less pronounced in modern cities) on social networking and economic integration—drives of urban agglomeration—the team created a model that accounted for the presence of restrictive institutions. They found that the typically expected density-size relationship held for each of the 173 medieval settlements whose growth they analyzed, suggesting that _____.
+
+
+A. despite a change in the role of social structures over time, there is likely a notable consistency between medieval settlements and modern cities in underlying elements of the social and economic interactions among individuals that shape the development of core urban areas.
+B. the constraining influence of hierarchical medieval institutions likely had a significant effect on individuals in some social groupings but little to no effect on members of other social groupings.
+C. although there tends to be a positive relationship between population size and development of core urban areas for both medieval settlements and modern cities, that relationship is much stronger in modern cities.
+D. the social and economic dynamics that affect urban agglomeration were likely much different in medieval settlements than in modern cities, despite the similarity across time in population density patterns.
+Answer: A
+
+Question 80:
+[Infer]
+Which choice most logically completes the text?
+
+Filtration is a widely used method for removing microplastics—plastics with a width less than 5 millimeters (mm)—from waterways. However, filtration systems are typically unable to capture very small microplastics. Menake Piyasena and Nelum Perera designed a device that applies sound waves to water as it flows through a metal tube. The sound waves cause microplastics in the water to gather in the middle and along the sides of the tube. The microplastics can then be separated out by channeling polluted and clean water though different outlets. Testing indicated that the system removes even tiny microplastics, including ones as small as 10 microns, or 0.01 mm, wide. This result suggests that ______.
+
+
+A. the sound wave treatment system may help solve a problem associated with filtration of microplastics.
+B. directing water through filtration tubes with multiple outlets reduces microplastic pollution.
+C. unlike sound waves, filters have the ability to remove large microplastics from diluted waterways.
+D. combining filtration with sound waves is likely the most efficient method for removing microplastics from water.
+Answer: A
+
+Question 27:
+[Infer]
+Which choice most logically completes the text?
+
+Researchers who study olfaction—the sense of smell—define valence as a person’s perception of how pleasant an odor is. Conventional wisdom holds that valence is culturally mediated. A team of scientists led by Artin Arshamian evaluated this view by testing how people from ten different places—including the Semelai people from a small community in the Malay Peninsula and the Chachi people from a small community in Ecuador—ranked ten odors from most pleasant to least pleasant. In general, respondents ranked scents similarly regardless of where they lived, overwhelmingly choosing the odorant eugenol as more pleasant than caprylic acid. These results show that _____.
+
+
+A. Valence may affect cultural traditions more strongly than researchers had previously predicted.
+B. The respondents agreed more often on unpleasant odors than they did on pleasant ones.
+C. The conventional belief that odor pleasantness can be objectively measured is questionable.
+D. The standard view of culture’s role in olfactory valence may be unsound.
+Answer: D
+
+Question 35:
+[Infer]
+Which choice most logically completes the text?
+
+Gottfried Schlaug et al. established that musical training is associated with physical alterations in the brain. Noting that such alterations may affect how sonic stimuli engender a hedonic response (a feeling of satisfaction and pleasure), Antonia Olivia Dolan et al. recently had musicians and nonmusicians listen to recordings—Led Zeppelin’s “Whole Lotta Love,” Jose Gonzalez’s “Heartbeats,” and others—and adjust the volume to the most pleasurable level for each recording. Although musicians and nonmusicians were clinically comparable in terms of their ability to detect sounds, musicians preferred to hear the recordings at a higher volume than nonmusicians did, leading Dolan et al. to conclude that _______.
+
+
+A. previous research may have overstated the effects of the physical differences between musicians’ brains and nonmusicians’ brains.
+B. physical aspects of musicians’ brains may suppress the hedonic response to music at volumes that provoke the hedonic response in nonmusicians.
+C. characteristics of musicians’ brain anatomy that are not shared with nonmusicians result in musicians experiencing the hedonic response due to characteristics of music other than its volume.
+D. musical training may alter musicians’ brains such that they have a reduced ability to detect sounds that are unlikely to incite the hedonic response.
+Answer: B
+
+Question 45:
+[Infer]
+Which choice most logically completes the text?
+
+The Study on Global Ageing and Adult Health (SAGE) is a longitudinal study surveying approximately 66,000 individuals in multiple countries to glean extended trends in aging. To carry out the necessary sampling of the population over many years, SAGE needs extensive financial support, but this method provides valuable insights into causal relationships. However, when questions of causation are irrelevant, as with a sociology study seeking only to reveal the average age at which people in a given city first become parents, longitudinal methods are unnecessary, and so ______.
+
+
+A. the expense of SAGE is likely greater than the cost of longitudinal studies of sociology.
+B. the success of the sociology study likely requires significantly less financial outlay than that needed for SAGE.
+C. conclusions drawn from SAGE are likely to be more authoritative than those from the sociology study.
+D. longitudinal methods are unsuitable for studies of aging but ought to be avoided for those of sociology.
+Answer: B
+
+Question 42:
+[Infer]
+Which choice most logically completes the text?
+
+Although the language of the Olmec civilization, which flourished in southern Mexico circa 1500 BCE–400 BCE, hasn’t been identified, it likely belonged to the Mixe-Zoquean family, a group of related languages whose present-day representatives are spoken in an area corresponding to ancient Olmec sites. The family can be subdivided into a Zoque branch, which includes the modern language Chiapaneco Zoque, and a Mixe branch, which includes the modern language North Central Mixe. Many words in the Mayan languages—languages spoken in the region but otherwise unrelated to the Mixe-Zoquean family—are Mixe-Zoquean in origin and were likely borrowed during the period when the Olmecs dominated the entire region. Tellingly, these words derive from the Zoque branch, suggesting that ___.
+
+
+A. the language of the Olmec civilization was likely the founding language of the family that includes Chiapaneco Zoque and North Central Mixe.
+B. Chiapaneco Zoque and other languages in the Zoque branch weren’t supplanted by languages in the Mixe branch until after 400 BCE.
+C. Chiapaneco Zoque is more likely to have evolved from the language of the Olmec civilization than North Central Mixe is.
+D. the language of the Olmec civilization made contributions not only to the vocabulary of the Mayan languages but also to the vocabulary of North Central Mixe and other languages in the Mixe branch.
+Answer: C

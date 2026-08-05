@@ -1,0 +1,336 @@
+Question 1:
+Which choice completes the text with the most logical and precise word or phrase?
+
+"Bien Pretty" is an English-language short story by Sandra Cisneros that often includes Spanish words and phrases. In Their Dogs Came with Them, Helena Maria Viramontes frequently _____ Spanish text as well. But readers who are unfamiliar with Spanish can easily read both works since the meaning of the Spanish text can be inferred from the surrounding English text.
+
+
+A. suspects
+B. relaxes
+C. loses
+D. uses
+Answer: D
+
+Question 2:
+Which choice completes the text with the most logical and precise word or phrase?
+
+One reasonable way to evaluate the _____ of a scholar's research is to track how often other scholars refer to that research. For example, Princeton University economist Anne Case, who studies labor and health economics, is among the world's most frequently cited researchers in her specialty, indicating that her work has had a significant effect on the field.
+
+
+A. expense
+B. unity
+C. complexity
+D. impact
+Answer: D
+
+Question 3:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Featuring contributions from Zulema Valdez, Robert W. Fairlie, and other scholars, Advancing U.S. Latino Entrepreneurship (2020) is intended to ___ two kinds of readers. According to Jerry I. Porras and the book's other editors, it should be of interest to researchers as well as current and aspiring entrepreneurs.
+
+
+A. detract from
+B. evaluate
+C. appeal to
+D. bewilder
+Answer: C
+
+Question 4:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Apollo Moon landings (1969-1972) brought magnetic field sensors and soil sensors to the Moon and produced large amounts of data, much of which was stored on technologies that are now obsolete. A data-transfer project is working to ______ these data so that the information is available to researcher Noah Petro, who is investigating the geology of the Moon.
+
+
+A. amend
+B. salvage
+C. simplify
+D. improve
+Answer: B
+
+Question 5:
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+The synthesis of novel superheavy elements, such as ninonium (Nh), has led theorists to consider the feasibility of synthesizing all possible chemical compounds. In 2022, Guillermo Restrepo calculated the historical rates at which newly discovered compounds have entered the scientific literature, expanding the "chemical space." __Using a conservative estimate of the number of viable compounds and assuming a doubling of the historical pace of discovery,__ Restrepo found that under these hypothetical conditions, all potential compounds could be synthesized and documented by 2050.
+
+
+A. It introduces information that helps explain why the synthesis of superheavy elements has rapidly expanded the chemical space.
+B. It provides details about the qualification later in the sentence regarding the prospect of cataloging the full range of possible chemical compounds.
+C. It emphasizes the point implicitly made earlier in the text that human inefficiency is the primary constraint on the expansion of the chemical space.
+D. It makes a comparison between the past and current rates at which new chemical compounds have entered the scientific literature.
+Answer: B
+
+Question 6:
+Based on the text, why might Austria be expanding its high-speed rail system?
+
+High-speed rail systems—in which trains can move at great speeds—are expanding in many countries because high-speed rail can reduce the number of automobiles on the road and ultimately conserve energy. In Austria, for instance, 254 kilometers of high-speed rail lines are in operation as of 2023, and 231 kilometers are under construction.
+
+
+A. Residents of Austria demand that high-speed rail be expanded despite the cost of doing so.
+B. High-speed rail systems in Austria are currently viewed more favorably than they have been in the past.
+C. The current high-speed rail systems in Austria are getting older and need improvements.
+D. High-speed rail systems are a more energy-efficient choice for residents of Austria than automobile use is.
+Answer: D
+
+Question 7:
+Which choice best describes the overall structure of the text?
+
+What is a city? The answer depends on where you live! Many countries define an area as a city based on how many people live there. However, not every country uses the same numbers. Greenland defines a city as an area with a population of at least 200, while Switzerland defines a city as having a minimum population of 10,000. Some countries even define cities using other factors, like if there is a local government.
+
+
+A. It poses a question, then explains why the question has many answers.
+B. It offers a recommendation, then provides reasons for that recommendation.
+C. It describes two locations, then explains why only one of the locations is considered a city.
+D. It lists the number of cities in one country, then compares that number to the number of cities in another country.
+Answer: A
+
+Question 8:
+Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree with which statement about sloths?
+
+Text 1
+From the extinct Shasta ground sloth to the living Hoffmann's two-toed sloth, sloths are among the most appealing animals native to the Americas. But scientists still have a lot to learn about them. Unlike their ancient ground-dwelling relations, today's sloths spend most of their time high up in trees. The sloths' inaccessibility has made it hard for scientists to study them.
+Text 2
+By using a hat-like monitor, biologist Bryson Voirin and colleagues can at last discover the previously hidden activities of sloths. Such monitors can provide information to correct misconceptions. It was long believed that sloths are very gentle. But, in fact, sloths have very sharp claws and will attack if threatened.
+
+
+A. Sloths typically live very long lives.
+B. Sloths have been challenging to observe.
+C. Sloths are usually unpleasant animals.
+D. Sloths prefer certain types of trees over other types.
+Answer: B
+
+Question 9:
+Which choice most effectively uses data from the table to complete the statement?
+
+An anthropologist is recording the metal contents of various historical deposits of valuables, called hoards, found in Ireland and Northern Ireland. She notes that the hoards differed in their contents; for example, _____.
+
+
+
+A. the Balline Hoard and the Ardagh Hoard each contained bronze.
+B. the Coggalbeg Hoard was the only hoard that contained just gold.
+C. the Coggalbeg Hoard contained no gold or silver.
+D. the Ardagh Hoard was the only hoard that contained silver.
+Answer: B
+
+Question 10:
+Which quotation from The Man-Made World: Or, Our Androcentric Culture most effectively illustrates the claim?
+
+*The Man-Made World: Or, Our Androcentric Culture* is a 1911 nonfiction work by Charlotte Perkins Gilman. In the text, the author emphasizes the importance of cultivating individuals rather than comparing them: ____
+
+
+A. "We do not sadly measure the cabbage-stalk by the corn-stalk, and praise the corn for getting ahead of the cabbage — nor incite the cabbage to [imitate] the corn. We nourish both, to its best growth—and are the richer."
+B. "We have but to learn the real elements in humanity; its true powers and natural characteristics."
+C. "What is [the family's] rational development in humanness; in mechanical, mental and social lines."
+D. "That every child on earth shall have right conditions to make the best growth possible to it; that every citizen, from birth to death, shall have a chance to learn all he or she can [absorb], to develop every power that is in them."
+Answer: A
+
+Question 11:
+Which statement is best supported by information from the text and table?
+
+Installing a new high-speed rail (HSR) hub in an area has the potential to boost residential development nearby, though the amount and type of development vary considerably by location. This potential is greatest when HSR hubs are established in areas far away from city centers, as these locations tend to have more available land for redevelopment into residential areas.
+
+
+
+A. The area around Lille Europe has greater potential for residential development than the area around Reggio Emilia AV Mediopadana does.
+B. The area around Lille Europe has greater potential for residential development than the area around København H does.
+C. The area around København H has greater potential for residential development than the area around Reggio Emilia AV Mediopadana does.
+D. The area around København H has greater potential for residential development than the area around Stuttgart Hbf does.
+Answer: B
+
+Question 12:
+Which choice best describes the function of the underlined sentence?
+
+With its mournful subject matter and haunting tune, "The Cuckoo" is one of the most celebrated folk ballads of the southern Appalachian Mountains. Dolly Parton, who was born and raised in the region, was deeply influenced by these traditional ballads, as can be heard in the songs she wrote in the first decade of her career. "__My Blue Ridge Mountain Boy,"__ a song from her 1969 album of the same title, echoes Appalachian ballads in its narrative details.
+
+
+A. It lists several Appalachian folk ballads that Dolly recorded early in her career.
+B. It expresses disappointment in a song that Dolly wrote early in her career.
+C. It cites an album by Dolly as one of her most commercially successful works.
+D. It identifies a song by Dolly that was influenced by Appalachian music.
+Answer: D
+
+Question 13:
+Which choice most effectively uses data from the table to complete the student’s conclusion?
+
+Calculations may be inexact due to rounding.
+
+A student in an economics course is examining the decline since 1950 in average hours worked per person per year in various nations due to both increased productivity and the adoption of policies that limit working hours. The student researches how the decline in the Netherlands compares to that in other countries and finds that ______
+
+
+A. though the decline in number of hours worked in the Netherlands was not as great as that in Denmark, it was greater than that in Colombia and Mexico.
+B. while the number of hours worked rose in the Netherlands between 1950 and 2017, it declined in Denmark, Colombia, and Mexico.
+C. the percent decrease in hours worked was greater in the Netherlands than it was in Denmark, Colombia, or Mexico.
+D. though the decline in number of hours worked in the Netherlands was less than that in Denmark and Mexico, it was greater than that in Colombia.
+Answer: A
+
+Question 14:
+Which choice most logically completes the text?
+
+Researchers who study olfaction—the sense of smell—define valence as a person's perception of how pleasant an odor is. Conventional wisdom holds that valence is culturally mediated. A team of scientists led by Artin Arshamian evaluated this view by testing how people from ten different places—including the Mah Meri people from a small community in the Malay Peninsula and the Seri people from a small community in Mexico—ranked ten odors from most pleasant to least pleasant. In general, respondents ranked scents similarly regardless of where they lived, overwhelmingly choosing the odorant linalool as more pleasant than diethyl disulfide. These results show that _____
+
+
+A. the conventional belief that odor pleasantness can be objectively measured is questionable.
+B. the standard view of culture's role in olfactory valence may be unsound.
+C. the respondents agreed more often on unpleasant odors than they did on pleasant ones.
+D. valence may affect cultural traditions more strongly than researchers had previously predicted.
+Answer: B
+
+Question 15:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Many places in the United States share a name with a foreign city or country. When founding the village of Prague, Nebraska, residents decided to name ______ after the Czech city of Prague.
+
+
+A. it
+B. that
+C. them
+D. us
+Answer: A
+
+Question 16:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+George Meade's image was printed on $1,000 US banknotes in 1890, making the former major general of the US Army one of many nonpresidents ____ on US currency.
+
+
+A. to appear
+B. had appeared
+C. appears
+D. did appear
+Answer: A
+
+Question 17:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+While conducting an interview for her book Latina Authors and Their Muses, editor Mayra Calvani asked Margo Candela, author of the young adult novel The Brenda Diaries, what ______ Candela's response was The Phantom Tollbooth by Norton Juster.
+
+
+A. was her favorite book!
+B. was her favorite book?
+C. her favorite book was.
+D. her favorite book was?
+Answer: C
+
+Question 18:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Following the swing era of the 1930s, cool jazz emerged as yet another innovative style in jazz ______ larger ensembles than those of their predecessors, cool jazz composers like Chico Hamilton emphasized smooth melodies in their works.
+
+
+A. music. Featuring
+B. music, featuring
+C. music, to feature
+D. music to feature
+Answer: A
+
+Question 19:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In Puerto Rico, it's not unusual for a city or town to be known by a nickname that corresponds to one of its notable features, like landscape, ______ or chief exports. For example, the Puerto Rican municipality of Corozal has also been called "the Cradle of Volleyball," a nickname that alludes to what the area is well known for: being a longtime volleyball powerhouse.
+
+
+A. climate famous residents,
+B. climate famous residents
+C. climate, famous residents,
+D. climate; famous residents;
+Answer: C
+
+Question 20:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The legacy of the Spanish Empire, which once controlled portions of five continents, is evident in Spanish-speaking Paraguay, one of many places that reveal their imperial history in their language. Contrast Paraguay with the Netherlands, which ceased to be part of the empire in ______ the latter's connection to the empire is so attenuated that Spanish is seldom spoken there today.
+
+
+A. 1648,
+B. 1648
+C. 1648:
+D. 1648 and
+Answer: C
+
+Question 21:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+New Mexico governor ____ the first woman to serve in that role in the state's history—took office on January 1, 2011.
+
+
+A. Susana Martinez:
+B. Susana Martinez
+C. Susana Martinez,
+D. Susana Martinez—
+Answer: D
+
+Question 22:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+At the Ruskin School of Acting in Santa Monica, California, students can learn the world-famous Meisner technique ____ by acting teacher Sanford Meisner; this technique trains actors to react naturally to the other performers in a scene.
+
+
+A. develops
+B. developing
+C. develop
+D. developed
+Answer: D
+
+Question 23:
+Which choice completes the text with the most logical transition?
+
+Generally, sleek vehicles are more aerodynamic than bulkier ones. The streamlined nose of the F-104 Starfighter jet, ____ helps it glide through wind with relative ease, while a boxy pickup truck encounters more wind resistance, making it less aerodynamic.
+
+
+A. however,
+B. meanwhile,
+C. for instance,
+D. additionally,
+Answer: C
+
+Question 24:
+Which choice completes the text with the most logical transition?
+
+Thousands of years ago, the Olmec civilization's reign over parts of eastern Mexico ended. ______ the Olmecs' massive stone statues of human heads remain. Two of these statues, known as Monument 2 and Monument 53, weigh over 5 tons!
+
+
+A. Therefore,
+B. Nevertheless,
+C. For example,
+D. Likewise,
+Answer: B
+
+Question 25:
+Which choice completes the text with the most logical transition?
+
+When ordering the branches of the Yukon River system by Hack’s method, one begins with the riverway’s lowest point, the Yukon River. ____ when using Strahler’s method, one begins at the top of the river system, with the Kanuti River and other tributaries fed by the riverway’s source, Alaska’s Llewellyn Glacier.
+
+
+A. Indeed,
+B. Specifically,
+C. Alternatively,
+D. In other words,
+Answer: C
+
+Question 26:
+Which choice completes the text with the most logical transition?
+
+As volcanologists like Tamsin Mather are apt to make clear, not all volcanoes are the same. Agua de Pau in the Azores Islands, for example, is a stratovolcano, a conical volcano built up by many layers of hardened lava and tephra. Methana in Greece, ____ is a lava dome, a circular mound-shaped protrusion resulting from the slow extrusion of viscous lava from a volcano.
+
+
+A. in any case,
+B. in conclusion,
+C. in contrast,
+D. in fact,
+Answer: C
+
+Question 27:
+The student wants to identify a language that was written using the cuneiform script. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•The cuneiform script is the earliest known set of symbols used for writing.
+•Sumerian was one of the first languages to be written using the cuneiform script.
+•Sumerian was a language in ancient Mesopotamia (present-day Iraq).
+•Clay tablets with Sumerian writing have been found there.
+•Some of these tablets are almost 5,000 years old.
+
+
+A. Examples of Mesopotamian writing that are nearly 5,000 years old have been found.
+B. Clay tablets with cuneiform script have been found in present-day Iraq.
+C. A language in ancient Mesopotamia used the cuneiform script for writing.
+D. Sumerian, an ancient Mesopotamian language, was written using the cuneiform script.
+Answer: D
+

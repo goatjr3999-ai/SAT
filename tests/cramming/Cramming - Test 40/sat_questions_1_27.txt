@@ -1,0 +1,398 @@
+Question 1:
+[WIC]
+As used in the text, what does the word "obtrusive" most nearly mean?
+
+The following text is from Thomas Hardy's 1874 novel Far from the Madding Crowd. In the text, the narrator describes an open tract of land.
+The changes of the seasons are less __obtrusive__ on spots of this kind than amid woodland scenery. Still, to a close observer, they are just as perceptible; the difference is that their media of manifestation are less trite and familiar than such well-known ones as the bursting of the buds or the fall of the leaf.1
+
+
+A. Stubborn
+B. Expansive
+C. Insolent
+D. Conspicuous
+Answer: D
+
+
+Question 2:
+[COE]
+Based on the text, when the narrator describes herself as "cheating," what does she most likely mean?
+
+The following text is from Amy Tan’s 1989 novel The Joy Luck Club. The narrator describes practicing the piano when she was a child.
+"For the talent show, I was to play a piece called 'Pleading Child' from Schumann’s Scenes from Childhood. It was a simple, moody piece that sounded more difficult than it was. I was supposed to memorize the whole thing, playing the repeat parts twice to make the piece sound longer. But I dawdled over it, playing a few bars and then cheating, looking up to see what notes followed. I never really listened to what I was playing. I daydreamed about being somewhere else, about being someone else."
+
+
+A. She was violating an expectation about how to perform the piece.
+B. She was gaining an unfair advantage over other contestants in the talent show.
+C. She was deceiving her piano teacher.
+D. She was lying to herself about her musical ability.
+Answer: A
+
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Siemowit is said to have ruled what eventually became Poland in the 9th century. Unlike that of Bezprym or other well-attested figures from early Polish history, Siemowit's existence has been the subject of debate, as our knowledge of him is ____ somewhat dubious oral traditions first written down hundreds of years after the events they describe.
+
+
+A. unsupported by
+B. independent of
+C. derived from
+D. reminiscent of
+Answer: C
+
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Some ethicists challenge the concept of personal character, claiming that if it were meaningful, situational factors could not, as they clearly can, induce behavior contrary to that character. As Buchana Kamtekar observes, this argument is difficult to reconcile with our lay conception of character: we expect a person of helpful character to be frequently helpful, not ____ helpful.
+
+
+A. self-servingly
+B. sporadically
+C. grudgingly
+D. unfailingly
+Answer: D
+
+
+Question 5:
+[COE]
+Which finding, if true, would most directly support the US transportation experts’ claim?
+
+As of 2023, Turkey has 1,015 kilometers of high-speed rail lines in operation and 614 kilometers under construction; in Germany, 1,630 kilometers are in operation with 3,262 kilometers under construction. In contrast, the United States has a relatively low amount of high-speed rail for its size: only 735 kilometers of high-speed rail in operation and 1,789 kilometers under construction. Many US transportation experts argue that this should change, claiming that high-speed rail is more cost-effective than highway systems are.
+
+
+A. In most locations in the United States, increasing highway capacity is more expensive relative to the volume of traffic that can be accommodated than increasing high-speed rail capacity is.
+B. In much of the United States, the existing rail infrastructure is so old that it would have to be replaced entirely in order to accommodate high-speed trains.
+C. Building successful high-speed rail infrastructure would require that the US government establish a fund to maintain the rail lines long-term.
+D. Unlike people in the United States, people in Turkey and Germany are less interested in traveling by highway than they are in traveling by high-speed rail.
+Answer: A
+
+
+Question 6:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+Several sociologists have observed that the word “culture,” though commonly used in academic literature, is an ultimately hazy concept—for example, Christian Smith has noted that the word “culture” represents “an amazing variety of often-discordant ideas.” __Does the concept of culture encompass knowledge, or habits, or both these things and others? __For casual usage, such haziness is permissible—we know culture when we see it—but for researchers, a standardization of the term is called for if sociology is to truly progress.
+
+
+A. It lists two essential components of what is referred to by Smith as “culture.”
+B. It describes the questions first raised by Smith’s inquiry into the meaning of the word “culture.”
+C. It illustrates a difficulty associated with the meaning of “culture” that the author believes holds back an academic field.
+D. It presents a point regarding the definition of “culture” on which nonspecialists and specialists tend to disagree.
+Answer: C
+
+
+Question 7:
+[Cross Text]
+Based on the texts, the research team in Text 1 and the author of Text 2 would most likely agree with which statement about mossaurs?
+
+Text 1
+With a shell that measured 1.7 meters, the extinct mollusk Parapuzosia seppenradensis is the largest ammonite in the fossil record. Ever since fossilized remains of this large ammonite were first discovered in 1895, scientists have been perplexed by its size. After examining 154 ammonite fossils including P. seppenradensis fossils from Montana and Parapuzosia leptophylla (a smaller ammonite species) fossils from Austria, paleontologist Christina Ifrim, Wolfgang Stinnesbeck, and colleagues concluded that P. seppenradensis may have evolved from P. leptophylla and gradually increased in size as larger ammonites were better able to escape being preyed on by mossaeurs.
+Text 2
+Christina Ifrim and her team have expanded our understanding of the evolutionary history of ammonites in general, but their study has some gaps that will require additional research to fill. For instance, there’s evidence that mossaeurs preyed on ammonites, but there’s no direct evidence that they interacted specifically with P. seppenradensis.
+
+
+A. The mossaur fossils found in Montana provided more information than the ones found in Austria.
+B. Mossaurs were likely a predator of ammonites.
+C. P. seppenradensis likely shares more features with mossaurs than does P. leptophylla.
+D. Mossaur fossils are very difficult to find.
+Answer: B
+
+
+Question 8:
+[Structure]
+Which choice best states the main idea of the text?
+
+Community science involves professional scientists collaborating with members of the public to study a topic. This approach to research can promote community engagement by offering insight into the daily life of a scientist. It’s also very effective because it greatly increases the amount of data that can be collected, such as when biologist Abbigail Merrill and colleagues studied butterfly size and its relation to behavior and used findings reported by hundreds of students and community members in northwestern Arkansas.
+
+
+A. Abbigail Merrill and colleagues used a community science approach in their butterfly research and were surprised at the effect this had on public understanding of the nature of scientists’ work.
+B. A community science approach can increase public understanding of the nature of scientists’ work and generate large amounts of data, benefiting both communities and researchers.
+C. A community science approach can benefit communities by increasing public understanding of the nature of scientists’ work, but it’s less likely to help researchers obtain accurate data.
+D. A community science approach allows researchers to collect significantly more data even though it’s unlikely to have much of an effect on public understanding of the nature of scientists’ work.
+Answer: B
+
+
+Question 9:
+[COE]
+Which choice best describes the finding made by Wright, as presented in the text?
+
+Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Joel Brown and colleagues found to be negatively associated with foraging by Arizona pocket mice but Patricia C. Wright found to be positivelyassociated with foraging by three-striped night monkeys. This discrepancy is explicable in terms of OFT: the monkeys’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the mice.
+
+
+A. During periods of high lunar intensity, three-striped night monkeys increase their reliance on vision.
+B. As lunar intensity increases, Arizona pocket mice reduce their foraging activity.
+C. As lunar intensity increases, three-striped night monkeys increase their foraging activity.
+D. Increased lunar intensity is more beneficial for three-striped night monkeys than it is for Arizona pocket mice.
+Answer: C
+
+
+Question 10:
+[COE]
+Which quotation from a philosopher’s analysis of The Politics would best support the student’s claim?
+
+A stdent in a political science course is writing a paper on Aristotle’s *The Politics*, in which Aristotle offers his opinion on political instability and gives advice on how constitutions can be preserved. Aristotle observes that different forms of government can fail in different ways—for example, oligarchies might grant power to military leaders during wartime who refuse to relinquish that power during peacetime—but some methods of preserving order apply across all forms of government. A student claims that Aristotle argues the very existence of a consitution hinges upon leaders and citizens keeping it in mind.
+
+
+A. “When constructing his argument regarding the characteristics of a well-functioning government, Aristotle asserts that a ‘means for repression unperceived and at rest injures the state’; illustrating this point, he goes on to frequent small expenditures slowly and almost imperceptibly chipping away at a fortune until it is ultimately depleted.”
+B. “When contrasting different forms of government, Aristotle holds that ‘oligarchies may last, not from any inherent stability in such forms of government, but because the rulers are on good terms both with the unenfranchised and with the governing classes.’ This, of course, includes those who would be otherwise tempted to remove members of disenfranchised classes into government in a participatory role.”
+C. “When Aristotle considers the health of constitutions, he states that ‘Constitutions are preserved when their destroyers are at a distance, and sometimes also because they are near; for the fear of them makes the government keep in hand the constitution.’ He holds that rulers who wish to see constitutions preserved must continually remind the populace of the dangers that would result from a constitutional collapse.”
+D. “When Aristotle writes on the necessity of avoiding corruption in government, he proposes that ‘every state should be as administered so as required by law that its magistrates cannot possibly make money’; in particular, he thinks oligarchies are particularly susceptible to corruption through bribery.”
+Answer: C
+
+
+Question 11:
+[COE]
+Which choice best describes data from the graph that support the team's conclusion?
+
+Studies have shown that plants usually have a negative electrical charge, while bees and other pollinators tend to have a positive charge. Because negatively and positively charged objects attract, a team of researchers examined whether this mechanism plays a role in the transmission of pollen between plants and pollinators. The researchers' experiments showed that positive charges above 200 picocoulombs (pC) could draw pollen grains to a pollinator, so they concluded that both bumblebees and European peacock butterflies can attract pollen.
+
+
+
+A. Both the bumblebees and the European peacock butterflies were found to have maximum charges greater than 200 pC.
+B. The bumblebees were found to have a maximum charge many times greater than that found for the houseflies.
+C. The European peacock butterflies were found to have a greater maximum charge than the bumblebees and the houseflies were found to have.
+D. The houseflies were found to have a maximum charge below 200 pC.
+Answer: A
+
+
+Question 12:
+[COE]
+Which finding, if true, would most directly support the US transportation experts’ claim?
+
+As of 2023, Turkey has 1,015 kilometers of high-speed rail lines in operation and 614 kilometers under construction; in Germany, 1,630 kilometers are in operation with 3,262 kilometers under construction. In contrast, the United States has a relatively low amount of high-speed rail for its size: only 735 kilometers of high-speed rail in operation and 1,789 kilometers under construction. Many US transportation experts argue that this should change, claiming that high-speed rail is more cost-effective than highway systems are.
+
+
+A. In most locations in the United States, increasing highway capacity is more expensive relative to the volume of traffic that can be accommodated than increasing high-speed rail capacity is.
+B. In much of the United States, the existing rail infrastructure is so old that it would have to be replaced entirely in order to accommodate high-speed trains.
+C. Building successful high-speed rail infrastructure would require that the US government establish a fund to maintain the rail lines long-term.
+D. Unlike people in the United States, people in Turkey and Germany are less interested in traveling by highway than they are in traveling by high-speed rail.
+Answer: A
+
+
+Question 13:
+[COE]
+According to the text, the difference between Lang and colleagues’ findings and Wright’s findings can be attributed to which difference between white-throated round-eared bats and three-striped night monkeys?
+
+Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Alexander Lang and colleagues found to be negatively associated with foraging by white-throated round-eared bats but Patricia C. Wright found to be positively associated with foraging by three-striped night monkeys. This discrepancy is explicable in terms of OFT: the monkeys’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the bats.
+
+
+A. The bats are less reliant on vision than the monkeys are.
+B. The bats decrease their foraging activity as lunar intensity increases, whereas the monkeys increase their foraging activity.
+C. The bats are more vulnerable to predators than the monkeys are.
+D. The bats encounter different levels of lunar intensity than the monkeys do.
+Answer: A
+
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+As observed in a 2011 study by Emilio García-Robledo and Alfonso Corzo, macroalgal proliferation may have a suppressive effect on the abundance of cyanobacteria and other microphytobenthos (MPB)—chlorophyll producing microbes inhabiting marine sediment—in part by reducing the amount of sunlight available to MPB. Examining benthic chlorophyll concentrations (a widely used proxy for MPB biomass) in mudflats in Curlow Bay and other coastal sites in Virginia, Alice F. Beiserman and Michael L. Pace found that those concentrations did not negatively correlate with macroalgal proliferation. However, they noted that MPB may respond to low-light conditions by producing higher-than-normal concentrations of chlorophyll, and they thus concluded that ______.
+
+
+A. researchers ought to account for the possibility that because MPB have the capacity to compensate for reduced sunlight availability, benthic chlorophyll concentrations may not always be a reliable indicator of MPB biomass.
+B. although their finding was inconsistent with that of García-Robledo and Corzo, this discrepancy was not attributable to the ability of MPB to accelerate chlorophyll production to mitigate the negative impact of macroalgal accumulations.
+C. although elevated levels of macroalgae do not always correspond to increased levels of benthic chlorophyll, there is likely a larger trend in MPB biomass that is related to macroalgal presence but unrelated to light conditions.
+D. the effect of macroalgal concentrations on MPB abundance that García-Robledo and Corzo reported was not observed in Curlow Bay and other Virginia sites because low-light conditions likely are not generalizable across the sites in the studies.
+Answer: A
+
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+A group of primate conservationists recently began a long-term study of the effects of different conservation strategies on the white-headed langur (Trachypithecus poliocephalus). The species population is currently estimated to be around 1,000. It is challenging to accurately count these primates, however, which makes it difficult to tell whether the population is increasing, decreasing, or staying stable. The study may thus ____.
+
+
+A. risk making inaccurate conclusions about the effectiveness of different conservation strategies.
+B. cause other conservationists to adopt a new methodology for counting populations.
+C. benefit from including species beyond the white-headed langur.
+D. fail to consider less-well-known conservation approaches for the white-headed langur.
+Answer: A
+
+
+Question 16:
+[Infer]
+Which choice most logically completes the text?
+
+Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water undisturbed by human activity. But Stephane Guédron, Delphine Tisserand, and colleagues did not find this correlation in an examination of freshwater bodies impacted by wastewater, leading some scientists to hypothesize that the association could be particular to undisturbed waters. However, Ida Tjerngren and colleagues carried out a study on freshwater bodies disturbed by urban development that showed similar results to the studies on undisturbed waters, suggesting that ______.
+
+
+A. levels of dissolved organic carbon and mercury are both much higher in bodies of fresh water impacted by wastewater than they are in bodies of fresh water disturbed by urban development.
+B. Guédron, Tisserand, and colleagues’ study used different methods to measure the concentration of mercury in fresh water than Tjerngren and colleagues’ study did.
+C. the effects of wastewater on the association between levels of dissolved organic carbon and mercury should not be taken as indicative of the effects of every type of human disturbance.
+D. disturbances linked to wastewater affect significantly more bodies of fresh water than disturbances linked to urban development do.
+Answer: C
+
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The implementation of multifunctional green infrastructure is increasingly favored over single-use recreational areas. This modern approach ______ the negative effects of urban sprawl, unlike conventional landscaping which often requires intensive irrigation, offers a more sustainable and resilient model for city planning.
+
+
+A. offsetting
+B. has offset
+C. offset
+D. offsets
+Answer: A
+
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In a report dated March 22nd, 2021, ecologist Anya Sharma tries to convince the National Parks Board that the forest's decline in biodiversity, often attributed to climate change among environmental activists, ______ due to issues local landowners have about implementing conservation measures with costly ecosystem-based approaches.
+
+
+A. has mainly happened
+B. mainly happened
+C. is mainly happening
+D. mainly happening
+Answer: C
+
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+While the ancient Celts—Iron Age peoples who inhabited parts of western and central Europe—weren’t a single unified group, their art often featured common elements. These included intricate patterns of interlocking spiral lines, which often held symbolic ______ of birds, horses, and other animals; and inlaid enamel accents.
+
+
+A. significance. Depictions
+B. significance: depictions
+C. significance; depictions
+D. significance, depictions
+Answer: C
+
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+With the short documentary Rick Bartow: The Man Who Made Marks, Osage and Cherokee director Nanette Kelley joined the growing number of Indigenous women adding their voices to North American ______ film, a selection of the Native Women in Film Festival, is about the art of painter and musician Rick Bartow.
+
+
+A. cinema, her
+B. cinema. Her
+C. cinema and her
+D. cinema her
+Answer: B
+
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Pluto, a celestial body discovered in 1930, was not officially classified as the solar system's ninth major planet by the International Astronomical Union (IAU) in 2006. ______ Pluto was reclassified by the IAU as a dwarf planet. The dwarf planet category was created to accommodate celestial bodies that are massive enough to be rounded by their own gravity but have not cleared their neighboring region of other objects.
+
+
+A. For example,
+B. Rather,
+C. Thus,
+D. Additionally,
+Answer: B
+
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Portuguese researcher Isabel C.F.R. Ferreira reports that the caffeic acid in termite mushrooms benefits the mushroom by combating harmful molecules called free radicals.______ Ferreira suggests that the acid can promote cellular health in humans, who also experience free radical damage.
+
+
+A. Conversely,
+B. Moreover,
+C. Rather,
+D. For example,
+Answer: B
+
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Visually distinguishing the common raven (Corvus corax) from the Chihuahuan raven (Corvus cryptoleucus) can confound even seasoned bird watchers. ______ the two species share similarities that—at times—make the birds appear virtually identical. Size, though, remains a differentiating feature: the common raven tends to be larger.
+
+
+A. Instead,
+B. Moreover,
+C. Indeed,
+D. Thus,
+Answer: C
+
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In 1845, the United States District Court for the state of Iowa was established. Initially, the court’s jurisdiction was a single district that encompassed the entire state, but as Iowa’s population grew, this single district began to struggle to serve the needs of everyone in the state. ______ the court’s jurisdiction was subdivided into two districts, each with its own district court.
+
+
+A. Ultimately,
+B. Additionally,
+C. Nevertheless,
+D. For example,
+Answer: A
+
+
+Question 25:
+[Synthesis]
+The student wants to emphasize a similarity between the two sculptures. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Elizabeth Catlett's sculpture Recognition (1970) shows two African American figures with rounded, indistinct features.
+• The figures reach out to each other in a pose that symbolizes a close, supportive relationship.
+• Her sculpture Students Aspire (1978) shows two African American figures with sharply defined features.
+• The figures hold an equal sign above their heads with one hand and embrace each other with the other hand.
+• This pose symbolizes their support for each other in the pursuit of equality.
+
+
+A. Catlett’s Students Aspire depicts two figures supporting each other in the pursuit of equality.
+B. Recognition and Students Aspire both show African American figures in poses that symbolize supportive relationships.
+C. Catlett completed Recognition in 1970 and Students Aspire in 1978.
+D. The figures in Recognition have features that are rounded and indistinct, while the figures in Students Aspire have sharply defined features.
+Answer: B
+
+
+Question 26:
+[Synthesis]
+The student wants to make a generalization about circumnavigations. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• A sailing trip that goes in a complete circle around the world is called a circumnavigation.
+• Most circumnavigations include stops on land.
+• Anne Liardet is a French sailor.
+• Liardet sailed the boat Roxy on a nonstop, 119-day circumnavigation.
+• Asia Pajkowska is a Polish sailor.
+• Pajkowska sailed the boat FanFan on a nonstop, 216-day circumnavigation.
+
+
+A. Pajkowska sailed FanFan around the world, while Liardet sailed Roxy.
+B. Pajkowska and Liardet have both embarked on sailing journeys around the world, also called circumnavigations.
+C. Most circumnavigations include stops on land, but some circumnavigations are nonstop.
+D. A circumnavigation is defined as a sailing trip that goes in a complete circle around the world.
+Answer: C
+
+
+Question 27:
+[Synthesis]
+The student wants to explain why nautical miles are used to measure distances in seafaring navigation. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•The nautical mile (6,076 feet) is the measure of distance used in seafaring navigation.
+•A nautical mile directly correlates to one minute (1/60th of a degree) of latitude.
+•The curvature of Earth affects the accurate measurement of long distances when using flat maps.
+•Measuring distances with latitude and longitude coordinates takes into account Earth’s curvature.
+•Mariners use nautical charts marked with latitude and longitude to quickly calculate distances and positions.
+
+
+A. Nautical miles are a measure of distance equal to one minute of latitude, which is a feature nautical charts use to calculate distances and positions.
+B. Nautical charts use latitude and longitude to measure long distances; these charts are more accurate than flat maps for measuring distances in seafaring navigation because they account for Earth’s curvature.
+C. Since they directly correlate to the coordinates on nautical charts, which take into account Earth’s curvature, nautical miles are an efficient way to calculate distances at sea.
+D. Using nautical miles for navigation at sea takes Earth’s curvature into account, whereas measuring distances with latitude and longitude coordinates does not.
+Answer: C

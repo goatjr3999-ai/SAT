@@ -1,0 +1,75 @@
+Question 1:
+The given equation defines the function f.
+f(x) = {{MATH_1}}
+For what value of x does f(x) reach its minimum?
+Answer: 25/4
+Explain : Desmos hoặc dùng tính chất x-vertex = -b/2a.
+
+Question 2:
+The graph of a certain parabola in the xy-plane intersects the y-axis once and the x-axis twice. Which of the following forms of the parabola’s equation gives the y-value of the y-intercept as a constant?
+
+A. {{MATH_2}}
+B. {{MATH_3}}
+C. {{MATH_4}}
+D. {{MATH_5}}
+Answer: C
+
+Question 3:
+In the given quadratic function, {{MATH_6}}, a and c are constants. The graph of y = f(x) in the xy-plane is a parabola that opens upward and has a vertex at the point (h, k), where h and k are constants. If h < 0 and f(-9) = f(3), which of the following must be true?
+
+I. c < 0  
+II. a ≥ 1  
+
+A. I only  
+B. II only  
+C. I and II only  
+D. Neither I nor II  
+Answer: D
+
+Question 4:
+A child throws a snowball. A quadratic model gives the predicted height above the ground h, in meters, of the snowball in terms of the time t, in seconds, after it is thrown. According to the model, the snowball is at a height of approximately 1 meter when thrown and reaches a maximum height of 2.8 meters 0.6 second after being thrown. Which equation could represent this model?
+
+A. {{MATH_7}}
+B. {{MATH_8}}
+C. {{MATH_9}}
+D. {{MATH_10}}
+Answer: A
+Explain : Kiến thức về phương trình Vertex. 
+
+Question 5:
+Fahari kicks a ball on the ground into the air. One second after being kicked the ball reaches its maximum height of 16 feet above the ground, and 2 seconds after being kicked, the ball is back on the ground. A quadratic function models the height h(t), in feet, of the ball t seconds after Fahari kicks it. Which equation defines this relationship?
+
+A. {{MATH_11}}
+B. {{MATH_12}}
+C. {{MATH_13}}
+D. {{MATH_14}}
+Answer: B
+
+Question 6:
+In the xy-plane, the line y = 5.5 intersects the graph of the equation y = {{MATH_15}} at exactly one point. What is the value of a?
+
+A. {{MATH_16}}
+B. {{MATH_17}}
+C. {{MATH_18}}
+D. {{MATH_19}}
+Answer: D
+
+Question 7:
+In the given system of equations,
+y = {{MATH_20}}
+y = {{MATH_21}}
+The system has exactly one distinct real solution (x, y). What is the value of y?
+Answer: 39
+Explain : Dùng delta
+
+Question 8:
+In the given quadratic function,
+f(x) = {{MATH_22}}
+The graph of y = f(x) in the xy-plane is a parabola with vertex (5, -32). What is the value of a?
+
+A. 2  
+B. 5  
+C. 6  
+D. 8  
+Answer: D
+Explain : Dùng tính chất (x1 + x2) / 2 = x-vertex = 5 tính được k (nghiệm còn lại). Từ đó ta giải nốt được a bằng việc cho f(5) = -32.

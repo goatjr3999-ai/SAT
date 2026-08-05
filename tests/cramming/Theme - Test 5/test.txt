@@ -1,0 +1,216 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Text corpora such as the International Corpus of English are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding how ______ a word is in spoken and written English. For instance, one might have a guess about the incidence of the word “first,” but only an analysis of a corpus can prove that “first” is the third most commonly used adjective.
+
+
+A. credible
+B. pervasive
+C. assertive
+D. profound
+Answer: B
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Text corpora such as the British National Corpus are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. If one has a ________ that the word "own" has a high incidence in English, for example, an analysis of a corpus can support that hypothesis by showing that "own" is the eighth most commonly used adjective.
+
+
+A. synopsis
+B. scheme
+C. recognition
+D. supposition
+Answer: D
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Text corpora such as the Brown Corpus are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. For example, a linguist who assumes that the word “know” appears quite often in written English could _____ that assumption with data from a corpus: “know” is the eighth most commonly used verb.
+
+
+A. substantiate
+B. entail
+C. transpose
+D. refute
+Answer: A
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Text corpora such as the Bank of English are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. For example, a linguist who assumes that the word “own” appears quite often in written English could ______ that assumption with data from a corpus: “own” is the eighth most commonly used adjective.
+
+
+A. corroborate
+B. refute
+C. transpose
+D. entail
+Answer: A
+
+Question 5:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Text corpora such as the British National Corpus are large collections of electronically stored texts that can be used to determine the frequency of ______ words. (Words used mainly in specialized or academic publications, on the other hand, tend to be poorly represented.) A corpus could reveal, for example, that the word "world" is the eighth most commonly used noun in standard English.
+
+
+A. trivial
+B. conventional
+C. profound
+D. accidental
+Answer: B
+
+Question 6:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is adapted from George Eliot’s 1857 short story “The Sad Fortunes of the Rev. Amos Barton.” The Countess Czerlaski is a newcomer to the town of Milby.
+I am by no means sure that if the good people of Milby had known the truth about the Countess Czerlaski, they would not have been considerably disappointed to find that it was very far from being as bad as they imagined. Nice distinctions are troublesome. It is so much easier to make up your mind that your neighbour is good for nothing, than to enter into all the circumstances that would oblige you to modify that opinion.
+
+A. To offer commentary on a human foible that may account for why the people of Milby view the Countess Czerlaski as they do
+B. To speculate on the circumstances under which the unfavorable opinion of the Countess Czerlaski that is held by the people of Milby could be improved
+C. To explain why the people of Milby are somewhat correct to reproach the Countess Czerlaski for her misdeeds
+D. To engage the reader’s compassion for both the Countess Czerlaski and the people of Milby by detailing their different viewpoints
+Answer: A
+
+
+Question 7:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is adapted from George Eliot’s 1857 short story “The Sad Fortunes of the Rev. Amos Barton.” The Countess Czerlaski is a newcomer to the town of Milby.
+I am by no means sure that if the good people of Milby had known the truth about the Countess Czerlaski, they would not have been considerably disappointed to find that it was very far from being as bad as they imagined. Nice distinctions are troublesome. It is so much easier to make up your mind that your neighbour is good for nothing, than to enter into all the circumstances that would oblige you to modify that opinion.
+
+A. To explain why the Countess Czerlaski may deserve some of the criticism she has received from the people of Milby
+B. To speculate on the circumstances under which the unfavorable opinion of the Countess Czerlaski that is held by the people of Milby could be improved
+C. To offer commentary on a human foible that may account for why the people of Milby view the Countess Czerlaski as they do
+D. To invoke the reader’s sympathy for both the Countess Czerlaski and the people of Milby by demonstrating why their perspectives are equally valid
+Answer: C
+
+
+Question 8:
+[Structure]
+Which choice best states the main idea of the text?
+
+The following text is from George Eliot’s 1857 short story “The Sad Fortunes of the Rev. Amos Barton.” The Countess Czerlaski is a newcomer to the town of Milby.
+It is true, the Countess was a little vain, a little ambitious, a little selfish, a little shallow and frivolous, a little given to white lies,—But who considers such slight blemishes; such moral pimples as these, disqualifications for entering into the most respectable society! Indeed, the severest ladies in Milby would have been perfectly aware that these characteristics would have created no wide distinction between the Countess Czerlaski and themselves; and since it was clear there was a wide distinction—why, it must lie in the possession of some vices from which they were undeniably free.
+
+A. The residents of Milby had initially viewed the Countess Czerlaski with suspicion, but they have gradually come to see her as mostly harmless.
+B. Although the Countess Czerlaski actively cultivates a sense of mystery about her, her background is less interesting than what many residents of Milby have been led to believe.
+C. Although the residents of Milby are generally thought to be hospitable, the Countess Czerlaski has committed many social blunders that have caused her to be widely disliked.
+D. Some residents of Milby are determined to disapprove of the Countess Czerlaski, even though the reasons for their dislike are largely groundless.
+Answer: D
+
+
+Question 9:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+The following text is adapted from George Eliot’s 1857 short story The Sad Fortunes of the Rev. Amos Barton. Mr. Ely is a clergyman in the town of Milby.
+"By the laity of Milby and its neighbourhood [Mr. Ely] was regarded as a man of quite remarkable powers and learning, who must make a considerable sensation in London pulpits and drawing-rooms on his occasional visit to the metropolis; and by his brother clergy he was regarded as a discreet and agreeable fellow. Mr. Ely never got into a warm discussion; he suggested what might be thought, but rarely said what he thought himself; he never let either men or women see that he was laughing at them, and he never gave any one an opportunity of laughing at him."
+
+A. It implies that Mr. Ely’s neighbors are more naive in their estimation of him than people in London are and then explains why his neighbors have been so easily misled.
+B. It presents the favorable opinion of Mr. Ely that other people hold and then describes the behaviors of Mr. Ely that enable him to maintain that favorable opinion.
+C. It shows that Mr. Ely had originally been held in high regard by his friends and then details the events that caused their regard for him to subside.
+D. It highlights the disparity between Mr. Ely’s public and private behavior and then conveys why he labors to obscure his true self from other people.
+Answer: B
+
+
+Question 10:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is adapted from George Eliot’s 1857 short story The Sad Fortunes of the Rev. Amos Barton. Mr. Ely is a clergyman in the town of Milby.
+"By the laity of Milby and its neighbourhood [Mr. Ely] was regarded as a man of quite remarkable powers and learning, who must make a considerable sensation in London pulpits and drawing-rooms on his occasional visit to the metropolis; and by his brother clergy he was regarded as a discreet and agreeable fellow. Mr. Ely never got into a warm discussion; he suggested what might be thought, but rarely said what he thought himself; he never let either men or women see that he was laughing at them, and he never gave any one an opportunity of laughing at him."
+
+A. To suggest that Mr. Ely’s neighbors regard him more highly than others do and to explain how he encourages this impression.
+B. To show that people hold Mr. Ely in esteem and to describe the habits that help him preserve that esteem.
+C. To trace the decline of Mr. Ely’s reputation among his acquaintances.
+D. To reveal the gap between Mr. Ely’s public image and his private self and to explain why he keeps the two apart.
+Answer: B
+
+Question 11:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+Most Native languages belong to language families, or groups of languages whose structural and lexical correspondence likely derives from their descent from a single language spoken long ago. A minority—such as Washoe, which is spoken in California and Nevada, and Yuchi, which is spoken in Oklahoma—are isolates, having no demonstrable genealogical relationship to other languages. __Yet Washoe and Yuchi, like all isolates, are potentially remnants of families whose other members vanished before the historical record could attest to them, perhaps through the geographical expansion of extant families.__
+
+A. It implies that a nonisolate language may have influenced both Washoe and Yuchi to such a degree that their relationship to their former families is no longer discernible.
+B. It proposes that the distinction made between present-day nonisolate languages and isolates like Washoe and Yuchi may not have been applicable in the distant past.
+C. It suggests that the ancestral languages of both Washoe and Yuchi were likely isolates that replaced nonisolate languages through geographic expansion in the distant past.
+D. It asserts that the historical record tends to overrepresent nonisolate languages relative to isolates, such that the origins of Washoe and Yuchi are obscure to scholars in the present day.
+Answer: B
+
+
+Question 12:
+[COE]
+Which statement, if true, would most directly illustrate the text’s assertion about language families and isolates to overall linguistic diversity?
+
+The language of the Tunica people, whose homeland comprises a comparatively swampy region in present-day Mississippi and Louisiana, is an isolate, or a language with no demonstrable connections to other languages. This is not unusual. In fact, many marshes and swamps correlate with the incidence of isolates, perhaps because geophysical barriers preserve isolates against the encroachment of language families (groups of languages whose words and grammatical structures suggest descent from a common progenitor language). Curiously, the same barriers are associated with diversification, which promotes the development of families of languages. The presence of isolates like Tunica functions as an index of overall linguistic diversity in a region.
+
+A. Despite incursions by various colonial powers—first Spain, then France, Britain, and finally the United States—into the challenging terrain of Mississippi and Louisiana, the grammar of Tunica has largely resisted the influence of non-Indigenous languages.
+B. Barring an as-yet-undemonstrated genealogical relationship in the deep past, Tunica’s lexical similarities with the nearby languages of the Muskogean family are best attributed to later patterns of “borrowing” of linguistic features through contact instead of through descent from a common ancestral language.
+C. The tribes of the Caddo Confederacy, who inhabited a vast region to the northwest of the Tunica homeland, spoke Caddo as well as Adai, a poorly documented language whose relationship to Caddo is unknown and which is typically regarded as an isolate.
+D. Houma and the many other languages of the Muskogean family proliferated in the areas adjoining the homelands of a number of isolate-speaking peoples, such as the Tunica and Timucua.
+Answer: D
+
+
+Question 13:
+[COE]
+Which statement, if true, would most directly support the claim in the underlined sentence?
+
+Most Native languages belong to language families, or groups of languages whose similarities in vocabulary and grammar suggest shared descent from a single language spoken long ago. In contrast, the language spoken by the Chimariko people in a mountainous area of Northern California was an isolate, or a language with no demonstrated relationship to other languages. Isolates are more prevalent in mountainous regions, likely because challenging terrain inhibits the geographical expansion of language families. __Yet factors other than geographical barriers also influenced the distribution of Indigenous languages in California and elsewhere in the present-day United States.__
+
+A. Several nonisolate languages in the US Southeast, such as Miccosukee, are also associated with challenging terrain, albeit with swamps and coastal wetlands rather than mountain chains.
+B. Northern Paiute, a language in the Uto-Aztecan family, was originally spoken in a vast expanse of Idaho, Nevada, and Oregon—a region whose mountainousness rivals that of the homeland of the Chimariko people.
+C. The isolates spoken in California and the surrounding region, such as Chimariko, possess similarities to neighboring nonisolate languages at the level of vocabulary, suggesting that isolates can easily acquire words from unrelated languages through cultural exchange
+D. In mountainous regions of the western US, isolate-speaking peoples historically relied on foraging, hunting, and fishing, while peoples who speak languages in the Uto-Aztecan family historically practiced intensive farming.
+Answer: D
+
+
+Question 14:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Spoken in Northern California, Karuk is an isolate, or a language that has no demonstrated relationship to other documented languages. The Haida language in Alaska is an isolate as well. However, most Native languages belong to language families, or groups of languages whose similarities can be attributed to shared descent from a single language spoken thousands of years ago. Curiously, isolates are more prevalent in regions where numerous nonisolates are also spoken. Thus, the geographical circumstances that favor the development of isolates may also drive diversification within language families.
+
+A. It provides examples of isolates, distinguishes isolates from most other Native languages, then discusses a point of correspondence between isolates and nonisolates.
+B. It compares two isolates, sketches the process by which nonisolates evolve from isolates, then discusses how geography affects the development of isolates and nonisolates alike.
+C. It defines the concepts of isolate languages and nonisolate languages, distinguishes between the regions where isolates and nonisolates are found, then accounts for this geographical distribution.
+D. It names several isolates and nonisolates, proposes a similarity between the two categories of languages, then identifies the respective regions where languages belonging to each category are likely to be found.
+Answer: A
+
+
+Question 15:
+[Synthesis]
+The student wants to emphasize a difference between Inuktitut and Danish nouns. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Inuktitut is a language in the Inuit language family.
+•In Inuktitut, a noun takes a different form when that noun functions as a location in a sentence.
+•The Inuktitut noun umiaq (boat) is combined with the locative suffix -mut to become the locative noun umiarmut (in the boat).
+•Danish is a language in the Germanic language family.
+•In Danish, nouns do not change form to indicate location.
+•In Danish, nouns used as a location must be indicated by prepositions such as i (in) or pa (on).
+
+A. Though nouns in Inuktitut change form to indicate location, this Inuit language belongs to a different language family than Danish does.
+B. To indicate location in Inuktitut, a suffix is appended to a noun, but in Danish, the noun is unchanged and a preposition is used.
+C. In Inuktitut, nouns take a different form when they function as a location, as the language belongs to the Inuit family; Danish, however, belongs to the Germanic family.
+D. Inuktitut and Danish belong to two distinct language families; the former is in the Inuit family, while the latter is a Germanic language.
+Answer: B
+
+
+Question 16:
+[COE]
+Which statement, if true, would most directly support the claim in the underlined sentence?
+
+Most Native languages belong to language families, or groups of languages whose similarities in vocabulary and grammar suggest shared descent from a single language spoken long ago. In contrast, the language spoken by the Esselen people in a mountainous area of Central California was an isolate, or a language with no demonstrated relationship to other languages. Isolates are more prevalent in mountainous regions than elsewhere, likely because challenging terrain inhibits the geographical expansion of language families. __Yet it is clear that geographical barriers on their own cannot fully explain this aspect of the distribution of indigenous languages in California and elsewhere in the present-day United States.__
+
+A. In mountainous regions of the western US, isolate-speaking peoples historically met most of their food needs through foraging, hunting, and fishing rather than intensive farming
+B. Esselen and other isolates spoken in mountainous regions of California tend to contain many more terms describing features of mountainous terrain than nonisolate languages from relatively flat regions of California do.
+C. Shoshone, a language in the Uto-Aztecan family, was originally spoken in a vast expanse of Idaho, Nevada, Oregon, and Wyoming --- a region whose mountainousness rivals that of the homeland of the Esselen people.
+D. Although Native languages in non-mountainous areas of California tend to belong to language families, those families do not necessarily share common linguistic ancestry.
+Answer: C

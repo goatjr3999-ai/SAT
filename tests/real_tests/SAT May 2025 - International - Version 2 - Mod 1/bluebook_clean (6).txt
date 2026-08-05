@@ -1,0 +1,356 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The National Heritage Fellowship was created to ______ exceptional folk and traditional artists in the United States. One artist who received the fellowship, the Mexican American rodeo tailor Manuel Cuevas, was chosen for his lifetime contributions to the arts.
+
+A. begin
+B. overshadow
+C. distract
+D. honor
+Answer: D
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Some cities estimate where sidewalks are located using road maps, which is not very accurate. Maryam Hosseini and her team trained a computer program to identify sidewalks in aerial images of Manhattan and used it on images of Brooklyn. The program's performance was ______ to that of the road-map method: it more accurately identified sidewalks, and it even distinguished between cobblestone and brick.
+
+A. superior
+B. supportive
+C. similar
+D. changed
+Answer: A
+
+Question 3:
+[WIC]
+As used in the text, what does the word "good" most nearly mean?
+
+The following text is from Charles Chesnutt's 1905 novel *The Colonel's Dream*. Mr. French and Mr. Kirby work together.
+
+Mr. French, the senior partner, who sat opposite Kirby, was an older man—a safe guess would have placed him somewhere in the debatable ground between forty and fifty; of a __good__ height, as could be seen even from the seated figure, the upper part of which was held erect with the unconscious ease which one associates with military training.
+
+A. Well-behaved
+B. Considerable
+C. Capable
+D. Reliable
+Answer: B
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Often, the Nobel Prize in Chemistry is given to a single person, such as George de Hevesy in 1943. But recognition isn't restricted to ______ individuals. Instead, success in fields like chemistry is usually achieved through collaboration with other experts, as was the case for Max Ferdinand Perutz, who was among those awarded for "their studies of the structures of globular proteins."
+
+A. solitary
+B. coordinated
+C. considerate
+D. coincidental
+Answer: A
+
+Question 5:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Apollo Moon landings (1969-1972) brought atmospheric sensors and soil sensors to the Moon and produced large amounts of data, much of which was stored on outdated technologies. A data-transfer project is making the data available again, thereby ______ the Apollo data's usefulness, as the data are used to study the geology of the Moon.
+
+A. persisting
+B. installing
+C. renewing
+D. exceeding
+Answer: C
+
+Question 6:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Any effort to raise the toll that drivers must pay to use the Lewiston-Queenston Bridge, which spans the Niagara River to connect New York State and Ontario, Canada, should explain why a higher toll is necessary; no amount of justification, however, is likely to persuade some drivers who believe the current toll is ______.
+
+A. warranted
+B. exorbitant
+C. equivocal
+D. contentious
+Answer: B
+
+Question 7:
+[Cross Text]
+Based on the texts, what would the author of Text 2 most likely say in response to the underlined claim in Text 1?
+
+**Text 1**
+In 2019 Belo Horizonte, Brazil, was named a City of Gastronomy by UNESCO in recognition of the city's unique food culture. The honor is well known among residents of the city as well as tourists who visit. __It's obvious that the selection of Belo Horizonte by UNESCO has brought awareness to local recipes, cooking practices, and chefs and has provided a boost to the city's tourism industry.__
+
+**Text 2**
+Many people in Belo Horizonte's restaurant industry hoped that food tourism would increase after the city was chosen as a City of Gastronomy in 2019. However, as researcher Eerang Park and colleagues argue, cities must still create effective marketing strategies to benefit fully from being named a City of Gastronomy. Without an intentional effort to promote the city's food scene, many current and potential visitors to Belo Horizonte may not even be aware that it's home to uniquely delicious food.
+
+A. Many people worked together to help Belo Horizonte be recognized by UNESCO, but chefs deserve the most credit for Belo Horizonte's selection as a City of Gastronomy.
+B. Belo Horizonte may have benefited from being selected by UNESCO, but tourism can likely be further increased by making more potential visitors aware of the city's status as a City of Gastronomy.
+C. The naming of Belo Horizonte as a City of Gastronomy was long overdue, given the city's unique and delicious food.
+D. The benefits of being named a City of Gastronomy extend well beyond tourism.
+Answer: B
+
+Question 8:
+[COE]
+The text makes which point about Hoocąk?
+
+In Hoocąk, an Indigenous language from the Midwest region of what is now the United States, *zi* means "yellow," whereas *zizi* means "yellow in spots." This phenomenon, in which an element of a root word is repeated, sometimes with modification, within another word that is related to the root word, is called reduplication. In this case, the entire word *zi* gets repeated in *zizi*. There are many examples of this type of reduplication in Hoocąk.
+
+A. It is one of the only languages in the world that makes use of reduplication.
+B. It is closely related to another language from the Midwest region of what is now the United States that also makes use of reduplication.
+C. It contains many instances of the type of reduplication seen in the words *zi* and *zizi*.
+D. It has a wide variety of reduplicated words and phrases that mean "yellow."
+Answer: C
+
+Question 9:
+[COE]
+Based on the text, what do the essays "Concerning Dangers from Dissensions between the States" and "The Senate" have in common?
+
+The Federalist Papers are a collection of 85 essays written by Alexander Hamilton, John Jay, and James Madison. Their publication (under a single pen name) was divided among the *Daily Advertiser* and other New York newspapers in 1787-88. The essays argue that New Yorkers should vote to ratify the proposed United States Constitution. Though the authorship of most of the individual essays is certain, that of a few is in question: for instance, while No. 6, "Concerning Dangers from Dissensions between the States," was surely penned by Hamilton, No. 62, "The Senate," may have been written by either Hamilton or Madison.
+
+A. They were both written by one of the three authors of the Federalist Papers, but which of the authors wrote either is not entirely clear.
+B. They were both published sometime during 1787 or 1788.
+C. They were both collaborative efforts between Alexander Hamilton and James Madison.
+D. They were both published in the *Daily Advertiser*.
+Answer: B
+
+Question 10:
+[COE]
+Which choice most effectively uses data from the graph to complete the example?
+
+A student is using the graph for a class presentation on historic employment trends in the agriculture, hunting, and forestry sectors in two European countries. The student notes that from 1995 to 2007 ______
+
+A. the majority of employees in Austria were working in these sectors.
+B. the number of employees working in these sectors decreased in the Czech Republic while remaining relatively steady in Austria.
+C. employment in these sectors remained stable in both Austria and the Czech Republic.
+D. the number of employees working in these sectors increased in the Czech Republic.
+Answer: B
+
+Question 11:
+[COE]
+Which choice best describes information from the table that supports the student's claim?
+
+A student is researching volcanoes in Ecuador. The student claims that Ecuador is home to several different types of volcanoes.
+
+A. Wolf is a shield volcano, Tungurahua is a stratovolcano, Imbabura is a compound volcano, and Chacana is a caldera volcano.
+B. Wolf, Tungurahua, and Imbabura are all stratovolcanoes, whereas Chacana is the only caldera volcano.
+C. Wolf, Tungurahua, Imbabura, and Chacana each most recently erupted in different years.
+D. Wolf and Tungurahua are both shield volcanoes, whereas Imbabura and Chacana are both compound volcanoes.
+Answer: A
+
+Question 12:
+[COE]
+Which quotation from *Memoirs of Elleanor Eldridge* most effectively illustrates the claim?
+
+*Memoirs of Elleanor Eldridge* is an 1838 historical account by Elleanor Eldridge and Frances Harriet Whipple Green. In the book, the authors assert that all people naturally have an emotional attachment to where they live, writing, ______
+
+A. "This little book is published for the express purpose of giving a helping hand to suffering and persecuted merit."
+B. "To give some idea of the high esteem in which the subject of the following narrative is held, and the strong interest her misfortunes have excited, a few, from the great number of recommendations in her possession, are selected."
+C. "Blessed are the slumbers of the innocent! They are kindlier than balm, and they refresh and gladden the spirit of childhood, like ministerings from a better world."
+D. "Home is home, to the lowly as well as the great; and no rank, or color, destroys its sacred character, its power over the mind, and the affections."
+Answer: D
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+Chemists M.H. Gamble, P. Rice, and J.D. Selman studied the mass and heat transfer processes that occur when foods, such as the Indian snacks malapua and puri bhaji, are oil fried. During frying, water in the crust evaporates, leaving voids that oil (a pure fat) can fill. As the process continues, water from the food's center moves to the crust as long as the crust remains permeable. Therefore, it is likely that, all other things being equal, sections of a food that lose less moisture during the frying process ______
+
+A. will develop a thicker crust during the frying process than sections that lose more moisture.
+B. will have a lower fat content after frying is completed than sections that lose more moisture.
+C. will have a crust that loses its permeability less quickly during the frying process than sections that lose more moisture.
+D. will have a higher temperature after frying is completed than sections that lose more moisture.
+Answer: B
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Ants and aphids are known to be mutualistic: ants feed on the honeydew produced by aphids, while aphids benefit from ants' protection against predators. If aphid colonies—which generally require relatively stable surfaces, such as trees or other woody plants, to thrive—are too small to produce significant volumes of honeydew, however, ants will prey on aphids. Researcher Tae-Sung Kwon examined ant and aphid abundance in two habitats in South Korea, one on the mainland and one on Jeju Island. Though the habitats differed in some important respects, both were predominantly grassland, which could help explain why Kwon observed ______
+
+A. different ant and aphid species on the mainland compared to those on the island.
+B. a positive correlation between aphid diversity and abundance on both the mainland and the island.
+C. a negative correlation between ant and aphid abundance on both the mainland and the island.
+D. diminished ant and aphid abundance on the mainland compared to that on the island.
+Answer: C
+
+Question 15:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Museo del Autonomismo Puertorriqueño is a history museum in Ponce, Puerto Rico. It's one of more than eighty museums in the US territory. Puerto Rico's ______ showcase everything from the territory's history to its architecture to its coffee.
+
+A. museums
+B. museums:
+C. museums,
+D. museums—
+Answer: A
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+*Creek Council Tree* (1967) and *Cimarron Iron Bridge* (1972) are two oil landscape paintings by renowned Pawnee Nation artist Brummett Echohawk. In 2023, ______ displayed alongside other works by Echohawk at the student-curated exhibition *Brummett Echohawk: An Artist's Journey* at the Oklahoma State University Museum of Art.
+
+A. they were
+B. this was
+C. it was
+D. some were
+Answer: A
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In the 1980s, Latino filmmakers Luis Valdez, Gregory Nava, and Ramón Menéndez helped expand on-screen representation of Latino Americans with the films *Zoot Suit* ______ and *Stand and Deliver* (1988), respectively.
+
+A. (1981) *El Norte* (1983),
+B. (1981) *El Norte* (1983)
+C. (1981)—*El Norte* (1983)—
+D. (1981), *El Norte* (1983),
+Answer: D
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Olga Tokarczuk of Poland won it; George Bernard Shaw of Ireland won it, too. These are just two examples of the wide range of writers to be granted what is arguably the most prestigious ______ the Nobel Prize in Literature.
+
+A. award; for a person of letters,
+B. award for a person of letters;
+C. award: for a person of letters
+D. award for a person of letters:
+Answer: D
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Grootbos florilegium in South Africa contains a collection of botanical paintings, with each painting depicting a local plant species in exquisite detail. The florilegium includes a vignette painting by contributing artist Sibonelo Chiliza. Unlike most paintings in the florilegium, ______
+
+A. Chiliza contextualizes a plant within an ecosystem in his vignette.
+B. the contextualization of a plant within an ecosystem occurs in Chiliza's vignette.
+C. a plant's ecosystem is contextualized in Chiliza's vignette.
+D. Chiliza's vignette contextualizes a plant within an ecosystem.
+Answer: D
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+For scientists to produce new iron nanoparticles of a specific size or strength, they must first be able to monitor reactions between oxygen and existing iron nanoparticles at a near-atomic level of detail. Fortunately, chemistry ______ and his colleagues at Temple University recently developed a new approach that does just that.
+
+A. professor Yugang Sun
+B. professor Yugang Sun,
+C. professor, Yugang Sun
+D. professor, Yugang Sun,
+Answer: A
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Topographical prominence is a measure of a mountain's independence from other mountains. Having 11,486 feet of prominence, ______
+
+A. geographers have ranked Mount Hayes, a peak in the United States, as the world's 51st most prominent mountain.
+B. Mount Hayes, a peak located in the United States, is ranked by geographers as the world's 51st most prominent mountain.
+C. the list of mountains geographers rank as the world's most prominent includes Mount Hayes, a peak located in the United States, at number 51.
+D. the ranking given by geographers to Mount Hayes, a peak located in the United States, is 51st most prominent mountain in the world.
+Answer: B
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Analyses of Rembrandt's seventeenth-century painting *The Night Watch*, citing its richly saturated colors and stark contrasts between light and shadow, often characterize the work as an exemplar of the Baroque-era style. Many art historians, however, challenge the very notion of a distinct Baroque era. They claim that the so-called Baroque aesthetic was, ______ just an extension of the stylings of the Renaissance era.
+
+A. in reality,
+B. first of all,
+C. similarly,
+D. nevertheless,
+Answer: A
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Physicist Walter Massey led numerous scientific organizations over his long career. His most prominent appointment came in 1990, when Massey was named director of the National Science Foundation. ______ Massey had served as the first president of the National Society of Black Physicists.
+
+A. In conclusion,
+B. Previously,
+C. Thus,
+D. For example,
+Answer: B
+
+Question 24:
+[Synthesis]
+The student wants to explain how soap removes a surface contaminant. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Soap forms as the result of a chemical reaction between fats and either sodium or potassium hydroxide.
+• One end of a soap molecule is hydrophobic (water repelling), and one end is hydrophilic (water attracting).
+• The hydrophobic ends of soap molecules adhere to hydrophobic surface contaminants, such as dirt and oils.
+• The soap molecules form circular structures (micelles) around contaminants.
+• The hydrophilic ends of the molecules encase the micelles in water, lifting the micelles and contaminants off surfaces.
+
+A. Surface contaminants like dirt and oils are hydrophobic, not hydrophilic—meaning they repel water rather than attract it.
+B. Micelles are circular structures created when soap molecules attach themselves to dirt or oils.
+C. To remove dirt from a surface, soap molecules form a circular structure, or micelle, around the contaminant; next, the molecules encase the micelle in water, lifting it—and the dirt—off the surface.
+D. Dirt, an example of a hydrophobic surface contaminant, can be removed from a surface by soap, which forms as the result of a chemical reaction between fats and either sodium or potassium hydroxide.
+Answer: C
+
+Question 25:
+[Synthesis]
+The student wants to emphasize a difference between the two seaweeds. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• The human tongue contains taste receptors for a rich, savory flavor called umami.
+• Umami is triggered by the compounds in a variety of foods, including tuna and blue cheese.
+• Participants in a study tasted a sample of sea palm, a type of brown seaweed.
+• They rated its umami intensity as moderate.
+• The participants tasted a sample of bull kelp, another type of brown seaweed.
+• They rated its umami intensity as high.
+
+A. Some types of brown seaweed, like sea palm and bull kelp, trigger umami flavor in human taste buds.
+B. Sea palm is a type of brown seaweed, but so is bull kelp.
+C. While sea palm and bull kelp contain umami flavor, umami can also be found in tuna and blue cheese.
+D. After tasting two types of brown seaweed, sea palm and bull kelp, participants in a study found bull kelp's umami flavor to be the more intense of the two.
+Answer: D
+
+Question 26:
+[Synthesis]
+The student wants to make a generalization about the Hina Hanta archive. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Hina Hanta is an online archive curated by the Choctaw Nation of Oklahoma.
+• It features images of cultural artifacts relevant to the history of the Choctaw people.
+• It features clothing, including a shawl (*anchi* in Choctaw) made from cloth.
+• The shawl was made in 1881.
+• Hina Hanta features household items, including a mug (*isht ishko*) made from clay.
+• The mug was made in 1915.
+
+A. Included in the Hina Hanta online archive is a cloth shawl.
+B. The Choctaw name for the cloth shawl is *anchi*.
+C. Not all artifacts in the Hina Hanta archive are from the 1800s.
+D. The clay mug (*isht ishko*) was made in 1915.
+Answer: C
+
+Question 27:
+[Synthesis]
+The student wants to specify the parts of a Foucault pendulum. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• The Polytechnic in Gdansk, Poland, is home to a Foucault pendulum.
+• The pendulum consists of a weighted ball that swings at the end of a roughly 26-meter-long cable.
+• Like all Foucault pendulums, it dangles from a fixed point that ensures the swing path of the pendulum doesn't change.
+• To an observer, the swing path of a Foucault pendulum appears to change over time because Earth rotates beneath it.
+• Foucault pendulums are used as a simple way to provide evidence of Earth's rotation.
+
+A. The Foucault pendulum at the Polytechnic in Gdansk, Poland, includes a cable that is roughly 26 meters long.
+B. With a swing path that appears to change over time, a Foucault pendulum provides evidence of Earth's rotation.
+C. Dangling from a fixed point, the Foucault pendulum at the Polytechnic consists of a cable with a weighted ball at the end.
+D. The swing path of the Foucault pendulum at the Polytechnic appears to change over time.
+Answer: C
+

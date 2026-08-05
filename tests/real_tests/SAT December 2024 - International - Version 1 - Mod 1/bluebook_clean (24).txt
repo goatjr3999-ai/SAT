@@ -1,0 +1,354 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The American continents are home to a huge diversity of languages, from Mayo, found in places like Mexico in North America, to Koreguaje, found in places like Colombia in South America. Much like the continents themselves, the variety of native languages in the Americas is ______.
+
+A. immense
+B. unknown
+C. ordinary
+D. limited
+Answer: A
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The minor planet 1095 Tulipa was named after the plant genus that includes tulips, but given the sheer number of minor planets that have been discovered (more than 500,000 so far), most are given only an identification number. Because any name given to a minor planet needs to be unique to that body, naming each would be ______.
+
+A. impractical
+B. presumptuous
+C. ambiguous
+D. customary
+Answer: A
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Drivers who strongly believe that the toll they must pay to use the San Luis Pass-Vacek Toll Bridge, which spans the San Luis Pass in Texas, is currently too high are likely to be ______ arguments for increasing the toll. Advocates for a higher toll are likely to have more success if they instead direct their arguments toward a more persuadable segment of the population.
+
+A. cited in
+B. apprised of
+C. unsympathetic to
+D. placated by
+Answer: C
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Though few critics consider Vasily Grossman's novel *Stalingrad*—which focuses on the experience of the Soviet Union in the early years of World War II—to be as well written as his later book *Everything Flows*, some compliment it despite the damage ______ Soviet censors: Gary Saul Morson in *The New York Review of Books* called the novel "remarkably bold."
+
+A. bestowed on
+B. wrought by
+C. allocated to
+D. concealed from
+Answer: B
+
+Question 5:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Companies are providing consumers with more opportunities to purchase customized products than ever before. Whether buying customized sneakers, jewelry, or clothing, consumers can participate in the design of products to meet their specific needs and tastes. In turn, companies profit too: studies have shown that consumers are willing to pay more and wait longer for a customized product. Still, it can be difficult for companies to offer customization while keeping costs low, as the standard methods of mass production may not be able to accommodate making a unique product each time.
+
+A. It discusses several recent innovations in product manufacturing and then suggests some potential applications of those innovations.
+B. It describes a company's recent success with new products and then explains multiple factors that may have contributed to that success.
+C. It presents two contrasting product-marketing techniques and then provides examples of one of those techniques.
+D. It introduces a trend in consumer products and then explains how the trend both benefits and poses a challenge to companies.
+Answer: D
+
+Question 6:
+[COE]
+Which choice best describes the main purpose of the text?
+
+Karl Polanyi and other historians rarely discuss domestic capitalism in Africa before the period of European colonization, implicitly presenting capitalism as external to and imposed on Africa. Mariana Candido and other Africanist scholars have shown, however, that in parts of Africa, centrally administered industrial production, the legal treatment of land as private property, and other features of capitalism predated colonization. One reason for this discrepancy is that historians of capitalism tend to focus on longitudinal economic data drawn from archival records, which do not exist for much of precolonial Africa.
+
+A. To explain why historians of capitalism and Africanist scholars disagree about which activities are features of capitalism
+B. To present and account for a potentially misleading characteristic of the work of historians of capitalism
+C. To describe and evaluate a method used by Africanist scholars that distinguishes their work from that of historians of capitalism
+D. To summarize a debate between historians of capitalism and Africanist scholars about how to interpret longitudinal economic data from archival records
+Answer: B
+
+Question 7:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is adapted from George Eliot's 1857 short story "The Sad Fortunes of the Rev. Amos Barton." The Countess Czerlaski is a newcomer to the town of Milby.
+
+I am by no means sure that if the good people of Milby had known the truth about the Countess Czerlaski, they would not have been considerably disappointed to find that it was very far from being as bad as they imagined. Nice distinctions are troublesome. It is so much easier to make up your mind that your neighbour is good for nothing, than to enter into all the circumstances that would oblige you to modify that opinion.
+
+A. To offer commentary on a human foible that may account for why the people of Milby view the Countess Czerlaski as they do
+B. To speculate on the circumstances under which the unfavorable opinion of the Countess Czerlaski that is held by the people of Milby could be improved
+C. To explain why the people of Milby are somewhat correct to reproach the Countess Czerlaski for her misdeeds
+D. To engage the reader's compassion for both the Countess Czerlaski and the people of Milby by detailing their different viewpoints
+Answer: A
+
+Question 8:
+[COE]
+Based on the text, what most likely motivates Tia Ana's behavior during Salomé's salon?
+
+The following text is from Julia Alvarez's 2000 novel *In the Name of Salomé*. Salomé, a poet, is hosting guests in the front parlor of her family home, and Ramona is her sister. A salon is a social gathering for the exploration of intellectual ideas.
+
+It was evening when the two men got up to leave. Tia Ana had already come into the room several times to see if these guests had departed yet. The front parlor had always been her special province, as she used it for her little school. Now, every evening, it turned into Salomé's salon, as Ramona called it, and it was never in order for its transformation back to a classroom the following morning.©2000 by Julia Alvarez
+
+A. She is frustrated because she needs assistance elsewhere in the house, but Salomé is unavailable while entertaining the guests.
+B. She is anxious for the gathering to disperse so that she can ready the space for her own needs.
+C. She is impatient to share her plans to start a new school with the guests and hopes they will support her.
+D. She finds the guests to be dull and is eager to find a way to leave the salon.
+Answer: B
+
+Question 9:
+[COE]
+What claim does the text make about the demand for petroleum?
+
+Companies involved in petroleum extraction include drilling equipment among their assets. But petroleum extraction is a very carbon-intensive industry, so as social attitudes increasingly favor using less carbon intensive sources of energy demand for petroleum falls and the drilling equipment will eventually, or even suddenly, become a liability as reduced petroleum prices make it more difficult to recover the expense of maintaining such equipment.
+
+A. Companies involved in petroleum extraction are not affected by the demand for petroleum.
+B. The societal preference for low-carbon energy sources is a factor in the demand for petroleum.
+C. The demand for petroleum follows a predictable annual cycle.
+D. Companies involved in petroleum extraction can benefit from a decline in the demand for petroleum.
+Answer: B
+
+Question 10:
+[COE]
+According to the text, which trait do researchers think may contribute to a flat-headed cat's ability to purr?
+
+Why do flat-headed cats purr but jaguars roar? Researchers hypothesize that this difference between the two feline species may be partly due to a U-shaped bone in their throats called the hyoid. Flat headed cats, which are much smaller than jaguars, have a rigid hyoid that rumbles when the cat's larynx vibrates, resulting in a purr. By contrast, jaguars have a somewhat flexible hyoid, and the bone is attached to the skull with a stretchy ligament that flat-headed cats lack. These traits allow jaguars and most other species of big cats to produce powerful roars. The same traits may also prevent most big cats from purring.
+
+A. The shape of the flat-headed cat's larynx
+B. The ligament attaching the hyoid bone to the flat-headed cat's skull
+C. The flat-headed cat's rigid hyoid bone
+D. The relative size of the flat-headed cat's body and throat
+Answer: C
+
+Question 11:
+[COE]
+Which choice most effectively uses data from the table to complete the example?
+
+Hawaiian home lands are areas of public land in the state of Hawaii that have been reserved for use by the Kanaka Maoli, or the Native Hawaiian people. The largest of the home lands, Homuula-Upper Piihonua, covers nearly 100 square miles on the island of Hawai'i. Most of the home lands are much smaller. For example, the total area of Kamoku-Kapulena is 7.47 square miles, and the total area of Nanakuli is ______
+
+A. 37.26 square miles.
+B. 3.61 square miles.
+C. 23.57 square miles.
+D. 15.99 square miles.
+Answer: B
+
+Question 12:
+[COE]
+Which choice most effectively uses data from the table to complete the example?
+
+A study of commercial airline routes that carried the greatest number of passengers in 2017 and 2018 shows that, in general, domestic routes (routes within a single country) carried many more passengers than international routes. However a few international routes were so popular that they carried more travelers than some of the most highly traveled domestic routes, as can be seen when comparing the ______
+
+A. distance between Mexico City and Monterrey with the distance between Jakarta and Singapore.
+B. number of passengers who traveled between Mumbai and Delhi in 2017 with the number who traveled between Hong Kong and Manila during that same year.
+C. number of passengers who traveled between Jakarta and Singapore in 2017 with the number who traveled that same route in 2018.
+D. number of passengers who traveled between Jakarta and Singapore in 2018 with the number who traveled between Mexico City and Monterrey during that same year.
+Answer: D
+
+Question 13:
+[COE]
+Which finding, if true, would most directly support the second research team's hypothesis?
+
+Water flowing around an obstruction creates vortices (swirls) that vary in size with the obstruction's size and position, and fish sense these vortices in order to navigate around the obstructions. Using models of three fish head shapes—narrow (low ratio of width to length), intermediate, and wide (high ratio of width to length)—Yuzo R. Yanagisuru, Otar Akanyetl, and James C. Liao showed that as vortex size increases, pressure fluctuations at the snout increase for narrow-headed and intermediate-headed fish but remain low for wide-headed fish. A second research team has therefore hypothesized that in low visibility, a fish will be more likely to avoid an obstruction when the associated pressure fluctuations at the fish's snout are greater.
+
+A. A study using obstructions that created large vortices in low-visibility conditions found that the devil catfish (*Bagarius bagarius*), which has a relatively wide head, bumped into more than half of the obstructions.
+B. A study using obstructions that created large vortices in low-visibility conditions found that the intermediate-headed dusky smooth-hound (*Mustelus canis*) bumped into the obstructions just as often as the wide-headed *Synodontis macropunctata* did.
+C. A study using obstructions that created large vortices in low-visibility conditions found that the wide-headed *Synodontis macropunctata* bumped into obstructions more often than the intermediate-headed dusky smooth-hound (*Mustelus canis*) did.
+D. A study using obstructions that created large vortices in low-visibility conditions found that some specimens of the intermediate-headed rainbow trout (*Oncorhynchus mykiss*) bumped into the obstructions more often than other specimens of the same fish did.
+Answer: C
+
+Question 14:
+[COE]
+Which choice most effectively uses data from the table to complete the example?
+
+As the second most populous continent in the world, Africa was home to an estimated 1.186 billion people in 2015. In a paper for a social studies class, a student nonetheless notes that countries with very large populations may be less densely populated than are countries with much smaller populations, as can be seen by comparing ______
+
+A. Zambia, which has a low density, with Benin, which has a similar density despite both countries having different geographic sizes.
+B. the geographic size of Mali (1,240,000 square kilometers) with its relatively high population of 17,600,000 inhabitants.
+C. Mali, which has a high population of 17,600,000 inhabitants and a relatively low density of 14.2 inhabitants/square kilometer, with Lesotho, which has a much lower population and a higher density.
+D. the populations of both Lesotho and Benin in 2015 with their populations in 2010.
+Answer: C
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+Humans have a very strong bias toward right handedness, with approximately 85-90% having right as their dominant hand. Among studies of nonhuman primates, James Welles's 1976 study of captive chimpanzees and catarrhine monkeys reported more right-handed individuals than left-handed ones, but William C. McGrew and colleagues' 1999 study of wild chimpanzees did not find a tendency toward right-handedness. It's important to note, however, that captive animals spend significantly more time with humans than wild animals do, and therefore ______
+
+A. the apparent difference between the two studies' results may be partly attributable to the 1976 study using a different standard to determine handedness than the 1999 study did.
+B. the right-handedness exhibited by the captive chimpanzees and catarrhine monkeys might be, in part, an effect of extended contact with humans.
+C. the number of individuals in the study of captive chimpanzees and catarrhine monkeys is likely too small to support the claim that the species tends toward right handedness.
+D. the number of individuals in the study of wild chimpanzees is probably too small to support the claim that no tendency toward right-handedness was found in that population.
+Answer: B
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Used in everything from food to cleaning products, emulsifiers are compounds that serve to stabilize an emulsion—a mixture of two or more liquids that otherwise would not easily blend together. The emulsifiers used by ______ like palmitic acid, allow these scientists to blend oil and water into homogeneous formulations such as lotions and perfumes.
+
+A. cosmetic chemists',
+B. cosmetic chemist's,
+C. cosmetic chemists,
+D. cosmetic's chemists,
+Answer: C
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Many mechanical calculators were powered by a notched cylinder mechanism called the Leibniz wheel. Leibniz wheel calculators were popular in the first half of the twentieth ______ these ingenious devices were eventually replaced by electronic calculators.
+
+A. century,
+B. century
+C. century, but
+D. century that
+Answer: C
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Nigerian American artist Toyin Ojih Odutola uses black-ink pens to create highly detailed drawings of human figures. Her portrait of novelist Zadie ______ is displayed in the National Portrait Gallery in London.
+
+A. Smith—
+B. Smith:
+C. Smith,
+D. Smith
+Answer: D
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Though he would go on to work with many respected musicians, including Paul Hanson on his album *Frolic in the Land of Plenty*, American ______ may be best known for his time with Sugar Hill Records, where he helped craft the sound of early hip hop music.
+
+A. drummer, Dennis Chambers
+B. drummer Dennis Chambers,
+C. drummer Dennis Chambers
+D. drummer, Dennis Chambers,
+Answer: C
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Between June 22 and July 2 each year, particles shed by comet 7P/Pons-Winnecke enter Earth's atmosphere at a velocity of 18 kilometers per second. Relatively few of these particles are likely to reach Earth's ______ since the meteoroids' compression of the air surrounding them causes the vast majority to burn up in the mesosphere, producing the June Boötid meteor shower.
+
+A. surface, however;
+B. surface, however,
+C. surface; however,
+D. surface. However,
+Answer: B
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+While most animals prefer the safety of nighttime migration, many poisonous amphibians—a category that includes the red-bellied newt and the fire salamander—safely engage in migratory behavior during the day. ______ with the sun in the sky, the amphibians' striking color patterns deter visually oriented daytime predators by serving as a warning of toxicity.
+
+A. At that time,
+B. For example,
+C. In other words,
+D. However,
+Answer: A
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Residents of Cairo, Egypt, rely on its rapid transit system, the Cairo Metro, for millions of trips each year. ______ city officials strive to maintain the system's 71 stations to ensure each of these journeys is as smooth as possible.
+
+A. For this reason,
+B. However,
+C. For example,
+D. Alternatively,
+Answer: A
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Box modeling, used by digital artists to develop 3D assets for video games, yields objects with precise mathematical proportions. Granted, as they are formed from perfect geometric shapes, such 3D elements lack organic realism; ______ post-modeling processes such as UV surface mapping are needed to achieve the level of verisimilitude gamers expect.
+
+A. consequently,
+B. similarly,
+C. in sum,
+D. however,
+Answer: A
+
+Question 24:
+[Synthesis]
+The student wants to emphasize a difference between the two lighthouse keepers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Lighthouses send out crucial light signals to help ships and other watercraft navigate at night.
+• Before automation, lighthouses were run by lighthouse keepers.
+• Betsy Morrow Humphrey was the lighthouse keeper at Monhegan Island Light in Maine.
+• She held this position from 1862 to 1880.
+• Thelma Austin was the lighthouse keeper at Point Fermin Light in California.
+• She held this position from 1925 to 1941.
+
+A. As the lighthouse keeper at Point Fermin Light, Thelma Austin helped watercraft navigate at night.
+B. From 1862 to 1880, the nighttime waters of Maine were made more navigable thanks to Betsy Morrow Humphrey.
+C. Betsy Morrow Humphrey worked as a lighthouse keeper in an earlier century than did Thelma Austin.
+D. Betsy Morrow Humphrey and Thelma Austin both played crucial roles in ensuring safe navigation for watercraft in past centuries.
+Answer: C
+
+Question 25:
+[Synthesis]
+The student wants to recount the sequence of events proposed by the researchers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• If a moon orbiting a planet comes close enough to that planet, tidal forces can cause the moon to break apart.
+• In a 2022 study, researchers proposed that Saturn was once orbited by a large moon they named Chrysalis.
+• Their simulations indicated that Chrysalis would likely have come very close to Saturn around 160 million years ago.
+• At that distance, Chrysalis would have been broken apart by tidal forces.
+• The researchers hypothesized that the resulting debris formed Saturn's rings.
+
+A. According to researchers' simulations, debris from Saturn's rings would likely have caused Chrysalis—a large moon orbiting Saturn—to break apart around 160 million years ago.
+B. In a 2022 study, researchers proposed that Saturn was once orbited by a large moon that broke apart.
+C. Around 160 million years ago, a large moon (Chrysalis) may have come close enough to Saturn that tidal forces broke the moon apart; its debris then formed the planet's rings.
+D. If a moon orbiting a planet (like Saturn) comes close enough to that planet, tidal forces can cause the moon to break apart.
+Answer: C
+
+Question 26:
+[COE]
+Which choice most effectively uses information from the given sentences to emphasize a similarity between the two birds?
+
+While researching a topic, a student has taken the following notes:
+
+• *Birds of Northern South America* is an identification guidebook by ornithologists Robin Restall, Clemencia Rodner, and Miguel Lentino.
+• It lists the thirty-five hummingbird species found in Suriname.
+• The brown violetear is a large hummingbird found in Suriname.
+• It is identifiable by its dark violet ear patches and its short, black, straight bill.
+• The little hermit is a small hummingbird found in Suriname.
+• It is identifiable by its white central tail feathers and its long, black, curved bill.
+
+A. While each exhibits unique traits of its own, the brown violetear and the little hermit both have black bills.
+B. The little hermit is a small hummingbird identifiable by its white central tail feathers and its long, black, curved bill.
+C. Though they share several traits in common, the brown violetear is larger than the little hermit.
+D. *Birds of Northern South America* is an expertly compiled guidebook by ornithologists Robin Restall, Clemencia Rodner, and Miguel Lentino.
+Answer: A
+
+Question 27:
+[Synthesis]
+The student wants to emphasize the effect media had on building Wong Fei-hung's legacy. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Little is known about the life of Wong Fei-hung (1847-1925).
+• He was born near Foshan, China, and gained local recognition as a physician and Hung Ga (also known as Hung Gar) Kung Fu master.
+• He achieved many incredible martial arts feats—some confirmed and some rumored.
+• He has become an internationally known folk hero thanks to his depiction in over a hundred films, television shows, and other media.
+• In the 1991 film *Once Upon a Time in China*, actor Jet Li portrays Wong Feihung using superhuman kung fu abilities to save his community.
+
+A. Thanks to his depiction in over a hundred pieces of media, Wong Fei-hung was locally known as a successful physician and Hung Ga Kung Fu master.
+B. Wong Fei-hung's abilities as a kung fu master are depicted in many media, including the 1991 film *Once Upon a Time in China*.
+C. Various media have depicted Wong Fei-hung, the successful physician and kung fu master who became an internationally known folk hero.
+D. Though he was known locally during his lifetime, Wong Fei-hung's later depiction in television, film, and other media has turned him into an internationally known folk hero.
+Answer: D
+

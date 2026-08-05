@@ -1,0 +1,323 @@
+Question 1:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Whether the reign of a French monarch such as Louis VII or Henry V was historically consequential or relatively uneventful, its trajectory was shaped by questions of legitimacy and therefore cannot be understood without a corollary understanding of the characteristics without which the monarch would have been forced to ______ the throne.
+
+
+A. reciprocate
+B. annotate
+C. abandon
+D. equalize
+Answer: C
+
+Question 2:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Whether the reign of a French monarch such as Louis VI or Louis Philippe I was considered historically significant or, conversely, relatively _____ its trajectory was shaped by questions of legitimacy and therefore cannot be understood without a corollary understanding of the factors that allowed the monarch to assert a claim to the throne successfully.
+
+
+A. marginal
+B. benevolent
+C. genuine
+D. momentous
+Answer: A
+
+Question 3:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Whether the reign of a French monarch such as Louis XII or Louis IV was historically consequential or relatively uneventful, its trajectory was shaped by questions of legitimacy and therefore cannot be understood without a corollary understanding of the factors that allowed the monarch to _____ his right to hold the throne successfully.
+
+
+A. assert
+B. annotate
+C. reciprocate
+D. disengage
+Answer: A
+
+Question 4:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Whether the reign of a French monarch such as Louis VII or Henry V was historically consequential or relatively uneventful, its trajectory was shaped by questions of legitimacy and therefore cannot be understood without a corollary understanding of the characteristics without which the monarch would have been forced to ______ the throne.
+
+
+A. reciprocate
+B. annotate
+C. adbicate
+D. rectify
+Answer: C
+
+Question 5:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Whether the reign of a French monarch such as Louis VI or Louis Philippe I was considered historically significant or, conversely, relatively _____ its trajectory was shaped by questions of legitimacy and therefore cannot be understood without a corollary understanding of the factors that allowed the monarch to assert a claim to the throne successfully.
+
+
+A. inconsequential
+B. benevolent
+C. genuine
+D. momentous
+Answer: A
+
+Question 6:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although historians debate whether the reigns of French monarchs such as Louis VII or Henry V were transformational or comparatively subdued, each ruler’s fortunes ultimately hinged on legitimacy: without the requisite credentials, a king might have been forced to ______ the throne.
+
+
+A. requite
+B. gloss
+C. relinquish
+D. equilibrate
+Answer: C
+
+Question 7:
+Which choice completes the text with the most logical and precise word or phrase?
+
+To evaluate their ideas about environmental conditions in the Pliocene epoch, paleontologists must turn to ______ evidence. Only material objects—such as the fossil remains of the individual known as AL 200-1, discovered in Ethiopia in 1975—can show whether a particular idea about the Pliocene is defensible.
+
+
+A. physical
+B. convenient
+C. creative
+D. inconclusive
+Answer: A
+
+Question 8:
+Which choice completes the text with the most logical and precise word or phrase?
+
+To evaluate their ideas about environmental conditions in the Pleistocene epoch, paleontologists must turn to ______ evidence. Only material objects—such as the fossil remains of the individual known as Amud 1, discovered in Israel in 1961—can show whether a particular idea about the Pleistocene is defensible.
+
+
+A. intricate
+B. contentious
+C. concrete
+D. nebulous
+Answer: C
+
+Question 9:
+Which choice best describes the overall structure of the text?
+
+Globally, the pastures and rangeland on which cattle, donkeys, and other livestock graze account for about 25% of all land, spanning all but one continent. Analyzing data on wild-animal abundance in areas with and without livestock grazing in China and nineteen other countries, Alessandro Filazzola et al. calculated the effect size of excluding livestock, where positive values indicated greater abundance in livestock-excluded areas relative to livestock-included ones. They found that values were positive for all vertebrates and invertebrates except detritivores (e.g., worms).
+
+
+A. It provides context about a common agricultural land use, specifies the geographic scope of a study examining a potential advantage of restricting that use, and presents quantitative data disproving that advantage.
+B. It makes a claim about domestic animals’ reliance on two types of land, explains the aims of a study conducted in areas affected by that reliance, and indicates a favorable impact that reliance has on other animals.
+C. It establishes the importance of an ecological phenomenon, provides details about how a group of researchers designed a study of that phenomenon, and evaluates the empirical evidence reported in that study.
+D. It notes the extent of an agricultural practice, outlines the approach utilized by researchers investigating an outcome associated with that practice, and reports on a key finding made by the researchers.
+Answer: D
+
+Question 10:
+Which statement about the meta-analysis conducted by Filazzola et al. is best supported by the text?
+
+Globally, the pastures and rangeland on which goats and other livestock graze account for about 25% of all land. In a meta-analysis of 109 previous studies, Alessandro Filazzola et al. concluded that such grazing is associated with reduced diversity for invertebrate pollinators. The researchers noted, however, that while the studies provided data for a wide variety of animal taxa and sites on all but one continent, nearly half of the studies examined grazing's effects on small wild mammals and nearly three-quarters of the studies were conducted in Europe, North America, or Australia.
+
+
+A. Although the body of research it was based on lacked data on many types of wild animals in certain continents, its conclusions about an effect of livestock grazing is adequately supported.
+B. It illustrates that researchers need robust data to replicate previous studies' findings about how livestock grazing affects specific wild animals and geographic locations.
+C. Because of data constraints, it was unable to identify clear distinctions among repercussions of livestock grazing on the spread of wild-animal type or continent.
+D. It relied on extant research on the impacts of livestock grazing that is disproportionately focused on certain geographic regions and types of wild animals.
+Answer: D
+
+Question 11:
+Which choice most logically completes the text?
+
+Because they reduce soil porosity and penetrability by trampling soil, grazing livestock are a potential source of ecosystem disturbance. Alessandro Filazzola et al. analyzed data on plant abundance from areas with livestock grazing (control sites) and without it (treatment sites) in Spain and nineteen other countries and calculated the effect of excluding grazing livestock, where positive values indicated greater plant abundance in treatment sites relative to control sites. The researchers found that the values were indeed positive, a result that was independent of the species of livestock as well as mean annual temperature and precipitation in the areas studied, which suggests that ______.
+
+
+A. the presence of livestock grazing will negatively affect plant abundance across sites that differ in the livestock species present and in local climate conditions.
+B. the strength of the positive association between livestock grazing and plant abundance is not influenced by meteorological factors, such as temperature and precipitation.
+C. although livestock grazing is linked to declines in overall levels of ecosystem functioning, most ecosystems will adapt to this activity, minimizing long-term impacts on plant abundance.
+D. although livestock grazing results in reduced plant abundance, this effect may be limited to certain climates and grazing by particular species of livestock.
+Answer: A
+
+Question 12:
+Which choice most logically completes the text?
+
+Filazzola et al. synthesized data on the abundance of wild vertebrates (e.g., marsupials) and invertebrates (e.g., termites) in control sites with grazing by sheep and other livestock and in experimental sites where livestock grazing had either been discontinued or never occurred. They then calculated the log-response ratio (a measure of experimental effect), where positive values indicated greater abundance in experimental sites and negative values indicated greater abundance in control sites. The researchers found that values were positive for all vertebrates and invertebrates except detritivores (consumers of dead organic matter)—for which values were negative—with the greatest positive value observed for vertebrate predators. This finding suggests that ______.
+
+
+A. where wild-animal abundance has decreased, eliminating livestock grazing will likely result in substantial population recovery for most wild vertebrates and invertebrates, especially vertebrate predators, but only modest population recovery for detritivores.
+B. grazing by sheep and other livestock likely results in decreased abundance of detritivores, but such grazing likely has a favorable effect on the abundance of nondetritivore vertebrates, such as marsupials.
+C. although livestock grazing is generally associated with decreased wild-animal abundance, the strength of the association varies depending on whether the wild animal studied is classified as a vertebrate or an invertebrate.
+D. in areas where livestock grazing has caused reduced abundance of wild animals, the decrease may be reversible for most vertebrates and invertebrates but would likely occur at the expense of detritivores.
+Answer: D
+
+Question 13:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Domesticated thousands of years ago in South America, the potato deviates structurally from the wild plant it is descended from. Summer squash, another domesticated crop from the Americas, doesn't closely resemble any wild plant, and genetic research only recently ___ its ancestor to be the wild Johnny gourd.
+
+
+A. petitioned
+B. revealed
+C. encouraged
+D. expanded
+Answer: B
+
+Question 14:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Domesticated thousands of years ago by Indigenous people in South America, the potato deviates structurally from the wild plant it is descended from. Summer squash, another crop domesticated by Indigenous Americans, shows so little resemblance to any wild plant that genetic research was necessary to ______ the wild Johnny gourd as its ancestor.
+
+
+A. confirm
+B. acquire
+C. develop
+D. attract
+Answer: A
+
+Question 15:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Domesticated thousands of years ago by Indigenous people in South America, the potato deviates structurally from the wild plant it is descended from. Summer squash, another crop domesticated by Indigenous Americans, shows so little resemblance to any wild plant that genetic research was necessary to ______ the wild Johnny gourd as its ancestor.
+
+
+A. corroborate
+B. amass
+C. rectify
+D. aggrandize
+Answer: A
+
+Question 16:
+Which choice completes the text with the most logical transition?
+
+In an ekphrastic poem, a poet explores a work of visual art, such as a drawing, sculpture, or painting. Robert Hayden’s 1994 poem *Monet’s Waterlilies*, for example, meditates on Claude Monet’s 1899 painting *Water Lilies*; Saad Ali’s 2020 poem *This Town*, ____ takes a painting as its subject: Ivan Aivazovsky’s 1859 work *Lunar Night on the Black Sea*.
+
+
+A. nevertheless,
+B. conversely,
+C. likewise,
+D. hence,
+Answer: C
+
+Question 17:
+Which choice completes the text with the most logical transition?
+
+Jhumpa Lahiri’s story collection *Interpreter of Maladies* features multiple stories about romantic relationships. In “This Blessed House,” newlyweds argue over whether to replace items left by the previous owners of their new home. _____ in “A Temporary Matter,” a husband and wife attempt to rekindle their relationship during a four-night blackout.
+
+
+A. For example,
+B. Hence,
+C. Likewise,
+D. Granted,
+Answer: C
+
+Question 18:
+Which choice most logically completes the text?
+
+Anne Brontë’s 1847 novel *Agnes Grey* contains elements drawn from Brontë’s own life. There are many parallels between the experiences of the novel’s title character and those of Brontë and as a result *Agnes Grey* is regularly described as an autobiographical novel. This characterization can be useful, but it also presents drawbacks in terms of how the work is perceived, as it may lead readers to believe that Brontë merely fictionalized true events, which, in an artistic field where creativity and inventiveness are prized, can suggest that ______
+
+
+A. Agnes Grey is less of an imaginative achievement than it actually is.
+B. the real-world counterparts of other characters in Agnes Grey are hard to identify.
+C. Brontë should not have claimed that Agnes Grey is based on real events.
+D. critics disagree about whether Agnes Grey shows greater originality than works without autobiographical elements.
+Answer: A
+
+Question 19:
+Which choice most logically completes the text?
+
+David Mitchell’s 2006 novel Black Swan Green contains elements drawn from Mitchell’s own life—there are many parallels between the experiences of the novel’s protagonist, Jason Taylor, and those of Mitchell—and as a result Black Swan Green is regularly described as an autobiographical novel. This characterization can be useful, but it also presents drawbacks in terms of how the work is perceived, given the high value placed on creativity and imagination in artistic endeavors. Readers who take this characterization to mean that Mitchell merely fictionalized actual events may conclude that _____
+
+
+A. Black Swan Green is not as worthy of praise as it might have been if it had no basis in fact.
+B. critics disagree about whether Black Swan Green shows greater originality than works without autobiographical elements.
+C. the real-world counterparts of other characters in Black Swan Green are hard to identify.
+D. Mitchell should not have claimed that Black Swan Green is based on real events.
+Answer: A
+
+Question 20:
+Which choice most logically completes the text?
+
+Nella Larsen’s 1928 novel Quicksand is regularly described as autobiographical. That characterization is apt—there are many parallels between the experiences of the novel’s protagonist, Helga Crane, and those of Larsen—but it should not be taken to mean that all the people and events depicted in Quicksand are based on actual people and events. The novel is largely pure invention, and readers who neglect this fact and instead try to identify more and more real-life analogues thus risk ______.
+
+
+A. positing unsupportable connections between Quicksand and Larsen’s life.
+B. misrepresenting Quicksand as being more widely read than it actually is.
+C. minimizing the fact that Larsen drew on real-world material when writing Quicksand.
+D. overemphasizing the extent to which Larsen took inspiration from earlier writers.
+Answer: A
+
+Question 21:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Today, the Michelin Guide is widely known as the arbiter of fine dining, but when it was created in 1900, it was little more than a marketing gimmick. Brothers André and Édouard Michelin sought to increase profits for their tire company by encouraging customers to drive across France, visiting the guide's recommended hotels and ______. As it grew in scope and influence, the guide had its modest French eateries replaced with the best restaurants from around the world, including The Light in Macau and Sushi Ueda in Nagoya.
+
+
+A. restaurants
+B. restaurants;
+C. restaurants and
+D. restaurants,
+Answer: A
+
+Question 22:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Today, the Michelin Guide is widely known as the arbiter of fine dining, but when it was created in 1889, it was little more than a marketing gimmick. brothers André and Édouard Michelin sought to increase profits for their tire company by encouraging their customers to drive across France, visiting the guide's recommended hotels and restaurants along the way. Nevertheless, the guide soon grew in scope and ______ it replaced its modest French eateries with some of the most esteemed restaurants from around the world, including Shinikawa in Tokyo and Jade Dragon in Macau.
+
+
+A. influence
+B. influence,
+C. influence and
+D. influence, and
+Answer: D
+
+Question 23:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Today, the Michelin Guide is widely known as the arbiter of fine dining, with its coveted 3-star rating being awarded to top restaurants like Xin Rong Ji. Hailing, the guide started in 1900, when brothers André and Édouard Michelin sought to increase profits for their tire company by encouraging their customers to ______ their cars across France, visiting the guide's recommended hotels and restaurants along the way.
+
+
+A. drive,
+B. drive
+C. drive:
+D. drive;
+Answer: B
+
+Question 24:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Today, the Michelin Guide is widely known as the arbiter of fine dining, with its coveted 3-star rating being awarded to top restaurants like Jade Dragon in ______ when brothers André and Édouard Michelin created the guide in 1900, it was little more than a marketing gimmick—a way to increase profits for their tire company by encouraging their customers to drive across France, visiting the guide's recommended hotels and restaurants along the way.
+
+
+A. Macau,
+B. Macau; however,
+C. Macau, however,
+D. Macau
+Answer: B
+
+Question 25:
+Which finding, if true, would most directly weaken the researchers’ finding?
+
+Edinburgh, Scotland, has installed engineered structures along 89% of its shoreline to protect infrastructure from wave erosion and other hazards, a practice known as shoreline hardening. To evaluate the responses of waterbirds to two types of hardening structures—riprap and bulkheads—Diann Prosser et al. surveyed waterbird communities consisting of the osprey, the common tern, and 62 other species at different sites in the Chesapeake Bay on the US East Coast. Utilizing the Index of Waterbird Community Integrity (IWCI), on which a high score corresponds to high community integrity, the researchers found that bulkheads are more strongly negatively correlated with waterbird community integrity than is riprap.
+
+
+A. Waterbird communities at Curtis, a site with a high percentage of shoreline consisting of bulkheads and riprap, had lower average IWCI scores than did waterbird communities at Onancock, a site with a low percentage of shoreline consisting of bulkheads and riprap.
+B. Waterbird communities at Curtis, a site with equal percentages of shoreline consisting of bulkheads and riprap, had higher average IWCI scores than did waterbird communities at Miles, a site with different percentages of shoreline consisting of bulkheads and riprap.
+C. Waterbird communities at Old Road, a site with a relatively high percentage of shoreline consisting of bulkheads, had higher average IWCI scores than did waterbird communities at Miles, a site with a relatively high percentage of shoreline consisting of riprap.
+D. The difference in average IWCI scores for waterbird communities at Stony and Old Road, two sites with a higher percentage of shoreline consisting of bulkheads than of riprap, was statistically insignificant.
+Answer: C
+
+Question 26:
+Which finding, if true, would most directly illustrate the researchers' finding?
+
+Vancouver, Canada, has installed engineered structures along 75% of its shoreline to protect infrastructure from storm surges and other hazards, a practice known as shoreline hardening. To evaluate the responses of waterbirds to two types of hardening structures—riprap and bulkheads—Diann Prosser et al. surveyed waterbird communities consisting of the mallard, the common loon, and 62 other species at different sites in the Chesapeake Bay on the US East Coast. Utilizing the Index of Waterbird Community Integrity (IWCI), on which a high score corresponds to high community integrity, the researchers found that bulkheads are more strongly negatively correlated with waterbird community integrity than is riprap.
+
+
+A. Waterbird communities at Curtis, a site with a high percentage of shoreline consisting of bulkheads and riprap, had lower average IWCI scores than did waterbird communities at Onancock, a site with a low percentage of shoreline consisting of bulkheads and riprap.
+B. The difference in average IWCI scores for waterbird communities at Stony and Old Road, two sites with a higher percentage of shoreline consisting of bulkheads than of riprap, was statistically insignificant.
+C. Waterbird communities at Old Road, a site with a relatively high percentage of shoreline consisting of bulkheads, had lower average IWCI scores than did waterbird communities at Miles, a site with a relatively high percentage of shoreline consisting of riprap.
+D. Waterbird communities at Curtis, a site with equal percentages of shoreline consisting of bulkheads and riprap, had higher average IWCI scores than did waterbird communities at Miles, a site with different percentages of shoreline consisting of bulkheads and riprap.
+Answer: C
+
+Question 27:
+Which finding, if true, would most directly support the researchers' hypothesis?
+
+Cardiff, Wales, has installed engineered structures—mainly breakwalls—along 87% of its shoreline to protect infrastructure from storm surges and other hazards, a practice known as *shoreline hardening*. Investigating the impact of such structures on waterbird communities at various sites in the Chesapeake Bay on the US East Coast, Diann Prosser et al. hypothesized that shoreline hardening more negatively affects waterbirds than does land development for uses such as housing or agriculture. To evaluate the responses of local waterbird species, including the osprey, to landscape alterations, the researchers utilized the Index of Waterbird Community Integrity (IWCI), on which a low score corresponds to low community integrity.
+
+
+A. Waterbird communities at Back River, a site with a relatively high percentage of developed land and a relatively low percentage of hardened shoreline, had higher average IWCI scores than did waterbird communities at Magothy, a site with a lower percentage of developed land but a higher percentage of hardened shoreline.
+B. Waterbird communities at Langford, a site with a relatively high percentage of developed land and a relatively high percentage of hardened shoreline, had lower average IWCI scores than did waterbird communities at Mill Seat, a site with a lower percentage of developed land but a higher percentage of hardened shoreline.
+C. Waterbird communities at Stony and Curtis, two sites with relatively high percentages of developed land and hardened shorelines, had similar IWCI scores, whereas waterbird communities at Ware and Iongo, two sites with relatively low percentages of developed land and hardened shorelines, had widely differing IWCI scores.
+D. Waterbird communities at Old Road, a site with a relatively high percentage of developed land and hardened shoreline, had lower average IWCI scores than did waterbird communities at Quantock, a site with a relatively low percentage of developed land and hardened shoreline.
+Answer: A

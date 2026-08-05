@@ -1,0 +1,240 @@
+Question 1:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Recently unearthed Neanderthal tools in France dating to 54,000 years ago and attributed to Homo sapiens may provide evidence that interactions between Neanderthals and modern humans occurred 10,000 years earlier than was previously ____ finding that, if true, would overturn current theories about H. sapiens migration during the Upper Paleolithic.
+
+A. supposed a
+B. supposed. A
+C. supposed, a
+D. supposed; a
+Answer: C
+
+Question 2:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Komi Autonomous Soviet Socialist Republic, whose residents mainly spoke Komi, was one of many nominally autonomous Soviet _____ by giving these restive republics the right to assert their prerogatives, President Mikhail Gorbachev likely hastened the Soviet Union’s breakup.
+
+A. republics established along ethnolinguistic lines;
+B. republics established along ethnolinguistic lines,
+C. republics. Established, along ethnolinguistic lines,
+D. republics; established along ethnolinguistic lines
+Answer: A
+
+Question 3:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The unconventional literary philosophy with which Fernando Pessoa approached his writing is manifested in the Portuguese poet’s "heteronyms," his term for the dozens of fictional personas in whose voices he authored many of his ____ among these personas was Ricardo Reis, author of classical odes in a Horatian style.
+
+A. works and
+B. works;
+C. works and
+D. works,
+Answer: B
+
+Question 4:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Channelrhodopsin-based optogenetics (ChR2-O), a neuromodulation technique that uses light to control ion flow across the cell membrane of genetically modified neurons, can be employed to delineate the functional connectivity of specific neural pathways. The application of ChR2-O demands precise parameterization based on a neuron's endogenous properties and ______ light scattering, off-target activation of surrounding tissue, and variations in opsin expression levels are known to confound the spatiotemporal precision of stimulation.
+
+A. transfection efficiency, though,
+B. transfection efficiency, though:
+C. transfection efficiency; though
+D. transfection efficiency though
+Answer: B
+
+Question 5:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The editors of Home Ground: A Guide to the American Landscape turned to Luis Alberto Urrea, a poet, to craft the entry for “ataque,” a term referring to a watering hole formed by a natural or artificial dam. For “muskeg,” however, the editors chose the _____ author of Of Landscape and Longing.
+
+A. essayist Carolyn Servid
+B. essayist, Carolyn Servid
+C. essayist Carolyn Servid,
+D. essayist, Carolyn Servid,
+Answer: C
+
+Question 6:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Multidisciplinary at its core, ___
+
+A. Dzawada’enuxw artist Marianne Nicolson engages a range of art forms—primarily photography, painting, and carving—in her body of work.
+B. a range of art forms—primarily photography, painting, and carving—are engaged by Dzawada’enuxw artist Marianne Nicolson in her body of work.
+C. photography, painting, and carving are among the range of art forms that Dzawada’enuxw artist Marianne Nicolson primarily engages in her body of work.
+D. Dzawada’enuxw artist Marianne Nicolson’s body of work engages a range of art forms—primarily photography, painting, and carving.
+Answer: D
+
+Question 7:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The scientist Rosalind Franklin's X-ray diffraction image of DNA, widely regarded as a pivotal contribution to our understanding of molecular biology and _____ to encapsulate the elegance and complexity of life’s molecular architecture, is a profoundly significant example of scientific visualization.
+
+A. serves
+B. serves and,
+C. serving
+D. serves,
+Answer: C
+
+Question 8:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+With one in Canada and another in Antarctica, the observatory sites that are part of the Super Dual Auroral Radar Network—or SuperDARN, as space physicists like Tomoaki Hori call ___ number nearly five dozen. Located across the globe, the radars track low-latitude auroras and other geospace phenomena.
+
+A. it—
+B. it;
+C. it
+D. it.
+Answer: A
+
+Question 9:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In modern genetics, the theory of Lamarckian inheritance (1744–1829), whose core ideas were long dismissed by mainstream science, is being re-evaluated by a new generation of scientists—a renewed debate that is significantly driven by epigenetics researchers like Dr. Eva Jablonka, whose research ______ the mechanisms for inheriting acquired traits prompts a fundamental reconsideration of evolutionary theory itself.
+
+A. demonstrates
+B. demonstrating
+C. has demonstrated
+D. is demonstrating
+Answer: B
+
+Question 10:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In ancient Mesoamerica, cotton was used as a commodity currency. By using specific goods like cotton as common units of exchange, commodity currency economies streamline trade, which is why they often replaced barter economies. Barter economies eschew _____ that requires what economist W.S. Jevons deems a “double coincidence of wants”—in other words, each trading party must want precisely what the other has.
+
+A. currency in favor of a direct trade system
+B. currency, in favor of a direct trade system,
+C. currency, in favor of a direct trade system
+D. currency—in favor of a direct trade system
+Answer: A
+
+Question 11:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The **shesep**, which is written as a long, horizontal hieroglyph shaped like a thumbless hand, and the **heqat**, which is written as a hieroglyph that looks like four oval items pouring out of a barrel, were ancient Egyptian units of ______ to record length and volume, respectively, the **shesep** and **heqat** have since fallen out of use.
+
+A. measurement and used
+B. measurement used
+C. measurement, used
+D. measurement; used
+Answer: D
+
+Question 12:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+If an animal can recognize itself in a reflective surface (“the mirror test”), it is considered to have self-awareness. In a recent study, scientists _____ for evidence of self-awareness in snakes, species that rely primarily on olfactory rather than visual processing, adapted the test to foreground smell, modifying the scent trails of North American eastern garter snakes and African ball pythons.
+
+A. searched
+B. were searching
+C. have searched
+D. searching
+Answer: D
+
+Question 13:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Agile methodology is a framework for project management ______ to deliver value in short, iterative cycles, promotes adaptive planning and evolutionary development. In Agile software teams, developers participate in routine check-ins like the daily stand-up meeting.
+
+A. that, is seeking
+B. that has sought
+C. that, seeking
+D. that seeks
+Answer: C
+
+Question 14:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Established in 1936 by African American novelist Richard Wright, ________ it would become a vital part of the creative movement known as the Chicago Black Renaissance.
+
+A. the South Side Writers Group provided a valuable forum for Chicago writers to share ideas;
+B. writers shared ideas at a valuable forum known as the South Side Writers Group in Chicago;
+C. Chicago was where the South Side Writers Group provided a valuable forum for writers to share ideas;
+D. Chicago writers in the South Side Writers Group had a valuable forum for sharing ideas;
+Answer: A
+
+Question 15:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Venus flytrap is referred to as a carnivorous plant because it typically consumes insects—a method used to supplement its nitrogen intake. This carnivorous adaptation isn’t exclusive to certain plant ______ many species have evolved similar mechanisms.
+
+A. species; however,
+B. species, however,
+C. species. However,
+D. species, however;
+Answer: D
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In their 2021 analysis of moth populations in the Blue Ridge Mountains, ecologist Dr. Amelia Grant and her research team identified 1,432 moths representing 126 distinct species, including a single specimen of the _______ *Eudocima phalonia*, a highly uncommon species recognized by entomologists for its striking orange patterns.
+
+A. species
+B. species;
+C. species:
+D. species,
+Answer: A
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Star actress Kiki Omeili, who has appeared in 47 Nollywood films, is one of numerous luminaries to be pictured in Nigerian portraitist like Udé’s exhibition Nollywood Portraits. ______ referred to Nollywood—Nigeria’s $3 billion film industry—as “Africa’s vivid mirror par excellence,” honors its legacy with his vivid classical portraits of Omeili and her peers.
+
+A. Udé
+B. Udé, having
+C. Udé, has
+D. Udé has
+Answer: B
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In Hafez’s Divan, the writer muses on love, faith, and protest. So impactful is this particular work by Hafez, a Persian lyric poet whose authorial perspective was at once mystical and critical, that its ruminations on fourteenth-century Persian life _____ Iranian society hundreds of years later.
+
+A. influence
+B. influences
+C. is influencing
+D. has influenced
+Answer: A
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Suzuki method is an approach to music instruction _____ to teach music in the same natural way children learn language, emphasizes playing instruments from a very young age. In Suzuki cello instruction, students begin their musical education with simple classical pieces like Robert Schumann’s “The Two Grenadiers.”
+
+A. that, is aiming
+B. that has aimed
+C. that, aiming
+D. that aims
+Answer: C
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Northern Taurid meteor shower's brightness typically surpasses that of the Draconid meteor shower due to the interplay of three main factors—namely, the size and composition of the ________ velocity upon entering Earth's mesosphere, with higher-velocity meteoroids releasing more energy; and atmospheric fluctuations, such as changes in humidity.
+
+A. meteoroids; their
+B. meteoroids. Their
+C. meteoroids—their
+D. meteoroids, their
+Answer: A
+

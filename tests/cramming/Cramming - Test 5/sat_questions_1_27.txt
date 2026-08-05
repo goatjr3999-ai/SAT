@@ -1,0 +1,376 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+While high patent counts are frequently cited as evidence of a thriving creative economy, Yuen Ang et al. argue that the connection between patent volume and genuine technological progress is often ______; their research indicates that the majority of recent filings represent minor, derivative tweaks rather than the novel synthesis of distinct domains.
+
+
+A. spurious
+B. commensurate
+C. intrinsic
+D. ineffable
+Answer: A
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The recent discovery of invertebrates such as Haywardozoon pacificum and Trophomera marangi in the Clarion-Clipperton Zone (CCZ) offers a tantalizing glimpse into a poorly understood ecosystem. However, given that the abyssal plain’s biota is vastly undersampled, treating these few documented species as reliable ______ the region's complete invertebrate biodiversity would be a profound methodological error.
+
+
+A. impediments to
+B. precursors to
+C. abrogations of
+D. proxies for
+Answer: D
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The unique subak water management system used to irrigate the rice paddy fields of the Indonesian island of Bali has a rich cultural, philosophical, and historical significance dating back to the ninth century. The many elements of subak—terraces, canals, and water temples—are ______: they are joined together into a single cohesive unit.
+
+
+A. informal
+B. optional
+C. outmoded
+D. interdependent
+Answer: D
+
+Question 4:
+[Details]
+Which choice best describes the function of the two underlined portions in the text as a whole?
+
+The following text is from Sarojini Naidu's 1896 poem "Alabaster."
+"Like __this alabaster__ box whose art
+Is frail as a cassia-flower, is __my heart__,
+Carven with delicate dreams and wrought
+With many a subtle and exquisite thought."
+
+
+A. They describe the subjects, one physical and one abstract, of a comparison that extends throughout the text.
+B. They symbolize two attitudes, one logical and one emotional, that are contrasted throughout the text.
+C. They indicate potential reactions, one hoped for and one feared, to a decision the speaker considers throughout the text.
+D. They provide examples, one literal and one figurative, of a change that the speaker describes throughout the text.
+Answer: A
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+President Richard Nixon is most famous for his participation in the 1970s Watergate political scandal, a convoluted tale of criminality and eroded ethics involving a constellation of associates such as Attorney General Richard Kleindienst and Republican Party official Robert Mardian. __But Nixon's legacy is complex: he has been praised for his role in opening relations between the United States and China, and he once made an attempt at reforming United States health care policy that is arguably a precursor to the Affordable Care Act, which became law during the Barack Obama administration.__
+
+
+A. It compares the achievements of two historical figures.
+B. It offers information suggesting that a particular perception of a historical figure is an oversimplification.
+C. It provides evidence supporting a claim about a historical figure and that figure's associates.
+D. It explains why a historical figure’s accomplishments are often disregarded by historians.
+Answer: B
+
+Question 6:
+[COE]
+The author mentions Schumann and Brahms primarily in order to
+
+Was Felix Mendelssohn (1809–1847) a great composer? On its face, the question seems absurd. One of the most gifted prodigies in the history of music, he produced his first masterpiece at sixteen. From then on, he was recognized as an artist of preternatural abilities, not only as a composer but also as a pianist and conductor. But Mendelssohn’s enduring popularity has often been at odds—sometimes quite sharply—with his critical standing. Despite general acknowledgment of his genius, there has been a noticeable reluctance to rank him with, say, Schumann or Brahms. As Haggin put it, Mendelssohn, as a composer, was a “minor master . . . working on a small scale of emotion and texture.”
+
+
+A. provide examples of composers who are often compared with Mendelssohn
+B. identify certain composers who are more popular than Mendelssohn
+C. identify composers whom Mendelssohn influenced
+D. establish a standard of comparison for Mendelssohn as a composer
+Answer: D
+
+Question 7:
+[COE]
+Which choice most effectively uses data from the table to support the research team's hypothesis?
+
+In the field of renewable energy, materials scientists are constantly innovating to improve solar panel technology. A research group from the National Renewable Energy Laboratory conducted a study on the adoption rates of two types of solar cells for commercial projects. Traditional crystalline silicon panels are the industry standard, known for their reliability and cost-effectiveness. In contrast, emerging perovskite solar cells offer superior energy conversion efficiency but currently face challenges with long-term stability and large-scale manufacturing. The team's hypothesis was that despite the performance benefits of perovskite cells, their practical challenges have led to a slower rate of adoption compared to traditional silicon panels.
+**Annual Solar Panel Installations for Commercial Projects by Type (in Megawatts)**
+
+
+
+A. In every year shown, the installed capacity of silicon panels was vastly greater than that of perovskite panels, which suggests the adoption of perovskite technology is limited by the challenges mentioned.
+B. The consistent annual increase in silicon panel installation suggests that energy demand from commercial projects grew each year.
+C. The data shows that companies prefer silicon panels due to their superior efficiency, which leads to their wider installation.
+D. The installed capacity of perovskite panels more than doubled from 2021 to 2022, indicating a rapid acceleration in their development and adoption.
+Answer: A
+
+Question 8:
+[COE]
+Which choice best describes the finding made by Fernández-Duque and colleagues, as presented in the text?
+
+Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Mary V. Price and colleagues found to be negatively associated with foraging by white-throated woodrats but Eduardo Fernández-Duque and colleagues found to be positively associated with foraging by Azara’s night monkeys. This discrepancy is explicable in terms of OFT: the monkeys’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the woodrats.
+
+
+A. Increased lunar intensity is more beneficial for Azara’s night monkeys than it is for white-throated woodrats.
+B. As lunar intensity increases, white-throated woodrats reduce their foraging activity.
+C. As lunar intensity increases, Azara’s night monkeys increase their foraging activity.
+D. During periods of high lunar intensity, Azara’s night monkeys increase their reliance on vision.
+Answer: C
+
+Question 9:
+[COE]
+The main purpose of the passage is to
+
+A persistent belief among many art historians is that Giorgio Vasari’s *Lives of the Most Excellent Painters, Sculptors, and Architects* (published 1550) is primarily an exercise in Florentine boosterism, aggrandizing artists from his home region at the expense of objective art-historical analysis. However, a nuanced reading reveals the work's multifaceted value. Modern scholarship has benefited from the vast repository of information Vasari provides, such as his detailed accounts of artistic techniques, and from his candid assessments of celebrated figures like Raphael. The work’s engaging anecdotes—as seen in his description of Brunelleschi’s cunning scheme to win the Florence Cathedral dome commission—are often dismissed by those who charge Vasari with presenting his subjects as flawless geniuses. This charge also obscures Vasari's concern with the practical, not just the aesthetic, dimensions of art, including artists' financial success and social standing. Furthermore, this reductive view undervalues the *Lives* as a foundational art-historical narrative; Vasari synthesized a vast array of sources, and his shaping of this material into a narrative of artistic progress shows a profound understanding of the Renaissance's cultural evolution.
+
+
+A. challenge a methodology widely embraced by art historians
+B. highlight an unconventional method for writing biographical history
+C. provide a summary of scholarly work on a particular Renaissance artist
+D. refute a common critique of the work of an art historian
+Answer: D
+
+Question 10:
+[COE]
+Which finding from the study, if true, would most directly support the team’s conclusion?
+
+Neurobiologists Laura Cuaya, Raúl Hernández-Pérez, and colleagues investigated the language detection abilities of eighteen dogs of various ages. The researchers monitored the brain activity of Odin (a 54-month-old border collie), Bingo (a 37-month-old mixed breed), and other dogs while the animals listened to three recordings: one of The Little Prince being read in Spanish, the second in Hungarian, and a third made up of short, randomly selected fragments of the first two, scrambled so that they didn’t resemble human speech. Each of the dogs was familiar with either Spanish or Hungarian, but not both. The team concluded that the younger the dog, the worse it may be at differentiating between familiar and unfamiliar languages.
+
+
+A. Although the dogs’ general hearing sensitivity declined with age, dogs of all ages showed more brain activity in response to hearing the language they were accustomed to than in response to hearing the other language.
+B. As the age of the dog scanned decreased, so did the amount of brain activity in response to hearing the language the dog was accustomed to or the other language, but not in response to hearing the scrambled recording.
+C. Dogs showed a different pattern of brain activity when hearing the language they were accustomed to than when hearing the other language, and the difference in brain activity decreased as the age of the dog scanned decreased.
+D. The similarity between the pattern of brain activity a dog showed in response to hearing the scrambled recording and the pattern it showed in response to hearing the language it was not accustomed to was lowest among younger dogs.
+Answer: C
+
+Question 11:
+[COE]
+Which statement, if true, would most directly support the claim in the underlined sentence?
+
+Dolly Parton’s greatest success came in the late 1970s through the mid-1980s, when she incorporated pop instrumentation and song structures into country music and found a wider audience with such singles as “Real Love.” Before that period, she had recorded a purer form of country grounded in the harmonies and subject matter of the traditional folk ballads of the southern United States. __Yet it is misleading to draw a sharp contrast between Dolly’s early albums and those from 1977 to 1985, since even the albums from this pop-oriented period contain songs that signal the continued influence of the folk ballads she had sung as a girl in East Tennessee.__
+
+
+A. Dolly experienced renewed commercial success with the 1987 album Trio, which she recorded with Emmylou Harris and Linda Ronstadt, and the 1989 solo album White Limozeen.
+B. The title track of the 1974 album Love Is Like a Butterfly represents one of Dolly’s first attempts at combining country and pop, yet the remainder of the album is entirely free of the influence of pop music.
+C. The 1974 album Jolene brought Dolly a newfound level of fame and critical praise, and many music historians regard the title track as her finest composition.
+D. On the 1983 album Burlap and Satin, Dolly’s original composition “Appalachian Memories” shows the influence of folk ballads in both its word choice and subject matter.
+Answer: D
+
+Question 12:
+[COE]
+Which quotation from Bennett's study best supports this assertion?
+
+Cognitive psychologist Laura Bennett's 1998 study, conducted in London during the late 1950s, focused on the mental visualization abilities of individuals anticipating significant life events. In the experiment, participant Henry Carter was asked to imagine his upcoming marriage to Susan Taylor. Henry vividly envisioned future events with Susan: ____.
+
+
+A. "Susan momentarily glanced down at the delicate ring resting softly between her fingers, causing Henry Carter to notice her slight, thoughtful smile."
+B. "Henry Carter shifted slightly in his seat, redirecting his attention from the window to observe the participants on the opposite side of the study room."
+C. "Even though there had been discussions about creating a more advanced research facility that could rival renowned psychological institutes in other European cities, most participants remained comfortable attending sessions within the familiar environment of the older laboratory."
+D. "Immediately, Henry's thoughts jumped beyond the formal proposal and the celebratory events, vividly picturing Susan standing next to him in their future life."
+Answer: D
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+All stainless steel contains varying amounts of iron, carbon, and corrosion-inhibiting chromium. However, ferritic stainless steel, often used for cooking utensils, contains a higher percentage of chromium (at least 10.5%) than does austenitic stainless steel and a higher concentration of iron, which is responsible for its magnetic properties. Unlike ferritic stainless steel, austenitic stainless steel has a face-centered cubic crystalline structure resulting from the addition of nickel to the alloy. Austenitic stainless steel has two subtypes: the 200 series, often used for washing machines, and the 300 series, which has more nickel than the 200 series and is often used for mining and chemical equipment or compensators. Thus, stainless steel used to manufacture __________.
+
+
+A. cooking utensils will have greater magnetic properties than stainless steel used to manufacture mining and chemical equipment will.
+B. mining and chemical equipment will have a concentration of chromium lower than 10.5%, while stainless steel used for washing machines will not.
+C. cooking utensils will have a face-centered cubic crystalline structure.
+D. compensators will likely have a similar crystalline structure to stainless steel used to manufacture cooking utensils.
+Answer: A
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+As complex life cycle parasites, Anisakis sp. and Cucullanellus kanabus require multiple host species throughout their development. Extrapolating from parasite counts on spotted ratfish and seven other fish species collected from Puget Sound from 1880 to 2019, Chelsea Wood et al. found that the abundance of three-host parasites, such as Anisakis sp., negatively correlated with rising average annual sea temperatures; the abundance of two-host parasites, such as C. kanabus, was largely stable. Noting that fish and other marine vertebrates are especially vulnerable to climate change, Wood et al. observed that all three-host parasites in the study depend on at least two vertebrate species, while all two-host parasites depend on only one, suggesting that _____.
+
+
+A. although Anisakis sp. and C. kanabus both require spotted ratfish as a host, C. kanabus was more adversely affected by warming-driven changes in the spotted ratfish population than Anisakis sp. was.
+B. warming-induced population changes among Puget Sound vertebrates may have suppressed some parasite populations, but there were no changes among the eight studied host species that affected two-host parasite abundance.
+C. population size and density of the eight fish species examined in the study were likely largely unaffected by rising sea temperatures.
+D. a parasite’s sensitivity to warming temperatures is negatively correlated with the number of unique vertebrate species it depends on throughout its life cycle.
+Answer: B
+
+Question 15:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In a coastal restoration project, Oregon’s 12 monitoring stations are currently assigned to the agency’s regional offices, but a new protocol aims to change that. Marine biologists Akira Sato and Vikram Iyer’s 2013 report ______ that stations could instead coordinate to share real-time data with the hub that has detected the earliest anomaly has given rise to the Pacific Sensor Exchange Network (PSEN).
+
+
+A. proposing
+B. proposed
+C. has proposed
+D. proposes
+Answer: A
+
+Question 16:
+[Cross Text]
+Which choice best describes a difference between the approach of Text 1 and the approach of Text 2?
+
+Text 1
+Uisdean Nicholson and his team have discovered evidence in seismic data of a 40-kilometer-wide subsurface crater beneath nearly a kilometer of water off the coast of West Africa that is consistent with a 400-meter-wide asteroid striking the seafloor. This structure, which the team named Nadir, exhibits all the telltale signs of a high-velocity impact crater: an elevated rim, a circular shape, a terraced floor, and a pronounced area of uplift at its center.
+Text 2
+ Both carbonate dissolution and subsurface salt withdrawal can cause craterlike depressions without the need for a high-velocity impact. However, carbonate dissolution is very unlikely to have occurred in the vicinity of Nadir, and although subsurface salt withdrawal could have plausibly occurred in this area and would result in a depression with a terraced floor or a circular shape, it would not exhibit the area of central uplift seen at Nadir.
+
+
+A. Text 1 dispassionately describes Nicholson and colleagues’ findings and conclusions, whereas Text 2 attempts to convey the researchers’ excitement on discovering Nadir.
+B. Text 1 focuses on features Nadir lacks, whereas Text 2 indicates features it shares with other geological depressions.
+C. Text 1 emphasizes the evidence supporting an asteroid impact as the cause of Nadir, whereas Text 2 argues against that explanation.
+D. Text 1 discusses a single plausible cause of Nadir, whereas Text 2 evaluates two possible causes.
+Answer: D
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+An emulsifier is a type of compound that serves to stabilize an emulsion—a mixture of two or more liquids that otherwise would not easily blend together, like oil and water. Though modern chemists commonly use emulsifiers like 12-hydroxystearic acid in their formulations, emulsifiers that have been employed for millennia, such as beeswax and egg yolk, _______ used to this day by chemists as well.
+
+
+A. were
+B. are
+C. would have been
+D. were being
+Answer: B
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A magnificent wrought-iron lattice structure designed by Gustave Eiffel for the 1889 World's ______ the Eiffel Tower has become a global cultural icon of France.
+
+
+A. Fair
+B. Fair:
+C. Fair;
+D. Fair,
+Answer: D
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Three-dimensional geometric figures _____ as polyhedra in Euclidean geometry, such as "pyramids" and "octahedra," consist of flat polygonal faces joined along straight edges.
+
+
+A. classified
+B. can be classified
+C. are classified
+D. have been classified
+Answer: A
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Amelia Bloomer championed women’s voting rights in the 1800s. She ______ her home state of Iowa in the National Woman Suffrage Association, an influential organization that included delegates from every US state and territory.
+
+
+A. represented
+B. will have represented
+C. will represent
+D. represents
+Answer: A
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In September 1928, a Scottish physician accidentally discovered a powerful antibiotic in his London laboratory. Regarded as a turning point in medical history, a result of a contaminated petri dish, ______ Fleming was jointly awarded the 1945 Nobel Prize in Medicine.
+
+
+A. the properties that ushered in the age of antibiotics had been revealed by the discovery
+B. the age of antibiotics was ushered in by the discovery, which revealed the mold's bacteria-killing properties
+C. the discovery revealed the mold's bacteria-killing properties and ushered in the age of antibiotics
+D. the mold's bacteria-killing properties were revealed by the discovery, which ushered in an age of
+Answer: C
+
+Question 22:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Archived within the storied libraries of Timbuktu, a West African city prominent during the Songhai Empire, is Branching in Jurisprudential Schools, one of the city’s hundreds of thousands of historical manuscripts, each of which ______ researchers insight into Timbuktu’s tenure as a center of trade and education.
+
+
+A. are offering
+B. offer
+C. offers
+D. offering
+Answer: C
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+NPTV is a community-led television channel broadcasting from the Navajo Nation in Arizona. In 2007, Jordan Kee aimed to ensure the sustainability of platforms like NPTV. _____ he established Indigenous Broadcast Network, a supportive network for Indigenous television channels, which currently encompasses about fifty channels.
+
+
+A. Nevertheless,
+B. For instance,
+C. That is to say,
+D. To that end,
+Answer: D
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The designations of astronomical constellations consistently reference figures from mythology (e.g., Orion refers to a legendary hunter). Titles assigned to individual stars, _____ originate from a variety of sources. The star Betelgeuse derives its name from Arabic, for instance, while Polaris has a Latin origin.
+
+
+A. in turn,
+B. furthermore,
+C. on the other hand,
+D. therefore,
+Answer: C
+
+Question 25:
+[Synthesis]
+The student wants to contrast the effect of parks on happiness in Fort Worth with that in Phoenix. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•A 2022 study analyzed geotagged social media posts to assess the effect of parks on happiness in 25 US cities.
+•The happiness score for posts made in a given city was calculated by comparing the frequencies of words with positive and negative connotations.
+•The happiness benefit of a city’s parks was the numeric difference between the happiness scores of posts made in parks and posts made elsewhere.
+•The park happiness benefit in Fort Worth, Texas, was about 0.08.
+•The park happiness benefit in Phoenix, Arizona, was about 0.11.
+•The average happiness benefit of parks across all cities was 0.10.
+
+
+A. While Phoenix’s parks had a positive happiness benefit, this was not true of Fort Worth’s parks, whose happiness benefit was below average.
+B. The study found parks in Fort Worth and Phoenix to have a happiness benefit of 0.10, on average.
+C. Although parks in both cities had a positive influence on happiness, this benefit was somewhat greater in Phoenix than in Fort Worth.
+D. To contrast the effect of parks on happiness in Fort Worth and Phoenix, the study analyzed geotagged social media posts.
+Answer: C
+
+Question 26:
+[Synthesis]
+The student wants to explain why potassium is not fully liquid in a chain melt state. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Atoms in a solid state are ordered and cannot move freely; atoms in a liquid state are disordered and can move three-dimensionally.
+• Under high pressure and heat, potassium forms an unusual dual structure: a solid lattice of atoms (the host) surrounds partially liquid atom chains (the guest).
+• This hybrid state (chain melt) was previously thought to be a transitional phase between solid and liquid states.
+• A 2019 study confirmed that even under extreme heat, the host structure remained solid while the guest structure did not become fully liquid.
+• These guest atoms exhibited disorder but were confined to one-dimensional movement by the host.
+• Chain melt was determined to be a stable, distinct state.
+
+
+A. chain-melt state involves a dual structure of a solid host lattice surrounding partially liquid chains of potassium atoms.
+B. In chain melt, some potassium atoms exhibit liquid-like disorder but remain confined by a solid lattice, preventing the free three-dimensional movement of a fully liquid state.
+C. A 2019 study confirmed that potassium atoms do not become fully liquid under high pressure and heat; instead, they enter chain melt, a transitional phase between solid and liquid states.
+D. Because potassium atoms remain disordered in chain melt even under extreme heat, they cannot reach a fully liquid state.
+Answer: B
+
+Question 27:
+[COE]
+Which choice most effectively uses information from the given sentences to emphasize how Wilkerson documents the Great Migration?
+
+While researching a topic, a student has taken the following notes:
+• Historian Isabel Wilkerson’s book The Warmth of Other Suns is about the Great Migration.
+• The Great Migration was a period in twentieth-century US history when over six million African Americans moved from the rural South to cities such as Detroit, Michigan.
+• To document this period, Wilkerson narrates the personal journeys of George Swanson Starling and Robert Pershing Foster, among others.
+• The book won the Mark Lynton History Prize in 2011.
+• It also won the National Book Critics Circle Award in 2011.
+
+
+A. Detroit, Michigan, is one of the cities whose African American populations grew during the Great Migration.
+B. Isabel Wilkerson chronicles the complex history of the Great Migration in such riveting, personal detail by narrating the journeys of individuals, such as George Swanson Starling and Robert Pershing Foster.
+C. In 2011, Isabel Wilkerson’s book The Warmth of Other Suns won not only the Mark Lynton History Prize but also the National Book Critics Circle Award.
+D. The personal journey of George Swanson Starling is featured in the award-winning book The Warmth of Other Suns.
+Answer: B

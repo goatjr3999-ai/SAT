@@ -1,0 +1,189 @@
+Question 1:
+Which choice best describes data in the table that support the city planner's conclusion?
+
+Esther Sanyé-Mengual, Kathrin Specht, and their team surveyed three groups of people in Bologna, Italy—leaders of urban agriculture projects, stakeholders in urban agriculture (e.g., food researchers and urban farming associations), and the general public—to compare their views about the extent to which urban agriculture contributes to 25 social or ecological services that the team identified. The researchers used these ratings to rank the services for each group, with a ranking of 1 indicating that a group perceives that urban agriculture benefits that service the most. Using only the rankings shown in the table, a city planner in Bologna who is promoting a new urban agriculture project concludes that advertisements aimed at the general public should emphasize the project's benefit to the provision of medicinal plants.
+
+
+A. The provision of medicinal plants was ranked higher for the general public than were the other four services.
+B. The provision of medicinal plants was ranked higher for stakeholders than it was for the general public.
+C. The enhancement of pollination was ranked higher for the general public than was the provision of medicinal plants.
+D. The improvement of urban aesthetics and art inspiration was ranked lower for the general public than it was for project leaders.
+Answer: A
+
+Question 2:
+Which choice best describes data in the table that support the city planner’s conclusion?
+
+Esther Sanyé-Mengual, Kathrin Specht, and their team surveyed three groups of people in Bologna, Italy—leaders of urban agriculture projects, stakeholders in urban agriculture (e.g., food researchers and urban farming associations), and the general public—to compare their views about the extent to which urban agriculture contributes to 25 social or ecological services that the team identified. The researchers used these ratings to rank the services for each group, with a ranking of 1 indicating that a group perceives that urban agriculture benefits that service the most. Using only the rankings shown in the table, a city planner in Bologna who is promoting a new urban agriculture project concludes that advertisements aimed at the general public should emphasize the project’s benefit to the provision of medicinal plants.
+
+
+A. The provision of medicinal plants was ranked higher for the general public than were the other four services.
+B. The provision of medicinal plants was ranked higher for stakeholders than it was for the general public.
+C. The enhancement of pollination was ranked higher for the general public than was the provision of medicinal plants.
+D. The improvement of urban aesthetics and art inspiration was ranked lower for the general public than it was for project leaders.
+Answer: A
+
+Question 5:
+Which choice most effectively uses data from the graph to complete the assertion?
+
+Urban agriculture is the practice of growing plant- or animal-based products in urban settings such as community gardens and rooftop farms. Esther Sanyé-Mengual, Kathrin Specht, and their team surveyed three groups of people in Bologna, Italy—leaders of urban agriculture projects, stakeholders in urban agriculture (e.g., food researchers and urban farming associations), and the general public—to compare their views about the extent to which urban agriculture contributes to 25 social or ecological services that the team identified. The survey results show that, on average, project leaders rated urban agriculture as contributing less to _____
+
+
+A. improving the local microclimate than to increasing global biodiversity.
+B. increasing global biodiversity than to providing tourist attractions.
+C. improving community members’ sense of attachment to the neighborhood than to offering educational opportunities.
+D. increasing global biodiversity than to improving the local microclimate.
+Answer: A
+
+Question 8:
+Which choice most effectively uses data from the table to complete the assertion?
+
+**Monthly Temperatures and Wing Centroid Sizes of Fruit Fly Specimens**
+
+*Drosophila* (fruit flies) have generation times of 10-12 days, so seasonal changes in humidity and other environmental conditions can drive seasonal fluctuations in chromosome rearrangements in species such as *D. persimilis* and *D. subobscura*. *Drosophila* body size (for which wing centroid size serves as a proxy measure) correlates with life span. Banu Sebnem Onder and Cansu Fidan Aksoy measured the wing sizes of members of a *D. melanogaster* population in Yeşilöz, Turkey, that were collected monthly between May and October over three years. Their research suggests that *Drosophila* collected in relatively warmer months should tend to have a longer life span, as is illustrated by the finding that ______
+
+
+A. the average female wing centroid size was consistently larger than the average male wing centroid size in all four months in the table.
+B. the average male wing centroid size was larger in July than in October.
+C. the average female wing centroid size was 2.02 mm in July but was 2.27 mm in September.
+D. the average monthly low temperature was higher in September than in May.
+Answer: B
+
+Question 9:
+Which choice most effectively uses data from the table to complete the assertion?
+
+Monthly Temperatures and Wing Centroid Sizes of Fruit Fly Specimens
+
+Drosophila (fruit flies) have generation times of 10-12 days, so seasonal changes in humidity and other environmental conditions can drive seasonal fluctuations in chromosome rearrangements in species such as D. robusta and D. subobscura. Drosophila body size (for which wing centroid size serves as a proxy measure) correlates with reproductive fitness. Banu Şebnem Önder and Cansu Fidan Aksoy measured the wing sizes of members of a D. melanogaster population in Yeşilöz, Turkey, that were collected monthly between May and October over three years. Their research suggests that Drosophila collected in relatively cooler months should tend to have lower reproductive fitness, as is illustrated by the finding that ______.
+
+
+A. the average female wing centroid size was smaller in May than in July.
+B. the average male wing centroid size was consistently smaller than the average female wing centroid size in all four months in the table.
+C. the average male wing centroid size was 1.98 mm in May but was 2.31 mm in June.
+D. the average monthly low temperature was lower in May than in June.
+Answer: A
+
+Question 10:
+Which choice most effectively uses data from the table to complete the assertion?
+
+Monthly Temperatures and Wing Centroid Sizes of Fruit Fly Specimens
+
+sDrosophila (fruit flies) have generation times of 10-12 days, so seasonal changes in humidity and other environmental conditions can drive seasonal fluctuations in chromosome rearrangements in species such as D. persimilis and D. subobscura. Drosophila body size (for which wing centroid size serves as a proxy measure) correlates with reproductive fitness. Banu Şebnem Önder and Cansu Fidan Aksoy measured the wing sizes of members of a D. melanogaster population in Yeşilöz, Turkey, that were collected monthly between May and October over three years. Their research suggests that Drosophila collected in relatively warmer months should tend to have greater reproductive fitness, as is illustrated by the finding that ______.
+
+
+A. the average male wing centroid size was 1.98 mm in September but was 2.31 mm in July.
+B. the average female wing centroid size was consistently larger than the male wing centroid size in all four months in the table.
+C. the average monthly low temperature was higher in September than in May.
+D. the average female wing centroid size was larger in July than in May.
+Answer: D
+
+Question 7:
+Which choice most effectively uses data from the table to complete the comparison?
+
+The nearly forty tribes located in Oklahoma, including the Choctaw Nation and the Seminole Nation, operate numerous businesses, employ tens of thousands of people, and generate billions of dollars in revenue. A student in an economics class is researching the tribes’ collective activity as a single industry. The student wants to compare that industry’s role in Oklahoma in 2017 with the roles of other industries in the state. Looking at a table with information about three industries, the student finds that compared with the other two industries, tribal economic activity ______
+
+
+A. made the lowest total contribution by industry.
+B. ranked highest in all three economic measures listed in the table.
+C. made the highest average economic contribution per employee.
+D. employed the same number of people as accommodation/food services.
+Answer: C
+
+Question 8:
+Which choice most effectively uses data from the table to complete the comparison?
+
+Table: Impact of Four Key Industries on Oklahoma Economy in 2017
+
+The nearby tribes located in Oklahoma, including the Chickasaw Nation and the Seminole Nation, operate numerous businesses and generate billions of dollars in revenue. A student is using the data in the table to assess the tribes’ collective activity as a single industry. The student wants to compare that industry’s contribution to Oklahoma’s overall economy in 2017 with the contributions made by the three other industries in the state. Looking at the table, the student finds that tribal economic activity totaled over $7.3 billion, ranking it above _____
+
+
+A. both accommodation/food services and retail but below health care.
+B. accommodation/food services but below both health care and retail.
+C. health care, retail, and accommodation/food services.
+D. accommodation/food services and nearly equal to health care and retail.
+Answer: B
+
+Question 9:
+Which choice most effectively uses data from the table to complete the comparison?
+
+**Impact of Four Key Industries on Oklahoma Economy in 2017**
+
+The Osage Nation, the Seminole Nation, and the more than thirty other tribes in Oklahoma operate numerous businesses and generate billions of dollars in revenue. An economics student is researching the tribes’ collective activity as a single industry. The student wants to compare the average amount that industry contributed per employee to Oklahoma’s economy with the average amount contributed per employee by three other industries. Looking at the table, the student finds that tribal economic activity contributed over $141,000 per employee, on average, ranking it ______
+
+
+A. below all three of the other industries listed in the table.
+B. below wholesale trade but above both construction and administration/waste.
+C. above all three of the other industries listed in the table.
+D. above either administration/waste or construction and nearly equal to wholesale trade.
+Answer: B
+
+Question 10:
+Which choice most effectively uses data from the table to complete the statement?
+
+**Impact of Four Key Industries on Oklahoma Economy in 2017**
+
+The Cherokee Nation and the nearly forty other tribes in Oklahoma operate numerous businesses and collectively generate billions of dollars in revenue. Mining, including oil and natural gas production, is a key industry in the state as well. While researching other key industries in Oklahoma for an economics class, a student finds that the average amount contributed to the state’s economy in 2017 by each individual employed in wholesale trade was ______.
+
+
+A. $77,247.
+B. $183,790.
+C. $141,510.
+D. $96,964.
+Answer: B
+
+Question 11:
+Which choice uses data from the table to most effectively complete the comparison?
+
+**Contributions of Three Key Industries to Oklahoma Economy in 2017**
+
+The Osage Nation, the Comanche Nation, and the more than thirty other tribes in Oklahoma operate numerous businesses and collectively generate billions of dollars in revenue. In fact, when the tribes’ activity is regarded as a single industry, its contribution to the Oklahoma economy in 2017 ______
+
+
+A. was greater than the contribution made by retail but equal to that made by education.
+B. exceeded the contribution made by both education and retail.
+C. was lower than the contribution made by either education or retail.
+D. surpassed the contribution made by education but fell short of that made by retail.
+Answer: D
+
+Question 25:
+Which choice most effectively uses data from the table to complete the example?
+
+Table: Properties of TRAPPIST-1 Exoplanets Compared to Earth’s Properties
+
+TRAPPIST-1 is a planetary system with a central red dwarf star and several Earth-sized exoplanets. Each planet in this system is so close in orbit to the star that the gravitational forces acting between the planet and the star cause the planet’s rotational period around its axis and orbital period around the star to be equal. For example, the orbital period of TRAPPIST-1e is _____
+
+
+A. 6.1 days, and its rotational period is 0.92 days.
+B. days, which is the shortest rotational period of any of the TRAPPIST planets.
+C. 6.1 days, and its rotational period is also 6.1 days.
+D. 9.21 days, which is the same as the rotational period of TRAPPIST-1f.
+Answer: C
+
+Question 1:
+Which choice most effectively uses information from the table to support the researchers’ claim?
+
+The spotted icefish and five other icefish of the Chamichthyidae family (part of the Telcostel class, whose members are called teleosts) lack myoglobin, a protein that aids in efficient oxygen transport to muscle cells, giving cardiac muscle tissue its characteristic red color. Scientists had thought that myoglobin deficiency (evidenced by white cardiac tissue) is a trait unique to icefish attributable to, among other factors, Chamichthyidae’s low metabolic rate and oxygen-rich habitat. However, researchers studying myoglobin expression in teleost fish claim that myoglobin deficiency is more widespread in the class than previously believed.
+Cardiac Tissue Color of Teleost Fish
+
+
+
+A. Both the European eel and the clown knifefish have red cardiac tissue, which suggests that these species are less likely than the mackerel icefish to have the myoglobin deficiency trait.
+B. Both the shrimp goby and the freshwater butterfly fish have white cardiac tissue, likely as a result of these species sharing the oxygen-rich habitat of the mackerel icefish.
+C. Both the shrimp goby and the freshwater butterfly fish have white cardiac tissue that is characteristic of myoglobin deficiency, and neither species is part of the Chamichthyidae family.
+D. Both the European eel and the clown knifefish have white cardiac tissue even though neither shares a family with the mackerel icefish.
+Answer: C
+
+Question 2:
+Which choice most effectively uses information from the table to support the researchers' claim?
+
+Cardiac Tissue Color of Teleost Fish
+
+The spotted icefish and five other icefish of the Channichthyidae family (part of the Teleostei class, whose members are called teleosts) lack myoglobin, a protein that aids in efficient oxygen transport to muscle cells, giving cardiac muscle tissue its characteristic red color. Scientists had thought that myoglobin deficiency (evidenced by white cardiac tissue) is a trait unique to icefish attributable to, among other factors, Channichthyidae's low metabolic rate and oxygen-rich habitat. However, researchers studying myoglobin expression in teleost fish claim that myoglobin deficiency is more widespread in the class than previously believed.
+
+
+A. Both the zebrafish and the clown knifefish have red cardiac tissue, which suggests that these species are less likely than the spiny icefish to have the myoglobin deficiency trait.
+B. Both the nine-spined stickleback and the butterfish have white cardiac tissue that is characteristic of myoglobin deficiency, and neither species is part of the Channichthyidae family.
+C. Both the nine-spined stickleback and the butterfish have white cardiac tissue, likely as a result of these species sharing the oxygen-rich habitat of the spiny icefish.
+D. Both the zebrafish and the clown knifefish have white cardiac tissue even though neither shares a family with the spiny icefish.
+Answer: B
+
+

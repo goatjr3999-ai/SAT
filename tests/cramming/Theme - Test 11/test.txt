@@ -1,0 +1,232 @@
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water undisturbed by human activity. But Stéphane Guédron, Delphine Tisserand, and colleagues did not find this correlation in an examination of freshwater bodies impacted by wastewater, leading some scientists to hypothesize that the association could be particular to undisturbed waters. However, Ida Tjerrgren and colleagues carried out a study on freshwater bodies disturbed by urban development that showed similar results to the studies on undisturbed waters, suggesting that ____.
+
+
+A. the effects of wastewater on the association between levels of dissolved organic carbon and mercury should not be taken as indicative of the effects of every type of human disturbance.
+B. Guédron, Tisserand, and colleagues’ study used different methods to measure the concentration of mercury in fresh water than Tjerrgren and colleagues’ study did.
+C. disturbances linked to wastewater affect significantly more bodies of fresh water than disturbances linked to urban development do.
+D. levels of dissolved organic carbon and mercury are both much higher in bodies of fresh water impacted by wastewater than they are in bodies of fresh water disturbed by urban development.
+Answer: A
+
+Question 2:
+[Infer]
+Which choice most logically completes the text?
+
+Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of freshwater in North America. But Petri Porvari and Matti Verta did not find this correlation in a study conducted in Finland, leading some scientists to hypothesize that the pattern is particular to North America. However, Yao Luo and colleagues reported dissolved organic carbon and mercury rising or falling together in a study conducted in China, and several other studies from outside North America have yielded similar results, suggesting that _____.
+
+
+A. Environmental characteristics unique to Finland likely result in dissolved organic carbon and mercury levels in bodies of freshwater both being significantly higher there than elsewhere.
+B. The bodies of water examined in Porvari and Verta’s study may be more similar to the bodies of water examined in studies conducted in North America than to those examined in Luo and colleagues’ study.
+C. There may be circumstances specific to the bodies of water examined in Porvari and Verta’s study that disrupted a general positive association between dissolved organic carbon and mercury levels.
+D. Bodies of freshwater outside North America are more likely to show a negative association between dissolved organic carbon and mercury levels than a positive association.
+Answer: C
+
+Question 3:
+[Infer]
+Which choice most logically completes the text?
+
+In a 2012 study in the United States, Michael E. Berndt and Travis K. Bavin found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water. Many other studies have yielded similar results, suggesting to some scientists that this association is true for all bodies of fresh water. But much of that research has been conducted at broadly similar sites in North America, and when Seam Noh and colleagues examined bodies of fresh water in South Korea, they found a negative association between dissolved organic carbon levels and mercury levels. If similar findings emerge from other locations outside North America, that could suggest that ______.
+
+
+A. the mercury levels reported in Noh and colleagues’ study were much higher than those reported in the study by Berndt and Bavin even though the dissolved organic carbon levels reported in the two studies were approximately the same.
+B. Berndt and Bavin may have inadvertently measured a different characteristic of bodies of fresh water than their levels of dissolved organic carbon and mercury.
+C. the relationship between dissolved organic carbon and mercury reported by Berndt and Bavin reflects conditions that are characteristic of certain kinds of ecosystems in North America rather than universal conditions.
+D. most of the studies conducted in North America have measured dissolved organic carbon and mercury levels at a higher level of precision than was the case in Noh and colleagues’ study.
+Answer: C
+
+Question 4:
+[Infer]
+Which choice most logically completes the text?
+
+Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water in North America. But this correlation has not, José Roberto Guimarães, and Pedro Sérgio Fadini did not find correlation in a study conducted in Brazil, leading some scientists to hypothesize that the association is particular to North America. However, several other studies conducted outside North America, such as one by Heidi Pyykkö and colleagues in Finland, showed similar results to the North American studies, while few have produced results similar to those of Fagnani, Guimarães, and Fadini's study, suggesting that ____
+
+
+A. dissolved organic carbon and mercury levels do typically rise and fall together in fresh water.
+B. there were circumstances unique to Pyhälä and colleagues' study that impeded accurate measurements of mercury levels.
+C. the hypothesis that the positive association is particular to North America is correct.
+D. levels of dissolved organic carbon and mercury in bodies of fresh water are both much higher in Brazil than elsewhere.
+Answer: A
+
+Question 5:
+[Infer]
+Which choice most logically completes the text?
+
+In a 2012 study that took place in Brazil, Enelton Fagnani, José Roberto Guimarã, and Pedro Sérgio Fadini found a negative association between levels of dissolved organic carbon and mercury in bodies of fresh water. It may seem reasonable to be skeptical of this finding, since most other studies, such as research conducted in 1995 in the United States by Charles T. Driscoll and colleagues, have found that dissolved organic carbon and mercury levels rise together. Like the latter study, however, most studies of the topic have been conducted in North America, and many of those study sites have similar characteristics to one another, suggesting that _____.
+
+
+A. few of the studies conducted in North America have been able to measure dissolved organic carbon and mercury levels with the same level of precision as in Fagnani, Guimarã, and Fadini’s study.
+B. Fagnani, Guimarã, and Fadini’s finding may differ from the findings of other studies due to a difference in environmental circumstances that affects the relationship between dissolved organic carbon and mercury in fresh water.
+C. Fagnani, Guimarã, and Fadini’s study may have inadvertently measured a different characteristic of bodies of fresh water than their levels of dissolved organic carbon and mercury.
+D. the mercury levels reported in Fagnani, Guimarã, and Fadini’s study were much higher than those reported in the study by Driscoll and colleagues even though the dissolved organic carbon levels reported in the two studies were approximately the same.
+Answer: B
+
+Question 6:
+[Synthesis]
+The student wants to compare the curviness of the two rivers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•A river's stream length is the length of a line that follows along the river path.
+•A river's valley length is the length of a straight line drawn from the beginning of the river to the end.
+•The river's curviness, or sinuosity, is the ratio of the river's stream length to its valley length.
+•Low-sinuosity rivers have a stream length 1–1.5 times longer than their valley length, and high-sinuosity rivers have a stream length 1.5 or more times longer than their valley length.
+•The Embarras River in Canada has high sinuosity.
+•The Luni River in India has low sinuosity.
+
+
+A. The high-sinuosity Luni River in India is curvier than the low-sinuosity Embarras River in Canada.
+B. The Embarras River's ratio of stream length to valley length, also known as sinuosity, is greater than that of the Luni River.
+C. In both the Embarras and the Luni rivers, curviness is determined by comparing stream length to valley length.
+D. By comparing the stream lengths of the Embarras and Luni rivers to their valley lengths, one can calculate their curviness, or sinuosity.
+Answer: B
+
+Question 7:
+[Synthesis]
+The student wants to compare the sinuosity of the Fort Nelson and Wadi Al-Hamd rivers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•A river's stream length is the length of a line that follows along the river path.
+•A river's valley length is the length of a straight line drawn from the beginning of the river to the end.
+•The river's curviness, or sinuosity, is the ratio of the river's stream length to its valley length.
+•This ratio is less than or equal to 1.5:1 in low-sinuosity rivers and greater than 1.5:1 in high-sinuosity rivers.
+•The Fort Nelson River in Canada has high sinuosity.
+•The Wadi Al-Hamd River in Saudi Arabia has low sinuosity.
+
+
+A. While the high-sinuosity Fort Nelson River is located in Canada, the Wadi Al-Hamd River in Saudi Arabia has low sinuosity.
+B. In both the Fort Nelson and the Wadi Al-Hamd rivers, sinuosity is determined by comparing stream length to valley length.
+C. The ratio of the Fort Nelson River’s stream length to its valley length is greater than 1.5:1, exceeding that of the Wadi Al-Hamd River.
+D. By comparing the stream lengths of the Fort Nelson and Wadi Al-Hamd rivers to their valley lengths, one can calculate their sinuosity.
+Answer: C
+
+Question 8:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Kyūdō, a form of archery that originated in Japan, was not a medal sport at the 1964 Tokyo Summer Olympic Games. _____ kyūdō was featured at the Games as a demonstration sport. Demonstration sports have been featured at past Olympics to showcase lesser-known or regionally significant sports.
+
+
+A. Thus,
+B. Rather,
+C. Additionally,
+D. For example,
+Answer: B
+
+Question 9:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+At past Olympics, in contrast to demonstration sports with international appeal, regionally popular sports were exhibited as onetime showcases. ______ while the internationally popular sport of handball became a medal event after demonstration, kaatsen, a handball sport popular in the Netherlands, only appeared at the 1928 Amsterdam Olympics.
+
+
+A. Moreover,
+B. Accordingly,
+C. Granted,
+D. However,
+Answer: B
+
+Question 10:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+At past Olympics, in contrast to demonstration sports with international appeal, regionally popular sports were exhibited as onetime showcases. ______ while the internationally popular sport of speed skating became a medal event after demonstration, glima, a combat sport popular in Sweden, only appeared at the 1912 Stockholm Olympics.
+
+
+A. Granted,
+B. However,
+C. For instance ,
+D. Moreover,
+Answer: C
+
+Question 11:
+[Infer]
+Which choice most logically completes the text?
+
+Duckweed is a small freshwater plant that is often exposed to zinc pollution. Sofia Vámos and colleagues collected samples of four duckweed ecotypes (genetically and geographically distinct populations within a species), along with water from each ecotype’s habitat. Hypothesizing that each ecotype is adapted to its local conditions in ways that bolster its growth and resistance to pollutants, the researchers grew each ecotype in all four water samples and with three levels of zinc (none, low, high). (The researchers did not replicate local differences in light or temperature.) They found that the ecotypes grew equally well in all four water samples and that adding zinc consistently enhanced growth, regardless of concentration, suggesting that ______.
+
+
+A. there may not be significant differences in the water that each ecotype inhabits, but there are significant differences in each ecotype’s resistance to zinc pollution.
+B. if each ecotype is indeed locally adapted as the researchers hypothesized, those adaptations are to other environmental conditions than the water each ecotype inhabits.
+C. while the ecotypes are genetically and geographically distinct, those differences do not represent adaptations to local environmental conditions.
+D. although the researchers’ hypothesis does not appear to be supported, this may be because the levels of zinc exposure the plants in the experiment received did not match their exposure in their natural environments.
+Answer: B
+
+Question 12:
+[Infer]
+Which choice most logically completes the text?
+
+Microbes that live in shallow lakes and ponds produce methane, a harmful greenhouse gas. Ecologist Ralf Aben and his team wanted to see how different types of shallow-water plants might affect the amount of methane that escapes into the atmosphere. Aben's team set up some water tanks with soil and microbes from local ponds. Some tanks had a type of underwater plant that grows in the soil called watermilfoil. Other tanks had either duckweed, a type of plant that floats on the water's surface, or algae. Aben and his team found that tanks with duckweed and algae released higher levels of methane than tanks with watermilfoil did. This finding suggests that _______
+
+
+A. shallow lakes and ponds are more likely to contain algae than to contain either watermilfoil or duckweed.
+B. shallow lakes and ponds release more methane than deeper bodies of water because shallow bodies of water usually have more plants than deep bodies of water do.
+C. the presence of some kinds of underwater plants like watermilfoil helps prevent methane from escaping shallow lakes and ponds.
+D. having a mix of algae, underwater plants, and floating plants is the best way to reduce the amount of methane in shallow lakes and [end of text cut off]
+Answer: C
+
+Question 13:
+[COE]
+Which finding, if true, would best support the linguist’s hypothesis?
+
+The Quechua language of the Andes in South America has 18 distinct vowel and consonant sounds, while the Xhosa language of southern Africa has 80. What might account for this variation in sound complexity across languages? One linguist proposes that when early humans originated in Africa, they communicated with a single language. As humans dispersed across Africa and eventually around the world, this language diversified. With each migration, new languages formed from the original, each retaining fewer sounds from humanity’s first language.
+
+
+A. Languages that developed in northern South America tend to have more sounds than languages that emerged in East Asia do, even though northern South America is farther from Africa than East Asia is.
+B. Languages that originated in southern Europe tend to have fewer sounds than languages that developed in East Asia do, and southern Europe is closer to Africa than East Asia is.
+C. Languages that emerged in Central Asia tend to have more sounds than languages that developed in East Asia do, and Central Asia is closer to Africa than East Asia is.
+D. Languages that emerged in Southeast Asia tend to have more sounds than languages that developed in East Asia do, even though the two regions are about the same distance from Africa.
+Answer: C
+
+Question 14:
+[COE]
+Which finding, if true, would most directly weaken the researcher’s claim?
+
+The Umpila language of Australia has 21 vowel and consonant sounds. In contrast, the Taa language of southern Africa has over 100. Why would languages differ in this way? One researcher has claimed that when modern humans arose in Africa, they spoke a single language, but as humans gradually spread throughout Africa and then around the globe, that language developed into new languages. Those developed into still more languages as small bands of humans spread even farther, with each new language retaining fewer sounds from humanity’s original language.
+
+
+A. Languages that emerged in Central America tend to have fewer sounds than languages that emerged in Western Europe do, and Central America is farther away from Africa than Western Europe is.
+B. Languages that emerged in Europe and Western Asia tend to have more sounds than languages that emerged in Africa do.
+C. The number of sounds is fairly consistent across the various languages that emerged in the last parts of Africa to be settled by humans.
+D. A wider range of sounds is found across the languages of Africa as a whole than across the languages of South America as a whole.
+Answer: B
+
+Question 15:
+[COE]
+Which finding, if true, would most directly challenge the second research team's conclusion?
+
+Callie W. Babbitt, Hema Madaka, and colleagues assembled a database of materials used in consumer electronics by studying products in the lab and by gathering data from similar product studies. The team gave each of these studies a rating for level of traceability (with a higher rating for clearer descriptions of procedures and for greater consistency with other literature citing sources of materials categories more closely aligned with the categories in the team's database). Based on these ratings, a second research team concluded that the methodology was better explained in a study by Greg L. Kozak and Greogary A. Keoleian than it was in a study by Perrine Chancerel and Susanne Rotter.
+
+
+A. The study by Chancerel and Rotter had a medium consistency rating and a medium traceability rating.
+B. The study by Kozak and Keoleian had a lower consistency rating than the study by Chancerel and Rotter did.
+C. The study by Kozak and Keoleian had a high consistency rating and a high traceability rating.
+D. The study by Kozak and Keoleian had a lower traceability rating than the study by Chancerel and Rotter did.
+Answer: D
+
+Question 16:
+[COE]
+Which finding, if true, would most directly support the second research team’s conclusion?
+
+Callie W. Babbitt, Hema Madaka, and colleagues assembled a database of materials used in consumer electronics by studying products in the lab and by gathering data from other similar product studies. The team rated each study on its level of detail (with a higher rating for reported data with more detail) and on its category consistency (with a higher rating for using materials categories more closely aligned with the categories in the team’s database). Based on these ratings, a second research team concluded that the data in a study by Maria Leet Socolof and colleagues would need less adjustment to fit the classifications in the database than the data in a study by Martin Streicher-Porte and colleagues did.
+
+
+A. The study by Socolof and colleagues had a higher consistency rating than the study by Streicher-Porte and colleagues did.
+B. The study by Socolof and colleagues had a high consistency rating and a medium detail rating.
+C. The study by Socolof and colleagues had a higher detail rating than the study by Streicher-Porte and colleagues did.
+D. The study by Streicher-Porte and colleagues had a medium consistency rating and a medium detail rating.
+Answer: A
+
+Question 17:
+[COE]
+Which finding, if true, would most directly challenge the second research team’s conclusion?
+
+Callie W. Babbitt, Hema Madaka, and colleagues assembled a database of materials used in consumer electronics by studying products in the lab and by gathering data from similar product studies. The team gave each of these studies a rating for level of detail (with a higher rating for reporting data with more detail) and for level of traceability (with a higher rating for clearer descriptions of procedures). Based on these ratings, a second research team concluded that a study by Greg L. Kozak and Gregory A. Keoleian reported more specificity in its data than a study by Oguchi Masahiro and colleagues did.
+
+
+A. The study by Kozak and Keoleian had a lower detail rating than the study by Oguchi and colleagues did.
+B. The study by Kozak and Keoleian had a lower traceability rating than the study by Oguchi and colleagues did.
+C. The study by Kozak and Keoleian had a high detail rating and a high traceability rating.
+D. The study by Oguchi and colleagues had a low detail rating and a low traceability rating.
+Answer: A

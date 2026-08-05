@@ -1,0 +1,370 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The vast geographical expanse and ecological fragmentation of the American continents—from isolated mountain valleys to dense, impassable rainforests—created an environment that was highly ______ to the emergence of the profound linguistic diversity seen in languages from Inuktitut in the north to Tupi-Mondé in the south.
+
+
+A. inimical
+B. prosaic
+C. conducive
+D. tangential
+Answer: C
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+An influential hypothesis about the origins of ancient Greek drama suggests that theatrical performances evolved from choral songs performed at religious festivals dedicated to Dionysus. Until recent discoveries, however, direct historical evidence for these early festivals was ____, yet historian Elena Karalis and her team now argue they have discovered tangible artifacts linked directly to such performances at archaeological sites in northern Greece.
+
+
+A. discursive
+B. conjectural
+C. indubitable
+D. fallacious
+Answer: B
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In a 2018 article about films depicting the experiences of Black Americans, critics for the *New York Times* praise Madeline Anderson’s 1970 film *I Am Somebody* as “galvanizing” and Carl Franklin’s 1995 film *Devil in a Blue Dress* as “picture-perfect.” Fans of the two films hope that such ____ will attract new audiences to these works.
+
+
+A. ambivalence
+B. acclaim
+C. foresight
+D. impartiality
+Answer: B
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In the early 1990s, the price of mass-produced comic books rose dramatically, which had the counterintuitive effect of _____ demand: buyers who hadn’t previously wanted to purchase comics suddenly thronged the market, believing prices would continue to rise and the comics could be resold later at a profit.
+
+
+A. monetizing
+B. precipitating
+C. stabilizing
+D. exploiting
+Answer: B
+
+Question 5:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although the clustering of car manufacturing firms in Detroit, Michigan, is often cited as typical of industrial agglomeration, Giulia Faggio et al. use UK data to show that the mix of factors driving the phenomenon is ______ across industries: while the existence of labor pools can prompt agglomeration, collocation among vegetable oil manufacturers occurs for different reasons.
+
+
+A. ubiquitous
+B. disparate
+C. congruous
+D. axiomatic
+Answer: B
+
+Question 6:
+[COE]
+According to the text, which factors seemed to be linked to the behavior of butterflies in Grace Herzel and colleagues’ study?
+
+Biologist Grace Herzel and colleagues conducted a study of how butterfly color and weather conditions relate to butterfly behavior, which wouldn’t have been possible without data gathered by students and other amateur science enthusiasts in the community. Considering over three years’ worth of data, the researchers found that white butterflies were observed on green flowers more often than any other butterflies were, and that butterflies were observed to feed more often on cloudy days than on other days.
+
+
+A. Weather conditions but not butterfly color
+B. Butterfly color but not weather conditions
+C. Neither butterfly color nor weather conditions
+D. Both butterfly color and weather conditions
+Answer: D
+
+Question 7:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Lee Hsiang Liow and colleagues relied on historical DNA (hDNA)—genomic data incidentally preserved in specimens housed in collections such as those at the Smithsonian National Museum of Natural History—to investigate the evolutionary relationships between thirty-seven species of metazoans. Although this approach can yield many insights about the biological past, it remains a relatively underutilized resource in part because hDNA is often to some extent degraded, a situation not easily remediable under current methodological paradigms and with extant DNA extraction and analysis technologies.
+
+
+A. It presents a scientific study that relied on a particular approach, then describes a barrier to the widespread adoption of that approach.
+B. It evaluates a research methodology used in a particular study, then explains how scientists may overcome difficulties inherent to that methodology.
+C. It summarizes the findings of a scientific study, then discusses the possibility of other researchers replicating those findings in future studies.
+D. It exemplifies a common method of genomic data analysis, then details the difficulties in adapting that method to new circumstances.
+Answer: A
+
+Question 8:
+[Structure]
+Which choice best states the main idea of the text?
+
+Postcranial skeletal pneumaticity (PSP), a system of skeletal air sacs, occurred in three Cretaceous clades, including pterosaurs (e.g., *Dsungaripterus*); past studies have hypothesized that the trait was homologous (originating from a shared ancestor). With this in mind, Flávio A. Pretto et al. examined fossils of common ancestors of the clades using microtomography, finding openings in bones—a possible indicator of PSP—but of sizes inconsistent with PSP. The team reported other findings contradicting the homology hypothesis as well, concluding that PSP likely evolved independently in each clade.
+
+
+A. Pretto et al. found openings in bones in fossils of common ancestors of pterosaurs and two other Cretaceous clades, but the team determined that the sizes of the openings were too varied to be indicative of PSP, thereby weakening the homology hypothesis.
+B. Pretto et al. found that pterosaurs and two other Cretaceous clades with PSP likely lacked a common ancestor with the trait, leading the team to posit a different evolutionary origin for PSP than that posited in earlier studies.
+C. Previous studies hypothesized that PSP originated in a shared ancestor of pterosaurs and two other clades, but the findings of Pretto et al. suggest that PSP evolved independently in pterosaurs and was subsequently inherited by the other two clades.
+D. Although past studies by paleontologists concluded that PSP in pterosaurs and two other Cretaceous clades was likely attributable to a common ancestor, those paleontologists lacked access to technology that led Pretto et al. to reach a different conclusion.
+Answer: B
+
+Question 9:
+[Structure]
+Which choice best states the main idea of the text?
+
+“Coyote” is an example of a loanword—that is, a word that originated in one language and was later adopted by another. The word came to English indirectly from coyote, the Spanish word for the wild canine species. Spanish had borrowed it from Nahuatl, an Indigenous language of Central Mexico, in which the word’s original form is coyotl. “Condor” also has an Indigenous origin and entered English through Spanish. But in this case, the original source was Quechua, a language of South America, in which the word for the large vulture species is kuntur.
+
+
+A. The English words “coyote” and “condor” are both examples of loanwords from Indigenous languages.
+B. When borrowing from Indigenous languages, Spanish adopted roughly as many words from Nahuatl as from Quechua.
+C. Many Spanish words with Indigenous origins first passed through English before entering Spanish.
+D. When non-Indigenous languages borrowed from Indigenous languages, the words often underwent a significant change in meaning.
+Answer: A
+
+Question 10:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Hay’s Spring amphipods, oims, and other organisms lack functional eyes or ocular organs altogether and rely on other mechanisms to navigate their surroundings. Zhihao Yao and colleagues investigated how the Chinese red-headed centipede is still able to sense and avoid sunlight without having eyes or even any photoreceptors (light-detecting cells). In an experiment, the researchers found that light-avoidant behavior observed in the centipedes was associated with activation of BRTNaC1, a thermal receptor located in the centipede’s antennae, in the presence of simulated sunlight.
+
+
+A. To explain the role of BRTNaC1 in light detection for multiple organisms
+B. To contrast how centipedes detect sunlight with how Hay’s Spring amphipods and oims detect sunlight
+C. To outline a study designed to identify the mechanism involved in light detection in a species of centipede
+D. To compare the functions of two body parts of a species of centipede
+Answer: C
+
+Question 11:
+[Infer]
+Which choice most logically completes the text?
+
+In June of 1988, Morocco liberalized its stock market, meaning that it began allowing foreign individuals and businesses to invest money in Moroccan companies. This was part of a wave of stock market liberalizations around the world—Argentina in 1989, Jamaica in 1991, and so on. The standard view among economists at the time was that liberalization would make it easier for companies to raise money from investors. Economist Peter Blair Henry examined the economies of 11 countries that were part of the liberalization wave and found that, on average, companies based in those countries received significant increases in investment in the three years following liberalization, suggesting that ___.
+
+
+A. companies in the countries Henry studied did not benefit from liberalization until at least three years after liberalization occurred.
+B. companies in Argentina experienced a greater increase in investment following liberalization than did companies in Morocco.
+C. economists who held the standard view of liberalization failed to anticipate some serious negative effects of liberalization.
+D. economists’ expectations about the effect of liberalization on investment were largely correct for the countries Henry studied.
+Answer: D
+
+Question 12:
+[COE]
+Which assertion, if true, provides the most direct evidence for the underlined claim?
+
+Throughout the mid-20th century, the population of the California Condor declined drastically, pushing the species toward extinction. To prevent this, conservationists initiated the California Condor Recovery Program in 1987. Biologists began breeding the birds in protected facilities and raising the chicks for reintroduction. The initiative was a remarkable success. It eventually expanded, creating new release sites for condors in California, Arizona, and Baja California. __As a result of the California Condor Recovery Program, the number of these birds living in the wild has risen__.
+
+
+A. In addition to condors, several other endangered bird species, such as the Whooping Crane, inhabit the regions where the condors were released.
+B. When the program began, only 27 California Condors existed globally, all in captivity; today, over 300 condors released by the program are flying free.
+C. The California Condor is closely related to other New World vultures, such as the Turkey Vulture and the Black Vulture, which are found throughout the Americas.
+D. The historical range of the California Condor once spanned across North America, from British Columbia to Baja California.
+Answer: B
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+A group of primate conservationists recently began a long-term study of the effects of different conservation strategies on the Perrier’s sifaka (*Propithecus perrieri*). The species population is currently estimated to be around 500. It is challenging to accurately count these primates, however, which makes it difficult to tell whether the population is increasing, decreasing, or staying stable. The study may thus ____.
+
+
+A. risk making inaccurate conclusions about the effectiveness of different conservation strategies.
+B. cause other conservationists to adopt a new methodology for counting populations.
+C. benefit from including species beyond the Perrier’s sifaka.
+D. fail to consider less well-known conservation approaches for the Perrier’s sifaka.
+Answer: A
+
+Question 14:
+[COE]
+Which quotation from Poems most effectively illustrate the claim?
+
+*Poems* is an 1895 collection of poetry by Frances E.W.Harper. In one of Harper’s poems, the speaker criticizes activists who champion humanitarian causes in other countries while overlooking local concerns, saying ____
+
+
+A. “God bless our native land. /Her homes and children bless/Oh may she ever stand/For truth and righteousness” (from “God Bless Our Native Land”)
+B. “Men may tread down the poor and lowly/May crush them in anger and hate,/But surely the mills of God’s justice/Will grind out the grist of their fate.” (from “An Appeal to My Countrywomen”)
+C. “Say not the age is hard and cold-/I think it brave and grand/When men of diverse sects and creeds/Are clasping hand in hand” (from “The Present Age”)
+D. “When ye plead for the wrecked and fallen. /The exile from for distant shores/Remember that men are still wasting/Life's crimson and your own doors.” (from “An Appeal to My Countrywomen”)
+Answer: D
+
+Question 15:
+[COE]
+Which choice most effectively uses data from the graph to complete the example?
+
+Many plants have leaves that are larger on one side of their long central axis than the other, a phenomenon known as asymmetrical orientation. University of California, Berkeley biologist Ciera Martinez and colleagues examined several species of grapevines and closely related plants, which have leaves that grow in pairs, to see if both leaves in a pair tend to be oriented toward the same side (that is, have more tissue on the same side) or not. They found that opposite-side orientation was much more common than same-side orientation; in the Amur grape, for example, approximately ____
+
+
+
+A. 150 leaf pairs show opposite-side orientation, whereas approximately 60 pairs show same-side orientation.
+B. 110 leaf pairs show opposite-side orientation, whereas approximately 45 pairs show same-side orientation.
+C. 650 leaf pairs show opposite-side orientation, whereas no pairs show same-side orientation.
+D. 110 leaf pairs show opposite-side orientation, whereas no pairs show same-side orientation.
+Answer: A
+
+Question 16:
+[Infer]
+Which choice most logically completes the text?
+
+The advent of online streaming has led many music listeners to drift away from ownership of music (through downloads or through physical media such as compact discs) and toward the streaming services Apple Music and AccuRadio, among others. Datta et al. studied the impact of this change on the variety of music that listeners consume. The researchers reasoned that the ownership model of music assigns a cost per song to acquiring a variety of music, while streaming services typically charge a flat fee for access to an entire music catalog, making variety free, which suggests that ______
+
+
+A. music publishers who choose to forgo releasing music on physical media are likely to see little or no change in revenue.
+B. listeners who use streaming services are more likely to give physical copies of music as gifts to others than they are to purchase copies for themselves.
+C. listeners who prefer to purchase compact discs rather than use a service such as Apple Music tend to listen to a greater variety of music in addition to spending more time listening to music.
+D. listeners who use streaming services are more likely to listen to music whose value they perceive to be below the price of ownership than are listeners who do not use such services.
+Answer: D
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+On July 19, 2013, marine biologists observed a remarkable and uncommon event in the Great Barrier Reef, approximately 100 kilometers from ______ bleaching event of a large coral reef, a visually dramatic yet temporary occurrence generally caused by prolonged exposure to elevated water temperatures.
+
+
+A. shore. The
+B. shore; it was the
+C. shore: the
+D. shore; the
+Answer: C
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The 1815 eruption of Mount Tambora in Indonesia was a cataclysmic volcanic event triggered by a massive magma chamber collapse, leading to the "Year Without a Summer." By this time, the planet's climate system, already perturbed by the Dalton Minimum, ______ destabilized by the vast stratospheric sulfate aerosol veil; the eruption's climatic forcing aimed to disrupt global weather patterns for several years.
+
+
+A. is becoming
+B. becomes
+C. will have become
+D. had become
+Answer: D
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Founded in 1919 by German architect Walter Gropius, ______ it would become a cornerstone of the modernism movement in art and design.
+
+
+A. the Bauhaus school offered a new approach to integrating art with craftsmanship;
+B. artists developed new skills at an influential institution known as the Bauhaus in Germany;
+C. Germany was where the Bauhaus offered a new approach for artists to integrate their skills;
+D. German artists at the Bauhaus had an influential school for developing their skills;
+Answer: A
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Organisation for Economic Co-operation and Development (OECD) tracks comparative price list data for its thirty-eight member countries. For instance, in July 2021, a hypothetical basket of goods priced at 100 US dollars (USD) in the United States would have cost 55 USD and 137 USD in fellow OECD _____ and Switzerland, respectively.
+
+
+A. nations: Costa Rica
+B. nations Costa Rica
+C. nations, Costa Rica
+D. nations; Costa Rica
+Answer: B
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The barrier reefs of Southeastern Japan appear to be bolstering marine biodiversity. In a 2025 study, researchers ______ for a correlation between the precise salinity at which coral polyps were initially recorded and the morphological characteristics of coralline communities scrutinized hydrological data collected from numerous reef sites. The research team observed that reefs with more stable salinity exhibited markedly greater coral proliferation than those exposed to fluctuating salinity levels.
+
+
+A. looked
+B. looking
+C. had looked
+D. were looking
+Answer: B
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A 1990 study of schooling fish observed the fish mimicking the behavior of school-mates rapidly swimming away from a predator. This is an example of an information cascade that benefits the collective. _____ the animal world is at times susceptible to the spread of misinformation, often with unfavorable results: a 2010 study of semipalmated sandpipers concluded that fleeing in response to flock-mates’ false alarms caused the birds to abandon safe nesting grounds unnecessarily.
+
+
+A. In other words,
+B. Conversely,
+C. Indeed,
+D. Consequently,
+Answer: B
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Despite her considerable body of work, the writer Elizabeth Hands (1746–1815) was largely overlooked by twentieth-century scholars of British Romantic poetry, whose research tended to focus on the Romantic era’s most prominent figures (such as John Keats, the author of “Ode to Psyche” and other well-known poems). ______ a 2006 analysis of Hands’s poems by scholar Cynthia Dereli helps illuminate Hands’s significant contributions to Romanticism.
+
+
+A. Addressing this oversight,
+B. Illustrating this trend,
+C. In addition to this research,
+D. In accordance with these scholars,
+Answer: A
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The principle of textual layering maintains that any editorial addition is created later than the base text into which it is inserted. ______ philologists examining a fourteenth-century chivalric romance can infer that a previously unknown stanza, placed between the existing lines 75 and 76, is later than the original manuscript but earlier than the marginal notes apparently penned two decades afterward.
+
+
+A. Moreover,
+B. Consequently,
+C. By contrast,
+D. Nevertheless,
+Answer: B
+
+Question 25:
+[Synthesis]
+The student wants to compare McClintock's discovery with Lederberg's. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• In the 1940s, geneticist Barbara McClintock discovered mobile segments of DNA.
+• McClintock called these segments "controlling elements," but they are now commonly known as transposable elements (TEs).
+• TEs are capable of altering gene expression as they change position within a cell's genome.
+• In 1950, geneticist Esther Lederberg discovered a process (the lysogenic cycle) by which bacteria-infecting viruses (phages) pass their genetic material to a host cell's descendants.
+• Phage DNA will enter a bacterial host cell and incorporate itself into the host cell's genome.
+• When the host cell divides, the phage DNA replicates along with the host's DNA.
+
+
+A. Like McClintock's discovery, which revealed moving DNA segments within a cell's genome, Lederberg's discovery also involved DNA mobility, showing how phage DNA will enter a bacterial host cell and incorporate itself into the cell's genome.
+B. Both McClintock and Lederberg were geneticists: McClintock found that phage DNA could be passed to bacterial host cells, and Lederberg identified DNA segments that can change position within genomes.
+C. McClintock's and Lederberg's discoveries provided insight into how phage DNA uses the lysogenic cycle to change position within the genome of a bacterial host cell.
+D. While McClintock first discovered DNA segments capable of altering gene expression, Lederberg's discovery provided geneticists with a better understanding of how TEs move within host cells.
+Answer: A
+
+Question 26:
+[Synthesis]
+The student wants to synthesize the notes into a concise historical summary of the shift in cosmological understanding. Which choice most effectively uses relevant information from the notes to achieve this?
+
+While researching the history of astronomy, a student has compiled the following notes:
+• For over a millennium, two competing cosmological models dominated astronomical thought.
+• The Greco-Roman astronomer Ptolemy (circa 100-170 CE) championed the geocentric model.
+• This model posited that Earth was a stationary sphere at the center of the universe around which all other celestial bodies revolved.
+• The Renaissance-era astronomer Nicolaus Copernicus (1473-1543) proposed the heliocentric model.
+• This model asserted that the Sun, not the Earth, was the center of the solar system.
+• In the early seventeenth century, Italian astronomer Galileo Galilei (1564-1642) provided critical empirical evidence supporting the heliocentric model through his telescopic observations of Venus's phases.
+
+
+A. For centuries, Ptolemy's geocentric model was the prevailing view until Nicolaus Copernicus proposed a heliocentric alternative, a theory that gained substantial support from the empirical evidence provided by Galileo Galilei's seventeenth-century telescopic observations.
+B. The debate between geocentrism and heliocentrism involved key astronomers—Ptolemy, Copernicus, and Galileo—all of whom provided differing theories about whether celestial bodies revolved around a stationary Earth or the Sun.
+C. While Galileo's observations in the seventeenth century provided crucial support for heliocentrism, Ptolemy had established the geocentric model as the dominant cosmological theory more than a thousand years prior.
+D. Before the seventeenth century, the Renaissance astronomer Nicolaus Copernicus proposed the heliocentric theory, which asserted that the Sun is the center of the solar system.
+Answer: A
+
+Question 27:
+[Synthesis]
+The student wants to refute the oversimplified claim that preserving a large total area of a habitat is the only important factor for conservation. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While investigating ecological principles, a biology student took the following notes:
+• Habitat fragmentation is the process by which a large, continuous habitat is broken into smaller, isolated patches.
+• This process creates "edge effects," where the boundaries of the patches develop distinct ecological conditions (e.g., more sunlight, higher wind exposure) compared to the sheltered "interior."
+• Some species, known as "interior species," are highly adapted to the stable conditions of the deep habitat interior and cannot thrive in edge environments.
+• A conservation study compared two landscapes, each containing 500 hectares of fragmented forest.
+• Landscape A consisted of numerous small, irregularly shaped fragments, a configuration that maximizes the total length of the forest edge relative to the total area.
+• Landscape B consisted of a single, large, roughly circular fragment, a shape that minimizes the edge-to-area ratio.
+• The study concluded that populations of interior species were significantly lower in Landscape A than in Landscape B.
+
+
+A. Habitat fragmentation, which creates distinct edge and interior environments, poses a significant threat to interior species in landscapes like B, which has a minimal edge-to-area ratio.
+B. The claim that total area is the only critical factor is incorrect; the configuration of fragmented habitats in Landscape A was found to be more beneficial for preserving all species, including interior ones.
+C. In the study of two 500-hectare landscapes, the configuration of fragments and the resulting edge effects were shown to be crucial factors influencing the viability of interior species populations.
+D. Even with an identical total preserved area, a landscape with numerous irregular fragments can negatively impact interior species more than a landscape with a single large fragment because the former maximizes the detrimental edge effect.
+Answer: D

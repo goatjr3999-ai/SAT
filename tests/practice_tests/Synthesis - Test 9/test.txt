@@ -1,0 +1,258 @@
+Question 1:
+[Synthesis]
+The student wants to contrast the orbits of the two moons. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Uranus has twenty-seven moons, including Oberon and Miranda.
+• Oberon completes an orbit of Uranus in 13.46 Earth days on average.
+• Miranda completes an orbit of Uranus in 1.41 Earth days on average.
+• German mathematician and astronomer Johannes Kepler (1571–1630) described the orbits of planets as elliptical in shape rather than circular.
+• Kepler published three laws of planetary motion to describe the orbits of planets around the Sun.
+Kepler’s laws also apply to the elliptical orbits of natural satellites (e.g., moons).
+
+A. Miranda completes its orbit of Uranus many times faster than Oberon does.
+B. Kepler’s three laws of planetary motion describe the orbits of planets and natural satellites, including those of Oberon and Miranda.
+C. Oberon’s orbit of Uranus is elliptical in shape and takes, on average, 13.46 Earth days, while Miranda’s orbit of Uranus is circular in shape and takes, on average, 1.41 Earth days.
+D. Uranus’s moons, specifically Oberon and Miranda, orbit their planet in the same way the planets orbit the Sun.
+Answer: A
+
+Question 2:
+[COE]
+Which choice most effectively uses information from the given sentences to begin a narrative about Merle Oberon’s life?
+
+While researching a topic, a student has taken the following notes:
+• Merle Oberon (1911–1979) was an actress born in Mumbai (then known as Bombay), India.
+• She was of Indian, Maori, and Irish heritage.
+• She was the first Indian-born actress to be nominated for an Academy Award.
+• Early in her career, she played many nameless, uncredited roles, such as her role in The Three Passions (1928).
+• Later, she played many named, credited roles, such as Empress Josephine in Désirée (1954).
+
+A. In 1954, Merle Oberon played the role of Empress Josephine in the film Désirée.
+B. Merle Oberon appeared in many films, including The Three Passions (1928) and Désirée (1954), and was the first Indian-born actress to be nominated for an Academy Award.
+C. Though she would go on to receive credit in many films, Merle Oberon also played nameless, uncredited roles in many films, such as in the movie The Three Passions (1928).
+D. Merle Oberon’s story begins in Mumbai (then known as Bombay), India, in 1911.
+Answer: D
+
+Question 3:
+[Synthesis]
+The student wants to provide a concise explanation of how the CRISPR-Cas9 system enables targeted gene modification. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• CRISPR-Cas9 is a genome-editing technology derived from a bacterial immune system, enabling precise alterations to an organism's DNA.
+• Step 1: A customizable guide RNA (gRNA) molecule, engineered to match a specific target DNA sequence, is joined with the Cas9 protein, a nuclease (an enzyme that cuts DNA).
+• Step 2: This gRNA-Cas9 complex is introduced into a cell, where the gRNA directs the complex to the target DNA sequence.
+• Step 3: Once the gRNA binds to the complementary DNA, the Cas9 enzyme is activated, creating a precise double-strand break (DSB) at that location.
+• Step 4: The cell then utilizes its innate DNA repair machinery to mend the break. Researchers can leverage this stage for editing.
+• Step 5: One repair pathway, non-homologous end joining (NHEJ), often introduces small random mutations that can disable a gene. Another, homology-directed repair (HDR), can use a provided DNA template to insert a new sequence with high fidelity.
+
+A. CRISPR-Cas9 is a technology where a gRNA-Cas9 complex is introduced into a cell to make double-strand breaks, which are then repaired by either the NHEJ or HDR pathway.
+B. The CRISPR-Cas9 system modifies genes by first using the Cas9 enzyme to locate a target sequence, which then allows an engineered guide RNA molecule to create a double-strand break for editing.
+C. Utilizing a guide RNA to direct the Cas9 enzyme to a specific genomic locus, the CRISPR-Cas9 system induces a double-strand break that leverages the cell's own repair mechanisms to either disable or precisely edit a target gene.
+D. CRISPR-Cas9 functions by creating a gRNA-Cas9 complex that cuts a target gene and then directly inserts a new DNA template into the break, a process known as non-homologous end joining (NHEJ).
+Answer: C
+
+Question 4:
+[Synthesis]
+The student wants to make and support a generalization about linocuts. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Rooftops is a 1935 black-and-white linocut by Japanese American artist Isami Doi. It depicts an everyday scene (a woman hanging laundry up to dry).
+• Field is a 1968 black-and-white linocut by Black American artist Samella Lewis. It features a scene with an explicitly political point of view (a laborer raising his fist in a symbol of liberation).
+• Lino cutting is an inexpensive printmaking technique in which an image is carved onto linoleum tile, which is then painted and stamped onto paper.
+• Artist Paul Flight called lino cutting "an art of the people" for its ease of use.
+
+A. Linocuts can highlight everyday scenes, like a woman hanging laundry up to dry, or explicitly political ones, like a laborer raising his fist in a symbol of liberation.
+B. Artist Paul Flight called lino cutting “an art of the people”; indeed, it is a technique in which an image is carved onto linoleum tile that is then painted and stamped onto paper.
+C. Doi made Rooftops in 1935, while Lewis made Field later, in 1968.
+D. Rather than reflecting an explicitly political point of view, the linocut Rooftops depicts a tranquil, everyday scene of a woman hanging laundry up to dry.
+Answer: A
+
+Question 5:
+[COE]
+Which choice most effectively uses information from the given sentences to make and support a generalization about symbols on flags?
+
+While researching a topic, a student has taken the following notes:
+• Vexillology is the study of flags.
+• The flags of many countries include symbols like animals, plants, or landforms.
+• These symbols often represent an aspect of the region’s history, culture, or landscape.
+• The flag of Kazakhstan includes an eagle.
+• The flag of Slovenia includes Triglav mountain.
+
+A. Many countries feature symbols on their flags, and the study of these designs is known as vexillology.
+B. Kazakhstan’s flag includes an eagle, a symbol that is important to that country’s national identity.
+C. Vexillology is the study of flags; accordingly, vexillologists are interested in flags from around the world.
+D. The flags of some countries include symbols of animals; Kazakhstan’s, for example, includes an eagle.
+Answer: D
+
+Question 6:
+[Synthesis]
+The student wants to paraphrase a quotation from Champ and Freeman to explain the inefficiency of barter economies. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes.
+• Grain was used as commodity money in ancient Sumer.
+• In a commodity money economy, specific goods act as a common unit of monetary exchange that can be used to buy and sell other goods.
+• In a barter economy, goods are traded directly between parties without the use of money.
+• Economists Bruce Champ and Scott Freeman: bartering requires that 'the person with whom you wish to trade must not only have what you want but also want what you have. The inefficiency is apparent; a great deal of time is spent merely finding someone with whom to trade.'
+• Champ and Freeman: when 'individuals might come to accept one particular good in exchange for other goods even if they do not wish to consume that good...barter economies essentially become monetary economies.'
+
+A. According to Champ and Freeman, the inefficiencies of barter economies become apparent when goods are traded between parties without the use of money.
+B. The precise alignment of desires that barter economies require, Champ and Freeman contend, makes them inefficient.
+C. In a barter economy, Champ and Freeman contend, goods are traded directly between parties without the use of money, leading to inefficiency.
+D. Champ and Freeman argue that inefficient barter economies can become monetary economies if a good becomes a unit of exchange.
+Answer: B
+
+Question 7:
+[Synthesis]
+The student wants to describe the study's research methodology. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• In a 2010 study, researchers Katrin Heer, Larissa Albrecht, and Elisabeth K.V. Kalko wanted to explore the effects of ingestion by bats on the germination of Ficus obtusifolia seeds in Panama.
+• The team of researchers tested 120 Ficus obtusifolia seeds that had been ingested by Jamaican fruit bats.
+• Of these, 111 seeds (93%) germinated.
+• As a control, K. Heer et al. tested 120 Ficus obtusifolia seeds that had not been ingested by Jamaican fruit bats.
+• Of these, 116 seeds (97%) germinated.
+
+A. In the study, a lower percentage of Ficus obtusifolia seeds ingested by bats germinated than those that had not been ingested.
+B. The team of researchers tested the germination of 120 Ficus obtusifolia seeds that had been ingested by Jamaican fruit bats and 120 Ficus obtusifolia seeds that had not been ingested.
+C. K. Heer et al. wanted to explore the effects of Jamaican fruit bats' ingestion on Ficus obtusifolia seed germination.
+D. Research by K. Heer et al. revealed that 111 of 120—that is, 93%—of the Ficus obtusifolia seeds that had been ingested by Jamaican fruit bats germinated.
+Answer: B
+
+Question 8:
+[Synthesis]
+The student wants to present cultural analysis to an audience unfamiliar with the concept. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Emphasis analysis and cultural analysis are two approaches to art criticism.
+• Emphasis analysis examines how visual elements are weighted in an artwork’s composition.
+• Such an analysis of Anne Vallayer-Coster’s Still Life with Lobster might consider how the painting’s sharply contrasting colors place primary emphasis on the lobster in the foreground.
+• Cultural analysis considers the cultural trends, beliefs, and values of an artwork’s time.
+• Such an analysis of Pablo Picasso’s Les Demoiselles d’Avignon might consider how the painting’s portrayal of fragmented human figures challenged conventions of beauty during a time of cultural upheaval (early twentieth century).
+
+A. An approach to art criticism, cultural analysis considers the cultural trends, beliefs, and values of an artwork’s time.
+B. An emphasis analysis of Still Life with Lobster might consider how the painting’s sharply contrasting colors place primary emphasis on the lobster in the foreground.
+C. Les Demoiselles d’Avignon's portrayal of fragmented human figures challenged conventions of beauty during a time of cultural upheaval (early twentieth century).
+D. Emphasis analysis differs from cultural analysis in that emphasis analysis examines how visual elements are weighted in an artwork’s composition.
+Answer: A
+
+Question 9:
+[Synthesis]
+The student wants to explain how soap removes a surface contaminant. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+Notes taken by a student:
+• Soap forms as the result of a chemical reaction between fats and either sodium or potassium hydroxide.
+• One end of a soap molecule is hydrophobic (water repelling), and one end is hydrophilic (water attracting).
+• The hydrophobic ends of soap molecules adhere to hydrophobic surface contaminants, such as dirt and oils.
+• The soap molecules form circular structures (micelles) around contaminants.
+• The hydrophilic ends of the molecules encase the micelles in water, lifting the micelles and contaminants off surfaces.
+
+A. Surface contaminants like dirt and oils are hydrophobic, not hydrophilic—meaning they repel water rather than attract it.
+B. Micelles are circular structures created when soap molecules attach themselves to dirt or oils.
+C. To remove dirt from a surface, soap molecules form a circular structure, or micelle, around the contaminant; next, the molecules encase the micelle in water, lifting it—and the dirt—off the surface.
+D. Dirt, an example of a hydrophobic surface contaminant, can be removed from a surface by soap, which forms as the result of a chemical reaction between fats and either sodium or potassium hydroxide.
+Answer: C
+
+Question 10:
+[Synthesis]
+The student wants to emphasize a similarity between the two locations. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The Museu de les Ciències Príncipe Felipe is in Valencia, Spain.
+• It is home to a Foucault pendulum.
+• Vasile Alecsandri National College is in Galați, Romania.
+• It is home to a Foucault pendulum.
+• A Foucault pendulum dangles from a fixed point that ensures the swing path of the pendulum doesn’t change.
+• To an observer, the swing path of a Foucault pendulum appears to change over time because Earth rotates beneath it.
+
+A. Because Earth rotates beneath it, the swing path of the Foucault pendulum at the Museu de les Ciències Príncipe Felipe appears to change over time.
+B. The Museu de les Ciències Príncipe Felipe, which is home to a Foucault pendulum, is in Spain, not Romania.
+C. The Museu de les Ciències Príncipe Felipe in Valencia, Spain, and Vasile Alecsandri National College in Galați, Romania, both house Foucault pendulums.
+D. One Foucault pendulum is in Spain, and the other is in Romania.
+Answer: C
+
+Question 11:
+[Synthesis]
+The student wants to compare the hardness of talc and orthoclase. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.
+• Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.
+• Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.
+• The mineral talc has a Mohs scale number of 1.
+• The mineral calcite has a Mohs scale number of 3.
+• The mineral orthoclase has a Mohs scale number of 6.
+
+A. The Mohs scale of mineral hardness can be used to order calcite, talc, and orthoclase by their ability to scratch other minerals.
+B. Orthoclase can leave visible scratches on talc, which means that orthoclase is harder than talc.
+C. Orthoclase has a higher number than calcite on the Mohs scale of mineral hardness.
+D. A mineral with a Mohs number of 3, like calcite, is harder than one with a Mohs number of 1, like talc.
+Answer: B
+
+Question 12:
+[Synthesis]
+The student aims to write a comprehensive summary explaining the mechanism by which CRISPR-Cas9 is utilized for targeted gene correction. Which choice most effectively synthesizes the relevant information from the notes to achieve this goal?
+
+While conducting research for a dissertation on genetic engineering, a graduate student has compiled the following notes:
+• The CRISPR-Cas9 system, originally identified as an adaptive immune mechanism in prokaryotes, has been repurposed by scientists as a versatile tool for precision genome engineering.
+• The Cas9 protein functions as a molecular scissor, specifically a nuclease, that is capable of inducing a double-strand break (DSB) at a targeted locus within a DNA sequence.
+• The specificity of the Cas9-induced cleavage is dictated by a synthetic single-guide RNA (sgRNA), which contains a ~20-nucleotide sequence complementary to the target DNA.
+• The sgRNA directs the Cas9 protein to the precise genomic location; following the DNA cleavage, the cell's innate DNA repair mechanisms are activated.
+• These repair pathways can be manipulated: Non-homologous end joining (NHEJ) often results in gene knockout, while homology-directed repair (HDR), when a donor template is supplied, can be used for precise gene insertion or correction.
+
+A. Guided by a synthetic single-guide RNA (sgRNA) to a specific DNA locus, the Cas9 nuclease creates a double-strand break, which, in the presence of a donor template, can be resolved by the homology-directed repair (HDR) pathway to achieve precise gene correction.
+B. The CRISPR-Cas9 system achieves precise gene insertion by employing the Cas9 protein to make a cut, which is then repaired by the non-homologous end joining (NHEJ) pathway, a process guided by a complementary DNA template.
+C. Originally an adaptive immune system in prokaryotes, CRISPR-Cas9 involves a Cas9 protein and a single-guide RNA that work together to identify and cleave a target DNA sequence.
+D. The specificity of CRISPR-Cas9 genome engineering is determined by the Cas9 protein, which functions as a molecular scissor that, when complexed with an sgRNA, activates the cell's innate knockout mechanisms for repair.
+Answer: A
+
+Question 13:
+[Synthesis]
+The student wants to indicate how long John Cage’s musical piece will last. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• “Organ²/ASLSP (As Slow as Possible)” is a musical piece by avant-garde composer John Cage.
+• A specially designed automated organ in St. Burchardi Church in Halberstadt, Germany, began playing the piece in 2001.
+• It is scheduled to stop playing the piece in 2640.
+• The performance will last 639 years.
+• It will be the longest continuous musical performance in history.
+
+A. Lasting 639 years, John Cage’s musical piece will be the longest continuous musical performance in history.
+B. “Organ²/ASLSP (As Slow as Possible)” is a musical piece currently being played in St. Burchardi Church in Halberstadt, Germany.
+C. An organ in St. Burchardi Church in Halberstadt, Germany, began playing a musical piece by avant-garde composer John Cage.
+D. John Cage is the composer of the musical piece “Organ²/ASLSP (As Slow as Possible).”
+Answer: A
+
+Question 14:
+[COE]
+Which choice most effectively uses information from the given sentences to make and support a generalization about symbols on currency?
+
+While researching a topic, a student has taken the following notes:
+• Numismatics is the scholarly study of currency, including coins and banknotes.
+• The currency of many nations includes symbolic imagery, such as famous people, buildings, or elements of nature.
+• A country's history, cultural achievements, or natural heritage are often represented by these symbols.
+• A profile of George Washington is featured on the United States quarter.
+• A depiction of a common loon is featured on Canada's one-dollar coin.
+
+A. The study of coin design, known as numismatics, examines the symbols many countries place on their currency.
+B. The common loon featured on Canada's one-dollar coin is a symbol that is significant to the nation's natural heritage.
+C. Numismatics is the study of currency; consequently, numismatists are interested in currency from all over the world.
+D. The inclusion of notable figures is a symbolic feature on some countries' currency; for example, the US quarter features a profile of George Washington.
+Answer: D
+
+Question 15:
+[COE]
+The student wants to explain the principle summarized by the phrase “survival of the fittest.” Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+Charles Darwin was an English naturalist and geologist.
+He published his groundbreaking book *On the Origin of Species* in 1859.
+The theory of evolution by natural selection is a foundational concept in modern biology.
+The theory is often summarized by the phrase “survival of the fittest.”
+“Survival of the fittest” means that an organism's traits should be well-suited to its environment to increase its chances of surviving and reproducing.
+
+A. According to the theory of evolution, an organism's chances of surviving and reproducing (fitness) are primarily determined by how well its traits are suited to its environment.
+B. Charles Darwin was an English naturalist who proposed the theory of evolution, often summarized by the principle of “survival of the fittest.”
+C. Often summarized as “survival of the fittest,” the theory of evolution is a foundational concept in modern biology.
+D. An organism's traits and its environment are two elements of the biological principle “survival of the fittest.”
+Answer: A
+

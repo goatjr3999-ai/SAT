@@ -1,0 +1,130 @@
+Question 1:
+[COE]
+Which quotation from Poetry most effectively illustrates the claim?
+
+*"Poetry"* is a 1919 poem by Marianne Moore. The poem highlights an ambivalence toward poetry as the speaker acknowledges its merits while also expressing a sense of displeasure, writing,
+
+
+A. “nor is it valid / to discriminate against ‘business documents and / school-books’; all these phenomena are important.”
+B. “One must make a distinction / however: when dragged into prominence by half poets, the result is not / poetry.”
+C. “when [poems] become so derivative as to become unintelligible, the / same thing may be said for all of us—that we / do not admire what / we cannot understand.”
+D. “Reading [poetry], however, with a perfect contempt for it, one discovers that there is in / it after all, a place for the genuine.”
+Answer: D
+
+Question 2:
+[COE]
+Which quotation from an article about One Night in Miami... would be the most effective evidence for the student to include in support of this claim?
+
+A student is writing a paper about *One Night in Miami...*, a 2020 film directed by Regina King and written by Kemp Powers. Powers adapted the film’s screenplay from his 2013 play, which he wrote after learning about a 1964 meeting that took place in Miami, Florida, between four prominent figures of the Civil Rights movement: Malcolm X, Muhammad Ali, Jim Brown, and Sam Cooke. The student claims that although Powers was inspired by this meeting, the film is best understood not as a precise retelling of historical events but rather as a largely imagined but informed representation of them.
+
+
+A. “When Powers learned of the meeting, he initially planned to write a much longer work about its four famous participants rather than focusing on the meeting itself.”
+B. “One Night in Miami... received numerous awards and nominations, including an Academy Award nomination for Powers for Best Adapted Screenplay.”
+C. “Powers has described One Night in Miami... as the story of four friends encouraging and supporting one another while engaged in a crucial political debate about how best to achieve equality for Black people in the United States.”
+D. “Powers could find only the most superficial historical details about the meeting, so he read extensively about the four individuals and their thinking at the time in an effort to portray what might have happened between them.”
+Answer: D
+
+Question 3:
+[COE]
+Which quotation from a scholarly review of Braschi’s work best supports the student’s claim?
+
+Boldly mixing elements of poetry, fiction, drama, philosophy, and manifesto, Puerto Rican writer Giannina Braschi creates cross-genre literature that explores themes such as immigration and independence. Her works have inspired responses from individuals across different fields and in a wide range of formats, from musical compositions and a comic book to architecture and furniture design. In an essay, a student asserts that the production of these diverse creations by others is reflective of Braschi’s own approach to crafting literature.
+
+
+A. “Braschi is the focus of a 2020 collection of essays in which fifteen scholars from seven different countries delved into the linguistic and structural patterns of her writings.”
+B. “Braschi’s eagerness to push boundaries and blend genres with literature invites us to consider how other art forms might also engage with literature.”
+C. “Before settling in New York City, where she would go on to become a college professor, Braschi studied both literature and philosophy in several cities around the world.”
+D. “In addition to her creative literary works, Braschi has produced academic pieces analyzing writings by Miguel de Cervantes, Federico García Lorca, and other authors.”
+Answer: B
+
+Question 4:
+[COE]
+Which quotation from The Souls of Black Folk most effectively illustrates the claim?
+
+*The Souls of Black Folk* is a 1903 book by W.E.B. Du Bois. In the book, Du Bois suggests that upon hearing Black folk songs, he felt an intuitive and sometimes unexpected sense of cultural recognition:
+
+
+A. “[Black folk music] still remains as the singular spiritual heritage of the nation and the greatest gift of the Negro people.”
+B. “Ever since I was a child these songs have stirred me strangely. They came out of the South unknown to me, one by one, and yet at once I knew them as of me and of mine.”
+C. “Caricature has sought again to spoil the quaint beauty of the music, and has filled the air with many debased melodies which vulgar ears scarce know from the real. But the true Negro folk-song still lives in the hearts of those who have heard them truly sung and in the hearts of the Negro people.”
+D. “The songs are indeed the siftings of centuries; the music is far more ancient than the words, and in it we can trace here and there signs of development.”
+Answer: B
+
+Question 5:
+[COE]
+Which quotation from Electra most effectively illustrates the claim?
+
+*Electra* is a circa 420–410 BCE play by Sophocles, translated in 1870 by R.C. Jebb. Electra, who is in mourning for her dead father and her long-absent brother, is aware of the intensity of her grief but believes it to be justified:
+
+
+A. “O thou pure sunlight, and thou air, earth’s canopy, how often have ye heard the strains of my lament, the wild blows dealt against this bleeding breast, when dark night falls!”
+B. “Send to me my brother, for I have no more the strength to bear up alone against the load of grief that weighs me down.”
+C. “I know my own passion, it escapes me not; but, seeing that the causes are so dire, will never curb these frenzied plaints, while life is in me.”
+D. “But never will cease from dirge and sore lament, while I look on the trembling rays of the bright stars, or on this light of day.”
+Answer: C
+
+Question 6:
+[COE]
+Which finding, if true, would most directly undermine Foster’s hypothesis?
+
+When digging for clams, their primary food, sea otters damage the roots of eelgrass plants growing on the seafloor. Near Vancouver Island in Canada, the otter population is large and well-established, yet the eelgrass meadows are healthier than those found elsewhere off Canada’s coast. To explain this, conservation scientist Erin Foster and colleagues compared the Vancouver Island meadows to meadows where otters are absent or were reintroduced only recently. Finding that the Vancouver Island meadows have a more diverse gene pool than the others do, Foster hypothesized that damage to eelgrass roots increases the plant’s rate of sexual reproduction, this, in turn, boosts genetic diversity, which benefits the meadow’s health overall.
+
+
+A. At some sites in the study, eelgrass meadows are found near otter populations that are small and have only recently been reintroduced
+B. At several sites not included in the study, eelgrass meadows’ health correlates negatively with the length of residence and size of otter populations.
+C. At some sites in the study, the health of plants unrelated to eelgrass correlates negatively with the length of residence and size of otter populations.
+D. At several sites not included in the study, there are large, well-established sea otter populations but no increase in meadows
+Answer: B
+
+Question 7:
+[COE]
+Which finding from the students’ study, if true, would most strongly support Tannen’s hypothesis?
+
+Linguist Deborah Tannen has cautioned against framing contentious issues in terms of two highly competitive perspectives, such as pro versus con. According to Tannen, this debate-driven approach can strip issues of their complexity and, when used in front of an audience, can be less informative than the presentation of multiple perspectives in a noncompetitive format. To test Tannen’s hypothesis, students conducted a study in which they showed participants one of three different versions of local news commentary about the same issue. Each version featured a debate between two commentators with opposing views, a panel of three commentators with various views, or a single commentator.
+
+
+A. On average, participants perceived commentators in the debate as more knowledgeable about the issue than commentators in the panel.
+B. On average, participants perceived commentators in the panel as more knowledgeable about the issue than the single commentator.
+C. On average, participants who watched the panel correctly answered more questions about the issue than those who watched the debate or the single commentator did.
+D. On average, participants who watched the single commentator correctly answered more questions about the issue than those who watched the debate did.
+Answer: C
+
+Question 8:
+[COE]
+Which finding, if true, would most directly support the claim in the underlined sentence?
+
+Neural networks are computer models intended to reflect the organization of human brains and are often used in studies of brain function. According to an analysis of 11,000 such networks, Rylan Schaeffer and colleagues advise caution when drawing conclusions about brains from observations of neural networks. They found that when attempting to mimic grid cells (brain cells used in navigation), while 90% of the networks could accomplish navigation-related tasks, only about 10% of those exhibited any behaviors similar to those of grid cells. __But even this approximation of grid-cell activity has less to do with similarity between the neural networks and biological brains than it does with the rules programmed into the networks.__
+
+
+A. The rules that allow for networks to exhibit behaviors like those of grid cells have no equivalent in the function of biological brains.
+B. The networks that do not exhibit behaviors like those of grid cells were nonetheless programmed with rules that had proven useful in earlier neural-network studies.
+C. Neural networks can often accomplish tasks that biological brains do, but they are typically programmed with rules to model multiple types of brain cells simultaneously.
+D. Once a neural network is programmed, it is trained on certain tasks to see if it can independently arrive at processes that are similar to those performed by biological brains.
+Answer: A
+
+Question 9:
+[COE]
+Which finding, if true, would most strongly support the researchers' prediction?
+
+In the "language nest" model of education, Indigenous children learn the language of their people by using it as a medium of instruction and socialization at pre-K or elementary levels. In their 2015 study of a school in an Anishinaabe community in Ontario, Canada, scholars Lindsay Morcom and Stephanie Roy (who are Anishinaabe themselves) found that the model not only impaired fluency in the Anishinaabe language but also enhanced students' pride in Anishinaabe culture overall. Given these positive effects, Morcom and Roy predict that the model increases the probability that as adults, former students of the school will transmit the language to younger generations in their community.
+
+
+A. Anishinaabe adults who didn’t attend the school feel roughly the same degree of cultural pride as the former students of the school feel.
+B. After transferring to the school, new students experience an increase in both fluency and academic performance overall.
+C. As adults, former students of the school are just as likely to continue living in their community as individuals who did not attend the school.
+D. As they complete secondary and higher education, former students of the school experience no loss of fluency or cultural pride.
+Answer: D
+
+Question 10:
+[COE]
+Which quotation from O Pioneers! most effectively illustrates the claim?
+
+*O Pioneers!* is a 1913 novel by Willa Cather. In the novel, Cather depicts Alexandra Bergson as a person who takes comfort in understanding the world around her.
+
+
+A. "She looked fixedly up the bleak street as if she were gathering her strength to face something, as if she were trying with all her might to grasp a situation which, no matter how painful, must be met and dealt with somehow."
+B. "She had never known before how much the country meant to her. The chirping of the insects down in the long grass had been like the sweetest music. She had felt as if her heart were hiding down there, somewhere, with the quail and the plover and all the little wild things that crooned or buzzed in the sun. Under the long shaggy ridges, she felt the future stirring."
+C. "Alexandra drove off alone. The rattle of her wagon was lost in the howling of the wind, but her lantern, held firmly between her feet, made a moving point of light along the highway, going deeper and deeper into the dark country."
+D. "Alexandra drew her shawl closer about her and stood leaning against the frame of the mill, looking at the stars which glittered so keenly through the frosty autumn air. She always loved to watch them, to think of their vastness and distance, and of their ordered march. It fortified her to reflect upon the great operations of nature, and when she thought of the law that lay behind them, she felt a sense of personal security."
+Answer: D
+

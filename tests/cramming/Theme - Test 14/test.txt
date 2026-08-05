@@ -1,0 +1,155 @@
+Question 1:
+[COE]
+Which quotation from “The Yellow Wallpaper” most effectively illustrates the claim?
+
+“The Yellow Wallpaper” is a 1892 short story by Charlotte Perkins Gilman. In the story, the narrator expresses mixed feelings about her surroundings: ____
+
+
+A. “This wallpaper has a kind of sub-pattern in a different shade, a particularly irritating one, for you can only see it in certain lights, and not clearly then.”
+B. “By moonlight / the moon shines in all night when there is a moon / I wouldn’t know it was the same paper.”
+C. “I’m really getting quite fond of the big room, all but that horrid [wall] paper.”
+D. “The color is repellant, almost revolting: a smouldering, unclean yellow, strangely faded by the slow turning sunlight.”
+Answer: C
+
+Question 2:
+[COE]
+Which quotation from “The Yellow Wallpaper” most effectively illustrates the claim?
+
+“The Yellow Wallpaper” is a 1892 short story by Charlotte Perkins Gilman. In the story, the narrator describes the unstable nature of the wallpaper: ____
+
+
+A. “By moonlight / the moon shines in all night when there is a moon / I wouldn’t know it was the same paper.”
+B. “I’m really getting quite fond of the big room, all but that horrid [wall] paper.”
+C. “The color is repellant, almost revolting: a smouldering, unclean yellow, strangely faded by the slow turning sunlight.”
+D. “This wallpaper has a kind of sub-pattern in a different shade, a particularly irritating one, for you can only see it in certain lights, and not clearly then.”
+Answer: D
+
+Question 3:
+[COE]
+Which quotation from The Man-Made World: Or, Our Androcentric Culture most effectively illustrates the claim?
+
+*The Man-Made World: Or, Our Androcentric Culture* is a 1911 nonfiction work by Charlotte Perkins Gilman. In the text, the author emphasizes the importance of cultivating individuals rather than comparing them: ____
+
+
+A. "We do not sadly measure the cabbage-stalk by the corn-stalk, and praise the corn for getting ahead of the cabbage — nor incite the cabbage to [imitate] the corn. We nourish both, to its best growth—and are the richer."
+B. "We have but to learn the real elements in humanity; its true powers and natural characteristics."
+C. "What is [the family's] rational development in humanness; in mechanical, mental and social lines."
+D. "That every child on earth shall have right conditions to make the best growth possible to it; that every citizen, from birth to death, shall have a chance to learn all he or she can [absorb], to develop every power that is in them."
+Answer: A
+
+Question 4:
+[COE]
+Which quotation from The Man-Made World; Or, Our Androcentric Culture most effectively illustrates the claim?
+
+*The Man-Made World; Or, Our Androcentric Culture* is a 1911 nonfiction work by Charlotte Perkins Gilman. In the text, the author describes an important way people can honor their ancestors: ______
+
+
+A. "If [the family is the unit of the state]—why not run the state on that basis?"
+B. "Let us look back on our little ancestors the beasts."
+C. "The best thing any of us can do for our ancestors is to be better than they were."
+D. "[Painting] is also a wide field; and cannot be done full justice to within these limits."
+Answer: C
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+The synthesis of novel superheavy elements, such as copernicium (Cn), has led theorists to consider the feasibility of synthesizing all possible chemical compounds. In 2022, Guillermo Restrepo calculated the historical rates at which newly discovered compounds have entered the scientific literature, expanding the "chemical space." __Using a conservative estimate of the number of viable compounds and assuming a doubling of the historical pace of discovery__, Restrepo found that under these hypothetical conditions, all potential compounds could be synthesized and documented by 2050.
+
+
+A. It introduces information that helps explain why the synthesis of superheavy elements has rapidly expanded the chemical space.
+B. It makes a comparison between the past and current rates at which new chemical compounds have entered the scientific literature.
+C. It emphasizes the point implicitly made earlier in the text that human inefficiency is the primary constraint on the expansion of the chemical space.
+D. It provides details about the qualification later in the sentence regarding the prospect of cataloging the full range of possible chemical compounds
+Answer: D
+
+Question 6:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The seventh row of the periodic table contains the superheavy elements, which have yet to be detected in nature. Instead, these highly unstable elements have only ever been seen in a laboratory, ______ as a result of two nuclei being collided into each other in a particle accelerator to achieve nuclear fusion.
+
+
+A. hypothesized
+B. synthesized
+C. subjected
+D. understood
+Answer: B
+
+Question 7:
+[COE]
+Which question would be most useful to answer in determining the validity of the researchers’ claim as it is presented in the text?
+
+Hypothesizing that reliance on smartphones for information retrieval will lead a person to incorrectly remember instances of phone-assisted retrieval as instances of retrieval from memory, researchers asked participants general-knowledge trivia questions, instructing them to answer certain questions using only their smartphone and other questions using only their memory. When surveyed a week later, participants exhibited higher levels of misattribution for answers retrieved in the smartphone condition than for those retrieved in the memory condition, a finding that the researchers claimed supported their hypothesis.
+
+
+A. Were participants as likely to remember the source of their information when asked a week later as they would have been if asked immediately after answering the trivia questions?
+B. Were participants less confident about the accuracy of information they were instructed to retrieve from a smartphone than they were of that retrieved from their own memory?
+C. How did participants attribute information they were instructed to retrieve from a smartphone in instances when they already knew that information independently of their phone?
+D. How likely were participants to answer all the trivia questions correctly in both the smartphone and the memory conditions?
+Answer: C
+
+Question 8:
+[Infer]
+Which choice most logically completes the text?
+
+Mariana Lopes Barata and Pedro Simões Coelho collected data from 324 music-streaming service users to identify factors that influence users to opt for paid (premium) versions of music streaming services, like Spotify. They hypothesized that performance expectancy (how much the use of a service is perceived to benefit the consumer) would be positively correlated with users’ intentions to adopt premium versions. The researchers asked participants to rate statements such as “Overall, a paid music streaming service is advantageous.” They found that, indeed, performance expectancy positively influences the intention to adopt premium streaming service versions, which suggests that ______.
+
+
+A. users’ intentions to pay for premium streaming services are probably unaffected by factors other than performance expectancy.
+B. participants who strongly agreed with the statement “Overall, a paid music streaming service is advantageous” were more likely to express loyalty to Spotify than to other streaming services.
+C. the statement “Overall, a paid music streaming service is advantageous” is not a reliable measure of performance expectancy.
+D. it may be advantageous for music streaming companies to try to influence the extent to which potential users perceive the use of the premium version to be beneficial.
+Answer: D
+
+Question 9:
+[COE]
+Which quotation from a music streaming platform user would best illustrate Walsh’s finding?
+
+Many music streaming services also function as social media platforms: by giving users the option to follow friends and share curated playlists or information about their listening history, these platforms allow people to convey their music preferences and listening activities directly to their social networks. In a 2023 study, researcher Michael James Walsh interviewed frequent users of a popular music streaming platform to investigate how its social media dimensions shape their listening habits. Walsh found that these dimensions tended to make study participants feel more mindful of how their listening activities may be perceived, which in turn influenced how they managed those activities.
+
+
+A. “Listening to music through a streaming platform feels a lot more passive, since I don’t need to make any deliberate choices about what music I’m going to consume, like I do when buying digital downloads or records and CDs.”
+B. “When I create playlists or choose songs to listen to, I often pick songs that I think the friends who are following me might be interested in listening to, rather than what I might actually prefer listening to in that moment.”
+C. “Because the predictions the platform makes about what new songs I might like depend on my past listening habits, at times its recommendations can feel overly repetitive and unvarying.”
+D. “The social aspects of music streaming make it really easy to create a sense of a shared listening experience with my friends, even if we aren’t in the same room.”
+Answer: B
+
+Question 10:
+[Infer]
+Which choice most logically completes the text?
+
+Mariana Lopes Barata and Pedro Simões Coelho collected data from 324 music-streaming service users to identify factors that influence users to opt for paid (premium) versions of music streaming services, like Spotify. They hypothesized that performance expectancy (how much the use of a service is perceived to benefit the consumer) would be positively correlated with users' intentions to adopt premium versions. The researchers asked participants to rate statements such as "I find paid music streaming services useful in my daily life." They found that, indeed, performance expectancy positively influences the intention to adopt premium streaming service versions, which suggests that _____
+
+
+A. music streaming services that want to increase their number of prospective premium users should increase the degree to which users perceive the use of the premium version to be beneficial
+B. participants who strongly agreed with the statement "I find paid music streaming services useful in my daily life" were more likely to express loyalty to Spotify than to other streaming services.
+C. users' intentions to pay for premium streaming services are probably unaffected by factors other than performance expectancy
+D. the statement "I find paid music streaming services useful in my daily life" is not a reliable measure of performance expectancy
+Answer: A
+
+Question 11:
+[Infer]
+Which choice most logically completes the text?
+
+The advent of online streaming has led many music listeners to drift away from ownership of music (through downloads or through physical media such as compact discs) in favor of the streaming services Apple Music and AccuRadio, among others. Luis Aguiar studied the effect of the 2011 implementation of a restriction on the free version of the French streaming service Deezer: its unlimited usage was reduced to five hours a month, while the paid premium version’s usage remained unlimited. Aguiar found that listeners who used the free service visited licensed online music sellers (e.g., the iTunes store) and sites that make unlicensed music available to download about 2% less after the restriction was implemented, suggesting that _____.
+
+
+A. consumers are unlikely to purchase physical copies of music that is readily available through streaming.
+B. restrictions on the amount of music that can be streamed may actually suppress users’ interest in owning music.
+C. most users of the free streaming service were probably encouraged by the restriction to move to a paid version of the service with unlimited, ad-free listening.
+D. the implementation of the restriction reduced the overall number of users of the streaming service.
+Answer: B
+
+Question 12:
+[Infer]
+Which choice most logically completes the text?
+
+The advent of online streaming has led many music listeners to drift away from ownership of music (through downloads or through physical media such as compact discs) and toward the streaming services Apple Music and AccuRadio, among others. Datta et al. studied the impact of this change on the variety of music that listeners consume. The researchers reasoned that the ownership model of music assigns a cost per song to acquiring a variety of music, while streaming services typically charge a flat fee for access to an entire music catalog, making variety free, which suggests that ______
+
+
+A. music publishers who choose to forgo releasing music on physical media are likely to see little or no change in revenue.
+B. listeners who use streaming services are more likely to give physical copies of music as gifts to others than they are to purchase copies for themselves.
+C. listeners who prefer to purchase compact discs rather than use a service such as Apple Music tend to listen to a greater variety of music in addition to spending more time listening to music.
+D. listeners who use streaming services are more likely to listen to music whose value they perceive to be below the price of ownership than are listeners who do not use such services.
+Answer: D

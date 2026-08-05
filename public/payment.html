@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <title>Thanh toán nâng cấp</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="lockdown.js"></script>
+  <link rel="icon" type="image/png" href="/images/logo.webp" />
+</head>
+<body class="payment-page">
+    <a href="index.html" class="sigma-logo-top payment-logo">
+    <img src="/images/logo.webp" alt="GlorySAT logo" class="sigma-logo-img" />
+    <span class="sigma-logo-text">GlorySAT</span>
+  </a>
+  <div class="payment-card">
+    <h1>Thanh toán nâng cấp</h1>
+    <p>Quét mã QR để hoàn tất thanh toán gói GLORY.</p>
+    <div class="plan-chip" id="plan-chip">Đăng kí 1 tháng · 79.000đ</div>
+
+    <div class="qr-wrapper">
+      <img id="qr-image" src="/images/qr.png" alt="Mã QR thanh toán" class="qr-image" />
+    </div>
+
+    <div class="payment-note" id="payment-instructions">
+      <p>Đang tải thông tin thanh toán...</p>
+    </div>
+  </div>
+
+  <script>
+    const planChip = document.getElementById("plan-chip");
+    const qrImage = document.getElementById("qr-image");
+    const paymentInstructions = document.getElementById("payment-instructions");
+    const params = new URLSearchParams(window.location.search);
+    const plan = params.get("plan") || "month";
+
+    const planMap = {
+      month: { label: "Đăng kí 1 tháng", price: "79.000đ", amount: 79000 },
+      quarter: { label: "Đăng kí 3 tháng", price: "150.000đ", amount: 150000 },
+      free: { label: "Gói miễn phí", price: "0đ", amount: 0 },
+    };
+
+    const planInfo = planMap[plan] || planMap.month;
+    if (planChip) {
+      planChip.textContent = `${planInfo.label} · ${planInfo.price}`;
+    }
+
+    let paymentData = null;
+
+    let upgradePollingId = null;
+
+    async function checkUpgradeAndRedirect() {
+      try {
+        const response = await fetch("/api/payments/upgrade-match", { cache: "no-store" });
+        if (!response.ok) return;
+
+        const data = await response.json();
+        if (data?.matched) {
+          sessionStorage.setItem("show-upgrade-success-popup", "1");
+          window.location.href = "/index";
+        }
+      } catch (error) {
+        console.error("Không thể kiểm tra nâng cấp tài khoản", error);
+      }
+    }
+
+
+    function renderInstructions() {
+      if (!paymentInstructions) return;
+
+      if (plan === "free") {
+        paymentInstructions.innerHTML =
+          "<p>Bạn đang ở gói miễn phí. Không cần thanh toán.</p>";
+        return;
+      }
+
+    paymentInstructions.innerHTML = `
+  <div style="line-height: 1.7; font-size: 15px;">
+    <p style="margin-bottom: 10px;">
+      Bạn có thể quét mã QR ở trên hoặc chuyển khoản theo:
+    </p>
+
+    <ul style="margin-left: 20px; margin-bottom: 10px;">
+      <li>Số tài khoản: <strong>${paymentData?.account?.number || "---"}</strong></li>
+      <li>Ngân hàng: <strong>${paymentData?.account?.bank || "---"}</strong></li>
+      <li>Nội dung chuyển khoản: <strong>${paymentData?.transferInfo || paymentData?.code || "---"}</strong></li>
+    </ul>
+
+    <p>
+      Sau khi chuyển khoản mà bạn chưa thấy tài khoản được cập nhật, vui lòng nhắn tin qua
+      <a 
+        href="https://www.threads.com/@glory.sat?igshid=NTc4MTIwNjQ2YQ==" 
+        target="_blank" 
+        rel="noopener noreferrer"
+        style="color: #007bff; text-decoration: underline;"
+      >
+        Threads
+      </a>
+      hoặc
+      <a 
+        href="https://www.instagram.com/glory.sat?igsh=dDg5Z2cyMjg3djRj" 
+        target="_blank" 
+        rel="noopener noreferrer"
+        style="color: #007bff; text-decoration: underline;"
+      >
+        Instagram
+      </a>.
+    </p>
+  </div>
+`;
+    }
+
+    function renderQr() {
+      if (!qrImage) return;
+      if (!paymentData?.qrUrl) return;
+      qrImage.src = paymentData.qrUrl;
+    }
+
+    async function fetchPaymentIntent() {
+      try {
+        const response = await fetch("/api/payments/pro-intent", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ plan }),
+        });
+        if (!response.ok) throw new Error("Không lấy được thông tin thanh toán");
+        const data = await response.json();
+        paymentData = data;
+        if (data?.amount && planChip) {
+          const formatted = new Intl.NumberFormat("vi-VN").format(data.amount);
+          planChip.textContent = `${planInfo.label} · ${formatted}đ`;
+        }
+      } catch (error) {
+        console.error(error);
+      } finally {
+        renderQr();
+        renderInstructions();
+      }
+    }
+
+    fetchPaymentIntent();
+    checkUpgradeAndRedirect();
+    upgradePollingId = window.setInterval(checkUpgradeAndRedirect, 3000);
+
+    window.addEventListener("beforeunload", () => {
+      if (upgradePollingId) window.clearInterval(upgradePollingId);
+    });
+    </script>
+  </body>
+
+</html>

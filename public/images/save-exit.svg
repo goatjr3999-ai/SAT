@@ -1,0 +1,21 @@
+<!-- Exit icon – thin black stroke (1.2), taller + arrow tail sticks out a bit -->
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 24 24" fill="none">
+  <!-- Door/frame (a bit taller) -->
+  <path d="M9 3.5
+       H16
+       C18.209 3.5 20 5.291 20 7.5
+       V16.5
+       C20 18.709 18.209 20.5 16 20.5
+       H9" stroke="#000" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"></path>
+  <!-- Left brackets -->
+  <path d="M9 3.5
+       C6.791 3.5 5 5.291 5 7.5
+       V9.2" stroke="#000" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M5 14.8
+       V16.5
+       C5 18.709 6.791 20.5 9 20.5" stroke="#000" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"></path>
+
+  <!-- Arrow (tail slightly outside left) -->
+  <path d="M4.2 12H12.9" stroke="#000" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M10.7 8.9L13.8 12L10.7 15.1" stroke="#000" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>

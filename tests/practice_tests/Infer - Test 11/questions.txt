@@ -1,0 +1,129 @@
+Question 71:
+[Infer]
+Which choice most logically completes the text?
+
+In September of 1989, Indonesia liberalized its stock market, meaning that it began allowing foreign individuals and businesses to invest money in Indonesian companies. This was part of a wave of stock market liberalizations around the world—Jamaica in 1991, Nigeria in 1995, and so on. The standard view among economists at the time was that liberalization would make it easier for companies to raise money from investors. Economist Peter Blair Henry examined the economies of 11 countries that were part of the liberalization wave and found that, on average, companies based in those countries received significant increases in investment in the three years following liberalization, suggesting that ______.
+
+
+A. Companies in Jamaica experienced a greater increase in investment following liberalization than did companies in Indonesia.
+B. Companies in the countries Henry studied did not benefit from liberalization until at least three years after liberalization occurred.
+C. Economists who held the standard view of liberalization failed to anticipate some serious negative effects of liberalization.
+D. Economists’ expectations about the effect of liberalization on investment were largely correct for the countries Henry studied.
+Answer: D
+
+Question 54:
+[Infer]
+Which choice most logically completes the text?
+
+Numerous investigations have identified a positive link between dissolved nitrogen levels and phosphorus in soil samples across European regions. However, a study by Alessandro Moretti, Livia Greco, and Marco Bellini in Italy did not detect this relationship, prompting some researchers to propose that the correlation may be specific to Northern Europe. Yet, several studies outside Northern Europe, including one by Sofia Jensen and her team in Sweden, yielded findings consistent with those from the Northern European studies, while only a few aligned with Moretti, Greco, and Bellini's results, implying that ______
+
+
+A. certain conditions in Jensen and colleagues’ study may have affected accurate phosphorus measurement.
+B. the hypothesis that the positive correlation is exclusive to Northern Europe is accurate.
+C. dissolved nitrogen and phosphorus levels in soil tend to increase and decrease together.
+D. dissolved nitrogen and phosphorus levels in Italian soils are significantly higher than in other regions.
+Answer: C
+
+Question 19:
+[Infer]
+Which choice most logically completes the text?
+
+The Busselton Health Survey (BHS) seeks to discover long-term trends related to public health by compiling and analyzing evidence from approximately 10,000 participants in Australia. As with most longitudinal studies, extensive funding support is needed for BHS to collect the relevant data over timescales and at intervals that will support robust conclusions. But the quality of a more constrained investigation, such as a sociology study seeking only to yield the average age at which people in a given city first become parents, is much less dependent on high levels of funding because ______
+
+
+A. such studies are not trying to identify trends over time.
+B. expanding the scope of such studies is unlikely to be feasible.
+C. the sociology study is unlikely to be able to recruit 10,000 participants.
+D. such studies are likely to be a lower priority for funding than BHS
+Answer: A
+
+Question 68:
+[Infer]
+Which choice most logically completes the text?
+
+Over 600 languages are spoken in New York City in addition to English—one can find Acehnese spoken in the neighborhood of Astoria, or Greek in Auburndale. Many immigrants from north China, where Mandarin is the primary language, reside in the neighborhood of Flushing (part of New York City's borough of Queens) while those who emigrated from south China, where many people speak Cantonese or Fuzhounese as a first language, tend to reside in Chinatown, in the borough of Manhattan. Among speakers of Chinese languages, those in Flushing tend to speak Mandarin as their primary language while those in Chinatown tend to speak Cantonese or Fuzhounese as their primary language. This is most likely because ______.
+
+
+A. taken together, there are more Cantonese and Fuzhounese speakers among Chinese immigrants in New York City than there are Mandarin speakers.
+B. Chinese immigrants regularly change their residences between Queens and Manhattan after they emigrate, rather than staying in one borough.
+C. Chinese immigrants who emigrated to New York City many years ago are more likely to speak several Chinese languages than are more recent Chinese immigrants.
+D. there are geographic differences in primary language within China that are reflected in the settlement patterns of Chinese immigrants in New York City.
+Answer: D
+
+Question 20:
+[Infer]
+Which choice most logically completes the text?
+
+Antonia Olivia Dolan and colleagues had musicians and nonmusicians with clinically average hearing listen to recordings of nature sounds and music in popular genres like classic rock and orchestral and adjust the volume to optimize their listening enjoyment. The researchers found that for a given recording that a musician and nonmusician identified as their favorite among those included in the study, optimal volume tended to be higher for the musician than for the nonmusician. Thus, if a musician and nonmusician both identified Led Zeppelin’s “Whole Lotta Love” as their favorite recording and the musician preferred to listen to it at a volume of 84.8 decibels, the nonmusician would be expected to ______.
+
+
+A. enjoy listening to the nature sounds at 84.8 decibels more than listening to “Whole Lotta Love” at 84.8 decibels.
+B. not find it enjoyable to listen to any recordings at a volume as low as 84.8 decibels.
+C. prefer listening to other music at 84.8 decibels over listening to “Whole Lotta Love” at that volume.
+D. find listening to “Whole Lotta Love” at 84.8 decibels less enjoyable than listening to it at a lower volume.
+Answer: D
+
+Question 21:
+[Infer]
+Which choice most logically completes the text?
+
+Consumers increasingly expect that goods they purchase online will be delivered rapidly, even as soon as the day of purchase. Although efficiencies in long-distance transport of parcels have greatly improved delivery times, last-mile logistics (the final step in delivery to consumers) present a bottleneck for delivery companies. Time pressure resulting from consumer expectations is not the only challenge; other obstacles, such as complex and inefficient delivery routes, persist. While innovations to mitigate these challenges have been emerging—the use of autonomous delivery robots, for instance—success has been constrained due to the additional complications that arise (e.g., robots travel relatively slowly since they must navigate many ground-level obstacles). Consequently, __________.
+
+
+A. delivery companies should invest more funds in proven long-distance transport technologies than in untested last-mile solutions.
+B. in the near term, delivery companies are unlikely to overcome the impediments associated with last-mile logistics.
+C. innovations in last-mile logistics seem poised to increase consumers’ expectations for rapid delivery.
+D. the use of autonomous delivery robots may enable delivery companies to meet consumers’ expectations now but likely is not viable as a permanent solution.
+Answer: B
+
+Question 44:
+[Infer]
+Which choice most logically completes the text?
+
+Episodes in which technologies fall into disuse after a period of adoption, as occurred with the rapid decline of bronze tools and weapons beginning circa 1300 BCE, are informative for understanding the factors shaping technological development in ancient societies. However, it can be unclear whether an absence of artifacts signifies a cultural shift or is merely an effect of gaps in the archaeological record. A dataset of gold objects, including earrings and beads, recovered from Bronze and Iron Age sites at Simagre, Karmir Blur, and other places in the Caucasus reveals a steep drop in the total number of gold artifacts beginning around 1500 BCE in some locations. That this drop represents a genuine instance of cultural change is likely, given that ______.
+
+
+A. there is a positive relationship between the number of gold objects found at Caucasus sites and the sites' respective distances from nearby sources of gold, such as gold ore deposits.
+B. a much larger number of Caucasus sites dating from after 1500 BCE are represented in the dataset than sites dating from before 1500 BCE are.
+C. the proportion of gold objects to other types of objects recovered is significantly higher at Simagre than at Karmir Blur despite the two sites' close proximity.
+D. far fewer gold objects dating to earlier than 1500 BCE have been recovered from sites in the Caucasus than have been recovered from comparably old sites outside the region.
+Answer: B
+
+Question 48:
+[Infer]
+Which choice most logically completes the text?
+
+In recent years, architects have heightened their focus on developing eco-conscious and sustainable buildings, as exemplified by Wyndham Clubhouse, a structure conceived by MIA Design Studio. One way to accomplish this goal is through biophilic design, which seeks to augment occupants' emotional and physical well-being by establishing a coherent relationship among the building, nature, and human biology. Along with using ecologically sensitive construction materials, biophilic designs incorporate organic or biomorphic forms and textures. Curves, therefore, are common design features because they ________
+
+
+A. prioritize practicality over the personal aesthetic preferences of the architect.
+B. are common in building designs in many different regions and cultures.
+C. emphasize the aesthetic distinction between nature and architecture.
+D. are reminiscent of the arcing and contours found among plants and animals.
+Answer: D
+
+Question 34:
+[Infer]
+Which choice most logically completes the text?
+
+Biochemists I. Sam Saguy and Eli J. Pinthus studied the mass and heat transfer processes that occur when foods, such as the Indian snacks makka poha and shankarpali, are fried in oil. During frying, water in the crust evaporates, leaving voids that oil can fill, thereby increasing the food’s fat content. As the process continues, water from the food’s center moves to the crust as long as the crust remains permeable. Therefore, the less moisture a food loses during frying, ____.
+
+
+A. the less the fat content is increased through frying.
+B. the higher the temperature must be to fry the food.
+C. the slower the crust will lose its permeability.
+D. the crispier the crust will be when frying is completed.
+Answer: A
+
+Question 62:
+[Infer]
+Which choice most logically completes the text?
+
+The small white heron and the small dark heron are long-legged birds that live in wetlands, like the Everglades in Florida. Laura D’Acunto and colleagues wanted to know how these birds choose an area in which to live. They looked at features of the birds’ habitats, such as the geographic location of the area and how deep the water is during breeding season. They found that although only small white herons prefer areas with deep water during breeding season, both small white herons and small dark herons prefer areas that have standing water for more than 60 days per year. The researchers therefore concluded that neither species is very drawn to areas where ______.
+
+
+A. there is standing water for far fewer than 60 days per year.
+B. species with breeding seasons longer than 60 days are likely to be present.
+C. there are any features that attract the other species.
+D. there is relatively deep water during the breeding season.
+Answer: A

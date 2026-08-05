@@ -1,0 +1,91 @@
+Question 1:
+The dot plots represent the distributions of values in data sets A and B.
+
+Which of the following statements must be true?
+I. The median of data set A is equal to the median of data set B.
+II. The standard deviation of data set A is equal to the standard deviation of data set B.
+
+A. I and II
+B. I only
+C. II only
+D. Neither I nor II
+Answer: B
+
+Question 2:
+The scatterplot shows the relationship between two variables, x and y. A line of best fit for the data is also shown.
+
+For how many of the 9 data points is the actual y-value greater than the y-value predicted by the line of best fit?
+
+A. {{MATH_1}}
+B. {{MATH_2}}
+C. {{MATH_3}}
+D. {{MATH_4}}
+Answer: C
+
+Question 3:
+On a plot of land, {{MATH_5}}% of the square footage is farmland and the remaining square footage is pasture. There are buildings on exactly {{MATH_6}}% of the square footage of the farmland, and there are buildings on exactly {{MATH_7}}% of the square footage of the pasture. If there are buildings on exactly p% of the square footage of the plot of land, what is the value of p?
+(dien so thap phan)
+Answer: 19.6
+
+Question 4:
+The scatterplot shows data set A, which consists of the weights y, in pounds, of a Labrador retriever puppy at various ages, x, in months. The equation of a line of best fit for the relationship in data set A can be written as {{MATH_9}} , where {{MATH_10}}
+
+The puppy was weighed again at {{MATH_11}} months old and weighed {{MATH_12}} pounds. Data set B consists of all the data points in data set A as well as the data point ({{MATH_13}}, {{MATH_14}}). The equation of a line of best fit for data set B can be written as {{MATH_15}}, where r and s are constants and {{MATH_16}}. Assuming the equations of the lines of best fit are calculated in the same way, which of the following is the best estimate for the value of s?
+
+A. {{MATH_17}}
+B. {{MATH_18}}
+C. {{MATH_19}}
+D. {{MATH_20}}
+Answer: A
+
+Question 5:
+On a plot of land, {{MATH_21}}% of the square footage is farmland and the remaining square footage is pasture. There are buildings on exactly {{MATH_22}}% of the square footage of the farmland, and there are buildings on exactly {{MATH_23}}% of the square footage of the pasture. If there are buildings on exactly p% of the square footage of the plot of land, what is the value of p?
+(dien so thap phan)
+Answer: 20.1
+
+Question 6:
+The scatterplot shows data set A, which consists of the weights y, in pounds, of a Labrador retriever puppy at various ages, x, in months. The equation of a line of best fit for the relationship in data set A can be written as {{MATH_25}}, where {{MATH_26}}
+
+The puppy was weighed again at {{MATH_27}} months old and weighed {{MATH_28}} pounds. Data set B consists of all the data points in data set A as well as the data point ({{MATH_29}}, {{MATH_30}}). The equation of a line of best fit for data set B can be written as {{MATH_31}} , where r and s are constants and {{MATH_32}} . Assuming the equations of the lines of best fit are calculated in the same way, which of the following is the best estimate for the value of s?
+
+A. {{MATH_33}}
+B. {{MATH_34}}
+C. {{MATH_35}}
+D. {{MATH_36}}
+Answer: A
+
+Question 7:
+Two students are playing a game. In the first round, Player 1 answers 49 questions. If an answer is correct, Player 1 earns 1 point. If an answer is incorrect, Player 2 will earn 1 point instead. The graph shows {{MATH_37}} , where y is the number of points Player 2 will earn when x is the number of points Player 1 earns. Which of the following is the best interpretation of the point (49, 0) in this context?
+
+A. When Player 1 earns 49 points, Player 2 will earn 49 points.
+B. When Player 1 earns 49 points, Player 2 will earn 0 points.
+C. When Player 1 earns 0 points, Player 2 will earn 49 points.
+D. When Player 1 earns0 points, Player 2 will earn 0 points.
+Answer: B
+
+Question 8:
+The graph shows the momentum y, in newton-seconds, of an object x seconds after the object started moving, for{{MATH_38}}. What is the average rate of change, in newton-seconds per second, in the momentum of the object from {{MATH_39}} ?
+(dien so thap phan)
+Answer: 1.25
+
+Question 9:
+The manager of a gym selected a sample of 159 members at random to estimate the percentage of the gym's members that would continue to pay for a membership if the price increased. From the survey, the manager estimates that 88% of the gym's members would continue to pay for a membership if the price increased, with an associated margin of error of 5.05%. If the survey is repeated with a random sample of 318 members and the results are calculated in the same way, which of the following will be the most likely effect of using the larger random sample compared to the smaller random sample?
+
+A. The margin of error will be lower.
+B. The margin of error will be higher.
+C. The estimate of the percentage of the gym's members that would continue to pay for a membership if the price increased will be lower.
+D. The estimate of the percentage of the gym's members that would continue to pay for a membership if the price increased will be higher.
+Answer: A
+
+Question 10:
+The maximum temperature on April 1. in degrees Fahrenheit (°F), was recorded each year at a certain weather station for 11 years. The histogram summarizes the recorded data set.
+
+The temperature of {{MATH_41}} °F is removed from this data set to create a new data set of 10 temperatures. Which of the following statements must be true?
+I.The mean of the new data set is less than the mean of the original data set.
+II.The median of the new data set is less than the median of the original data set.
+
+A. I only
+B. II only
+C. I and II
+D. Neither I nor II
+Answer: A

@@ -1,0 +1,403 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Contesting claims that the massive increase in patents in recent decades has been ______ a rise in technological innovation, Yuen Ang et al. show that truly novel patents—those, like a 2004 patent for a robot with flexible structures, that combine previously unaffiliated technological domains—have been vastly outnumbered by nonnovel patents (e.g., a 2011 patent for a mobile-phone holder).
+
+
+A. occluded by
+B. dissociated with
+C. tantamount to
+D. misconstrued as
+Answer: C
+
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Exploring labels from obsolete pharmaceuticals, formulas from early 20th-century chemistry sets, and brochures for discontinued chemical products might appear to be a trivial endeavor, yet ephemeral items like these serve as indicators of scientific progress: they can ____ in norms, scientific practices, and issues that more conventional scientific artifacts might overlook.
+
+
+A. register
+B. vindicate
+C. preclude
+D. induce
+Answer: A
+
+
+Question 3:
+[WIC]
+As used in the text, what does the word “manifest” most nearly mean?
+
+The following text is adapted from Virginia Woolf’s 1919 novel *Night and Day*. Katharine is the granddaughter of a celebrated poet.
+“[Katharine’s] descent from [a celebrated poet] was no surprise to her, but matter for satisfaction, until, as the years wore on, certain drawbacks made themselves very __manifest__. Perhaps it is a little depressing to inherit not lands but an example of intellectual virtue; perhaps the conclusiveness of a great ancestor is a little discouraging to those who run the risk of comparison with him.”
+
+
+A. Possible
+B. Evident
+C. Complex
+D. Particular
+Answer: B
+
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Suleiman A. Al-Sweedan and Moath Alhaj's research into the effects of living below sea level on blood chemistry was motivated by their belief that the ______ scientific focus on high-altitude effects has overshadowed other important environmental factors, such as those experienced in California's Niland and Heber.
+
+
+A. pragmatic
+B. empirical
+C. outsized
+D. meticulous
+Answer: C
+
+
+Question 5:
+[COE]
+Which choice best describes the main purpose of the text?
+
+The following text is from Louise Erdrich’s 1986 novel The Beet Queen. The narrator discusses her relationship with her young niece, Dot. Celestine, the narrator’s sister-in-law, is Dot’s mother.
+Dot and I had a mental connection, I was sure of it. I understood things about the baby that her mother could not accept. For instance, she was never meant to be a baby. Dot was as impatient with babyhood as I. She tried at once to grow out of it. Celestine never saw that, because she, and only she, took pleasure in Dot’s helpless softness. Only Celestine was saddened by her daughter’s fierce progress. Day by day, Dot grew stronger in her shopping cart stroller she exercised to exhaustion, bouncing for hours to develop her leg muscles.
+© 1995 by Louise Erdrich
+
+
+A. To present the narrator’s belief that she understands Dot better than Celestine does
+B. To speculate that when Dot is older, her personality will be like Celestine’s
+C. To discuss what the narrator and Celestine do to amuse Dot
+D. To compare the narrator’s physical appearance to the physical appearance of Celestine
+Answer: A
+
+
+Question 6:
+[Cross Text]
+Based on the texts, the author of Text 2 would most like to know the answer to which question about Cruz and colleagues' study that is not addressed in Text 1?
+
+Text 1:
+The University of California, Irvine, and the online class provider edX are two of the many institutions offering training programs in entrepreneurship. But what results do such programs produce? In a study of businesspeople in Spain, researcher Natalia Cruz and colleagues addressed this question and reported that participants who received entrepreneurial training showed high innovativeness in entrepreneurial activities.
+Text 2:
+While studies of entrepreneurial training typically report positive results, a close look at these studies reveals widespread methodological shortcomings. This research literature is plagued by unclear hypotheses, insufficient sample sizes, a lack of control groups, and failures to establish pretraining baselines for the measured attributes of participants.
+
+
+A. Did Cruz and colleagues measure any attributes of the participants in the study after they had received the training?
+B. Did the participants that Cruz and colleagues included in the study share any characteristics or life circumstances?
+C. How many Spanish businesspeople did Cruz and colleagues include in the study?
+D. Did Cruz and colleagues compare Spanish businesspeople who received the training with a group of successful entrepreneurs who did not receive the training?
+Answer: C
+
+
+Question 7:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+The following text is from Sara Teasdale’s 1922 poem Two Songs for Solitude.
+"My heart has grown rich with the passing of years,
+ I have less need now than when I was young
+ __to share myself with every comer.
+ Or shape my thoughts into words with my tongue__."
+
+
+A. It explains the speaker’s views about proper conduct toward new acquaintances.
+B. It provides examples of behaviors the speaker is less inclined toward than she once was.
+C. It presents an episode from the speaker’s youth that she remembers fondly.
+D. It emphasizes the social habits the speaker has developed over her lifetime.
+Answer: B
+
+
+Question 8:
+[Structure]
+Which choice best states the main idea of the text?
+
+Mauricio Drelichman and Hans-Joachim Voth’s research into the debt defaults of Philip II (who ruled an empire including Spain and much of Belgium from 1536 to 1539) relates to other work on European early modern state finance, including Hoffman and Norberg’s research on the relationship between state finance and political developments. But Drelichman and Voth’s unique contribution to the field is their reconstruction of the earliest extant set of annual fiscal records for any sovereign state, demonstrating in turn that Philip’s defaults were caused by short-term cash shortages, not long-term unsustainable debts.
+
+
+A. Analysis of the earliest available records of a sovereign state’s finances can be found not in the work of Hoffman and Norberg but in that of Drelichman and Voth.
+B. Drelichman and Voth advanced the field of research on European early modern state finance by assembling a novel collection of evidence that gave them insight into Philip II’s debt defaults.
+C. The research by Drelichman and Voth suggests that the logistics of ruling both Spain and much of Belgium led to short-term problems with cash that forced Philip II to default on his debts.
+D. Drelichman and Voth’s research on Philip II’s debt defaults builds on earlier work by Hoffman and Norberg, adding nuance to the earlier works findings.
+Answer: B
+
+
+Question 9:
+[COE]
+Which statement, if true, would most directly support the underlined claim?
+
+Over the course of the 1900s, more and more Native Hawaiians spoke English instead of the Hawaiian language. To preserve their language, Native Hawaiian teachers founded the ‘Aha Punana Leo preschool in 1984’. They spoke Hawaiian while teaching, and their Native Hawaiian students were soon able to understand and speak it themselves. The school was a huge success. Eventually it opened locations around Hawai‘i and started teaching Hawaiian to elementary and high school students too. __Thanks to Aha Punana Leo, the number of young people who speak the language has increased.__
+
+
+A. Besides Native Hawaiians, tens of thousands of people from other Pacific Islander communities live in Hawai‘i today, including over 37,000 Samoans.
+B. Fewer than fifty children could speak Hawaiian when ‘Aha Punana Leo’ was founded, but now more than 2,000 students at ‘Aha Punana Leo’ speak it.
+C. Hawaiian is very similar to other languages that are spoken on the Polynesian Islands of the Pacific Ocean, including Tulsifam, Samoan, and Maori.
+D. Roughly 680,000 Native Hawaiian people lived in the United States in 2020, and a little less than half of them lived in Hawai‘i.
+Answer: B
+
+
+Question 10:
+[COE]
+According to the text, what did Protas and colleagues focus on in their study?
+
+Meredith E. Protas and colleagues have explored how convergent evolution—a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages—can result from a genetic mechanism shared by both lineages. Meanwhile, Cynthia C. Steiner and colleagues have investigated how convergence occurs through different genetic mechanisms, but the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.
+
+
+A. Convergent traits arising from different genetic mechanisms
+B. Convergent traits arising from a shared genetic mechanism
+C. The convergence of traits in lineages that are not reproductively separate
+D. The relative prevalence of convergent traits emerging through shared and different genetic mechanisms
+Answer: B
+
+
+Question 11:
+[COE]
+Which statement about microbes aboard the ISS is best supported by the information in the text and the table?
+
+Fungal Concentrations in One Dust Sample, by Experimental Treatment
+
+The International Space Station (ISS) is meant to maintain 25%–75% relative humidity (RH) on board. However, routine crew activities such as handwashing can create localized areas of elevated RH. These increases create conditions under which microbial growth can be a concern. Researchers collected dust samples from four ISS vacuum bags, creating three samples from each bag for twelve samples in total. For each sample, fungal concentrations (spore count per mg of dust) were measured for its original condition to be used as a control for comparison with the counts after exposure to 85% and 100% RH.
+
+
+A. In areas of the ISS where crew activities like handwashing frequently occur, fungal spore counts may be difficult to measure.
+B. In areas of the ISS where crew activities like handwashing frequently occur, fungal spore counts in dust might exceed 6,171,000/mg of dust.
+C. Fungal spore counts above 542,300/mg of dust aboard the ISS create problems for crew members.
+D. Fungal growth in dust could be almost entirely prevented aboard the ISS if relative humidity were kept below 50%.
+Answer: B
+
+
+Question 12:
+[COE]
+Which finding, if true, would most directly weaken Schober’s hypothesis?
+
+In what is now southern Florida, the Calusa people (circa 1000–1600 CE) supported their relatively large population’s dietary needs with hydrological engineering rather than terrestrial farming methods. They constructed watercourts (gated coastal enclosures) out of shells and sediments to trap a variety of fish as waters rose and fell with tides and seasonal sea-level shifts; watercourt pools then held the fish for later consumption. Archaeologist Theresa Schober has pointed an additional purpose of these enclosures, suggesting that they were intended to foster conch. She ties this hypothesis to the high value the sea snails would have had for the Calusa, both nutritionally and as a building material (conch shells are highly durable).
+
+
+A. Samples of animal remains collected at Calusa sites reflect a greater diversity of marine species, particularly among sea snails, within the perimeter of watercourts than in locations known to have been devoted to the preparation and consumption of food.
+B. Historical population density estimates suggest that the sea snails and fish most common in the Calusa diet were plentiful in open coastal waters when the watercourts were constructed but decreased in abundance in the years immediately after construction.
+C. Radar surveys of Calusa sites reveal watercourt dimensions suitable for sustaining fish of many local species but not conducive for maintaining the shallow environments with ample seagrass that allow sea snails to thrive.
+D. Sediment layers excavated from Calusa watercourt sites contain heterogeneous mixtures of scales from multiple species of fish and fragments of shells from various types of sea snails, but conch shells do not constitute the majority of the mixture in most of those layers.
+Answer: C
+
+
+Question 13:
+[COE]
+Which choice most effectively uses data from the table to complete the example?
+
+Studies of the population density of cougars (*Puma concolor*) have yielded a range of results, which may in part reflect differences in the effectiveness of the methods that researchers have used in their studies. For example, the difference between the maximum population density reported by Linda L. Sweenor et al. and that reported by David M. Choate et al. might be artificially large if the use of ______.
+
+
+A. radio-collar tracking is impractical outside of New Mexico
+B. radio-collar tracking underestimates the density of cougars
+C. helicopter surveying underestimates the density of cougars
+D. helicopter surveying is more common in Utah than the use of radio-collar tracking is
+Answer: B
+
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Data collected by the Mars rover Curiosity at the Gale Crater’s Murray Formation are suggestive of hydrological deposition of sediment in the distant past. To characterize the nature of the depositional environment, Frances Rivera-Hernández et al. analyzed the grain size of Murray Formation sediment, finding that although there are intervals of coarse grains, most of the sediment consists of fine grains that show signs of cracking due to episodic desiccation. Rivera-Hernández et al. concluded that the coarse grains are sandstone, which tends to be deposited by flowing water, whereas the fine grains are mudstone, which is slowly deposited by settling out of suspension in low-flow water, leading the researchers to posit that _____.
+
+
+A. a lake existed at the Murray Formation for a prolonged period, though the lake occasionally experienced drying and there were periods in which one or more streams were present.
+B. a stream-fed lake was present at the Murray Formation for an extended period, and although the streams experienced occasional drying, the lake did not.
+C. one or more streams existed at the Murray Formation for an extended period until being replaced by a lake that persisted for only a brief period before permanently drying.
+D. although the area of the Murray Formation experienced a prolonged period of dryness that prevented a lake from forming, water flowing from a distant source was present.
+Answer: A
+
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+Exclusively inhabiting tropical countries such as Sierra Leone, wild chimpanzees lack adaptations to seasonal variations in ultraviolet B (UVB) irradiance from sunlight; since UVB exposure enables vertebrates to synthesize vitamin D, this raises questions about how chimpanzees in mid-latitude zoos are affected by the lower and more variable UVB irradiance in those locations. In a study of zoo chimpanzees in Sweden and other mid-latitude countries, Sophie Moittié and colleagues found not only that chimpanzees’ vitamin D levels correlate with UVB irradiance but also that vitamin D levels show no evidence of plateauing as UVB irradiance reaches its highest local levels, suggesting that ______.
+
+
+A. averaged across seasons, vitamin D levels in zoo chimpanzees in mid-latitude countries such as Sweden tend to be comparable to those in wild chimpanzees in tropical countries such as Sierra Leone.
+B. adaptations to seasonal variations in UVB irradiance may be emerging in zoo chimpanzees in Sweden and other mid-latitude countries.
+C. providing supplemental vitamin D to chimpanzees in zoos in Sweden and other mid-latitude countries would likely not be beneficial.
+D. zoo chimpanzees in Sweden and other mid-latitude countries tend to synthesize less vitamin D than they are inherently capable of synthesizing.
+Answer: D
+
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+When attempting to determine a fault's seismic history, geophysicists like Dr. Estella Atekwana at the University of Delaware rely in part on data about the fault's physical dimensions and geological features. For example, data from the US Geological Survey show the ______ and most recent deformation (less than 130 thousand years ago) of the Kawich Range fault in Nye County, Nevada.
+
+
+A. length (30 km), slip rate (less than 0.2 mm/yr),
+B. length, (30 km); slip rate, (less than 0.2 mm/yr);
+C. length, (30 km), slip rate, (less than 0.2 mm/yr),
+D. length (30 km) slip rate (less than 0.2 mm/yr)
+Answer: A
+
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Renewable energy sources have made the generation of sustainable electrical power cheaper than ever. To generate such power by means of wind turbines does raise a significant environmental ______ local regulations stipulate that turbines can be built near wildlife habitats, according to ecologist Marco Gallo, bird populations are not monitored when their migration paths are included in impact studies.
+
+
+A. issue; though
+B. issue: though
+C. issue, though,
+D. issue, though
+Answer: B
+
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Austronesian language family comprises some 1,200 languages—including the ____ Madurese and Bikol, which are spoken by 14 million and 4.6 million speakers, respectively—and accounts for one-fifth of the world’s languages, making it of keen interest to linguists like Diane Massam.
+
+
+A. languages
+B. languages—
+C. languages:
+D. languages,
+Answer: A
+
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Researchers studying how agricultural fertilizers impact grassland arthropod populations have employed several collection methods. A team led by researcher Maria K. Hartley collected arthropods with _____ another research team, led by Kimberly J. La Pierre, gathered them with bug vacuums.
+
+
+A. sweep nets, for instance;
+B. sweep nets; for instance,
+C. sweep nets, for instance,
+D. sweep nets for instance
+Answer: A
+
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Artist Yu Bararrada’s exhibition *Ways to Baffle the Wind* incorporates sculpture, textiles, and film. Bararrada’s pieces, utilizing elements as disparate as plant-dyed fabrics, wire crab traps filled with stones, and cotton balls dangling above a fan, ______ the ways humans attempt to organize and regulate nature.
+
+
+A. has explored
+B. explore
+C. explores
+D. exploring
+Answer: B
+
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The unconventional literary philosophy with which Fernando Pessoa approached his writing is manifested in the Portuguese poet’s "heteronyms," his term for the dozens of fictional personas in whose voices he authored many of his ____ among these personas was Ricardo Reis, author of classical odes in a Horatian style.
+
+
+A. works and,
+B. works;
+C. works and
+D. works,
+Answer: B
+
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A staunch supporter of women’s voting rights, Wilhelmina Kekelaokalaninui Widemann Dowsett sought to coordinate the efforts of suffragists in her native Hawaiʻi. ______ in 1912, she founded the National Women’s Equal Suffrage Association of Hawaiʻi, an organization that lobbied for women’s voting rights in the US territory.
+
+
+A. Conversely,
+B. To that end,
+C. Alternatively,
+D. In other words,
+Answer: B
+
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The World Cup of men's soccer, one of the biggest sporting events on the planet, brought 32 national teams from six continents to the host country, Qatar, in 2022. The event, which is held every four years, used to be much smaller and more limited geographically. ______ the 1950 World Cup in Brazil included only 13 teams, all from Europe and the Americas.
+
+
+A. In addition,
+B. However,
+C. At last,
+D. For example,
+Answer: D
+
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A double-blind study design is often used in clinical trials to ensure unbiased results when testing a new drug's efficacy. Using this methodology offers a number of advantages, such as preventing both researchers and participants from letting their expectations influence the outcome. ______ by eliminating potential sources of bias (like the placebo effect or researcher expectations), it encouraged an objective assessment of the drug's true effects.
+
+
+A. Moreover,
+B. In other words,
+C. Specifically,
+D. For example,
+Answer: A
+
+
+Question 25:
+[Synthesis]
+The student wants to explain what Pyrularia odorata is. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes
+•Most of the plant and bird species on O ahu, Hawaii, are non-native.
+•In a 2019 study, researchers wanted to know what role non-native birds play in dispersing plant seeds on O ahu.
+•Researchers catalogued plant seeds found in fecal samples from non-native birds.
+•*Pyrularia odorata*, a flowering shrub, was one of fifteen native species catalogued.
+•*Hedychium gardnerianum*, an herbaceous iris, was one of twenty-nine non-native species catalogued.
+•Researchers concluded that non-native birds play a vital role in dispersing the seeds of both native and non-native plants.
+
+
+A. In a 2019 study, researchers catalogued seeds from Pyrularia odorata.
+B. Pyrularia odorata is a flowering shrub species that is native to O ahu, Hawaii.
+C. Most plant species found on O ahu, like Hedychium gardnerianum, are non-native.
+D. Seeds from Pyrularia odorata were found by researchers in the feces of non-native birds.
+Answer: B
+
+
+Question 26:
+[Synthesis]
+The student wants to challenge an anthropological hypothesis regarding the origins of technology. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•A team led by archaeologist Sonia Harmand discovered stone tools at the Lomekwi 3 site in Kenya that date back 3.3 million years.
+•The tools, including anvils and sharp flakes, were found in sediment layers existing long before the emergence of the genus *Homo*.
+•For decades, the prevailing scientific consensus was that the cognitive ability to craft stone tools was exclusive to the genus *Homo* (humans), appearing around 2.6 million years ago.
+•The Lomekwi artifacts predate the earliest known *Homo* fossils by approximately 700,000 years.
+•These findings suggest that earlier hominins, such as *Australopithecus* or •*Kenyanthropus*, possessed the manual dexterity and intelligence to knap stone.
+
+
+A. The discovery that earlier hominins could knap stone proves that the genus *Homo* must have evolved 700,000 years earlier than the fossil record currently indicates.
+B. By analyzing sediment layers in Kenya, Harmand’s team identified anvils and flakes that were crafted approximately 700,000 years prior to the appearance of modern humans.
+C. Excavations at Lomekwi 3 revealed 3.3-million-year-old stone artifacts, contradicting the established theory that tool-making behaviors were unique to the genus Homo.
+D. The identification of these ancient tools suggests that researchers should reassess the manual dexterity of species like Kenyanthropus, potentially improving future analysis of hominin evolution.
+Answer: C
+
+
+Question 27:
+[Synthesis]
+The student wants to make and support a generalization about linocuts. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Rooftops is a 1935 black-and-white linocut by Japanese American artist Isami Doi. It depicts an everyday scene (a woman hanging laundry up to dry).
+• Field is a 1968 black-and-white linocut by Black American artist Samella Lewis. It features a scene with an explicitly political point of view (a laborer raising his fist in a symbol of liberation).
+• Lino cutting is an inexpensive printmaking technique in which an image is carved onto linoleum tile, which is then painted and stamped onto paper.
+• Artist Paul Flight called lino cutting "an art of the people" for its ease of use.
+
+
+A. Linocuts can highlight everyday scenes, like a woman hanging laundry up to dry, or explicitly political ones, like a laborer raising his fist in a symbol of liberation.
+B. Artist Paul Flight called lino cutting “an art of the people”; indeed, it is a technique in which an image is carved onto linoleum tile that is then painted and stamped onto paper.
+C. Doi made Rooftops in 1935, while Lewis made Field later, in 1968.
+D. Rather than reflecting an explicitly political point of view, the linocut Rooftops depicts a tranquil, everyday scene of a woman hanging laundry up to dry.
+Answer: A

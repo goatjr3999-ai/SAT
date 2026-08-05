@@ -1,0 +1,291 @@
+Question 1:
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+The fecal-steroidal profile of pronghorn is clearly distinct from those of other ungulates. __By contrast, bison dung cannot be distinguished from elk dung based solely on their fecal-steroidal profiles__, as both contain similar levels of beta-sitosterol and cholestanone, among other sterols. The relative levels of fecal zoostanols (steroids with animal origins), such as coprostanol and epi-coprostanol, in layers of lake bed sediments at Buffalo Ford Lake in Yellowstone National Park show that bison, elk, or both have been the dominant ungulate species in the lake’s watershed for at least the last 2,000 years.
+
+
+A. It offers context that helps account for the finding that the dominant ungulate species in the Buffalo Ford Lake watershed have been largely unchanged for at least 2,000 years.
+B. It presents an observation that supports an argument about why the dominant ungulate species in the Buffalo Ford Lake watershed shifted over the course of the last 2,000 years.
+C. It describes an assumption about two types of ungulates’ fecal-steroidal profiles that the research on Buffalo Ford Lake sediment calls into question.
+D. It provides information that explains why the data from Buffalo Ford Lake allow for multiple possibilities regarding the dominant ungulate species in the watershed.
+Answer: D
+
+Question 2:
+Which statement about bison and elk dung samples is best supported by the text?
+
+The fecal-steroidal profile of moose is clearly distinct from that of other ungulates, including bison and elk. By contrast, bison dung cannot be distinguished from elk dung based solely on their fecal-steroidal profiles, as both contain similar levels of cholestanone and stigmatanol, among other sterols. However, levels of other taxa-specific digestive by-products, such as cholic acid, can be used to help differentiate between bison and elk samples.
+
+
+A. They are distinct from each other with respect to cholic acid content but cannot otherwise be distinguished from moose samples solely on levels of digestive by-products.
+B. They are distinct from each other with respect to cholestanone and cholic acid content, but bison and moose samples cannot be distinguished from each other based solely on levels of digestive by-products.
+C. They are less distinct with respect to their steroidal profiles than they are with respect to some other digestive by-products.
+D. They are more distinct with respect to cholestanone content than they are with respect to cholic acid content.
+Answer: C
+
+Question 3:
+Which conclusion about steroid profiles is supported by information in both Text 1 and Text 2?
+
+Text 1
+As part of a study of ungulates (hoofed mammals) native to the Yellowstone River basin, fresh dung samples from identified individuals were collected in the Confederated Salish and Kootenai Tribes Bison Range of Montana. Based on steroidal analysis, on average the bison and elk samples had similar levels of beta-sitosterol and stigmastanol, which distinguished these species’ profiles from that of moose.
+Text 2
+Although fecal-steroidal profile alone is not sufficient to distinguish between samples from bison and those from elk, the relative levels of zoostanols (steroids with animal origins), such as coprostanol and 24-ethyl-coprostanol, in sediments at Buffalo Ford Lake in Yellowstone National Park show that bison, elk, or both were the predominant ungulates in the lake’s watershed for all strata of sediment examined, going as far back as 2,300 years.
+
+
+A. The profiles for bison and elk contain similar concentrations of various steroids.
+B. Each of the ungulate species in the Buffalo Ford Lake watershed has a distinctive and unique steroidal profile.
+C. Some steroids in the bison and elk profiles are more likely than others to be preserved for long time spans.
+D. The profiles of ungulates in and around the Yellowstone basin show that bison and elk have historically been more prevalent than moose in the area.
+Answer: A
+
+Question 4:
+Which choice best states the main idea of the text?
+
+The following text is from José Rizal’s 1891 novel The Reign of Greed (translated by Charles Derbyshire in 1912).
+In his solitary retreat on the shore of the sea, whose mobile surface was visible through the open windows, extending outward until it mingled with the horizon, Padre Florentino was relieving the monotony by playing on his harmonium sad and melancholy tunes, to which the sonorous rear of the surf and the sighing of the treetops of the neighboring wood served as accompaniments. Notes long, full, mournful as a prayer, yet still vigorous, escaped from the old instrument. Padre Florentino, who was an accomplished musician, was improvising, and, as he was alone, gave free rein to the sadness in his heart.
+
+
+A. Padre Florentino is insecure about his ability to improvise music.
+B. Padre Florentino has dedicated himself to becoming a skilled musician.
+C. The sadness of Padre Florentino’s music reflects his own feelings.
+D. The residence of Padre Florentino is difficult to find.
+Answer: C
+
+Question 5:
+Based on the texts, how would the author of Text 2 most likely answer the underlined question in Text 1?
+
+Text 1
+ Yale University and the investment bank JPMorgan Chase are two of the many institutions offering training programs in entrepreneurship. __But what results do such programs produce?__ In a study of college students in Sweden, researcher Ove Hansemark addressed this question and found that participants showed strong belief in their entrepreneurial capabilities after receiving entrepreneurial training.
+Text 2
+ While studies of entrepreneurial training typically report positive results, a close look at these studies reveals widespread methodological shortcomings. For instance, a 1998 study by Ove Hansemark found benefits of entrepreneurial education for Swedish college students, but the study used a very small sample of only 19 students, making it difficult to say whether the training actually had an effect.
+
+
+A. Although the programs may seem to produce positive results, close analysis of studies of the programs shows that they produce negative results just as frequently.
+B. It is unknown what results the programs produce because studies of them are often designed in ways that do not allow for definitive conclusions.
+C. Most of the programs do not actually produce positive results even though program participants tend to regard them as beneficial.
+D. The programs tend to produce inconsistent results because they vary substantially in their methods and aims.
+Answer: B
+
+Question 6:
+Based on the texts, the author of Text 2 would most likely want to know if Chrisman and colleagues took steps to preclude which potential objection to the finding described in Text 1?
+
+Text 1
+ The University of Wisconsin and the online class provider Coursera are two of the many institutions offering training programs in entrepreneurship. But what results do such programs produce? In a study of aspiring entrepreneurs in the United States, researcher James Chrisman and colleagues addressed this question and reported that participants who received entrepreneurial training showed high performance at their jobs.
+Text 2
+ While studies of entrepreneurial training typically report positive results, a close look reveals widespread methodological shortcomings that could explain those findings. These studies are plagued by insufficient sample sizes, a lack of control groups, and failures to establish pretraining baselines for the measured attributes of participants.
+
+
+A. The participants would have shown greater responsiveness to the training if the training sessions had lasted longer.
+B. The participants would have been less likely to show high performance at their jobs if the study sample size had been smaller.
+C. The participants would have shown high performance at their jobs regardless of whether they received the training.
+D. The participants would have responded to the training differently if they had not known that they were participating in a study.
+Answer: C
+
+Question 7:
+Based on the texts, the author of Text 2 would most likely want to know if Menzies and Paradi took steps to preclude which potential objection to the finding described in Text1?
+
+Text1
+Duke University and the investment bank Citi are two of the many institutions offering training programs in entrepreneurship. But what results do such programs produce? In a study of engineering students in Canada, researchers Teresa Menzies and Joseph Paradi addressed this question and reported that participants who received entrepreneurial training showed high likelihood of creating new businesses.
+Text2
+While studies of entrepreneurial training typically report positive results, a close look reveals widespread methodological shortcomings that could explain those findings. These studies are plagued by insufficient sample sizes, a lack of control groups, and failures to establish pretraining baselines for the measured attributes of participants.
+
+
+A. The participants would have responded to the training differently if they had not known that they were participating in a study.
+B. The participants would have shown high likelihood of creating new businesses regardless of whether they received the training.
+C. The participants would have been less likely to show high likelihood of creating new usinesses if the study sample size had been smaller.
+D. The participants would have shown greater responsiveness to the training if the training sessions had lasted longer.
+Answer: B
+
+Question 8:
+Based on the texts, the author of Text 2 would most like to know the answer to which question about Galloway and Brown's study that is not addressed in Text 1?
+
+Text 1: The University of Pennsylvania and the investment bank Barclays are two of the many institutions offering training programs in entrepreneurship. But what results do such programs produce? In a study of business students and graduates in Scotland, researchers Laura Galloway and Wendy Brown addressed this question and reported that participants who received entrepreneurial training showed strong intentions to become entrepreneurs.
+Text 2: While studies of entrepreneurial training typically report positive results, a close look at these studies reveals widespread methodological shortcomings. This research literature is plagued by unclear hypotheses, insufficient sample sizes, a lack of control groups, and failures to establish pretraining baselines for the measured attributes of participants.
+
+
+A. Did the participants that Galloway and Brown included in the study share any characteristics or life circumstances?
+B. How many Scottish business students and graduates did Galloway and Brown include in the study?
+C. Did Galloway and Brown measure any attributes of the participants in the study after they had received the training?
+D. Did Galloway and Brown compare Scottish business students and graduates who received the training with a group of successful entrepreneurs who did not receive the training?
+Answer: B
+
+Question 9:
+Based on the texts, the author of Text 1 and the author of Text 2 would most likely disagree about the answer to which question?
+
+Text 1: Brown University and the investment bank Barclays are two of the many institutions offering training programs in entrepreneurship. But what results do such programs produce? In a study of business school graduates in Norway, researchers Lars Kolvereid and Øystein Moen addressed this question and convincingly demonstrated that participants showed strong intentions to become entrepreneurs as a result of receiving entrepreneurial training.
+Text 2: While studies of entrepreneurial training typically report positive results, a close look at these studies reveals widespread methodological shortcomings. For instance, a 1997 study by Lars Kolvereid and Øystein Moen found benefits of entrepreneurial education for graduates of Norwegian business schools, but the study only collected data on subjects after the training, not before, making it unclear whether the training actually had an effect.
+
+
+A. Did Kolvereid and Moen report that participants who received the entrepreneurial training showed strong intentions to become entrepreneurs?
+B. Are there convincing experimental results showing that different types of entrepreneurial training programs are associated with different outcomes?
+C. Is the cost of conducting entrepreneurial training programs typically offset by the programs’ benefits?
+D. Did Kolvereid and Moen’s study provide persuasive evidence that its results are attributable to the entrepreneurial training participants received?
+Answer: D
+
+Question 10:
+Which choice best states the main idea of the text?
+
+Dubautia carrii is among the twenty-eight species of silversword plants found only on the Hawaiian archipelago that collectively illustrate the process of adaptive radiation, or the rapid diversification of an ancestral species into different, related species. Each silversword species is physically distinct, with mature plant forms ranging from trees and shrubs to vines. However, they all descended from a common tarweed plant species, with their unique physical characteristics emerging as they adapted to the archipelago’s many specific habitats over time.
+
+
+A. All silverswords that grow on the Hawaiian archipelago have similar physical characteristics.
+B. The Hawaiian archipelago exhibits many distinct habitats and species.
+C. Most plants that grow on the Hawaiian archipelago are descendants of a single founder species.
+D. Silverswords are good examples of adaptive radiation on the Hawaiian archipelago.
+Answer: D
+
+Question 11:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The sharp-beaked ground finch, whose diet primarily consists of seeds, is one of many endemic island ______ by adapting to fill distinct ecological niches, these related species famously illustrated Darwin's theory of natural selection.
+
+
+A. species; developed through adaptive radiation
+B. species developed through adaptive radiation,
+C. species. Developed, through adaptive radiation,
+D. species developed through adaptive radiation;
+Answer: D
+
+Question 12:
+Which potential finding from the team’s study, if true, would most directly support the team’s hypothesis?
+
+Psychologists Gregory Bryant, Dorsa Amir, and colleagues investigated cross-cultural perceptions of spontaneous (real) laughter and volitional (fake or forced) laughter. Study participants from 21 societies, including those in Austria and Samoa, listened to randomized recordings of 18 spontaneous laughs taken from natural conversations between pairs of women and 18 volitional laughs produced separately by 18 different women in response to an instruction to laugh. The team hypothesized that participants’ judgments of laughs as either spontaneous or volitional would primarily be driven by specific acoustic features of the recorded laughs.
+
+
+A. A high tendency to identify laughs as spontaneous had an equal correlation with demographic variables of the participants' society, such as the average size of communities, as it did with acoustic qualities of the laughs, such as pitch and burst duration.
+B. Participants from Austria, Samoa, and most other societies in the study were more likely to identify laughs as spontaneous when the laughs consisted of short bursts at a relatively high pitch.
+C. Participants from Austria and Samoa were more likely than participants from most other societies in the study to request that the recorded laughs be played at a higher volume.
+D. The process of recording tends to diminish the most subtle acoustic qualities of laughter that are usually detectable in face-to-face interactions.
+Answer: B
+
+Question 13:
+Which potential finding from another study, if true, would most directly strengthen the team’s conclusion?
+
+Psychologists Gregory Bryant, Dorsa Amir, and colleagues investigated cross-cultural perceptions of spontaneous (real) laughter and volitional (fake or forced) laughter. Study participants from 21 societies, including those in Singapore and Samoa, listened to randomized recordings of 18 spontaneous laughs taken from natural conversations between pairs of women and 18 volitional laughs produced separately by 18 different women in response to an instruction to laugh. Analysis of the participants’ evaluations of the laughs prompted the team to conclude that the ability to distinguish between spontaneous and volitional laughter appears to be universal across cultures.
+
+
+A. Acoustic features of spontaneous laughter, such as pitch and intensity, have measurable variations both within and across societies.
+B. Listeners from both Singapore and Samoa tend to be able to determine how well two people know each other based on recordings of their conversation.
+C. Spontaneous laughter typically has a recognizably higher pitch than volitional laughter, regardless of what society the speakers in a conversation are from.
+D. There is some evidence of correlation between the average size of communities in a society and judgments of spontaneous and volitional laughter by listeners in that society.
+Answer: C
+
+Question 14:
+Which quotation from a psychologist not involved in the team’s study would most directly weaken the team’s conclusion?
+
+Psychologists Gregory Bryant, Dorsa Amir, and colleagues investigated cross-cultural perceptions of spontaneous (real) laughter and volitional (fake or forced) laughter. Study participants from 21 societies, including those in Austria and Turkey, listened to randomized recordings of 18 spontaneous laughs taken from natural conversations between pairs of women and 18 volitional laughs produced separately by 18 different women in response to an experimenter’s instruction to laugh. Analysis of the participants’ evaluations of the laughs prompted the team to conclude that the ability to distinguish between spontaneous and volitional laughter appears to be universal across cultures.
+
+
+A. “When an individual chooses to produce volitional laughter in a natural social context, the laughter often shares certain acoustic qualities, such as pitch and fluctuation of intensity, with spontaneous laughter.”
+B. “Although the team considered the average size of communities in each society in the study, that demographic factor was found to have no effect on listeners’ identifications of laughter as spontaneous or volitional.”
+C. “Judgments of spontaneous laughter are often associated with acoustic features such as greater intensity variability and higher pitch.”
+D. “Recent studies in communications have shown that certain acoustic features of spontaneous laughter, such as pitch and intensity, are consistent both within and across societies.”
+Answer: A
+
+Question 15:
+Which potential finding from the team’s study, if true, would most directly support the team’s conclusion?
+
+Psychologists Gregory Bryant, Dorsa Amir, and colleagues investigated cross-cultural perceptions of spontaneous (real) laughter and volitional (fake or forced) laughter. Study participants from 24 societies, including those from Australia and Iran, listened to randomized recordings of 18 spontaneous laughs taken from natural conversations between pairs of women and 18 volitional laughs produced separately by 18 different women in response to an instruction to laugh. Analysis of the participants’ evaluations of the laughs prompted the team to conclude that the ability to distinguish between spontaneous and volitional laughter appears to be universal across cultures.
+
+
+A. The overall rate of correct judgments by participants was substantially better than chance, and spontaneous and volitional laughs were recognized at similar rates in Australia, Iran, and the other societies in the study.
+B. Acoustic features of spontaneous laughter, such as pitch and intensity, have measurable variations both within and across societies.
+C. An assessment of the effect of demographic variables on judgments of laughter type in Australia, Iran, and the other societies in the study revealed that participants’ evaluations were correlated with the economic conditions of the societies in which participants live.
+D. A variety of people from Australia and Iran evaluated the recordings in the study, and no significant differences in listeners’ judgments of laughter types were found.
+Answer: A
+
+Question 16:
+Based on the texts, the author of Text 1 would most likely agree with the author of Text 2 on which point?
+
+**Text 1**
+Isaac Asimov, author of The Caves of Steel and Pebble in the Sky, is highly regarded despite his mediocre writing style. His prose is basic and hastily composed; his characters are flat and discuss ideas rather than emotions. That his work is enjoyable despite such deficiencies is a testament to his prodigious imagination — even if people read his books only for the ideas, they will have much to consider.
+**Text 2**
+Asimov is critiqued for his style, but it is wrong to fault a writer for failing to do what he never intended to do. For example, it is true that the prose in his novel Foundation is quite plain --- we are often given only the faintest ideas of what people, objects, and settings look like. But Asimov’s storytelling is extremely efficient: he can relate in 250 pages a tale for which other writers would need 1,000. Thus his minimalist style is central to his storytelling.
+
+
+A. Asimov’s prose tends to be simple.
+B. Asimov’s writing style is deficient in many noticeable ways.
+C. The Caves of Steel is more representative of Asimov’s writing style than Foundation is.
+D. Shorter books are preferable to longer ones.
+Answer: A
+
+Question 17:
+Based on the texts, how would the author of Text 2 most likely respond to the evaluation of Asimov’s writing style in the underlined claim in Text 1?
+
+Text 1
+__Isaac Asimov, author of The Robots of Dawn and I, Robot, is highly regarded despite his mediocre writing style. His prose is workmanlike; his characters are flat and discuss ideas rather than emotions.__ That his work is enjoyable despite this is a testament to his prodigious imagination—even if people read his books only for the ideas, they will have plenty to consider.
+Text 2
+Asimov is critiqued for his style, but it is wrong to fault a writer for failing to do what he never intended to do. For example, although most of his novel Foundation consists of people discussing science and politics and we find out little about his characters' lives, Asimov wanted to convey the sweep of human history over centuries, and one of his points is that at such a timescale, individuals don't matter. Thus his lack of characterization is central to Asimov’s thematic aims.
+
+
+A. By arguing that Asimov’s writing style should be judged against the styles of historians rather than those of fiction writers.
+B. By agreeing that Asimov’s prose is flawed but disagreeing about the quality of his characters.
+C. By pointing out that the flatness of Asimov’s characters is a feature of The Robots of Dawn and I, Robot but not of Foundation.
+D. By asserting that Asimov’s minimal characterization is likely a conscious choice that helps him convey an important idea.
+Answer: D
+
+Question 18:
+Based on the texts, the author of Text 1 would most likely agree with the author of Text 2 on which point?
+
+Text 1
+Isaac Asimov, author of The Naked Sun and The Gods Themselves, is highly regarded despite his mediocre writing style. His prose is workmanlike; his characters are flat and discuss ideas rather than emotions. That his work is enjoyable despite this is a testament to his prodigious imagination—even if people read his books only for the ideas, they will have plenty to consider.
+Text 2
+Asimov is critiqued for his style, but it is wrong to fault a writer for failing to do what he never intended to do. For example, although most of his novel Foundation consists of people discussing science and politics and we find out little about his characters' lives, Asimov wanted to convey the vast sweep of human history over centuries, and one of his points is that at such a timescale, individuals don’t matter. Thus his lack of characterization is central to his thematic aims.
+
+
+A. The Naked Sun is more representative of Asimov's writing style than Foundation is.
+B. Asimov's writing style is often unfairly criticized.
+C. Asimov's characters can be concerned mainly with intellectual matters rather than emotions.
+D. Asimov was correct to suggest that individual humans have little influence over the course of human history.
+Answer: C
+
+Question 19:
+Based on the texts, how would the author of Text 2 most likely respond to the description of Asimov’s characters in the underlined portion of Text 1?
+
+Text 1
+Isaac Asimov, author of Robots and Empire and I, Robot, is highly regarded despite his mediocre writing style. His prose is workmanlike; __his characters are flat__ and discuss ideas rather than emotions. That his work is enjoyable despite this is a testament to his prodigious imagination—even if people read his books only for the ideas, they will have plenty to consider.
+Text 2
+Asimov is critiqued for his style, but it is wrong to fault a writer for failing to do what he never intended to do. For example, although most of his novel Foundation consists of people discussing science and politics and we find out little about his characters’ lives, Asimov wanted to convey the vast sweep of human history over centuries, and one of his points is that at such a timescale, individuals don’t matter. Thus his lack of characterization is central to his thematic aims.
+
+
+A. The flatness of Asimov’s characters is a feature of Robots and Empire and I, Robot but not of Foundation.
+B. Asimov’s characterizations would have been more believable if his writing had discussed fewer ideas.
+C. Asimov’s characterizations would have been richer if he had possessed a deeper understanding of history.
+D. The flatness of Asimov’s characters should not necessarily be considered a flaw in his writing.
+Answer: D
+
+Question 20:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The part of a compound that determines the compound’s color is ___ the chromophore. One example of a chromophore is hemoglobin, which gives human blood its red color.
+
+
+A. called –
+B. called;
+C. called,
+D. called
+Answer: D
+
+Question 21:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In Puerto Rico, it's not unusual for a city or town to be known by a nickname
+that corresponds to one of its notable features, like landscape, ______ or chief exports. For example, the Puerto Rican municipality of Corozal has also been called "the Cradle of Volleyball," a nickname that alludes to what the area is well known for: being a longtime volleyball powerhouse.
+
+
+A. climate famous residents,
+B. climate famous residents
+C. climate, famous residents,
+D. climate; famous residents;
+Answer: C
+
+Question 22:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In Puerto Rico, it's not unusual for a city or town to be known by a nickname that corresponds to one of its notable features, like landscape, climate, famous residents, or chief exports. For example, the Puerto Rican municipality of Orocovis has also been called “the Heart of Puerto Rico,” a nickname that alludes to what the area is well _____ its geographical position in the center of the island.
+
+
+A. known for
+B. known for:
+C. known: for
+D. known for;
+Answer: B

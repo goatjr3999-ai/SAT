@@ -1,0 +1,275 @@
+Question 1:
+[Synthesis]
+The student wants toemphasize topaz’ s Mohs scale number. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.
+• Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.
+• Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.
+• The mineral orthoclase has a Mohs scale number of 6.
+• The mineral topaz has a Mohs scale number of 8.
+• The mineral diamond has a Mohs scale number of 10.
+
+
+A. Topaz has a Mohs scale number of 8, which means that it is harder than orthoclase (6) but softer than diamond (10).
+B. In the Mohs scale of mineral hardness, diamond (10) is ranked higher than orthoclase (6).
+C. Diamond, which has a Mohs scale number of 10, can scratch both orthoclase and topaz.
+D. Topaz, orthoclase, and diamond can be ordered by their ability to leave visible scratches on other minerals.
+Answer: A
+
+Question 2:
+[Synthesis]
+The student wants to compare the hardness of fluorite and corundum. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.
+•Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.
+•Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.
+•The mineral fluorite has a Mohs scale number of 4.
+•The mineral quartz has a Mohs scale number of 7.
+•The mineral corundum has a Mohs scale number of 9.
+
+
+A. Corundum can leave visible scratches on fluorite, which means that corundum is harder than fluorite.
+B. A mineral with a Mohs number of 7, like quartz, is harder than one with a Mohs number of 4, like fluorite.
+C. Corundum can leave visible scratches on quartz, which is why corundum has a higher number than quartz on the Mohs scale of mineral hardness.
+D. The Mohs scale of mineral hardness can be used to order quartz, fluorite, and corundum by their ability to scratch other minerals.
+Answer: A
+
+Question 3:
+[Synthesis]
+The student wants to make a generalization about minerals. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.
+•Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.
+•Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.
+•The mineral calcite has a Mohs scale number of 3.
+•The mineral apatite has a Mohs scale number of 5.
+•The mineral corundum has a Mohs scale number of 9.
+
+
+A. Based on their Mohs scale numbers, corundum (9) is harder than apatite (5), and apatite is harder than calcite (3).
+B. Corundum can leave visible scratches on calcite, which is why corundum has a higher number than calcite on the Mohs scale of mineral hardness.
+C. Any mineral with a Mohs number of 9, like corundum, can scratch a mineral with a Mohs number of 5, like apatite.
+D. The Mohs scale can be used to order calcite, corundum, and apatite by their ability to scratch other minerals.
+Answer: C
+
+Question 4:
+[Synthesis]
+The student wants to compare the hardness of the three minerals. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+•The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.
+•Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.
+•Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.
+•The mineral calcite has a Mohs scale number of 3.
+•The mineral orthoclase has a Mohs scale number of 6.
+•The mineral topaz has a Mohs scale number of 8.
+
+
+A. Based on their Mohs scale numbers, topaz (8) is harder than orthoclase (6), and orthoclase is harder than calcite (3).
+B. Topaz can leave visible scratches on calcite, which is why topaz has a higher number than calcite on the Mohs scale of mineral hardness.
+C. A mineral with a Mohs number of 8, like topaz, is harder than one with a Mohs number of 6, like orthoclase.
+D. The Mohs scale of mineral hardness can be used to order orthoclase, calcite, and topaz by their ability to scratch other minerals.
+Answer: A
+
+Question 5:
+[Synthesis]
+The student wants to emphasize how hard fluorite is in relation to other minerals. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.
+•Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.
+•Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.
+•The mineral talc has a Mohs scale number of 1.
+•The mineral fluorite has a Mohs scale number of 4.
+•The mineral quartz has a Mohs scale number of 7.
+
+
+A. Quartz is hard enough to scratch both talc and fluorite.
+B. Fluorite is hard enough to scratch talc but not hard enough to scratch quartz.
+C. In the Mohs scale of mineral hardness, quartz (7) is ranked higher than talc (1).
+D. Quartz, talc, and fluorite can be ordered by hardness based on their ability to scratch other minerals.
+Answer: B
+
+Question 6:
+[COE]
+The text makes which point about the O’odham word gogogs?
+
+In O'odham, an Indigenous language from the Southwest region of what is now the United States, gogs means “a dog,” whereas gogogs is used to refer to several dogs. This phenomenon, in which an element of a root word is repeated, sometimes with modification, within another word that is related to the root word, is called reduplication. In this case, the element "go" in gogs gets repeated in gogogs. There are many examples of this type of reduplication in O’odham.
+
+
+A. It contains a repetition of the element “go” in gogs.
+B. It doesn’t have a clear equivalent in English.
+C. It is the only word in O’odham that uses reduplication.
+D. It is identical in meaning to several other words in O’odham.
+Answer: A
+
+Question 7:
+[COE]
+The text makes which point about Hoocąk?
+
+In Hoocąk, an Indigenous language from the Midwest region of what is now the United States, zi means “yellow,” whereas zizí means “yellow in spots.” This phenomenon, in which an element of a root word is repeated, sometimes with modification, within another word that is related to the root word, is called reduplication. In this case, the entire word zi gets repeated in zizí. There are many examples of this type of reduplication in Hoocąk.
+
+
+A. It is one of the only languages in the world that makes use of reduplication.
+B. It is closely related to another language from the Midwest region of what is now the United States that also makes use of reduplication.
+C. It contains many instances of the type of reduplication seen in the words zi and zizí.
+D. It has a wide variety of reduplicated words and phrases that mean “yellow.”
+Answer: C
+
+Question 8:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+In Ojibwe, an indigenous language from the Great Lakes region of what are now the United States and Canada, pangi means “a little bit,” whereas pa-pangi means “rarely.” __This phenomenon, in which an element of a root word is repeated, sometimes with modification, within another word that is related to the root word, is called reduplication__. In this case, the element “pa” in pangi gets repeated in pa-pangi. There are many examples of this type of reduplication in Ojibwe.
+
+
+A. It provides a general definition of the phenomenon discussed in the text.
+B. It explains where the language discussed in the text is from.
+C. It contrasts the language discussed in the text with other languages.
+D. It provides English translations of the Ojibwe words discussed in the text.
+Answer: A
+
+Question 9:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+In Ojibwe, an Indigenous language from the Great Lakes region of what are now the United States and Canada, wisa means “far” whereas wa-iwisa means “far apart.” This phenomenon, in which an element of a root word is repeated, sometimes with modification, within another word that is related to the root word, is called reduplication. In this case, the element “wa” in wisa gets repeated in wa-iwisa. There are many examples of this type of reduplication in Ojibwe.
+
+
+A. It describes the relationship between Ojibwe and several other languages, raises a question about the nature of that relationship, and then answers that question.
+B. It identifies the most frequently occurring words in Ojibwe, explains why it is difficult to translate those words into English, and then provides examples of languages other than English into which those words can be translated.
+C. It presents some specific words in Ojibwe, describes the general linguistic phenomenon exemplified by those words, and then states that this phenomenon occurs frequently in Ojibwe.
+D. It explains the phenomenon of reduplication, discusses why reduplication has been controversial among scholars, and then argues that an analysis of Ojibwe could help resolve that controversy.
+Answer: C
+
+Question 10:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+In their study of fossils of the extinct arthropod Mollisonia symmetrica, Javier Ortega-Hernández, Sarah Losso and team reported some obvious indications of M. symmetrica's nervous system—for example, the animal's primary nerve cord. They also saw signs of what might be a synganglion, a brain-like mass of nerve tissue, in the animal's head. __This evidence is exciting because it could help us better understand how M. symmetrica is related to other arthropods, such as cave crickets and krill__.
+
+
+A. It indicates that the team's claims about the M. symmetrica fossils are incorrect.
+B. It gives the definition of the term "synganglion" used earlier in the text.
+C. It explains why the team's finding of a possible synganglion is exciting.
+D. It states that krill are arthropods but cave crickets are not.
+Answer: C
+
+Question 11:
+[Structure]
+Which choice best states the main purpose of the text?
+
+In their study of fossils of the extinct arthropod Mollisonia symmetrica, Javier Ortega-Hernández, Sarah Losso, and team reported some obvious indications of M. symmetrica’s nervous system—for example, the animal’s optic nerve. Most intriguingly, they also saw signs of what might be a synganglion, a brain-like nerve mass, in the animal’s head. This is an exciting possibility: without evidence of a synganglion, we can’t tell exactly how M. symmetrica relates to mosquitoes, slipper lobsters, and other arthropods.
+
+
+A. To question whether the fossils the team studied were actually of M. symmetrica
+B. To argue that M. symmetrica may have been more similar to mosquitoes than to slipper lobsters
+C. To discuss a significant feature that may have been found in a study of M. symmetrica fossils
+D. To describe M. symmetrica and the way the animal’s optic nerve functioned
+Answer: C
+
+Question 12:
+[COE]
+According to the text, what did the researchers spot clear signs of in the M. symmetrica fossils?
+
+Arthropods, a group including insects such as termites and crustaceans such as Norway lobsters, do not have a spine. Their nervous systems are made up of a brain and nerves but no spinal cord. Javier Ortega-Hernández, James Weaver, and a team studied two fossils of the extinct arthropod species Mollisonia symmetrica. The researchers spotted clear signs of nerves extending into the animal's body parts. They believe the fossils might also contain rare evidence of a synganglion, a brain-like mass of nerve tissues.
+
+
+A. Nerves extending into body parts
+B. Skeletons of two termites
+C. Pairs of legs
+D. A new species
+Answer: A
+
+Question 13:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Built at a scale of 1:110, the Eiffel Tower in Baku, Azerbaijan, is one of many replicas of the famous Eiffel Tower in Paris, France. ______ towers like the Metallic Tower of Fourviere in Lyon, France, though not exact replicas, pay homage to the Eiffel's iconic spire-like design.
+
+
+A. On the contrary,
+B. Consequently,
+C. Invariably,
+D. Moreover,
+Answer: D
+
+Question 14:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+When it was completed in 1889, the Eiffel Tower in Paris, France, was criticized—even protested—for the novelty of its unique spire-like silhouette._____________ the design is commonplace, found in everything from Eiffel Tower replicas like the one in Paris, Tennessee, to structures like the Tokyo Tower in Tokyo, Japan.
+
+
+A. On the contrary,
+B. In conclusion,
+C. Furthermore,
+D. Nowadays,
+Answer: D
+
+Question 15:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+When it was completed in 1889, the Eiffel Tower in Paris, France, was criticized - even protested for - the novelty of its unique spire-like silhouette. ______ the design became accepted - even beloved - and can now be found in everything from the Eiffel Tower replica in Uman, Ukraine, to the Funkturm Berlin in Berlin, Germany.
+
+
+A. Over time,
+B. Indeed,
+C. Therefore,
+D. Furthermore,
+Answer: A
+
+Question 16:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+When it was built in the nineteenth century, the Eiffel Tower was criticized—even protested—for its unique appearance. ______ the spire-like structure earned not just acceptance but adoration, and its iconic design is now echoed in everything from the Eiffel Tower replica in Voronezh, Russia, to the Copenhagen Zoo Tower in Copenhagen, Denmark.
+
+
+A. Ultimately,
+B. Similarly,
+C. Thus,
+D. For example,
+Answer: A
+
+Question 17:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Animals use many objects as tools to achieve goals more easily. Such goals include grooming, finding food, and protecting themselves. For a long time, people thought tool use was unique to primates. Elephants and other animals, though, have busted the myth that tool use requires hands. Inventively, elephants use branches to scratch themselves. Woodpecker finches also get creative. They use cactus spines to pry insects from hiding places.
+
+
+A. To establish that tool use doesn’t indicate intelligence
+B. To compare tool use in humans with tool use in woodpecker finches
+C. To question the belief that birds are intelligent
+D. To argue that a variety of animals use tools
+Answer: D
+
+Question 18:
+[Structure]
+Which choice best states the main idea of the text?
+
+Animals use many objects as tools to achieve goals more easily. Such goals include grooming, finding food, and protecting themselves. For a long time, people thought tool use was unique to primates. Octopuses and other animals, though, have busted the myth that tool use requires hands. Inventively, octopuses use two halves of a seashell to provide protection or a place to hide. Greater vasa parrots also get creative. They use date pits to grind seashells into calcium powder.
+
+
+A. Unlike primates, octopuses are exceptionally skillful at using different tools.
+B. There are many myths about tool use that researchers are starting to challenge.
+C. Animals find it difficult to use objects as tools.
+D. Contrary to long-held beliefs, primates aren't the only animals to use tools.
+Answer: D
+
+Question 19:
+[Details]
+Which choice best describes the function of the underlined sentence?
+
+Humans aren't the only ones who use tools. Other animals also find tools helpful. Octopuses use two halves of a seashell to provide protection or a place to hide. __And despite sometimes being thought of as simple, many birds make clever use of tools as well.__ Striated herons have been observed using breadcrumbs and other lures to attract fish to the water's surface, making it easier for the herons to catch them.
+
+
+A. It explains that humans use tools for many different tasks.
+B. It argues that octopuses use tools more often than other animals do.
+C. It provides one example of tool use in a nonhuman animal.
+D. It emphasizes that octopuses are smarter than birds.
+Answer: C

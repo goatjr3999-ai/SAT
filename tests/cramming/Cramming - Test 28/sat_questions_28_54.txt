@@ -1,0 +1,405 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Some robots such as Wabian (developed in 1995) and ASIMO (developed in 2011) feature humanoid characteristics like the ability to respond to voice commands so that people will find it easier to interact with them. While these features can help to ______ feelings of comfort in people, a robot that looks too human can fall into the “uncanny valley,” meaning that its appearance unintentionally unsettles those who encounter it.
+
+
+A. constrict
+B. repudiate
+C. counterbalance
+D. buttress
+Answer: D
+
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Authors like Laura Esquivel contributed to the outpouring of Mexican literature in the years following the Mexican Revolution, which lasted from 1910–1920. Works from this period make up an _____ proportion of what is considered the canon of Mexican literature, but nineteenth-century writers like Justo Sierra O’Reilly should be considered just as integral to the Mexican literary canon.
+
+
+A. overlooked
+B. outsized
+C. unspecified
+D. erratic
+Answer: B
+
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Wildlife preserves are protected areas where visitors can observe ecosystems of ____ natural splendor, with strict rules in place to prevent harm to the environment and to support nearby communities. The goals of these preserves include educating guests, encouraging respect for regional traditions, and raising money to repair landscapes that have already suffered from development in locations less pristine than those tourists are allowed to enter.
+
+
+A. aesthetic
+B. consecrated
+C. inviolate
+D. resurrected
+Answer: C
+
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The plaice is ectothermic, or cold-blooded, and the southern bluefin tuna is a regional endotherm, meaning that parts of its body are typically warmer than the surrounding water. The basking shark had been classified as a full ectotherm, a position that became ______ after researchers Haley R. Dolton and colleagues showed that the basking shark’s body temperature is consistently 1.0 to 1.5 °C warmer than the water.
+
+
+A. inconsolable
+B. untenable
+C. unequivocal
+D. unanticipated
+Answer: B
+
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+In their study of fossils of the extinct arthropod Mollisonia symmetrica, Javier Ortega-Hernández, Sarah Losso and team reported some obvious indications of M. symmetrica's nervous system—for example, the animal's primary nerve cord. They also saw signs of what might be a synganglion, a brain-like mass of nerve tissue, in the animal's head. __This evidence is exciting because it could help us better understand how M. symmetrica is related to other arthropods, such as cave crickets and krill.__
+
+
+A. It indicates that the team's claims about the M. symmetrica fossils are incorrect.
+B. It gives the definition of the term "synganglion" used earlier in the text.
+C. It explains why the team's finding of a possible synganglion is exciting.
+D. It states that krill are arthropods but cave crickets are not.
+Answer: C
+
+
+Question 6:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+Like other Indigenous pictorial codices that predate Spain’s colonization of the Aztec Empire in the 1520s, the Codex Azoyu I owes its vivid reds and oranges to organic pigments, not to the iron-based pigments ubiquitous in Spanish art. As Tana Elizabeth Villafana et al. argue, the presence of iron-based pigment in the Huexotzinco Codex in 1531 likely reflects colonial intervention in the regional pigment repertoire. __That precolonial trade networks had extended beyond the region to Maya kingdoms whose own codices made use of iron-based pigments should not, however, be discounted.__
+
+
+A. It rejects the conclusion that there was a foreign influence on the array of pigments available to the artists of the Huexotzinco Codex.
+B. It concedes that findings of historical interaction between the precolonial art of central Mexico and that of the Maya kingdoms may be authentic.
+C. It acknowledges an alternate explanation for the entry of iron-based pigments into the Indigenous artistic tradition associated with the Huexotzinco Codex.
+D. It posits the indirect influence of precolonial Maya art on the colonial-era Huexotzinco Codex through the intermediary of the Codex Azoyu I.
+Answer: C
+
+
+Question 7:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Driven to sell as many paintings as possible, Alfred Hair, an influential figure among the landscape artists known as the Florida Highwaymen, pioneered “fast painting,” a technique (which in part involved swift applications of paint) that many Highwaymen, including Livingston Roberts, adopted. *__To conclude that this approach accounts for the ethereal qualities now synonymous with the Highwaymen aesthetic is tempting but inaccurate, as Hair’s methods weren’t universally practiced by his affiliates__:* George Buckner, for example, painted with greater deliberateness but achieved the same effects.
+
+
+A. It details evidence that contradicts a claim mentioned earlier in the text about a long-standing disagreement within a group of artists.
+B. It considers and rebuts an interpretation of the effect of a painting technique mentioned earlier in the text on the perception of work by a group of artists.
+C. It establishes a contrast between the aesthetic qualities of works by artists who were central to a movement introduced earlier in the text and those of an artist who was more peripheral to that movement.
+D. It explains how an artist mentioned earlier in the text developed a distinctive style by adapting a particular approach to painting originated by his colleagues.
+Answer: B
+
+
+Question 8:
+[Structure]
+Which choice best states the main idea of the text?
+
+The following text is from Nathaniel Hawthorne’s 1830 short story “Sir William Phips.”
+The knowledge, communicated by the historian and biographer, is analogous to that which we acquire of a country by the map, —minute, perhaps, and accurate, and available for all necessary purposes, but cold and naked, and wholly destitute of the mimic charm produced by landscape painting. These defects are partly remediable, and even without an absolute violation of literal truth, although by methods rightfully interdicted to professors of biographical exactness.
+
+
+A. Writers of fiction possess storytelling skills that historians do not.
+B. The more famous a person is, the more likely that person is to attract the attention of a historian.
+C. Maps are more practical to own than paintings.
+D. Historians’ fidelity to the truth often results in work that is less engaging than it could be.
+Answer: D
+
+
+Question 9:
+[COE]
+Based on the text, which choice best expresses the narrator’s characterization of the Seine?
+
+The following text is adapted from Guy de Maupassant’s 1884 short story “A Recollection,” from the collection Guy de Maupassant Short Stories (translated by Albert M.C. McMaster et al. in 1903). The narrator is taking a boat down the Seine river from Paris, France, to the surrounding countryside.
+I took up a position in the bows [front of the boat], standing up and looking at the quays, the trees, the houses and the bridges disappearing behind us. And suddenly I perceived the great viaduct of Point du Jour which blocked the river. It was the end of Paris, the beginning of the country; and behind the double row of arches the Seine, suddenly spreading out as though it had regained space and liberty, became all at once the peaceful river which flows through the plains, alongside the wooded hills, amid the meadows, along the edge of the forests.
+
+
+A. Though the Seine is calm during most of the journey, the arches of the Point du Jour created a small area of heavy current.
+B. The Seine is beautiful but not as beautiful as Paris.
+C. As the journey progressed from Paris to the countryside, the waters of the Seine gradually cleared.
+D. The waters of the Seine are more confined and rough in Paris than they are in the countryside.
+Answer: D
+
+
+Question 10:
+[COE]
+Which choice most effectively uses data from the table to complete the assertion?
+
+Cumulative Counts of Fish in Three Taiwanese Tide Pools, 1999–2018
+
+Lin-Tai Ho and colleagues tracked fish populations in three tide pool-monitoring stations in Taiwan from 1999 to 2018. Although a total of only 31 blackspotted rockskippers were observed at station 3, that was not the lowest count at any station: ______
+
+
+A. there were 16 streaky rockskippers observed at station 1.
+B. there were 610 streaky rockskippers observed at station 3.
+C. there were 16 barred flagtails observed at station 3.
+D. there were 50 Coos friligolays observed at station 1.
+Answer: C
+
+
+Question 11:
+[COE]
+Which choice best describes data from the table that support Pöttelsberger and colleagues’ conclusion?
+
+Numbers of the 23 Non-native Tree Species Reported and the Insect and Fungus Threats to Them
+
+Elisabeth Pöttelsberger and colleagues gathered data on 23 non-native tree species grown in Europe. They analyzed reports from Austria, Bulgaria, and Belgium about the number of these species grown in those countries as well as the numbers of insect and fungus species that damage those trees. The researchers concluded that Austria had a greater number of damaging fungus species than either of the other countries did.
+
+
+A. Belgium reported 13 damaging fungus species but only 11 damaging insect species.
+B. Austria reported 51 damaging fungus species, whereas Bulgaria reported 16 damaging insect species.
+C. Bulgaria and Belgium reported 9 and 4 damaging fungus species, respectively, which is far fewer than Austria reported.
+D. Austria reported 51 damaging fungus species, which is more than either Bulgaria or Belgium reported.
+Answer: D
+
+
+Question 12:
+[Details]
+Which choice best states the function of the underlined portion in the text as a whole?
+
+Cuttlefish and toads see in three dimensions (3D) by combining two images in their brains, one from each eye. This produces a sense of depth, helping the animals judge how close or far away an object is. Researchers have investigated 3D vision in praying mantises as well. In one study, Vivek Nityananda and his team fitted mantises’ faces with two different color filters, one covering each eye, __much like the filters in 3D glasses once worn at movies__. By observing the mantises’ reaction to projected images, the team confirmed that mantises do indeed have 3D vision, but it’s unlike that of other animals.
+
+
+A. It identifies a potential problem that the researchers faced while studying the praying mantises.
+B. It offers a comparison meant to aid understanding of the praying mantis study.
+C. It emphasizes a difference between the research on praying mantis vision and research on other animals’ vision.
+D. It describes an earlier use of a tool the researchers used in the praying mantis study.
+Answer: B
+
+
+Question 13:
+[COE]
+Which quotation from "The Monster" most effectively illustrates the claim?
+
+"The Monster" is an 1898 story by Stephen Crane. In the story, whenever Jimmie, a young boy, has been scolded by his father for misbehavior, he seeks comfort from Henry Johnson, the man responsible for the care of Jimmie’s father’s horses. However, Henry does not always provide such comfort; Crane suggests this by writing, ____.
+
+
+A. “For one thing, Jimmie was invariably overcome with reverence when he was told how beautifully a harness was polished or a horse groomed.”
+B. “Henry… could usually provide a sin to place himself on a footing with the disgraced one. Perhaps he would remember that he had forgotten to put the hitching-strap in the back of the buggy on some recent occasion, and had been reprimanded by [Jimmie’s father].”
+C. “Henry would sometimes choose to absolutely repudiate [Jimmie’s behavior], and when Jimmie appeared in his shame would bully him most virtuously, preaching with assurance the precepts of [Jimmie’s father’s] creed, and pointing out to Jimmie all of his abominations.”
+D. “Whenever Henry dwelt for a time in sackcloth [a symbol of guilt over wrongdoing], Jimmie did not patronize him at all.”
+Answer: C
+
+
+Question 14:
+[Structure]
+Which choice best states the main idea of the text?
+
+The following text is Emily Dickinson’s circa 1873 poem “There is no Frigate like a Book.” A frigate is a light, fast ship; coursers are swift horses.
+There is no Frigate like a Book
+To take us Lands away
+Nor any Coursers like a Page
+Of prancing Poetry—
+This Traverse may the poorest take
+Without oppress of Toll—
+How frugal is the Chariot
+That bears the Human soul.
+
+
+A. People can learn more about distant places by reading books than by traveling to those places.
+B. Reading is a way of defying the modern world's emphasis on money.
+C. Literature can metaphorically transport people to new places regardless of their means.
+D. Poetry helps people recognize their similarities despite cultural differences.
+Answer: C
+
+
+Question 15:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In modern genetics, the theory of Lamarckian inheritance (1744–1829), whose core ideas were long dismissed by mainstream science, is being re-evaluated by a new generation of scientists—a renewed debate that is significantly driven by epigenetics researchers like Dr. Eva Jablonka, whose research ______ the mechanisms for inheriting acquired traits prompts a fundamental reconsideration of evolutionary theory itself.
+
+
+A. demonstrates
+B. demonstrating
+C. has demonstrated
+D. is demonstrating
+Answer: B
+
+
+Question 16:
+[Infer]
+Which choice most logically completes the text?
+
+The advent of online streaming has led many music listeners to drift away from ownership of music (through downloads or through physical media such as compact discs) in favor of the streaming services YouTube Music and AccuRadio, among others. Luis Aguiar studied the effect of the 2011 implementation of a restriction on the free version of the French streaming service Deezer: its unlimited usage was reduced to five hours a month, while the paid premium version’s usage remained unlimited. Aguiar found that listeners who used the free service visited licensed online music sellers (e.g., the iTunes store) and sites that make unlicensed music available to download about 2% less after the restriction was implemented, suggesting that ______.
+
+
+A. the implementation of the restriction reduced the overall number of users of the streaming service
+B. restrictions on the amount of music that can be streamed may actually suppress users’ interest in owning music
+C. most users of the free streaming service were probably encouraged by the restriction to move to a paid version of the service with unlimited, ad-free listening
+D. consumers are unlikely to purchase physical copies of music that is readily available through streaming
+Answer: B
+
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Renewable energy sources have made the generation of sustainable electrical power cheaper than ever. To generate such power by means of wind turbines does raise a significant environmental ______ local regulations stipulate that turbines can be built near wildlife habitats, according to ecologist Marco Gallo, bird populations are not monitored when their migration paths are included in impact studies.
+
+
+A. issue; though
+B. issue: though
+C. issue, though,
+D. issue, though
+Answer: B
+
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In a report dated March 22nd, 2021, ecologist Anya Sharma tries to convince the National Parks Board that the forest's decline in biodiversity, often attributed to climate change among environmental activists, ______ due to issues local landowners have about implementing conservation measures with costly ecosystem-based approaches.
+
+
+A. has mainly happened
+B. mainly happened
+C. is mainly happening
+D. mainly happening
+Answer: C
+
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Kenji Tanaka, a Japanese American architect, integrates traditional Japanese design into his modern buildings. Tanaka’s 2018 residential project, *Komorebi House*, utilizes shoji screens to filter light in patterns reminiscent of sunlight through forest ______ in *The Riverstone Center*, a 2021 office complex, Tanaka features an indoor water garden whose flowing water mimics the sound of a mountain stream.
+
+
+A. leaves, for instance,
+B. leaves. For instance, while
+C. leaves; for instance,
+D. leaves, for instance, while
+Answer: D
+
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+While other even-toed ungulate species, such as the oribi (Ourebia ourebi), are among the most populous animal species on earth, the tamaraw (Bubalus mindorensis) has a total population of roughly 300 ______ one of the criteria required for a species to be considered endangered.
+
+
+A. individuals; fulfilling
+B. individuals: fulfilling
+C. individuals. Fulfilling
+D. individuals, fulfilling
+Answer: D
+
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Architect Victor Gruen, the designer of Indiana’s Woodmar Plaza shopping mall, conceived of the mall as an indoor version of the European town square, a communal space that encouraged visitors to stroll and linger. ______ he designed Woodmar Plaza with long, pedestrian-friendly promenades and ample seating areas clustered around fountains and greenery.
+
+
+A. In addition,
+B. Regardless,
+C. Accordingly,
+D. By contrast,
+Answer: C
+
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In his meta-analysis of recent studies of animal information cascades, Joseph S. McCormick presents several examples of adaptive cascades (i.e., information transfers that benefit a collective), including one that involves humpback whales. However, not all cascades are beneficial. ___ His meta-analysis cites one study that described how black-throated blue warblers followed flock-mates' choice of habitat even when that habitat lacked adequate vegetative cover.
+
+
+A. Instead,
+B. In response,
+C. Indeed,
+D. In addition,
+Answer: C
+
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The concept of "alpha" wolves—dominant pack leaders who win their status through aggression—is a popular idea in wildlife biology. However, the researcher who originally coined the term has since demonstrated that the behavior was only observed in captive, unrelated wolves. Wild wolf packs, in fact, function like families with the parents leading. The "alpha" model, ______ should be understood as a misinterpretation of animal social structures.
+
+
+A. for example,
+B. by contrast,
+C. nevertheless,
+D. therefore,
+Answer: D
+
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In a given rock formation, Fortunian rock from 538 million years ago might directly abut Rhaetian rock from 208.5 million years ago, with millions of years of material missing in between. ______ time did not stand still during these intervening years; the unaccounted-for sedimentary material was likely removed from the stratigraphic record via erosion and weathering.
+
+
+A. On the contrary,
+B. Of course,
+C. As a result,
+D. In particular,
+Answer: B
+
+
+Question 25:
+[Synthesis]
+The student wants to compare how Schubart and Charpentier describe the mood of C minor. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•In music theory, the term “key” refers to the set of musical notes that forms the foundation of a piece of music.
+•In *Ideas Toward an Aesthetic of Music* (1806), German poet and composer Christian Schubart describes the moods of various musical keys.
+•He describes the key of C minor as expressing “longing.”
+•In *Règles de Composition* (1682), French composer Marc-Antoine Charpentier undertakes the same task.
+•He describes the key of C minor as “obscure and sad.”
+• “Don’t Speak” by No Doubt (1996) is a song written in C minor.
+
+
+A. Schubart and Charpentier each undertook the task of describing the mood of various keys, including C minor.
+B. Schubart describes the mood of C minor as expressing “longing,” while Charpentier describes it as “obscure and sad.”
+C. The song “Don’t Speak” by No Doubt is written in the key of C minor, the mood of which has been described as expressing “longing.”
+D. The key of C minor is one of various keys, which are sets of musical notes that form the foundations of pieces of music.
+Answer: B
+
+
+Question 26:
+[Synthesis]
+The student wants to emphasize a difference between the two sculptures. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Need Money for Cars is a 2023 sculpture by American artist Beau Dunn. It consists of a white neon sign that spells out the title phrase.
+• Pyramid (Yellow) is a 2011 sculpture by Mexican-Swiss artist Ana Roldán. It consists of a yellow neon sign that forms an abstract triangle shape.
+• Neon signs became popular with advertisers in the 1920s and began to decline in popularity in the 1960s.
+• Neon signs became popular with artists in the 1960s and continue to be popular today.
+
+
+A. While the sculptures share a common material, one spells out a phrase while the other is decidedly more abstract.
+B. Molded into an evocative phrase in Need Money for Cars (2023), an abstract form in Pyramid (Yellow) (2011), and an advertising tool in decades past, neon lighting has a number of different applications.
+C. Roldán’s sculpture was made in 2011 and Dunn’s in 2023, both well after the advertising heyday of neon signs had passed.
+D. American artist Beau Dunn’s and Mexican-Swiss artist Ana Roldán’s sculptures have employed neon signs in different ways, demonstrating the versatility of the popular material.
+Answer: A
+
+
+Question 27:
+[Synthesis]
+The student wants to refute a claim that malapportionment in the Storting favors small urban districts. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Malapportionment is the over- or underrepresentation (relative to population size) of electoral districts in a governing body.
+• It is a common feature of representative governments.
+• There are 169 seats in Norway’s supreme legislature (the Storting).
+• Seats are distributed by a formula that awards 1 point per resident and 1.8 points per unit of land.
+• Less populated rural districts with large tracts of land receive a disproportionate number of seats compared to smaller but more populated urban districts.
+
+
+A. Awarding more points per unit of land than points per resident, the formula for distributing Storting seats overrepresents less populated rural districts with large tracts of land.
+B. A common feature of representative governments, malapportionment occurs when electoral districts are over- or underrepresented.
+C. Less populated rural districts are disproportionally underrepresented in the Storting, creating an unfair advantage for smaller but more populated urban districts.
+D. It’s untrue that malapportionment in the 169-seat Storting favors small urban districts; rather, the formula for distributing seats overrepresents more populated district
+Answer: A

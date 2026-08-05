@@ -1,0 +1,376 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The romantic style evident in many paintings by Jérôme-Martin Langlois tended to enhance subjects, exaggerating their beauty or heroism while hiding all imperfection, a practice that was seen as fundamentally dishonest by many painters. This led to the development of the realist style as a way to counteract this artificiality, resulting in works such as The Gleaners by Jean-François Millet, which gives us an accurate, rather than _____, portrayal of peasants picking stray wheat from a field after the harvest.
+
+
+A. an innovative
+B. a humble
+C. an idealized
+D. a subtle
+Answer: C
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In his experimental film Koyaanisqatsi (1982), Godfrey Reggio employs slow-motion and time-lapse techniques to align visual sequences with Philip Glass’s score; however, by rhythmically intercutting disparate subjects—such as the movement of water and the flow of automobile traffic—Reggio suggests that even seemingly unrelated elements can be ______ into a singular, unified cinematic experience.  
+
+
+A. synthesized
+B. bifurcated
+C. polarized
+D. marginalized
+Answer: A
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The work of Tobias Gerstenberg et al. on tracking eye movements supports a theory that people engage in ____ thinking when making causal judgments: when subjects were asked to look at two colliding billiard balls and judge whether one caused or prevented the other’s movement through a gate, their eyes looked at where the target ball would have gone if the ball that altered its path did not exist.
+
+
+A. ambivalent
+B. counterfactual
+C. analogical
+D. associative
+Answer: B
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+There is _____ in the director’s most recent film that keeps the melodramatic possibilities latent in its script safely at bay. The restraint exercised in the storytelling allows for a more nuanced exploration of the characters' internal conflicts, maintaining a dignified tone throughout the narrative.
+
+
+A. a mawkishness
+B. a predictability
+C. an austerity
+D. an ostentatiousness
+Answer: C
+
+Question 5:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Scientists who study celestial objects can determine the radial velocity of any particular star by analyzing its spectrum—the dispersion of its light into various wavelengths. Should a star (or other body) move toward us, its spectral lines shift toward shorter wavelengths. The faster the object is traveling, the more pronounced this shift becomes. Although this type of spectroscopic examination is relatively straightforward when studying stars in our cosmic neighborhood, it becomes markedly more complicated for those located in the far reaches of the Milky Way’s outer halo. Even powerful telescopes struggle to collect sufficient light from such distant objects. As a result, astronomer Ulrich Heber hypothesizes that numerous low-mass hypervelocity stars remain undetected. While these small stars have longer lifespans than the very bright, blue B-type stars, they emit substantially less light.
+
+
+A. A specific astronomical event is explained, followed by an irregularity related to that event.
+B. A procedure for gathering data is presented, and then questions are raised about its reliability.
+C. A new analytical method is introduced, and subsequent discoveries using that method are summarized.
+D. A particular technique, along with its drawbacks, is examined, and afterward a projection is put forth.
+Answer: D
+
+Question 6:
+[COE]
+Based on the text, what most likely motivates Tía Ana’s behavior during Salomé’s salon?
+
+The following text is from Julia Alvarez’s 2000 novel *In the Name of Salomé*. Salomé, a poet, is hosting guests in the front parlor of her family home, and Ramona is her sister. A salon is a social gathering for the exploration of intellectual ideas.
+It was evening when the two men got up to leave. Tía Ana had already come into the room several times to see if these guests had departed yet. The front parlor had always been her special province, as she used it for her little school. Now, every evening, it turned into Salomé’s salon, as Ramona called it, and it was never in order for its transformation back to a classroom the following morning.
+
+
+A. She is frustrated because she needs assistance elsewhere in the house, but Salomé is unavailable while entertaining the guests.
+B. She is anxious for the gathering to disperse so that she can ready the space for her own needs.
+C. She is impatient to share her plans to start a new school with the guests and hopes they will support her.
+D. She finds the guests to be dull and is eager to find a way to leave the salon.
+Answer: B
+
+Question 7:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+Most Native languages belong to language families, or groups of languages whose structural and lexical correspondence likely derives from their descent from a single language spoken long ago. A minority—such as Washoe, which is spoken in California and Nevada, and Yuchi, which is spoken in Oklahoma—are isolates, having no demonstrable genealogical relationship to other languages. __Yet Washoe and Yuchi, like all isolates, are potentially remnants of families whose other members vanished before the historical record could attest to them, perhaps through the geographical expansion of extant families.__
+
+
+A. It implies that a nonisolate language may have influenced both Washoe and Yuchi to such a degree that their relationship to their former families is no longer discernible.
+B. It proposes that the distinction made between present-day nonisolate languages and isolates like Washoe and Yuchi may not have been applicable in the distant past.
+C. It suggests that the ancestral languages of both Washoe and Yuchi were likely isolates that replaced nonisolate languages through geographic expansion in the distant past.
+D. It asserts that the historical record tends to overrepresent nonisolate languages relative to isolates, such that the origins of Washoe and Yuchi are obscure to scholars in the present day.
+Answer: B
+
+Question 8:
+[COE]
+Which choice most effectively uses data from the table to complete the assertion?
+
+*Drosophila* (fruit flies) have generation times of 10–12 days, so seasonal changes in humidity and other environmental conditions can drive seasonal fluctuations in chromosome rearrangements in species such as *D. persimilis* and *D. melanogaster*. *Drosophila* body size (for which wing centroid size serves as a proxy measure) correlates with life span. Banu Sögüt and Canisida Aksoy measured the wing sizes of members of *D. melanogaster* populations in Yesilur, Turkey, that were collected monthly between May and October over three years. Their research suggests that *Drosophila* collected in relatively cooler months should tend to have a shorter life span, as is illustrated by the finding that _____.
+
+
+
+A. the average monthly low temperature was lower in May than in June.
+B. the average male wing centroid size was 1.98 mm in May but was 2.31 mm in July.
+C. the average male wing centroid size was consistently smaller than the average female wing centroid size in all four months in the table.
+D. the average female wing centroid size was smaller in May than in June.
+Answer: D
+
+Question 9:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+Minimum and Maximum Depths of Stony Coral Species in Caribbean and
+Indo-Pacific Waters
+
+Scleractinian corals, also known as stony corals due to their hard skeletons, live in all the world’s oceans. While researching four stony coral species, a marine biologist wanted to determine the depths at which those species are found. Consulting the table, she noted that the greatest maximum depth for any of these species is ______.
+
+
+A. 80 meters.
+B. 130 meters.
+C. 20 meters.
+D. 92 meters.
+Answer: D
+
+Question 10:
+[COE]
+Which choice best describes data from the table that support the researchers' conclusion?
+
+Observed Traits in a Population of Broadleaf Arrowhead, by Flowering Date
+
+The mating environment hypothesis predicts that populations of flowering plants compensate for reduced mating opportunities due to dichogamy (a plant's expression of male and female functions at separate times to prevent self-pollination) by adjusting the bias of floral sex allocation during the flowering period, increasing the probability of successful cross-plant pollination. Researchers tested the hypothesis by examining a population of broadleaf arrowhead, a plant for which bloom onset generally takes longer for male flowers than for female flowers, during the flowering season. They concluded that the mating environment hypothesis is not well supported by their observational data.
+
+
+A. Whereas the total number of open flowers per growth unit peaked on day 15, the proportion of male flowers experienced a peak earlier in the flowering season, on day 10.
+B. Despite the sharp reduction in the total number of open flowers per growth unit from day 15 to 20, there was no decline in the estimated reproductive success rate of male flowers in that interval.
+C. Sex allocations were largely evenly distributed on days 10 and 15 but were female biased on days 5 and 20.
+D. Although sex allocations became overwhelmingly female biased by day 20, male flowers' estimated reproductive success rate did not vary from day 5 to 20.
+Answer: D
+
+Question 11:
+[COE]
+Which detail about poems associated with neo‐ballata Italiana, if true, would best illustrate the underlined claim?
+
+Born in Verona in 1917, poet and literary historian Lucia Farnese spearheaded the *neo‐ballata Italiana* movement, which arose in the late 1950s and subsequently spread across Southern Europe, including Portugal and Spain, as *neo‐ballata*. Farnese toured extensively throughout Italy, gathering manuscripts, local folklore, proverbs, and other pieces of cultural tradition. These sources provided the groundwork for the movement’s early revitalization of classical Italian balladry in new compositions that depicted contemporary working‐class experiences and strongly advocated social transformation. __As the movement reached beyond Italy, so too did the range of poetic traditions woven into its core expand.__
+
+
+A. Many include strong critiques of current social issues arising from shared consequences of historical conflicts in Europe.
+B. Many exhibit the stylistic influence of romance, a Spanish form of narrative verse that became closely linked with political motifs in the early nineteenth century.
+C. A significant number were composed for performance on the liuto, a traditional stringed instrument used in multiple Mediterranean countries, including Italy.
+D. Several were authored by Portuguese writers in the late 1950s, followed soon thereafter by works from poets in other parts of Southern Europe.
+Answer: B
+
+Question 12:
+[COE]
+Which choice most effectively uses data from the table to complete the example?
+
+Some studies of migrating animals measure how far the animals travel in a year by fitting individuals with GPS tracking collars. Other studies track annual round-trip distance (RTD), which is equal to double the distance separating the two habitats a population migrates between each year. A researcher argues that since GPS records all of an animal’s movements, using the GPS method to track a population would result in significantly higher recorded travel distances than using the RTD method would. For example, it’s very likely that the distance reported for the _____.
+
+
+
+A. Mongolian gazelle would be greater than 5,067 kilometers if the GPS method had been used.
+B. Khulan would be greater than 2,356 kilometers if the RTD method had been used.
+C. Mongolian gazelle would be less than 600 kilometers if the GPS method had been used.
+D. Khulan would be less than 5,067 kilometers if the RTD method had been used.
+Answer: D
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+Liverpool Football Club won more than half its home matches between 1947 and 2003, helping to distinguish the team as a top British professional soccer club. Additionally, Liverpool, whose home uniform color is mainly red, was more successful in home matches than was Watford Football Club, whose home uniform color is not red. Research has shown that many people associate the color red with power and dominance. Past experiences with red objects such as stop signs can even cause people to respond to the color red with caution and hesitation. These findings, if applicable in the context of athletic competitions, could suggest that in matches played at Liverpool’s home stadium, opponents may have ___
+
+
+A. played more aggressively than they would have if their own uniforms were red.
+B. been influenced by the color of Liverpool’s uniforms.
+C. been aware that Liverpool’s uniform color affected their own performance.
+D. been unaffected by the red clothing worn by fans in the stadium.
+Answer: B
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Some representations of the cataclysmic fate of the comic book planet Krypton illustrate a common trope in disaster stories: people’s self-destructive carelessness. Explanations of real-world societal collapse betray a similar pattern. One theory about the downfall of Rapa Nui, for example, argues that residents invited disaster by despailing the island’s Jubaea palm forests, leading to a scarcity of wood for fuel and canoe construction. Archaeological evidence, however, suggests that residents adapted to environmental conditions by relying on grass and other plants for cooking and driftwood for making canoes. Given that other factors—e.g., disease and conflict arising from European contact—played a crucial role in Rapa Nui’s eventual demise, it therefore seems unlikely that ______.
+
+
+A. deforestation was merely indirectly responsible for an irreversible collapse of Rapa Nui’s subsistence economy.
+B. its residents’ focus on environmental challenges prevented them from devoting adequate attention to political issues.
+C. its residents would have failed to appreciate the relevance of fictional disaster stories to their own predicament.
+D. its residents’ lack of environmental awareness was ultimately responsible for Rapa Nui’s collapse.
+Answer: D
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+In 1973, oil prices rose 16% between April and September, creating what economists term an oil shock. Although oil shocks have occurred multiple times since 1945, a broadly applicable description of how oil shocks affect economies at the national level has proved elusive, a problem typically attributed to the fact that oil shocks' effects are substantially conditioned on country-specific characteristics (oil import-export ratios, most importantly). Recently, however, Gbadebo Oladosu et al. showed that economists' estimates of national economies' responsiveness to oil shocks are highly heterogeneous even within a given country and time frame—ranging by more than a factor of five in the case of Japan during a recent oil shock, for instance—suggesting that ______.
+
+
+A. differences in oil import-export ratios from one country to another may account for more of the differences in the effects of oil shocks on those countries' economies than economists previously believed.
+B. controlling for variations in countries' oil import-export ratios may have obscured inconsistencies in economists' findings about the effects of oil shocks at national levels.
+C. economists' conventional measures of national economic activity may be insufficiently sensitive to the effects of oil shocks.
+D. methodological discrepancies in studies of oil shocks may have contributed to economists' inability to provide a generalized model of oil shocks' effects on national economies.
+Answer: D
+
+Question 16:
+[COE]
+Which choice best describes data from the table that support the researchers' conclusion?
+
+Dr. Chen's team investigated the performance of two chemical catalysts, A (a standard formulation) and B (an experimental one), under varying thermal conditions. Initial tests showed that under standard conditions, Catalyst A consistently outperformed Catalyst B in terms of reaction yield. However, the team's primary goal was to understand how performance changes across a range of temperatures. After analyzing the data, they concluded that Catalyst A's superiority holds true only within lower temperature ranges and is reversed at higher temperatures.
+
+
+
+A. A slight negative correlation was observed between temperature and the yield of Catalyst A, while a strong positive correlation existed between temperature and the yield of Catalyst B.
+B. At operating temperatures of 300°C or lower, Catalyst A produced a higher reaction yield than Catalyst B, whereas at 400°C or higher, Catalyst B's yield was equal to or greater than that of Catalyst A.
+C. Overall, Catalyst A proved to be a high-yield catalyst, and its performance was not significantly affected by changes in operating temperature.
+D. Unlike the results at 400°C where the catalysts performed equally, tests at all other temperatures revealed a significant performance gap between Catalyst A and Catalyst B.
+Answer: B
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In the book A Theory of Harmony (1985), Swiss musicologist Ernst Levy argued that every chord has an opposite that can be substituted for it. For example, a pianist could replace the iv chord for the V chord while ______ chord is a given chord’s opposite can be determined using a music visualization tool called the circle of fifths.
+
+
+A. improvising, which
+B. improvising and which
+C. improvising. Which
+D. improvising which
+Answer: C
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The theoretical framework of cognitive behavioral therapy is founded on several core ______ by American psychologist Aaron T. Beck, who aimed to replicate systematic scientific methods; this therapy prioritizes working with experienced therapists trained in cognitive restructuring and introduces clients as young as adolescents to fundamental techniques such as thought records.
+
+
+A. principles developed
+B. principles: developed
+C. principles. Developed
+D. principles that, developed
+Answer: A
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Along with carbon dioxide concentration and temperature, light intensity affects the chemical reaction rate of ____ as light intensity increases, so does the rate at which the reactants (water and carbon dioxide) are converted into their products (glucose and oxygen).
+
+
+A. photosynthesis
+B. photosynthesis:
+C. photosynthesis and
+D. photosynthesis,
+Answer: B
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Classified as a noble gas, the element "argon" has a full outer electron shell, making it highly stable. The element "sodium," by comparison, has a single valence electron in its outer shell, an atomic structure ______ to in chemistry as highly reactive.
+
+
+A. referred
+B. is referred
+C. referring
+D. refers
+Answer: A
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+With his room-sized installation Unicorn/My Private Sky, Norwegian artist Børre Sæthre succeeds in creating a whimsical yet perplexing experience. ______ when visitors set foot inside the fantastically blue room and encounter the life-sized stuffed unicorn preening at the far end of it, they are both dazzled and confused—as if stepping into a strange and enchanting new world.
+
+
+A. Second,
+B. Nevertheless,
+C. Indeed,
+D. Instead,
+Answer: C
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Victorian novelist Mary Arden chose to publish her early novels under the pseudonym “Icarus Blythe” to avoid the restrictive attitudes toward women writers of her era. Issuing works anonymously or with a pen name provided multiple advantages: it shielded her from social prejudice and granted her a measure of creative autonomy. ______ it empowered her to experiment with unconventional stylistic structures that might have been rejected outright if readers knew the author’s true identity.
+
+
+A. For instance,
+B. Conversely,
+C. Furthermore,
+D. As a result,
+Answer: C
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Avogadro's constant, the fundamental measure of the number of particles in one mole established in the early 20th century, was originally estimated using methods like Brownian motion. ______ as technology advanced, new experiments would produce increasingly accurate values, yet the accepted standard remained a subject of refinement; it wasn't until 2019 that, driven by precise measurements of a silicon sphere, the constant was officially redefined with a fixed numerical value.
+
+
+A. Granted,
+B. Over time,
+C. Specifically,
+D. To that end,
+Answer: B
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The comic strips Compu-Toon by Charles Boyce and Torchy Brown by Jackie Ormes feature clever humor and engaging characters. ______ Torchy Brown highlights social and political themes.
+
+
+A. Therefore,
+B. In other words,
+C. Instead,
+D. In addition,
+Answer: D
+
+Question 25:
+[COE]
+The researcher wants to contrast the orbital characteristics of these two moons. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The gas giant Rhea hosts 140 known satellites, among them Thamus and Marata.
+• Thamus completes one revolution around Rhea in approximately 83 Earth days.
+• Marata completes one revolution around Rhea in about 1.02 Earth days.
+• The Italian mathematician and celestial theorist Luigi Bassano (born 1610, died 1675) proposed that planetary orbits take the form of ellipses, not circles.
+• Bassano published his renowned three principles of orbital motion to depict how planets orbit a star.
+• åThese same principles also extend to the elliptical paths of satellites (for instance, moons).
+
+
+A. Thamus travels in an elliptical path around Rhea and takes about 83 Earth days to do so, whereas Marata follows a perfectly circular trajectory and takes roughly 1.02 Earth days.
+B. Bassano’s three principles of orbital motion describe planetary and satellite paths, which include Thamus and Marata.
+C. Marata completes its route around Rhea at a speed far exceeding that of Thamus.
+D. Rhea’s satellites, including Thamus and Marata, revolve around the planet similarly to the way planets encircle a star.
+Answer: C
+
+Question 26:
+[Synthesis]
+The student wants to emphasize a difference between Inuktitut and Danish nouns. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Inuktitut is a language in the Inuit language family.
+•In Inuktitut, a noun takes a different form when that noun functions as a location in a sentence.
+•The Inuktitut noun *umiaq* (boat) is combined with the locative suffix -mut to become the locative noun *umiarmut* (in the boat).
+•Danish is a language in the Germanic language family.
+•In Danish, nouns do not change form to indicate location.
+•In Danish, nouns used as a location must be indicated by prepositions such as *i* (in) or pa (on).
+
+
+A. Though nouns in Inuktitut change form to indicate location, this Inuit language belongs to a different language family than Danish does.
+B. To indicate location in Inuktitut, a suffix is appended to a noun, but in Danish, the noun is unchanged and a preposition is used.
+C. In Inuktitut, nouns take a different form when they function as a location, as the language belongs to the Inuit family; Danish, however, belongs to the Germanic family.
+D. Inuktitut and Danish belong to two distinct language families; the former is in the Inuit family, while the latter is a Germanic language.
+Answer: B
+
+Question 27:
+[Synthesis]
+The student wants to describe Silver Upper White River to a new audience. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Maya Lin is an American artist known for her memorials and works of installation art.
+• She completed the *Women’s Table* in 1993.
+• It is a memorial sculpture consisting of a thirty-two-ton granite fountain, and it is designed to commemorate female students at Yale University.
+• She completed *Silver Upper White River* in 2015.
+• It is an installation composed of recycled silver that fills an entire gallery wall.
+
+
+A. Completed in 2015, Maya Lin’s Silver Upper White River is a large-scale installation artwork composed of recycled silver that fills an entire gallery wall.
+B. Artist Maya Lin is well known for her installation art, such as Silver Upper White River (2015), and for her memorials.
+C. Maya Lin’s Women’s Table is a granite memorial sculpture that commemorates female students at Yale University, while Silver Upper White River is an installation artwork.
+D. Though Maya Lin’s Silver Upper White River (2015) is not a memorial, its gallery-filling scale may call to mind the imposing Women’s Table, which consists of a thirty-two-ton granite fountain.
+Answer: A

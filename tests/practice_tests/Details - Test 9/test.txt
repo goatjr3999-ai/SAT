@@ -1,0 +1,121 @@
+Question 1:
+[COE]
+Based on the text, how would an advocate of the energy ladder model most likely explain the change observed in Brazil?
+
+In Brazil, use of solid fuel (e.g., coal, wood) as a share of total household fuel use fell by around 70 percent between 2000 and 2019; such shifts are typically explained by appeal to the energy ladder, a model holding that fuel choice is mediated mainly by household income (specifically, high-technology fuels displace solid fuels as incomes rise). Alemu Mekonnen and Gunnar Köhlin’s study of fuel use in Ethiopia shows this model to be reductive, however: household fuel use was heterogeneous, flexible, and influenced by several factors, including households’ cooking habits.
+
+A. Between 2000 and 2019, household incomes rose in Brazil, resulting in households meeting a greater proportion of their fuel needs with high-technology fuels.
+B. Beginning in 2000, high-technology fuels became more readily available in Brazil, enabling households of various income levels to shift away from solid fuels.
+C. Solid fuel use declined in Brazil between 2000 and 2019 because changes in household income during that period made solid fuels more expensive relative to income.
+D. Household incomes in Brazil rose from 2000 to 2019, which weakened the association between income and household fuel choice.
+Answer: A
+
+Question 2:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+President Richard Nixon is most famous for his participation in the 1970s Watergate political scandal, a convoluted tale of criminality and eroded ethics involving a constellation of associates such as Attorney General Richard Kleindienst and Republican Party official Robert Mardian. __But Nixon's legacy is complex: he has been praised for his role in opening relations between the United States and China, and he once made an attempt at reforming United States health care policy that is arguably a precursor to the Affordable Care Act, which became law during the Barack Obama administration.__
+
+A. It compares the achievements of two historical figures.
+B. It offers information suggesting that a particular perception of a historical figure is an oversimplification.
+C. It provides evidence supporting a claim about a historical figure and that figure's associates.
+D. It explains why a historical figure’s accomplishments are often disregarded by historians.
+Answer: B
+
+Question 3:
+[COE]
+Which quotation from Poems most effectively illustrates the claim?
+
+Poems is an 1895 collection of poetry by Frances E.W. Harper. In one of Harper’s poems, the speaker declares her intention to create art that has a universal appeal across generations, saying, ___
+
+A. “Our world, so worn and weary, / Needs music, pure and strong, / To hush the jangle and discords / Of sorrow, pain, and wrong.” (from “Songs for the People”)
+B. “Let me make the songs for the people, / Songs for the old and young; / Songs to stir like a battle-cry / Wherever they are sung.” (from “Songs for the People”)
+C. “God bless our native land, / Land of the newly free, / Oh may she ever stand / For truth and liberty.” (from “God Bless Our Native Land”)
+D. “My mother’s kiss, my mother’s kiss, / I feel its impress now; / As in the bright and happy days / She pressed it on my brow.” (from “My Mother’s Kiss”)
+Answer: B
+
+Question 4:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+The Far Side of the World, first published in 1984, is a novel in Patrick O’Brian’s Aubrey/Maturin series, which includes twenty books plus an unfinished fragment of a twenty-first. __Some critics have found fault with the abrupt endings of The Far Side of the World and other books in the series, saying that they do not finish conclusively but arbitrarily stop,__ but other critics argue that the books should not be thought of as discrete texts with traditional beginnings and endings but as a single incredibly long work, similar to other multivolume stories, such as Anthony Powell’s A Dance to the Music of Time.
+
+A. It explains why many critics find the Aubrey/Maturin novels to be entertaining despite flaws in the novels’ structures.
+B. It describes a characteristic of the Aubrey/Maturin novels and summarizes a negative assessment of it.
+C. It argues that the unusual structure that O’Brian uses for The Far Side of the World makes it one of his least entertaining books.
+D. It presents a reason most critics think the Aubrey/Maturin series should not have the literary renown of similar works like A Dance to the Music of Time.
+Answer: B
+
+Question 5:
+[COE]
+What does the text most strongly suggest about Tom Towers?
+
+The following text is from Anthony Trollope’s 1855 novel The Warden. Tom Towers is a writer for the newspaper The Jupiter.
+It is true that in far-off provinces men did not talk daily of Tom Towers but they read The Jupiter, and acknowledged that without The Jupiter life was not worth having. This kind of hidden, but still conscious glory suited the nature of the man. He loved to sit silent in a corner of his club and listen to the loud chattering of politicians, and to think how they all were in his power—how he could smile the loudest of them, were it worth his while to raise his pen for such a purpose.
+
+A. He has received much praise but tends to place too much value on his own importance.
+B. He takes private satisfaction in his capacity to influence public opinion.
+C. He aims mainly to win the regard of readers who reside in other provinces.
+D. He flatters himself that his readers take a greater interest in him than in politicians.
+Answer: B
+
+Question 6:
+[COE]
+Cooper would most likely agree that certain nineteenth-century British women’s organizations
+
+Miller contends that nineteenth-century British government officials largely overlooked the activities of women's organizations, and most historians agree that these groups received little attention from authorities. While Taylor suggests that this was likely because very few women's organizations existed during much of the century, Cooper has discovered numerous women’s groups, particularly charity leagues, which often received more favorable treatment from local and national officials than their male counterparts. However, she argues that these groups’ deliberate “invisibility”—including avoiding large public meetings, infrequent publications, and a careful maintenance of the traditional, unthreatening image of charity ladies—kept them mostly out of the public eye.
+
+A. sometimes took advantage of their charitable status
+B. aimed to shift public perceptions of the work done by charity ladies
+C. deliberately misrepresented their activities to government officials
+D. behaved in a way that helped them remain unnoticed by government officials
+Answer: D
+
+Question 7:
+[Details]
+Which choice best states the function of the underlined sentence in the text as a whole?
+
+Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship. While horizontal gene transfer is common among prokaryotes—single-celled organisms such as the bacteria Carnobacterium viridans and Massilia timonae—it has rarely been observed among eukaryotes (typically multicellular organisms). __However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought.__
+
+A. It implies that a common perception of horizontal gene transfer may be inaccurate.
+B. It compares the frequencies with which horizontal gene transfer has been detected in two categories of organisms.
+C. It argues that a particular direction of research concerning horizontal gene transfer is likely to be fruitless.
+D. It indicates a distinction between horizontal gene transfer and vertical gene transfer.
+Answer: A
+
+Question 8:
+[COE]
+It can be inferred that the author of the passage mentions predators primarily in order to
+
+When marine organisms called phytoplankton photosynthesize, they absorb carbon dioxide dissolved in seawater, potentially causing a reduction in the concentration of atmospheric carbon dioxide, a gas that contributes to global warming. However, phytoplankton flourish only in surface waters where iron levels are sufficiently high. Martin therefore hypothesized that adding iron to iron-poor regions of the ocean could help alleviate global warming. While experiments subsequently confirmed that such a procedure increases phytoplankton growth, field tests have shown that such growth does not significantly lower atmospheric carbon dioxide. When phytoplankton utilize carbon dioxide for photosynthesis, the carbon becomes a building block for organic matter, but the carbon leaks back into the atmosphere when **__predators__** consume the phytoplankton and respire carbon dioxide.
+
+A. help explain why Martin’s hypothesis is incorrect
+B. identify one effect of adding iron to iron-poor waters
+C. indicate how some carbon dioxide is converted to solid organic matter
+D. help account for differences in the density of phytoplankton between different regions of the ocean
+Answer: A
+
+Question 9:
+[Details]
+Which choicce best describe the function of the underlined portion in the text as a whole?
+
+Long‐standing interpretations of ancient communities predominantly come from analyzing resilient relics—such as stone bangles. However, Dr. Elena Gomez and her colleagues offered innovative perspectives by exploring plant‐derived artifacts. Because organic objects like cane lances decay swiftly, they are rarely scrutinized. __That limited availability__ made the team’s investigation of remarkably intact plant‐based materials recovered from a cavern in France especially thrilling; in fact, the group found these specimens were much older than initially presumed.
+
+A. It points to a dilemma described earlier in the text.
+B. It indicates that the scientists did not completely fulfill a stated aim.
+C. It depicts the uncertain aspect of a result obtained by the researchers.
+D. It distinguishes between two varieties of artifacts mentioned earlier.
+Answer: A
+
+Question 10:
+[COE]
+Which of the following can be inferred from the passage regarding DuBois’ The Quest of the Silver Fleece?
+
+It would be expected that a novel by a figure as prominent as W. E. B. DuBois would attract the attention of literary critics. Additionally, when the novel subtly engages the issue of race, as DuBois’ The Quest of the Silver Fleece (1911) does, it would be a surprise not to encounter an abundance of scholarly work about that text. But though valuable scholarship has examined DuBois’ political and historical thought, his novels have received scant attention. Perhaps DuBois the novelist must wait his turn behind DuBois the philosopher, historian, and editor. But what if the truth lies elsewhere: what if his novels do not speak to current concerns?
+
+A. The lack of attention devoted to The Quest of the Silver Fleece can be attributed to the fact that it was DuBois’ first novel.
+B. Among DuBois’ novels, The Quest of the Silver Fleece is unusual in that it has received scant attention from scholars.
+C. The Quest of the Silver Fleece has at least one feature that typically would attract the attention of literary scholars.
+D. The Quest of the Silver Fleece, given its subtle exploration of race, is probably the best novel written by DuBois.
+Answer: C
+

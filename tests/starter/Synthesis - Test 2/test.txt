@@ -1,0 +1,124 @@
+Question 1:
+[Synthesis]
+The student wants to present the primary aim of the research study. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• As engineered structures, many bird nests are uniquely flexible yet cohesive.
+• A research team led by Yashraj Bhosale wanted to better understand the mechanics behind these structural properties.
+• Bhosale’s team used laboratory models that simulated the arrangement of flexible sticks into nest‐like structures.
+• The researchers analyzed the points where sticks touched one another.
+• When pressure was applied to the model nests, the number of contact points between the sticks increased, making the structures stiffer.
+
+
+A. Bhosale’s team wanted to better understand the mechanics behind bird nests’ uniquely flexible yet cohesive structural properties.
+B. The researchers used laboratory models that simulated the arrangement of flexible sticks and analyzed the points where sticks touched one another.
+C. After analyzing the points where sticks touched, the researchers found that the structures became stiffer when pressure was applied.
+D. As analyzed by Bhosale’s team, bird nests are uniquely flexible yet cohesive engineered structures.
+Answer: A
+
+Question 2:
+[COE]
+The student wants to provide an overview of the matsutake commodity chain. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+A commodity chain is the series of links connecting the production and purchase of a commodity on the world market.
+Chinese American anthropologist Anna Tsing studies the contemporary commodity chain of matsutake mushrooms.
+At one end are the matsutake mushroom pickers in Oregon.
+At the other end are wealthy consumers who buy the costly matsutake in Japan.
+Tsing shows that “the scarcity of matsutake in Japan first became clear” when Japanese traders began importing matsutake in the 1980s.
+
+
+A. The contemporary matsutake commodity chain has its origins in the 1980s when, according to Tsing, “the scarcity of matsutake in Japan first became clear.”
+B. Commodity chains include the linked production and purchase of commodities, such as the matsutake mushroom, on the world market.
+C. Decades after the Japanese import of matsutake began, a commodity chain now links matsutake pickers in Oregon with wealthy consumers of this mushroom in Japan.
+D. Wealthy consumers who buy the costly mushrooms in Japan are at one end of the matsutake commodity chain.
+Answer: C
+
+Question 3:
+[Synthesis]
+The student wants to present the study and its methodology. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+**While researching a topic, a student has taken the following notes:**
+• Ducklings expend up to 62.8% less energy when swimming in a line behind their mother than when swimming alone.
+• The physics behind this energy savings hasn’t always been well understood.
+• Naval architect Zhiming Yuan used computer simulations to study the effect of the mother duck’s wake.
+• The study revealed that ducklings are pushed in a forward direction by the wake’s waves.
+• Yuan determined this push reduces the effect of wave drag on the ducklings by 158%.
+
+
+A. A study revealed that ducklings, which expend up to 62.8% less energy when swimming in a line behind their mother, also experience 158% less drag.
+B. Seeking to understand how ducklings swimming in a line behind their mother save energy, Zhiming Yuan used computer simulations to study the effect of the mother duck’s wake.
+C. Zhiming Yuan studied the physics behind the fact that by being pushed in a forward direction by waves, ducklings save energy.
+D. Naval architect Zhiming Yuan discovered that ducklings are pushed in a forward direction by the waves of their mother’s wake, reducing the effect of drag by 158%.
+Answer: B
+
+Question 4:
+[Synthesis]
+The student wants to emphasize the duration and purpose of Cohen’s and Rodriguez’s work. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The Gullah are a group of African Americans who have lived in parts of the southeastern United States since the 18th century.
+• Gullah culture is influenced by West African and Central African traditions.
+• Louise Miller Cohen is a Gullah historian, storyteller, and preservationist.
+• She founded the Gullah Museum of Hilton Head Island, South Carolina, in 2003.
+• Vermelle Rodriguez is a Gullah historian, artist, and preservationist.
+• She founded the Gullah Museum of Georgetown, South Carolina, in 2003.
+
+
+A. At the Gullah Museums in Hilton Head Island and Georgetown, South Carolina, visitors can learn more about the Gullah people who have lived in the region for centuries.
+B. Louise Miller Cohen and Vermelle Rodriguez have worked to preserve the culture of the Gullah people, who have lived in the United States since the 18th century.
+C. Since 2003, Louise Miller Cohen and Vermelle Rodriguez have worked to preserve Gullah culture through their museums.
+D. Influenced by the traditions of West and Central Africa, Gullah culture developed in parts of the southeastern United States in the 18th century.
+Answer: C
+
+Question 5:
+[COE]
+The student wants to make and support a generalization about the orbits of comets. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+Astronomers estimate that the number of comets orbiting the Sun is in the billions.
+81P/Wild is one of many comets whose orbit has changed over time.
+81P/Wild’s orbit once lay between the orbits of Uranus and Jupiter.
+The comet’s orbit is now positioned between the orbits of Jupiter and Mars.
+
+
+A. Astronomers estimate that the number of comets orbiting the Sun is in the billions; the comets’ orbits may change over time.
+B. Like Uranus, Jupiter, and Mars, billions of comets orbit the Sun.
+C. One example of a comet is 81P/Wild, whose orbit around the Sun once lay between Uranus’s and Jupiter’s orbits but is now positioned between those of Jupiter and Mars.
+D. A comet’s orbit around the Sun may change over time: the orbit of comet 81P/Wild once lay between the orbits of Uranus and Jupiter but is now positioned between those of Jupiter and Mars.
+Answer: D
+
+Question 6:
+[COE]
+The student wants to make and support a generalization about nissologists’ definition of an island. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+Nissologists are scientists who study islands.
+Some nissologists define an island as any piece of land surrounded by water. Using that definition, they determined that Sweden has 221,000 islands.
+Other nissologists define an island as being 1 kilometer square, a certain distance from the mainland, and having at least 50 permanent residents. Using that definition, they determined that Sweden has 24 islands.
+
+
+A. The definition of an island as any piece of land surrounded by water is supported by some nissologists, scientists who study islands.
+B. Multiple counts of Sweden’s islands have been based on different definitions of an island.
+C. Based on a recent count, Sweden has a relatively small number of islands with at least 50 permanent residents.
+D. Nissologists’ different definitions can result in huge disparities in counts of islands, as the example of Sweden shows.
+Answer: D
+
+Question 7:
+[Synthesis]
+The student wants to present the study’s findings to an audience already familiar with thermal inversions. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• A thermal inversion is a phenomenon where a layer of atmosphere is warmer than the layer beneath it.
+• In 2022, a team of researchers studied the presence of thermal inversions in twenty-five gas giants.
+• Gas giant planets are largely composed of helium and hydrogen.
+• The team found that gas giants featuring a thermal inversion were also likely to contain heat-absorbing metals.
+• One explanation for this relationship is that these metals may reside in a planet’s upper atmosphere, where their absorbed heat causes an increase in temperature.
+
+
+A. Heat-absorbing metals may reside in a planet’s upper atmosphere.
+B. The team studied thermal inversions in twenty-five gas giants, which are largely composed of helium and hydrogen.
+C. Researchers found that gas giants featuring a thermal inversion were likely to contain heat-absorbing metals, which may reside in the planets’ upper atmospheres.
+D. Gas giants were likely to contain heat-absorbing metals when they featured a layer of atmosphere warmer than the layer beneath it, researchers found; this phenomenon is known as a thermal inversion.
+Answer: C
+

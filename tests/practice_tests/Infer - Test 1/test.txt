@@ -1,0 +1,120 @@
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+Amanda Reilly et al. demonstrated that professional athletes often exhibit physical differences in their motor cortex compared to non-athletes. Building on this, Christopher J. Adams et al. investigated whether such differences influence how physical activity generates a feeling of satisfaction. They asked athletes and non-athletes to perform various exercises—including sprint intervals, yoga poses, and rowing drills—and rate the intensity that felt most enjoyable. Although both groups had similar baseline fitness levels, athletes preferred a higher intensity of exercise compared to non-athletes, leading Adams et al. to conclude that _______.
+
+A. earlier studies may have exaggerated the role of motor cortex differences in influencing physical performance between athletes and non-athletes.
+B. differences in motor cortex structure in athletes may dampen the enjoyment of physical activity at lower intensities compared to non-athletes.
+C. unique features of athletes’ motor cortex anatomy may cause them to derive enjoyment from aspects of physical activity unrelated to intensity.
+D. athletic training may alter the motor cortex in ways that reduce sensitivity to physical activities that fail to provoke enjoyment.
+Answer: B
+
+Question 2:
+[Infer]
+Which choice most logically completes the text?
+
+Norway, which, according to international indices, has relatively strong democratic institutions and low intranational income inequality, experienced an inflation rate of 3.55% in 2016, whereas Cameroon, which shows the opposite pattern on such indices, had an inflation rate of only 0.86% that year. Such comparisons have engendered speculation that by diluting control over the economy, democratic institutions inhibit states’ ability to counteract inflationary pressures. To test this possibility systematically, Raj Desai et al. examined democratic strength, intranational inequality, and inflation in more than 100 countries, finding that democratic strength, if associated with inequality, restrains inflationary pressures, suggesting that ____
+
+A. the factors that contributed to Norway’s elevated inflation rate relative to Cameroon’s have less to do with the countries’ political institutions than with the countries’ levels of income inequality.
+B. speculations about the relative inability of democratic institutions to counteract inflation are based on measures that tend to exaggerate the levels of inflation in strongly democratic countries such as Norway.
+C. it would be a mistake to treat the relative inflation rates of Norway and Cameroon as indicative of an inherent shortcoming in democratic institutions with regard to control over inflation.
+D. the difference between Norway and Cameroon with regard to democratic institution strength may have been greater in 2016 than was represented by international indices.
+Answer: C
+
+Question 3:
+[Infer]
+Which choice most logically completes the text?
+
+In May of 1986, the Philippines liberalized its stock market, meaning that it began allowing foreign individuals and businesses to invest money in Filipino companies. This was part of a wave of stock market liberalizations around the world—Malaysia in 1987, Morocco in 1988, and so on. The standard view among economists at the time was that liberalization would make it easier for companies to raise money from investors. Economist Peter Blair Henry examined the economies of 11 countries that were part of the liberalization wave and found that, on average, companies based in those countries received significant increases in investment in the three years following liberalization, suggesting that ____.
+
+A. companies in Malaysia experienced a greater increase in investment following liberalization than did companies in the Philippines.
+B. economists who held the standard view of liberalization failed to anticipate some serious negative effects of liberalization.
+C. companies did not benefit from liberalization until at least three years after liberalization occurred.
+D. empirical evidence was consistent with the scholarly consensus about the consequences of liberalization.
+Answer: D
+
+Question 4:
+[Infer]
+Which choice most logically completes the text?
+
+Like many other genera of wild bees, bumblebees have in recent decades experienced population collapse caused by, among other factors, habitat destruction and climate variation. Bumblebees are also one of the most researched bee genera, second only to honeybees. As a result, ecologists have gained much of their insight about wild-bee declines from bumblebees. In a 2021 paper, zoologist Guillaume Ghisbain notes that bumblebees are among the relatively few wild-bee genera that display social behaviors and dietary generalism (ability to obtain nectar and pollen from a diversity of plant species), two traits that are associated with increased resilience to some specific environmental changes. Ghisbain therefore contends that ______.
+
+A. although bumblebees have been more extensively studied than most wild bees, researchers should not use bumblebees to draw conclusions about the decline of other wild bees, even ones with feeding patterns and levels of sociability that are similar to those of bumblebees.
+B. because bumblebees and other bees with generalist diets are less negatively affected by environmental stress than bees with specialized diets are, they are less likely to experience major population changes in the future than bees with specialized diets are.
+C. because the responses of bumblebees and other wild bees to environmental threats are not always comparable, researchers need to exercise caution when extrapolating information about wild-bee population declines from bumblebees.
+D. although bumblebees and many other wild bees have experienced similar population declines in the past, compared with other wild bees, bumblebees are likely at greater risk of being harmed by climate variation than by habitat destruction.
+Answer: C
+
+Question 5:
+[Infer]
+Which choice most logically completes the text?
+
+Researchers are conducting an investigation into the expansion and dispersion patterns of a particular cactus species, Carnegiea gigantea, which can only survive the climatic conditions in Arizona and has only been observed within the state’s central region. It is noteworthy that the eastern and western portions of the state, characterized by their hazardous terrain, pose substantial challenges to human exploration. Therefore, scientists hold the contention that a definitive assertion claiming the exclusive occurrence of Carnegiea gigantea solely within central Arizona would be premature, because _____.
+
+A. the climate of eastern and western Arizona is better than that of central Arizona
+B. Carnegiea gigantea exist in the eastern and western mountains of Arizona, but they are covered by other plants
+C. with technological progress, it will be possible to send people to explore the eastern and western parts of Arizona, where the existence of Carnegiea gigantea may be confirmed
+D. no one has ever been able to explore the central part of Arizona as a result of its treacherous terrain
+Answer: C
+
+Question 6:
+[Infer]
+Which choice most logically completes the text?
+
+Consumers increasingly expect that goods they purchase online will be delivered rapidly, even as soon as the day of purchase. Although efficiencies in long-distance transport of parcels have greatly improved delivery times, last-mile logistics (the final step in delivery to consumers) present a bottleneck for delivery companies. Time pressure resulting from consumer expectations is not the only challenge; other obstacles, such as high personnel costs associated with more deliveries, persist. While innovations to mitigate these challenges have been emerging—the use of cargo bikes, for instance—success has been constrained due to the additional complications that arise (e.g., cargo bikes must frequently return to depots to pick up new parcels). Accordingly, researchers suggest that ___.
+
+A. even with a substantial decrease in consumer expectations for rapid delivery, the bottleneck of parcels at the last-mile delivery stage will continue to grow.
+B. solving the problem of last-mile logistics is likely to require further breakthroughs related to delivery methods.
+C. speedy last-mile delivery is a leading factor in customer satisfaction, and thus delivery companies should work to improve the current inefficiencies that exist there.
+D. delivery companies should invest more heavily in proven long-distance parcel transport solutions than in untested last-mile delivery solutions.
+Answer: B
+
+Question 7:
+[Infer]
+Which choice most logically completes the text?
+
+Humans have a very strong bias toward right-handedness, with approximately 85–90% having right as their dominant hand. Among studies of nonhuman primates, James Welles’s 1976 study of captive chimpanzees and catarrhine monkeys reported more right-handed individuals than left-handed ones, but William C. McGrew and colleagues’ 1999 study of wild chimpanzees did not find a tendency toward right-handedness. It’s important to note, however, that captive animals spend significantly more time with humans than wild animals do, and therefore ____.
+
+A. the apparent difference between the two studies’ results may be partly attributable to the 1976 study using a different standard to determine handedness than the 1999 study did.
+B. the right-handedness exhibited by the captive chimpanzees and catarrhine monkeys might be, in part, an effect of extended contact with humans.
+C. the number of individuals in the study of captive chimpanzees and catarrhine monkeys is likely too small to support the claim that the species tends toward right-handedness.
+D. the number of individuals in the study of wild chimpanzees is probably too small to support the claim that no tendency toward right-handedness was found in that population.
+Answer: B
+
+Question 8:
+[Infer]
+Which choice most logically completes the text?
+
+The jade hawkmoth, a large-bodied moth, defends itself against the eastern red bat and other insect-eating bats, which use echolocation to hunt, by emitting ultrasonic clicks that can, for instance, disrupt the bats' echolocation signals. To investigate moths' defensive ultrasound—which researchers had thought was exclusive to tiger moths, hawkmoths, and one species of geometer moths—Akito Y. Kawahara et al. recorded the responses of moths from 252 genera, representing most families of large-bodied moths, to audio playback of bat echolocation. The researchers found that 52 of the genera, including several genera belonging to the geometer family, produced defensive ultrasonic clicks. This result suggests that ____
+
+A. ultrasound production is only one of a diverse range of effective strategies moths employ to evade bat attacks
+B. unlike the 52 moth genera that emit ultrasonic clicks, most moth genera have likely not developed defenses specifically against bat attacks.
+C. the production of ultrasound as a defense against bat echolocation is far more common among large-bodied moths than earlier research had indicated.
+D. some genera of large-bodied moths may use ultrasonic signaling for purposes other than avoiding capture by predators such as the eastern red bat.
+Answer: C
+
+Question 9:
+[Infer]
+Which choice most logically completes the text?
+
+The morphological novelty of echinoderms—marine invertebrates with radial symmetry, usually starlike, around a central point—impedes comparisons with most other animals, in which bilateral symmetry on an anterior-posterior (head to tail) axis through a trunk is typical. Particularly puzzling are sea stars, thought to have evolved a headless layout from a known bilateral origin. Applying genomic knowledge of Saccoglossus kowalevskii acorn worms (close relatives of sea stars, and thus expected to have similar markers for corresponding anatomical regions) to the body patterning genes of Patiria miniata sea stars, Laurent Formery et al. observed activity only in anterior genes across P. miniata’s entire body and some posterior genes limited to the edges, suggesting that _____
+
+A. despite the greater prevalence of anterior genes in sea stars’ genetic makeup, posterior genes active at the body’s perimeter are primarily responsible for the starlike layout that distinguishes sea stars’ radial symmetry from that of other echinoderms.
+B. although the two species are closely related, there is only minimal correspondence in the genetic markers for head, tail, and trunk region development in P. miniata sea stars and S. kowalevskii acorn worms.
+C. rather than undergoing changes resulting in the eventual elimination of a head region in their radial body plan, as previously assumed, sea stars’ morphology evolved to completely lack a trunk and consist primarily of a head region.
+D. contrary to the belief that they evolved from early ancestors with the bilateral form typical of many other animals, sea stars instead originated with an atypical body layout that was neither bilaterally nor radially symmetrical.
+Answer: C
+
+Question 10:
+[Infer]
+Which choice most logically completes the text?
+
+To measure changes in parasite abundance over time, Chelsea Wood and colleagues counted parasite individuals preserved on specimens of Pacific herring, spotted ratfish, and six other fish species collected from Puget Sound between 1880 and 2019. Using statistical models to estimate historical populations, the researchers determined that for every 1°C increase in annual average sea surface temperature, the abundance of complex life cycle parasites like Lepeophtheirus salmonis that require at least three unique host species throughout their life cycle decreased by 38%. However, the abundance of Gyrodactylus sp. and other directly transmitted parasites, which require only one host species, was essentially unchanged. These findings suggest that ___.
+
+A. as the number of hosts that complex life cycle parasites require increases, the parasites’ tolerance for rising sea surface temperatures decreases proportionally.
+B. Lepeophtheirus sp. abundance decreased by 38% over the period studied, whereas Gyrodactylus sp. abundance did not.
+C. parasites that rely exclusively on either Pacific herring or spotted ratfish are more sensitive to rising temperatures than are parasites that can infect both species throughout their life cycles.
+D. dependency on only a single host species may confer on parasites some resilience to rising sea surface temperatures.
+Answer: D
+

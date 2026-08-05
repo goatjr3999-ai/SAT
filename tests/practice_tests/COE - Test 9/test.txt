@@ -1,0 +1,24 @@
+Question 1:
+[COE]
+Which finding, if true, would most directly support Martínez and colleagues’ hypothesis?
+
+The bird species Malacoptila fusca (the white-chested puffbird) practices a foraging strategy known as sallying (catching insects in flight and returning to a perch to eat them), enabling it to scan for prey and predators simultaneously. Conversely, Myrmotherula guttata (the rufous-bellied antwren), with which M. fusca shares territory in French Guiana, practices foliage gleaning (picking insects off leaves), substantially limiting the bird’s field of vision while foraging. Biologist Ari Martínez and colleagues hypothesized that the greater vulnerability inherent in the latter strategy is reflected in greater sensitivity to predator warning signals from neighboring species.
+
+A. When Martínez and colleagues played control sounds of random noise, only M. guttata displayed predator-avoidance behavior, whereas both M. guttata and M. fusca displayed such behavior when alarm calls from another local bird species were played.
+B. When Martínez and colleagues played alarm calls from a species that does not share territory with M. fusca and M. guttata, M. fusca displayed predator-avoidance behavior, whereas M. guttata did not display any behavioral change.
+C. When Martínez and colleagues played alarm calls from another local bird species, M. guttata displayed predator-avoidance behavior, whereas M. fusca did not display any behavioral change.
+D. When Martínez and colleagues played M. fusca alarm calls, only M. fusca displayed predator-avoidance behavior, whereas both M. fusca and M. guttata displayed such behavior when M. guttata alarm calls were played.
+Answer: C
+
+Question 2:
+[COE]
+Which statement about the difrasismo in cuāuhtli in ocēlōtl is most strongly supported by the text?
+
+Poetry in Classical Nahuatl, the language of the Aztec Empire, relies on difrasismo, or a parallel noun construction that conventionally operates as a single metaphor. For example, the common difrasismo in cuāuhtli in ocēlōtl (literally, "the eagle, the jaguar") signifies "warrior." The device's function is both formal—providing structure to lines of verse—and ritual: semantic relations among the two nouns and the concept they signify can be tenuous, as in the previous example, such that difrasismos are often only intelligible according to the conceptual associations observed in Aztec ceremonial culture.
+
+A. Its frequency in Classical Nahuatl poetry confirms its intelligibility to the Aztec audience.
+B. Its unintelligibility may cause its formal function within a line of verse to go unnoticed by present-day readers.
+C. Its apparent obscurity can be resolved when considered in the proper cultural context.
+D. Its metaphorical significance derives from the semantic equivalence of the two nouns constituting the difrasismo.
+Answer: C
+

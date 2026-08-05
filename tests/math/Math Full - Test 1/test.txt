@@ -1,0 +1,198 @@
+Question 1:
+A circle in the xy-plane intersects the line y = x at exactly one point. Which equation, where {{MATH_79}} is a positive constant, could define this circle?
+
+A. {{MATH_80}}
+B. {{MATH_81}}
+C. {{MATH_82}}
+D. {{MATH_83}}
+
+Answer: B
+
+Question 2:
+The composition of an animal is defined as the muscles, bones, and fat of the animal. A scientist studied the composition of one young swamp buffalo and determined the buffalo had 133 kilograms of muscle, which made up approximately 65.9% of its composition. Of the remaining composition of this buffalo, approximately 46.2% was bone, and the remainder was fat. Based on these approximations, to the nearest tenth, how many kilograms of this buffalo-s composition was bone? (rounded to neares tenth)
+
+Answer: 31.8
+
+Question 3:
+In the given equation, {{MATH_1}} is a positive constant. The product of the solutions to the equation is 64. What is the value of {{MATH_1}}? (điền đáp án dạng phân số)
+{{MATH_2}}
+
+Answer: 32/5
+
+Question 4:
+In the xy plane, a parabola has vertex (6,8) and intersects x-axis at two points. If the equation of the parabola is written in the form
+y = ax^{2} + bx +c where a,b, and c are constants. Which of the following could be the value of a+b+c?
+
+A. 7
+B. 9
+C. 12
+D. 16
+Answer: A
+
+Question 5:
+The function {{MATH_3}} is defined by {{MATH_4}}, where {{MATH_5}} and {{MATH_6}} are constants. The graph of {{MATH_7}} in the {{MATH_8}}- plane passes through the points {{MATH_9}} and {{MATH_10}}. Which of the following is the value of {{MATH_11}} in terms of {{MATH_12}}?
+
+A. {{MATH_13}}
+B. {{MATH_14}}
+C. {{MATH_15}}
+D. {{MATH_16}}
+Answer: C
+
+Question 6:
+In 2018, approximately 40,000 kilowatts of solar power capacity was newly installed in a certain area in the United States. In 2019, the amount of newly installed solar power capacity in this area increased by 11% from the amount of newly installed solar power capacity in 2018. If the amount of newly installed solar power capacity continues to increase each year by 11% of the previous year's newly installed solar power capacity, which of the following types of functions best describes how the amount of newly installed solar power capacity changes over time?
+
+A. Increasing linear.
+B. Decreasing linear.
+C. Increasing exponential.
+D. Decreasing exponential.
+Answer: C
+
+Question 7:
+If {{MATH_17}} what is the value of{{MATH_18}}
+
+A. 18
+B. 27
+C. 36
+D. 45
+Answer: B
+
+Question 8:
+For a linear function {{MATH_19}}, the graph of {{MATH_20}} in the {{MATH_21}}-plane has a slope of 25 and passes through the point (0,0). Which equation defines {{MATH_19}}?
+
+A. {{MATH_22}}
+B. {{MATH_23}}
+C. {{MATH_24}}
+D. {{MATH_25}}
+Answer: D
+
+Question 9:
+The function f is defined by the given equation, where a, b, and e are distinct constants. When {{MATH_26}}, the value of {{MATH_27}} is positive. The graph of {{MATH_28}} in the {{MATH_29}}-plane contains the point (r, s), where r and s are constants. If {{MATH_30}}, which of the following could be true?
+{{MATH_31}}
+I. {{MATH_32}}
+II. {{MATH_33}}
+III. {{MATH_34}}
+
+A. I only
+B. III only
+C. I and III only
+D. II and III only
+Answer: B
+
+Question 10:
+A circle in the xy-plane has its center at {{MATH_84}}. Line t is tangent to this circle at the point {{MATH_85}}, where a is a constant. The slope of line t is {{MATH_86}}. What is the value of a?
+
+A. {{MATH_87}}
+B. {{MATH_88}}
+C. {{MATH_89}}
+D. {{MATH_90}}
+
+Answer: D
+
+Question 11:
+One gallon of resin costs $79 and will cover 48 square feet of a countertop. The countertops in a given room have a total surface area of {{MATH_35}} square feet. Which equation represents the cost {{MATH_36}}, in dollars, of resin needed to cover the countertops twice?
+
+A. {{MATH_37}}
+B. {{MATH_38}}
+C. {{MATH_39}}
+D. {{MATH_40}}
+Answer: C
+
+Question 12:
+Near the end of a US cable news show, the host invited viewers to respond to a poll on the show-s website that asked, -Do you support the new federal policy discussed during the show?- At the end of the show, the host reported that 28% responded -Yes,- and 70% responded -No.- Which of the following best explains why the results are unlikely to represent the sentiments of the population of the United States?
+
+A. The percentages do not add up to 100%, so any possible conclusions from the poll are invalid
+B. Those who responded to the poll were not a random sample of the population of the United States
+C. There were not 50% -Yes- responses and 50% -No- responses
+D. The show did not allow viewers enough time to respond to the poll
+Answer: B
+
+Question 13:
+Which expression is equivalent to {{MATH_41}}, where {{MATH_42}}?
+
+A. {{MATH_43}}
+B. {{MATH_44}}
+C. {{MATH_45}}
+D. {{MATH_46}}
+Answer: B
+
+Question 14:
+The graph of {{MATH_47}} is shown. Which equation defines the function f?
+
+A. {{MATH_48}}
+B. {{MATH_49}}
+C. {{MATH_50}}
+D. {{MATH_51}}
+Answer: A
+
+Question 15:
+In the given expression, b is a positive integer. If {{MATH_91}} is a factor of the expression, where q and r are positive integers, what is the greatest possible value of b?
+
+{{MATH_92}}
+
+Answer: 1441
+
+Question 16:
+One of the equations in a system of two linear equations is given, where {{MATH_52}}is a constant such that{{MATH_53}}
+{{MATH_54}}
+The system has no solution. If the other equation in the system is graphed in the {{MATH_55}}-plane, what is the slope of the graph?
+
+A. {{MATH_56}}
+B. {{MATH_57}}
+C. {{MATH_58}}
+D. {{MATH_59}}
+Answer: A
+
+Question 17:
+For the exponential function {{MATH_60}}, the value of {{MATH_61}} is {{MATH_35}}, where {{MATH_35}} is a constant. Which of the following equivalent forms of the function {{MATH_60}} shows the value of {{MATH_35}} as the coefficient or the base?
+
+A. {{MATH_62}}
+B. {{MATH_63}}
+C. {{MATH_64}}
+D. {{MATH_65}}
+Answer: D
+
+Question 18:
+Two students are playing a game. In the first round, Player 1 answers 33 questions. If an answer is correct, Player 1 earns 1 point. If an answer is incorrect, Player 2 will earn 1 point instead. The graph shows y = f(x), where y is the number of points Player 2 will earn when x is the number of points Player 1 earns.
+
+Which of the following is the best interpretation of the point (33, 0) in this context?
+
+A. When Player 1 earns 33 points, Player 2 will earn 33 points.
+B. When Player 1 earns 33 points, Player 2 will earn 0 points.
+C. When Player 1 earns 0 points, Player 2 will earn 33 points.
+D. When Player 1 earns 0 points, Player 2 will earn 0 points.
+Answer: B
+
+Question 19:
+In triangle ABC, the measure of angle C is 90 degrees. The cosine of angle A is {{MATH_66}}. What is the sine of angle B ?
+
+A. {{MATH_67}}
+B. {{MATH_68}}
+C. {{MATH_66}}
+D. {{MATH_69}}
+Answer: C
+
+Question 20:
+The difference between the measure of angle A and the measure of angle B is {{MATH_70}} radians. Which expression shows the difference between the measure of angle A and the measure of angle B, in degrees?
+
+A. {{MATH_71}}
+B. {{MATH_72}}
+C. {{MATH_73}}
+D. {{MATH_74}}
+Answer: A
+
+Question 21:
+The table shows three values of x and their corresponding values of {{MATH_75}}, {{MATH_76}} and {{MATH_77}} is a linear function. What is the y-coordinate of the y-intercept the graph of {{MATH_78}} in the xy-plane?
+
+Answer: 63
+
+Question 22:
+Two participants solved a puzzle cube during timed competitions. The lists give the times, to the nearest second, that participants A and participant B took to solve the cube at various competitions.
+Participant A: 23, 23, 25, 27
+Participant B: 23, 23, 25, 27, 38
+Which statement correctly compares the mean solve times, to the nearest second, of participant A and participant B at these competitions?
+
+A. The mean solve time of participant A is greater than the mean solve time or participant B.
+B. The mean solve time of participant A is less than the mean solve time of participant B.
+C. The mean solve time of participant A is equal to the mean solve time of participant B.
+D. There is not enough information to compare the mean solve times of participant A and Participant B.
+Answer: B

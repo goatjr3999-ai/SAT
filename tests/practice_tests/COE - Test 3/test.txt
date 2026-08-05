@@ -1,0 +1,120 @@
+Question 1:
+[COE]
+Which finding, if true, would most directly challenge Martínez and colleagues' hypothesis?
+
+The bird species Bucco capensis(the collared puffbird) practices a foraging strategy known as sallying (catching insects in flight and returning to a perch to eat them), enabling it to scan for prey and predators simultaneously. Hylophilus ochraceiceps (the tawny-crowned greenlet), on the other hand, practices foliage gleaning (picking insects off leaves), substantially limiting the bird’s field of vision while foraging. Biologist Ari Martínez and colleagues, who studied the ecological community these species share in French Guiana, hypothesized that avian foraging strategies that reduce individual vigilance are associated with greater reliance on other species to watch for predators.
+
+A. H.ochraceiceps tends to display predator-avoidance behavior in response to other species’ alarm calls, whereas B. capensis does not.
+B. Many of the local bird species that forage in the same manner as H.ochraceiceps are typically found alone or in single-species flocks.
+C. The predator alarm calls of B.capensis and H.ochraceiceps have a high degree of acoustic similarity.
+D. B.capensis typically gathers in flocks only with other birds that practice sallying.
+Answer: B
+
+Question 2:
+[COE]
+Which finding, if true, would most directly support Adlhart’s claim?
+
+To help combat the growing rate of microplastic pollution, a team of researchers developed a synthetic sponge that can soak up microplastic particles from liquid. The sponge, composed mainly of starch and gelatin, does this by trapping the tiny particles within its pores. Guoqing Wang, one of the researchers, says that the formula for the sponge can be adjusted to best suit the size of particle the sponge is intended to trap, making it versatile in its potential applications. Chemist Christian Adlhart, however, claims that this sponge would be difficult to mass-produce.
+
+A. Textiles are one of the largest sources of microplastic pollution in our oceans.
+B. The sponge created by Wang and his team has a relatively light weight for its volume, making it potentially easy to ship to different locations.
+C. The absorption capabilities of the sponge created by Wang and his team varied depending on the liquid solution used in the team’s experiments.
+D. The worldwide supply of starch and gelatin is in high demand from the food industry, so those substances would be difficult to source in significant quantities.
+Answer: D
+
+Question 3:
+[COE]
+Which finding from the study, if true, would most directly support the researchers’ conclusion?
+
+Almost all works of fiction contain references to the progression of time, including the time of day when events in a story take place. In a 2020 study, Allen Kim, Charuta Pethe, and Steven Skiena claim that an observable pattern in such references reflects a shift in human behavior prompted by the spread of electric lighting in the late nineteenth century. The researchers drew this conclusion from an analysis of more than 50,000 novels spanning many centuries and cultures, using software to recognize and tally both specific time references—that is, clock phrases, such as 7 a.m. or 2:30 p.m.—and implied ones, such as mentions of meals typically associated with a particular time of day.
+
+A. Novels published after the year 1800 include the clock phrase "10 a.m." less often than novels published before the year 1800 do
+B. Among novels published in the nineteenth century, implied time references become steadily more common than clock phrases as publication dates approach 1900
+C. The time references of noon (12 p.m.) and midnight (12 a.m.) are used with roughly the same frequency in the novels
+D. Novels published after 1880 contain significantly more references to activities occurring after 10 p.m. than do novels from earlier periods
+Answer: D
+
+Question 4:
+[COE]
+Which detail about songs associated with nueva canción, if true, would best illustrate the underlined claim?
+
+Born in Chile in 1917, artist and ethnomusicologist Violeta Parra was a pioneer in the nueva canción chilena (Chilean New Song) movement that emerged in the late 1950s and then spread throughout Latin America, Portugal, and Spain as nueva canción. Parra traveled all over Chile compiling extensive records of authentic folk music as well as recipes, proverbs, and other facets of cultural history. These records formed the foundation for the early movement’s revival of traditional Chilean folk forms in new songs that represented modern realities of the working class and strongly advocated for social change. __As the movement spread beyond Chile, the breadth of musical traditions incorporated into its foundation also expanded.__
+
+A. Many were written with parts meant to be played on the quena, a traditional flute used across Andean countries, including Chile.
+B. Many demonstrate the stylistic influence of corrido, a genre of narrative songs from Mexico that had come to be characterized by political themes in the early 1800s.
+C. Many feature political commentary addressing contemporary issues that stemmed from shared experiences of European colonization in Latin American countries.
+D. Many were produced by Argentinian artists in the late 1950s, with others by artists in additional Latin American countries first emerging soon after.
+Answer: B
+
+Question 5:
+[COE]
+Which detail about poems associated with neo‐ballata Italiana, if true, would best illustrate the underlined claim?
+
+Born in Verona in 1917, poet and literary historian Lucia Farnese spearheaded the *neo‐ballata Italiana* movement, which arose in the late 1950s and subsequently spread across Southern Europe, including Portugal and Spain, as *neo‐ballata*. Farnese toured extensively throughout Italy, gathering manuscripts, local folklore, proverbs, and other pieces of cultural tradition. These sources provided the groundwork for the movement’s early revitalization of classical Italian balladry in new compositions that depicted contemporary working‐class experiences and strongly advocated social transformation. __As the movement reached beyond Italy, so too did the range of poetic traditions woven into its core expand.__
+
+A. Many include strong critiques of current social issues arising from shared consequences of historical conflicts in Europe.
+B. Many exhibit the stylistic influence of romance, a Spanish form of narrative verse that became closely linked with political motifs in the early nineteenth century.
+C. A significant number were composed for performance on the liuto, a traditional stringed instrument used in multiple Mediterranean countries, including Italy.
+D. Several were authored by Portuguese writers in the late 1950s, followed soon thereafter by works from poets in other parts of Southern Europe.
+Answer: B
+
+Question 6:
+[COE]
+Which finding, if true, would most directly support Mulder and Spellman’s conclusion?
+
+Mooseberry (Viburnum edule) plants are native to Alaska, where harsh conditions have historically impeded potential invasive species. As the boreal climate has warmed in recent decades, however, common knotgrass (Polygonum aviculare) plants have established themselves in Alaska. It has been suggested that warming-induced delays in the onset of subfreezing temperatures in autumn can benefit invasives more than native species; to evaluate this possibility, biologists Christa Mulder and Katie Spellman tracked V. edule and P. aviculare, along with other native and invasive species, over several years, concluding that invasives are advantaged by delays in subfreezing temperature onset in Alaska.
+
+A. Although V. edule and P. aviculare both tended to produce leaves later into autumn in years with late subfreezing temperature onset, the extension was much greater for P. aviculare than for V. edule.
+B. Although significant interannual variations in subfreezing temperature onset were observed during the study, neither P. aviculare nor V. edule showed any significant interannual variation in the cessation of leaf production.
+C. Although V. edule and P. aviculare tended to stop producing leaves at about the same time in years with historically typical temperature patterns, P. aviculare stopped producing leaves sooner than V. edule did in years with late subfreezing temperature onset.
+D. Although V. edule and P. aviculare both tended to produce more leaves overall in years with late subfreezing temperature onset than they did in years with historically typical temperature patterns, the years with late subfreezing temperature onset also had early growing season onset in spring.
+Answer: A
+
+Question 7:
+[COE]
+Which statement about the view put forward by "some researchers" is best supported by information in the text?
+
+Some researchers have characterized the flora and fauna of the South Pacific island of Grande Terre as members of clades that inhabited nearby islands before Grande Terre completely emerged 37 million years ago. Thomas R. Buckley et al. found that the crown age (the age of the most recent common ancestor of all living and extinct species in the clade) of the clade of stick insects on Grande Terre is approximately 41.1 million years, while Jesús Gómez-Zurita et al. found that the crown age of the clade of flea beetles on Grande Terre is approximately 12.8 million years.
+
+A. The view could be true of Grande Terre’s stick insects but is not true of the island's flea beetles.
+B. The view has some empirical support but is weakened by the findings of Buckley et al.
+C. The view suggests that Grande Terre may have emerged as early as 41.1 million years ago.
+D. The view depends on inaccurate assumptions about the crown ages of the clades of stick insects and flea beetles on Grande Terre.
+Answer: A
+
+Question 8:
+[COE]
+Which quotation from a study of irrigation best supports the student's claim?
+
+A student is writing a research paper on the history of irrigation in the southwestern United States, situating the development of Lake Sabrina (a man-made body of water created in Inyo County, California, in 1908) in a larger historical context. In order to emphasize irrigation's importance, the student claims that irrigation is humanity's principal use of water.
+
+A. “The first known irrigation system was built in the 7th century CE by the Hohokam people, a Native population in the American Southwest that inhabited central Arizona.”
+B. “Roughly 70% of the world’s water withdrawals, from sources such as rivers, lakes, and aquifers, is for irrigation water used to meet various agricultural demands.”
+C. “Today, many areas of the southwestern United States utilize sprinkler irrigation systems, which require machinery that can spray water in all directions.”
+D. “The irrigation system developed by the Hohokam people in the 7th century CE in what is now known as central Arizona was simple but applied hydraulic engineering design features that are still used today.”
+Answer: B
+
+Question 9:
+[COE]
+Which finding, if true, would best support the researcher's hypothesis?
+
+The Arapaho language of the Plains region in the United States has 16 vowel and consonant sounds. In contrast, the Hadza language of eastern Africa has 70. Why would languages differ in this way? One researcher has hypothesized that when modern humans arose in Africa, they spoke a single language, but as humans gradually spread throughout Africa and then around the globe, that language developed into new languages. Those developed into still more languages as small bands of humans spread even farther, with each new language retaining fewer sounds from humanity's original language.
+
+A. Languages that emerged in northwestern North America tend to have more sounds than languages that emerged in East Asia do, even though northwestern North America is farther away from Africa than East Asia is.
+B. Languages that emerged in Eastern Europe tend to have more sounds than languages that emerged in East Asia do, and Eastern Europe is closer to Africa than East Asia is.
+C. Languages that emerged in Western Europe tend to have fewer sounds than languages that emerged in East Asia do, and Western Europe is closer to Africa than East Asia is.
+D. Languages that emerged in Southeast Asia tend to have more sounds than languages that emerged in East Asia do, even though the two regions are roughly the same distance from Africa.
+Answer: B
+
+Question 10:
+[COE]
+Which statement about the view put forward by "some researchers" is best supported by information in the text?
+
+Some researchers have characterized the flora and fauna of the South Pacific island of Grande Terre as members of clades that inhabited nearby islands before Grande Terre completely emerged 37 million years ago. Thomas R. Buckley et al. found that the crown age (the age of the most recent common ancestor of all living and extinct species in the clade) of the clade of stick insects on Grande Terre is approximately 41.1 million years, while Jesús Gómez-Zurita et al. found that the crown age of the clade of flea beetles on Grande Terre is approximately 12.8 million years.
+
+A. The view could be true of Grande Terre’s stick insects but is not true of the island's flea beetles.
+B. The view has some empirical support but is weakened by the findings of Buckley et al.
+C. The view suggests that Grande Terre may have emerged as early as 41.1 million years ago.
+D. The view depends on inaccurate assumptions about the crown ages of the clades of stick insects and flea beetles on Grande Terre.
+Answer: A
+

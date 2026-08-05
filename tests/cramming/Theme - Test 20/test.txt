@@ -1,0 +1,324 @@
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+As is the case with many structures in the Brutalist style—structures characterized by massive scale, extensive use of unfinished concrete, and their sometimes awkwardly unbalanced appearance—Trellick Tower, designed by Ernő Goldfinger, is polarizing. Though Brutalism’s critics fault the style for its violation of conventional aesthetic principles, such as proportion and refinement, the style’s defenders argue that flouting such principles serves to exemplify human activity in architectural form. For instance, by leaving surfaces unfinished and rough textures and seams exposed, Brutalist structures showcase rather than conceal the labor involved in a building’s construction. A defense of Brutalism along these lines would thus likely __________
+
+
+A. suggest that critics of the Brutalist style would reconsider their negative assessment of these buildings if such critics were made aware of the subtle ways in which Brutalist structures pay homage to conventional aesthetic principles.
+B. acknowledge that criticism of Brutalist structures’ lack of proportion and refinement is legitimate but would contend that these criteria aren’t representative of how the general public appraises them.
+C. concede that the Brutalist style is aesthetically unappealing by certain standards but would argue that architects shouldn’t be encumbered by those standards if those standards inhibit purposeful experimentation with architectural form.
+D. maintain that the craftsmanship manifest in the physical appearance of Brutalist structures is superior in quality to the craftsmanship involved in more aesthetically appealing architecture.
+Answer: C
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Though iconic Brutalist structures, like the Barbican Estate (1976) in London, UK, are known for their visually arresting use of concrete, the choice of the material was also ______. The unprecedented expansion of public services and civic institutions in the United Kingdom during the 1950s–70s required widescale construction, and concrete was inexpensive and plentiful.
+
+
+A. anomalous
+B. polarizing
+C. onerous
+D. pragmatic
+Answer: D
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The visually arresting use of concrete in iconic Brutalist structures like London's Barbican Estate is often discussed in aesthetic terms. However, given the unprecedented expansion of public services in the United Kingdom during the 1950s-70s—a period requiring widescale, inexpensive construction—the architectural shift toward plentiful concrete was arguably _______.
+
+
+A. contentious
+B. salubrious
+C. ineluctable
+D. premeditated
+Answer: C
+
+Question 4:
+[COE]
+Which choice best describes the main purpose of the text?
+
+Falling out of favor after its ascendancy in the 1950s-1970s, Brutalist architecture—known for massiveness, awkward proportions, and display of raw industrial materials—subverts traditional standards of architectural beauty. But whereas for decades the style’s defiance of conventional taste was denigrated as alienating, many Brutalist icons have recently begun to gain defenders enthralled by the structures’ awe-inspiring sculptural features, such as the use of massive interlocking geometric forms that appear to defy gravity seen in the John P. Robarts Library in Toronto, Canada.
+
+
+A. To justify the controversial aesthetic choices of Brutalist architects by pointing out the ways that they adhere to conventional tastes more closely than is typically acknowledged
+B. To describe how an emergent trend in the public reception of Brutalist architecture reflects a shift in the perception of its aesthetic qualities
+C. To detail the historical circumstances that account for Brutalism's loss of favor after the 1970s and its later resurgence in public opinion
+D. To explain how a recent reconsideration of characteristic traits of Brutalism has in turn encouraged a reevaluation of architecture's traditional aesthetic standards
+Answer: B
+
+Question 5:
+[COE]
+Which quotation from an essay by an architecture historian would best illustrate the student’s claim?
+
+As a style of design and construction, the Brutalist architecture that flourished from the 1950s to the 1970s prioritized the use of industrial materials (particularly concrete) to create stark geometric forms. A student writing a paper on the history of architecture claims that Brutalist architects devised buildings that were visually striking but ultimately inefficient in terms of daily practical use.
+
+
+A. “In the work of some Brutalists, practical concerns outweighed expressive flourishes.”
+B. “With concrete, Brutalists transformed buildings into laboratories of shape and contrast. Libraries, for instance, became testing grounds for concrete curves, towers, spikes, and ramps.”
+C. “Generally, Brutalists resided in one of two camps: those who saw Brutalism as a departure from the past and those who prized continuity with earlier architecture.”
+D. “Daring uses of sharp angles, as a feature of Brutalism, were not among its failings. Confusing walkways, dangerously low ceilings, and hopelessly inept floorplans were.”
+Answer: D
+
+Question 6:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+"Habitat 67 and other Brutalist buildings are divisive, perhaps in part because they seem ______ their surroundings. Urban geographer Oli Mould argues that most modern architecture is self-effacing, but Brutalist structures strive for monumentality—they call attention to their own physical massiveness and can thus seem out of proportion with other buildings in the vicinity."
+
+
+A. deferential to
+B. germane to
+C. incommensurate with
+D. inextricable from
+Answer: C
+
+Question 7:
+[Infer]
+Which choice most logically completes the text?
+
+Many people experience the Hubert H. Humphrey Building and other examples of Brutalism—an architectural style characterized by bulkiness, immense scale, and austerity—as visually abrasive and alienating, an impression that contributes to the belief that the name “Brutalism” is intended to signify aggression. (In fact, the term comes from the French for “raw” and refers to the use of humble, unvarnished materials and exposed structural elements.) Some proponents of Brutalism argue that renaming the style “Heroic”—a name evocative of Brutalist architects’ aspirations to celebrate civic ideals through architecture—would rehabilitate the style’s public image, but this argument assumes that _______
+
+
+A. creating designs that were likely to be contentious was foundational to the political agenda that most Brutalist architects sought to realize through their work.
+B. objections to Brutalist buildings on the grounds that they provoke strong reactions aren’t representative of the reasons why the general public dislikes them.
+C. the negative feelings that Brutalist structures often evoke are attributable to a misunderstanding of the intentions of the structures’ architects rather than to qualities inherent in the structures.
+D. the off-putting nature of the term “Brutalism” and the aesthetically unappealing elements of the Brutalist style risk obscuring the ingenuity involved in the style’s unconventional designs.
+Answer: C
+
+Question 8:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+With its combination of country and pop influences, “Here You Come Again” is typical of Dolly Parton’s recordings in the late 1970s and first half of the 1980s. Through songs of this genre, she achieved her greatest commercial successes. A decade earlier, however, Dolly had first established herself as a songwriter steeped in the traditional folk music of the Blue Ridge Mountains, where she was born and raised. The influence of the ballads of this region can be heard in the word choice and subject matter of the lyrics to “Jolene,” one of her best songs from this period.
+
+
+A. It explores Dolly’s lifelong interest in folk music, then debates whether pop music influenced “Jolene.”
+B. It discusses a particular period in Dolly’s recording career, then considers the music in an earlier era of her career.
+C. It enthusiastically recommends Dolly’s earliest recordings, then expresses disappointment with her later recordings.
+D. It praises “Here You Come Again,” then notes how remarkably similar that song is to a song that Dolly recorded earlier in her career.
+Answer: B
+
+Question 9:
+[COE]
+Which statement, if true, would most directly support the claim in the underlined sentence?
+
+Dolly Parton’s greatest success came in the late 1970s through the mid-1980s, when she incorporated pop instrumentation and song structures into country music and found a wider audience with such singles as “Real Love.” Before that period, she had recorded a purer form of country grounded in the harmonies and subject matter of the traditional folk ballads of the southern United States. __Yet it is misleading to draw a sharp contrast between Dolly’s early albums and those from 1977 to 1985, since even the albums from this pop-oriented period contain songs that signal the continued influence of the folk ballads she had sung as a girl in East Tennessee.__
+
+
+A. Dolly experienced renewed commercial success with the 1987 album Trio, which she recorded with Emmylou Harris and Linda Ronstadt, and the 1989 solo album White Limozeen.
+B. The title track of the 1974 album Love Is Like a Butterfly represents one of Dolly’s first attempts at combining country and pop, yet the remainder of the album is entirely free of the influence of pop music.
+C. The 1974 album Jolene brought Dolly a newfound level of fame and critical praise, and many music historians regard the title track as her finest composition.
+D. On the 1983 album Burlap and Satin, Dolly’s original composition “Appalachian Memories” shows the influence of folk ballads in both its word choice and subject matter.
+Answer: D
+
+Question 10:
+[Details]
+Which choice best describes the function of the underlined sentence?
+
+With its mournful subject matter and haunting tune, "Silver Dagger" is one of the most celebrated folk ballads of the southern Appalachian Mountains. Dolly Parton, who was born and raised in the region, was deeply influenced by these traditional ballads, as can be heard in the songs she wrote in the first decade of her career. "__My Blue Tears," a song from her 1971 album Coat of Many Colors, echoes Appalachian ballads both in theme and word choice.__
+
+
+A. It cites an album by Dolly as one of her most commercially successful works.
+B. It expresses disappointment in a song that Dolly wrote early in her career.
+C. It identifies a song by Dolly that was influenced by Appalachian music.
+D. It lists several Appalachian folk ballads that Dolly recorded early in her career.
+Answer: C
+
+Question 11:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The 1985 recording “Don’t Call It Love” established Dolly Parton as a key figure in pop music. But before she dabbled in pop, her singing and songwriting had been ______ the traditional folk music of the Appalachian Mountains. For example, “Down from Dover,” one of her best early songs, borrows its approach to storytelling from Appalachian ballads.
+
+
+A. helpful to
+B. unaware of
+C. hostile to
+D. rooted in
+Answer: D
+
+Question 12:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Paintings by the Florida Highwaymen—an informal collective of prolific landscape artists active in Florida during the 1950s and ’60s—are recognizable by their reiteration of the same general compositional structures and subjects: breaking waves and backcountry pines, to name two. But there was room for individuation: Sam Newton’s Tangerine Sky, for example, may resemble other Highwaymen paintings at first glance, but his works stand out for their more realistic and less impressionistic qualities.
+
+
+A. It describes an aesthetic framework shared by a particular group of artists and then makes and illustrates the claim that individuals introduced variations within that framework.
+B. It describes the common perception that a particular group of artists’ works are derivative and then provides a specific piece of evidence that reinforces that perception.
+C. It offers historical context that accounts for a particular group of artists’ shared style and then indicates the circumstances under which several members of that group began exploring more unconventional themes.
+D. It explains how a particular group of artists began collaborating and then recounts how one member of that group became especially influential among them.
+Answer: A
+
+Question 13:
+[COE]
+What does the text most strongly suggest about paintings by Knight?
+
+Motivated to sell as many paintings as possible, Alfred Hair, an influential figure among the landscape artists known as the Florida Highwaymen, pioneered “fast painting,” which in part involved working across multiple canvasses at once. That many of Hair’s acolytes, including Isaac Knight, imitated the technique accounts in part for the impressionistic qualities that are now synonymous with the group’s shared aesthetic. But not all Highwaymen fully embraced this approach; for instance, though Willie Reagan was also prolific, his paintings were executed with greater attention to detail.
+
+
+A. Because of the manner in which they were created, they likely have visual qualities that are regarded as more typical of Florida Highwaymen paintings than the qualities in works by Reagan are.
+B. Although it is evident that Knight adopted some of Hair’s preferred techniques, Knight’s works are less derivative of works by Hair than is typically acknowledged.
+C. The lack of precision with which they were executed suggests that they are inferior to works by either Hair or Reagan.
+D. Knight’s reliance on the technique of fast painting likely accounts for his works being more aesthetically interesting than works by Reagan are.
+Answer: A
+
+Question 14:
+[Structure]
+Which choice best states the main idea of the text?
+
+Roy McLendon's Moonlit St. Lucie, a riverscape featuring the silhouette of a single palm tree against the backdrop of shimmering water and a brilliant moonlit sky, is typical of paintings by the Florida Highwaymen, an informal collective of landscape artists mainly active in the 1950s and '60s. Remarkable for anticipating and amplifying cultural perceptions of Florida that became pervasive in the public consciousness, paintings by the Florida Highwaymen are readily identifiable by the natural iconography—placid inland rivers, windswept palm trees—that McLendon and colleagues perpetually revisited.
+
+
+A. Although similar in its subject matter to many paintings by the Florida Highwaymen, Moonlit St. Lucie is now more highly regarded than other Florida Highwaymen paintings are.
+B. Representative images found across many paintings by McLendon and other Florida Highwaymen came to be widely associated with Florida in part due to the Florida Highwaymen's influence.
+C. Although paintings by the Florida Highwaymen were once celebrated for their depictions of Florida’s natural environments, the popularity of these paintings waned after the 1960s.
+D. The placid inland rivers and windswept palm trees that are typical of McLendon's works, which are otherwise indistinguishable from other Florida Highwaymen paintings, help to differentiate McLendon's paintings from those of his colleagues.
+Answer: B
+
+Question 15:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Roy McLendon’s Moonlit St. Lucie, a riverscape featuring the silhouette of a single palm tree against the backdrop of shimmering water and a brilliant moonlit sky, is typical of paintings by the Florida Highwaymen, loosely affiliated landscape artists mainly active in Fort Pierce, Florida, during the 1950s and ’60s. Some art historians suggest that Highwaymen paintings played a role in shaping popular perceptions of the state that persist today: the natural iconography that McLendon and colleagues constantly revisited—placid inland rivers, windswept palm trees—is now seen as classically Floridian.
+
+
+A. To describe the historical circumstances in which paintings by the Florida Highwaymen experienced a resurgence in popularity
+B. To explain that a particular painting by Roy McLendon has had greater influence on the broader culture of the state of Florida than is generally acknowledged
+C. To contrast the public’s reaction during the 1950s and ’60s to a particular painting by Roy McLendon with more recent reactions to it
+D. To present the argument that paintings by the Florida Highwaymen likely helped to create a particular widespread impression of Florida
+Answer: D
+
+Question 16:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Driven to sell as many paintings as possible, Alfred Hair, an influential figure among the landscape artists known as the Florida Highwaymen, pioneered “fast painting,” a technique (which in part involved swift applications of paint) that many Highwaymen, including Isaac Knight, adopted. __To conclude that this approach accounts for the ethereal qualities now synonymous with the Highwaymen aesthetic is tempting but inaccurate, as Hair’s methods weren’t universally practiced by his affiliates__; Roy McLendon, for example, painted with greater deliberateness but achieved the same effects.
+
+
+A. It details evidence that contradicts a claim mentioned earlier in the text about a long-standing disagreement within a group of artists.
+B. It explains how an artist mentioned earlier in the text developed a distinctive style by adapting a particular approach to painting originated by his colleagues.
+C. It considers and rebuts an interpretation of the effect of a painting technique mentioned earlier in the text on the perception of work by a group of artists.
+D. It establishes a contrast between the aesthetic qualities of works by artists who were central to a movement introduced earlier in the text and those of an artist who was more peripheral to that movement.
+Answer: C
+
+Question 17:
+[Details]
+Which choice best states the function of the underlined sentence in the text as a whole?
+
+Roy McLendon’s Moonlit St. Lucie, a riverscape featuring the silhouette of a single palm tree against the backdrop of shimmering water and a brilliant moonlit sky, is typical of paintings by the Florida Highwaymen, loosely affiliated landscape artists mainly active in Fort Pierce, Florida, during the 1950s and ’60s. Some art historians suggest that Highwaymen paintings played a role in shaping popular perceptions of the state that persist today__: the natural iconography that McLendon and colleagues constantly revisited—placid inland rivers, windswept palm trees—is now seen as classically Floridian.__
+
+
+A. It proposes that the artists’ repeated focus on certain scenes resulted from limited access to other subjects.
+B. It contrasts the artists’ favored scenes with landscapes that audiences outside the state now prefer.
+C. It provides an example that supports the claim that the artists’ images helped shape enduring views of Florida.
+D. It summarizes critics’ complaints that the artists’ reliance on familiar motifs made their work dated
+Answer: C
+
+Question 18:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Hay’s Spring amphipods, oims, and other organisms lack functional eyes or ocular organs altogether and rely on other mechanisms to navigate their surroundings. Zhihao Yao and colleagues investigated how the Chinese red-headed centipede is still able to sense and avoid sunlight without having eyes or even any photoreceptors (light-detecting cells). In an experiment, the researchers found that light-avoidant behavior observed in the centipedes was associated with activation of BRTNaC1, a thermal receptor located in the centipede’s antennae, in the presence of simulated sunlight.
+
+
+A. To explain the role of BRTNaC1 in light detection for multiple organisms
+B. To contrast how centipedes detect sunlight with how Hay’s Spring amphipods and oims detect sunlight
+C. To outline a study designed to identify the mechanism involved in light detection in a species of centipede
+D. To compare the functions of two body parts of a species of centipede
+Answer: C
+
+Question 19:
+[COE]
+Which additional finding from Yuan and colleagues’ study, if true, would best support the researchers’ conclusion?
+
+Certain species, such as Hay’s Spring amphipods (Stygobromus hayi), lack functional eyes or ocular organs altogether and rely on other mechanisms for navigation. Licheng Yuan and colleagues investigated such mechanisms in the Chinese red-headed centipede (Scolopendra subspinipes mutilans), which has no organs with photoreceptors (light-detecting cells) but can sense and avoid sunlight. The researchers placed individual specimens in a clear container (container 1) connected to a container covered in black tape (container 2) and then exposed the containers to simulated sunlight. They observed a rapid increase in the temperature of the centipedes’ antennae with the onset of exposure, followed by the centipedes’ escape to container 2. Based on their observations, the researchers concluded that thermal receptors in the antennae are likely responsible for light detection in the centipedes.
+
+
+A. When body segments other than the centipedes' antennae were monitored, the temperature of these body segments were found to increase in the presence of sunlight.
+B. The centipedes showed the same tendency to move to container 2 when simulated sunlight was accompanied by artificially reduced temperatures.
+C. Chinese red-headed centipedes are more proficient at detecting light than other centipede species are.
+D. When their antennae were covered with a reflective material, the centipedes remained exposed in container 1 for longer durations.
+Answer: D
+
+Question 20:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+Alabama cave shrimp, olms, and other organisms lack functional eyes or ocular organs altogether and rely on other mechanisms to navigate their surroundings. Xiaoying Chen and colleagues investigated how the Chinese red-headed centipede is able to recognize and avoid sunlight without having eyes or even any photoreceptors (light-detecting cells). Their research showed that the temperature of the centipedes' antennae rose rapidly when exposed to simulated sunlight. __They also found that the centipedes were less averse to light when their antennae were covered with reflective material.__ These findings suggest that thermal receptors in the antennae are responsible for light detection in the centipedes.
+
+
+A. When combined with the information in the first sentence, it provides support for the conclusion described in the following sentence.
+B. When combined with the information in the previous sentence, it undermines the conclusion described in the following sentence.
+C. When combined with the information in the previous sentence, it provides support for the conclusion described in the following sentence.
+D. When combined with the information in the first sentence, it undermines the conclusion described in the following sentence.
+Answer: C
+
+Question 21:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Chinese red-headed centipede, *Scolopendra subspinipes mutilans*, has no eyes and no photoreceptors that can receive and process light, yet these centipedes can detect and _______ sunlight. Zhihao Yao along with a team of researchers determined that the centipedes' antennae heat up rapidly in sunlight, warming almost fifty degrees Fahrenheit in only a few seconds. This mechanism enables the centipedes to recognize and hide from the rays of the sun.
+
+
+A. evade
+B. bask in
+C. pursue
+D. attend to
+Answer: A
+
+Question 22:
+[COE]
+Which quotation from The Wonderful Wizard of Oz most effectively illustrates the claim?
+
+The Wonderful Wizard of Oz is a 1900 novel by L. Frank Baum. In the novel, Dorothy lives in Kansas with her aunt and uncle, but she later finds herself in a land called Oz. The narrator indicates that her aunt and uncle’s house in Kansas is remote and solitary, writing that ____
+
+
+A. in Oz, “Dorothy and her companions! passed through the rest of the forest in safety, and when they came out from its gloom saw before them a steep hill, covered from top to bottom with great pieces of rock.”
+B. in Oz, “Dorothy fell asleep only once, and then she dreamed she was in Kansas, where Aunt Em was telling her how glad she was to have her little girl at home again.”
+C. in Kansas, “Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer’s wife.”
+D. in Kansas, “When Dorothy stood in the doorway and looked around, she could see nothing but the great gray prairie on every side. Not a tree nor a house broke the broad sweep of flat country.”
+Answer: D
+
+Question 23:
+[COE]
+Which quotation from The Wonderful Wizard of Oz most effectively illustrates the claim?
+
+The Wonderful Wizard of Oz is a 1900 novel by L. Frank Baum. In the novel, the narrator describes Dorothy’s dog, Toto, as causing Dorothy to feel cheerful: ______
+
+
+A. “Toto was not gray, he was a little black dog, with long silky hair and small black eyes that twinkled merrily on either side of his funny, wee nose.”
+B. “Dorothy now took Toto up solemnly in her arms, and having said one last good-bye she clapped the heels of her shoes together three times, saying: ‘Take me home to Aunt Em!’”
+C. “It was Toto that made Dorothy laugh, and saved her from growing as gray as her other surroundings.”
+D. “Toto jumped out of Dorothy’s arms and hid under the bed, and the girl started to get him.”
+Answer: C
+
+Question 24:
+[COE]
+Which quotation from The Wonderful Wizard of Oz most effectively illustrates the claim?
+
+The Wonderful Wizard of Oz is a 1900 novel by L. Frank Baum. In the novel, the narrator describes a character’s house as having become very faded in appearance over time: ____.
+
+
+A. “Before [Dorothy and her companions] was a great stretch of country having a floor as smooth and shining and white as the bottom of a big platter. Scattered around were many houses made entirely of china and painted in the brightest colors.”
+B. “There were four walls, a floor and a roof, which made one room; and this room contained a rusty looking cookstove, a cupboard for the dishes, a table, three or four chairs, and the beds.”
+C. “When Dorothy stood in the doorway and looked around, she could see nothing but the great gray prairie on every side. Not a tree nor a house broke the broad sweep of flat country.”
+D. “Once the house had been painted, but the sun blistered the paint and the rains washed it away, and now the house was as dull and gray as everything else.”
+Answer: D
+
+Question 25:
+[COE]
+Which choice most effectively uses a quotation from The Wonderful Wizard of Oz to illustrate the claim?
+
+The *Wonderful Wizard of Oz* is a 1900 novel by L. Frank Baum. In the novel, a girl named Dorothy from Kansas finds herself in an unfamiliar place. The narrator presents Dorothy as not being very bothered by some situations that others would likely find troubling, such as when ______.
+
+
+A. the narrator says, "Then [Dorothy] went back to the house, and having helped herself and Toto to a good drink of the cool, clear water, she set about making ready for the journey to the City of Emeralds."
+B. the narrator says, "Dorothy did not feel nearly so bad as you might think a little girl would who had been suddenly whisked away from her own country and set down in the midst of a strange land."
+C. another character says, "But it will take more than imagination to carry Dorothy back to Kansas, and I'm sure I don't know how it can be done."
+D. the narrator says, "Toto jumped out of Dorothy's arms and hid under the bed, and the girl started to get him."
+Answer: B

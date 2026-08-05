@@ -1,0 +1,181 @@
+Question 1:
+In the given system of equations, {{MATH_1}} is a constant.
+{{MATH_2}}
+{{MATH_3}}
+If the system has no solution, what is the value of {{MATH_1}}(phân số)?
+
+Answer: -28/3
+
+Question 2:
+The function {{MATH_4}} gives a toy car-s height above the ground f(x), in inches, x seconds after it started moving on an elevated track, where {{MATH_5}}. Which of the following is the best interpretation of the vertex of the graph of {{MATH_6}} in the xy-plane?
+
+A. The toy car-s minimum height was 4 inches above the ground.
+B. The toy car-s minimum height was 6 inches above the ground.
+C. The toy car-s height was 4 inches above the ground when it started moving.
+D. The toy car-s height was 6 inches above the ground when it started moving.
+Answer: A
+
+Question 3:
+The length of the diagonal of a square is {{MATH_7}} units. What is the area, in square units, of the square?
+
+A. 93
+B. 372
+C. 8,649
+D. 17,298
+Answer: C
+
+Question 4:
+In the figure shown, points A, B, C, and E lie on the circle, and AB < BC. Segment AC is perpendicular to segment BE at point D, and {{MATH_8}}. The diameter of the circle is 175. If {{MATH_9}}, what is the value of r? (điền số thập phân)
+
+Answer: 86.5
+
+Question 5:
+One gallon of paint will cover 310 square feet of a surface. A room has a total wall area of {{MATH_10}} square feet. Which equation represents the total amount of paint P, in gallons, needed to paint the walls of the room twice?
+
+A. {{MATH_11}}
+B. {{MATH_12}}
+C. {{MATH_13}}
+D. {{MATH_14}}
+Answer: C
+
+Question 6:
+Circle {{MATH_15}} has a radius of 6 millimeters (mm). Circle {{MATH_16}} has an area of {{MATH_17}}
+mm-. What is the total area, in mm-, of circles {{MATH_18}}?
+
+A. {{MATH_19}}
+B. {{MATH_20}}
+C. {{MATH_21}}
+D. {{MATH_22}}
+Answer: D
+
+Question 7:
+A dance studio charges an introductory fee for the first 3 lessons and then charges a fixed fee for each additional lesson. One student took 4 lessons and was charged $60. Another student took 16 lessons and was charged $300. Which function {{MATH_23}}gives the total charge, in dollars, for any student who took {{MATH_24}} lessons, where {{MATH_25}}
+
+A. {{MATH_26}}
+B. {{MATH_27}}
+C. {{MATH_28}}
+D. {{MATH_29}}
+Answer: D
+
+Question 8:
+A line intersects two parallel lines, forming four acute angles and four obtuse angles. The measure of one of the acute angles is {{MATH_30}} The sum of the measures of one of the acute angles and three of the obtuse angles is {{MATH_31}} What is the value of w?
+
+Answer: 1520
+
+Question 9:
+A triangle has two sides with lengths 8 and 15. The measure of the angle between these two sides is greater than {{MATH_32}} What is the total number of possible integer lengths for the third side of the triangle?
+
+A. 5
+B. 6
+C. 7
+D. 15
+Answer: A
+
+Question 10:
+One of the equations in a system of two linear equations is given, where n is a positive constant. The system has no solution. Which equation could be the second equation in this system?
+{{MATH_33}}
+
+A. {{MATH_34}}
+B. {{MATH_35}}
+C. {{MATH_36}}
+D. {{MATH_37}}
+Answer: D
+
+Question 11:
+The table gives the areas and perimeters of two similar rectangles, where n is a constant.
+
+What is the value of n ?
+
+A. 940
+B. 1,880
+C. 3,760
+D. 4,700
+Answer: A
+
+Question 12:
+A polygon has exactly 97 sides. If the measure of each of the 97 interior angles of this polygon is {{MATH_38}}, what is the value of {{MATH_39}} (phân số)?
+
+Answer: 95/97
+
+Question 13:
+The equation gives a volume {{MATH_40}} in gallons, of a 10% saltwater solution that could be mixed with a volume {{MATH_41}} in gallons, of a 20% saltwater solution to produce a 18% saltwater solution. According to this equation, what volume, in gallons, of the 20% saltwater solution could be mixed with 45.0 gallons of the 10% saltwater solution to produce a 18% saltwater solution? (Assume that the volume of the mixture is the sum of the volumes of the two solutions before they were mixed.)
+{{MATH_42}}
+
+Answer: 180
+
+Question 14:
+The table shows two values of {{MATH_43}} and their corresponding values of {{MATH_44}}. The graph of the linear equation representing this relationship passes through the point {{MATH_45}}. What is the value of {{MATH_46}}? (phân số)
+
+Answer: 76/3
+
+Question 15:
+
+The given equation relates the positive variables {{MATH_57}}, {{MATH_58}}, {{MATH_59}}, and {{MATH_60}}. Which of the following is equivalent to {{MATH_58}}?
+
+{{MATH_61}}
+
+A. {{MATH_62}}
+B. {{MATH_63}}
+C. {{MATH_64}}
+D. {{MATH_65}}
+
+Answer: C
+
+Question 16:
+For triangle PQR and triangle STU, angles P and S each measure 30 degrees, QR = 16, and TU = 12. Which additional piece(s) of information is (are) sufficient to prove that triangle PQR is similar to triangle STU?
+I. The length of PQ is 4/3 the length of ST.
+II. The length of PR is 4/3 the length of SU.
+
+A. I is sufficient, but II is not.
+B. II is sufficient, but I is not.
+C. I is sufficient, and II is sufficient.
+D. Neither I nor II is sufficient.
+Answer: D
+
+Question 17:
+
+In the given equation, {{MATH_66}} is a constant. The equation has exactly one real solution. What is the minimum possible value of {{MATH_67}}?
+
+{{MATH_68}}
+
+Answer: 227
+
+Question 18:
+
+The given equation, where {{MATH_69}} is a positive constant, defines a circle in the xy-plane. The radius of this circle is {{MATH_70}}. What is the value of {{MATH_69}}?
+
+{{MATH_71}}
+
+Answer: 4
+
+Question 19:
+Data set {{MATH_47}} consists of 37 different values that have a minimum of 230, a maximum of 278, a mean of 244, and a standard deviation of 9. The values 230 and 278 are removed from the data set to create data set {{MATH_48}}. Which of the following statements is true?
+
+A. Both the mean and standard deviation of data set {{MATH_48}} are less than those in data set {{MATH_47}}.
+B. Both the mean and standard deviation of data set {{MATH_48}} are greater than those in data set {{MATH_47}}.
+C. The standard deviation of data set {{MATH_48}} is less than the standard deviation in data set {{MATH_47}} but the mean of both data sets is the same.
+D. The standard deviation of data set {{MATH_48}} is greater than the standard deviation in data set {{MATH_47}}but the mean of both data sets is the same.
+Answer: A
+
+Question 20:
+The functions f and g are given.
+{{MATH_49}}
+{{MATH_50}}
+In function g, r is a constant. If {{MATH_51}} what is the value of r? 
+
+Answer: 12
+
+Question 21:
+A gardener is preparing a potting bed in the shape of a rectangular prism. The dimensions of a rectangular prism are 6 feet by 12 feet by 44 inches. If it costs $108 per cubic yard to prepare the potting bed, how much does the gardener need to spend? (1 yard = 3 feet) (1 foot = 12 inches)
+
+Answer: 1056
+
+Question 22:
+The function f is defined by the given equation, where k is a constant. The value of f(x) increases by p % for every increase of x by 1. For which of the following functions, where k is a constant, does the value of g(x) increase by p% for every increase of x by 3?
+{{MATH_52}}
+
+A. {{MATH_53}}
+B. {{MATH_54}}
+C. {{MATH_55}}.
+D. {{MATH_56}}
+Answer: C

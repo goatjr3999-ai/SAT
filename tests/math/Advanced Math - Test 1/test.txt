@@ -1,0 +1,46 @@
+Question 1:
+The graph of y = f(x) + 14 is shown. Which equation defines function f?
+
+A. {{MATH_1}}
+B. {{MATH_2}}
+C. {{MATH_3}}
+D. {{MATH_4}}
+Answer: A
+
+Question 2:
+The table above shows the coordinates of three points on a line in the xy -plane, where k and n are constants. If the slope of the line is 2, what is the value of k+n?
+
+Answer: 30
+
+Question 3:
+The graph of 7x + 2y = -31 in the xy-plane has an x-intercept at (a, 0) and a y-intercept at (0, b), where a and b are constants. What is the value of {{MATH_5}}?
+
+A. -{{MATH_6}}
+B. -{{MATH_7}}
+C. {{MATH_7}}
+D. {{MATH_6}}
+Answer: D
+
+Question 4:
+The expression {{MATH_8}} is equivalent to {{MATH_9}}, where {{MATH_10}} and {{MATH_11}} are positive constants and {{MATH_12}}. What is the value of {{MATH_13}}?
+
+A. 361/8
+B. 288/8
+C. 215/8
+D. 73/8
+Answer: A
+
+Question 5:
+In the xy-plane, the line which equation {{MATH_14}}where a is a constant, passes through the points (2,6). What is the x-coordinate of the x-intercept of the line?
+(phân số)
+
+Answer: 8/5
+
+Question 6:
+Which of the following is equivalent to {{MATH_15}}?
+
+A. {{MATH_16}}
+B. {{MATH_17}}
+C. {{MATH_18}}
+D. {{MATH_19}}
+Answer: D

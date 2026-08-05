@@ -1,0 +1,257 @@
+Question 1:
+Which choice best states the main purpose of the text?
+
+The following text is from Maria Amparo Ruiz de Burton’s 1885 novel The Squatter and the Don. In the novel, Clarence and Mercedes develop a romantic relationship.
+Mercedes, being not quite seventeen, her grief at parting from Clarence was wild, vehement and all-absorbing. But she had been trained to obedience, and her battles with the spirit always took place after she carefully locked her bedroom door. Then Clarence was wildly apostrophized, and a torrent of tears relieved the overcharged, aching heart.
+
+
+A. It emphasizes Mercedes's extreme insecurity.
+B. It suggests that the magnitude of Mercedes's feelings are unusual for her age.
+C. It provides background explaining why Clarence has left Mercedes.
+D. It conveys how Mercedes handles her intense feelings about being separated from Clarence.
+Answer: D
+
+Question 2:
+Which choice best states the main idea of the text?
+
+The following text is adapted from María Amparo Ruiz de Burton’s 1885 novel The Squatter and the Don. Mercedes and Clarence, who develop a romantic relationship in the novel, have been traveling with a group of friends.
+[Mercedes] was still very pale, and her hands yet trembled, when the thundering of the east-bound train was heard in the distance. Two shrieks pierced the air simultaneously, as the two trains passed each other. Her heart gave accelerated throbs when she heard those shrieks, because she knew that one of them came from the train which bore Clarence away, and it seemed to her as if expressive of his pain at being torn from her. Yes, that magician, the locomotive, understood it all, and shrieked to say he did so, because he knew she, too, wished to shriek like that.
+
+
+A. Clarence does not enjoy traveling by train.
+B. Mercedes feels heartbroken to be separated from Clarence.
+C. Mercedes hopes that Clarence has a pleasant journey.
+D. The sounds at the train station irritate Mercedes.
+Answer: B
+
+Question 3:
+Which choice best states the main purpose of the text?
+
+The following text is from María Amparo Ruiz de Burton’s 1885 novel The Squatter and the Don.
+“Sounds of laughter, music and dancing came from the parlor; the young people were entertaining friends from town with their usual gay hospitality, and enjoying themselves heartily. Don Mariano, though already in his fiftieth year, was as fond of dancing as his sons and daughters, and not to see him come in and join the quadrille was so singular that his wife thought she must come out and inquire what could detain him. He was so absorbed in his thoughts that he did not hear her voice calling him.”
+
+
+A. It conveys that Don Mariano’s children are talented dancers and musicians.
+B. It suggests that Don Mariano’s home is usually quiet.
+C. It emphasizes Don Mariano’s tendency to avoid dancing in front of strangers.
+D. It depicts a contrast between Don Mariano’s current state and his usual behavior.
+Answer: D
+
+Question 4:
+Based on the text, what would be the most reasonable next step for the students to take to accomplish their goal?
+
+In 2001, the US state of Oklahoma enacted rate stability regulations (RSRs), constraining insurance companies' latitude to raise premiums (the recurring fees policyholders pay to maintain insurance policies) once policies are in effect. Although RSRs are intended to benefit consumers, Naoki Aizawa and Ami Ko note that RSRs could curtail insurers' profits to such a degree that insurers abandon the market, thereby reducing the competitive pressure that typically restrains premium prices for newly issued policies. To determine whether this occurred in Oklahoma, students first collect data on the number of insurers in the state for a few years leading up to and following 2001 and the premium prices for new policies offered by those insurers.
+
+
+A. Compare changes over time within each of the two types of data the students have collected with changes over time in analogous data for the same period from an otherwise similar state that had not enacted RSRs
+B. Compare changes over time in the insurer-number data the students have collected with changes over time in insurer-number data from another state that enacted RSRs but not during the same period
+C. Compare changes over time within each of the two types of data the students have collected with changes over time in the same types of data from Oklahoma for a period beginning several years after 2001
+D. Compare changes over time in the premium price data the students have collected with changes over time in premium prices for policies that were already in effect during the same period in an otherwise similar state that had not enacted RSRs
+Answer: A
+
+Question 5:
+Which choice most logically completes the text?
+
+In 2006, the US state of Oregon enacted rate stability regulations (RSRs), constraining insurance companies’ latitude to raise premiums (the periodic fees policyholders pay to maintain insurance policies) after policies are in effect. RSRs are effective at protecting existing policyholders from price volatility, but Naoki Aizawa and Ami Ko note that since dynamic pricing of premiums is an important risk-mitigation tool for insurers, RSRs may lead some insurers to scale back or entirely cease selling new policies in the affected market, thereby reducing the competitive pressure that typically restrains premium prices for new policies. Thus, Oregon’s RSRs may _______ .
+
+
+A. prevent large increases in premium prices for new policies despite leading to fewer insurers offering such policies in the affected market.
+B. reduce premium price volatility once policies are in effect but increase risks for policyholders.
+C. be more advantageous for insurers than they are for either current or prospective policyholders.
+D. benefit policyholders at the expense of nonpolicyholders seeking to acquire policies.
+Answer: D
+
+Question 6:
+The student wants to explain how the findings of the two studies relate to the GSP. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•The growth-survival paradigm (GSP) describes how growth rates are thought to correlate with survival outcomes in larval fish cohorts.
+•The GSP posits that faster-growing fish larvae have a higher likelihood of survival to maturity than do slower-growing larvae of the same species.
+•Payne et al. (2013) found that the survival rate of faster-growing Atlantic herring (Clupea harengus) larvae was significantly higher than that of relatively slow-growing C. harengus larvae.
+•Kano et al. (2015) found that the survival rate of slower-growing Alaska pollock (Gadus chalcogrammus) larvae was significantly higher than that of relatively fast-growing G. chalcogrammus larvae.
+
+
+A. Taken together, Payne's and Kano's teams' findings indicate that faster-growing C. harengus larvae were more likely to survive than were slower-growing G. chalcogrammus larvae, reflecting the GSP's predicted correlation between faster growth and survival.
+B. In contrast to Payne's team's findings concerning C. harengus, which are consistent with the GSP, those of Kano's team—suggesting that in the case of G. chalcogrammus larvae, slower growth was advantageous for survival—are inconsistent with this paradigm.
+C. Payne's team's study, in accordance with the GSP, found that relatively fast-growing C. harengus larvae had a notable survival advantage; Kano's team's study, by contrast, did not discern a relationship between larval growth rates and survival in G. chalcogrammus.
+D. Payne's team's findings regarding C. harengus—like Kano's team's findings regarding G. chalcogrammus—suggest that larval growth rates are correlated with survival outcomes, thus confirming the GSP.
+Answer: B
+
+Question 7:
+The student wants to place the finding of Slotte’s team’s study in the context of the 2023 review. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•The growth-survival paradigm (GSP) posits that faster-growing fish larvae will have higher rates of survival to maturity than will slower-growing larvae.
+•Aril Slotte et al. (2019) tested the GSP’s applicability to cohorts of Atlantic herring (Clupea harengus).
+•Finding: The survival rate of slower-growing C. harengus larvae was significantly higher than that of relatively fast-growing C. harengus larvae.
+•Dominique Robert et al. (2023) reviewed 153 studies of the GSP conducted between 1971 and 2022, including Slotte’s team’s study.
+•Robert et al.: “The GSP was supported in the majority of cases,” but a “non-negligible proportion of reviewed studies demonstrated the occurrence of selection [favoring] slow-growing individuals in the field, a possibility generally disregarded in the...GSP.”
+
+
+A. Reporting survival outcomes among C. harengus larvae that contradict the GSP’s predictions, Slotte’s team’s study is one of several in the review that highlight the paradigm’s limitations.
+B. Demonstrating that slower-growing larvae had a survival advantage over faster-growing larvae, Slotte’s team’s finding regarding C. harengus was consistent with those of the majority of studies included in the review.
+C. Presenting evidence of differing survival rates among C. harengus larvae, Slotte’s team’s study reinforces the review’s contention that the GSP’s applicability to slower-growing larvae tends to be overlooked.
+D. Suggesting the absence of a relationship between growth rates and survival outcomes, Slotte’s team’s study of C. harengus larvae is among those in the review that undermine the GSP.
+Answer: A
+
+Question 8:
+Which choice best states the function of the underlined portion in the text as a whole?
+
+In The Jazz Continuum, LaTasha Barnes, Alain Lauture, and other dancers seamlessly interweave recent dance styles, including hip-hop and voguing, with elements of the Lindy Hop, a popular swing dance of the 1930s with roots in the Black American community of Harlem, New York. __Inspired by Barnes’s curiosity about the similarities between the Lindy Hop and these seemingly unrelated dance styles__, the show’s choreography makes visible how intertwined their histories actually are. The show is therefore a testament to the Lindy Hop’s enduring influence on American culture.
+
+
+A. It provides evidence for the text’s claim that the Lindy Hop has had a greater cultural impact than the other dances featured in The Jazz Continuum have had.
+B. It identifies the motivation for The Jazz Continuum’s choreographic approach that is described earlier in the text.
+C. It addresses the reasons why the historical connections between the dance styles mentioned earlier in the text have been generally overlooked.
+D. It identifies the specific ways in which the Lindy Hop is similar to the contemporary dance styles discussed in the text.a
+Answer: B
+
+Question 9:
+Which choice most logically completes the text?
+
+DC hand dancing is a swing dance that emerged in Washington, DC, in the 1950s. Like many swing variants, including the boogie-woogie and Imperial swing, it evolved from the Lindy Hop, which developed along with swing music in New York City in the late 1920s and soon became popular across the United States. The Lindy Hop blended elements of European partner dances with the Breakaway, the Texas Tommy, and other dances rooted in pre-swing jazz music that were popular in Black American communities. Of the jazz-based dances, the most important for the Lindy Hop was the Charleston, from which many of the Lindy Hop's characteristic steps and its bouncy, energetic style were derived. Based on this history, it is reasonable to conclude that ______
+
+
+A. the Charleston may have exerted a greater influence on DC hand dancing and other regional swing dance variants than the Lindy Hop did.
+B. DC hand dancing and many other swing dance variants can trace their lineage back to the Charleston through the Lindy Hop.
+C. the importance of the Breakaway and the Texas Tommy to the development of the Lindy Hop has largely been forgotten.
+D. European partner dances were less popular in the United States in the 1920s than either the Charleston or the Lindy Hop was.
+Answer: B
+
+Question 10:
+Which choice most logically completes the text?
+
+Originating at the Savoy Ballroom in Harlem, New York, in the 1920s and 1930s, the Lindy Hop is perhaps one of the most iconic swing dances, but “swing dance” refers to a range of interrelated dance forms, from East Coast swing to DC hand dancing. A swing dance that developed independently in the 1930s in Southern California, the Balboa exclusively uses close holds, in which partners maintain continuous upper-body contact. The dance therefore takes up less space than does the Savoy-style Lindy Hop, which is characterized by breakaways (in which partners separate) and acrobatic tricks. Noting that social dance venues in Southern California were typically much smaller than the Savoy Ballroom was, dance experts have thus concluded that ____.
+
+
+A. at least some of the features that distinguish swing dance variants can be attributed to characteristics of the environments in which the dances originated.
+B. the greater skill required to become proficient at dancing the Savoy-style Lindy Hop makes the dance harder to master than the Balboa is.
+C. most of the aesthetic characteristics that typify individual swing dances likely developed as adaptations to other dance styles that were popular at different social dance venues.
+D. the Savoy-style Lindy Hop’s popularity can likely be explained in part by the fact that it is more acrobatic and thus more entertaining to watch than either East Coast swing or DC hand dancing is.
+Answer: A
+
+Question 11:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The links between the Lindy Hop, a 1930s dance, and seemingly unrelated contemporary styles like voguing have been ______ in dance history accounts. *The Jazz Continuum*, whose ensemble has featured the show's creator LaTasha Barnes and dancer Tyedric Hill, has corrected this, its choreography integrating the Lindy Hop, voguing, and other styles in an illustration of their shared history.
+
+
+A. celebrated
+B. neglected
+C. revived
+D. overemphasized
+Answer: B
+
+Question 12:
+Which choice best describes the overall structure of the text?
+
+Originating in Harlem in the late 1920s, the Lindy Hop is a swing dance that was popularized in the 1930s by Norma Miller and other dancers, including George Grenidge and Willa Mae Ricker, who performed for audiences across the United States. Though the Lindy Hop's popularity subsided in the 1940s, films like *Keep Punching* (1939), which showcased Miller's work, preserved aspects of the dance's original form. These films inspired a new generation of swing enthusiasts during the swing revival of the late twentieth century, in which Miller had a leading role.
+
+
+A. It introduces notable figures who were important to the Lindy Hop's initial rise to national prominence and then discusses how one of those figures contributed to the dance's resurgence in later decades.
+B. It recounts how collaborative efforts of several dancers enabled the Lindy Hop's rise in popularity across the United States and then contrasts the relative influence of those dancers on subsequent generations.
+C. It relates the Lindy Hop's spread across the United States following its emergence in Harlem in the early twentieth century and then notes that its popularity diminished in the last decades of that century.
+D. It traces the rise and fall of the Lindy Hop's popularity in the 1920s and 1930s and then suggests that the later renewal of interest in the dance can be primarily explained by the popularity of late twentieth-century films that featured it.
+Answer: A
+
+Question 13:
+Which choice most logically completes the text?
+
+DC hand dancing is a swing dance that emerged in Washington, DC, in the 1950s. Like many swing variants, including the boogie-woogie and Imperial swing, it evolved from the Lindy Hop, which developed along with swing music in New York City in the late 1920s and soon became popular across the United States. The Lindy Hop blended elements of European partner dances with the Breakaway, the Texas Tommy, and other dances rooted in pre-swing jazz music that were popular in Black American communities. Of the jazz-based dances, the most important for the Lindy Hop was the Charleston, from which many of the Lindy Hop's characteristic steps and its bouncy, energetic style were derived. Based on this history, it is reasonable to conclude that ______
+
+
+A. the Charleston may have exerted a greater influence on DC hand dancing and other regional swing dance variants than the Lindy Hop did.
+B. DC hand dancing and many other swing dance variants can trace their lineage back to the Charleston through the Lindy Hop.
+C. the importance of the Breakaway and the Texas Tommy to the development of the Lindy Hop has largely been forgotten.
+D. European partner dances were less popular in the United States in the 1920s than either the Charleston or the Lindy Hop was.
+Answer: B
+
+Question 14:
+Which quotation from The Man-Made World: Or, Our Androcentric Culture most effectively illustrates the claim?
+
+*The Man-Made World: Or, Our Androcentric Culture* is a 1911 nonfiction work by Charlotte Perkins Gilman. In the text, the author emphasizes the importance of cultivating individuals rather than comparing them: ____
+
+
+A. "We do not sadly measure the cabbage-stalk by the corn-stalk, and praise the corn for getting ahead of the cabbage — nor incite the cabbage to [imitate] the corn. We nourish both, to its best growth—and are the richer."
+B. "We have but to learn the real elements in humanity; its true powers and natural characteristics."
+C. "What is [the family's] rational development in humanness; in mechanical, mental and social lines."
+D. "That every child on earth shall have right conditions to make the best growth possible to it; that every citizen, from birth to death, shall have a chance to learn all he or she can [absorb], to develop every power that is in them."
+Answer: A
+
+Question 15:
+Which quotation from The Man-Made World; Or, Our Androcentric Culture most effectively illustrates the claim?
+
+*The Man-Made World; Or, Our Androcentric Culture* is a 1911 nonfiction work by Charlotte Perkins Gilman. In the text, the author describes an important way people can honor their ancestors: ______
+
+
+A. "If [the family is the unit of the state]—why not run the state on that basis?"
+B. "Let us look back on our little ancestors the beasts."
+C. "The best thing any of us can do for our ancestors is to be better than they were."
+D. "[Painting] is also a wide field; and cannot be done full justice to within these limits."
+Answer: C
+
+Question 16:
+Which quotation from an art historian would most directly support the claim made in the text?
+
+In Diné (Navajo) culture, *iikaah* (sandpaintings) are created and then erased as part of sacred healing ceremonies lasting no more than a few days, but Diné *hataalii* (chanter, healer, cultural guide) Fred Stevens developed fixatives to preserve desacralized sandpaintings. While on a US-sponsored cultural ambassadorial trip in Europe and the Americas in the 1960s, Stevens produced several such sandpaintings and gave them to cultural institutions. This may seem in tension with the role of cultural ambassador—how could static objects authentically represent an inherently ephemeral and dynamic practice?—but such a view is itself overly object-focused and neglects how Stevens strove to convey exactly those characteristics of *iikaah* as a cultural practice.
+
+
+A. “Stevens’s ambassadorial sandpaintings are best understood not as self-contained objects but as reminders of the public creations of the sandpaintings, during which Stevens conducted appropriate iikaah rituals and encouraged viewers to closely track his movements and subtle shifts in the sand throughout the process.”
+B. “While Stevens’s ambassadorial sandpaintings are undoubtedly educative for audiences that have little exposure to Diné culture, they should not be confused with authentic iikaah, which cannot be extracted from a practice that is intentionally and necessarily transitory nor condensed into a single persistent object.”
+C. “The most compelling way to reconcile the apparent tension between the temporary and performative nature of iikaahand the persistent and static nature of Stevens’s ambassadorial sandpaintings is to recognize that Stevens was an ambassador not only of Diné culture but of a US art culture that tended to value permanent works over ephemeral ones.”
+D. “It is important to recall Stevens’s own actions as a gift-giver—a temporary and performative role—of the sandpaintings, for by taking those actions, Stevens publicly enacted the transmission of knowledge of both traditional iikaah practices and cutting-edge chemistry (in the form of the preservative additives), a hybrid that reflects the dynamism of Diné culture.”
+Answer: A
+
+Question 17:
+The student wants to connect a quotation to a particular nontraditional design element in Cody's work. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Melissa Cody is a Diné (Navajo) textile artist known for blending traditional Diné designs (stripes, zigzags, and diamond patterns) with nontraditional elements.
+• Cody's work incorporates arrangements of shapes or text inspired by video game graphics and pop culture references.
+• Cody: "I'm a child of '80s video game culture...I grew up with this world of pixelization."
+• Cody: "The things we consider tradition now weren't considered tradition when they first came about."
+• Her tapestry Rainbow Road features words in a blocky digital font surrounded by a pattern of colored diamonds.
+• Her tapestry Lightning Storm features a blank column of undyed wool next to a blue zigzag stripe.
+
+
+A. The words in a blocky digital font in Rainbow Road reflect Cody's childhood familiarity with blocky video game graphics—what she calls "this world of pixelization."
+B. Cody's background as "a child of '80s video game culture" factored into her decision to blend traditional and nontraditional design elements in Lightning Storm.
+C. Cody's tapestry Rainbow Road features a pattern of colored diamonds, a traditional design element that "we consider tradition now."
+D. According to Cody, some elements of Lightning Storm, such as a blue zigzag stripe, "weren't considered tradition when they first came about."
+Answer: A
+
+Question 18:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The design of Navajo (Diné) textile artist Melissa Cody’s tapestry *Emergence* blends a range of contemporary and traditional elements. The tapestry’s design integrates features reminiscent of early video game graphics, including pixelated shapes and layered ______ Navajo weaving motifs, such as stripes, zigzags, and diamonds, that date back hundreds of years; and the signature bright colors of a weaving style that arose in the 1860s.
+
+
+A. patterns.
+B. patterns
+C. patterns,
+D. patterns;
+Answer: D
+
+Question 19:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The colors of Navajo (Diné) weaver Melissa Cody’s work *World Traveler* (2014) recall both the Germantown revival, a style developed by Navajo Nation ______ ago, and the color palette of the video games that Cody played as a child.
+
+
+A. artist's over 100 year's
+B. artists over 160 years'
+C. artists' over 160 years
+D. artists over 160 years
+Answer: D
+
+Question 20:
+Which choice completes the text with the most logical transition?
+
+Celebrated Navajo weaver Melissa Cody (born 1983) creates textiles that blend traditional techniques with contemporary designs. She uses natural dyes extracted from plants like juniper and sage. _______ the textiles display vibrant yellows and deep browns characteristic of these organic materials.
+
+
+A. In contrast,
+B. For instance,
+C. Previously,
+D. As a result,
+Answer: D

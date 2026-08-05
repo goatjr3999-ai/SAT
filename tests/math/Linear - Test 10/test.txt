@@ -1,0 +1,46 @@
+Question 1:
+How many solutions does the equation {{MATH_1}} have?
+
+A. Exactly one
+B. Exactly two
+C. Infinitely many
+D. Zero
+Answer: C
+
+Question 2:
+Line k is defined by {{MATH_2}}. Line j is parallel to line k in the xy-plane and passes through the point {{MATH_3}} Which equation defines line j?
+
+A. y = x − 2
+B. y= 3x + 1
+C. y = − x − 2
+D. y = − 3x + 1
+Answer: B
+
+Question 3:
+The table gives the number of hours, h, of labor and a plumber-s total charge f(h), in dollars, for two different jobs.
+
+There is a linear relationship between h and f(h). Which equation represents this relationship?
+
+A. f(h) = 85h + 55
+B. f(h) = 55h + 85
+C. f(h) = 110h + 30
+D. f(h) = 30h + 110
+Answer: B
+
+Question 4:
+A park rents beach umbrellas to visitors. The park earns revenue of {{MATH_4}} for each beach umbrella they rent for the day. On Wednesday, the park earned {{MATH_5}} in profit from renting beach umbrellas after paying daily expenses of {{MATH_6}}. How many beach umbrellas did the park rent on Wednesday? (profit = total revenue - total expenses)
+
+A. 16
+B. 25
+C. 32
+D. 34
+Answer: D
+
+Question 5:
+The graph of the linear function {{MATH_7}} is shown. If c and d are positive constants, which equation could define f?
+
+A. f(x) = − d − cx
+B. f(x) = d − cx
+C. f(x) = d + cx
+D. f(x) = − d + cx
+Answer: A

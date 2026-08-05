@@ -1,0 +1,261 @@
+Question 80:
+[WIC]
+As used in the text, what does the word "accepted" most nearly mean?
+
+The following text is from Charles Dickens's 1861 novel Great Expectations. The narrator is taking a walk near his home on a damp morning. On every rail and gate, wet lay clammy, and the marsh mist was so thick, that the wooden finger on the post directing people to our village—a direction which they never __accepted__, for they never came there—was invisible to me until I was quite close under it.
+
+
+A. Changed
+B. Followed
+C. Approved
+D. Allowed
+Answer: B
+
+Question 267:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In the United States, historians of the American Revolution once had a tendency to approach the subject with ________ : they had so much admiration for the people who carried out the revolution that they were far from objective in their scholarship.
+
+
+A. reverence
+B. candor
+C. prudence
+D. curiosity
+Answer: A
+
+Question 175:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+One challenge of generating electricity from ocean waves is that wave power isn't ________: it varies in unpredictable ways that pose technological and planning problems for electricity generation.
+
+
+A. accidental
+B. expensive
+C. consistent
+D. confident
+Answer: C
+
+Question 279:
+[COE]
+Which choice completes the text with most logical and precise word or phrase?
+
+It is tempting to treat the clustering of textile manufacturing firms in Manchester, UK, as representative of industrial agglomeration generally. But Giulia Faggio et al. caution against ______ this one example: the potential for knowledge spillovers, a dominant driver of collocation in this industry, was largely absent from the leather clothing manufacturing industry.
+
+
+A. convening with
+B. corroborating
+C. scrutinizing
+D. extrapolating from
+Answer: D
+
+Question 82:
+[WIC]
+As used in the text, what does the word “finding” most nearly mean?
+
+The following text is from Jacqueline Woodson’s 2018 novel Harbor Me.
+My uncle is a musician and a storyteller. He says the hardest part of telling a story is __finding__ the beginning.
+©2018 by Jacqueline Woodson
+
+
+A. Reassuring
+B. Asking
+C. Identifying
+D. Insulting
+Answer: C
+
+Question 4:
+[WIC]
+As used in the text, what does the word "recall" most nearly mean?
+
+The following text is adapted from Kenneth Grahame's 1908 novel The Wind in the Willows. The Mole is dazed after briefly meeting a stranger while traveling with a friend. The Mole stood still a moment, held in thought. As one wakened suddenly from a beautiful dream, who struggles to __recall__ it, and can re-capture nothing but a dim sense of the beauty of it, the beauty! Till that, too, fades away in its turn.
+
+
+A. Remember
+B. Overlook
+C. Activate
+D. Deny
+Answer: A
+
+Question 143:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Though many _____ studies of the effect of altitude on blood chemistry focus on people who live above sea level, researchers Suleiman A. Al-Sweedan and Moath Alhaj recently chose the novel path of focusing on people who live below sea level, in locations such as California towns of Salton City and Coachella.
+
+
+A. eccentric
+B. meager
+C. conventional
+D. random
+Answer: C
+
+Question 230:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Mauricio Drelichman and Hans-Joachim Voth’s analysis of the debt repayments and expenditure of the government of Philip II (who ruled an empire including Spain and Milan from 1556 to 1598) found a seeming contradiction: although the government had several short-term cash shortages, it ran an even larger surplus than did the government of eighteenth-century Britain, a nation considered ______ of fiscal virtue.
+
+
+A. a sanction
+B. a paradox
+C. an exemplar
+D. an omen
+Answer: C
+
+Question 113:
+[COE]
+Which choice completes the text with most logical and precise word or phrase?
+
+The decline of the giant pika, a species found throughout northern North America before it became extinct around 8000 BCE, surely had a number of _____ the larger ecosystem in which it existed. The giant pika was part of a complex food web with other organisms, and its disappearance likely affected several other species.
+
+
+A. similarities to
+B. precedents in
+C. sources in
+D. consequences for
+Answer: D
+
+Question 215:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Evaluating the utility of using measurements of chlorophyll a (chl a)—a pigment present in cyanobacteria, diatoms, and other phytoplankton—as ______ phytoplankton biomass, Claire H. Davies et al. concluded that although relative proportions of chl a are affected by factors such as nitrogen status, chl a remains an adequate proxy for phytoplankton biomass.
+
+
+A. a surrogate for
+B. an amalgam of
+C. a stipulation for
+D. a complement to
+Answer: A
+
+Question 102:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Economists have long observed that firms in related industries tend to cluster in the same area, as is the case in Birmingham, UK, where many initial iron and steel processing firms as well as iron and steel tube manufacturers are located. The factors causing such clustering are ____; what drives firms in certain industries to cluster may not be especially relevant among other industries.
+
+
+A. unknown
+B. variable
+C. focused
+D. impressive
+Answer: B
+
+Question 14:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Despite stated claims of global relevance, much major research on income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later ____ this shortcoming after gaining new access to administrative records located in nations in South America, such as Brazil, and Eastern Europe, such as Russia.
+
+
+A. validate
+B. presuppose
+C. categorize
+D. mitigate
+Answer: D
+
+Question 259:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Any effort to raise the toll that drivers must pay to use the Ogdensburg-Prescott Bridge, which spans the Saint Lawrence River to connect New York State and Ontario, Canada, should explain why a higher toll is necessary; no amount of justification, however, is likely to persuade some drivers who believe the current toll is _____.
+
+
+A. contentious
+B. equivocal
+C. exorbitant
+D. warranted
+Answer: C
+
+Question 120:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Though most studies of the effect of altitude on blood chemistry usually concentrate on people who live above sea level, researchers Suleiman A. Al-Sweedan and Moath Alhaj have instead chosen the __________ path in their recent work of studying the blood of people who live below sea level, in locations such as the California towns of Salton City and Imperial.
+
+
+A. predictable
+B. timeworn
+C. innovative
+D. idealistic
+Answer: C
+
+Question 112:
+[COE]
+Which choice completes the text with most logical and precise word or phrase?
+
+In the 2010s, the price of vintage Teenage Mutant Ninja Turtles action figures rose dramatically, which had the counterintuitive effect of ____ demand: buyers who hadn't previously wanted to purchase old action figures thronged the market, believing prices would continue to rise and the toys could be resold later at a profit.
+
+
+A. monetizing
+B. appraising
+C. engendering
+D. exploiting
+Answer: C
+
+Question 48:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Some paleontologists thought that a sudden shift toward an arid climate on the Australian continent may have brought about the rapid extinction of several species of large kangaroos around 200,000 years ago. However, new evidence that the change in conditions occurred well before those species went extinct is forcing paleontologists to ____ that hypothesis.
+
+
+A. revise
+B. interpret
+C. recollect
+D. introduce
+Answer: A
+
+Question 16:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Manul cats are small, shy felines. They live mostly alone in out-of-the-way parts of Asia, such as on Mount Everest. These cats have been difficult to research because their habitats are so ____ large populations of humans.
+
+
+A. drawn to
+B. full of
+C. distant from
+D. responsible for
+Answer: C
+
+Question 17:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+British painter Peter Edwards has a ___ painting portraits of notable figures from a variety of different fields. These characteristic works include his esteemed portraits of writer Maud Sulter and soccer player Bobby Charlton.
+
+
+A. complaint about
+B. question about
+C. requirement for
+D. reputation for
+Answer: D
+
+Question 217:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Though most hoaxes perpetrated as jokes by mischievous users of Wikipedia, an online encyclopedia that almost anyone can freely edit, have quickly been detected and removed, a few entries that knowledgeable readers should have realized were _____, such as those for the country singer-songwriter Joseph G. Williams and the television miniseries Sheer Perfection, persisted on the site for many years before they were finally recognized as falsehoods and deleted.
+
+
+A. spurious
+B. scrupulous
+C. palpable
+D. compulsory
+Answer: A
+
+Question 45:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Mauricio Drelichman and Hans-Joachim Voth’s analysis of the overall debt and revenue of the government of Philip II (who ruled an empire including Spain and Sicily from 1556 to 1598) found an intriguing ______: although the government regularly defaulted on debt, it ran an even larger overall surplus than did the government of eighteenth-century Britain, which historians consider a model of fiscal virtue.
+
+
+A. harbinger
+B. exemplar
+C. sanction
+D. incongruity
+Answer: D

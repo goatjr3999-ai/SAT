@@ -1,0 +1,366 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The *Third-Class Carriage*, painted in the realist style by Honoré Daumier, depicts working-class travelers in a third-class railway car. The realist’s emphasis on accurately portraying the experiences of average working people was largely a rejection of the romantic style evident in many paintings by Eugène Emmanuel Amaury Pineux Duval, which instead _____ their subjects' beauty or heroism while hiding all imperfection.
+
+
+A. hyperbolize
+B. redress
+C. subvert
+D. deride
+Answer: A
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Yuen Yuen Ang et al. argue that merely tallying the number of patents filed per year ______ the degree of innovation occurring: truly novel patents—those, like a 2014 patent for a system of satellite-linked deep-sea buoys, that combine previously unaffiliated technological domains—are vastly outnumbered by nonnovel patents (e.g., a 2014 patent for a new type of bottle cork).
+
+
+A. portends
+B. maligns
+C. belies
+D. thwarts
+Answer: C
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Whatever the prevailing perception of Chen Kaige’s 1993 film *Farewell My Concubine* and Zhang Yimou’s 1991 film *Raise the Red Lantern* at the time of their premieres, both films are now viewed quite _____. For instance, in a 2021 retrospective, film scholars hailed the former as “visually transcendent” and the latter as “a masterwork of cinematic storytelling.”
+
+
+A. curiously
+B. dispassionately
+C. incredulously
+D. laudably
+Answer: D
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Though the Nobel Prize in Chemistry has gone to single individuals like Artturi Ilmari Virtanen in 1944, the Nobel Committee now seems less willing to exclusively ______ the archetype of the lone researcher. By also recognizing collaborative efforts, such as Frederick Sanger’s team for their analyses of DNA structure, the committee acknowledges that modern scientific success is usually achieved through direct cooperation.
+
+
+A. impugn
+B. palliate
+C. extirpate
+D. countenance
+Answer: D
+
+Question 5:
+[Cross Text]
+Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree with which statement?
+
+Text 1
+In separate studies, Stephen Meding and Robert J. Zasoski and Xinhua He and colleagues examined whether plants transfer nutrients to one another using a common mycorrhizal network (CMN)—a lattice of fungal strands in the soil. Meding and Zasoski excluded all pathways other than the CMN by using barriers to keep the plants’ root systems separate while allowing mycorrhizal strands through—a crucial step He and colleagues’ study did not take.
+Text 2
+ Meding and Zasoski took the necessary precaution of separating the plants’ root systems (thereby excluding root-to-root transmission). However, any barrier used must allow the thread-like hyphae of a CMN to pass through, and this permeability would also allow liquids through. Thus, the researchers’ experimental design cannot ensure that any nutrient transfer observed can be attributed to a CMN and not to some other pathway.
+
+
+A. The barriers used in Meding and Zasoski’s study effectively excluded root-to-root transmission of nutrients.
+B. A barrier that is impervious to both roots and fungal strands is necessary to evaluate nutrient transfer via a CMN.
+C. Excluding root-to-root transfer of nutrients between plants is sufficient to ensure that any observed nutrient transfer must involve a CMN.
+D. He and colleagues’ study did not find convincing evidence of nutrient transfer between individual plants.
+Answer: A
+
+Question 6:
+[Cross Text]
+Which choice best describes a difference in how the authors of the texts view the benefits of being named a City of Gastronomy?
+
+Text 1:
+In 2015 Parma, Italy, was named a City of Gastronomy by UNESCO in recognition of the city’s unique food culture. The honor is well known among both residents of the city and tourists who visit. Simply by selecting Parma, UNESCO has helped bring awareness to local recipes, cooking practices, and chefs and has provided a significant boost to the city’s tourism industry.
+Text 2:
+Many people in Parma’s restaurant industry hoped that food tourism would increase after the city was chosen as a City of Gastronomy in 2015. However, as researcher Leang Park and colleagues argue, cities must still create effective marketing strategies to benefit fully from being named a City of Gastronomy. Without the intentional effort that was made to promote the city’s food scene, many current and potential visitors to Parma would not even be aware that it’s home to uniquely delicious food.
+
+
+A. The author of Text 1 considers the effects of Parma’s City of Gastronomy status to be less permanent than the author of Text 2 considers them to be.
+B. The author of Text 1 assumes that a city’s restaurant owners and chefs are most likely to benefit from a city being named a City of Gastronomy, but the author of Text 2 states that the honor most benefits tour guides and tour operators.
+C. The author of Text 1 states that the benefits are automatic, while the author of Text 2 states that effort is required to fully achieve the benefits.
+D. The author of Text 1 views Parma’s status as a City of Gastronomy as having been beneficial for the city, but the author of Text 2 questions whether there’s been a benefit.
+Answer: C
+
+Question 7:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Yingguang Frank Chan and colleagues have explored how convergent evolution—a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages—can result from a genetic mechanism shared by both lineages. Meanwhile, Patricia J. Wittkopp and colleagues have investigated how convergence occurs through different genetic mechanisms, but the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.
+
+
+A. To summarize Green and Extavour’s criticism of the study by Chan and colleagues
+B. To suggest that Green and Extavour’s conclusions would be more persuasive if they incorporated findings from the studies by Chan and colleagues and Wittkopp and colleagues
+C. To situate Green and Extavour’s study in the context of their field
+D. To argue that Green and Extavour’s study revealed a previously unrecognized issue that evolutionary biologists need to address
+Answer: C
+
+Question 8:
+[COE]
+According to the text, what is one way that The Crown of Columbus differs from most of Erdrich’s work?
+
+LaRose is a 2016 novel by Ojibwe writer Louise Erdrich. It explores how historical events affect families on a reservation in rural North Dakota. LaRose is typical of Erdrich’s work. Her writing usually focuses on portrayals of everyday life in Ojibwe communities. Yet some of her novels have fantastical plots and take place outside Ojibwe communities. For example, her 1991 novel The Crown of Columbus is essentially adventure fiction, and the thrilling events in its plot are set largely on a Caribbean island.
+
+
+A. Its main characters are Ojibwe.
+B. It has been adapted into a movie.
+C. It isn’t set in a rural Ojibwe community.
+D. It contains very little dialogue.
+Answer: C
+
+Question 9:
+[COE]
+Based on the text, what can most reasonably be inferred about Ramchand?
+
+The following text is adapted from Rupa Bajwa’s 2004 novel The Sari Shop. Ramchand works as an assistant in a shop in Amritsar, India.
+Even at ten in the morning, the bazaar was throbbing with activity. The halwai [baker] was already installed in front of the Mishthaan Sweet Shop, pressing jalebi batter into squiggly shapes that floated and simmered in the oil in a big iron cauldron. All the shops had opened for the day and, Ramchand noted guiltily, all the shop assistants were already in place, trying to sell things with fixed, attentive smiles on their shiny, bathed faces.
+ ©2004 by Rupa Bajwa
+
+
+A. Ramchand is happy about being at work after seeing shop assistants who are satisfied with their jobs.
+B. Ramchand is overwhelmed by a bazaar after seeing the chaos of other shop assistants selling goods.
+C. Ramchand is remorseful about arriving to work later than other shop assistants he sees.
+D. Ramchand is enchanted by frying jalebi batter while going to work as a shop assistant.
+Answer: C
+
+Question 10:
+[COE]
+Which finding, if true, would be most consistent with Poeplau and his coauthor’s conclusion?
+
+Cover crops, such as hairy vetch, are planted by many farmers between main growing seasons. While these crops are known for reducing drought stress, Christopher Poeplau and his coauthor argued in a 2015 study that cover crops’ role in supporting soil carbon sequestration deserves more attention. Cover crops remove carbon dioxide (CO₂) from the air and convert it to organic compounds; some of these compounds are stored in the soil as soil organic carbon (SOC), which contributes to the buildup of SOC stocks over time. Based on data from numerous farm fields, Poeplau and his coauthor concluded that cover crops contribute meaningfully to soil carbon sequestration and, if widely adopted, could help offset agricultural emissions of atmospheric CO₂ and other greenhouse gases.
+
+
+A. Hairy vetch captures considerably more CO₂ in fields where it is the sole cover crop compared with fields where it is grown alongside other species of cover crops.
+B. SOC stocks vary more in fields where cover crops have been grown for decades compared with fields where cover crops have only recently been introduced.
+C. SOC stocks tend to be significantly lower in fields without cover crops compared with fields where cover crops have been grown for several years.
+D. Cover crops generally exhibit reduced carbon sequestration rates in fields exposed to high levels of greenhouse gas emissions compared with fields exposed to low levels of those emissions.
+Answer: C
+
+Question 11:
+[COE]
+Which finding from the experiment, if true, would most directly support Bernal and de Silva's conclusion?
+
+Male túngara frogs make complex calls to attract mates, but their calls also attract frog-biting midges, insects that feed on the frogs' blood. Researchers Ximena Bernal and Priyanka de Silva wondered if the calls alone are sufficient for midges to locate the frogs or if midges use carbon dioxide emitted by frogs as an additional cue to their prey's whereabouts, like mosquitoes do. In an experiment, the researchers placed two midge traps in a túngara frog breeding area. One trap played recordings of túngara frog calls and the other released carbon dioxide along with playing the calls. Bernal and de Silva concluded that carbon dioxide does not serve as an additional cue to frog-biting midges.
+
+
+A. Only a small number of midges were found in the traps, though the majority were found in the trap that played calls and released carbon dioxide.
+B. Midges entered the trap that released carbon dioxide and played calls only during or immediately after periods of carbon dioxide release.
+C. The trap that released carbon dioxide and played calls attracted few midges when carbon dioxide concentrations were low but attracted many midges when carbon dioxide concentrations were high.
+D. More midges were found in the trap that only played calls than in the trap that played calls and released carbon dioxide.
+Answer: D
+
+Question 12:
+[COE]
+Which finding, if true, would most directly support Núñez and colleagues' claim?
+
+The phrase ***usa-don sonda*** is a future-oriented expression used by members of the Yupno, an Indigenous group in Papua New Guinea, that translates to "next week." Rafael Núñez and colleagues recorded Yupno speakers explaining several of these temporal-related words and phrases and coded each speaker's manual gestures. Previous research has found evidence of Spanish speakers referring to the left/right axis to describe events in time, and many researchers believe that this tendency to make temporal distinctions along imagined linear axes is universal. However, Núñez and colleagues claim that this tendency is not in fact ubiquitous.
+
+
+A. Yupno speakers were observed making temporal gestures both indoors and outdoors, though with greater frequency when indoors.
+B. Yupno speakers typically use their left hand to make temporal gestures regardless of whether the gestures are past oriented or future oriented.
+C. Some Yupno grammatical structures used when talking about time are also used in Spanish.
+D. When outdoors and referring to the future, Yupno speakers facing uphill gesture in front of themselves, whereas those facing downhill gesture behind themselves.
+Answer: D
+
+Question 13:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Historical consensus holds that the great pyramids of Egypt were constructed by massive crews of enslaved laborers, a narrative popularized by ancient historians and later reinforced in popular culture. __Nevertheless, a reexamination of archaeological findings indicates that a paid, skilled workforce was likely responsible for this monumental feat__: excavations near the pyramids have unearthed settlements with evidence of well-fed workers who received medical care, and detailed administrative records documenting rations have also been found. Without this organized labor force, the precision engineering of the pyramids would have been nearly impossible, and the society required to support the project would have been fundamentally different.
+
+
+A. It weakens the claim that the construction of the pyramids was a significant undertaking.
+B. It reinforces the traditional narrative about the workforce that built the pyramids.
+C. It casts doubt on the idea that the pyramids were built by organized groups of people.
+D. It disputes the long-held belief that the pyramids were built using slave labor.
+Answer: D
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+The musical *Hadestown* was produced off-Broadway in New York in 2016. A revised version of the musical premiered on Broadway in 2019, in a larger production. In a review of the Broadway production, theater critic Jesse Green enthusiastically praised the musical’s storytelling. However, Green also explained that he had seen the earlier version of *Hadestown* in 2016 and had found the storytelling to be very confusing. This suggests that in Green’s view, ____.
+
+
+A. Hadestown improved greatly between 2016 and its premiere on Broadway.
+B. The 2016 version of Hadestown had fewer storytelling problems than the 2019 version did.
+C. Hadestown should have had a larger production in 2019 than it actually did.
+D. The 2019 version of Hadestown was less enjoyable than the 2016 version.
+Answer: A
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+In 2006, the US state of Oregon enacted rate stability regulations (RSRs), constraining insurance companies’ latitude to raise premiums (the periodic fees policyholders pay to maintain insurance policies) after policies are in effect. RSRs are effective at protecting existing policyholders from price volatility, but Naoki Aizawa and Ami Ko note that since dynamic pricing of premiums is an important risk-mitigation tool for insurers, RSRs may lead some insurers to scale back or entirely cease selling new policies in the affected market, thereby reducing the competitive pressure that typically restrains premium prices for new policies. Thus, Oregon’s RSRs may _______ .
+
+
+A. prevent large increases in premium prices for new policies despite leading to fewer insurers offering such policies in the affected market.
+B. reduce premium price volatility once policies are in effect but increase risks for policyholders.
+C. be more advantageous for insurers than they are for either current or prospective policyholders.
+D. benefit policyholders at the expense of nonpolicyholders seeking to acquire policies.
+Answer: D
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The prefrontal cortex’s adaptive plasticity typically surpasses that of the primary sensory cortices due to the interplay of three main factors—namely, the density and organization of the ____ synaptic efficiency during complex problem-solving tasks, with synchronized neural firing strengthening the retrieval pathways; and neurochemical modulation, such as the precise regulation of dopamine release.
+
+
+A. neurons, their
+B. neurons; their
+C. neurons. Their
+D. neurons—their
+Answer: B
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Similar to many products worldwide, packaged goods in the US were given a Universal Product Code (UPC) to streamline retail checkout and inventory. First adopted by the grocery industry in 1973, a standard proposed by an IBM engineer, ______
+
+
+A. widespread adoption of laser scanners was not common until the 1980s, so initially, clerks often entered the codes manually.
+B. not until the 1980s did widespread adoption of laser scanners become common, meaning that, initially, clerks often entered the codes manually.
+C. initially, clerks often entered the codes manually, as widespread adoption of laser scanners was not common until the 1980s.
+D. the code was often entered manually by clerks at first, as widespread adoption of laser scanners was not common until the 1980s.
+Answer: D
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+During the decades-long movement to codify the rights of Latinos in the US, certain events were pivotal: the founding of labor rights group El Teatro Campesino in ________ Serna v. Portales Schools court decision in 1974, which affirmed the rights of Latino students, is another such event.
+
+
+A. 1965, for one, the
+B. 1965, for one. The
+C. 1965 for one, the
+D. 1965. For one, the
+Answer: B
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The impala (Aepyceros melampus) has a total population of about 2,000,000 ______ this species still has fewer members than the water buffalo (Bubalus bubalis), which has a total population of roughly 172,000,000.
+
+
+A. members,
+B. members yet,
+C. members
+D. members, yet
+Answer: D
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Not all plants benefit equally from the same kind of _______ alfalfa and forsythia, for example, benefit from endomycorrhizal associations; many tree species, such as pine and alder, benefit from ectomycorrhizal associations; and plants in the Ericaceae family, such as huckleberry, don't benefit from mycorrhizae at all.
+
+
+A. mycorrhizae;
+B. mycorrhizae
+C. mycorrhizae,
+D. mycorrhizae:
+Answer: D
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Medical researchers conducting clinical trials strategically employ the double-blind method when testing new treatments. Using a double-blind protocol offers a number of methodological advantages, such as preventing the placebo effect from influencing patient-reported outcomes. ______ by concealing treatment assignments from the research staff, it minimizes the risk of observer bias affecting the data collection.
+
+
+A. In other words,
+B. For example,
+C. Moreover,
+D. Specifically.
+Answer: C
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A team led by Portuguese researcher Isabel C.F.R. Ferreira found that many species of mushrooms contain chemicals called phenolic compounds, such as 5-O-caffeoylquinic acid and kaempferol. _____ Ferreira detected 5-O-caffeoylquinic acid in Pleurotus ostreatus mushrooms and kaempferol in Sparassis crispa mushrooms.
+
+
+A. However,
+B. For this reason,
+C. For example,
+D. Nevertheless,
+Answer: C
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The London Array, an offshore wind farm located off the coast of England, produces about 630 megawatts (MW) of electricity per year. ____ England's Hornsea Project One offshore wind farm, which generates the most power of any single offshore farm, produces 1,218 MW of electricity.
+
+
+A. As a result,
+B. That is,
+C. By comparison,
+D. For instance,
+Answer: C
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Plato believed material objects to be crude representations of unseen ideal forms. In his view, such abstract, nonmaterial forms are the ultimate source of knowledge. Aristotle disagreed, positing that knowledge is best obtained through direct engagement with the material world; _____ sensory experience of the material is the ultimate source of knowledge.
+
+
+A. meanwhile,
+B. admittedly,
+C. regardless,
+D. in other words,
+Answer: D
+
+Question 25:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The Yapese Empire, a sea power in the Caroline Islands of Micronesia that reached the height of its influence around 1000 CE, is classified as a thalassocracy. Thalassocracies are generally considered distinct from tellurocracies, or land-based powers. _______ the British Empire (1600s–1900s CE) notably extended its hegemony across both land and sea.
+
+
+A. Supporting this claim,
+B. Exemplifying this distinction,
+C. Blurring this line,
+D. Underscoring this difference,
+Answer: C
+
+Question 26:
+[Synthesis]
+The student wants to identify an emission spectrum that includes a wavelength in the violet portion of the visible spectrum. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•When the electrons of a chemical element change energy states, certain wavelengths of light are released.
+•This unique collection of wavelengths is known as the emission spectrum of the element. •Carbon’s emission spectrum includes the 426.7 nanometer (nm) wavelength.
+•Helium’s emission spectrum includes the 587.5 nm wavelength.
+•The violet portion of the visible spectrum is made up of light with wavelengths of 380–450 nm.
+
+
+A. Carbon’s emission spectrum includes the 426.7 nm wavelength, which is in the violet portion of the visible spectrum.
+B. The 587.5 nm wavelength, which is in the violet portion of the visible spectrum, is one wavelength in the emission spectrum of helium.
+C. Since the 426.7 nm wavelength of light is within the 380–450 nm range, it is part of the violet portion of the visible spectrum.
+D. Containing the 426.7 nm and 587.5 nm wavelengths, respectively, both carbon’s and helium’s emission spectra include wavelengths in the violet portion of the visible spectrum.
+Answer: A
+
+Question 27:
+[Synthesis]
+The student wants to synthesize the information to distinguish between the two fundamental cellular processes. Which choice most effectively accomplishes this goal?
+
+While researching cellular biology, a student has compiled the following notes on two fundamental processes:
+• Transcription is the nuclear process in eukaryotes where the genetic information encoded in a DNA segment is used as a template for the synthesis of a complementary messenger RNA (mRNA) molecule.
+ • This synthesis is catalyzed by the enzyme RNA polymerase, which unwinds the DNA double helix to read the nucleotide sequence.
+ • The subsequent process, translation, occurs in the cytoplasm on cellular structures called ribosomes.
+ • During translation, the ribosome reads the mRNA's sequence in three-nucleotide units called codons, and with the help of transfer RNA (tRNA), assembles a specific sequence of amino acids into a polypeptide chain, which then folds into a functional protein.
+
+
+A. Transcription is the process by which a sequence of amino acids is assembled in the cytoplasm, while translation involves the synthesis of an mRNA molecule from a DNA template within the cell’s nucleus.
+B. Whereas transcription involves synthesizing an mRNA molecule from a DNA template within the nucleus, translation is the cytoplasmic process of using that mRNA to assemble a polypeptide chain on a ribosome.
+C. Both transcription, which is catalyzed by RNA polymerase, and translation, which occurs on ribosomes, are essential cellular mechanisms for expressing genetic information encoded in DNA.
+D. The synthesis of a polypeptide chain during translation relies on transfer RNA (tRNA) to read codons, just as the unwinding of the DNA double helix is a critical step for synthesizing genetic material during transcription.
+Answer: B

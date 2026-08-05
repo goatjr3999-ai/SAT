@@ -1,0 +1,389 @@
+Question 54:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Some bands choose a name that’s as unique as possible to distinguish themselves from other bands. The electronic rock band Primary ______ took a different approach. They chose to name themselves after a song by a well-known band, the Cure.
+
+
+A. therefore,
+B. by contrast,
+C. for example,
+D. secondly,
+Answer: B
+
+Question 109:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+If you were to view the Namarunu volcano in Kenya from above, you might notice that its low profile and gently sloping sides make it look a bit like a shield lying flat on the ground. ______, it makes sense that Lydia Jennings and other volcanologists classify Namarunu as a shield volcano.
+
+
+A. For instance,
+B. Therefore,
+C. However,
+D. By contrast,
+Answer: B
+
+Question 90:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+With many elements, like osmium, scientists were able to isolate a relatively pure sample of the substance shortly after discovering its existence. _____ this wasn’t the case with all elements. The process of isolating magnesium, for example, took years—53, to be precise.
+
+
+A. In other words,
+B. For this reason,
+C. Granted,
+D. Likewise,
+Answer: C
+
+Question 84:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The Cheruku rasamu mango variety is from the South Asian country of India. ____in 2018, 18.8 million metric tons of mangoes were produced.
+
+
+A. Hence,
+B. There,
+C. In fact,
+D. Specifically,
+Answer: B
+
+Question 92:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Generally, sleek vehicles are more aerodynamic than bulkier ones. The streamlined nose of the F-4 Phantom II jet, ______ helps it glide through wind with relative ease, while a boxy semitruck encounters more wind resistance, making it less aerodynamic.
+
+
+A. however,
+B. meanwhile,
+C. for example,
+D. additionally,
+Answer: C
+
+Question 26:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+John P. Parker’ s home in Ohio was one of dozens of stops on the underground railroad (the network of people and places that some enslaved people used to escape to freedom). The word “underground” may lead one to assume that Parker kept his antislavery views a secret. ________ his views were quite well known.
+
+
+A. As a result,
+B. Additionally,
+C. On the contrary,
+D. For example,
+Answer: C
+
+Question 72:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Topographic maps show the elevation of landforms above sea level. Bathymetric maps, _____, show the elevation of landforms below the sea, providing valuable information to marine geophysicists like Claudia Flores, who studies seismic data from the northeastern Caribbean.
+
+
+A. afterward,
+B. in conclusion,
+C. for example,
+D. by contrast,
+Answer: D
+
+Question 104:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Newer offshore wind turbines often outperform older models. For example, Denmark’s offshore wind farm, built in 1995, has wind turbines that generate about 1 megawatt (MW) of electricity each. ______ China’s Jiangsu Qidong offshore wind farm, built in 2021, has turbines that can generate about 6 MW of electricity each.
+
+
+A. Granted,
+B. In contrast,
+C. For this reason,
+D. Eventually,
+Answer: B
+
+Question 78:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Amruta Yelamanchili has worked at NASA’s famed Jet Propulsion Laboratory (JPL), one of the world’s leading facilities for robotic space exploration. _____ Yelamanchili worked as a data scientist on the JPL’s Mars 2020 Perseverance rover team, which improved upon the 2011 Curiosity rover design by adding a coring drill to the robot that could collect rock samples for later analysis.
+
+
+A. Specifically,
+B. Conversely,
+C. Finally,
+D. Nevertheless,
+Answer: A
+
+Question 65:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In astrophysics, a ring of debris orbiting a larger object within the object’s Roche limit is expected to persist as a ring, whereas a ring of debris orbiting outside this limit would likely accrete into a satellite (e.g., a moon). Bruno Morgado and colleagues ____ detected a dense ring of material orbiting the trans-Neptunian object Quaoar at a distance of 2,500 miles, well outside the calculated Roche limit of 1,100 miles, that has remained intact.
+
+
+A. fittingly,
+B. for example,
+C. likewise,
+D. though,
+Answer: D
+
+Question 30:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Australia ratified the Outer Space Treaty, an international agreement with over 100 signing nations that acts as the foundation for the laws of space, on January 27, 1967. Colombia signed the treaty; _____ it has yet to officially ratify it.
+
+
+A. however,
+B. similarly,
+C. specifically,
+D. for example,
+Answer: A
+
+Question 28:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Scientists were able to isolate a relatively pure sample of cadmium in 1817, the same year they first discovered the element’s existence. _____ the isolation process took longer for niobium, which was isolated in its pure form 63 years after scientists first discovered it.
+
+
+A. For instance,
+B. Thus,
+C. Similarly,
+D. By contrast,
+Answer: D
+
+Question 108:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The first documented use of the English word “humiliation” is attributed to poet Geoffrey Chaucer’s 1386 work “The Parson’s Tale.” However, Chaucer didn’t write in Modern English; ______ he wrote in what we now call Middle English, which was commonly used during the period.
+
+
+A. for this reason,
+B. instead,
+C. furthermore,
+D. likewise,
+Answer: B
+
+Question 119:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Upon first approaching artist Kurt Wenner’s Dies Irae, a colorful scene painted on the surface of a cobblestone street in Mantua, Italy, one might assume a deep hole filled with life-sized, classically styled sculptures had opened up in the street. ___ by expertly applying the principles of perspective, Wenner created merely the illusion of depth.
+
+
+A. Additionally,
+B. Next,
+C. As a result,
+D. On the contrary,
+Answer: D
+
+Question 5:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As a federalist, New York physician and writer Charles McKnight favored the US Constitution’s provisions for a strong centralized government and supported the document’s ratification; ____ essays he published in the *New-York Journal* in December 1787 under the pseudonym “Examiner” disparaged the arguments of the anti-federalists, who opposed the Constitution’s adoption.
+
+
+A. in other words,
+B. fittingly,
+C. by comparison,
+D. nevertheless,
+Answer: B
+
+Question 55:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In contrast to first-past-the-post electoral processes, the proportional representation system by which Sweden’s Parliament is elected begins with citizens casting their votes not for specific candidates but for political parties. _____ once the votes have been tabulated, each party is awarded a number of seats proportional to the number of votes it received.
+
+
+A. However,
+B. Then,
+C. In other words,
+D. Conversely,
+Answer: B
+
+Question 76:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Analyses of Rembrandt’s seventeenth-century painting The Night Watch, citing its richly saturated colors and stark contrasts between light and shadow, often characterize the work as an exemplar of the Baroque-era style. Many art historians, however, challenge the very notion of a distinct Baroque era. They claim that the so-called Baroque aesthetic was, _____ just an extension of the stylings of the Renaissance era.
+
+
+A. in reality,
+B. first of all,
+C. similarly,
+D. nevertheless,
+Answer: A
+
+Question 12:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As can be seen in the case of “Publius”—a pseudonym adopted by a trio of writers that included Alexander Hamilton—historians have deduced the likely authorship of many pseudonymous political essays published in the years following the American Revolutionary War; pen names such as “Democritus” and “Obadiah Spriggins,” _____ remain as elusive as they once were to eighteenth-century audiences.
+
+
+A. indeed,
+B. though,
+C. likewise,
+D. for example,
+Answer: B
+
+Question 70:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+One proposed boundary between Earth’s atmosphere and outer space is the Kármán line, 100 km above sea level. Based on the work of physicist Theodore von Kármán, this line marks the theoretical height at which an aircraft no longer remains aloft using the force of lift. _____ an aircraft sustains flight past this altitude primarily by its velocity, reaching a speed sufficient to maintain an orbit but not to generate enough lift from the thin air.
+
+
+A. Regardless,
+B. For instance,
+C. Granted,
+D. Instead,
+Answer: D
+
+Question 113:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In Argentina, the Chamber of Deputies is elected via a proportional representation (PR) system. In PR elections, votes are cast (not for specific candidates, as they are in single-member plurality systems, but for political parties) and then tabulated; ___ each qualifying party is awarded a number of seats proportional to the number of votes it received.
+
+
+A. second of all,
+B. in fact,
+C. by contrast,
+D. accordingly,
+Answer: D
+
+Question 87:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Modernista architects championed nature in their designs. ______ the dramatic archways and bird-themed mosaics of Casa Lleó i Morera, a Modernista private home designed by Lluís Domènech i Montaner, couldn’t exactly grow in a forest. Still, one sees natural influences in Domènech i Montaner's penchant for curves (rather than right angles) and plant- and animal-inspired flourishes.
+
+
+A. Of course,
+B. Thus,
+C. Furthermore,
+D. Similarly,
+Answer: A
+
+Question 14:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A 1990 study of schooling fish observed the fish mimicking the behavior of school-mates rapidly swimming away from a predator. This is an example of an information cascade that benefits the collective. _____ the animal world is at times susceptible to the spread of misinformation, often with unfavorable results: a 2010 study of semipalmated sandpipers concluded that fleeing in response to flock-mates’ false alarms caused the birds to abandon safe nesting grounds unnecessarily.
+
+
+A. In other words,
+B. Conversely,
+C. Indeed,
+D. Consequently,
+Answer: B
+
+Question 118:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+There are three basic steps you should follow when planning a scientific inquiry. First, thoroughly research the question you wish to answer. ___ come up with a prediction (also called a hypothesis) about the answer to your question. Third, develop an experiment that can test the accuracy of your hypothesis.
+
+
+A. For example,
+B. Second,
+C. Therefore,
+D. Instead,
+Answer: B
+
+Question 18:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As technology has advanced, many countries have sought to gain an advantage in, or even control parts of, space and its celestial bodies. _____ it is the 1967 Outer Space Treaty—signed by Austria, Finland, and over 100 other nations—that curtails these ambitions and ensures that space remains a neutral place for the international community.
+
+
+A. Consequently,
+B. Specifically,
+C. Alternatively,
+D. Ultimately,
+Answer: D
+
+Question 29:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+When ordering the branches of the Colville River system by Hack’s method, one begins with the riverway’s lowest point: the Colville River’s mouth. _____ when using Strahler’s method, one begins at the top of the river system, with the Okmilaga River and other tributaries fed by the riverway’s source, Alaska’s De Long Mountains.
+
+
+A. Indeed,
+B. Specifically,
+C. In other words,
+D. Alternatively,
+Answer: D
+
+Question 32:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Soil polluted with nickel (a heavy metal) is harmful to many plants and animals, but the plant species Pistia stratiotes, or water lettuce, not only thrives in such conditions but also helps remediate them. As a metal hyperaccumulator, Pistia stratiotes absorbs a large amount of nickel and stores it safely in its roots and shoots; _______ nickel concentrations in the soil decrease.
+
+
+A. in contrast,
+B. thereby,
+C. actually,
+D. by and large
+Answer: B
+
+Question 36:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The Sultanate of Brunei, a Malay sea power based on the northern coast of Borneo that reached its height around 1600 CE, is considered a thalassocracy—a geopolitical entity whose hegemony resulted from control of the sea rather than of land. Historians classify thalassocracies as distinct from tellurocracies, or land-based powers. ______ the Ottoman Empire (1300s–1900s CE) is known for both land and sea supremacy.
+
+
+A. For example, tellurocracies have long overpowered their rivals:
+B. Likewise, thalassocracies are sea-based powers:
+C. In other words, empires are classified according to their source of power:
+D. Of course, the distinction is not always so neat:
+Answer: D
+
+Question 95:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+At past Olympics, in contrast to demonstration sports with international appeal, regionally popular sports were exhibited as onetime showcases. ______ while the internationally popular sport of handball became a medal event after demonstration, kaatsen, a handball sport popular in the Netherlands, only appeared at the 1928 Amsterdam Olympics.
+
+
+A. Moreover,
+B. Accordingly,
+C. Granted,
+D. However,
+Answer: B
+
+Question 4:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Generally, sleek vehicles are more aerodynamic than bulkier ones. For example, the streamlined nose of the Airbus A320 jet helps it glide through wind with relative ease. ____ a boxy semitruck encounters more wind resistance, making it less aerodynamic.
+
+
+A. Specifically,
+B. On the other hand,
+C. As a result,
+D. In conclusion,
+Answer: B
+
+Question 15:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Kho kho, a tag-like sport that originated in India, was not a medal sport at the 1936 Berlin Summer Olympic Games. _____ kho kho was featured at the Games as a demonstration sport. Demonstration sports have been featured at past Olympics to showcase lesser-known or regionally significant sports.
+
+
+A. For example,
+B. Rather,
+C. Thus,
+D. Additionally,
+Answer: B

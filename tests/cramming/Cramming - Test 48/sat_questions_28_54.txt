@@ -1,0 +1,401 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The adult Io moth appears black, orange, and yellow with large eyespots as a result of pigmented scales that cover its wings and body. Although scales are widely known as the source of a moth’s color and pattern, the ________ blank of these scales goes beyond visual display: they also detach when moths are caught in a spiderweb.
+
+
+A. attractiveness
+B. utility
+C. tendency
+D. frailty
+Answer: B
+
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Amaranth grain was domesticated in Mexico. Its physical structure is no longer identical to the structure of the wild plant it is descended from. Summer squash also ______ its wild ancestor. That ancestor plant had a hard rind and bitter flesh. Indigenous people in eastern North America carefully bred the crop until it had a soft rind and mild-tasting flesh.
+
+
+A. reacts to
+B. helps with
+C. varies from
+D. argues with
+Answer: C
+
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+As with other river deltas, the Indus River delta is ____; it is a constantly evolving network of channels and strips of land that change in size and shape as the river deposits new sedimentary particles where the river meets the waters of the Arabian Sea.
+
+
+A. dynamic
+B. sustainable
+C. immutable
+D. unrivaled
+Answer: A
+
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+As the ______ the Danube River and the Black Sea, the Danube River deltaic system is a dynamic habitat, continuously shaped and reshaped by the exchange of fresh water, sediments, nutrients, and minerals where the river mixes with the sea.
+
+
+A. accordance between
+B. predecessor of
+C. interface between
+D. confines of
+Answer: C
+
+
+Question 5:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Advancements like the emergence of glassmaking in Mesopotamia circa 3500 BCE are overemphasized in innovation studies, contributing to the idea that technological change always brings greater complexity Research by Nathaniel Erb-Satullo reveals an important exception: gold metallurgy flourished in the Caucasus in the Bronze Age, but a steep drop during that time (circa 1500 BCE) in objects featuring gold filigree (in which fine threads of gold are arranged in intricate patterns) and other sophisticated goldsmithing techniques suggest that simpler processes supplanted advanced methods.
+
+
+A. It explains that a particular interpretation of technological development has been perpetuated in an academic field and then provides a counterexample demonstrating that the interpretation isn’t always accurate.
+B. It advances a claim made by researchers in one academic field about the nature of technological change and then critiques a contrasting claim presented by a researcher from a related academic field.
+C. It details the near-consensus among researchers in a particular field of study regarding how technology evolves and then indicates the controversial nature of a study challenging that broadly accepted view.
+D. It summarizes the findings of several studies into the origins of a particular invention and then presents additional evidence from a more recent study that contradicts those findings.
+Answer: A
+
+
+Question 6:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+In the past, historians who wanted to examine Frederick Douglass’s diary and other personal papers had to visit the Library of Congress in Washington, DC, to view them on microfilm (__film containing scaled-down reproductions of documents__). But traveling to the library often added time and costs to research projects. Now, by going to the library’s website, researchers can access digitized versions of Douglass’s papers without physically going anywhere.
+
+
+A. It gives information about a famous person.
+B. It describes a debate among historians.
+C. It summarizes an unexpected finding.
+D. It explains the meaning of a word.
+Answer: D
+
+
+Question 7:
+[Cross Text]
+Based on the texts, how would Lorde (Text 1) most likely respond to the argument presented in Text 2?
+
+Text 1:
+ The poet Audre Lorde once claimed that poetry is the most inexpensive of art forms to practice. While people who pursue other art forms—painting, film, theater—require large blocks of uninterrupted time as well as money to complete their work, poets can write, as Lorde said, “between shifts, in the hospital pantry, on the subway, and on scraps of surplus paper.” So poets can practice their art even if they must earn their living in another way.
+Text 2:
+ Any assessment of the state of contemporary poetry must reckon with the professionalization of the field. While it is possible in theory for anyone to publish in *Virginia Quarterly Review*, *Ploughshares*, or a similar major poetry outlet, many people who do so have professional training in poetry and extensive practice writing it, which requires time not often available to those who must also work full-time jobs. Thus, financial security indirectly affects which people become poets.
+
+
+A. By suggesting that those poets who publish in major poetry journals are most likely to be able to earn a living by writing poetry
+B. By pointing out that people can gain experience writing poetry while also working full-time jobs
+C. By mentioning that people often work full-time jobs in order to afford professional training in writing poetry
+D. By indicating that those artists who specialize in more financially rewarding artistic forms are unlikely to also be successful as poets
+Answer: B
+
+
+Question 8:
+[COE]
+Which quotation from The Wonderful Wizard of Oz most effectively illustrates the claim?
+
+The Wonderful Wizard of Oz is a 1900 novel by L. Frank Baum. In the novel, the narrator describes Dorothy’s dog, Toto, as causing Dorothy to feel cheerful: ______
+
+
+A. “Toto was not gray, he was a little black dog, with long silky hair and small black eyes that twinkled merrily on either side of his funny, wee nose.”
+B. “Dorothy now took Toto up solemnly in her arms, and having said one last good-bye she clapped the heels of her shoes together three times, saying: ‘Take me home to Aunt Em!’”
+C. “It was Toto that made Dorothy laugh, and saved her from growing as gray as her other surroundings.”
+D. “Toto jumped out of Dorothy’s arms and hid under the bed, and the girl started to get him.”
+Answer: C
+
+
+Question 9:
+[Structure]
+Which choice best states the main topic of the text?
+
+When people think of dinosaurs with feathers, they typically think of winged dinosaurs, such as the four-winged Microraptor. However, many dinosaurs that didn’t have wings also had feathers on their bodies. For instance, research indicates that the wingless, speedy Ornithomimus likely had feathers.
+
+
+A. Dinosaurs with feathers
+B. The most valuable fossil
+C. Animals without feathers
+D. Bird species
+Answer: A
+
+
+Question 10:
+[COE]
+Based on the text, why does Don Mariano push aside the furniture on the piazza?
+
+The following text is from María Amparo Ruiz de Burton’s 1885 novel The Squatter and the Don.
+Don Mariano Alamar was silently walking up and down the front piazza of his house at the rancho; his hands listlessly clasped behind and his head slightly bent forward in deep thought. He had pushed away to one side the many arm-chairs and wicker rockers with which the piazza was furnished. He wanted a long space to walk. That his meditations were far from agreeable, could easily be seen by the compressed lips, slight frown, and sad gaze of his mild and beautiful blue eyes.
+
+
+A. He wishes to create the impression that he often receives important guests at his home.
+B. He is making his home more comfortable for his family.
+C. He wants to make space so that he can engage in vigorous exercise.
+D. He feels that walking an uninterrupted path will help him think through a difficult issue.
+Answer: D
+
+
+Question 11:
+[COE]
+Which finding, if true, would most directly support the text’s claim about wireless communication devices?
+
+Piezoelectric harvesters convert kinetic energy (resonance) to electrical energy, precluding the need for external electrical sources. The vibration of a spacecraft, for example, can provide sufficient energy to power many of its sensors piezoelectrically. A newly designed piezoelectric harvester incorporating a highly conductive carbon-fiber-reinforced polymer (CFRP) electrode has been shown to provide steady energy loads during resonance, an absolute prerequisite for wireless communication devices to be powered piezoelectrically.
+
+
+A. The near-constant kinetic vibration of a spacecraft makes it possible to power its wireless communication devices using only non-CFRP piezoelectric harvesters.
+B. The high conductivity of the CFRP is what makes the energy output from a piezoelectric harvester sufficient for wireless communication devices.
+C. Intermittent or unpredictable electrical supply undermines the efficacy of wireless communication devices.
+D. The CFRP electrode is incompatible with most wireless communication devices.
+Answer: C
+
+
+Question 12:
+[COE]
+Which choice most effectively uses data from the table to complete the example?
+
+Population and Population Density of African Countries in 2015
+
+As the second-most populous continent in the world, Africa was home to an estimated 1.186 billion people in 2015. In a paper for a social studies class, a student nonetheless notes that countries with very large populations may be less densely populated than are countries with much smaller populations, as can be seen by comparing ______.
+
+
+A. the populations of both Comoros and Burkina Faso in 2015 with their populations in 2010.
+B. Mali, which has a high population of 17,600,000 inhabitants and a relatively low density of 14.2 inhabitants/square kilometer, with Comoros, which has a much lower population and a higher density.
+C. Equatorial Guinea, which has a low density, with Burkina Faso, which has a similar density despite both countries having different geographic sizes.
+D. the geographic size of Mali (1,240,000 square kilometers) with its relatively high population of 17,600,000 inhabitants.
+Answer: B
+
+
+Question 13:
+[COE]
+Which choice best describes data from the table that most effectively strengthen Pereira and colleagues’ conclusion?
+
+Average Monetized Productivity Loss at Two Points After Programs Began, in Australian Dollars
+
+Michelle Pereira et al. hypothesized that introducing health improvements into workplaces would increase productivity by reducing absenteeism (sick employees not working) and presenteeism (sick workers working less productively due to illness). Pereira’s team enrolled groups of Australian workers in two programs: one that gave employees exercise training (EET) and one that enrolled employees in health promotion seminars (EHP). They then calculated the productivity loss of those groups at 12 weeks and 12 months after the programs began (based on the 28 days preceding each point). They concluded that exercise training was more effective at restraining productivity loss than health promotion seminars were, though this result took time to become apparent.
+
+
+A. Productivity loss for the EET group barely decreased between 12 weeks and 12 months after the program began, while productivity loss for the EHP group significantly increased during the same time period.
+B. Productivity loss was largely due to absenteeism for the EHP group at 12 months after the program began, while productivity loss was largely due to presenteeism for the EET group at 12 months after the program began.
+C. Productivity loss was consistently higher for the EHP group than for the EET group over the twelve months that it was measured, though the size of the difference between the two decreased over time.
+D. Productivity loss was fairly similar for the EET and EHP groups 12 weeks after each program began, but at 12 months afterward it had significantly increased for the EHP group and significantly decreased for the EET group.
+Answer: D
+
+
+Question 14:
+[COE]
+Which statement, if true, would most strongly support the claim in the underlined sentence?
+
+*Ningyo joruri* is a form of theater that was popular in eighteenth-century Japan and that unites puppetry with playing of the *shamisen*, a stringed musical instrument. The popularity of *ningyo joruri* was due to a puppetry method called *sannin zukai*, in which three puppeteers operated a single puppet that was large, detailed, and capable of extensive movement and nuanced emotional expression. __Over the ensuing centuries, audience interest in *ningyo joruri* began to decline and *sannin zukai* became prohibitively expensive to mount, so that *sannin zukai* puppeteers could no longer make the profession a full-time career.__ Eventually, *ningyo joruri* productions resorted to cheaper forms of puppetry, such as *karuwa ningyo*, which involves only one puppeteer.
+
+
+A. The karuwa ningyo puppeteering method is not easy: it requires fewer puppeteers to manipulate puppets that are as large as those used in sannin zukai, but each puppeteer’s work is more complex.
+B. The costs of building sannin zukai puppets were very high until the advent of machine-based production methods in the nineteenth century made them comparable to the costs of building karuwa ningyo puppets.
+C. In 1872, Japanese puppeteer Nishikawa Koryu developed a technique called karuwa ningyo, or cart puppetry, in which puppeteers move pegs on their feet that the puppeteer can manipulate by moving his own feet.
+D. The few remaining theatrical companies with sannin zukai performers in the present day are mostly amateur troupes, in which members have other forms of employment that serve as their primary source of income.
+Answer: D
+
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+Researchers have noted that people with clinically typical hearing perceive sounds they believe to be meaningful as quieter than sounds of the same volume that they believe to be noise (i.e., meaningless to the listener). In a recent study, Antonia Olivia Dolan and colleagues allowed participants to listen to (and adjust the volume of) recordings of music in popular genres like classic rock and pop, as well as recordings of nature sounds. The researchers noted that participants may have treated the nature sounds as noise, which suggests that if a participant was exposed to Led Zeppelin's "Whole Lotta Love" and the nature sounds at a volume of 60.8 decibels, the participant likely would have ______.
+
+
+A. believed that neither the nature sounds nor "Whole Lotta Love" were at a volume of 60.8 decibels.
+B. adjusted the volume of the nature sounds to be greater than 60.8 decibels.
+C. perceived the nature sounds and "Whole Lotta Love" to be comparably meaningful despite perceiving the music to be quieter.
+D. experienced the nature sounds as louder than "Whole Lotta Love" even though they were not.
+Answer: D
+
+
+Question 16:
+[Infer]
+Which choice most logically completes the text?
+
+The ratio of methane to other atmospheric constituents—represented by a measure called the methane mole fraction—influences a variety of meteorological phenomena, notably precipitation and humidity. For Titan, Saturn’s largest moon, the observational data that exist are too sparse and discrepant to fully constrain the range of the methane mole fraction at various atmospheric levels. Juan Lora and colleagues point out that outputs of the IPSL atmospheric model of Titan, which track closely to observations in some respects, reflect how the model’s developers responded to this challenge: by prescribing a uniform methane mole fraction for the lowest level of the atmosphere. It is therefore important to note that ____.
+
+
+A. even though the model’s outputs sometimes agree with observational data, Titan’s real methane mole fraction is likely higher than the methane mole fraction used in the model.
+B. inconsistencies across the model’s simulations of Titan’s precipitation and humidity could be attributable to variations in the moon’s methane mole fraction.
+C. further observations of Titan may clarify the moon’s methane mole fraction sufficiently for the model to employ a single value rather than a range.
+D. some disagreements between the model’s simulations of Titan’s precipitation and humidity and the moon’s actual precipitation and humidity are to be expected.
+Answer: D
+
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Cy Twombly, a US painter and sculptor, created many large-scale abstract works, such as his 10-painting series Fifty Days at Iliam. In these works, Twombly’s artistic style is exemplified by his use of graffiti-like ____ often incorporate words or phrases from poetry and mythology.
+
+
+A. scribbles; that
+B. scribbles that
+C. scribbles: that
+D. scribbles. That
+Answer: B
+
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+When attempting to determine a fault’s seismic history, geophysicists like Dr. Estella Atekwana at the University of Delaware rely in part on data about the fault’s physical dimensions and geological features. For the Ione Valley fault in Lander County, Nevada, the US Geological Survey compiles such data in several ____exchanging information with state geological surveys, by linking maps of the fault with sources that offer detailed descriptions of it, and by maintaining a database of quantitative data such as the fault’s length (76 km).
+
+
+A. ways. By
+B. ways: by
+C. ways; by
+D. ways by:
+Answer: B
+
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Most of the ice found on Earth is ice Ih, distinguished by a crystalline structure in which molecules form a hexagonal pattern. Amorphous ice, on the other hand, constitutes most of the ice in the ultrafrigid environment of outer space. Defined by a disorganized molecular structure, ______
+
+
+A. ice Ih contains crystals, whereas amorphous ice, which lacks the thermal energy to form them, does not.
+B. the lack of thermal energy in amorphous ice explains its inability to form the crystals found in ice Ih.
+C. ice Ih differs from amorphous ice in that it possesses the thermal energy to form crystals.
+D. amorphous ice lacks the thermal energy to form the crystals found in ice Ih.
+Answer: D
+
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The parks of Phoenix, Arizona, seem to be making people happier. In a 2022 study, researchers studying connections between the physical location in which a social media post was created and ______ contents analyzed geotagged social media posts from Phoenix. They found that posts from the city's parks contained more words associated with happiness than other posts did.
+
+
+A. their
+B. its
+C. they're
+D. it's
+Answer: B
+
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Austronesian language family comprises some 1,200 languages—including the ______ Nauruan and Marshallee, which are spoken by 6,000 and 55,000 speakers, respectively—and accounts for one-fifth of the world's languages, making it of keen interest to linguists like Marian Klamer.
+
+
+A. languages—
+B. languages:
+C. languages
+D. languages,
+Answer: C
+
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Despite its great distance from Earth—it is 570 light-years away—the star Shaula is one of the brightest stars in the sky, ranking 23rd. Although not as bright as Shaula, the star Alsephina also ranks among the 50 brightest stars (45th, to be exact). ____ Alsephina’s brightness is likely due to the star’s relative proximity: Alsephina is only 80 light-years from Earth.
+
+
+A. Indeed,
+B. As a result,
+C. Granted,
+D. Similarly,
+Answer: C
+
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+To notice subtle variations in the progression of the still life painting genre in Europe, first consider Tomás Hiepes’s Still Life with Birds and Hares from 1643; ____ compare it to Adolphe-Félix Cals’s Still Life with Vegetables, Partridge, and a Jug from 1858.
+
+
+A. instead,
+B. next,
+C. still,
+D. therefore,
+Answer: B
+
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Long thought to be sessile (immobile), adult Chelonibia testudinaria, barnacles that adhere to sea turtle shells, have been observed to shift slightly in position over time—a phenomenon that has been attributed to the barnacles’ passive displacement by water currents. ______ a research team found that adult C. testudinaria moved toward the heads of their sea turtle hosts and thus against the prevailing water flow, behavior consistent with self-initiated locomotion.
+
+
+A. Undermining this explanation,
+B. Confirming this hypothesis,
+C. Contrary to this phenomenon,
+D. Drawing a similar conclusion,
+Answer: A
+
+
+Question 25:
+[Synthesis]
+The student wants to compare the sizes of the two mountain ranges. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•The El Carmen-Verde Mountains are located in northwestern Mexico.
+•They cover an area of 1,141 square miles (m²).
+•The Sierrita Mountains are located in the southwestern United States.
+•They cover an area of 63 m².
+•These mountain ranges are two of the dozens of "sky islands" in the southwestern US and northwestern Mexico.
+•A sky island is an isolated mountain range whose environment differs drastically from that of the surrounding lowlands.
+
+
+A. Sky islands in northwestern Mexico and the southwestern US can vary in size.
+B. In terms of area, the El Carmen-Verde Mountains (which cover 1,141 m²) are larger than the Sierrita Mountains (63 m²).
+C. There are dozens of isolated mountain ranges located in the southwestern US and northwestern Mexico.
+D. The El Carmen-Verde Mountains and the Sierrita Mountains are both isolated mountain ranges whose environments differ drastically from that of the surrounding lowlands.
+Answer: B
+
+
+Question 26:
+[Synthesis]
+The student wants to explain what Psydrax odorata is. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Most of the plant and bird species in Oahu, Hawaii, are non-native.
+•In a 2019 study, researchers wanted to know what role non-native birds play in dispersing plant seeds in Oahu.
+•Researchers catalogued plant seeds found in fecal samples from non-native birds.
+•*Psydrax odorata,* a flowering shrub, was one of fifteen native species catalogued.
+•*Hedychium gardnerianum,* an herbaceous vine, was one of twenty-nine non-native species catalogued.
+•Researchers concluded that non-native birds play a vital role in dispersing the seeds of native and non-native plants.
+
+
+A. Psydrax odorata is a flowering shrub species that is native to Oahu, Hawaii.
+B. Most plant species found in Oahu, Hawaii, like Hedychium gardnerianum, are non-native.
+C. Seeds from Psydrax odorata were found by researchers in the feces of non-native birds.
+D. In a 2019 study, researchers catalogued seeds from Psydrax odorata.
+Answer: A
+
+
+Question 27:
+[Synthesis]
+The student wants to provide evidence that McArthur’s journey was a true circumnavigation. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Dame Ellen McArthur is a British sailor who completed a true circumnavigation of the globe in 2001.
+•One of the requirements of a true circumnavigation is that the journey must begin and end in the same port.
+•McArthur’s circumnavigation began and ended in the port of Les Sables d’Olonne, France.
+•On her journey, McArthur passed the three great capes of the Southern Ocean.
+Her journey took 94 days.
+
+
+A. McArthur is a British sailor who completed a true circumnavigation that ended in Les Sables d’Olonne, France.
+B. McArthur began and ended her trip in the same port (Les Sables d’Olonne, France), one of the requirements for a true circumnavigation.
+C. To be considered a true circumnavigation, a journey must begin and end in the same port, and McArthur’s lasted 94 days.
+D. A true circumnavigation, McArthur’s journey also passed the three great capes of the Southern Ocean.
+Answer: B

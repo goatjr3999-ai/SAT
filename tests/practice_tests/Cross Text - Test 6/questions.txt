@@ -1,0 +1,277 @@
+Question 5:
+Based on the texts, both authors would most likely agree with which statement?
+
+Text 1
+ A study conducted by a marine ecology institute focusing on coral reef systems in Southeast Asia predicts that the clownfish (*Amphiprioninae*) will face significant challenges over the next three decades if ocean temperatures rise as high as some models project. Conversely, the tiger shark (*Galeocerdo cuvier*) is expected to endure even the most extreme warming scenarios with minimal negative effects, indicating that conservation efforts for the clownfish should take priority over those for the tiger shark.
+Text 2
+ Environmental organizations tasked with marine conservation face constraints that prevent them from addressing every threat to biodiversity. These groups rely on scientific data to identify the most vulnerable species and prioritize their conservation strategies accordingly.
+
+
+A. A unified strategy is required to prevent ocean temperatures in Southeast Asia from reaching the upper thresholds predicted by climate models.
+B. Marine conservation organizations in Southeast Asia should allocate more resources to protect clownfish than tiger sharks.
+C. Efforts to conserve clownfish populations are likely to succeed if scientific expertise is combined with local knowledge of the marine ecosystem.
+D. Conservation initiatives for both the clownfish and tiger shark should be launched immediately by all parties involved in marine biodiversity protection.
+Answer: B
+
+Question 54:
+Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree with which statement?
+
+Text 1:
+In separate studies, Guihua Wang and colleagues and Xinhua He and colleagues examined whether plants transfer nutrients to one another using a common mycorrhizal network (CMN)—a lattice of fungal strands in the soil. Wang and colleagues excluded all pathways other than the CMN by using barriers to keep the plants' root systems separate while allowing mycorrhizal strands through an essential step He and colleagues' study did not take.
+Text 2:
+Wang and colleagues took the necessary precaution of separating the plants' root systems (thereby excluding root-to-root transmission). However, any barrier used must allow the thread-like hyphae of a CMN to pass through, and this permeability would also allow liquids through. Thus, the researchers' experimental design cannot ensure that any nutrient transfer observed can be attributed to a CMN and not to some other pathway.
+
+
+A. He and colleagues' study did not find convincing evidence of nutrient transfer between individual plants.
+B. Excluding root-to-root transfer of nutrients between plants is sufficient to evaluate whether any observed nutrient transfer involved a CMN.
+C. It is impossible to determine whether a CMN is the mechanism for any observed nutrient transfer unless root-to-root transfer is precluded.
+D. A barrier that is impervious to both roots and fungal strands is necessary to examine nutrient transfer via a CMN.
+Answer: C
+
+Question 11:
+Based on the texts, the author of Text 2 would most likely agree with which statement regarding the findings of Torres and colleagues (Text 1)?
+
+Text 1:
+In several coastal regions, the lionfish significantly preys upon juvenile reef fish. Marine biologist Elena M. Torres and her research team observed that when lionfish populations were briefly controlled, juvenile reef fish populations noticeably expanded. This outcome demonstrates a basic ecological concept: predator presence directly influences prey abundance.
+Text 2:
+Samuel Griffiths and Jessica Lowell discovered that removing sharks from specific marine habitats off the coast of South Africa, where sharks predominantly prey on seals, did not substantially alter seal populations. Although numerous predation-focused studies indicate a rise in prey populations following predator removal, these studies usually examine small marine organisms with high reproductive rates, such as small reef fish and shrimp, rather than large, slowly reproducing mammals like seals. Such distinctions in prey characteristics likely clarify the difference between Griffiths and Lowell’s findings and other studies.
+
+
+A. These findings might be partly influenced by biological traits of juvenile reef fish not shared by seals.
+B. These findings could differ if the size ratio between lionfish and juvenile reef fish was larger.
+C. These findings might partly result from the smaller size and rapid reproduction of lionfish compared to sharks.
+D. These findings may represent a phenomenon unique to juvenile reef fish rather than other marine species
+Answer: A
+
+Question 37:
+Based on the texts, the author of Text 2 would most likely agree with which statement about King’s Cross, as it is depicted in Text 1?
+
+Text 1 is adapted from E.M. Forster’s 1910 novel Howards End. Text 2 discusses Howards End. King’s Cross and St. Pancras are adjacent railway terminals in London from which trains travel to the countryside.
+Text 1
+"To Margaret the station of King’s Cross had always suggested infinity. Its very situation—withdrawn a little behind the facile splendours of St. Pancras—implied a comment on the materialism of life. Those two great arches, colourless, indifferent, shouldering between them an unlovely clock, were fit portals for some eternal adventure, whose issue might be prosperous, but would certainly not be expressed in the ordinary language of prosperity."
+Text 2
+ "The interplay between opposing ideological positions in Howards End is broadly articulated in the novel’s organization of geographic space. On the one hand, the modern metropolis of London represents capitalism’s emphasis on pragmatism and the accumulation of material wealth; on the other, the English countryside, accessible via King’s Cross, fosters an idealism that values tradition, authentic personal connection, and the aesthetic—what the novel calls 'the infinite.'"
+
+
+A. The austerity conveyed by King’s Cross’s appearance mirrors Margaret’s disillusionment with the prospect of having authentic connections with other people in a world that chiefly values more conventional forms of prosperity.
+B. As a point of connection between London and the countryside, King’s Cross suggests to Margaret the possibility of acquiring the intangible abundance promised by the kinds of authentic engagements that the novel’s rural spaces seem to offer.
+C. King’s Cross has a relatively unassuming appearance whose sharp contrast with the more aesthetically pleasing appearance of St. Pancras suggests to Margaret the ascendancy of the pragmatic capitalistic outlook among London’s inhabitants.
+D. Because it is situated at the beginning of Margaret’s journey from the city to the country, King’s Cross emblematizes the intrusion of the forces of materialism and modernity into the rural spaces that the novel associates with idealism and tradition.
+Answer: B
+
+Question 23:
+Based on the texts, how would the author of Text 2 most likely respond to the problem presented in Text 1?
+
+Text 1
+One challenge faced by researchers studying global urbanization is that countries may define urban settlements differently. Many countries define urban settlements based on the number of people living in them. However, countries do not all use the same number; for example, Greenland uses a minimum population of 200, while the Netherlands uses 20,000. Other countries use a combination of population and other factors. This variation makes it difficult for researchers to compare aspects of urbanization in different countries.
+Text 2
+Recently, a group of six international organizations developed global definitions of common types of settlements. The group developed a new measure called the “degree of urbanization.” This new measure establishes global criteria used to define three types of settlements (cities, towns, and rural areas) and allows researchers to better understand global urbanization rates.
+
+
+A. By suggesting that researchers focus on topics besides urbanization
+B. By noting that a possible solution to the problem is available
+C. By recommending that a specific institution should further investigate the problem
+D. By supplying additional ways in which urbanization research is difficult
+Answer: B
+
+Question 42:
+Which choice best describes a notable difference in how the speaker of Text 1 and the speaker of Text 2 portray the moon?
+
+Text 1 is T.L. Hulme’s 1912 poem “Above the Dock.” Text 2 is from Amy Lowell’s 1912 poem “The Crescent Moon.”
+Text 1
+ Above the quiet dock in mid night,
+ Tangled in the tall mast’s corded height,
+ Hangs the moon. What seemed so far away
+ is but a child’s balloon, forgotten after play.
+Text 2
+ Slipping softly through the sky
+ Little horned, happy moon,
+ Can you hear me up so high?
+ Will you come down soon?
+
+
+A. While both speakers characterize the moon as an entrapped figure, only the speaker of Text 2 describes the moon as being content with this fate.
+B. While both speakers present the moon as a tangible object, only the speaker of Text 1 addresses the moon’s beauty.
+C. While the speaker of Text 1 presents the moon as an object of play, the speaker of Text 2 presents the moon as an object of serious study.
+D. While the speaker of Text 1 presents the moon as seeming to be very close, the speaker of Text 2 emphasizes the moon’s distance from the speaker.
+Answer: D
+
+Question 25:
+Based on the texts, both authors would most likely agree with which statement?
+
+Text 1:
+A conservation group representing 11 tribal nations in the Great Lakes region reported to various state and federal natural resources agencies operating in the region that the firefly (waawaatesi in the Ojibwe language) will likely fare significantly worse than the black bear (makwa in Ojibwe) due to rising temperatures over the next 50 years. This collaborative approach has helped build trust between government and tribal groups, which will likely improve the quality of any joint conservation projects.
+Text 2:
+State and federal natural resources agencies are increasingly incorporating traditional ecological knowledge from tribal groups in the agencies’ plans to address threats to natural resources due to increasing temperatures. This approach has helped build positive relationships between tribal groups and these agencies and furthermore tends to lead to better conservation outcomes.
+
+
+A. Natural resources conservation projects are likely to benefit from collaboration between tribal and government groups.
+B. A collaborative approach to conservation is likely to help reduce the predicted temperature increases in the Great Lakes region.
+C. In the Great Lakes region, it is more important to focus conservation efforts on the firefly than it is to focus on the black bear.
+D. In the Great Lakes region, conservation efforts focused on the firefly are likely to be more effective than those focused on the black bear.
+Answer: A
+
+Question 1:
+Based on the texts, both the author of Text 1 and the author of Text 2 would most likely agree with which statement about scholarship on the modernist period in the United States?
+
+Text 1
+Scholarship today overrepresents experimentally fragmented narrative structures, such as that of Jean Toomer’s Cane, beyond the degree to which they actually influenced fiction in the United States during the modernist period (roughly 1900–1945). Meanwhile, Ellen Glasgow’s Barren Ground, whose coherent, linear narrative structure recalls the fiction of previous centuries, attracts woefully little attention from scholars of modernism.
+Text 2
+Distant reading, or computer-assisted quantitative analysis of massive collections of digitized texts, can reveal stylistic elements that have heretofore escaped notice, despite being shared by numerous texts from the modernist period. For too long, scholars have focused on narrative fragmentation versus coherence, inhibiting inquiry into other points of stylistic correspondence among works that would enrich our understanding of the modernist canon.
+
+
+A. At present, it only partially captures the stylistic dimensions of the fiction written in the period.
+B. Its primary methods for analyzing fiction written in the period are growing obsolete as computer technology advances.
+C. Instead of engaging in unproductive debates, it should work to rehabilitate the reputations of neglected modernist works.
+D. It must widen its focus to include aspects of modernist fiction beyond style, a productive but overrepresented site of inquiry.
+Answer: A
+
+Question 26:
+Based on the texts, the author of Text 2 would most likely agree with which statement about the “Gondwanan species” discussed in Text 1?
+
+Text 1
+The island of Grande Terre split from the former supercontinent Gondwana around 80 million years ago, carrying Gondwanan species from a variety of clades with it. The island was periodically submerged until 37 million years ago, but some researchers suggest that its current biota includes species from clades predating the split that took refuge on islands near Grande Terre during submergence events and then returned.
+Text 2
+Thomas R. Buckley et al. found that the crown age—the age of the most recent common ancestor of all species in the clade (i.e., the clade’s founder)—of Grande Terre’s clade of stick insects is 41.1 million years, which is among the oldest clade crown ages of species inhabiting the island today. Nearly all of Grande Terre’s living species belong to clades that originated much more recently: for example, the crown age of the island’s clade of Goodeniaceae plants is 2.0 million years.
+
+
+A. Most of them began recolonizing Grande Terre from nearby islands around 2.0 million years ago.
+B. Clades to which they belong originated no earlier than 41.1 million years ago.
+C. Few if any of them were members of a clade that includes species currently inhabiting Grande Terre.
+D. Although most of them have living descendants on Grande Terre, the stick insects and Goodeniaceae plants do not.
+Answer: C
+
+Question 47:
+Which conclusion about steroid profiles is supported by information in both Text 1 and Text 2?
+
+Text 1
+As part of a study of ungulates (hoofed mammals) native to the Yellowstone River basin, fresh dung samples from identified individuals were collected in the Confederated Salish and Kootenai Tribes Bison Range of Montana. Based on steroidal analysis, on average the bison and elk samples had similar levels of beta-sitosterol and stigmastanol, which distinguished these species’ profiles from that of moose.
+Text 2
+Although fecal-steroidal profile alone is not sufficient to distinguish between samples from bison and those from elk, the relative levels of zoostanols (steroids with animal origins), such as coprostanol and 24-ethyl-coprostanol, in sediments at Buffalo Ford Lake in Yellowstone National Park show that bison, elk, or both were the predominant ungulates in the lake’s watershed for all strata of sediment examined, going as far back as 2,300 years.
+
+
+A. The profiles for bison and elk contain similar concentrations of various steroids.
+B. Each of the ungulate species in the Buffalo Ford Lake watershed has a distinctive and unique steroidal profile.
+C. Some steroids in the bison and elk profiles are more likely than others to be preserved for long time spans.
+D. The profiles of ungulates in and around the Yellowstone basin show that bison and elk have historically been more prevalent than moose in the area.
+Answer: A
+
+Question 19:
+Based on the texts, Lorde (Text 1) and the author of Text 2 would most likely disagree about the answer to which of the following questions?
+
+Text 1:
+The poet Audre Lorde once claimed that poetry is the most inexpensive of art forms to practice. While people who pursue other art forms—painting, architecture, theater—require large blocks of uninterrupted time as well as money to complete their work, poets can write, as Lorde said, “between shifts, in the hospital pantry, on the subway, and on scraps of surplus paper.” So poets can practice their art even if they must earn their living in another way.
+Text 2:
+Any assessment of the state of contemporary poetry must reckon with the professionalization of the field. While it is possible in theory for anyone to publish in Virginia Quarterly Review, Kenyon Review, or a similar major poetry outlet, many people who do so have professional training in poetry and extensive practice writing it, which requires time not often available to those who must also work full-time jobs. Thus, financial security indirectly affects which people produce it.
+
+
+A. Do other art forms than poetry require substantial investments of time and money?
+B. Should poets try to gain experience working in nonartistic fields as a way of improving their poetry?
+C. Does professional training in poetry affect the quality of poets’ work?
+D. Is working a full-time job a major impediment to practicing the art of poetry?
+Answer: D
+
+Question 36:
+Based on the texts, what do the author of Text 1 and the author of Text 2 mainly disagree about?
+
+**Text 1**
+ *Ollantay* is a play in Quechua, an Indigenous language in South America. The play portrays life in the Inca Empire before Spain invaded in the 1500s. Yet the oldest known text of the play is from 1770, and in many places its writing style resembles the writing style of Spanish plays from the 1700s. Thus, *Ollantay* was probably created in the late 1700s by someone who knew much about the Inca past.
+**Text 2**
+ *Ollantay* includes details of Inca society that a writer in the 1700s wouldn’t have known about. Also, the play’s structure matches descriptions of the structure of Inca drama from the 1500s. The obvious explanation is that *Ollantay* itself is an Inca work from the 1500s. It could have been performed continuously from the 1500s to the 1700s. By the time it was written down in 1770, it could have easily been influenced by later Spanish plays.
+
+
+A. What inspired a Spanish writer in the 1700s to write a play about the Inca Empire
+B. Whether Ollantay is an Inca play from the 1500s or was instead created much later, in the 1700s
+C. How the Inca author of Ollantay knew so much about plays from Spain
+D. Why Inca plays became more popular in the 1700s than they had been when they were first performed in the 1500s
+Answer: B
+
+Question 53:
+Based on the texts, the author of Text 1 and the author of Text 2 would mostly likely agree with which statement?
+
+Text 1
+Based in Los Angeles, Xipe Totec is among the many groups in the US and Mexico specializing in Danza Mexica. This dance form originated in the 1500s, when the Chichimeca Jonaz and other tribes in Central Mexico began sharing and combining their dances, creating a hybrid with distinctive choreography and regalia. As performed by Xipe Totec, the dance form serves as a link between the Indigenous past and present.
+Text 2
+Danza Mexica—or Danza de los Huehuenches, as it is often known in Mexico—originated in the traditions of specific tribal communities. Since then, however, it has undergone significant stylistic changes and spread beyond its place of origin to the rest of Mexico and, more recently, to Mexican communities in the US. Thus, despite its tribally specific origins, the dance form is best understood as an expression of Mexican culture more generally.
+
+
+A. The regalia and choreography of Danza Mexica will continue to evolve in response to trends in other dance forms in Mexican and Mexican American communities.
+B. The role played by Danza Mexica in Mexican culture is comparable to that played by traditional dances in Chichimeca Jonaz culture.
+C. Xipe Totec and other US-based groups largely succeed in honoring the historical origins of Danza Mexica.
+D. Danza Mexica exhibits critical stylistic differences from the tribally specific dances that contributed to its development.
+Answer: D
+
+Question 27:
+Based on the texts, both authors would most likely agree with which statement?
+
+Text 1
+French Impressionist artist Edgar Degas insisted that his paintings be kept in their original frames after they were sold. Like many Impressionist painters, Degas used painted frames that stood in contrast to the gold frames frequently seen at the Paris Salon, a prestigious art exhibition that was sponsored by the French government and promoted traditional painting styles. Impressionist painters likely chose these colorful frames to distinguish themselves from what was considered conventional at the time.
+Text 2
+ Impressionist painters often focused on the interplay of color and light in their works. As such, those Impressionists who placed their works in painted frames instead of the more traditional gold ones did so for aesthetic reasons: a frame's color was likely chosen because it would harmonize with the colors or subjects in a painting. Gold, conversely, could distract from the subtleties in a painted scene.
+
+
+A. Many Impressionist painters were intentional about the frames they selected for their works.
+B. Degas's preferred framing style was different from that of most Impressionist painters.
+C. The colors in an Impressionist painting were often chosen to complement the colors of the frame it would be placed in.
+D. Gold frames were considered especially desirable by those who purchased works from Impressionist painters.
+Answer: A
+
+Question 13:
+Based on the texts, both the author of Text 1 and the author of Text 2 would most likely agree with which statement about scholarship on works from the modernist period in Britain and Ireland?
+
+Text 1:
+ Scholarship today overrepresents experimentally fragmented narrative structures, such as that of Flann O’Brien’s At Swim-Two-Birds, beyond the degree to which they actually influenced fiction in Britain and Ireland during the modernist period (roughly 1900–1945). Meanwhile, Elizabeth Bowen’s The Last September, whose coherent, linear narrative structure recalls the fiction of previous centuries, attracts woefully little attention from scholars of modernism.
+Text 2:
+ Distant reading, or computer-assisted quantitative analysis of massive collections of digitized texts, can reveal stylistic elements that have heretofore escaped notice, despite being shared by numerous texts from the modernist period. For too long, scholars have focused on narrative fragmentation versus coherence, inhibiting inquiry into other points of stylistic correspondence among works that would enrich our understanding of the modernist canon.
+
+
+A. It must widen its focus to include aspects of modernist fiction beyond style, a productive but overrepresented site of inquiry.
+B. Without a major shift in focus, the vision that it presents of fiction written in the period will continue to be unnecessarily limited.
+C. Instead of engaging in unproductive debates, it should work to rehabilitate the reputations of neglected modernist works.
+D. Its primary methods for analyzing fiction written in the period are growing obsolete as computer technology advances.
+Answer: B
+
+Question 39:
+Based on the texts, which choice best describes a similarity in the points of view presented in Text 1 and Text 2?
+
+Text 1
+In separate studies, Marine Fernandez and colleagues and Xinxua He and colleagues showed that plants can benefit from their connection to a common mycorrhizal network (CMN)—a lattice of fungal strands in the soil. Fernandez and colleagues found that when connected to a CMN, alder and birch plants’ root systems separate while allowing mycorrhizal strands through—a crucial step He and colleague’ study did not take.
+Text 2
+ He and colleagues took the necessary precaution of separating the plants' root systems (thereby excluding root-to-root transmission). However, any barrier used must be one that fully allows for a CMN to connect the plants. Impermeable bags also allow liquids through. Thus, the researchers’ experimental design cannot ensure that the nutrient transfer observed can be attributed to a CMN and not to some other pathway.
+
+
+A. Each text attempts to dispel a common misunderstanding about the likelihood of plant-to-plant nutrient transfer.
+B. Each text assumes that most nutrient transfer between plants is via a CMN.
+C. Each text analyzes methods for studying CMN nutrient transfer in order to propose an alternative method of study.
+D. Each text critiques the methodology of a study about nutrient transfer via a CMN.
+Answer: D
+
+Question 33:
+Based on the texts, the author of Text 2 would most likely agree with which statement about the "principle" mentioned in Text 1?
+
+Text 1:
+In parts of New Zealand, the stoat is a major predator of the house mouse. Researcher G.L. Blackwell and colleagues found that when this predation pressure on house mice was temporarily reduced, their numbers significantly increased. This finding illustrates a foundational ecological principle: predators control prey population numbers.
+Text 2:
+William D. Gulsby and colleagues found that excluding coyotes from a site in the state of Georgia, where they typically prey on white-tailed deer, had no significant effect on white-tailed deer abundance. Many other predation relief studies show an increase in prey abundance, but those studies often focus on small, rapidly reproducing prey, like birds, mice, and frogs, rather than large, slowly reproducing prey like white-tailed deer, which could account for the difference between those results and Gulsby and colleagues' results.
+
+
+A. It is plausible, but many of the studies that support it have methodological flaws.
+B. It has been challenged by some studies, but the findings of those studies have not been widely accepted.
+C. It may be true for some predators, but only because those predators share certain physical characteristics.
+D. It has some evidential support, but it should not be regarded as universally applicable.
+Answer: D
+
+Question 51:
+Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree on which point?
+
+Text 1
+For thousands of years, O’odham farmers in the Sonoran desert of the southwestern US and northern Mexico have cultivated organ pipe fruit and beans, sometimes planting these species together so that the organ pipe cacti provide shade for tepary beans. Doing so helps protect tepary beans from the harshest heat and light and thereby helps prevent soil moisture from evaporating.
+Text 2
+Tepary beans are well adapted to growing in the desert but grow best when shaded. Inspired by O’odham farmers, who often strategically plant tepary beans in the shade of sun-hardy species like organ pipe cacti for protection from the sun and heat, Gary Nabhan and colleagues planted tepary beans in the shade of solar panels in the Sonoran desert and found that the plants grew well, suggesting to Nabhan and colleagues that the panels provide a benefit similar to that provided by organ pipe cacti.
+
+
+A. Organ pipe cacti can provide shade that protects tepary beans from high-intensity heat and light.
+B. Compared with Nabhan’s approach, the O’odham approach has the advantage of producing beans.
+C. Organ pipe cacti grow best when planted in shaded areas, while tepary beans do not require shade to thrive.
+D. Nabhan’s team’s method could be refined to more actively prevent soil moisture from evaporating.
+Answer: A

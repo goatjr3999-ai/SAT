@@ -1,0 +1,189 @@
+Question 1:
+The function f is defined by the given equation,
+{{MATH_1}}
+where a and b are integer constants. If {{MATH_2}}, and {{MATH_3}}what is one possible value of a + b? (Điền gi- trị nhỏ nhất trong c-c số)
+
+Answer: 39
+
+Question 2:
+A circle with a center {{MATH_4}} is a unit circle on the {{MATH_5}}-plane. Point {{MATH_6}} and {{MATH_7}} lie on the circle. If the measurement of angle {{MATH_8}} is {{MATH_9}} in radians, what is the {{MATH_10}}-coordinate of point {{MATH_11}}? 
+
+A. {{MATH_12}}
+B. {{MATH_13}}
+C. {{MATH_14}}
+D. {{MATH_15}}
+Answer: A
+
+Question 3:
+For triangle ABC, the length of {{MATH_16}} is 11 less than the length of {{MATH_17}}. Point D (not shown) lies on {{MATH_17}} such that {{MATH_18}} (not shown) is perpendicular to {{MATH_17}}. What is the value of {{MATH_19}}? (phân số)
+
+Answer: 32/21
+
+Question 4:
+In triangle{{MATH_20}}, the measure of angle {{MATH_21}} is {{MATH_22}}, the measure of angle {{MATH_23}} is {{MATH_24}}, and the measure of angle {{MATH_25}} is {{MATH_26}}, where {{MATH_27}} and{{MATH_28}} are constants. Which of the following must be true?
+
+A. {{MATH_29}}
+B. {{MATH_30}}
+C. {{MATH_31}}
+D. There is not enough information to compare the values of {{MATH_32}}and {{MATH_33}}
+Answer: D
+
+Question 5:
+In triangle {{MATH_34}}, the measure of angle {{MATH_35}} is 90- and {{MATH_36}} is an altitude of the triangle. The length of {{MATH_37}} is 13 and the length of {{MATH_38}} is 19 greater than the length of {{MATH_37}}. What is the value of {{MATH_39}}
+
+A. {{MATH_40}}
+B. {{MATH_41}}
+C. {{MATH_42}}
+D. {{MATH_43}}
+Answer: D
+
+Question 6:
+The given equation relates the positive variables {{MATH_99}}, {{MATH_100}}, {{MATH_101}}, and {{MATH_102}}.
+Which of the following is equivalent to {{MATH_100}}?
+
+{{MATH_103}}
+
+A. {{MATH_104}}
+B. {{MATH_105}}
+C. {{MATH_106}}
+D. {{MATH_107}}
+Answer: C
+
+Question 7:
+How many times does the graph of the given equation in the {{MATH_44}}-plane cross the x-axis, where a, b, and e are positive constants such that {{MATH_45}} and {{MATH_46}}? 
+{{MATH_47}}
+
+A. Zero
+B. One
+C. Two
+D. Three
+Answer: B
+
+Question 8:
+The given equation represents circle A in the {{MATH_48}}-plane, where {{MATH_49}} is a constant. Point (5,7) lies on circle B, which has the same center but twice the diameter as circle A. What is the value of {{MATH_50}}
+{{MATH_51}}
+
+Answer: -8
+
+Question 9:
+For a quadratic function{{MATH_52}} the equation {{MATH_53}}holds for all values of {{MATH_54}}If the minimum value of the function {{MATH_55}} is 2, what is the value of {{MATH_56}}
+
+A. 6
+B. 8
+C. 10
+D. 12
+Answer: C
+
+Question 10:
+Data set A and data set B each consist of 26 values. The table shows the frequencies of the values for each data set. Which of the following statements best compares the means of the two data sets?
+
+A. The mean of data set A is greater than the mean of data set B.
+B. The mean of data set A is less than the mean of data set B.
+C. The mean of data set A is equal to the mean of data set B.
+D. There is not enough information to compare the means of the data sets.
+Answer: A
+
+Question 11:
+{{MATH_57}}
+In the expression above, {{MATH_58}} is a constant. Which of the following is a factor of the expression?
+
+A. {{MATH_59}}
+B. {{MATH_60}}
+C. {{MATH_61}}
+D. {{MATH_62}}
+Answer: B
+
+Question 12:
+In the given equations, {{MATH_63}} and {{MATH_64}} are constants, {{MATH_65}} and {{MATH_66}}.
+{{MATH_67}}
+{{MATH_68}}
+What is the value of {{MATH_10}}? (phân số)
+
+Answer: 9/7
+
+Question 13:
+In the given function, b is a positive constant. For every increase in the value of x by 1, the value of f(x) increases by c%, where 0 < c < 100. Which expression gives the value of c in terms of b?
+{{MATH_69}}
+
+A. {{MATH_70}}
+B. {{MATH_71}}
+C. {{MATH_72}}
+D. {{MATH_73}}
+Answer: D
+
+Question 14:
+Triangle {{MATH_74}}is similar to triangle {{MATH_75}}, where angle {{MATH_76}} corresponds to angle {{MATH_77}} and angles{{MATH_78}}and {{MATH_79}} are right angles. The length of {{MATH_80}} is 1.1 times the length of {{MATH_81}} If {{MATH_82}}, what is the value of {{MATH_83}}? (phân số)
+
+Answer: 20/29
+
+Question 15:
+The table shows the distribution of people in a certain city by age group.
+
+If a person in this city is selected at random, which of the following is closest to the probability of selecting a person who is greater than 65 years old, given that the person is at least 18 years old?
+
+A. 0.21
+B. 0.29
+C. 0.27
+D. 0.24
+Answer: B
+
+Question 16:
+Line k is defined by {{MATH_84}} Line j is parallel to line k in the xy-plane and passes through the point (0,15). Which equation defines line j?
+
+A. {{MATH_85}}
+B. {{MATH_86}}
+C. {{MATH_87}}
+D. {{MATH_88}}
+Answer: C
+
+Question 17:
+For a study, a group of chipmunks will be selected from a habitat consisting of 220 chipmunks, and a group of prairie dogs will be selected from a habitat consisting of 190 prairie dogs. Some of the chipmunks and prairie dogs will be in a treatment group, and some of the chipmunks and prairie dogs will be in a control group. Which of the following is necessary for this study to attempt to establish a cause-and-effect relationship between two variables?
+
+A. The number of chipmunks in the treatment group is equal to the number of prairie dogs in the treatment group, and the number of chipmunks in the control group is equal to the number of prairie dogs in the control group.
+B. The chipmunks and the prairie dogs are randomly assigned to the treatment and control groups.
+C. The chipmunks and the prairie dogs are randomly selected from their respective habitats.
+D. The average age of the chipmunks in the treatment group is equal to the average age of the prairie dogs in the treatment group, and the average age of the chipmunks in the control group is equal to the average age of the prairie dogs in the control group.
+Answer: B
+
+Question 18:
+The solution to the given system of equations is{{MATH_89}} What is the value of {{MATH_90}}
+{{MATH_91}}
+{{MATH_92}}
+
+A. 0
+B. 65
+C. 260
+D. 520
+Answer: D
+
+Question 19:
+A right circular cone has a volume of 2,700{{MATH_93}} cubic centimeters and the area of its base is 225{{MATH_93}} square centimeters. What is the slant height, in centimeters, of this cone?
+
+A. 12
+B. 15
+C. 36.
+D. 39
+Answer: D
+
+Question 20:
+Near the end of a US cable news show, the host invited viewers to respond to a poll on the show-s website that asked, -Do you support the new federal policy discussed during the show?- At the end of the show, the host reported that 28% responded -Yes,- and 70% responded -No.- Which of the following best explains why the results are unlikely to represent the sentiments of the population of the United States?
+
+A. The percentages do not add up to 100%, so any possible conclusions from the poll are invalid
+B. Those who responded to the poll were not a random sample of the population of the United States
+C. There were not 50% -Yes- responses and 50% -No- responses
+D. The show did not allow viewers enough time to respond to the poll
+Answer: B
+
+Question 21:
+In the given equation, {{MATH_94}} and {{MATH_95}} are positive constants. The product of the solutions to the given equation is {{MATH_96}}, where {{MATH_97}} is a constant. What is the value of {{MATH_97}}? (Định lý Viet)
+{{MATH_98}}
+
+Answer: 1/56
+
+Question 22:
+The function {{MATH_108}} gives each term of a sequence as a
+function of the term's position, {{MATH_109}}, in the sequence, where {{MATH_109}} is a
+whole number. The value of the term in position {{MATH_110}} is {{MATH_111}} more
+than the value of the term in position {{MATH_112}}. What is the value of {{MATH_113}}?
+
+Answer: 1944

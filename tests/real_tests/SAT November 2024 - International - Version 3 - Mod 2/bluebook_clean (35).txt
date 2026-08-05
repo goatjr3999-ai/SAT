@@ -1,0 +1,364 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Cybersecurity experts often encourage users to create passwords that are fairly complicated and therefore difficult to guess. Nonetheless, research has shown that the more ______ approach to password selection seems to favor convenience over security: for example, the third most commonly used password in 2018 was the easily remembered "123456789."
+
+A. creative
+B. useful
+C. complex
+D. popular
+Answer: D
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Writer Lydia Davis observed that while traditional literary forms, such as the short story, are recognizable as such even as they evolve, there are more ______ forms that might, for example, borrow elements from both fiction and essays to make something unconventional. Anne Carson's collection *float* arguably fits in this category, since it straddles the line between prose and poetry.
+
+A. amorphous
+B. neutral
+C. customary
+D. dispersed
+Answer: A
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The fact that publications by Brown University economist Christina Paxson, who studies economics and children, are so frequently cited in other scholars' work ______ the usefulness of her research for her peers—other economists clearly find her studies valuable for their own scholarship.
+
+A. overshadows
+B. underscores
+C. forestalls
+D. belies
+Answer: B
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The sloping tile roofs and picturesque façade of Mission San Luis Rey de Francia in Oceanside, California, exemplify the Spanish contribution to Californian architecture, an influence that is ______ throughout the state—architectural tourists visiting the Santa Fe Depot in San Diego, for example, can easily recognize how its style draws inspiration from the Spanish missions.
+
+A. palpable
+B. understated
+C. corroborated
+D. disputed
+Answer: A
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+The following text is adapted from Matthew Arnold's 1869 nonfiction book *Culture and Anarchy*.
+
+__The Times [a British newspaper], replying to some foreign strictures on the dress, looks, and behavior of the English abroad, urges that the English ideal is that everyone should be free to do and to look just as he likes.__ But culture indefatigably tries, not to make what each raw person may like the rule by which he fashions himself; but to draw ever nearer to a sense of what is indeed beautiful, graceful, and becoming, and to get the raw person to like that.
+
+A. It details an example that supports the author's primary claim.
+B. It asserts that the English are often subject to unfair critiques of their sense of taste.
+C. It indicates that opinions regarding culture shift over time.
+D. It presents an opinion with which the author disagrees.
+Answer: D
+
+Question 6:
+[Cross Text]
+Based on the texts, both the author of Text 1 and the author of Text 2 would most likely agree with which statement about scholarship on works from the modernist period in Britain and Ireland?
+
+**Text 1**
+Scholarship today overrepresents experimentally fragmented narrative structures, such as that of Virginia Woolf's *To the Lighthouse*, beyond the degree to which they actually influenced fiction in Britain and Ireland during the modernist period (roughly 1900-1945). Meanwhile, Elizabeth von Armin's *The Enchanted April*, whose coherent, linear narrative structure recalls the fiction of previous centuries, attracts woefully little attention from scholars of modernism.
+
+**Text 2**
+Distant reading, or computer-assisted quantitative analysis of massive collections of digitized texts, can reveal stylistic elements that have heretofore escaped notice, despite being shared by numerous texts from the modernist period. For too long, scholars have focused on narrative fragmentation versus coherence, inhibiting inquiry into other points of stylistic correspondence among works that would enrich our understanding of the modernist canon.
+
+A. Without a major shift in focus, the vision that it presents of fiction written in the period will continue to be unnecessarily limited.
+B. Instead of engaging in unproductive debates, it should work to rehabilitate the reputations of neglected modernist works.
+C. Its primary methods for analyzing fiction written in the period are growing obsolete as computer technology advances.
+D. It must widen its focus to include aspects of modernist fiction beyond style, a productive but overrepresented site of inquiry.
+Answer: A
+
+Question 7:
+[COE]
+Which quotation from a philosopher's analysis of *The Politics* would best support the student's claim?
+
+A student in a political science course is writing a paper on Aristotle's *The Politics*, in which Aristotle offers his opinion on political instability and gives advice on how constitutions can be preserved. Aristotle observes that different forms of government can fall in different ways—for example, oligarchies might grant power to military leaders during wartime who refuse to relinquish that power during peacetime—but some methods of preserving order apply across all forms of government. The student claims that in particular Aristotle asserts that in a healthy state obedience to law must be as close to absolute as possible and that even minor infractions should not be ignored.
+
+A. When contrasting different forms of government, Aristotle holds that "oligarchies may last, not from any inherent stability in such forms of government, but because the rulers are on good terms both with the unenfranchised and with the governing classes." That is, oligarchic leaders who wish to hold on to power will introduce members of disenfranchised classes into government in a participatory role.
+B. "When constructing his argument regarding the characteristics of a well-functioning government, Aristotle asserts that 'Transgression creeps in unperceived and at last ruins the state,' illustrating this idea with a comparison to frequent small expenditures slowly and almost imperceptibly chipping away at a fortune until it is ultimately depleted."
+C. "When Aristotle considers the health of constitutions, he states that 'Constitutions are preserved when their destroyers are at a distance, and sometimes also because they are near, for the fear of them makes the government keep in hand the constitution.' He holds that rulers who wish to see constitutions preserved must continually remind the populace of the dangers that would result from a constitutional collapse."
+D. "When Aristotle writes on the necessity of avoiding corruption in government, he proposes that 'every state should be so administered and so regulated by law that its magistrates cannot possibly make money, in particular, he thinks oligarchies are particularly susceptible to corruption through bribery."
+Answer: B
+
+Question 8:
+[COE]
+Which choice most effectively uses data from the table to complete the assertion?
+
+*Drosophila* (fruit flies) have generation times of 10-12 days, so seasonal changes in food availability and other environmental conditions can drive seasonal fluctuations in chromosome rearrangements in species such as *D. robusta* and *D. mediopunctata*. Drosophila body size (for which wing centroid size serves as a proxy measure) correlates with reproductive fitness. Banu Sebnem Onder and Cansu Fidan Aksoy measured the wing sizes of members of a *D. melanogaster* population in Yesilóz, Turkey, that were collected monthly between May and October over three years. Their research suggests that *Drosophila* collected in relatively cooler months should tend to have lower reproductive fitness, as is illustrated by the finding that ______
+
+A. the average male wing centroid size was 1.98 mm in September but was 2.31 mm in July.
+B. the average male wing centroid size was consistently smaller than the average female wing centroid size in all four months in the table.
+C. the average monthly low temperature was lower in May than in September.
+D. the average female wing centroid size was smaller in September than in July
+Answer: D
+
+Question 9:
+[COE]
+Which quotation from a scientist not involved in the study would most directly undermine the student's conclusion?
+
+Elaine Ostrander led an international collaboration with Greger Larson and other researchers to study the evolutionary history of size differences in modern dogs, including very small breeds such as Pomeranians. The researchers determined that among dogs as a whole, there are many different variations of the gene that regulates the production of IGF-1 (insulin growth factor 1), a hormone that promotes growth. After reviewing the study, a student concludes that these variations must account for the observed variance in body size among dog breeds.
+
+A. "The gene that regulates IGF-1 production is one of multiple genes known to affect the size of dogs."
+B. "The researchers' conclusions regarding the IGF-1 gene may not apply to other species given that dogs vary in size more than any other group of land mammals does."
+C. "Variations of the IGF-1 gene result in substantial body size variance among dog breeds and may influence additional characteristics as well."
+D. "In fact, only one-third of the most prevalent dog breeds carry the same variant of the gene regulating IGF-1 production."
+Answer: A
+
+Question 10:
+[COE]
+Which finding from the study, if true, would most directly support the team's conclusion?
+
+Neurobiologists Laura Cuaya, Raúl Hernández-Pérez, and colleagues investigated the language detection abilities of eighteen dogs raised in similar settings. The researchers monitored the brain activity of Sander (a golden retriever), Alma (a mixed breed), and other dogs while the animals listened to three recordings: one of *The Little Prince* being read in Spanish, the second in Hungarian, and a third made up of short, randomly selected fragments of the first two, scrambled so that they didn't resemble human speech. Each dog was familiar with either Spanish or Hungarian, but not both. The team concluded that the amount of previous language exposure a dog has received may influence its ability to distinguish familiar languages from unfamiliar ones.
+
+A. The difference between the pattern of brain activity a dog showed when hearing the language it was accustomed to and the pattern of brain activity it showed when hearing the language it was not accustomed to was greatest among older dogs.
+B. The similarity between the pattern of brain activity a dog showed in response for hearing the scrambled recording and the pattern of brain activity it showed in response to hearing the language it was not accustomed to was greatest among older dogs.
+C. Although the dogs' general hearing sensitivity declined with age, dogs of all ages showed more brain activity in response to hearing the language they were accustomed to than in response to hearing the other language.
+D. Dogs showed a different pattern of brain activity when hearing the language they were accustomed to than when hearing the scrambled recording, and the difference in brain activity increased with the age of the dog scanned.
+Answer: A
+
+Question 11:
+[Infer]
+Which choice most logically completes the text?
+
+In May of 1987, Malaysia liberalized its stock market, meaning that it began allowing foreign individuals and businesses to invest money in Malaysian companies. This was part of a wave of stock market liberalizations from the mid-1980s through the mid-1990s: Thailand in 1988, Mexico in 1989, and so on. In an analysis of economic data from 1976 to 1993, Ross Levine and Sara Zervos found that liberalization did not lead to enduring increases in investment in companies based in countries that liberalized. Peter Blair Henry, however, found that, on average, investment in companies in liberalized countries increased significantly in the three years following liberalization. Taken together, these results suggest that ______
+
+A. investment growth is likely to be more consistent in countries that liberalize than in countries that do not.
+B. companies typically do not benefit from liberalization until at least three years after liberalization occurs.
+C. economists' expectations about the effect of liberalization on investment were largely correct.
+D. liberalization may provide a boost to investment that fades over time.
+Answer: D
+
+Question 12:
+[Infer]
+Which choice most logically completes the text?
+
+Data collected by the Mars rover Curiosity at the Gale Crater's Murray Formation are suggestive of hydrological deposition of sediment in the distant past. To characterize the nature of the depositional environment, Frances Rivera-Hernández et al. analyzed the grain size of Murray Formation sediment, finding that although there are intervals of coarse grains, most of the sediment consists of fine grains that show signs of cracking due to episodic desiccation. Rivera-Hernández et al. concluded that the coarse grains are sandstone, which tends to be deposited by flowing water, whereas the fine grains are mudstone, which is slowly deposited by settling out of suspension in low-flow water, leading the researchers to posit that ______
+
+A. a lake existed at the Murray Formation for a prolonged period, though the lake occasionally experienced drying and there were periods in which one or more streams were present.
+B. one or more streams existed at the Murray Formation for an extended period until being replaced by a lake that persisted for only a brief period before permanently drying.
+C. a stream-fed lake was present at the Murray formation for an extended period.and although the streams experienced occasional drying, the lake did not.
+D. although the area of the Murray Formation experienced a prolonged period of dryness that prevented a lake from forming, water flowing from a distant source was present.
+Answer: A
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+Although the language of the Olmec civilization, which flourished in southern Mexico circa 1500 BCE-400 BCE, hasn't been identified, it likely belonged to the Mixe-Zoquean family, a group of related languages whose present-day representatives are spoken in an area corresponding to ancient Olmec sites. The family can be subdivided into a Zoque branch, which includes Copainalá Zoque, and a Mixe branch, which includes Coatlán Mixe. Many words in the Mayan languages—languages spoken in the region but otherwise unrelated to the Mixe-Zoquean family—are Mixe-Zoquean in origin and were likely borrowed during the period when the Olmecs dominated the entire area. Tellingly, all those words derive from the Zoque branch, suggesting that ______
+
+A. Coatlán Mixe and the other languages of the Mixe branch likely supplanted the languages of the Zoque branch sometime before 1500 BCE.
+B. the Mixe-Zoquean family had already diverged into the Mixe and Zoque branches by the time the Olmecs became the prevailing power in the region.
+C. the language of the Olmec civilization contributed words not only to Mayan languages but also to other languages in the Mixe Zoquean family.
+D. the language of the Olmec civilization was likely the founding language of the family that includes Mayan languages.
+Answer: B
+
+Question 14:
+[COE]
+Which choice completes the text so that it conforms to the conversations of Standard English?
+
+Each year, the Nobel Prize in Literature is given to an author who has, in the words of its founder Alfred Nobel, "produced the most outstanding work in an idealistic ______ in 2011, for instance, judges recognized Tomas Transformer "[for], through his condensed, translucent images, [giving] us fresh access to reality.”
+
+A. direction";
+B. direction" and,
+C. direction"
+D. direction,
+Answer: A
+
+Question 15:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Mathematician Grigori Perelman, sometimes in conjunction with mathematicians Richard S. Hamilton and Shing-Tung Yau, ______ credited with proving the Poincaré conjecture. Having built on Hamilton's previous work to solve the proof, Perelman has insisted that Hamilton receive credit. Yau later found and closed gaps in Perelman's proof, persuading some mathematicians that he deserves credit as well.
+
+A. are
+B. are being
+C. have been
+D. is
+Answer: D
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Objects orbiting in the outer solar system between Jupiter and Neptune, such as 49036 Pelion, a 46-kilometer-wide body first detected in 1998, ______ both asteroidal and comet-like characteristics, being closer in size and appearance to asteroids but traveling in an elliptical orbit more closely resembling that of comets.
+
+A. is exhibiting
+B. exhibits
+C. has exhibited
+D. exhibit
+Answer: D
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Prishtina, the capital of Kosovo, has a population of 198,214, which accounts for 10.32 percent of the country's total population. Having proportionally large populations ______ common for national capitals.
+
+A. are
+B. were
+C. have been
+D. is
+Answer: D
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Researchers studying how agricultural fertilizers impact grassland arthropod populations have employed several collection methods. A team led by researcher Mark E. Ritchie collected arthropods with ______ another research team, led by Alison G. Boyer, gathered them with bug vacuums.
+
+A. sweep nets; for instance,
+B. sweep nets for instance
+C. sweep nets, for instance,
+D. sweep nets, for instance;
+Answer: D
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+On most of the world's beaches, sand is a predictable cream or beige color. The sand at Kaihalulu Beach in Hawai'i is a strikingly different ______ sand gets its shade from deposits of gray-and tan-hued quartz and feldspar, deposits of iron oxide and other organic matter lend the sand at Kaihalulu Beach a colorful red tint.
+
+A. shade: though most
+B. shade, though most
+C. shade, though, most
+D. shade, though. Most
+Answer: A
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The parks of Los Angeles, California, seem to be making people happier. In a 2022 study, researchers ______ for a relationship between the physical location in which a social media post was created and the content of that post analyzed geotagged social media posts from Los Angeles. The team found that posts from the city's parks contained more words associated with happiness than other posts did.
+
+A. had looked
+B. looking
+C. were looking
+D. looked
+Answer: B
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Marcel Duchamp intended his 1917 so-called ready-made sculpture *Fountain* to challenge then-prevailing conceptions about the nature of art. ______ Duchamp's fountain did just that, raising the question of whether displaying any object in an art gallery could be said to transform the object—even, as Duchamp's sculpture was, a urinal—into a legitimate work of art.
+
+A. In addition,
+B. Similarly,
+C. Instead.
+D. Indeed,
+Answer: D
+
+Question 22:
+[Synthesis]
+The student wants to emphasize how hard quartz is in relation to other minerals. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.
+• Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.
+• Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.
+• The mineral apatite has a Mohs scale number of 5.
+• The mineral quartz has a Mohs scale number of 7.
+• The mineral diamond has a Mohs scale number of 10.
+
+A. Diamond is hard enough to scratch both apatite and quartz.
+B. In the Mohs scale of mineral hardness, diamond (10) is ranked higher than apatite (5).
+C. Diamond, apatite, and quartz can be ordered by hardness based on their ability to scratch other minerals.
+D. Quartz is hard enough to scratch apatite but not hard enough to scratch diamond.
+Answer: D
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In hindsight, given the ideas about the natural world circulating among British scientists in the 1800s, the theory of natural selection was an obvious next step. It may not have been a coincidence, ______ that Charles Darwin and Alfred Wallace arrived at the concept independently. Indeed, contrary to the popular myth of the lone genius, theirs is not the first paradigm-shifting theory to have emerged from multiple scholars working in parallel.
+
+A. however,
+B. then,
+C. moreover,
+D. for example,
+Answer: B
+
+Question 24:
+[Synthesis]
+The student wants to emphasize a similarity between Cane and Billy Budd Sailor. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• A copyright prevents a book's contents from being reproduced (published) without permission from the copyright holder.
+• When a book's copyright expires, the book enters the public domain and can be legally reproduced by anyone.
+• *Cane* is a novel by Jean Toomer.
+• It entered the public domain in 2019.
+• *Billy Budd*, *Sailor* is a novella by Herman Melville.
+• It entered the public domain in 2020.
+
+A. *Cane*, a novel by Jean Toomer, entered the public domain in 2019, unlike Herman Melville's novella *Billy Budd*, Sailor, which would do so later.
+B. *Cane*, a novel by Jean Toomer, and *Billy Budd*, Sailor, a novella by Herman Melville, recently entered the public domain.
+C. The year was 2020, and the copyright to Herman Melville's *Billy Budd*, *Sailor* had finally expired.
+D. *Cane* is a novel, whereas *Billy Budd*, Sailor is a novella.
+Answer: B
+
+Question 25:
+[Synthesis]
+The student wants to contrast the subject matter of the two prints. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• *The Love Is Approaching* is a 1974 black-and-white linocut print by Namibian artist John Muafangejo.
+• It depicts a tranquil, everyday scene (two seated figures reaching for each other).
+• *La Protesta* ("The Protest") is a 1937 black-and-white linocut print by Mexican artist Leopoldo Méndez.
+• It features a scene with an explicitly political point of view (a laborer raising his fist in protest).
+• Relief printing is a technique in which an image is carved onto a printing block, covered in ink or paint, and stamped onto paper.
+• Lino cutting is a type of relief printing that uses linoleum tile as the printing block.
+
+A. The print by Méndez is a black-and white linocut; by contrast, Muafangejo's is a relief print.
+B. The scenes depicted in both works were first carved onto a printing block, then stamped onto paper, however, one work is a linocut, while the other is a relief print.
+C. Méndez made *La Protesta* ("The Protest") in 1937, while Muafangejo made *The Love Is Approaching* later, in 1974.
+D. Méndez's print expresses an explicitly political point of view, while Muafangejo's depicts a tranquil, everyday scene.
+Answer: D
+
+Question 26:
+[Synthesis]
+The student wants to make a generalization about circumnavigations. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• A sailing trip that goes in a complete circle around the world is called a circumnavigation.
+• Most circumnavigations include stops on land.
+• Clarisse Cremer is a French sailor.
+• Cremer sailed the boat *Banque Populaire X* on a nonstop, 87-day circumnavigation.
+• Asia Pajkowska is a Polish sailor.
+• Pajkowska sailed the boat *FanFan* on a nonstop, 216-day circumnavigation.
+
+A. Pajkowska sailed *FanFan* around the world, while Cremer sailed *Banque Populaire X*.
+B. A circumnavigation is defined as a sailing trip that goes in a complete circle around the world.
+C. Pajkowska and Cremer have both embarked on sailing journeys around the world, also called circumnavigations.
+D. Most circumnavigations include stops on land, but some circumnavigations are nonstop.
+Answer: D
+
+Question 27:
+[Synthesis]
+The student wants to refute a claim that malapportionment in the Storting favors small urban districts. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Malapportionment is the over- or under-representation (relative to population size) of electoral districts in a governing body.
+• It is a common feature of representative governments.
+• There are 169 seats in Norway's supreme legislature (the Storting).
+• Seats are distributed by a formula that awards 1 point per resident and 1.8 points per unit of land.
+• Less populated rural districts with large tracts of land receive a disproportionate number of seats compared to smaller but more populated urban districts.
+
+A. Awarding more points per unit of land than points per resident, the formula for distributing Storting seats overrepresents less populated rural districts with large tracts of land.
+B. Less populated rural districts are disproportionally underrepresented in the Storting, creating an unfair advantage for smaller but more populated urban districts.
+C. It's untrue that malapportionment in the 169 seat Storting favors small urban districts; rather, the formula for distributing seats overrepresents more populated districts.
+D. A common feature of representative governments, malapportionment occurs when electoral districts are over-or underrepresented.
+Answer: A
+

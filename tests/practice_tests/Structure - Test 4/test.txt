@@ -1,0 +1,132 @@
+Question 1:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is from Bram Stoker’s 1911 novel The Lair of the White Worm. Adam is meeting his great-uncle Richard at a port.
+"The meeting so auspiciously begun proceeded well. Adam, seeing that the old man was interested in the novelty of the ship, suggested that he should stay the night on board, and that he would himself be ready to start at any hour or go anywhere that the other suggested. This affectionate willingness to fall in with his own plans quite won the old man’s heart. He warmly accepted the invitation, and at once they became not only on terms of affectionate relationship, but almost like old friends."
+
+A. It contrasts great-uncle Richard’s wary first impressions of Adam with his ultimate affection toward him.
+B. It showcases how Adam’s flexibility and consideration strengthen his relationship with his great-uncle Richard.
+C. It states the reasons why Adam and his great-uncle Richard decide to sleep on the ship rather than finding lodging on land.
+D. It describes why Adam and his great-uncle Richard are excited for their upcoming journey on the ship.
+Answer: B
+
+Question 2:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is from José Rizal’s 1891 novel The Reign of Greed (translated by Charles Derbyshire in 1912).
+A lady accompanied by her husband entered at that moment and took her place in one of the two vacant boxes. She had the air of a queen and gazed disdainfully at the whole house, as if to say, “I’ve come later than all of you, you crowd of upstarts and provincials, I’ve come later than you!” There are persons who go to the theater like the contestants in a mule-race: the last one in, wins, and we know very sensible men who would ascend the scaffold rather than enter a theater before the first act.
+
+A. To describe the physical appearance and demeanor of a particular lady at the theater.
+B. To criticize the pretentious behavior of certain theatergoers who view themselves as superior.
+C. To illustrate the competitive nature of attending the theater, likening it to a race.
+D. To compare different attitudes toward theater attendance among various social groups
+Answer: B
+
+Question 3:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Buenos Aires has high pedestrian traffic, but simply replicating a feature of Buenos Aires associated with walkability—e.g., its high concentration of shaded streets—may be insufficient to induce increased walking in other cities. As urbanist Mariella Alfonzo argues, our understanding of individuals' decision-making about whether to walk is insufficiently robust: some studies emphasize the role of individual physical fitness, others the role of population density, and so on, but walking decisions are made in complex contexts in which multiple conditions and needs inform individuals' choices.
+
+A. To present a claim about how individuals' decision-making about walking can be improved
+B. To explain why it is challenging to compare the amount of pedestrian traffic in different cities
+C. To describe the effect of a high concentration of shaded streets on any given city's walkability
+D. To discuss the difficulty of identifying a reliable way to increase walking in any given city
+Answer: D
+
+Question 4:
+[Structure]
+Which choice best states the main topic of the text?
+
+Yingguang Frank Chan and colleagues have explored how convergent evolution—a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages—can result from a genetic mechanism shared by both lineages. Meanwhile, Patricia J. Wittkopp and colleagues have investigated how convergence occurs through different genetic mechanisms. However, the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.
+
+A. Whether studies of convergent evolution should focus on lineages that share the same underlying genetic mechanism
+B. How a particular study of convergent evolution relates to some other studies in the field
+C. What kinds of traits are most likely to arise convergently in several lineages
+D. Why convergent evolution is particularly difficult for biologists to study
+Answer: B
+
+Question 5:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+The following text is from the 1895 poem "Marshlands" by Emily Pauline Johnson, a Kanien’kehá:ka (Mohawk) writer also known as Tekahionwake.
+Among the wild rice in the still lagoon,
+In monotone the lizard shrills his tune.
+The wild goose, brooding, seeks its sheltering,
+Where rushes grow, and oozing lichens cling.
+Late cranes with heavy wing, and lazy flight,
+Sail up the silence with the nearing night.
+And like a spirit, swathed in some soft veil,
+Steals twilight and its shadows o’er the swale,
+Husht like the sedges, and the vapours creep,
+Thick, grey and humid, while the marshes sleep.
+
+A. It names animal species found in a place, then names plant species there.
+B. It sketches a setting by presenting a series of images of nature.
+C. It identifies a location, then refers to a person living there.
+D. It makes an extended comparison of nature to human emotions.
+Answer: B
+
+Question 6:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+President Richard Nixon is most famous for his participation in the 1970s Watergate political scandal, a convoluted tale of criminality and eroded ethics involving a constellation of associates such as political operative E. Howard Hunt, Nixon’s secretary Rose Mary Woods. But Nixon’s legacy is complex: he has been praised for his role in affirming the sovereignty of tribal nations, and he once made an attempt at reforming United States health care policy that is arguably a precursor to the Affordable Care Act, which became law during the Barack Obama administration.
+
+A. An achievement of a historical figure is described, and then reasons why that achievement is often disregarded by historians are suggested.
+B. Information supporting a particular perception of a historical figure is provided, and then additional facts are offered suggesting that this perception is an oversimplification.
+C. A list of historical figures is presented, followed by reasons why one should be considered more significant than the others.
+D. An assertion about a historical figure is made, and then evidence both for and against that assertion is presented.
+Answer: B
+
+Question 7:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Can field mustard plants grow on Mars? Can pea plants? You might think the answer to these questions is obviously no, but researchers in the Netherlands recently showed that the seeds of many common plant species can germinate in soil designed to simulate Martian conditions, as long as water is supplied. In fact, some species actually did better in Martian soil than in Earth soil: 30 percent of field mustard seeds sprouted when planted in simulated Martian soil, compared with 4 percent that did when planted in soil from their home planet.
+
+A. To answer long-standing questions about how Martian soil conditions can be simulated on Earth
+B. To present a surprising finding about plants grown in soil intended to be similar to Martian soil
+C. To discuss an unexpected result about the role of water in plants grown in simulated Martian soil
+D. To explain an important study of differences in the composition of Martian soil and the composition of Earth soil
+Answer: B
+
+Question 8:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Ceremony, the 1977 novel by Laguna Pueblo author Leslie Marmon Silko, is typical of Native fiction written during the 1960s and 1970s. During that period, Silko and her peers wrote realistic and deeply serious portrayals of life in tribal communities. Recently, however, younger Native writers have embraced popular genres known for being entertaining and suspenseful, such as fantasy and horror. Anishinaabe author Nathan Adler is a figure in this movement. Their 2016 novel Wrist is a work of horror fiction.
+
+A. It discusses fiction by earlier Native writers, then describes how fiction by more recent Native writers differs from the earlier fiction.
+B. It praises one Native fiction writer, then criticizes a different Native fiction writer.
+C. It provides an overview of Native fiction, then compares it to fiction by non-Native writers.
+D. It describes one Native author’s early works, then describes her more recent works.
+Answer: A
+
+Question 9:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Founded in Long Beach, California, in 1996, the Museum of Latin American Art is dedicated to modern and contemporary art by Latin American artists and Latino artists in the United States. Since its founding, it has acquired more than 1,300 objects for its permanent collection. More recently founded US-based institutions devoted to Latino cultures include the National Hispanic Cultural Center. Located in Albuquerque, it focuses on the literature, art, and cultures of Latin America as well as of Latino communities in the United States.
+
+A. To trace the founding of two institutions, including how they acquired funding to purchase artworks
+B. To draw a contrast between the collection sizes of two institutions
+C. To present information about two institutions, including each institution’s area of focus
+D. To trace a historical development that encouraged the founding of two institutions
+Answer: C
+
+Question 10:
+[Structure]
+Which choice best states the main idea of the text?
+
+Toads and macaque monkeys can see in three dimensions (3D), which helps them perceive distance and depth. Octopuses and squid are thought to lack 3D vision. Many researchers once thought the same about cuttlefish, but Trevor Wardill and his team wanted to test whether this assumption was true. The team studied how cuttlefish wearing 3D glasses reacted to 3D images of shrimp (a favorite prey) projected on a tank wall. Cuttlefish changed their striking position to match the 3D images, suggesting that their vision is more like that of toads and macaque monkeys than that of octopuses or squid.
+
+A. Wardill’s team designed 3D glasses for cuttlefish.
+B. Before completing their study, Wardill’s team showed that toads have 3D vision, but macaque monkeys may not.
+C. The findings of Wardill’s team’s study suggest that like toads and macaque monkeys, cuttlefish may also have 3D vision.
+D. Cuttlefish eyes are much more complex than those of either toads or macaque monkeys.
+Answer: C
+

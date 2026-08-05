@@ -1,0 +1,241 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Building additional road capacity may seem like an obvious solution to traffic congestion, but numerous studies have cast doubt on the _____ of that approach. Not only does additional road capacity often fail to relieve congestion, but it can also make traffic worse by encouraging more people to drive.
+
+A. efficacy
+B. aesthetics
+C. originality
+D. popularity
+Answer: A
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Exploring labels from obsolete pharmaceuticals, formulas from early 20th-century chemistry sets, and brochures for discontinued chemical products might appear to be a trivial endeavor, yet ephemeral items like these serve as indicators of scientific progress: they can ____ in norms, scientific practices, and issues that more conventional scientific artifacts might overlook.
+
+A. register
+B. vindicate
+C. preclude
+D. induce
+Answer: A
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The National Heritage Fellowship was created to honor the resilience of exceptional folk and traditional artists in the United States. One artist who received the fellowship is Navajo (Diné) basket weaver Mary Holiday Black. Black was chosen for her perseverance in advancing her art form despite a lifetime of ______ and cultural hardship.
+
+A. remuneration
+B. approbation
+C. apotheosis
+D. tribulation
+Answer: D
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+A team of archaeologists examined 150 spherically shaped limestone rocks called spheroids that date back about 1.4 million years, concluding that early hominins intentionally chipped away at rocks to form these spheroids over time. The fact that their attempt to make the stones as round as possible was ______ suggests that early hominins may have been more cognitively sophisticated than previously thought.
+
+A. concerning
+B. comparable
+C. sympathetic
+D. deliberate
+Answer: D
+
+Question 5:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+To assist with the development of new water-repellant materials for aviation and other applications, a team of researchers studied the properties of cicada wings. The project's success was not merely the sum of individual contributions from engineers and entomologists; rather, it was the productive ______ of their combined, interdisciplinary insights that led to a comprehensive approach unattainable by either field alone.
+
+A. dichotomy
+B. emulation
+C. proclivity
+D. synergy
+Answer: D
+
+Question 6:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+At a 2027 wellness summit in Reykjavik, longevity enthusiasts tested a variety of _____ eating regimens: week-long juice-only cleanses, month-long color-restricted menus, and diets limited to foods foraged within a ten-mile radius.
+
+A. meager
+B. salutary
+C. proscriptive
+D. eccentric
+Answer: C
+
+Question 7:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Some robots such as Wabian (developed in 1995) and ASIMO (developed in 2011) feature humanoid characteristics like the ability to respond to voice commands so that people will find it easier to interact with them. While these features can help to ______ feelings of comfort in people, a robot that looks too human can fall into the “uncanny valley,” meaning that its appearance unintentionally unsettles those who encounter it.
+
+A. constrict
+B. repudiate
+C. counterbalance
+D. buttress
+Answer: D
+
+Question 8:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+While today's theater stages are often filled with props and scenery designed to immerse audiences, this emphasis on visual spectacle is a relatively recent development. Before the 1600s, the dramatic experience was centered on language and performance. The simple, unadorned stages of the era were thus a ______ spirit to the poetic, text-driven plays, as both elements prioritized the spoken word over elaborate visual aids.
+
+A. profligate
+B. taciturn
+C. trenchant
+D. kindred
+Answer: D
+
+Question 9:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Text corpora such as the British National Corpus are large collections of electronically stored texts that can be used to determine the frequency of ______ words. (Words used mainly in specialized or academic publications, on the other hand, tend to be poorly represented.) A corpus could reveal, for example, that the word "world" is the eighth most commonly used noun in standard English.
+
+A. trivial
+B. conventional
+C. profound
+D. accidental
+Answer: B
+
+Question 10:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Fearing costly defamation lawsuits, the vintage-wine appraisal trade has turned into a _____ arena: elite sommeliers refuse to commit their opinions to writing, and airtight nondisclosure contracts keep appraisers mute.
+
+A. opportunistic
+B. clandestine
+C. moralizing
+D. xenophobic
+Answer: B
+
+Question 11:
+[WIC]
+As used in the text, what does the word “manifest” most nearly mean?
+
+The following text is from a 1955 translation of Samuel Beckett’s 1951 novel Molloy (translated by the author and Patrick Bowles). In the text, Molloy has arrived at the town ramparts, an elevated walkway atop the city walls.
+And having cleared the ramparts I had to confess the sky was clearing, prior to its winding in the other shroud, night. Yes, the great cloud was travelling, discovering here and there a pale and dying sky, and the sun, already down, was manifest in the livid tongues of fire darting towards the zenith, falling and darting again, ever more pale and languid, and doomed no sooner lit to be extinguished.
+
+A. Situated
+B. Perceptible
+C. Realized
+D. Dwindling
+Answer: B
+
+Question 12:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Writer Lydia Davis observed that while traditional literary forms, such as the novel, are recognizable as such even as they evolve, there are more _____ forms that might, for example, borrow elements from both fiction and essays to make something unconventional. Anne Carson’s collection Float arguably fits in this category, since it straddles the line between prose and poetry.
+
+A. amorphous
+B. neutral
+C. dispersed
+D. customary
+Answer: A
+
+Question 13:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Authors like Laura Esquivel contributed to the outpouring of Mexican literature in the years following the Mexican Revolution, which lasted from 1910–1920. Works from this period make up an _____ proportion of what is considered the canon of Mexican literature, but nineteenth-century writers like Justo Sierra O’Reilly should be considered just as integral to the Mexican literary canon.
+
+A. overlooked
+B. outsized
+C. unspecified
+D. erratic
+Answer: B
+
+Question 14:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Before the Mariner 2 mission completed a successful flyby of Venus in 1962, astronomers' ideas about the planet were little more than ____; Venus's atmosphere is so thick that Earth-based observations had yielded very little information about the planet.
+
+A. summations
+B. conjectures
+C. exemplifications
+D. conclusions
+Answer: B
+
+Question 15:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+During film's early years, those in the industry had a vested interest in elevating the new medium beyond mere novelty. As Sumiko Higashi argues, some filmmakers understood that the commentary of film critics was essential. By drawing similarities between film and established art forms like drama, these critics were not just reviewing movies; they were strategically seeking the public's ______ for cinema as a legitimate art form.
+
+A. anathema
+B. prevarication
+C. disapprobation
+D. approbation
+Answer: D
+
+Question 16:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The social structure of medieval Bremen was heavily influenced by hierarchical institutions (e.g., kinship groups) within the settlement, a condition that some researchers suggest potentially _____ not just social but also economic fluidity—and by extension, urban growth—by constraining the range of contacts available to individuals in the settlement.
+
+A. Protracted
+B. Disseminated
+C. Inhibited
+D. Catalyze
+Answer: C
+
+Question 17:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The term “agglomeration economies” refers to the economic benefits enjoyed by firms in the same industry that _____ in a region. For example, in the computer manufacturing industry in the United Kingdom, firms that locate near one another can more readily take advantage of increased potential for information sharing among firms that fosters greater technological innovation.
+
+A. recur
+B. dissipate
+C. concentrate
+D. terminate
+Answer: C
+
+Question 18:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Highly influential leader of the US civil rights movement, Martin Luther King Jr._______his commitment to nonviolent resistance by organizing and directing numerous peaceful protests like sit-ins across the United States in the 1960s; his actions revealed his unwavering dedication to enhancing the cause of civil rights without resorting to violence.
+
+A. eluded
+B. gauges
+C. evinced
+D. typified
+Answer: C
+
+Question 19:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Writer Lydia Davis observed that while ___ literary forms, such as the short story, are recognizable as such even as they evolve, there are rarer "intergeneric" forms that might, for example, use elements of both fiction and essays to create something unclassifiable. Anne Carson’s collection Float arguably fits in this category, since it straddles the line between prose and poetry.
+
+A. neutral
+B. equivocal
+C. intermediate
+D. orthodox
+Answer: D
+
+Question 20:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The decline of the giant ground sloth, a species found throughout South America before it became extinct around 8500 BCE, surely had a number of ___ the larger ecosystem in which it existed. The giant ground sloth was part of a complex food web with other organisms, and its disappearance likely affected several other species.
+
+A. sources in
+B. consequences for
+C. similarities to
+D. precedents in
+Answer: B
+

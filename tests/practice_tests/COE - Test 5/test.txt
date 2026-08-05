@@ -1,0 +1,120 @@
+Question 1:
+[COE]
+Which finding, if true, would provide evidence that the possibility Grasby et al. investigated does occur?
+
+The Virgin Group’s introduction of the Virgin Atlantic airline in 1984 is an instance of brand extension—the company leveraged its brand recognition as a music retailer to enter a product category where it had not previously competed. To determine if perceived category similarity predicts consumers’ likelihood of purchasing brand extensions, Alicia Grasby et al. identified 30 extended-brand pairs (e.g., the same brand of vacuum cleaner and microwave) in 52 weeks of purchases by approximately 60,000 households; for each pair, Grasby et al. had consumers rate the similarity of the product categories and calculated the change in probability of a brand in one category being purchased if the same brand was purchased in the other category.
+
+A. Consumers tended to purchase more products in categories in which extended-brand pairs are found than in categories in which extended-brand pairs are not found.
+B. There was a strong positive correlation between consumers’ ratings and the changes in probability calculated by the researchers.
+C. Consumers’ ratings varied substantially by category pair, whereas the changes in probability calculated by the researchers were broadly similar for each pair.
+D. Consumers’ ratings and the changes in probability calculated by the researchers were both affected by level of brand recognition.
+Answer: B
+
+Question 2:
+[COE]
+Which finding, if true, would most directly support the second research team’s hypothesis?
+
+Water flowing around an obstruction creates vortices (patterns of swirls) of varying size; by detecting the vortices, fish can determine the size and position of the obstruction. Testing by Yuzo R. Yanagisuru, Otar Akanyeti, and James C. Liao using models of three head shapes—narrow (low ratio of width to length), intermediate, and wide (high ratio of width to length)—showed that for large vortices, fish with intermediate heads would be better able than wide-headed fish to distinguish between vortices and general turbulence in the water. A second research team has therefore hypothesized that in low-visibility conditions, intermediate-headed fish will be more likely than wide-headed fish to detect obstructions that create large vortices.
+
+A. A study using obstructions that created large vortices in low-visibility conditions found that the intermediate-headed black sea bass (Centropristis striates) bumped into the obstructions just as often as the wide-headed Synodontis macropunctata did.
+B. A study using obstructions that created large vortices in low-visibility conditions found that the wide-headed Synodontis macropunctata bumped into obstructions more often than the intermediate-headed black sea bass (Centropristis striates) did.
+C. A study using obstructions that created large vortices in low-visibility conditions found that some specimens of the intermediate-headed black sea bass (Centropristis striates) bumped into the obstructions more often than other specimens of the same fish did.
+D. A study using obstructions that created large vortices in low-visibility conditions found that the Synodontis macropunctata, which has a relatively wide head, bumped into more than half of the obstructions.
+Answer: B
+
+Question 3:
+[COE]
+Which finding, if true, would most directly weaken the student’s claim?
+
+Geneticist Elaine Ostrander led an international collaboration in which Jocelyn Plassais and other researchers investigated the evolutionary history of size variation in modern dogs. The researchers identified multiple versions of the gene regulating the production of IGF-1 (insulin-like growth factor 1) in dogs and found that dogs of the same breed consistently share the same version of the gene. In a discussion of the study, a student hypothesizes that small breeds of dogs (for example, toy poodles) must share a version that represses IGF-1 production that would otherwise confer larger body size.
+
+A. The majority of the most prevalent dog breeds have limited activity in the gene that regulates IGF-1 production.
+B. The gene that regulates IGF-1 production is not the only gene that influences body size in dogs but is the only such gene that shows within-breed version consistency.
+C. The degree of size variation among dogs is greater than that of any other land-based mammal.
+D. Some breeds with small body sizes and low IGF-1 concentrations have a different version of the gene regulating IGF-1 production than do toy poodles.
+Answer: D
+
+Question 4:
+[COE]
+Which finding from the study, if true, would most directly support the researchers’ conclusion?
+
+Almost all works of fiction contain references to the progression of time, including the time of day when events in a story take place. In a 2020 study, Allen Kim, Charuta Pethe, and Steven Skiena claim that an observable pattern in such references reflects a shift in human behavior prompted by the spread of electric lighting in the late nineteenth century. The researchers drew this conclusion from an analysis of more than 50,000 novels spanning many centuries and cultures, using software to recognize and tally both specific time references—that is, clock phrases, such as 7 a.m. or 2:30 p.m.—and implied ones, such as mentions of meals typically associated with a particular time of day.
+
+A. Novels published after the year 1800 include the clock phrase "10 a.m." less often than novels published before the year 1800 do
+B. Among novels published in the nineteenth century, implied time references become steadily more common than clock phrases as publication dates approach 1900
+C. The time references of noon (12 p.m.) and midnight (12 a.m.) are used with roughly the same frequency in the novels
+D. Novels published after 1880 contain significantly more references to activities occurring after 10 p.m. than do novels from earlier periods
+Answer: D
+
+Question 5:
+[COE]
+Which finding, if true, would most directly support the researchers' conclusions?
+
+Over time, marine mollusks called nautiloids continually add segments to their shells, and the chemical composition of each segment is influenced by the available materials in the surrounding water when the segment forms. Paleontologist Amane Tajika and colleagues analyzed the septa (the walls between shell chambers) of one male (samples labeled "M") and one female (samples labeled "F") nautiloid, finding that sample F04 had the same concentration of oxygen-18 as did water approximately 90 meters deep and that the oxygen-18 concentration in sample M17 matched that of water at approximately 385 meters deep. Tajika et al. concluded that sample F04 formed at a higher point in the water column than did M17.
+
+A. In nautiloids, sex predicts septa growth rate more strongly than oxygen-18 concentration in the surrounding water.
+B. Male nautiloids tend to show higher concentrations of oxygen-18 than do female nautiloids inhabiting the same point in the water column.
+C. Regardless of sex, nautiloids spend most of their lives at depths of 200 meters or greater, where oxygen-18 concentrations typically differ from those higher in the water column.
+D. Among nautiloids, there is no effect of sex on the uptake of oxygen-18 from water or its deposition in septa.
+Answer: D
+
+Question 6:
+[COE]
+Which finding, if true, would most directly weaken the second research team’s hypothesis?
+
+Water flowing around an obstruction creates vortices (patterns of swirls) of varying size; by detecting the vortices, fish can determine the size and position of the obstruction. Testing by Yuzo R. Yanagisuru, Otar Akanyeti, and James C. Liao using models of three head shapes—narrow (low ratio of width to length), intermediate, and wide (high ratio of width to length)—showed that for large vortices, fish with intermediate heads would be better able than narrow-headed fish to distinguish between vortices and general turbulence in the water. A second research team has therefore hypothesized that in low-visibility conditions, intermediate-headed fish will be more likely than narrow-headed fish to detect obstructions that create large vortices.
+
+A. A study using obstructions that created large vortices in low-visibility conditions found that some specimens of the intermediate-headed dusky smooth-hound (Mustelus canis) bumped into the obstructions more often than other specimens of the same fish did.
+B. A study using obstructions that created large vortices in low-visibility conditions found that the flat needlefish (Ablennes hians), which has a relatively narrow head, bumped into more than half of the obstructions.
+C. A study using obstructions that created large vortices in low-visibility conditions found that the narrow-headed flat needlefish (Ablennes hians) bumped into obstructions more often than the intermediate-headed dusky smooth-hound (Mustelus canis) did.
+D. A study using obstructions that created large vortices in low-visibility conditions found that the intermediate-headed dusky smooth-hound (Mustelus canis) bumped into the obstructions just as often as the narrow-headed flat needlefish (Ablennes hians) did.
+Answer: D
+
+Question 7:
+[COE]
+Which finding from the study, if true, would most directly support the team’s conclusion?
+
+Neurobiologists Laura Cuaya, Raúl Hernández-Pérez, and colleagues investigated the language detection abilities of eighteen dogs of various ages. The researchers monitored the brain activity of Odin (a 54-month-old border collie), Bingo (a 37-month-old mixed breed), and other dogs while the animals listened to three recordings: one of The Little Prince being read in Spanish, the second in Hungarian, and a third made up of short, randomly selected fragments of the first two, scrambled so that they didn’t resemble human speech. Each of the dogs was familiar with either Spanish or Hungarian, but not both. The team concluded that the younger the dog, the worse it may be at differentiating between familiar and unfamiliar languages.
+
+A. Although the dogs’ general hearing sensitivity declined with age, dogs of all ages showed more brain activity in response to hearing the language they were accustomed to than in response to hearing the other language.
+B. As the age of the dog scanned decreased, so did the amount of brain activity in response to hearing the language the dog was accustomed to or the other language, but not in response to hearing the scrambled recording.
+C. Dogs showed a different pattern of brain activity when hearing the language they were accustomed to than when hearing the other language, and the difference in brain activity decreased as the age of the dog scanned decreased.
+D. The similarity between the pattern of brain activity a dog showed in response to hearing the scrambled recording and the pattern it showed in response to hearing the language it was not accustomed to was lowest among younger dogs.
+Answer: C
+
+Question 8:
+[COE]
+Which finding, if true, would most directly weaken the student's claim?
+
+Rafael Núñez and colleagues studied how members of the Yupno, an Indigenous group in Papua New Guinea, conceptualize time. The researchers recorded Yupno speakers explaining certain temporal words and phrases, such as abùnk sonàd, a present-oriented expression that translates to “this week,” and coded each speaker's manual gestures. Previous research has found a tendency in many cultures to make temporal distinctions using spatial concepts and gestures, particularly along egocentric axes (i.e., relative to the orientation of the speaker): for instance, Spanish speakers often refer to the left/right axis to describe events in time. In an anthropology paper, a student claims that the tendency toward ego-based conceptualizations of time is universal.
+
+A. A Yupno speaker points in opposite directions when indicating a past event versus a future event.
+B. Some Yupno grammatical structures used when talking about time are also used in Spanish.
+C. When Yupno speakers who are outdoors use gestures to refer to the future, they point uphill from their current location regardless of which way they are facing.
+D. Although Yupno speakers and Spanish speakers both use gestures to indicate orientation in time, Yupno speakers tend to use fewer gestures overall when speaking than Spanish speakers do.
+Answer: C
+
+Question 9:
+[COE]
+Which description of vocal manipulation in hyperpop is best supported by the text?
+
+A number of artists associated with hyperpop, a movement in electronic music that emerged in the 2010s, aggressively manipulate their recorded voice. The singer Dorian Electra, for example, shifts the pitch of their vocals to be much deeper than that of Electra's natural range. And even the hyperpop artists who don't rely on pitch-shifting, such as Rina Sawayama, often distort their vocals using digital tools. By persistently modifying the voice, hyperpop invites the listener to reflect on the extent to which digital technology mediates the human experience today.
+
+A. It serves as an example of digital technology's negative influence on daily life.
+B. It represents the continuity of human experience despite social and historical change.
+C. It functions as a commentary on contemporary social conditions.
+D. It symbolizes the power of contemporary music to influence listeners' sense of self.
+Answer: C
+
+Question 10:
+[COE]
+Which of the following statements, if true, would most strongly support Nichols and her team’s hypothesis about the source of Zoraxa’s acceleration?
+
+First detected in 2019, the interstellar body named Zoraxa is the first of its kind discovered in our solar system. Scientists have been puzzled because its acceleration cannot be fully attributed to gravitational forces from nearby celestial objects, indicating that an additional nongravitational factor is influencing its speed and trajectory. Some earlier theories to explain this nongravitational acceleration involved unlikely mechanisms, such as the idea that Zoraxa might consist of multiple separated parts, creating unusual geometric effects. Recently, Dr. Avery Nichols and her team have proposed that the acceleration may be due to the release of trapped helium gas from Zoraxa’s ammonia-rich, icy surface.
+
+A. Some existing models of gas release from Zoraxa propose the direct sublimation of methane or oxygen from solid to gas without a liquid phase, but these models have theoretical or observational inconsistencies.
+B. Zoraxa’s trajectory does not align with nongravitational acceleration that would result from the release of helium gas due to ammonia ice processing, although its observed characteristics could be explained if it contains a substantial amount of molecular nitrogen ice (N2).
+C. Nongravitational forces acting on interstellar objects are typically several magnitudes weaker than gravitational forces, and deviations from purely gravitational behavior have only been noted in a few objects similar to Zoraxa.
+D. Exposure to cosmic particles in interstellar space can create pockets of trapped helium gas within ammonia ice, and as Zoraxa traveled through the solar system, it encountered enough heat to change its icy structure, facilitating gas release.
+Answer: D
+

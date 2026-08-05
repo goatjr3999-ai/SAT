@@ -1,0 +1,52 @@
+Question 1:
+The table summarizes the distribution of age and assigned group for 90 participants in a study.
+
+One of these participants will be selected at random. What is the probability of selecting a participant from group A, given that the participant is at least {{MATH_1}}years of age?
+
+A. {{MATH_2}}
+B. {{MATH_3}}
+C. {{MATH_4}}
+D. {{MATH_5}}
+Answer: B
+
+Question 2:
+The table summarizes the distribution of age and assigned group for {{MATH_6}} participants in a study.
+
+One of these participants will be selected at random. What is the probability of selecting a participant from group A, given that the participant is at least {{MATH_7}} years of age?
+
+A. {{MATH_8}}
+B. {{MATH_9}}
+C. {{MATH_10}}
+D. {{MATH_11}}
+Answer: B
+
+Question 3:
+The table shows the distribution of two types of trees at two different sites. If a tree represented in the table is selected at random, what is the probability of selecting tree from site A, given that the tree is a red maple? (Express your answer as a decimal or fraction, not as a percent.)
+(dien so thap phan)
+Answer: 0.7
+
+Question 4:
+At a convention center, there are a total of {{MATH_13}} visitors. Each visitor is located in either room A, room B, or room C. If one of these visitors is selected at random, the probability of selecting a visitor who is located in room A is {{MATH_14}}, and the probability of selecting a visitor who is located in room B is {{MATH_15}}. How many visitors are located in room C?
+
+A. {{MATH_16}}
+B. {{MATH_17}}
+C. {{MATH_18}}
+D. {{MATH_19}}
+Answer: B
+
+Question 5:
+The table shows the distribution of people in a certain city by age group.
+If a person in this city is selected at random, which of the following is closest to the probability of selecting a person who is greater than 65 years old, given that the person is at least 18 years old?
+
+A. {{MATH_20}}
+B. {{MATH_21}}
+C. {{MATH_22}}
+D. {{MATH_23}}
+Answer: B
+
+Question 6:
+For 100 neurons, the table summarizes the distribution of classification and cell body diameter.
+
+One of these neurons will be selected at random. What is the probability of selecting a neuron with a cell body diameter that is less than or equal to 30 micrometers, given that it is not classified as a motor neuron? (Express your answer as a decimal or fraction, not as a percent.)
+(dien phan so)
+Answer: 61/64

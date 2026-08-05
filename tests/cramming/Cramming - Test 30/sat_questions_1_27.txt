@@ -1,0 +1,394 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The mihrab (or niche) is one of many features that are foundational to traditional mosque architecture and is therefore considered ______ aspect of mosque design. Even mosques that exhibit elements of multiple architectural styles, such as the Kocatepe Mosque, which incorporates elements from the Neoclassical Ottoman and modern styles, will also include several of these standard features.
+
+
+A. an unprecedented
+B. an embellished
+C. an imposing
+D. a quintessential
+Answer: D
+
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+A speaker at a recent children's book publishing conference acknowledged the high quality of many contemporary illustrators but argued that for an example of flawless execution, one must look to a master of the craft. She contended that Jerry Pinkney's work for *The Talking Eggs: A Folktale from the American South* represents a true ______ of the form, an achievement that many strive for but few attain.
+
+
+A. encomium
+B. sinecure
+C. pastiche
+D. paragon
+Answer: D
+
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Run by researchers in Europe, the Survey of Health, Ageing, and Retirement in Europe (SHARE) is an examination of aging that has attempted to track approximately 120,000 people for several years. Long-running studies like this need a lot of participants not merely for statistical robustness but also because of _____, over such a length of time, a substantial number of participants will withdraw or fall out of contact with the researchers.
+
+
+A. attrition
+B. circumspection
+C. impartiality
+D. replicability
+Answer: A
+
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The mihrab (or niche) is one of many features that are foundational to traditional mosque architecture and is therefore considered ______ aspect of mosque design. Even mosques that exhibit elements of multiple architectural styles, such as the KH Hasyim Asy'ari Grand Mosque, which incorporates elements from the Betawi and Indonesian Islamic styles, will also include several of these standard features.
+
+
+A. an imposing
+B. an embellished
+C. a quintessential
+D. an unprecedented
+Answer: C
+
+
+Question 5:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Advancements like the emergence of ceramics manufacturing in central Europe circa 28,000 BCE are overemphasized in innovation studies, contributing to the idea that technological change always brings greater complexity. Research by Nathaniel Erb-Satullo reveals an important exception: gold metallurgy flourished in the Caucasus in the Bronze Age, but a steep drop during that time (circa 1500 BCE) in objects featuring gold filigree (in which fine threads of gold are arranged in intricate patterns) and other sophisticated goldsmithing techniques suggests that simpler processes supplanted advanced methods.
+
+
+A. It explains that a particular interpretation of technological development has been perpetuated in an academic field and then provides a counterexample demonstrating that the interpretation isn’t always accurate.
+B. It summarizes the findings of several studies into the origins of a particular invention and then presents additional evidence from a more recent study that contradicts those findings.
+C. It advances a claim made by researchers in one academic field about the nature of technological change and then critiques a contrasting claim presented by a researcher from a related academic field.
+D. It details the near-consensus among researchers in a particular field of study regarding how technology evolves and then indicates the controversial nature of a study challenging that broadly accepted view.
+Answer: A
+
+
+Question 6:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Though John Crowley, author of The Translator, is not as well known as the most widely read American writers of the past fifty years, his work has had several influential champions, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley’s book Little, Big, Bloom argues that the novel adroitly blends what playwright Friedrich Schiller termed the naive and sentimental modes—while Schiller thought works could be classified as either naive (seeking to describe reality) or sentimental (seeking to develop ideas), Little, Big fuses both modes of writing.
+
+
+A. It accounts for a writer’s lack of popular appeal, cites a literary figure who appreciates that writer, and summarizes the qualities that make the writer’s work unique.
+B. It identifies a writer whose work is regarded as difficult to read, brings up two admirers of that writer’s work, and gives information that may make the writer’s work more accessible to new readers.
+C. It mentions a writer whose work is not widely known, presents two people who hold a positive opinion of that writer, and gives a reason why one of those people holds that opinion.
+D. It describes a writer’s successful career, presents two literary figures who were supporters of that writer’s career, and explains why the writer was able to achieve what he did.
+Answer: C
+
+
+Question 7:
+[COE]
+Which of the following can be inferred from the passage regarding DuBois’ The Quest of the Silver Fleece?
+
+It would be expected that a novel by a figure as prominent as W. E. B. DuBois would attract the attention of literary critics. Additionally, when the novel subtly engages the issue of race, as DuBois’ The Quest of the Silver Fleece (1911) does, it would be a surprise not to encounter an abundance of scholarly work about that text. But though valuable scholarship has examined DuBois’ political and historical thought, his novels have received scant attention. Perhaps DuBois the novelist must wait his turn behind DuBois the philosopher, historian, and editor. But what if the truth lies elsewhere: what if his novels do not speak to current concerns?
+
+
+A. The lack of attention devoted to The Quest of the Silver Fleece can be attributed to the fact that it was DuBois’ first novel.
+B. Among DuBois’ novels, The Quest of the Silver Fleece is unusual in that it has received scant attention from scholars.
+C. The Quest of the Silver Fleece has at least one feature that typically would attract the attention of literary scholars.
+D. The Quest of the Silver Fleece, given its subtle exploration of race, is probably the best novel written by DuBois.
+Answer: C
+
+
+Question 8:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is adapted from Jerome K. Jerome's 1889 novel Three Men in a Boat (To Say Nothing of the Dog).
+"We [people] are creatures of the sun. We love light and life. That is why we crowd into the towns and cities, and the country grows more and more deserted every year. In the sunlight—in the daytime, when Nature is alive and busy all around us, we like the open hill-sides and the deep woods well enough; but in the night, when our Mother Earth has gone to sleep, and left us waking, oh! the world seems so lonesome, and we get frightened, like children in a silent house. Then we sit and sob, and long for the gas-lit streets, and the sound of human voices, and the answering throb of human life."
+
+
+A. To address common traits that motivate many people to choose to live in urban environments
+B. To indicate that people sometimes experience feelings of isolation in crowded areas
+C. To illustrate the idea that most people tend to prefer hillsides in the country to certain aspects of towns and cities
+D. To caution people not to be so quick to dismiss the natural beauty that can be found in rural areas
+Answer: A
+
+
+Question 9:
+[COE]
+According to the text, what information did Herodotus include in his Histories?
+
+In a period of great prosperity during his reign, Egyptian pharaoh Amenemhat III (circa 1800 BCE) had a pyramid with a massive substructure built at Hawara. The underground complex was largely dismantled in antiquity, but accounts of its splendor remain, including one from Greek historian Herodotus, who claimed to have seen it. In his *Histories* (circa 425 BCE), Herodotus writes of 3,000 chambers adorned with carved figures, a dozen courts flanked by white stone pillars, and many winding passages in the complex, characterizing it as a great labyrinth and “an unending marvel.”
+
+
+A. An account of the magnificence of the complex that once stood beneath the pyramid at Hawara
+B. A record of how long it took for the pyramid and complex to be constructed at Hawara
+C. A discussion of how building the pyramid and complex at Hawara led to a period of prosperity
+D. An explanation of how Herodotus was able to arrange to see the pyramid and complex at Hawara
+Answer: A
+
+
+Question 10:
+[Cross Text]
+Based on the texts, how would the researchers discussed in Text 2 most likely respond to the underlined claim presented in Text 1?
+
+Text 1
+ From about 985 CE to the early 1400s, when they mysteriously abandoned the region, Norse settlers occupied part of Greenland. __Many researchers cite cold weather to explain why the Norse fled.__ The researchers reason that the Norse settlers arrived in the region while the climate was warm and were able to remain there until temperatures declined during the Little Ice Age, which occurred between the 14th and 19th centuries.
+Text 2
+ Raymond Bradley, Boyang Zhao, and colleagues analyzed sediment samples from a lake in Greenland close to the Norse settlement. This allowed them to reconstruct the area's history. The researchers found evidence that the Norse diet relied mainly on food sources from land at the beginning of the settlement period. Their diet changed to sea sources near the end of the period. The team claims prolonged drought rather than cold weather caused this diet switch and ultimately drove the Norse to leave the region.
+
+
+A. They would acknowledge that the evidence regarding the Norse diet confirms cold weather as the main cause for the Norse abandonment.
+B. They would argue that the evidence about the Norse diet supports drought, not temperature, as a reason the Norse settlers fled.
+C. They would present evidence challenging the idea that cold weather caused a diet change for the Norse settlers.
+D. They would agree that the Norse diet would have changed even if the Norse settlers hadn’t experienced the Little Ice Age.
+Answer: B
+
+
+Question 11:
+[COE]
+Which choice most effectively uses data from the table to complete the comparison?
+
+A citizen of the Leech Lake Band of Ojibwe is a student in a geography class. The student wants to compare the total area covered by her tribal nation in Minnesota with the total areas covered by certain tribal nations in other states. Looking at the table, she finds that the area of the Leech Lake Band of Ojibwe is 1,311 square miles, while the area of the White Mountain Apache Tribe in Arizona is ______
+
+
+A. 7,648 square miles.
+B. 2,631 square miles.
+C. 4,419 square miles.
+D. 3,606 square miles.
+Answer: B
+
+
+Question 12:
+[COE]
+Which finding, if true, would most directly support the hypothesis presented in the text?
+
+Some toothpastes contain titanium dioxide nanoparticles (TiO₂-NPs), which can leach into waterways and soils via wastewater. In a 2015 study, Adeline Bourgeault and colleagues found that TiO₂-NPs can accumulate in the bodies of zebra mussels (Dreissena polymorpha). While bioaccumulation of manufactured nanoparticles may be inherently worrisome, it has been hypothesized that TiO₂-NP bioaccumulation in invertebrates like D. polymorpha could serve a valuable proxy, obviating the need for manufacturers to conduct costly and intrusive sampling of vertebrate species—such as common carp (Cyprinus carpio), commonly used in regulatory compliance testing—for nanoparticle bioaccumulation, as environmental protection laws currently require.
+
+
+A. In comparable environments, D. polymorpha and C. carpio display comparable rates of TiO₂-NP uptake.
+B. Compared with C. carpio, D. polymorpha can tolerate significantly higher TiO₂-NP concentrations without displaying any negative effects.
+C. It is easier to detect low and harmless concentrations of TiO₂-NPs in D. polymorpha than it is to detect high and harmful concentrations of TiO₂-NPs in C. carpio.
+D. TiO₂-NP concentrations in D. polymorpha tend to vary more from individual to individual than do TiO₂-NP concentrations in C. carpio when the species are exposed to similar levels of TiO₂-NPs.
+Answer: A
+
+
+Question 13:
+[COE]
+Which finding, if true, would most directly support the researchers' conclusion?
+
+Nautilids are marine mollusks that begin growing their shells before emerging from their eggs and continue to add shell segments throughout their lifetimes. The walls between their shells' chambers are called septa, and the concentration of the isotope oxygen-18 they contain exactly reflects the isotope's concentration in the water at the depth at which the septa formed. Paleontologist Amane Tajika and colleagues examined each of the septa in two nautilid shells; finding that sample F13 had a higher concentration of the isotope than sample M03 did, the researchers concluded that F13 must have formed at a significantly lower temperature than M03 did.
+
+
+A. As the concentration of oxygen-18 in water decreases, water temperature decreases and nautilid shell growth slows.
+B. As water depth increases, both the concentration of oxygen-18 and the water temperature decrease.
+C. As water depth increases, the concentration of oxygen-18 increases and water temperature decreases.
+D. As water temperature increases, nautilids are able to concentrate more oxygen-18 into their shells.
+Answer: C
+
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+The many editions of James Joyce's 1922 novel Ulysses are not textually identical, and scholars debate which versions reflect Joyce's authorial intent. One no longer widely read edition is the 1984 "critical and synoptic edition" edited by Hans Walter Gabler, which followed French and German editorial theories rather than editorial traditions of the United States and United Kingdom and which was later found to have introduced errors due to Gabler's choice to consult facsimile manuscripts rather than using only originals. However, few Joyce scholars worldwide had expertise in such textual issues, and most of those who did worked on the edition with Gabler. So, it is unsurprising that initial scholarly reviews of the 1984 edition were mostly ______.
+
+
+A. negative, since any scholar with expertise in editorial theories of the United States and United Kingdom as well as French and German editorial theories most likely worked with Gabler on the 1984 edition and would therefore not review it.
+B. positive, since Ulysses is a novel in English and the 1984 edition would therefore be more widely reviewed in United States and United Kingdom publications than in French and German publications.
+C. positive, since scholars who reviewed the 1984 edition were unaffiliated with its production and were mostly either Joyce specialists who were largely unfamiliar with editorial theories and practices or specialists in such theories and practices who were insufficiently familiar with Joyce.
+D. negative, since those Joyce scholars with the necessary expertise to write a review of the 1984 edition would be aware that facsimile manuscripts cannot be produced with a high enough fidelity to the original to ensure that relying on them will not introduce editorial errors.
+Answer: C
+
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+Neuroscientist Artin Arshamian and his team sought to determine what affects a person’s perception of an odor as pleasant: is it culture, personal taste, or aspects of human anatomy? The team assessed odor preferences in ten groups of people with different modes of living (urban, agricultural, and hunter-gatherer) including the Maniq people from a small community in Thailand and the Seri people from a small community in Mexico. The team observed that across cultures, people generally rated odors about the same: ethyl butyrate, which smells like peaches, was typically rated more pleasant than diethyl disulfide, which smells like garlic. The team’s study thus undermined the idea that ______.
+
+
+A. a person who perceives certain odors as pleasant will likely perceive the odors as roughly equal in pleasantness.
+B. culture significantly influences whether a person perceives an odor as pleasant or unpleasant.
+C. personal taste has little influence on whether odors are perceived as pleasant or unpleasant.
+D. people agree in their perception of odors as pleasant or unpleasant regardless of where they live.
+Answer: B
+
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In the 1920s and 1930s, the singer Frank “Machito” Grillo performed with Cuba’s most popular dance orchestras. However, the fusion of Latin music and American jazz that Machito innovated while performing in New York City is what has _____
+
+
+A. earned him his enduring fame?
+B. his enduring fame earned him?
+C. his enduring fame earned him.
+D. earned him his enduring fame.
+Answer: D
+
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The intricate jazz compositions of Duke Ellington, combining classical structures with improvisational energy, have secured the American bandleader respect from celebrated modern ____ them trumpeter and educator Wynton Marsalis, who has described Ellington's work as defining the American sound.
+
+
+A. musicians. Among
+B. musicians among
+C. musicians; among
+D. musicians, among
+Answer: D
+
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In his 1923 essay *Towards a New Architecture: Guiding Principles of Modernism*, architect Le Corbusier first outlined with passion his vision of a “machine for living”—the concept that the specific functional and structural elements a building has incorporated (steel, glass, reinforced concrete, etc.) _____ every spatial experience that building offers for a resident.
+
+
+A. defines
+B. is defining
+C. define
+D. has been defining
+Answer: C
+
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A recent paper by bioinformaticist Kenji Tanaka and his team ______ that epigenetic modifications in non-coding DNA regions previously deemed “junk DNA” are instrumental in regulating cell differentiation provides a powerful new framework that challenges the canonical gene-centric view of inheritance and disease etiology.
+
+
+A. demonstrated
+B. has demonstrated
+C. demonstrates
+D. demonstrating
+Answer: D
+
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+With the short documentary Rick Bartow: The Man Who Made Marks, Osage and Cherokee director Nanette Kelley joined the growing number of Indigenous women adding their voices to North American ______ film, a selection of the Native Women in Film Festival, is about the art of painter and musician Rick Bartow.
+
+
+A. cinema, her
+B. cinema. Her
+C. cinema and her
+D. cinema her
+Answer: B
+
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Taking a deconstructionist approach to analyzing Ji-li Jiang’s novel *Red Scarf Girl* would lead a critic to focus on the linguistic structures inherent in the novel. On the other hand, a cultural studies analysis ______ on the intersection of literature and popular culture might yield a radically different interpretation of Jiang’s novel.
+
+
+A. would focus
+B. would be focusing
+C. focusing
+D. focuses
+Answer: C
+
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The names of chemical elements in the halogen group uniformly describe a key chemical property (e.g., the name halogen itself means “salt-producing”). Names given to many other elements, ______, are of diverse origins. Curium is named after the scientist Marie Curie, for example, while berkelium takes its name from the city of Berkeley, California.
+
+
+A. in turn,
+B. furthermore,
+C. on the other hand,
+D. therefore,
+Answer: C
+
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In his painting At the Cycle-Race Track, Jean Metzinger aims to depict a bike race in four-dimensional space. Of course, Metzinger’s painting doesn’t technically represent a fourth dimension; humans can only see in three dimensions. ____ by depicting the race through multiple, simultaneous perspectives, Metzinger offers a fascinating glimpse at what this other universe might look like.
+
+
+A. For example,
+B. In other words,
+C. Moreover,
+D. That said,
+Answer: D
+
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In his 2020 poem “This Town,” Saad Ali contemplates Ivan Aivazovsky’s 1859 painting Lunar Night on the Black Sea.Translating the painting's depiction of a seascape into vivid figurative phrases—such as “a dozen sea shells converse”—Ali suggests the fluid interplay of poetry and painting. ______ Ali’s poem highlights fundamental tensions between these modes of representation.
+
+
+A. At the same time,
+B. Therefore,
+C. Specifically,
+D. In other words,
+Answer: A
+
+
+Question 25:
+[COE]
+Which choice most effectively uses information from the given sentences to specify the length of the Foucault pendulum’s cable?
+
+The University of Oslo in Oslo, Norway, is home to a Foucault pendulum.
+• The pendulum consists of a weighted ball that swings at the end of a roughly 14-meter-long cable.
+• Like all Foucault pendulums, it dangles from a fixed point that ensures the swing path of the pendulum doesn't change.
+• To an observer, the swing path of a Foucault pendulum appears to change over time because Earth rotates beneath it.
+• Foucault pendulums are used as a simple way to provide evidence of Earth's rotation.
+
+
+A. With a swing path that appears to change over time, a Foucault pendulum provides evidence of Earth's rotation.
+B. The Foucault pendulum at the University of Oslo consists of a weighted ball and a cable.
+C. Although the swing path of a Foucault pendulum doesn't actually change, it appears to change due to Earth rotating beneath the pendulum.
+D. The Foucault pendulum at the University of Oslo in Oslo, Norway, includes a cable that is roughly 14 meters long.
+Answer: D
+
+
+Question 26:
+[Synthesis]
+The student wants to emphasize the global rank of Mauritania’s youth population. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Mauritania is a country in North Africa.
+• A high percentage of Mauritania’s population (39.9 percent) is under fifteen years old.
+• It has the thirty-fourth-largest under-fifteen population in the world.
+•Roughly 40 percent of Africa’s population is under fifteen years old—the highest of any continent.
+• According to the United Nations (UN), Africa’s “high number of young people is an opportunity for the continent's growth—but only if these new generations are fully empowered to realize their best potential.”
+
+
+A. With 39.9 percent of its population under fifteen years of age, Mauritania has the thirty-fourth-largest population for that age range in the world.
+B. Africa's high population of young people is due in part to the high percentage of young people in Mauritania.
+C. Making up roughly 40 percent of the continent's total population, Africa's under-fifteen population offers “an opportunity for the continent's growth,” according to the UN.
+D. “Only if these new generations are fully empowered to realize their best potential,” says the UN, will Africa’s high percentage of young people lead to the continent's growth.
+Answer: A
+
+
+Question 27:
+[Synthesis]
+The student wants to describe the study's research methodology. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• In a 2010 study, researchers Katrin Heer, Larissa Albrecht, and Elisabeth K.V. Kalko wanted to explore the effects of ingestion by bats on the germination of Ficus obtusifolia seeds in Panama.
+• The team of researchers tested 120 Ficus obtusifolia seeds that had been ingested by Jamaican fruit bats.
+• Of these, 111 seeds (93%) germinated.
+• As a control, K. Heer et al. tested 120 Ficus obtusifolia seeds that had not been ingested by Jamaican fruit bats.
+• Of these, 116 seeds (97%) germinated.
+
+
+A. In the study, a lower percentage of Ficus obtusifolia seeds ingested by bats germinated than those that had not been ingested.
+B. The team of researchers tested the germination of 120 Ficus obtusifolia seeds that had been ingested by Jamaican fruit bats and 120 Ficus obtusifolia seeds that had not been ingested.
+C. K. Heer et al. wanted to explore the effects of Jamaican fruit bats' ingestion on Ficus obtusifolia seed germination.
+D. Research by K. Heer et al. revealed that 111 of 120—that is, 93%—of the Ficus obtusifolia seeds that had been ingested by Jamaican fruit bats germinated.
+Answer: B

@@ -1,0 +1,225 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Stock Exchange of Thailand in Bangkok, Thailand, is a dedicated exchange for investing in companies operating in Thailand, ensuring those companies receive certain regulatory oversight. Knowing this can ______ potential investors’ worries about bureaucratic minutiae and thereby allow them to instead focus on identifying sound business opportunities.
+
+
+A. designate
+B. amplify
+C. assuage
+D. convey
+Answer: C
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Beirut Stock Exchange in Beirut, Lebanon, connects companies operating in Lebanon with potential investors. This is a valuable service since the time and expense necessary to find individual investors might otherwise be ____ for these companies; many of the companies could not operate if they had to do everything necessary to find investors for themselves.
+
+
+A. distinctive
+B. misconstrued
+C. prohibitive
+D. beneficial
+Answer: C
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although fewer companies trade their stocks on the Tehran Stock Exchange in Tehran, Iran, than on the stock exchanges in London, Mumbai, or Tokyo, the Tehran Stock Exchange has the advantage of focusing on local companies and thus reflecting economic circumstances that are ______ Iran. This sensitivity to unique, rapidly evolving local conditions benefits the companies and investors alike.
+
+
+A. irrelevant to
+B. prohibitive in
+C. distinctive to
+D. unchanging in
+Answer: C
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although fewer companies trade their stocks on the Cambodia Securities Exchange in Phnom Penh, Cambodia, than on the stock exchanges in London, Mumbai, or Tokyo, the Cambodia Securities Exchange has the advantage of being able to ______ relatively small companies in Cambodia: by connecting those companies to investors with expertise about the country’s economic conditions, the Cambodia Securities Exchange can help those companies thrive.
+
+
+A. designate
+B. nurture
+C. preclude
+D. assess
+Answer: B
+
+Question 5:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Cambodia Securities Exchange in Phnom Penh, Cambodia, connects companies operating in Cambodia with potential investors, ensuring those companies receive certain regulatory oversight. Knowing this is thus ______ potential investors since it enables them to evaluate companies with more confidence and determine which ones represent the best investment opportunities.
+
+
+A. prohibitive for
+B. advantageous to
+C. excluded from
+D. distinctive of
+Answer: B
+
+Question 6:
+[Structure]
+Which choice best states the main idea of the text?
+
+Horses and barn owls can see in three dimensions (3D), which helps them perceive distance and depth. Octopuses and squid are thought to lack 3D vision, many researchers once thought the same about cuttlefish, but Trevor Wardill and his team wanted to test whether this assumption was true. The team studied how cuttlefish wearing 3D glasses reacted to 3D images of shrimp (a favorite prey) projected on a tank wall. Cuttlefish changed their striking position to match the 3D images, suggesting that their vision is more like that of horses and barn owls than that of octopuses or squid.
+
+A. Researchers have long known that horses and barn owls can see in 3D.
+B. Cuttlefish are surprisingly similar in structure to octopuses and squid.
+C. Contrary to what many researchers had assumed, cuttlefish may be able to see in 3D.
+D. The ability to see in 3D allows many animals to interact with one another.
+Answer: C
+
+
+Question 7:
+[Structure]
+Which choice best states the main idea of the text?
+
+Sheep and macaque monkeys can see in three dimensions (3D), which helps them perceive distance and depth. Octopuses and squid are thought to lack 3D vision. Many researchers once thought the same about cuttlefish, but Trevor Wardill and his team wanted to test whether this assumption was true. The team studied how cuttlefish wearing 3D glasses reacted to 3D images of shrimp (a favorite prey) projected on a tank wall. Cuttlefish changed their striking position to match the 3D images, suggesting that their vision is more like that of sheep and macaque monkeys than that of octopuses or squid.
+
+A. Cuttlefish eyes are much more complex than those of either sheep or macaque monkeys.
+B. Before completing their study, Wardill’s team showed that sheep have 3D vision, but macaque monkeys may not.
+C. Wardill’s team designed 3D glasses for cuttlefish.
+D. The findings of Wardill’s team’s study suggest that like sheep and macaque monkeys, cuttlefish may also have 3D vision.
+Answer: D
+
+
+Question 8:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Cats and toads see in three dimensions (3D) by combining two images in their brains, one from each eye. This produces a sense of depth, helping the animals judge how close or far away an object is. Researchers have investigated 3D vision in praying mantises as well. In one study, Vivek Nityananda and his team fitted mantises' faces with two different color filters, one covering each eye, much like the filters in 3D glasses once worn at movies. By observing the mantises' reaction to projected images, the team confirmed that mantises do indeed have 3D vision, but it's unlike that of other animals.
+
+A. The text explains the general differences between the vision of cats and toads, then introduces a study of praying mantises' vision.
+B. The text discusses 3D vision in cats and toads, then introduces a study about this kind of vision in praying mantises.
+C. The text reviews the similarities in how cats and toads see, then provides details of a study about praying mantises to confirm these similarities.
+D. The text describes how cats and toads see, then presents a study about praying mantises that challenges the accuracy of that description.
+Answer: B
+
+
+Question 9:
+[Details]
+Which choice best states the function of the underlined sentence in the text as a whole?
+
+Macaque monkeys and cats can see in three dimensions (3D), which helps them perceive distance and depth. Octopuses and squid are thought to lack 3D vision. Many researchers once thought the same about cuttlefish, but Trevor Wardill and his team wanted to test whether this assumption was true. The team studied how cuttlefish wearing 3D glasses reacted to 3D images of shrimp (a favorite prey) projected on a tank wall. __Cuttlefish changed their striking position to match the 3D images, suggesting that their vision is more like that of macaque monkeys and cats than that of octopuses or squid__.
+
+A. It explains why the animals discussed in the text were once thought to lack 3D vision.
+B. It presents the results of the study of 3D vision discussed in the text.
+C. It offers a suggestion for future research on the aspect of 3D vision discussed in the text.
+D. It explains how 3D vision in macaque monkeys and cats differs from the type of 3D vision discussed in the text.
+Answer: B
+
+
+Question 10:
+[Details]
+Which choice best states the function of the underlined portion in the text as a whole?
+
+Barn owls and sheep see in three dimensions (3D) by combining two images in their brains, one from each eye. This produces a sense of depth, helping the animals judge how close or far away an object is. Researchers have investigated 3D vision in praying mantises as well. In one study, Vivek Nityananda and his team fitted mantises’ faces with two different color filters, one covering each eye, __much like the filters in 3D glasses once worn at movies__. By observing the mantises’ reaction to projected images, the team confirmed that mantises do indeed have 3D vision, but it’s unlike that of other animals.
+
+A. It describes an earlier use of a tool the researchers used in the praying mantis study.
+B. It emphasizes a difference between the research on praying mantis vision and research on other animals' vision.
+C. It offers a comparison meant to aid understanding of the praying mantis study.
+D. It identifies a potential problem that the researchers faced while studying the praying mantises.
+Answer: C
+
+Question 11:
+[COE]
+What does the text most strongly suggest about Tom Towers?
+
+The following text is from Anthony Trollope’s 1855 novel The Warden. Tom Towers is a writer for the newspaper The Jupiter.
+It is true that in far-off provinces men did not talk daily of Tom Towers but they read The Jupiter, and acknowledged that without The Jupiter life was not worth having. This kind of hidden, but still conscious glory suited the nature of the man. He loved to sit silent in a corner of his club and listen to the loud chattering of politicians, and to think how they all were in his power—how he could smile the loudest of them, were it worth his while to raise his pen for such a purpose.
+
+
+A. He has received much praise but tends to place too much value on his own importance.
+B. He takes private satisfaction in his capacity to influence public opinion.
+C. He aims mainly to win the regard of readers who reside in other provinces.
+D. He flatters himself that his readers take a greater interest in him than in politicians.
+Answer: B
+
+Question 12:
+[COE]
+What does the text most strongly suggest about the rooms in the rectory?
+
+The following text is from Anthony Trollope's 1855 novel The Warden. The narrator is describing a rectory, the residence of a clergy person.
+There was an air of heaviness about the rooms which might have been avoided without any sacrifice of propriety; colours might have been better chosen and lights more perfectly diffused; but perhaps in doing so the thorough clerical aspect of the whole might have been somewhat marred; at any rate, it was not without ample consideration that those thick, dark, costly carpets were put down; those embossed, but sombre wallpapers hung up; those heavy curtains draped so as to half exclude the light of the sun.
+
+
+A. They are meant to feel comfortable but are in reality uninviting.
+B. They have been furnished with the intention of maintaining a sense of appropriateness.
+C. They are decorated in a style that strikes the narrator as too extravagant.
+D. They have many decorations the narrator finds good looking, but they are not particularly practical.
+Answer: B
+
+Question 13:
+[Details]
+Which choice best states the function of the underlined portion in the text as a whole?
+
+The following text is from Anthony Trollope’s 1855 novel The Warden. The narrator is describing a rectory, the residence of a clergyperson.
+Let us observe the well-furnished breakfast-parlour at Plumstead Episcopi, and the comfortable air of all the belongings of the rectory. Comfortable they certainly were, but neither gorgeous nor even grand; indeed, considering the money that had been spent there, the eye and taste might have been better served; there was an air of heaviness about the rooms which might have been avoided without any sacrifice of propriety; colours might have been better chosen and lights more perfectly diffused; __but perhaps in doing so the thorough clerical aspect of the whole might have been somewhat marred__.
+
+
+A. It signals how the inexpensive-looking ornaments in the rectory could be enhanced.
+B. It offers a potential explanation for the furnishing choices the narrator critiques.
+C. It emphasizes that the narrator finds it inappropriate for a clergyperson to have such grand furnishings.
+D. It concedes that there is a lack of attention to the impression the rectory makes on people.
+Answer: B
+
+Question 14:
+[COE]
+Which choice best states the function of the phrase "if he had one" in the text as a whole?
+
+The following text is from Anthony Trollope’s 1855 novel The Warden. Charles James is the son of a high-ranking clergy member.
+Charles James was an exact and careful boy; he never committed himself; he well knew how much was expected from the eldest son of the Archdeacon of Barchester, and was therefore mindful not to mix too freely with other boys. He had not the great talents of his younger brothers, but he exceeded them in judgment and propriety of demeanor; his fault, if he had one, was an over-attention to words instead of things; there was a thought too much finesse about him, and, as even his father sometimes told him, he was too fond of a compromise.
+
+
+A. It concedes that Charles James’s attempts to gain the approval of those who know him are sometimes to little avail.
+B. It signals a shift in focus from describing Charles James’s fine traits to criticizing his tendency to excessively fear being the source of conflict.
+C. It acknowledges that the qualities in Charles James the narrator goes on to describe may not actually be undesirable characteristics.
+D. It anticipates readers’ objections to the narrator’s criticism of Charles James’s faults.
+Answer: C
+
+Question 15:
+[Structure]
+Which choice best states the main idea of the text?
+
+The following text is from Anthony Trollope's 1855 novel The Warden. The narrator is describing a rectory, the residence of a clergy person.
+There was an air of heaviness about the rooms which might have been avoided without any sacrifice of propriety; colours might have been better chosen and lights more perfectly diffused; but perhaps in doing so the thorough clerical aspect of the whole might have been somewhat marred; at any rate, it was not without ample consideration that those thick, dark, costly carpets were put down; those embossed, but sombre wallpapers hung up; those heavy curtains draped so as to half exclude the light of the sun.
+
+
+A. The narrator criticizes the thick carpets, dark wallpaper, and heavy curtains that darken the rectory’s rooms.
+B. The narrator urges replacing the current furnishings with brighter colors and better lighting to improve the rectory.
+C. The narrator explains that the rectory’s décor is intentionally maintained to uphold its clerical character.
+D. The narrator argues that the rectory’s oppressive décor entirely destroys any sense of comfort for its occupants.
+Answer: C
+
+Question 16:
+[COE]
+Based on the text, Lady Howard would most likely agree with which statement about Reverend Villars?
+
+The following text is adapted from Fanny Burney’s 1778 novel Evelina. The text is an excerpt from a letter by Lady Howard to Evelina’s guardian, Reverend Villars, in which Lady Howard discusses an upcoming trip to London planned by her daughter Mrs. Mirvan’s family.
+It is very earnestly [the Mirvans’] wish to enlarge and enliven their party by the addition of your amiable ward, who would share, equally with her own daughter, the care and attention of Mrs. Mirvan. Do not start at this proposal: it is time that [Evelina] should see something of the world. When young people are too rigidly sequestered from it, their lively and romantic imaginations paint to it them as a paradise of which they have been beguiled: but when they are shown it properly, and in due time, they see it such as it really is, equally shared by pain and pleasure, hope and disappointment.
+
+A. Although the manner in which he has raised Evelina is in many ways exemplary, he has been misguided in shielding her from the influence of other young people.
+B. Although his desire to guard Evelina from unscrupulous people is commendable, his general mistrust has led him to be unduly wary of the Mirvans.
+C. He is overly protective of Evelina, who would likely benefit from a greater variety of experiences than she has had thus far.
+D. He has imparted to Evelina his own idealistic view of the world, which results in her being unprepared to face inevitable disappointments.
+Answer: C
+
+
+Question 17:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is adapted from Fanny Burney’s 1778 novel Evelina. The text is an excerpt from a letter by Lady Howard to Evelina’s guardian, Reverend Villars, in which Lady Howard discusses an upcoming trip to London planned by her daughter Mrs. Mirvan’s family.
+It is very earnestly [the Mirvans’] wish to enlarge and enliven their party by the addition of your amiable ward, who would share, equally with her own daughter, the care and attention of Mrs. Mirvan. Do not start at this proposal: it is time that [Evelina] should see something of the world. When young people are too rigidly sequestered from it, their lively and romantic imaginations paint to it them as a paradise of which they have been beguiled: but when they are shown it properly, and in due time, they see it such as it really is, equally shared by pain and pleasure, hope and disappointment.
+
+A. To assure Reverend Villars that Mrs. Mirvan will give Evelina exactly the same daily care she gives her own daughter while traveling.
+B. To condemn overprotective guardians who completely isolate their wards and to claim that such isolation always leads to later disillusionment.
+C. To propose that Evelina join the Mirvan family’s London trip and to explain why a carefully chaperoned glimpse of society would benefit her.
+D. To warn that allowing young people to encounter the wider world too soon exposes them only to unnecessary pain and disappointment.
+Answer: C

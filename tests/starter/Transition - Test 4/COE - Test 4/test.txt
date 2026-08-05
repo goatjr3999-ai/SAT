@@ -1,0 +1,117 @@
+Question 1:
+[COE]
+Which finding, if true, would most directly support Martinez and colleagues' hypothesis?
+
+The bird species Saltator grossus (the slate-colored grosbeak), which weighs about 45 grams, and Mniotilta varia (the collared gnatwren), which weighs about 10 grams, share territory in French Guiana with Thamnomanes caesius (the cinereous antshrike), which emits a loud alarm call when it detects predators. Biologist Ari Martinez and colleagues, who studied the ecological community these species share, hypothesized that since there is an inverse relationship between body size and vulnerability to predation, there will also be an inverse relationship between body size and sensitivity to predator warning signals from neighboring species.
+
+
+A. When Martinez and colleagues played T. caesius alarm calls, only bird species larger than S. grossus displayed predator-avoidance behavior.
+B. M. collaris displayed predator-avoidance behavior when Martinez and colleagues played T. caesius alarm calls as well as when the researchers played control sounds of random noise.
+C. M. collaris displayed predator-avoidance behavior in response to T. caesius alarm calls played by Martinez and colleagues, whereas S. grossus did not.
+D. Many bird species smaller than S. grossus displayed predator-avoidance behavior in response to T. caesius alarm calls played by Martinez and colleagues, but none smaller than M. collaris did.
+Answer: C
+
+Question 2:
+[COE]
+Which finding, if true, would most directly support Gómez-Bahamón and her team’s hypothesis?
+
+Biologist Valentina Gómez-Bahamón and her team have investigated two subspecies of the fork-tailed flycatcher that live in the same region in Colombia, but one subspecies migrates south for part of the year, and the other doesn’t. The researchers found that, due to slight differences in feather shape, the feathers of migrating fork-tailed flycatchers make a sound during flight that is pitched higher than that made by the feathers of nonmigratory males. The researchers hypothesize that fork-tailed flycatcher females are attracted to the specific sound made by the males of their own subspecies, and that over time the females’ preference will drive further genetic and anatomical divergence between the subspecies.
+
+
+A. The feathers located on the wings of the migratory fork-tailed flycatchers have a narrower shape than those of the nonmigratory birds, which allows them to fly longer distances.
+B. Over several generations, the sound made by the feathers of migratory male fork-tailed flycatchers grows progressively higher pitched relative to that made by the feathers of nonmigratory males.
+C. Fork-tailed flycatchers communicate different messages to each other depending on whether their feathers create high-pitched or low-pitched sounds.
+D. The breeding habits of the migratory and nonmigratory fork-tailed flycatchers remained generally the same over several generations.
+Answer: B
+
+Question 3:
+[COE]
+Which finding, if true, would most strongly support the underlined explanation?
+
+Gorgets, or necklaces with large pendants, have been part of the ceremonial attire of tribes from the US Southeast for centuries. One of the oldest examples, the Fairfield Gorget, was found in Fairfield, Missouri, in 1958. Its overall design resembles that of other art from the region during the Mississippian period (900–1600 CE). Yet the image on the gorget is of a jaguar—a species whose range doesn’t extend to Missouri. Jaguar images are common in ancient Mexican art, and Mexico lies squarely in the species’ range. Therefore, some scholars argue that __long-distance trade in Mexican art objects brought the imagery to Missouri, where a local artist could have adopted it and incorporated it into the Fairfield Gorget.__
+
+
+A. The Fairfield Gorget is dated not to the Mississippian period but instead to the earlier Woodland period, which ended around 900 CE.
+B. The range of the jaguar is shown to have expanded dramatically after the Mississippian period came to a close around 1600 CE.
+C. An ancient Mexican art object is found at a site that dates to the Mississippian period and is close to where the Fairfield Gorget was found.
+D. Certain works by present-day artists from Southeastern tribes reflect outside cultural influences, including contemporary Mexican art.
+Answer: C
+
+Question 4:
+[COE]
+Which finding, if true, would most directly weaken the student’s hypothesis?
+
+A student performs an experiment testing her hypothesis that a slightly acidic soil environment is more beneficial for the growth of the plant *Brassica rapa parachinensis* (a vegetable commonly known as choy sum) than a neutral soil environment. She plants sixteen seeds of choy sum in a mixture of equal amounts of coffee grounds (which are highly acidic) and potting soil and another sixteen seeds in potting soil without coffee grounds as the control for the experiment. The two groups of seeds were exposed to the same growing conditions and monitored for three weeks.
+
+
+A. The choy sum planted in the soil without coffee grounds were significantly taller at the end of the experiment than the choy sum planted in the mixture of soil and coffee grounds.
+B. The choy sum grown in the soil without coffee grounds weighed significantly less at the end of the experiment than the choy sum grown in the mixture of soil and coffee grounds.
+C. The choy sum seeds planted in the soil without coffee grounds sprouted significantly later in the experiment than did the seeds planted in the mixture of soil and coffee grounds.
+D. Significantly fewer of the choy sum seeds planted in the soil without coffee grounds sprouted plants than did the seeds planted in the mixture of soil and coffee grounds.
+Answer: A
+
+Question 5:
+[COE]
+Which finding from the researchers’ study, if true, would most strongly support their claim?
+
+Psychologists Dacher Keltner and Jonathan Haidt have argued that experiencing awe—a sensation of reverence and wonder typically brought on by perceiving something grand or powerful—can enable us to feel more connected to others and thereby inspire us to act more altruistically. Keltner, along with Paul K. Piff, Pia Dietze, and colleagues, claims to have found evidence for this effect in a recent study where participants were asked to either gaze up at exceptionally tall trees in a nearby grove (reported to be a universally awe-inspiring experience) or stare at the exterior of a nearby, nondescript building. After one minute, an experimenter deliberately spilled a box of pens nearby.
+
+
+A. Participants who had been looking at the trees helped the experimenter pick up significantly more pens than did participants who had been looking at the building.
+B. Participants who helped the experimenter pick up the pens used a greater number of positive words to describe the trees and the building in a postexperiment survey than did participants who did not help the experimenter.
+C. Participants who did not help the experimenter pick up the pens were significantly more likely to report having experienced a feeling of awe, regardless of whether they looked at the building or the trees.
+D. Participants who had been looking at the building were significantly more likely to notice that the experimenter had dropped the pens than were participants who had been looking at the trees.
+Answer: A
+
+Question 6:
+[COE]
+Which finding about the streams in the study, if true, would most directly support Linty and Schunegger’s conclusion?
+
+Several studies of sediment (e.g., dirt, pieces of rock, etc.) in streams have shown an inverse correlation between sediment grain size and downstream distance from the primary sediment source, suggesting that stream length has a sorting effect on sediment. In a study of sediment sampled at more than a dozen sites in Alpine streams, however, geologists Camille Linty and Fritz Schunegger found that cross-site variations in grain size were not associated with differences in downstream distance, though they did not conclude that downstream distance is irrelevant to grain size. Rather, they concluded that sediment influx in these streams may have been sufficiently spatially diffuse to prevent the typical sorting effect from being observed.
+
+
+A. The streams regularly experience portions of their banks collapsing into the water at multiple points upstream of the sampling sites.
+B. The streams contain several types of sediment that are not typically found in streams where the sorting effect has been demonstrated.
+C. The streams mostly originate from the same source, but their lengths vary considerably due to their different courses they take.
+D. The streams are fed by multiple tributaries that carry significant volumes of sediment and that enter the streams downstream of the sampling sites.
+Answer: A
+
+Question 7:
+[COE]
+Which quotation from a work by a historian would best illustrate the student’s claim?
+
+In a research paper, a student criticizes some historians of modern African politics, claiming that they have evaluated Patrice Lumumba, the first prime minister of what is now the Democratic Republic of the Congo, primarily as a symbol rather than in terms of his actions.
+
+
+A. “Lumumba is a difficult figure to evaluate due to the starkly conflicting opinions he inspired during his life and continues to inspire today.”
+B. “The available information makes it clear that Lumumba’s political beliefs and values were largely consistent throughout his career.”
+C. “Lumumba’s practical accomplishments can be passed over quickly; it is mainly as the personification of Congolese independence that he warrants scholarly attention.”
+D. “Many questions remain about Lumumba’s ultimate vision for an independent Congo; without new evidence coming to light, these questions are likely to remain unanswered.”
+Answer: C
+
+Question 8:
+[COE]
+Which finding, if true, would most directly support the researcher’s claim?
+
+In countries with right-hand traffic, drivers who want to make a left turn at a traffic intersection with stoplights have to wait for either a gap in oncoming traffic or a designated left-turn signal to turn green. At busy intersections, this often causes a backup of vehicles waiting to turn left or being prevented from proceeding by left-turning vehicles in front of them. Transportation researcher Vikash V. Gayah claims that in urban areas eliminating the option to turn left at busy intersections—both with and without dedicated left-turn signals—would improve traffic flow and, as a result, reduce overall travel times even if such a restriction would require drivers to sometimes travel a slightly longer distance.
+
+
+A. In a town that installed left-turn signals at all busy intersections, seven out of ten survey respondents agreed with the statement, “The streets in my community are easier to navigate by motor vehicle than before.”
+B. A traffic study of intersections in a large city shows that on average drivers wait longer to make a left turn at intersections without left-turn signals than at intersections with such signals.
+C. After a city eliminated left turns at busy intersections, a package-delivery company reports that its drivers have been able to reach more addresses in the city daily, on average, and therefore deliver more packages there annually.
+D. Statistics reveal that school buses in a city that eliminated left turns at most intersections took on average two minutes longer to complete their routes after the restriction took effect than they did before.
+Answer: C
+
+Question 9:
+[COE]
+Which quotation from Barchester Towers most effectively illustrates the claim?
+
+*Barchester Towers* is an 1857 novel by Anthony Trollope. In the novel, Trollope’s portrayal of Dr. Proudie underscores the character’s exaggerated sense of his own abilities.
+
+
+A. “It must not... be taken as proved that Dr. Proudie was a man of great mental powers, or even of much capacity for business, for such qualities had not been required in him.”
+B. “Dr. Proudie] was comparatively young, and had, as he fondly flattered himself, been selected as possessing such gifts, natural and acquired, as must be sure to recommend him to a yet higher notice.”
+C. “[Dr. Proudie’s] residence in the metropolis, rendered necessary by duties thus entrusted to him, his high connexions, and the peculiar talents and nature of the man, recommended him to persons in power.”
+D. “[Dr. Proudie] was certainly possessed of sufficient tact to answer the purpose for which he was required without making himself troublesome.”
+Answer: B
+

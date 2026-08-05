@@ -1,0 +1,92 @@
+Question 1:
+For a polynomial function f , the graph of {{MATH_1}} in the xy-plane contains the points({{MATH_2}}{{MATH_3}}{{MATH_4}} ), and ({{MATH_5}} ). Which of the following must be a factor of {{MATH_6}} ?
+
+A. {{MATH_7}}
+B. {{MATH_8}}
+C. {{MATH_9}}
+D. {{MATH_10}}
+Answer: D
+
+Question 2:
+{{MATH_11}}
+In the given equation, x, y, and z are positive numbers. Which expression is equivalent to y?
+
+A. {{MATH_12}}
+B. {{MATH_13}}
+C. {{MATH_14}}
+D. {{MATH_15}}
+Answer: B
+
+Question 3:
+The equation {{MATH_16}}where k is a constant, has exactly one solution. Which of the following could be the value of{{MATH_17}} ?
+
+A. {{MATH_18}} only
+B. {{MATH_19}}
+C. 0 only
+D. 5 only
+Answer: C
+
+Question 4:
+The percent increase in mass of a certain red kangaroo from {{MATH_20}} days old to {{MATH_21}} days old was{{MATH_22}}%. If this red kangaroo's mass was k grams at {{MATH_23}} days old, which expression represents its mass, in grams, at {{MATH_24}} days old?
+
+A. {{MATH_25}}
+B. {{MATH_26}}
+C. {{MATH_27}}
+D. {{MATH_28}}
+Answer: A
+
+Question 5:
+The table shows three values of x and their corresponding values of {{MATH_29}}, where {{MATH_30}} and f is a linear function. What is the y-intercept of the graph of {{MATH_31}} in the xy-plane?
+
+A. {{MATH_32}}
+B. {{MATH_33}}
+C. {{MATH_34}}
+D. {{MATH_35}}
+Answer: D
+
+Question 6:
+For groups of{{MATH_36}} or more people, a museum charges {{MATH_37}} per person for the first {{MATH_38}} people and {{MATH_39}} for each additional person. Which function f gives the total charge, in dollars, for a tour group with n people, where {{MATH_40}} ?
+
+A. {{MATH_41}}
+B. {{MATH_42}}
+C. {{MATH_43}}
+D. {{MATH_44}}
+Answer: A
+
+Question 7:
+{{MATH_45}}
+{{MATH_46}}
+Which ordered pair (x, y) is a solution to the given system of equations?
+
+A. {{MATH_47}}
+B. {{MATH_48}}
+C. {{MATH_49}}
+D. {{MATH_50}}
+Answer: B
+
+Question 8:
+A certain elephant calf weighed {{MATH_51}} pounds when it was born. The elephant calf gained an average of {{MATH_52}} pounds per day in its first year of life. Which equation models this situation, where y is the estimated weight of the elephant calf, in pounds, x days after it was born?
+
+A. {{MATH_53}}
+B. {{MATH_54}}
+C. {{MATH_55}}
+D. {{MATH_56}}
+Answer: A
+
+Question 9:
+Audrey's hair will grow at a constant rate from a length of {{MATH_57}} inches to a length of {{MATH_58}} inches. The equation {{MATH_59}} describes this situation, where t is the number of months it will take for Audrey's hair to reach a length of {{MATH_60}} inches. Which of the following is the best interpretation of{{MATH_61}} in this context?
+
+A. The time, in months, it will take Audrey's hair to grow {{MATH_62}}inch
+B. The length, in inches, Audrey's hair will grow each month
+C. The time, in months, it will take Audrey's hair to reach a length of {{MATH_63}} inches
+D. The length, in inches, Audrey's hair will grow in {{MATH_64}} months
+Answer: B
+
+Question 10:
+A rectangle has a length that is{{MATH_65}} times its width. The function {{MATH_66}} represents this situation, where y is the area, in square feet, of the rectangle and {{MATH_67}} . Which of the following is the best interpretation of {{MATH_68}}w in this context?
+
+A. The length of the rectangle, in feet
+B. The area of the rectangle, in square feet
+C. The difference between the length and the width of the rectangle, in feet
+D. The width of the rectangle, in feet
+Answer: A

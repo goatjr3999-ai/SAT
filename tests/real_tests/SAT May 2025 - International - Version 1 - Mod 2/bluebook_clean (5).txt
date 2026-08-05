@@ -1,0 +1,352 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Apalachicola River delta in Florida is where the river flows into the Gulf of Mexico. As the river reaches the gulf, it forms smaller channels where sediments carried by the river are deposited and form many deltaic lobes, or wetland formations. The shape and size of the delta are ______ by the gulf's tides, which shift sediments along the coast and reshape the deltaic lobes over time.
+
+A. surpassed
+B. enhanced
+C. influenced
+D. protected
+Answer: C
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Lisa Linn Kanae is a celebrated contemporary Hawaiian author whose work is ______ by a rich literary history. From the traditional stories of the *Kanaka Maoli*, or Native Hawaiian people, to the works of writers such as David Malo, the literary heritage of Hawaiʻi is distinctive and vibrant.
+
+A. preceded
+B. summarized
+C. supplanted
+D. overlooked
+Answer: A
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Archaeologists have identified a plethora of beads fashioned from *Tritia gibbosula* shells in many Middle Stone Age (MSA) sites across western North Africa, including El Mnasra Cave, Morocco. In a 2021 paper, El Mehdi Sehasseh et al. attribute these artifacts' ______ to the evolution and propagation of symbolic behavior (e.g., use of personal ornaments) in humans and the availability of *T. gibbosula* during the MSA.
+
+A. expediency
+B. fecundity
+C. ubiquity
+D. heterogeneity
+Answer: C
+
+Question 4:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Svante Pääbo and other researchers studying the history of organisms have long utilized ancient DNA—DNA recovered from ancient organic material that has been preserved under natural conditions. However, Reyjane P. Oliveira and colleagues' 2017 study of the evolutionary trajectory of the Malagasy grass genus *Chasechloa* instead relied on historical DNA—genomic data incidentally preserved in specimens that are housed in natural history collections—__thus capitalizing on the research potential offered by a vast but hitherto relatively underutilized source of insight into the biological past.__
+
+A. It specifies potential applications of the approach that Oliveira and colleagues used in their study.
+B. It offers commentary on the significance of the approach that Oliveira and colleagues used for their study.
+C. It emphasizes the importance of Oliveira and colleagues' findings about the DNA of flora.
+D. It explains why the research methodology selected by Oliveira and colleagues is not widely used.
+Answer: B
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Established knowledge of prehistoric societies primarily stems from analysis of durable historical artifacts, including stone tools, but Mercedes Murillo-Barroso and team have contributed new insights with a unique analysis of plant-based items. Plant-based artifacts, including straw baskets, are seldom studied due to their perishable nature. __This relative scarcity__ made it all the more exciting when the team examined remains of well-preserved organic artifacts discovered in a cave in Spain and determined that they dated even further back than previously thought.
+
+A. It suggests that the researchers did not fully achieve a goal outlined earlier in the text.
+B. It describes the uncertain nature of a discovery by the researchers mentioned earlier in the text.
+C. It distinguishes between the two types of historical artifacts discussed earlier in the text.
+D. It refers to a challenging situation presented earlier in the text.
+Answer: D
+
+Question 6:
+[Structure]
+Which choice best states the main purpose of the text?
+
+In 2023 Nobel Prize-winning physicist Giorgio Parisi published *In a Flight of Starlings*, a collection of essays on scientific subjects. Acclaimed author Sam Kean, who uses the form of nonfiction narrative to explore scientific discoveries, is interested in the collection less for its aesthetic merit than for its focus on "the false starts...and mistakes that beset real scientific research every day." Kean argues that all too often, scientists omit this "human stuff" from written accounts of their research and thus ultimately "fail to explain how science really gets done."
+
+A. It explores a subtle difference between Kean's and Parisi's respective objections to scientific research methods.
+B. It outlines an area of agreement between Parisi and Kean in how they think about the work of science.
+C. It describes Kean's view that nonfiction narrative is an effective way for Parisi to share his accomplishments.
+D. It presents Kean's claim that Parisi is too modest about his own achievements as a scientist.
+Answer: B
+
+Question 7:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+The following text is from William Shakespeare's circa 1611 play *The Winter's Tale*. Camillo has been away from his home in Sicily and serves in the court of Polixenes, the king of Bohemia. He has asked Polixenes for permission to return to Sicily.
+
+POLIXENES: I pray thee, good Camillo, be no more importunate. 'Tis a sickness denying thee anything, a death to grant this.
+
+CAMILLO: It is fifteen years since I saw my country. Though I have for the most part been aired abroad, I desire to lay my bones there. Besides, the penitent king, my master, hath sent for me, __to whose feeling sorrows I might be some allay—or I o'erween [presume] to think so__—which is another spur to my departure.
+
+A. It bolsters the idea that Camillo's primary motivation to return home is his concern for the king of Sicily's well-being in his absence.
+B. It suggests that Camillo feels compelled to persuade Polixenes that Camillo's decision to leave the court is justified.
+C. It establishes Camillo's hope that Polixenes will be comforted knowing that Camillo isn't departing at his own discretion.
+D. It conveys Camillo's recognition that one benefit his presence may afford the king of Sicily is merely speculative.
+Answer: D
+
+Question 8:
+[COE]
+In the text, what does the speaker say that the artist believed about his sculpture?
+
+The following text is from Narciso Tondreau's 1898 poem "Yesterday and To-Day" (translated by Agnes Blake Poor in 1918). The poem is about an old statue of the Greek goddess Venus, which now lies on the ground in a state of disrepair.
+
+How long ago, by summer breezes fanned,
+Here stood the newborn Venus, fresh and fair;
+All palpitating from the master's hand,
+The last touch of his chisel lingering there.
+
+"And surely this shall last!" he proudly thought;
+"Fixed in immortal marble is my fame!"
+Just here, where human hand has surely wrought,
+Some crumbling letters may have spelled his name.
+
+A. It would be praised for its intricate details that he carefully chiseled.
+B. It would be carefully repaired when it inevitably begins to deteriorate.
+C. It would bring him enduring fame by withstanding time.
+D. Its beauty would be recognized as surpassing that of other images of Venus.
+Answer: C
+
+Question 9:
+[COE]
+Which choice best describes data in the table that support the city planner's conclusion?
+
+Esther Sanyé-Mengual, Kathrin Specht, and their team surveyed three groups of people in Bologna, Italy—leaders of urban agriculture projects, stakeholders in urban agriculture (e.g., food researchers and urban farming associations), and the general public—to compare their views about the extent to which urban agriculture contributes to 25 social or ecological services that the team identified. The researchers used these ratings to rank the services for each group, with a ranking of 1 indicating that a group perceives that urban agriculture benefits that service the most. Using only the rankings shown in the table, a city planner in Bologna who is promoting a new urban agriculture project concludes that advertisements aimed at stakeholders should emphasize the project's benefit to the enhancement of pollination.
+
+A. The enhancement of pollination was ranked higher for stakeholders than were the other four services.
+B. The prevention of soil erosion was ranked lower for stakeholders than it was for project leaders.
+C. The enhancement of pollination was ranked higher for the general public than it was for stakeholders.
+D. The enhancement of carbon sequestration was ranked higher for stakeholders than was the enhancement of pollination.
+Answer: A
+
+Question 10:
+[COE]
+Which finding, if true, would most directly support the researchers' assertion?
+
+In an international collaboration, Elaine Ostrander, Alan K. Outram, and other researchers probed the evolutionary history of size variation in modern dogs. Scientific consensus held that early dogs had large body mass and that a genetic driver of smaller size in some breeds (e.g., bulldogs) developed only within the last 20,000 years as a result of selective breeding for characteristics favored by humans. Ostrander et al. assert that this explanation is flawed, having discovered that a mutation responsible for variants of *IGF1*, a gene found in many mammals that regulates production of insulin-like growth factor 1, is ubiquitous in domestic dog breeds.
+
+A. *IGF1* has been isolated in genetic material from fossils more than 20,000 years old of the red wolf (*Canis rufus*) and certain other species related to dogs.
+B. An additional mutation related to *IGF1* affects the development of characteristics other than body size in smaller dog breeds like bulldogs.
+C. The mutation related to *IGF1* influences body size and is found in 53,000-year-old genetic material from fossils of Siberian wolves (*Canis lupus campestris*), an ancestor of dogs.
+D. One variant of *IGF1* is found only in smaller dog breeds like bulldogs and appears to have emerged no more than 20,000 years ago.
+Answer: C
+
+Question 11:
+[COE]
+Which finding, if true, would most directly challenge the second research team's conclusion?
+
+Callie W. Babbitt, Hema Madaka, and colleagues assembled a database of materials used in consumer electronics by studying products in the lab and by gathering data from similar product studies. The team gave each of these studies a rating for level of detail (with a higher rating for reported data with more detail) and for level of traceability (with a higher rating for clearer descriptions of procedures). Based on these ratings, a second research team concluded that a study by Greg L. Kozak and Gregory A. Keoleian provided more specificity in its data than a study by Oguchi Masahiro and colleagues did.
+
+A. The study by Kozak and Keoleian had a lower detail rating than the study by Oguchi and colleagues did.
+B. The study by Kozak and Keoleian had a lower traceability rating than the study by Oguchi and colleagues did.
+C. The study by Kozak and Keoleian had a high detail rating and a high traceability rating.
+D. The study by Oguchi and colleagues had a low detail rating and a low traceability rating.
+Answer: A
+
+Question 12:
+[COE]
+Which finding, if true, would most directly support the researchers' conclusion?
+
+Soil thawing in Alaska has been accelerating as a result of climate changes, potentially enabling increased carbon dioxide (CO₂) absorption through greater productivity of arctic bramble (*Rubus arcticus*) plants and other vegetation, but also potentially enabling increased CO₂ output through greater heterotrophic respiration (CO₂ generated by the activity of soil microorganisms). Hydrologist Yonghong Yi and her colleagues developed a model incorporating numerous inputs—years of soil temperature and snow cover data among them—to evaluate the effects of climate changes on the CO₂ balance in Alaska, concluding that net CO₂ is likely to increase if seasonal snow cover arrives earlier relative to the onset of soil surface freezing.
+
+A. The effect of soil temperature on the growth of vegetation and on the rate of heterotrophic respiration is stronger during the period of seasonal snow cover than during the period without snow cover.
+B. Relatively early snow cover reduces the amount of soil moisture available for the growth of plant species such as *R. arcticus* and lowers the rate of heterotrophic respiration.
+C. Seasonal snow cover tends to persist longer in areas of relatively low vegetation growth and high heterotrophic respiration than in areas of relatively high vegetation growth and low heterotrophic respiration.
+D. The soil insulation provided by snow cover enables heterotrophic respiration to continue during a period in which plant species such as *R. arcticus* are typically not growing.
+Answer: D
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+Over 600 languages are spoken in New York City in addition to English—one can find Bambara spoken in the neighborhood of Kingsbridge, or Ghale in Jackson Heights. Most speakers of Chinese languages reside in the neighborhood of Flushing (part of New York City's borough of Queens), where the dominant Chinese language is Mandarin, and in Chinatown, in the borough of Manhattan, where the dominant Chinese languages are Cantonese and Fuzhounese. Mandarin is widely spoken in north China, while Cantonese and Fuzhounese are widely spoken in south China. It can therefore be inferred that ______
+
+A. Chinese immigrants who emigrated to New York City many years ago are more likely to speak several Chinese languages than are more recent Chinese immigrants.
+B. people who emigrate from north China tend to settle in Queens, while people who emigrate from south China tend to settle in Manhattan.
+C. taken together, there are more Cantonese and Fuzhounese speakers among Chinese immigrants in New York City than there are Mandarin speakers.
+D. Chinese immigrants regularly change their residences between Queens and Manhattan after they emigrate, rather than staying in one borough.
+Answer: B
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+David Mitchell's 2006 novel *Black Swan Green* contains elements drawn from Mitchell's own life—there are many parallels between the experiences of the novel's protagonist, Jason Taylor, and those of Mitchell—and as a result *Black Swan Green* is regularly described as an autobiographical novel. This characterization can be useful, but it also presents drawbacks in terms of how the work is perceived, given the high value placed on creativity and imagination in artistic endeavors. Readers who take this characterization to mean that Mitchell merely fictionalized actual events may conclude that ______
+
+A. *Black Swan Green* is not as worthy of praise as it might have been if it had no basis in fact.
+B. critics disagree about whether *Black Swan Green* shows greater originality than works without autobiographical elements.
+C. the real-world counterparts of other characters in *Black Swan Green* are hard to identify.
+D. Mitchell should not have claimed that *Black Swan Green* is based on real events.
+Answer: A
+
+Question 15:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Since the nineteenth century, Egyptologists have commonly divided ancient Egyptian history into three primary ______ Old Kingdom (2700—2200 BCE), the Middle Kingdom (2050—1800 BCE), and the New Kingdom (1550—1100 BCE). Some historians, however, criticize the names of these periods for revealing more about the culture of the mainly European Egyptologists than that of ancient Egypt itself.
+
+A. periods. The
+B. periods; the
+C. periods: the
+D. periods, the
+Answer: C
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+If you had turned on the radio in the fall of 1964, chances are you would have heard the hit ______ "Little Marie" by Chuck Berry. The song spent nine straight weeks on the Billboard Hot 100 chart that year.
+
+A. song
+B. song,
+C. song:
+D. song;
+Answer: A
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The allocation of a new country dialing prefix (+380) to route incoming international calls ______ among the infrastructural changes necessitated by Ukraine's 1991 split from the Soviet Union.
+
+A. are
+B. was
+C. have been
+D. were
+Answer: B
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Lyrid meteor shower's brightness typically surpasses that of the Puppid-Velid meteor shower due to the interplay of three main factors—namely, the size and composition of the ______ velocity upon entering Earth's mesosphere, with higher-velocity meteoroids releasing more energy; and atmospheric fluctuations, such as changes in humidity.
+
+A. meteoroids—their
+B. meteoroids, their
+C. meteoroids; their
+D. meteoroids. Their
+Answer: C
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In Hafez's *Divān*, the writer muses on love, faith, and protest. So impactful is this particular work by Hafez, a Persian lyric poet whose authorial perspective was at once mystical and critical, that its ruminations on fourteenth-century Persian life ______ Iranian society hundreds of years later.
+
+A. influence
+B. influences
+C. is influencing
+D. has influenced
+Answer: A
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In 2018, the Contessa Gallery in Miami, Florida, exhibited the work of Slovak ______ who aptly describes her photos as "minimalistic but also futuristic."
+
+A. photographer Mária Švarbová,
+B. photographer Mária Švarbová
+C. photographer, Mária Švarbová
+D. photographer, Mária Švarbová,
+Answer: A
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Instead of sleeping on soft pillows, ancient Egyptians slept on hard, elevated headrests, their design ______ airflow, protection from insects, and hairstyle maintenance over comfort.
+
+A. was prioritizing
+B. had prioritized
+C. prioritizing
+D. prioritized
+Answer: C
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+French mathematician Michel Talagrand has shown that over large numbers of trials, variables that appear to be independent and random are in fact extremely likely to cluster around an average. ______ according to Talagrand's research, if you flip a coin 1,000 times, there is a 99.7% probability that the coin will land heads side up between 450 and 550 times.
+
+A. In addition,
+B. However,
+C. For instance,
+D. In comparison,
+Answer: C
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Topographic maps show the elevation of landforms above sea level. Bathymetric maps, ______ show the elevation of landforms below the sea, providing valuable information to marine geophysicists like Claudia Flores, who studies seismic data from the northeastern Caribbean.
+
+A. afterward,
+B. in conclusion,
+C. for example,
+D. by contrast,
+Answer: D
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Edge modeling is one process digital artists employ while developing visuals for video games. ______ digital artists use edge modeling to piece together separate shapes to create 3D objects for games.
+
+A. In addition,
+B. Specifically,
+C. Thus,
+D. By comparison,
+Answer: B
+
+Question 25:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In the Southeast Asian country of Indonesia, the percentage of the population living in cities rose from 53.3% to 56.6% between 2015 and 2020. ______ urbanization rates climbed across Southeast Asia as a whole, rising 2.8 percentage points in that five-year period.
+
+A. For example,
+B. Eventually,
+C. In other words,
+D. Concurrently,
+Answer: D
+
+Question 26:
+[Synthesis]
+The student wants to make a generalization about how word order is employed across languages. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Linguistic typologists classify and compare languages according to their structural features.
+• One such structure is word order, or the way subjects (S), verbs (V), and objects (O) are typically arranged in a sentence.
+• English employs an SVO word order (e.g., Cows eat grass).
+• Bengali employs an SOV word order (e.g., Cows grass eat).
+• Filipino employs a VSO word order (e.g., Eat cows grass).
+• 87% of the world's languages are classified as either SVO or SOV.
+
+A. Word order is one of the structural features by which linguistic typologists classify and compare the world's languages.
+B. Linguistic typologists analyze and compare how word order is employed across languages.
+C. The way in which subjects, verbs, and objects are typically arranged in a sentence is also called word order.
+D. The majority of languages place the subject of a sentence before the verb and object.
+Answer: D
+
+Question 27:
+[Synthesis]
+The student wants to emphasize the significance of a similarity between two of the kits. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Producing the nutrient-rich cyanobacterium *L. maxima* at industrial scale requires high-quality samples of *L. maxima* DNA.
+• Yirlis Yadeth Pineda-Rodriguez and a team of researchers at the University of Córdoba, Colombia, evaluated the quantity and purity of *L. maxima* DNA extracted using three different DNA extraction kits.
+• CTAB 2X (kit 1) had a DNA yield of 2,134 nanograms per microliter (ng/μL) and a purity ratio of 2.2.
+• Pbact (kit 2) had a DNA yield of 157 ng/μL and a purity ratio of 1.6.
+• Pplant (kit 3) had a DNA yield of 12.5 ng/μL and a purity ratio of 1.5.
+• According to the researchers, Pbact was the most effective because it was the only one with both a sufficiently high yield and a purity rate close to the ideal of 1.8.
+
+A. CTAB 2X and Pplant both had a DNA yield above 10 and a purity ratio above 1.4.
+B. Due to their insufficient yield or purity, CTAB 2X and Pplant were deemed by the researchers to be less effective than Pbact.
+C. With the ideal purity ratio being 1.8, CTAB 2X and Pbact were equal in purity, according to the researchers.
+D. Compared to CTAB 2X, which had a DNA yield of 2,134 ng/μL, both Pbact and Pplant had insufficient yields; Pplant, in particular, was ineffective due to its low yield.
+Answer: B
+

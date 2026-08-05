@@ -1,0 +1,129 @@
+Question 46:
+[Infer]
+Which choice most logically completes the text?
+
+In a study of the effects of music tempo (as measured in beats per minute, or bpm) during exercise, participants jogged outdoors for 30 minutes while listening to Vanessa Williams's "Colors of the Wind" (83 bpm) continuously. Researchers anticipated that when participants performed the same activity the following day while listening to Jimi Hendrix's "Fire" (172 bpm), they would jog more quickly. Participants' performance on the second day, however, may have been negatively affected by tiredness from the first day. Thus, ______
+
+
+A. participants' prior familiarity with the songs may have contributed to differences in performance over the two days.
+B. the researchers were unable to accurately measure how quickly participants jogged on the second day.
+C. participants demonstrated a preference for one song over the other.
+D. the results from the second day may lead to an underestimation of the effect of the faster song.
+Answer: D
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+Architects looking for inspiration may examine photographs of iconic buildings such as the Forbidden City in Beijing. A two-dimensional photograph, however, cannot capture how a building interacts with its surroundings, whether by complementing, blending in with, or perhaps even clashing with sights and activities nearby. An image of the Forbidden City thus ____
+
+
+A. serves to exaggerate the building's historical importance.
+B. fails to convey the full impact of the building's context and structure.
+C. misrepresents how the building is perceived by people who have never visited Beijing.
+D. conceals the subtle deterioration of the building's materials.
+Answer: B
+
+Question 78:
+[Infer]
+Which choice most logically completes the text?
+
+Introducing a new species into a delicate ecosystem can often be harmful. The common waxbill and other fruit-eating birds have established themselves on the Hawaiian island of Oahu after being brought there in the last 150 years. Many plant species on the island rely on the activity of fruit-eating birds to maintain and increase their populations. In recent studies, common waxbills have been found to spread seeds of native forest plants that are at risk of extinction, such as the olomea shrub and the alahee tree, suggesting that ______ .
+
+
+A. non-native birds, such as the common waxbill, are unlikely to eat fruits from non-native forest plants on Oahu.
+B. non-native birds have had both positive and negative effects on Oahu’s native plants.
+C. although non-native birds initially damaged the plants in Oahu’s ecosystem, they are now proving useful to them.
+D. rather than harming Oahu’s ecosystem, some non-native birds provide an important benefit on Oahu.
+Answer: D
+
+Question 69:
+[Infer]
+Which choice most logically completes the text?
+
+Arthurian legends (tales related to the character of King Arthur) derive from many sources, such as Englynion y Beddau, composed between the 9th and 10th centuries, and Sir Gawain and the Green Knight from the 1300s. One of the most significant sources, Geoffrey of Monmouth's History of the Kings of Britain, was written in Latin in the 1130s; some material from it was later adapted by the Norman poet Wace into the Roman de Brut in 1155. But while no source before 1155 includes references to the famous Round Table at which Arthur's knights assembled, both the Roman de Brut and Sir Thomas Malory's 15th-century compilation of Arthurian legends, Le Morte d'Arthur, do. It can therefore be inferred that ______.
+
+
+A. Malory did not use Englynion y Beddau as a source for information he presented about the Round Table.
+B. Geoffrey of Monmouth's accounts of Arthurian legends in his History are more similar overall in content to the accounts in Sir Gawain and the Green Knight than they are to the accounts in Roman de Brut.
+C. Geoffrey of Monmouth was unaware of stories of the Round Table when composing his History, though historians know that works containing such stories were available to him.
+D. Le Morte d'Arthur is more historically accurate than History, because Sir Gawain and the Green Knight had not been written when Geoffrey of Monmouth was writing his work.
+Answer: A
+
+Question 65:
+[Infer]
+Which choice most logically completes the text?
+
+The National Environmental Policy Act (NEPA) requires US federal agencies to assess environmental effects of potential actions, such as building highways. While many NEPA reviews require public comment, categorical exclusions (CEs) allow quick reviews with no public comment for actions that will minimally affect the environment. In 2020 the rule governing CEs was revised: before, CEs could be granted for actions that "do not individually or cumulatively have a significant effect on the human environment," but the revised rule allowed CEs if actions "normally do not have a significant effect on the human environment." Environmentalists found this revision to be potentially detrimental because ______.
+
+
+A. the increasing need to build new highways and rehabilitate older highways in the US incentivizes agencies to grant CEs after 2020 for reasons that would not have been considered valid prior to 2020.
+B. the 2020 relaxation of the rule regarding CEs would permit more exclusions, resulting in more reviews of actions by federal agencies and a paradoxically slower review process.
+C. the rule that governed CEs before 2020 allowed expedited reviews of actions that might have significant effects on the environment if those effects were believed to be rare, while the 2020 revision of the rule subjected such actions to slower review.
+D. the 2020 revision of the rule governing CEs would allow expedited reviews of actions that had a minimal environmental effect when considered on their own but a significant effect when considered together.
+Answer: D
+
+Question 30:
+[Infer]
+Which choice most logically completes the text?
+
+Mariana Lopes Barata and Pedro Simões Coelho collected data from 324 music-streaming service users to identify factors that influence users to opt for paid (premium) versions of music streaming services, like Apple Music. They hypothesized that hedonic motivation— the enjoyment that a consumer perceives to be associated with using a service—would be positively correlated with users’ intentions to adopt premium versions. The researchers asked participants to rate statements such as “Using paid music streaming services is pleasant.” They found that, indeed, hedonic motivation positively influences the intention to adopt premium streaming service versions, which suggests that _____
+
+
+A. it may be advantageous for music streaming companies to try to influence the extent to which potential users perceive the premium version as pleasant to use.
+B. participants who strongly agreed with the statement “Using paid music streaming services is pleasant” were more likely to express loyalty to Apple Music than to other streaming services.
+C. the statement “Using paid music streaming services is pleasant” is not a reliable measure of hedonic motivation.
+D. users’ intentions to pay for premium streaming services are probably unaffected by factors other than hedonic motivation.
+Answer: A
+
+Question 28:
+[Infer]
+Which choice most logically completes the text?
+
+Archaeologists assume that when a major demographic shift interrupts the intergenerational transmission of expertise, this manifests in the archaeological record in the form of simultaneous reductions in the complexity of multiple specialized crafting traditions. Inventories of excavation sites from the Alazani River valley and nearby areas dating from 4000 to 500 BCE show a steep drop occurring around 1500 BCE in the number of objects featuring gold filigree, an advanced technique in which fine threads of gold are arranged in intricate patterns. The inventories also indicate that advanced copper-alloy metallurgy and most other specialized crafting traditions continued to flourish during this period, a finding suggesting that _____
+
+
+A. disruptions around 1500 BCE in the utilization of gold filigree likely occurred in the context of demographic continuity among peoples of the Alazani River valley.
+B. a sudden simultaneous decline in artifacts from multiple specialized crafting traditions is less likely than previously assumed to indicate that the transmission of expertise was disrupted by demographic changes.
+C. peoples in the Alazani River valley continued to uphold multiple specialized crafting traditions, including goldsmithing and copper-alloy metallurgy, even as demographic shifts occurred.
+D. cross-cultural transmission between distinct demographic groups in the Alazani River valley likely explains the expansion of copper-alloy metallurgy beginning around 1500 BCE.
+Answer: A
+
+Question 72:
+[Infer]
+Which choice most logically completes the text?
+
+Omar Asensio and colleagues used machine-learning algorithms to examine consumer reviews of 12,720 electric-vehicle (EV) charging stations in the US. They found that privately owned or managed charging stations at or near restaurants and convenience stores had relatively low proportions of negative reviews, while stations at or near car rental companies had significantly higher proportions of negative reviews. Additionally, stations at or near car rental companies tend to require consumers to pay full price to use them, while stations elsewhere often offered subsidized or even complimentary charging. Assuming that stations at different sites provide roughly equivalent levels of service, these results suggest that ________
+
+
+A. EV owners are usually unaware of the fees for using charging stations.
+B. EV drivers are more likely to visit areas with many restaurants and convenience stores than they are to visit areas with fewer such businesses.
+C. charging stations located near car rental companies are more frequently visited than charging stations located near restaurants and convenience stores.
+D. users who are offered a discount have lower expectations of the quality of charging stations than users who are not offered a discount do.
+Answer: D
+
+Question 79:
+[Infer]
+Which choice most logically completes the text?
+
+Many Indigenous songs serve as repositories of ecological knowledge—e.g., Yi songs about the natural environment and O’odham songs about desert plants. In a study by ethnobiological Dana Lepofsky et al., a song keeper for the Kwakwaka’wakw people provided access to ancient songs referring to the people’s creation of terraced intertidal gardens to foster clams for consumption. Cross-references of that information with both archaeological and paleoecological records have revealed significant increases in clam size and productivity concurrent with the most prevalent use of these clam gardens. This finding suggests that researchers should consider ______
+
+
+A. the strong implication that the beneficial effects are primarily attributable to ecological factors unrelated to the activities of the Kwakwaka’wakw people.
+B. the possibility that other songs of other Indigenous peoples transmit ecological information that has useful practical applications.
+C. the reliability of archaeological and paleoecological evidence that often underpins conclusions drawn from Indigenous songs.
+D. whether the Kwakwaka’wakw people originated the method of cultivation detailed in the songs or adapted methods observed among other groups of Indigenous peoples.
+Answer: B
+
+Question 5:
+[Infer]
+Which choice most logically completes the text?
+
+Carcinization, or the evolution of a crablike body form, has taken place in crustaceans many times over the last 250 million years. Decarcinization has occurred several times as well, even though it often involves the loss of traits such as sideways walking that seem to have helped carcinized groups persist in a variety of ecosystems. In a 2021 paper, Joanna Wolfe and team note that many decarcinized groups are extinct and have very few living relatives—signs that decarcinization might be an “evolutionary dead-end.” But the team also discusses frog crabs, a living decarcinized group with traits suited to dwelling in sediment; fossils show that the group had decarcinized members as far back as the Early Cretaceous. This example suggests that ______.
+
+
+A. the evolutionary benefits of a crablike body form are less certain than many studies of carcinization had previously implied.
+B. despite having many living relatives, some decarcinized groups did not benefit from decarcinization.
+C. sideways walking may have been less important to the survival of frog crabs than a protected abdomen and other traits associated with carcinization.
+D. a crablike body form may not be optimal in all cases, with ecological conditions sometimes favoring the persistence of decarcinization.
+Answer: D

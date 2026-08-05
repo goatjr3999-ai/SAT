@@ -1,0 +1,318 @@
+Question 1:
+[Details]
+Which choice best describes the function of the underlined sentence?
+
+Historical artifacts made from plant-based materials, such as linen fabrics, can tell us a lot about life and culture in prehistoric societies. But archaeologists don’t find these kinds of plant-based items frequently because they are more likely to fall apart over time than are durable artifacts, like flint tools. When María Martín-Seijo and team studied a unique collection of old plant-based artifacts from a cave in Spain, they were surprised to find that __many of the items were even older than previously thought__.
+
+
+A. To reveal how many flint tools have been discovered in one location
+B. To explain how linen fabrics have improved over time
+C. To indicate one outcome of a study by María Martín-Seijo and team
+D. To describe how María Martín-Seijo and team discovered a city in Spain
+Answer: C
+
+Question 2:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Historical artifacts made from plant-based materials, such as linen fabrics, can tell us a lot about life and culture in prehistoric societies. But archaeologists don’t find these kinds of plant-based items frequently because they are more likely to fall apart over time than are durable artifacts, like flint tools. When María Martín-Seijo and team studied a unique collection of old plant-based artifacts from a cave in Spain, they were surprised to find that many of the items were even older than previously thought.
+
+
+A. To explain why plant-based artifacts like linen fabrics are less durable and harder to find than stone artifacts.
+B. To provide context on the challenges of studying plant-based historical artifacts and to introduce a significant finding from a particular study of such items.
+C. To describe a new method developed by María Martín-Seijo's team that allows plant-based artifacts to be preserved for longer.
+D. To challenge the established timelines of all prehistoric societies in Spain.
+Answer: B
+
+Question 3:
+[Details]
+Which choice best states the function of the underlined sentence in the text as a whole?
+
+Vertical gene transfer involves the transmission of genetic material from a parent to offspring; __horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship__. While horizontal gene transfer is common among prokaryotes—single-celled organisms, such as the bacteria Enterococcus cecorum and Lactobacillus curvatus—it has rarely been observed among eukaryotes (multicellular organisms). However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought.
+
+
+A. It explains a biological process by contrasting it with a somewhat similar process.
+B. It explains why a common perception of a biological process is flawed.
+C. It argues that two biological phenomena are more similar than they may initially appear to be.
+D. It proposes a direction for future research into a biological phenomenon.
+Answer: A
+
+Question 4:
+[Details]
+Which choice best states the function of the underlined sentence in the text as a whole?
+
+Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship. While horizontal gene transfer is common among prokaryotes—single-celled organisms such as the bacteria *Carnobacterium viridans* and *Moraxella caviae*—it has rarely been observed among eukaryotes (typically multicellular organisms). __However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought__.
+
+
+A. It argues that a particular direction of research concerning horizontal gene transfer is likely to be fruitless.
+B. It indicates a distinction between horizontal gene transfer and vertical gene transfer.
+C. It implies that a common perception of horizontal gene transfer may be inaccurate.
+D. It compares the frequencies with which horizontal gene transfer has been detected in two categories of organisms.
+Answer: C
+
+Question 5:
+[Details]
+Which choice best states the function of the underlined sentence in the text as a whole?
+
+Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship. __While horizontal gene transfer is common among prokaryotes—single-celled organisms, such as the bacteria Brevundimonas diminuta and Massilia timonae—it has rarely been observed among eukaryotes (multicellular organisms).__ However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought.
+
+
+A. It contrasts the frequency with which a biological phenomenon has been detected in two categories of organisms.
+B. It argues that two biological phenomena are more similar than they may initially appear to be.
+C. It explains why a common perception of a biological process is flawed.
+D. It indicates a distinction between the mechanics of two kinds of biological processes.
+Answer: A
+
+Question 6:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Horizontal gene transfer involves the exchange of genetic material between organisms not in a parent-offspring relationship. It is common among prokaryotes (single-celled organisms, such as the bacteria Carnobacterium viridans and Lactococcus lactis). The process can have the effect of increasing bacterial resistance to antibiotics; as such, an understanding of how to prevent horizontal gene transfer might result in the mitigation of dangerous pathogens (organisms that cause disease).
+
+
+A. It provides a history of research into a biological process and suggests a direction for further investigation.
+B. It explains why an organism poses a threat and then suggests how that threat might be avoided.
+C. It depicts two organisms and presents their similarities and differences.
+D. It describes a biological process and explains why researching it is important.
+Answer: D
+
+Question 7:
+[Structure]
+Which choice best states the main idea of the text?
+
+Horizontal gene transfer involves the exchange of genetic material between organisms not in a parent-offspring relationship. It is common among prokaryotes (single-celled organisms such as the bacteria Brevibacillus brevis/ensis and Massilia timonae). The process can have the effect of increasing bacterial resistance to antibiotics; as such, an understanding of how to prevent horizontal gene transfer might result in the mitigation of dangerous pathogens (organisms that cause disease).
+
+
+A. A common perception of horizontal gene transfer is inaccurate.
+B. Horizontal gene transfer is more common than was initially thought.
+C. The results of new research into horizontal gene transfer cast doubt on earlier findings.
+D. The study of horizontal gene transfer may yield findings with useful applications.
+Answer: D
+
+Question 8:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+Horizontal gene transfer involves the exchange of genetic material between organisms not in a parent-offspring relationship. It is common among prokaryotes (single-celled organisms, such as the bacteria Enterococcus cecorum and Moraxella catarrhalis). __The process can have the effect of increasing bacterial resistance to antibiotics; as such, an understanding of how to prevent horizontal gene transfer might result in the mitigation of dangerous pathogens (organisms that cause disease__).
+
+
+A. It suggests that a commonly held belief regarding an organism is mistaken.
+B. It summarizes the history of research into a biological phenomenon.
+C. It illustrates why one organism may pose more of a threat than another.
+D. It explains a practical benefit of researching a particular biological process.
+Answer: D
+
+Question 9:
+[Infer]
+Which choice most logically completes the text?
+
+Medieval Genoa was among the societies that enacted sumptuary laws regulating consumption related to goods or practices indicative of status, such as processions and clothing, in an effort to reinforce the existing social order. Such laws were easily circumvented, inviting the conclusion that they were failures. Historian Laurel Ann Wilson instead suggests that their purpose is misunderstood, noting two persistent trends: sumptuary laws were constantly revised and reissued; and even in revised laws, whose preambles often lamented public noncompliance and the ensuing erasure of class distinctions, enforcement mechanisms remained weak or absent. The recurrence of these patterns throughout preindustrial societies suggests that ______
+
+
+A. observance of sumptuary laws in medieval Genoa and other societies was complicated by the constant reissuance and revision of the laws, as citizens struggled to navigate conflicting edicts.
+B. the practical value of sumptuary laws was secondary to the laws’ symbolic function as official reassertions of the social order.
+C. sumptuary laws in societies such as medieval Genoa originally served a practical purpose but this intent was lost as the laws became more circuitous in subsequent revisions.
+D. lawmakers gradually realized that sumptuary laws were inherently challenging to enforce and lowered their expectations of compliance over time.
+Answer: B
+
+Question 10:
+[Infer]
+Which choice most logically completes the text?
+
+Governing expenditures on wedding celebrations and other public displays of wealth thought to jeopardize class distinctions, the Lex Iulia sumptuaria (18 BCE) and other Roman sumptuary laws primarily affected not the plebeian class, who could rarely afford luxuries, but rather the more affluent equestrian class (comprising the military and merchants) and the senatorial class (the ultimate center of political power). As the senatorial class was responsible for passing all laws, scholars have questioned why such powerful citizens would limit their own consumption with sumptuary laws. Noting that the equestrian class had gained prominence through its wealth and aspired to gain political power, these scholars suggest that the senatorial class likely hoped such laws would ______
+
+
+A. discourage plebeians from imitating the lavish consumption patterns of the equestrian class.
+B. ensure that adequate supplies of scarce goods remained available for economically privileged consumers.
+C. force the equestrian class to focus on conserving rather than spending its considerable wealth.
+D. alleviate a perceived threat to the existing social order from within an economically prosperous class.
+Answer: D
+
+Question 11:
+[Infer]
+Which choice most logically completes the text?
+
+Anne Brontë’s 1847 novel Agnes Grey contains elements drawn from Brontë’s own life. There are many parallels between the experiences of the novel’s title character and those of Brontë and as a result Agnes Grey is regularly described as an autobiographical novel. This characterization can be useful, but it also presents drawbacks in terms of how the work is perceived, as it may lead readers to believe that Brontë merely fictionalized true events, which, in an artistic field where creativity and inventiveness are prized, can suggest that ______
+
+
+A. Agnes Grey is less of an imaginative achievement than it actually is.
+B. the real-world counterparts of other characters in Agnes Grey are hard to identify.
+C. Brontë should not have claimed that Agnes Grey is based on real events.
+D. critics disagree about whether Agnes Grey shows greater originality than works without autobiographical elements.
+Answer: A
+
+Question 12:
+[Infer]
+Which choice most logically completes the text?
+
+David Mitchell’s 2006 novel Black Swan Green contains elements drawn from Mitchell’s own life—there are many parallels between the experiences of the novel’s protagonist, Jason Taylor, and those of Mitchell—and as a result Black Swan Green is regularly described as an autobiographical novel. This characterization can be useful, but it also presents drawbacks in terms of how the work is perceived, given the high value placed on creativity and imagination in artistic endeavors. Readers who take this characterization to mean that Mitchell merely fictionalized actual events may conclude that _____
+
+
+A. Black Swan Green is not as worthy of praise as it might have been if it had no basis in fact.
+B. critics disagree about whether Black Swan Green shows greater originality than works without autobiographical elements.
+C. the real-world counterparts of other characters in Black Swan Green are hard to identify.
+D. Mitchell should not have claimed that Black Swan Green is based on real events.
+Answer: A
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+Nella Larsen’s 1928 novel Quicksand is regularly described as autobiographical. That characterization is apt—there are many parallels between the experiences of the novel’s protagonist, Helga Crane, and those of Larsen—but it should not be taken to mean that all the people and events depicted in Quicksand are based on actual people and events. The novel is largely pure invention, and readers who neglect this fact and instead try to identify more and more real-life analogues thus risk ______.
+
+
+A. positing unsupportable connections between Quicksand and Larsen’s life.
+B. misrepresenting Quicksand as being more widely read than it actually is.
+C. minimizing the fact that Larsen drew on real-world material when writing Quicksand.
+D. overemphasizing the extent to which Larsen took inspiration from earlier writers.
+Answer: A
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+J.G. Ballard's 1984 novel Empire of the Sun is regularly described as autobiographical. That characterization is apt—there are many parallels between the experiences of the novel's protagonist, Jim Graham, and those of Ballard—but it should not be taken to mean that Empire of the Sun displays a strong fidelity to facts. Much of the novel is pure invention. Nevertheless, readers interested in understanding Ballard as a person can gain considerable insight from the book: Empire of the Sun integrates invented material with Ballard's interpretations of his memories, and the novel thus ______
+
+
+A. provides readers with an objective depiction of circumstances that Ballard experienced.
+B. prevents readers from identifying any real-life inspirations for its characters.
+C. can give readers a sense of how Ballard perceived certain people and events.
+D. showcases many of the literary techniques that made Ballard popular with readers.
+Answer: C
+
+Question 15:
+[COE]
+As presented in the text, the findings of Sauquet et al. best support which statement?
+
+Some researchers posit that species on the South Pacific island of Grande Terre are the surviving members of clades that inhabited other islands in the region before the complete emergence of Grande Terre 37 million years ago. In a 2012 study, however, Hervé Sauquet et al. found that the crown age (the age of the most recent common ancestor of all living and extinct species in the clade) of the clade of southern beeches on Grande Terre is 16.4 million years; Sauquet et al. further found that the crown age of the clade of southern beeches in the South Pacific generally is also approximately 16.4 million years.
+
+
+A. The southern beeches found on Grande Terre are members of a clade that likely originated outside the South Pacific.
+B. The most recent common ancestor of the southern beeches found on Grande Terre lived at least 37 million years ago.
+C. The southern beeches found on Grande Terre are not members of a clade that existed before the island completely emerged.
+D. The ancestors of most species found on Grande Terre arrived on the island earlier than did the most recent common ancestor of the island’s southern beeches.
+Answer: C
+
+Question 16:
+[COE]
+Which statement about the view put forward by "some researchers" is best supported by information in the text?
+
+Some researchers have characterized the flora and fauna of the South Pacific island of Grande Terre as members of clades that inhabited nearby islands before Grande Terre completely emerged 37 million years ago. Thomas R. Buckley et al. found that the crown age (the age of the most recent common ancestor of all living and extinct species in the clade) of the clade of stick insects on Grande Terre is approximately 41.1 million years, while Jesús Gómez-Zurita et al. found that the crown age of the clade of flea beetles on Grande Terre is approximately 12.8 million years.
+
+
+A. The view could be true of Grande Terre’s stick insects but is not true of the island's flea beetles.
+B. The view has some empirical support but is weakened by the findings of Buckley et al.
+C. The view suggests that Grande Terre may have emerged as early as 41.1 million years ago.
+D. The view depends on inaccurate assumptions about the crown ages of the clades of stick insects and flea beetles on Grande Terre.
+Answer: A
+
+Question 17:
+[Cross Text]
+Based on the texts, the author of Text 2 would most likely agree with which statement about the “Gondwanan species” discussed in Text 1?
+
+Text 1
+The island of Grande Terre split from the former supercontinent Gondwana around 80 million years ago, carrying Gondwanan species from a variety of clades with it. The island was periodically submerged until 37 million years ago, but some researchers suggest that its current biota includes species from clades predating the split that took refuge on islands near Grande Terre during submergence events and then returned.
+Text 2
+Thomas R. Buckley et al. found that the crown age—the age of the most recent common ancestor of all species in the clade (i.e., the clade’s founder)—of Grande Terre’s clade of stick insects is 41.1 million years, which is among the oldest clade crown ages of species inhabiting the island today. Nearly all of Grande Terre’s living species belong to clades that originated much more recently: for example, the crown age of the island’s clade of Goodeniaceae plants is 2.0 million years.
+
+
+A. Most of them began recolonizing Grande Terre from nearby islands around 2.0 million years ago.
+B. Clades to which they belong originated no earlier than 41.1 million years ago.
+C. Few if any of them were members of a clade that includes species currently inhabiting Grande Terre.
+D. Although most of them have living descendants on Grande Terre, the stick insects and Goodeniaceae plants do not.
+Answer: C
+
+Question 18:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Some researchers posit that the species inhabiting the South Pacific island of Grande Terre belong to clades that predate the island's split from remnants of the former supercontinent Gondwana around 80 million years ago. A study conducted by Paul M. Oliver and Kate M. Sanders found, however, that the crown age (the age of the most recent common ancestor of all living and extinct species in the clade) of the clade of geckos on Grande Terre is 9.6 million years; Oliver and Sanders further found that the crown age of the clade of geckos in the South Pacific generally is also approximately 9.6 million years.
+
+
+A. It presents a possibility that some researchers have raised, then describes a study that clarifies their reasons for doing so.
+B. It describes an idea that some researchers have put forward, then presents study results that are incompatible with that idea.
+C. It explains a view some researchers have advanced, then discusses study results that led them to reconsider that view.
+D. It identifies a discrepancy between a hypothesis some researchers have proposed and related research findings, then explains that discrepancy
+Answer: B
+
+Question 19:
+[Cross Text]
+Taken together, Text 1 and Text 2 best support which statement about the clades of leaf beetles and Pycnandraplants on Grande Terre?
+
+Text 1
+The land that became Grande Terre island split from remnants of the former supercontinent Gondwana approximately 80 million years ago, carrying Gondwanan biota with it and experienced periodic submersion until 37 million years ago. Some researchers posit that the island’s current biota includes members of Gondwanan clades (i.e., clades predating the split) that persisted by seeking temporary refuge on nearby islands during submergence events.
+Text 2
+In a recent study, Anna Papadopoulou et al. found that the crown age—the age of the most recent common ancestor of all species in the clade (i.e., the clade’s founder)—is 59.9 million years for Grande Terre’s clade of leaf beetles. Most of the island’s extant biota belong to clades with younger crown ages, however: Igor V. Bartish et al. found that the crown age of Grande Terre’s clade of *Pycnandra* plants is 22.9 million years, for example.
+
+
+A. The clade of leaf beetles originated before Grande Terre split from Gondwana, whereas the clade of Pycnandra plants originated after the split but before the periodic submergence events began.
+B. The clade of leaf beetles must have originated on Gondwana, but the clade of Pycnandra plants may or may not have.
+C. Neither the clade of leaf beetles nor the clade of Pycnandra plants originated on Gondwana.
+D. Both the clade of leaf beetles and the clade of Pycnandra plants originated elsewhere and colonized Grande Terre.
+Answer: C
+
+
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+Prolonged exposure to anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Jessie Patrice Bunkley and Jesse Rex Barber found in a 2015 study of pallid bats. Researchers conducted a meta-analysis of studies of how such noise affects animals and found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group. Although, on average, studies of mammals showed larger differences than studies of birds did, for every class of animals examined, there were individual studies showing differences well above the average for mammals. Therefore, the results of the meta-analysis suggest that _______
+
+
+A. the difference found in the study conducted by Jessie Patrice Bunkley and Jesse Rex Barber was likely larger than the difference for studies of pallid bats included in the meta-analysis.
+B. the studies in the meta-analysis that examined mammals were more likely than those that examined birds to specify whether the observed effects were detrimental.
+C. the differences that studies attribute to exposure to anthropogenic noise are likely to be more pronounced for birds than they are for mammals.
+D. some studies of birds found larger effects of exposure to anthropogenic noise than some studies of mammals did.
+Answer: D
+
+Question 2:
+[Infer]
+Which choice most logically completes the text?
+
+Anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Amy Morris-Drake and colleagues found in a 2017 study of dwarf mongooses. A meta-analysis of more than 100 such studies examining various species found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group, regardless of whether that difference was beneficial or detrimental for the exposed group. So while a study of fish might show a difference that benefits the exposed group, and a study of mammals might show a difference that's harmful to the exposed group, both differences are substantial. Therefore, the results of the meta-analysis suggest that ______.
+
+
+A. the studies in the meta-analysis that examined mammals were more likely than those about fish to specify whether the observed effects were detrimental.
+B. the study conducted by Amy Morris-Drake and colleagues found substantial differences, but studies included in the meta-analysis of mammals other than dwarf mongooses likely did not.
+C. the studies of the fish likely found significantly larger effects of exposure to anthropogenic noise than most studies of mammals except the study of dwarf mongooses by Amy Morris-Drake and colleagues.
+D. exposure to anthropogenic noise will likely have noticeable effects both on mammals such as dwarf mongooses and on fish such as common carp, but the nature of that effect could be very different for the two species.
+Answer: D
+
+Question 3:
+[Infer]
+Which choice most logically completes the text?
+
+Prolonged exposure to anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Debra M. Shier and colleagues found in a 2012 study of Stephens kangaroo rats. Researchers conducted a meta-analysis of studies of how such noise affects animals and found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group. Although, on average, studies of mammals showed larger differences than studies of amphibians did, for every class of animals examined, there were individual studies showing differences well above the average for mammals. Therefore, the results of the meta-analysis suggest that ______.
+
+
+A. some studies of amphibians found larger effects of exposure to anthropogenic noise than some studies of mammals did.
+B. the studies in the meta-analysis that examined mammals were more likely than those that examined amphibians to specify whether the observed effects were detrimental.
+C. the differences that studies attribute to exposure to anthropogenic noise are likely to be more pronounced for amphibians than they are for mammals.
+D. the difference found in the study conducted by Debra M. Shier and colleagues was likely larger than the average difference for studies of Stephens kangaroo rats included in the meta-analysis.
+Answer: A
+
+Question 4:
+[Infer]
+Which choice most logically completes the text?
+
+Research such as the 2015 study of fish by Kirsty Elizabeth McLaughlin and Hansjoerg P. Kunc has shown that noise from human activity, like traffic on a busy highway, has significant effects on animals, and many governments require studies of the potential noise effects on wildlife before approving highway construction projects. A report on one such study proposed many more actions to mitigate the effects on amphibians in the area than it did to mitigate the effects on fish in the area. Despite the lack of focus on measures specifically for fish, conservationists were satisfied that the proposed mitigations were sufficient to protect all the wildlife in the area because ________.
+
+
+A. the effects of noise on amphibians have been less extensively documented than the effects on fish have.
+B. the measures intended to protect amphibians can sometimes have adverse effects on fish.
+C. the severity of the effects of noise on different species of amphibians can differ significantly.
+D. the measures aimed at protecting amphibians will likely also minimize most of the effects on fish.
+Answer: D
+
+Question 5:
+[Infer]
+Which choice most logically completes the text?
+
+Research such as the 2010 study of arthropods by Alvin Aden Yim-Hol Chan and colleagues has shown that noise from human activity, like traffic on a busy highway, has significant effects on animals, and many governments require studies of the potential noise effects on wildlife before approving highway construction projects. A report on one such study proposed many more actions to mitigate the effects on birds in the area than it did to mitigate the effects on arthropods in the area. Despite the lack of focus on measures specifically for arthropods, conservationists were satisfied that the proposed mitigations were sufficient to protect all the wildlife in the area because _____.
+
+
+A. the measures aimed at protecting birds will likely also minimize most of the effects on arthropods.
+B. the severity of the effects of noise on different species of birds can differ significantly.
+C. the effects of noise on birds have been less extensively documented than the effects on arthropods have.
+D. the measures intended to protect birds can sometimes have adverse effects on arthropods.
+Answer: A

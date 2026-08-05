@@ -1,0 +1,97 @@
+Question 1:
+[COE]
+Which choice best describes data from the table that support the underlined claim?
+
+**Note:** Composition values may not add up to 100 due to rounding.
+High-entropy alloys (HEAs) have been observed to vary considerably in their resistance to crack propagation, a quality denoted as fracture toughness. It has been proposed that high levels of fracture toughness in HEAs are due to the use of arc melting during processing, but __data on HEAs compiled by engineer Xuesong Fan challenge that proposal and raise the possibility of an alternative explanation__.
+
+
+A. HEA 18 was processed using arc melting but has low fracture toughness, and there appears to be a positive association between the proportion of an HEA that consists of cobalt, chromium and nickel and an HEA’s fracture toughness.
+B. HEA 1 was not processed using arc melting but has relatively high fracture toughness, and there appears to be no association between the proportion of an HEA that consists of iron and an HEA’s fracture toughness.
+C. HEA 15 was processed using arc melting and has the highest fracture toughness, whereas HEA 25 was not processed using arc melting and has relatively low fracture toughness.
+D. HEA 5 was processed using arc melting but has relatively low fracture toughness, and the HEA with the lowest fracture toughness is the only HEA that contains niobium or titanium.
+Answer: A
+
+Question 2:
+[COE]
+Which choice best describes data from the table that support the underlined claim?
+
+**Note:** Composition values may not add up to 100 due to rounding.
+High-entropy alloys (HEAs) have been observed to vary considerably in their resistance to crack propagation, a quality denoted as fracture toughness. It has been proposed that high levels of fracture toughness in HEAs are due to the use of arc melting during processing, and __data on HEAs compiled by engineer Xuesong Fan support this proposal.__
+
+
+A. HEA 18 was processed using arc melting but has low fracture toughness, and there appears to be a positive association between the proportion of an HEA that consists of cobalt, chromium and nickel and an HEA’s fracture toughness.
+B. HEA 1 was not processed using arc melting but has relatively high fracture toughness, and there appears to be no association between the proportion of an HEA that consists of iron and an HEA’s fracture toughness.
+C. HEA 15 was processed using arc melting and has the highest fracture toughness, whereas HEA 25 was not processed using arc melting and has relatively low fracture toughness.
+D. HEA 5 was processed using arc melting but has relatively low fracture toughness, and the HEA with the lowest fracture toughness is the only HEA that contains niobium or titanium.
+Answer: C
+
+Question 3:
+[COE]
+Which statement, if true, would account for data shown in the graph and would illustrate the point made by the researchers?
+
+Chesapeake Bay seagrass meadows constitute crucial habitats for many aquatic species. Historically, eelgrass has been predominant, but widgeon grass is proving better suited to recent increases in sea temperature, tolerating heat better and growing faster than eelgrass does. Although the increase in widgeon grass has been associated with a substantial increase in total seagrass coverage in the bay, researchers caution that the latter change does not necessarily make the seagrass ecosystem as a whole more resilient to environmental shocks.
+
+
+
+A. In early 2018, a fungal infection that affects widgeon grass and eelgrass but does not affect other types of seagrass spread through the bay.
+B. Water temperatures in the bay increased slowly from 2012 to 2018, but in early 2019 there was an unexpectedly large increase in temperatures, which reached levels that can be tolerated by few seagrass species other than widgeon grass.
+C. Between 2012 and 2017, the total area covered by widgeon grass and the total area covered by all types of seagrass increased as water temperatures in the bay increased.
+D. In early 2019, unusually heavy rains washed excessive nutrients into the bay, leading to algal blooms that prevented sunlight from reaching many seagrass species.
+Answer: D
+
+Question 4:
+[COE]
+Which statement, if true, would account for data shown in the graph and would illustrate the point made in the passage?
+
+Chesapeake Bay seagrass meadows constitute crucial habitats for many aquatic species. Historically, eelgrass has been predominant, but widgeon grass is proving better suited to recent increases in sea temperature, tolerating heat better and growing faster than eelgrass does. An analysis of seagrass populations from 2012 to 2018 suggests that the expansion of widgeon grass was the main driver of the corresponding growth in the bay's total seagrass coverage. The data supports this conclusion by showing that ______.
+
+
+
+A. In early 2018, a fungal infection that affects widgeon grass and eelgrass but does not affect other types of seagrass spread through the bay.
+B. Water temperatures in the bay increased slowly from 2012 to 2018, but in early 2019 there was an unexpectedly large increase in temperatures, which reached levels that can be tolerated by few seagrass species other than widgeon grass.
+C. Between 2012 and 2017, the total area covered by widgeon grass and the total area covered by all types of seagrass increased as water temperatures in the bay increased.
+D. In early 2019, unusually heavy rains washed excessive nutrients into the bay, leading to algal blooms that prevented sunlight from reaching many seagrass species.
+Answer: C
+
+Question 5:
+[COE]
+Which choice most effectively uses data from the table to complete the text?
+
+High-entropy alloys (HEAs) have been observed to have greater fracture toughness—greater resistance to crack propagation—than conventional alloys. It has been proposed that fracture toughness increases with the proportion of an HEA consisting of cobalt, but data on HEAs compiled by engineer Xuesong Fan show that this is not the case; for example, ______.
+
+
+A. cobalt constitutes the same proportion of HEA 7 as it does of HEA 95.
+B. cobalt constitutes a higher proportion of HEA 15 than it does of HEA 7.
+C. cobalt constitutes a substantial proportion of HEA 15 but does not constitute any of HEA 51.
+D. cobalt constitutes a different proportion of HEA 25 than it does of HEA 7.
+Answer: A
+
+Question 6:
+[COE]
+Which choice best describes data from the table that support the underlined claim?
+
+**Note:** Composition values may not add up to 100 due to rounding.
+High-entropy alloys (HEAs) have been observed to vary considerably in their resistance to crack propagation, a quality denoted as fracture toughness. It has been proposed that high levels of fracture toughness in HEAs are due to the use of arc melting during processing, but __data on HEAs compiled by engineer Xuesong Fan challenge that proposal and raise the possibility of an alternative explanation__.
+
+
+A. HEA 18 was processed using arc melting but has low fracture toughness, and there appears to be a positive association between the proportion of an HEA that consists of cobalt, chromium and nickel and an HEA’s fracture toughness.
+B. HEA 1 was not processed using arc melting but has relatively high fracture toughness, and there appears to be no association between the proportion of an HEA that consists of iron and an HEA’s fracture toughness.
+C. HEA 15 was processed using arc melting and has the highest fracture toughness, whereas HEA 25 was not processed using arc melting and has relatively low fracture toughness.
+D. HEA 5 was processed using arc melting but has relatively low fracture toughness, and the HEA with the lowest fracture toughness is the only HEA that contains niobium or titanium.
+Answer: A
+
+Question 7:
+[COE]
+Which choice best describes data from the table that support the underlined claim?
+
+**Note:** Composition values may not add up to 100 due to rounding.
+High-entropy alloys (HEAs) have been observed to vary considerably in their resistance to crack propagation, a quality denoted as fracture toughness. It has been proposed that high levels of fracture toughness in HEAs are due to the use of arc melting during processing, and __data on HEAs compiled by engineer Xuesong Fan support this proposal.__
+
+
+A. HEA 18 was processed using arc melting but has low fracture toughness, and there appears to be a positive association between the proportion of an HEA that consists of cobalt, chromium and nickel and an HEA’s fracture toughness.
+B. HEA 1 was not processed using arc melting but has relatively high fracture toughness, and there appears to be no association between the proportion of an HEA that consists of iron and an HEA’s fracture toughness.
+C. HEA 15 was processed using arc melting and has the highest fracture toughness, whereas HEA 25 was not processed using arc melting and has relatively low fracture toughness.
+D. HEA 5 was processed using arc melting but has relatively low fracture toughness, and the HEA with the lowest fracture toughness is the only HEA that contains niobium or titanium.
+Answer: C
+

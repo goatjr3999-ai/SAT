@@ -1,0 +1,352 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Postcranial skeletal pneumaticity (PSP) refers to the presence of extensions of an animal's lungs and air sacs inside its bones. Though such structures do not typically fossilize, they are believed to have been present in *Tyrannosaurus*, *Euhelopus*, and other Cretaceous theropods and sauropods. To ______ PSP from fossils, researchers look for indicators such as large foramina (holes in bones).
+
+A. infer
+B. acquire
+C. isolate
+D. preserve
+Answer: A
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In 2017, Belgium, which has strong democratic institutions, experienced an inflation rate of 2.12%, much higher than the 0.74% rate seen in Equatorial Guinea, which has relatively weak democratic institutions. Such a result is ______, however: Raj Desai et al. have shown that democratic institution strength tends to restrain inflationary pressures.
+
+A. inexplicable
+B. unfounded
+C. facetious
+D. anomalous
+Answer: D
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Some robots such as Saika (developed in 1996) and Poppy (developed in 2013) are designed to resemble humans so that people will find it easier to interact with them. To that end, certain features such as bipedal locomotion can help to ______ the effect of the more unnatural aspects of a robot's appearance, but a robot that looks too human can fall into the "uncanny valley," meaning that its appearance unintentionally unsettles those who encounter it.
+
+A. ameliorate
+B. coalesce
+C. augment
+D. substantiate
+Answer: A
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Demosthenes, a prominent fourth-century BCE Athenian orator, is said to have been ______ of *parrhesia*, or speaking freely and openly to ensure productive civic deliberation. He is noted for characterizing *parrhesia* in several public addresses as the foundation of democracy in classical Athens rather than, more simply, as a facilitator of the political system.
+
+A. a proponent
+B. a steward
+C. an apprentice
+D. a harbinger
+Answer: A
+
+Question 5:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Roy McLendon's *Moonlit St. Lucie*, a riverscape featuring the silhouette of a single palm tree against the backdrop of shimmering water and a brilliant moonlit sky, is typical of paintings by the Florida Highwaymen, loosely affiliated landscape artists mainly active in Fort Pierce, Florida, during the 1950s and '60s. Some art historians suggest that Highwaymen paintings played a role in shaping popular perceptions of the state that persist today: the natural iconography that McLendon and colleagues constantly revisited—placid inland rivers, windswept palm trees—is now seen as classically Floridian.
+
+A. To describe the historical circumstances in which paintings by the Florida Highwaymen experienced a resurgence in popularity.
+B. To explain that a particular painting by Roy McLendon has had greater influence on the broader culture of the state of Florida than is generally acknowledged.
+C. To contrast the public's reaction during the 1950s and '60s to a particular painting by Roy McLendon with more recent reactions to it.
+D. To present the argument that paintings by the Florida Highwaymen likely helped to create a particular widespread impression of Florida.
+Answer: D
+
+Question 6:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+*Chorioactis geaster*, a species of mushroom that makes a distinctive hissing sound when it releases its spores, is an elusive fungus that has been observed only in Texas and Oklahoma in the US and in the Miyazaki and Nara Prefectures in Japan. Scientists aren't entirely sure why *C. geaster* is distributed in this way (genetic analysis reveals that the US and Japanese strains diverged 19 million years ago), but the mushroom appears to be very selective: __it is typically found on the decaying stumps and roots of only a few tree species that are abundant in these areas.__
+
+A. It provides an explanation for the relationship between *C. geaster* and its habitats.
+B. It highlights the negative impact *C. geaster* has on the trees on which it's found.
+C. It emphasizes the uncertainty about *C. geaster* alluded to earlier in the text.
+D. It elaborates on a characterization of *C. geaster* presented earlier in the text.
+Answer: D
+
+Question 7:
+[COE]
+Which choice best describes the main purpose of the text?
+
+In Egypt, use of solid fuel (e.g., coal, wood) as a share of total household fuel use fell by more than 90 percent between 2000 and 2015; such shifts are often explained by appeal to the energy ladder, a model holding that fuel choice is mediated mainly by household income (specifically, high-technology fuels displace solid fuels as incomes rise). Alemu Mekonnen and Gunnar Köhlin's study of fuel use in Ethiopia shows this model to be reductive, however: household fuel use was heterogeneous, flexible, and influenced by several factors, including the local availability of different fuel sources.
+
+A. To contrast patterns in household fuel use in two countries.
+B. To account for the effect of fuel use on household income.
+C. To critique a frequently used model of changes in household fuel prices.
+D. To challenge a common explanation for households' fuel choices.
+Answer: D
+
+Question 8:
+[COE]
+Based on the text, Lady Howard would most likely agree with which statement about Reverend Villars?
+
+The following text is adapted from Fanny Burney's 1778 novel *Evelina*. The text is an excerpt from a letter by Lady Howard to Evelina's guardian, Reverend Villars, in which Lady Howard discusses an upcoming trip to London planned by her daughter Mrs. Mirvan's family.
+
+It is very earnestly [the Mirvans'] wish to enlarge and enliven their party by the addition of your amiable ward, who would share, equally with her own daughter, the care and attention of Mrs. Mirvan. Do not start at this proposal; it is time that [Evelina] should see something of the world. When young people are too rigidly sequestered from it, their lively and romantic imaginations paint it to them as a paradise of which they have been beguiled; but when they are shown it properly, and in due time, they see it such as it really is, equally shared by pain and pleasure, hope and disappointment.
+
+A. Although the manner in which he has raised Evelina is in many ways exemplary, he has been misguided in shielding her from the influence of other young people.
+B. Although his desire to guard Evelina from unscrupulous people is commendable, his general mistrust has led him to be unduly wary of the Mirvans.
+C. He is overly protective of Evelina, who would likely benefit from a greater variety of experiences than she has had thus far.
+D. He has imparted to Evelina his own idealistic view of the world, which results in her being unprepared to face inevitable disappointments.
+Answer: C
+
+Question 9:
+[COE]
+Which quotation from a music streaming platform user would best illustrate Walsh's finding?
+
+Many music streaming services also function as social media platforms: by giving users the option to follow friends and share curated playlists or information about their listening history, these platforms allow people to convey their music preferences and listening activities directly to their social networks. In a 2023 study, researcher Michael James Walsh interviewed frequent users of a popular music streaming platform to investigate how its social media dimensions shape their listening habits. Walsh found that these dimensions tended to make study participants feel more mindful of how their listening activities may be perceived, which in turn influenced how they managed those activities.
+
+A. "Listening to music through a streaming platform feels a lot more passive, since I don't need to make any deliberate choices about what music I'm going to consume, like I do when buying digital downloads or records and CDs."
+B. "When I create playlists or choose songs to listen to, I often pick songs that I think the friends who are following me might be interested in listening to, rather than what I might actually prefer listening to in that moment."
+C. "Because the predictions the platform makes about what new songs I might like depend on my past listening habits, at times its recommendations can feel overly repetitive and unvarying."
+D. "The social aspects of music streaming make it really easy to create a sense of a shared listening experience with my friends, even if we aren't in the same room."
+Answer: B
+
+Question 10:
+[COE]
+Which quotation from a historian best supports the student's claim?
+
+A student is writing a research paper on the history of irrigation in the southwestern United States, situating the development of Searsville Lake (a man-made body of water created in San Mateo County, California, in 1890) in a larger historical context. The student claims that some modern-day irrigation methods used in southwestern states, such as California, Arizona, and New Mexico, have a lineage that long predates the completion of Searsville Lake.
+
+A. "The irrigation system developed by the Hohokam people in what is now central Arizona in the 7th century CE was simple but made use of hydraulic engineering design principles that are still utilized by today's engineers."
+B. "The importance of the development of irrigation infrastructure in the American Southwest today cannot be overstated, since it is the most common means of conveying water for food production."
+C. "In the decades following the Second World War, irrigation of arid areas for agriculture increased to such a degree that it now accounts for roughly 70% of the world's water usage."
+D. "Sprinkler irrigation systems, which were developed in the late 20th century, are a convenient technique of irrigating that makes use of machinery in order to spray water in all directions. Many areas of the Southwestern United States are currently irrigated by this method."
+Answer: A
+
+Question 11:
+[COE]
+Which choice most effectively uses data from the table to complete the example?
+
+TRAPPIST-1 is a planetary system with a central red dwarf star and several Earth-sized exoplanets. Each planet in this system is so close in orbit to the star that the gravitational forces acting between the planet and the star cause the planet's rotational period around its axis and orbital period around the star to be equal. For example, the orbital period of TRAPPIST-1e is ______
+
+A. 6.1 days, and its rotational period is 0.92 days.
+B. 1.51 days, which is the shortest rotational period of any of the TRAPPIST planets.
+C. 6.1 days, and its rotational period is also 6.1 days.
+D. 9.21 days, which is the same as the rotational period of TRAPPIST-1f.
+Answer: C
+
+Question 12:
+[COE]
+Which choice most effectively uses a quotation from a translation of *The Clouds* to illustrate the claim?
+
+*The Clouds* is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught customers rhetorical techniques to use in public speaking, along with providing instruction in other subjects. In the play, Aristophanes satirizes sophists as having an exaggerated sense of their own wisdom, as seen when the character ______
+
+A. Socrates, a sophist, says to a customer, "You talk nonsense. Begone; I can't teach you any longer."
+B. Strepsiades says of a sophist business, "There dwell men who in speaking of the heavens persuade people that it is an oven, and that it encompasses us, and that we are the embers. These men teach, if one give them money, to conquer in speaking, right or wrong."
+C. Strepsiades encourages his son to learn to be a sophist, saying, "Go, I entreat you, dearest of men, go and be taught."
+D. Socrates, a sophist, says to a new customer, "Come, then, take care that, whenever I propound any clever dogma about abstruse matters, you [seize] immediately."
+Answer: D
+
+Question 13:
+[COE]
+Which choice most effectively uses data from the table to complete the example?
+
+Mountain summits are often described in terms of their elevation, or height above sea level. But a summit's elevation may not be as good an indication of how high the mountain appears to observers as is the summit's prominence, or its height above its surroundings, and these values can differ significantly. For example, the Indian mountain of ______
+
+A. Saser Kangri I / K22 has an elevation of 7,672 meters and is considered the highest mountain from the Saser Karakoram range.
+B. Nanda Devi has a much higher prominence than does Langpo.
+C. Nanda Devi has a high prominence but is from a different mountain range than Rimo I, which has a lower prominence.
+D. Nanda Devi has an elevation of 7,816 meters but a considerably lower prominence of 3,139 meters.
+Answer: D
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Omar Asensio and colleagues used machine-learning algorithms to examine consumer reviews of 12,720 electric-vehicle (EV) charging stations in the US. They found that privately owned or managed charging stations at or near restaurants and convenience stores had relatively low proportions of negative reviews, while stations at or near car rental companies had significantly higher proportions of negative reviews. Additionally, stations at or near car rental companies tend to require consumers to pay full price to use them, while stations elsewhere often offer subsidized or even complimentary charging. Assuming that stations at different sites provide roughly equivalent levels of service, these results suggest that ______
+
+A. EV owners are usually unaware of the fees for using charging stations.
+B. EV drivers are more likely to visit areas with many restaurants and convenience stores than they are to visit areas with fewer such businesses.
+C. charging stations located near car rental companies are more frequently visited than charging stations located near restaurants and convenience stores.
+D. users who are offered a discount have lower expectations of the quality of charging stations than users who are not offered a discount do.
+Answer: D
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+Many contemporary Indigenous painters practice a specifically Indigenous mode of abstraction; for example, Starr Hardridge often assembles compositions out of motifs common in the traditional beadwork and graphic art of his tribe. In contrast, the prominent Indigenous practitioners of abstract painting during the mid-twentieth century, such as the Southern Cheyenne artist Dick West, typically aligned their compositional strategies with Abstract Expressionism—a school of painting dominated by European American artists—instead of with traditionally nonrepresentational forms of Indigenous art. Thus, in the case of West's generation, the identification of an abstract painting as Indigenous art tends to ______
+
+A. deny the extent to which cultural identity influences an artist's work.
+B. depend not on stylistic details but instead on an awareness of the artist's identity.
+C. obscure the Indigenous origins of certain motifs associated with Abstract Expressionism.
+D. place a greater emphasis on the artist's biography than on the aesthetic merit of the painting.
+Answer: B
+
+Question 16:
+[Infer]
+Which choice most logically completes the text?
+
+Whereas Joan Lockard's 1984 study of captive gorillas reported more right-handedness than left-handedness, Jane Goodall's 1963 study of wild chimpanzees did not. According to a meta-analysis of studies of nonhuman primates, captive populations are more likely to be described as right-handed than wild populations are. Statistical analysis indicates a handedness study would need a minimum of 176 individuals to show a representative result; however, the study by Lockard included a total population of 8, and the study by Goodall included a total population of 8. This suggests that ______
+
+A. the study by Lockard reliably represents handedness in captive primates but not in wild primates.
+B. Goodall likely underestimated the prevalence of right-handedness among the wild chimpanzees in the study.
+C. neither the study by Lockard nor the study by Goodall provides sufficient evidence to make a meaningful comparison about handedness in primates.
+D. the study by Lockard reliably represents handedness in captive primates, but the study by Goodall likely does not reliably represent handedness in wild primates.
+Answer: C
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In rural Minnesota, ecologist Leroy Walston conducted a study to determine whether seeding solar panel fields with wildflowers could bolster pollinator populations in nearby food crops. Walston's findings indicate that—assuming solar panel installers' ______ practice has the potential to increase the number of native bees in crops near solar fields throughout the Midwest by up to 20 percent.
+
+A. cooperation this
+B. cooperation: this
+C. cooperation—this
+D. cooperation, this
+Answer: C
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+George Saunders concludes his essay "What Writers Really Do When They Write" by comparing the work of fiction writing to the act of juggling. The author-as-juggler performs a ______ gathering of central themes and tensions, the tossing of these elements into a dynamic narrative, and the catching of the resolutions that emerge.
+
+A. routine; the
+B. routine, the
+C. routine. The
+D. routine: the
+Answer: D
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Funafuti, the capital of Tuvalu, has a population of 4,492, which accounts for 45.48 percent of the country's total population. Having proportionally large populations ______ common for national capitals.
+
+A. have been
+B. is
+C. were
+D. are
+Answer: B
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In her work, Ponca artist Julie Buffalohead uses mythical animal imagery to create fairytale-esque drawings and paintings. Since 1989, Indianapolis's Eiteljorg Museum has celebrated the work of groundbreaking contemporary Native ______ in 2013, it awarded Buffalohead one of its prestigious artist fellowships.
+
+A. artists, thus
+B. artists,
+C. artists and
+D. artists;
+Answer: D
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+If an animal can recognize itself in a reflective surface ("the mirror test"), it is considered to have self-awareness. In a recent study, scientists ______ for evidence of self-awareness in snakes, species that rely primarily on olfactory rather than visual processing, adapted the test to foreground smell, modifying the scent trails of North American eastern garter snakes and African ball pythons.
+
+A. searched
+B. were searching
+C. have searched
+D. searching
+Answer: D
+
+Question 22:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The parks of Columbus, Ohio, seem to be making people happier. In 2022, a team of researchers ______ to find connections between the physical location in which a social media post was created and the content of that post analyzed geotagged social media posts from various sites in Columbus. The team found that posts from the city's parks contained more words associated with happiness than did the other posts.
+
+A. were hoping
+B. was hoping
+C. hoped
+D. hoping
+Answer: D
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A team of ornithologists documented patterns of conspecific brood parasitism among wood ducks (*Aix sponsa*) in California. The researchers observed several female wood ducks visiting dozens of nesting sites and laying eggs to be incubated by other nesting *A. sponsa*. Subject 7F64B, ______ visited a select few nesting sites before laying and incubating her eggs herself.
+
+A. for example,
+B. in particular,
+C. similarly,
+D. alternatively,
+Answer: D
+
+Question 24:
+[Synthesis]
+The student wants to indicate how long John Cage's musical piece will last. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• "Organ²/ASLSP (As Slow as Possible)" is a musical piece by avant-garde composer John Cage.
+• A specially designed automated organ in St. Burchardi Church in Halberstadt, Germany, began playing the piece in 2001.
+• It is scheduled to stop playing the piece in 2640.
+• The performance will last 639 years.
+• It will be the longest continuous musical performance in history.
+
+A. Lasting 639 years, John Cage's musical piece will be the longest continuous musical performance in history.
+B. "Organ²/ASLSP (As Slow as Possible)" is a musical piece currently being played in St. Burchardi Church in Halberstadt, Germany.
+C. An organ in St. Burchardi Church in Halberstadt, Germany, began playing a musical piece by avant-garde composer John Cage.
+D. John Cage is the composer of the musical piece "Organ²/ASLSP (As Slow as Possible)".
+Answer: A
+
+Question 25:
+[Synthesis]
+The student wants to compare the sizes of the two mountain ranges. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• The Peloncillo-Pan Duro Mountains are located in northwestern Mexico.
+• They cover an area of 1,360 square miles (mi²).
+• The Sierrita Mountains are located in the southwestern United States.
+• They cover an area of 63 mi².
+• These mountain ranges are two of the dozens of "sky islands" in the southwestern US and northwestern Mexico.
+• A sky island is an isolated mountain range whose environment differs drastically from that of the surrounding lowlands.
+
+A. There are dozens of isolated mountain ranges located in the southwestern US and northwestern Mexico.
+B. In terms of area, the Peloncillo-Pan Duro Mountains (which cover 1,360 mi²) are larger than the Sierrita Mountains (63 mi²).
+C. Sky islands in northwestern Mexico and the southwestern US can vary in size.
+D. The Peloncillo-Pan Duro Mountains and the Sierrita Mountains are both isolated mountain ranges whose environments differ drastically from that of the surrounding lowlands.
+Answer: B
+
+Question 26:
+[Synthesis]
+The student wants to describe how DLS cures 3D objects. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Digital Light synthesis (DLS) is a form of additive manufacturing that utilizes light to rapidly cure liquid resin into high-quality, 3D objects.
+• Step 1: Ultraviolet (UV) light images are projected up into a pool of liquid resin, where the object's first layer takes shape.
+• Step 2: The partially cured resin object is raised, creating a thin space (a "dead zone") beneath it for oxygen and liquid resin to flow through.
+• Step 3: The UV light passes through the dead zone—maintaining the flow of resin—and partially cures additional layers of the object.
+• Step 4: When the resin object is complete, it is baked in an oven to complete the curing.
+
+A. DLS cures 3D objects by passing through a "dead zone," adding layers to the object, then curing the object in an oven.
+B. In DLS, UV light is projected into layers of liquid resin until the resin solidifies and passes through a "dead zone," wherein the curing is completed.
+C. In DLS, UV light images are projected into a liquid resin pool to cure a 3D object layer by layer; once solidified, the object is baked in an oven.
+D. DLS is a form of additive manufacturing that rapidly cures liquid resin into a 3D object in which UV light solidifies layer by layer before being baked in an oven, creating a high-quality, 3D object.
+Answer: C
+
+Question 27:
+[COE]
+Which choice most effectively uses information from the given sentences to begin a narrative about one of the athletes?
+
+While researching a topic, a student has taken the following notes:
+
+• Curtis Martin and Jim Brown had historic careers as running backs in the National Football League (NFL).
+• The running back position entails running, or rushing, down the field with the football to gain yards for the team.
+• Curtis Martin gained a total of 14,101 rushing yards in his career.
+• He played for the New England Patriots and the New York Jets.
+• Jim Brown gained a total of 12,312 rushing yards in his career.
+• He played for the Cleveland Browns.
+
+A. Martin began his career with the New England Patriots; Brown started with Cleveland Browns.
+B. When Martin put on his New England Patriots uniform for his first NFL game, he began what would become a legendary professional career.
+C. While Martin finished his career with more rushing yards, both Martin and Brown reached the career milestone of rushing for over 10,000 yards total.
+D. Martin's blend of speed, power, and agility helped him accrue 14,101 rushing yards by the end of his career, etching his name into the NFL's record books.
+Answer: B
+

@@ -1,0 +1,261 @@
+Question 243:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The observation that research articles by Stanford neuroscientist Elena J. Navarro, who investigates synaptic plasticity, are extensively referenced in other researchers’ publications _____ the significance of her findings to fellow scientists—other neuroscientists evidently regard her contributions as beneficial to their own investigations.
+
+
+A. eclipses
+B. accentuates
+C. contradicts
+D. precludes
+Answer: B
+
+Question 8:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The financial situation of playwrights in Elizabethan theater was often _____, but being as commercially successful as he was early in his career likely granted William Shakespeare security that contributed to his ability to later create Twelfth Night, Antony and Cleopatra, and other works still revered today.
+
+
+A. indecipherable
+B. justifiable
+C. predictable
+D. precarious
+Answer: D
+
+Question 31:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Often, the Nobel Prize in Chemistry is given to a single person, such as Frederick Sanger in 1958. But sometimes the Nobel Committee wants to reward work attributed to two or three individuals, in which case, the award is given ______. For instance, in 2008, Roger Y. Tsien was among those awarded for “the discovery and development of the green fluorescent protein, GFP.”
+
+
+A. reluctantly
+B. retroactively
+C. ceremoniously
+D. jointly
+Answer: D
+
+Question 152:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Sophia Kwan and Lorenzo Medina’s evaluation of predator-prey dynamics within the Serengeti ecosystem during the early 2000s revealed a compelling ______: despite frequent collapses of predator populations, the ecosystem maintained a substantially higher overall stability than the Yellowstone ecosystem of the late twentieth century, which ecologists regard as a paradigm of ecological equilibrium.
+
+
+A. harbinger
+B. epitome
+C. commendation
+D. enigma
+Answer: D
+
+Question 104:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Spanish words and phrases often appear in Sandra Cisneros’s short story “Eyes of Zapata.” Their meaning is implied by the surrounding English-language text. Ana Castillo’s approach to Spanish words and phrases in So Far from God is ______ Cisneros’s approach. Therefore, readers who aren’t familiar with Spanish can easily read both works.
+
+
+A. unfamiliar to
+B. frequent in
+C. difficult for
+D. similar to
+Answer: D
+
+Question 47:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The proportion of Indo-European dialects that a 2022 linguistic survey classified as either endangered or moribund surpasses previous scholarly calculations. Given how little ________ there is among linguists regarding the boundaries of these definitions, this variance shouldn't be unexpected; language specialists routinely challenge each other's taxonomies.
+ 
+
+
+A. concord
+B. cogitation
+C. engrossment
+D. circumspection
+Answer: A
+
+Question 199:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Historical Dictionary of Science Fiction is a crowdsourced project started in 2001 by lexicographer Jesse Sheidlower to record terms that originated in science fiction. Volunteers share digitized excerpts from personal collections of sci-fi magazines not typically preserved in libraries—____ that allow the earliest uses of phrases such as “warp speed” (1952) to be identified and added to the dictionary.
+
+
+A. contributions
+B. resolutions
+C. justifications
+D. negotiations
+Answer: A
+
+Question 191:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Despite stated claims of global relevance, much major research on income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later ____ this shortcoming after gaining new access to administrative records located in nations in Africa, such as Ivory Coast, and Eastern Europe, such as Poland.
+
+
+A. postulate
+B. ameliorate
+C. sanction
+D. rationalize
+Answer: B
+
+Question 225:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Often, the Nobel Prize in Chemistry is given to a single person, such as Artturi Ilmari Virtanen in 1944. But scientists recognized with a Nobel Prize do not often conduct their work in _____ the scientific community. Instead, success in fields like chemistry is usually achieved through direct cooperation with other experts, as was the case for Frederick Sanger, who was among those awarded for “the development of chemical and biological analyses of DNA structure”.
+
+
+A. competition with
+B. isolation from
+C. deference to
+D. collaboration with
+Answer: B
+
+Question 197:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Whereas researchers long thought the Congo rainforest constrained the initial expansion of Bantu-speaking peoples (which today include the Kuria in Tanzania and the Shona in Zimbabwe) across subequatorial Africa, recent studies indicate that early Bantu communities managed to ___ the rainforest, a feat facilitated by drier conditions that opened up viable corridors through the vegetation.
+
+
+A. traverse
+B. decimate
+C. circumvent
+D. preserve
+Answer: A
+
+Question 77:
+[COE]
+Which choice completes the text with the most logical and precise word phrase?
+
+Using data from Sweden and nineteen other countries, Filazzola et al. compared sites where livestock grazing is active with sites where it has been eliminated. They found that wild-animal abundance positively correlated with duration of grazer exclusion, indicating that following the removal of livestock (e.g., donkeys), one adverse effect on co-occurring animal species imposed by grazing livestock may ______ over time.
+
+
+A. abound
+B. emanate
+C. abate
+D. prevail
+Answer: C
+
+Question 132:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+A data-transfer project is working to salvage large amounts of data from the Apollo Moon landings (1969–1972), as much of the crucial information gathered by radiation and lunar dust detectors is stored on now ______ technologies, making it inaccessible to researchers like Philip Metzger.
+
+
+A. abstruse
+B. prolific
+C. nascent
+D. defunct
+Answer: D
+
+Question 157:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The National Heritage Fellowship was created to honor exceptional folk and traditional artists in the United States. In 2006, the fellowship was given to the Puerto Rican stringed-instrument maker Donomedes Matos. Matos was ______ to receive it because of his lifetime contributions to the arts.
+
+
+A. designated
+B. averse
+C. befuddled
+D. precluded
+Answer: A
+
+Question 100:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In a garden, _____ the spread of unwelcome weeds such as horsetail weed can be difficult because weeds usually spread easily and quickly become unmanageable, making it hard to remove them completely.
+
+
+A. halting
+B. retrieving
+C. saving
+D. pretending
+Answer: A
+
+Question 194:
+[COE]
+Based on the text, when the narrator describes herself as “cheating,” what does she most likely mean?
+
+The following text is from Amy Tan’s 1989 novel The Joy Luck Club. The narrator describes practicing the piano when she was a child.
+"For the talent show, I was to play a piece called 'Pleading Child' from Schumann’s Scenes from Childhood. It was a simple, moody piece that sounded more difficult than it was. I was supposed to memorize the whole thing, playing the repeat parts twice to make the piece sound longer. But I dawdled over it, playing a few bars and then cheating, looking up to see what notes followed. I never really listened to what I was playing. I daydreamed about being somewhere else, about being someone else."
+
+
+A. She was gaining an unfair advantage over other contestants in the talent show.
+B. She was lying to herself about her musical ability.
+C. She was deceiving her piano teacher.
+D. She was violating an expectation about how to perform the piece.
+Answer: D
+
+Question 223:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Though most hoaxes perpetrated as jokes by mischievous users of Wikipedia, an online encyclopedia that almost anyone can freely edit, have quickly been detected and removed, a few entries that knowledgeable readers should have realized were _____, such as those for the town of Stone Ridge, Maryland, and the 18th-century forestry magnate Guillermo García, persisted on the site for many years before they were finally recognized as falsehoods and deleted.
+
+
+A. mandatory
+B. apocryphal
+C. authentic
+D. modest
+Answer: B
+
+Question 147:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Mexican Revolution (1910–1920) was followed by a period of flourishing literary production, with writers such as Laura Esquivel contributing to the _____ of poetry, fiction, essays, and more. Unfortunately, this flood of interesting writing has diverted scholarly attention from the equally fascinating work of nineteenth-century figures like Antonio Menendez de la Peña.
+
+
+A. outpouring
+B. overturning
+C. censure
+D. protection
+Answer: A
+
+Question 257:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although oil shocks—such as the 10% rise in oil prices in November 1970—can strongly affect individual consumers, Gbadebo Oladosu and colleagues have shown that at the level of national economies, their effects are often quite __________. The effect of recent oil shocks on the gross domestic product of Germany, for example, was only slightly greater than zero.
+
+
+A. variable
+B. persistent
+C. subdued
+D. beneficial
+Answer: C
+
+Question 20:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Though most hoaxes perpetrated as jokes by mischievous users of Wikipedia, an online encyclopedia that almost anyone can freely edit, have quickly been detected and removed, a few fictitious entries, such as those for the town of Stone Ridge, Maryland, and the 18th-century forestry magnate Guillermo Garcia, persisted on the site for many years before they were finally recognized as ___ and deleted.
+
+
+A. analyses
+B. fabrications
+C. enhancements
+D. revelations
+Answer: B
+
+Question 220:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In recent years, the technology startup industry in Lebanon has witnessed significant growth and has become a magnet for investors. However, like any burgeoning industry, there are certain loopholes and pitfalls that need to be addressed to ensure sustained growth and mitigate risks for investors. To tackle these challenges, Lebanon has implemented a series of measures, which have successfully _____ the fears of investors.
+
+
+A. repudiated
+B. mollified
+C. amplified
+D. designated
+Answer: B

@@ -1,0 +1,122 @@
+Question 1:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Saturn is the first planet in our solar system to be discovered to have more than 100 moons orbiting around it. A team of astronomers using the Canada-France-Hawaii Telescope (CFHT) in Hawaii detected 62 undiscovered moons that were previously too small or too dim to see. Saturn now outranks Jupiter as the planet in our solar system with the most observed moons.
+
+A. To note a new finding about the number of Saturn’s moons
+B. To explain how the CFHT works
+C. To describe the atmospheric conditions of Jupiter
+D. To discuss the history of Hawaii
+Answer: A
+
+Question 2:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Companies are providing consumers with more opportunities to purchase customized products than ever before. Whether buying customized sneakers, jewelry, or clothing, consumers can participate in the design of products to meet their specific needs and tastes. In turn, companies profit too: studies have shown that consumers are willing to pay more and wait longer for a customized product. Still, it can be difficult for companies to offer customization while keeping costs low, as the standard methods of mass production may not be able to accommodate making a unique product each time.
+
+A. It describes a company’s recent success with new products and then explains multiple factors that may have contributed to that success.
+B. It discusses several recent innovations in product manufacturing and then suggests some potential applications of those innovations.
+C. It presents two contrasting product-marketing techniques and then provides examples of one of those techniques.
+D. It introduces a trend in consumer products and then explains how the trend both benefits and poses a challenge to companies.
+Answer: D
+
+Question 3:
+[Structure]
+Which choice best states the main idea of the text?
+
+Spanning the 1920s to the 1980s, Mexican architect Luis Barragán’s prolific career evolved through distinct phases. After traveling to the United States and Europe in the early 1930s and immersing himself in an international architectural discourse, Barragán began incorporating principles derived from functionalism and modernism in his work, as seen in the Chávez Peón de Ochoa House, whose unadorned geometric forms contrast with the historically inspired architecture found in the Aguilar House, one of Barragán’s early projects in Guadalajara*.*
+
+A. Barragán’s designs of the Chávez Peón de Ochoa House and the Aguilar House are considered paragons of a functionalist and modernist aesthetic.
+B. A notable shift in Barragán’s design aesthetic reflects the influence of his time abroad.
+C. Barragán’s early work shows an initial dedication to a modernist aesthetic that he later abandoned.
+D. Barragán’s design of the Aguilar House is considered more experimental than his design for the Chávez Peón de Ochoa House.
+Answer: B
+
+Question 4:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Argyroxiphium sandwicense is a species in a family of plants known collectively as the silversword alliance, all of which grow only on the Hawaiian Islands. Members of this alliance exhibit an extraordinary range of phenotypes, with some species maturing into vines and others into shrubs and trees. All species in the alliance descended from a single ancestral tarweed plant that arrived on the islands around 5 million years ago. The tarweed’s descendants diversified into distinct species as they adapted to live in the wide variety of habitats found on the Hawaiian Islands.
+
+A. To advance the claim that all plants on the Hawaiian Islands are part of the silversword alliance and list possible ancestors of the plants that make up the alliance
+B. To indicate the specific tarweed ancestor of all plants that grow on the Hawaiian Islands and explain why the plants have such varied physical characteristics
+C. To describe the silversword alliance and explain how the plant family became so varied
+D. To describe the specific habitat where Argyroxiphium sandwicense are found and identify other plants that share a common ancestor with them
+Answer: C
+
+Question 5:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Many people use the trademark “Kleenex” to refer generally to facial tissue rather than specifically to products made by Kimberly-Clark, the company that owns the trademark. As legal experts note, this may pose a problem for Kimberly-Clark. In the US, courts can cancel a trademark if they decide that its meaning is no longer specific to the trademark owner’s products. If “Kleenex” were judged to have become a generic term, as “cellophane” was, other companies would be free to use it to promote similar products, making it harder for Kimberly-Clark to stand out from competitors.
+
+A. To discuss the legal challenges Kimberly-Clark faces in maintaining the trademark “Kleenex.”
+B. To explain how genericization of trademarks can impact brand exclusivity and market competition.
+C. To compare the trademark issues faced by “Kleenex” and “cellophane” in the US market.
+D. To argue that consumers should use specific brand names instead of generic terms for products.
+Answer: B
+
+Question 6:
+[Structure]
+Which choice best states the main topic of the text?
+
+Yingguang Frank Chan and colleagues have explored how convergent evolution—a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages—can result from a genetic mechanism shared by both lineages. Meanwhile, Patricia J. Wittkopp and colleagues have investigated how convergence occurs through different genetic mechanisms. However, the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.
+
+A. Whether studies of convergent evolution should focus on lineages that share the same underlying genetic mechanism
+B. How a particular study of convergent evolution relates to some other studies in the field
+C. What kinds of traits are most likely to arise convergently in several lineages
+D. Why convergent evolution is particularly difficult for biologists to study
+Answer: B
+
+Question 7:
+[Structure]
+Which choice best states the main idea of the text?
+
+The following text is from a translation of María Dueñas’s 2009 novel The Time in Between.
+The narrator has just rented an apartment and is entering it for the first time.
+"Over the years there have been many times when my destiny has delivered me unexpected moments, unforeseen twists and turns that I’ve had to handle on the fly as they appeared. Occasionally I was ready for them; very often I wasn’t. Never, however, was I so aware of entering a new stage as I was that afternoon in October when I finally dared to cross the threshold and my steps sounded hollowly in the unfurnished apartment. Behind me was a complicated past, and in front of me, like an omen, I could see a space opening out, a great empty space that time would take care of filling up."
+
+A. The narrator feels optimistic about the future success of a new business.
+B. The narrator recognizes that a particular moment marks a major shift in her life.
+C. The narrator has always had a plan for how to handle big moments in her life.
+D. The narrator wants to express her gratitude for the people who have helped her.
+Answer: B
+
+Question 8:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+The rapid downfall of the video rental corporation FilmBuster, culminating in its 2010 bankruptcy, remains a frequently cited case study in corporate strategy. In contrast to other large retailers of the era that successfully managed significant debt through restructuring, FilmBuster's debt was a secondary issue, so its collapse cannot be attributed merely to poor financial management. And as business analyst Maria Chen highlights, the reductive explanation of blaming a single competitor's rise is untenable as an account of a multi-year decline, especially given FilmBuster’s own strategic blunders. Instead, Chen is likely correct that FilmBuster's failure was caused by a fundamental inflexibility in its revenue model, which was heavily reliant on late fees.
+
+A. It describes a historical business event, discusses competing analyses of that event that the author finds unconvincing, and then presents new financial data to support a different analysis.
+B. It presents a corporate case study, describes a contrast between that corporation and other corporations, and then explains why those other corporations should not be used as a point of comparison.
+C. It introduces a business phenomenon, refutes two potential explanations for that phenomenon, and then presents a third explanation that the author regards as plausible.
+D. It discusses a market shift, evaluates the possible consequences of that shift, and then states that a definitive explanation for the shift has not yet been determined.
+Answer: C
+
+Question 9:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Advancements like the emergence of ceramics manufacturing in central Europe circa 28,000 BCE are overemphasized in innovation studies, contributing to the idea that technological change always brings greater complexity. Research by Nathaniel Erb-Satullo reveals an important exception: gold metallurgy flourished in the Caucasus in the Bronze Age, but a steep drop during that time (circa 1500 BCE) in objects featuring gold filigree (in which fine threads of gold are arranged in intricate patterns) and other sophisticated goldsmithing techniques suggests that simpler processes supplanted advanced methods.
+
+A. It explains that a particular interpretation of technological development has been perpetuated in an academic field and then provides a counterexample demonstrating that the interpretation isn’t always accurate.
+B. It summarizes the findings of several studies into the origins of a particular invention and then presents additional evidence from a more recent study that contradicts those findings.
+C. It advances a claim made by researchers in one academic field about the nature of technological change and then critiques a contrasting claim presented by a researcher from a related academic field.
+D. It details the near-consensus among researchers in a particular field of study regarding how technology evolves and then indicates the controversial nature of a study challenging that broadly accepted view.
+Answer: A
+
+Question 10:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+In Muscogee, an Indigenous language from the southeastern region of what is now the United States, *hvtktv* means “white,” whereas *hvtktvhv* is used to refer to two or more white things. This phenomenon, in which an element of a root word is repeated, sometimes with modification, within another word that is related to the root word, is called reduplication. In this case, the element “hvtk” in *hvtktv* gets repeated in *hvtktvhv*. There are many examples of this type of reduplication in Muscogee.
+
+A. It identifies the most frequently occurring words in Muscogee, explains why it is difficult to translate those words into English, and then provides examples of languages other than English into which those words can be translated.
+B. It explains the phenomenon of reduplication, discusses why reduplication has been controversial among scholars, and then argues that an analysis of Muscogee could help resolve that controversy.
+C. It describes the relationship between Muscogee and several other languages, raises a question about the nature of that relationship, and then answers that question.
+D. It presents some specific words in Muscogee, describes the general linguistic phenomenon exemplified by those words, and then states that this phenomenon occurs frequently in Muscogee.
+Answer: D
+

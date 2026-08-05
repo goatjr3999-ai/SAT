@@ -1,0 +1,259 @@
+Question 39:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In 2015, geologist Peter Rogerson calculated that the geographic center of Georgia was a point 17.7 miles southeast of the municipality of Macon. Rogerson’s calculation was more accurate than the one from 1920 by the US Geological Survey. ____ this earlier calculation was made using far more rudimentary equipment—only cardboard and string.
+
+
+A. Of course,
+B. Ultimately,
+C. Likewise,
+D. To that end,
+Answer: A
+
+Question 73:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+When ordering the branches of the Yukon River system by Hack's method, one begins with the riverway's lowest point, the Yukon River. ______ when using Strahler's method, one begins at the top of the river system, with the Kanuti River and other tributaries fed by the riverway's source, Alaska's Llewellyn Glacier.
+
+
+A. Indeed,
+B. Specifically,
+C. Alternatively,
+D. In other words,
+Answer: C
+
+Question 132:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+When using bloodroot for dyeing cloth, textile artists first soak it in water to release its color. Then, they add the cloth to the dyebath and simmer it for hours, perhaps even days, ________ they will remove the cloth, at which point it will have turned a vibrant orange color.
+
+
+A. In other words,
+B. Nevertheless,
+C. Likewise,
+D. Eventually,
+Answer: D
+
+Question 95:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In his 2008 study of Renaissance manuscripts from Italy's Biblioteca Medicea Laurenziana, literary scholar Matteo Ricci observed an unusual increase in handwritten marginal notes dating from 1450–1460 CE, suggesting a significant shift in readers' interactions with texts during this period. _____ this distinctive annotation phenomenon was termed a “Ricci Effect” after its discoverer.
+
+
+A. Fittingly,
+B. Similarly,
+C. That said,
+D. In other words,
+Answer: A
+
+Question 3:
+[Infer]
+Which choice most logically completes the text?
+
+The shoe designer Ives Greenidge-Sabral wanted to avoid using harsh synthetic dyes that could be damaging to the environment. __________ she began experimenting with more environmentally friendly natural dye methods, using organic materials like Texas persimmon and madder root for their natural brown and red colors.
+
+
+A. In any case,
+B. To that end,
+C. On the other hand,
+D. In reality,
+Answer: B
+
+Question 20:
+[Infer]
+Which choice most logically completes the text?
+
+In 2015, geologist Peter Rogerson recalculated the geographic center of Nebraska, which had previously been determined in 1920 by the US Geological Survey (USGS). The USGS, Rogerson contended, had omitted important considerations, not least the curvature of the earth. ____ the state’s USGS-determined center—a point 10 miles northwest of the municipality of Broken Bow—was inaccurate.
+
+
+A. Next,
+B. That being said,
+C. Hence,
+D. However,
+Answer: C
+
+Question 77:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Scientists studying forest restoration have discovered that trees depend on complex partnerships with microscopic organisms for survival. The researchers found that special fungi called endophytes live inside tree leaves and serve as a defense mechanism. ___ these endophytes help by fighting off diseases and boosting the tree's immune system.
+
+
+A. Alternatively,
+B. Nevertheless,
+C. Specifically,
+D. In conclusion,
+Answer: C
+
+Question 124:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+According to climate envelope models, individual organisms that inhabit the coolest areas of their species' geographic distribution are expected to benefit from a warming climate while individuals in the warmest areas will struggle. A 2024 University of Arizona study, ______ found that warmer-than-average temperatures resulted in a decrease in growth across all areas of the common pinon tree's distribution range.
+
+
+A. though,
+B. therefore,
+C. for example,
+D. moreover,
+Answer: A
+
+Question 68:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Formerly known as the Sou Invest Territory, Tennessee was granted statehood by a vote of the US Congress on June 1, 1796, making Tennessee the 16th US state. By comparison, as one of the nation's original thirteen colonies, Delaware became a state when it ratified the US Constitution on December 7, 1787. ______ New York attained statehood by ratifying the Constitution, becoming the 11th US state on July 26, 1788.
+
+
+A. Therefore,
+B. Nevertheless,
+C. For example,
+D. Likewise,
+Answer: D
+
+Question 157:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In October 2011, professional skateboarder Elliot Sloan performed a trick called a 900. _____ he launched off a ramp, rotated 900 degrees in midair, and landed back on the ramp atop his board. As impressive as that may sound, a few skateboarders, including Jonathan Schwan, have even landed a 1080!
+
+
+A. Nevertheless,
+B. On the other hand,
+C. Previously,
+D. In other words,
+Answer: D
+
+Question 156:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Since 1941, the South Side Community Art Center in Chicago, Illinois, has cultivated a multigenerational community of Black creatives—from writer Gwendolyn Brooks, to musician Nat King Cole, to visual artists like Espi Eph and William Walker. ____ it has garnered a reputation as a hub of Black art and culture in Chicago.
+
+
+A. Nevertheless,
+B. Accordingly,
+C. Periodically,
+D. On the other hand,
+Answer: B
+
+Question 143:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In Laurie Ann Guerrero’s 2016 poem “Last Meal: Breakfast Tacos, San Antonio, Tejas,” the poet contemplates a photograph that has inspired her: Chuck Ramirez’s 2003 work Breakfast Tacos. The photograph, which depicts an array of breakfast foods, fuels the poem’s exploration of love and cultural identity. _______ in responding to Ramirez’s artwork, Guerrero’s poem reflects on the relationship between poetry and other art forms.
+
+
+A. Conversely,
+B. What’s more,
+C. For instance,
+D. In other words,
+Answer: B
+
+Question 112:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In Annie Dillard’s Pilgrim at Tinker Creek—where, early on, the author marvels at a single goldfish’s delicate fins but later winces when imagining a horde of goldfish laying and eating their own eggs—Dillard struggles to reconcile the complicated juxtapositions of the natural world. ____ nature’s mesmerizing intricacy and pitiless harshness prove inextricably linked for Dillard, like “two branches of the same creek.”
+
+
+A. Ultimately,
+B. To that end,
+C. Hence,
+D. Moreover,
+Answer: A
+
+Question 4:
+[Infer]
+Which choice most logically completes the text?
+
+Courses on African American history can be found at colleges and universities across the US. For example, historian Juliet E.K. Walker teaches courses at the University of Texas about African American businesses. _______ At Howard University, historian Elizabeth Clark-Lewis teaches courses about African American communities in Washington, D.C.
+
+
+A. In other words,
+B. Elsewhere,
+C. Thus,
+D. In particular,
+Answer: B
+
+Question 102:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The tiny transistors that control the flow of electricity in modern devices may one day be made of wood. Researchers in Switzerland have found a way to use heat and chemicals to widen the grooves in dry pieces of balsa wood. ______ these grooves become wide enough that electrical conductors can be passed through them.
+
+
+A. For example,
+B. In contrast,
+C. Previously,
+D. As a result,
+Answer: D
+
+Question 55:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In a 2022 analysis, researchers applied a statistical model to a set of words to infer the rate of cognate replacement—the rate at which a word will be replaced over time with a noncognate form—in Indo-European languages. The researchers found that negative adjectives like "sick" evolve most rapidly; ______ negative nouns evolve most slowly.
+
+
+A. hence,
+B. subsequently,
+C. similarly,
+D. meanwhile,
+Answer: D
+
+Question 33:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In 1949, Frank Zamboni developed an ice rink resurfacing machine. As Zamboni's machine moved along the rink's surface, it first scraped off the top layer of ice. ________ it sprayed water into the deep grooves left behind by customers' skates. Lastly, it smoothed over the newly formed ice.
+
+
+A. For example,
+B. Next,
+C. Similarly,
+D. In contrast,
+Answer: B
+
+Question 76:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Thousands of years ago, the Olmec civilization's reign over parts of eastern Mexico ended. ______ the Olmecs' massive stone statues of human heads remain. Two of these statues, known as Monument 2 and Monument 53, weigh over 5 tons!
+
+
+A. Therefore,
+B. Secondly,
+C. Still,
+D. Previously,
+Answer: C
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+Generally, sleek vehicles are more aerodynamic than bulkier ones. The streamlined nose of the Cessna 310 jet, _____ helps it glide through wind with relative ease, while a boxy semitruck encounters more wind resistance, making it less aerodynamic.
+
+
+A. however,
+B. for example,
+C. additionally,
+D. meanwhile,
+Answer: B
+
+Question 128:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Rose B. Simpson, a Santa Clara Pueblo mixed-media artist, makes intuition and imperfection important parts of her artistic process. ______ her "slap-slab" technique involves throwing slabs of clay onto the floor until they're very thin and then assembling them quickly and intuitively by hand before they dry. The resulting sculptures are marked by seams, fingerprints, and other signs of her process.
+
+
+A. Nevertheless,
+B. Similarly,
+C. For example,
+D. Meanwhile,
+Answer: C

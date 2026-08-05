@@ -1,0 +1,120 @@
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+Indigenous songs can be repositories of ecological information, from Teniar lavaforms and landmarks to Kwakwaka’wakw songs about rainforest sounds. Kwakwaka’wakw song keeper Kwaxsistalla Wathl’thla aided research by ethnobiologist Dana Lepofsky et al. by contributing songs that reference creating terraced intertidal gardens to foster the healthy development of clams, a staple in the Kwakwaka’wakw people’s diet. Such structures date as far back as 3,500 years ago. Intriguingly, analysis of local paleoecological marine bivalve records has revealed significant increases in clam size and productivity as clam garden practices became more prevalent and harvesting pressure increased—a finding that bolsters the notion that ___.
+
+A. contemporary Kwakwaka’wakw people have only minimally deviated from the clam-gardening practices described in the people's songs.
+B. the Kwakwaka’wakw people initially adapted their clam garden practices from similar methods observed among other Indigenous peoples in neighboring areas.
+C. the practical approach described in the Kwakwaka’wakw songs effectively maintained clams as a sustainable food source.
+D. the Kwakwaka’wakw people encouraged the health of clam gardens and reduced pressure on them by periodically increasing their reliance on other sources of sustenance.
+Answer: C
+
+Question 2:
+[Infer]
+Which choice most logically completes the text?
+
+Liverpool Football Club won more than half its home matches between 1947 and 2003, helping to distinguish the team as a top British professional soccer club. Additionally, Liverpool, whose home uniform color is mainly red, was more successful in home matches than was Watford Football Club, whose home uniform color is not red. Research has shown that many people associate the color red with power and dominance. Past experiences with red objects such as stop signs can even cause people to respond to the color red with caution and hesitation. These findings, if applicable in the context of athletic competitions, could suggest that in matches played at Liverpool’s home stadium, opponents may have ___
+
+A. played more aggressively than they would have if their own uniforms were red.
+B. been influenced by the color of Liverpool’s uniforms.
+C. been aware that Liverpool’s uniform color affected their own performance.
+D. been unaffected by the red clothing worn by fans in the stadium.
+Answer: B
+
+Question 3:
+[Infer]
+Which choice most logically completes the text?
+
+Humans have a very strong bias toward right-handedness, with approximately 85–90% having right as their dominant hand. Among studies of nonhuman primates, James Welles’s 1976 study of captive chimpanzees and catarrhine monkeys reported more right-handed individuals than left-handed ones, but William C. McGrew and colleagues’ 1999 study of wild chimpanzees did not find a tendency toward right-handedness. It’s important to note, however, that captive animals spend significantly more time with humans than wild animals do, and therefore ____.
+
+A. the apparent difference between the two studies’ results may be partly attributable to the 1976 study using a different standard to determine handedness than the 1999 study did.
+B. the right-handedness exhibited by the captive chimpanzees and catarrhine monkeys might be, in part, an effect of extended contact with humans.
+C. the number of individuals in the study of captive chimpanzees and catarrhine monkeys is likely too small to support the claim that the species tends toward right-handedness.
+D. the number of individuals in the study of wild chimpanzees is probably too small to support the claim that no tendency toward right-handedness was found in that population.
+Answer: B
+
+Question 4:
+[Infer]
+Which choice most logically completes the text?
+
+The single-origin hypothesis of iron metallurgy posits that the craft originated in Anatolia (West Asia) circa 2200–2000 BCE before diffusing to other parts of the world, including Africa. Some proponents of the hypothesis argue that iron-production technologies first arrived in North Africa through Carthage, where the earliest evidence of ironworking dates to approximately 800–600 BCE, before these technologies spread to sub-Saharan Africa over the following centuries. However, excavation of multiple sites on the Adamawa plateau in Central Africa conducted by Étienne Zangato and Augustin Holl uncovered evidence of iron workshops that may have been in operation as late as 900–750 BCE in Gbabiri and as early as 2300–1900 BCE in Oboui and Gbatoro. These findings suggest that _____
+
+A. iron production may have originated in Anatolia much earlier than the available evidence currently indicates.
+B. iron-production technologies were likely transmitted from Anatolia to Central Africa via an alternate route than the one suggested by some proponents of the single-origin hypothesis.
+C. iron-production technologies found in Gbabiri likely derived directly from technologies transmitted from Anatolia, but those found in Oboui and Gbatoro did not.
+D. iron production may have developed independently and relatively simultaneously in Anatolia and parts of Central Africa.
+Answer: D
+
+Question 5:
+[Infer]
+Which choice most logically completes the text?
+
+Although the language of the Olmec civilization, which flourished in southern Mexico circa 1500 BCE–400 BCE, hasn’t been identified, it likely belonged to the Mixe-Zoquean family, a group of related languages whose present-day representatives are spoken in an area corresponding to ancient Olmec sites. The family can be subdivided into a Zoque branch, which includes Francisco León Zoque, and a Mixe branch, which includes North Central Mixe. Many words in the Mayan languages—languages spoken in the region but otherwise unrelated to the Mixe-Zoquean family—are Mixe-Zoquean in origin and were likely borrowed during the period when the Olmecs dominated the entire area. Tellingly, all those words derive from the Zoque branch, suggesting that _____.
+
+A. North Central Mixe and the other languages of the Mixe branch likely supplanted the languages of the Zoque branch sometime before 1500 BCE.
+B. the language of the Olmec civilization was likely the founding language of the family that includes Mayan languages.
+C. the language of the Olmec civilization contributed words not only to Mayan languages but also to other languages in the Mixe-Zoquean family.
+D. the Mixe-Zoquean family had already diverged into the Mixe and Zoque branches by the time the Olmecs became the prevailing power in the region.
+Answer: D
+
+Question 6:
+[Infer]
+Which choice most logically completes the text?
+
+Humans are overwhelmingly right-hand dominant (85–90%) and can thus be said to exhibit strong population-level right-handedness (PLRH). Among studies of nonhuman primates, Margaret E. Redshaw’s 1993 study of captive gorillas purported to show PLRH, while Jane Goodall’s 1963 study of wild chimpanzees did not. Overall, the studies claiming PLRH in nonhuman primates find much lower incidences of right-handedness than humans exhibit, but it’s worth noting that studies of captive primates tend to show significantly greater incidences of right-handedness than studies of wild primates do, therefore raising the possibility that ____.
+
+A. the number of individuals in the study of wild chimpanzees is insufficient to preclude the claim that nonhuman primates exhibit PLRH.
+B. the number of individuals in the study of captive gorillas is insufficient for a robust claim regarding evidence of PLRH.
+C. the greater exposure to humans among the captive gorillas induced them to acquire more right-handed behaviors.
+D. the apparent discrepancy between the studies’ results may be partly attributable to the 1963 study using different criteria when assessing hand dominance than were used in the 1993 study.
+Answer: C
+
+Question 7:
+[Infer]
+Which choice most logically completes the text?
+
+As exemplified by Temiar songs about landforms and landmarks and Lakota songs about gathering mouse beans, ecological information can be transmitted in Indigenous songs, and in some instances is maintained only in this way. Kwaxsistalla WathI'thla, a song keeper for the Kwakwaka’wakw people in Canada, collaborated with ethnobiologist Dana Lepofsky et al., sharing songs referencing terraced intertidal clam gardens the people implemented in the past to foster healthy development of a dietary staple. Drawing on archaeological evidence as well, Lepofsky et al. determined that the prevalence of the practice described in the songs corresponded with growth in clam size and abundance despite increased harvesting pressure—a finding that demonstrates that ____.
+
+A. representation of practical applications of ecological knowledge is the defining characteristic of the music of certain Indigenous peoples
+B. the Kwakwaka’wakw people likely would not have detailed their creation of clam gardens in songs if their efforts had not produced significantly larger clams
+C. the clams harvested from intertidal terraces by Kwakwaka’wakw people in the past likely were a different species than the clams found in those areas today
+D. effective methods for the cultivation of sources of sustenance are among the ecological knowledge preserved in Indigenous songs
+Answer: D
+
+Question 8:
+[Infer]
+Which choice most logically completes the text?
+
+India has classified the spiraling whitefly as an invasive species that could harm some of the country’s native species. But researchers Alejandro Camacho and Jason McLachlan have pointed out that "invasive" and "native" are labels that describe temporary circumstances. Changes in Earth’s climate may force animals from their current ranges. Climate changes may also create good habitats in areas where a species couldn’t live previously. In the case of India, these observations suggest that ___
+
+A. the country’s designation of the spiraling whitefly as invasive may be appropriate now but not in the future.
+B. it’s useful at present for the country to distinguish between invasive and native species in some instances but not in the case of the spiraling whitefly.
+C. even if Earth’s climate doesn’t change in the way scientists predict, the spiraling whitefly will likely establish itself in the country.
+D. the country was previously home to some spiraling whiteflies but they were outcompeted by invading species.
+Answer: A
+
+Question 9:
+[Infer]
+Which choice most logically completes the text?
+
+The advent of online streaming has led many music listeners to drift away from ownership of music (through downloads or through physical media such as compact discs) in favor of the streaming services Apple Music and AccuRadio, among others. Luis Aguiar studied the effect of the 2011 implementation of a restriction on the free version of the French streaming service Deezer: its unlimited usage was reduced to five hours a month, while the paid premium version’s usage remained unlimited. Aguiar found that listeners who used the free service visited licensed online music sellers (e.g., the iTunes store) and sites that make unlicensed music available to download about 2% less after the restriction was implemented, suggesting that _____.
+
+A. consumers are unlikely to purchase physical copies of music that is readily available through streaming.
+B. restrictions on the amount of music that can be streamed may actually suppress users’ interest in owning music.
+C. most users of the free streaming service were probably encouraged by the restriction to move to a paid version of the service with unlimited, ad-free listening.
+D. the implementation of the restriction reduced the overall number of users of the streaming service.
+Answer: B
+
+Question 10:
+[Infer]
+Which choice most logically completes the text?
+
+Prolonged exposure to anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Debra M. Shier and colleagues found in a 2012 study of Stephens kangaroo rats. Researchers conducted a meta-analysis of studies of how such noise affects animals and found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group. Although, on average, studies of mammals showed larger differences than studies of amphibians did, for every class of animals examined, there were individual studies showing differences well above the average for mammals. Therefore, the results of the meta-analysis suggest that ______.
+
+A. some studies of amphibians found larger effects of exposure to anthropogenic noise than some studies of mammals did.
+B. the studies in the meta-analysis that examined mammals were more likely than those that examined amphibians to specify whether the observed effects were detrimental.
+C. the differences that studies attribute to exposure to anthropogenic noise are likely to be more pronounced for amphibians than they are for mammals.
+D. he difference found in the study conducted by Debra M. Shier and colleagues was likely larger than the average difference for studies of Stephens kangaroo rats included in the meta-analysis.
+Answer: A
+

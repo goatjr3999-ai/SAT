@@ -1,0 +1,76 @@
+Question 1:
+Line s in the xy-plane is defined by {{MATH_1}} . Line t is perpendicular to line s and passes through the points {{MATH_2}} and {{MATH_3}} . What is the value of k?
+
+Answer: 11
+
+Question 2:
+In the figure, {{MATH_5}} and {{MATH_6}} intersect at point {{MATH_7}} . The measure of {{MATH_8}} is {{MATH_9}} , the measure of {{MATH_10}} is {{MATH_11}} , and {{MATH_12}} . If {{MATH_13}} , what is the value of {{MATH_14}} ? (dien phan so)
+
+Answer: 40/9
+
+Question 3:
+A right square pyramid has a total surface area of {{MATH_16}} square inches, and the combined surface area of the four lateral faces of this pyramid is {{MATH_17}} square inches. What is the height, in inches, of this pyramid?
+
+A. {{MATH_18}}
+B. {{MATH_19}}
+C. {{MATH_20}}
+D. {{MATH_21}}
+Answer: A
+
+Question 4:
+In the figure shown, line k intersects lines r and s. If {{MATH_22}}, which additional piece of information is sufficient to prove that lines r and s are parallel?
+
+A. {{MATH_23}}
+B. {{MATH_24}}
+C. {{MATH_25}}
+D. {{MATH_26}}
+Answer: B
+
+Question 5:
+A circle has center P, and points A and B lie on the circle. The measure of arc AB is 45° and the length of arc AB is {{MATH_27}} units. What is the length, in units, of the radius of the circle?
+
+Answer: 16
+
+Question 6:
+The table gives the areas and perimeters of two similar rectangles, where n is a constant.
+What is the value of n?
+
+A. {{MATH_29}}
+B. {{MATH_30}}
+C. {{MATH_31}}
+D. {{MATH_32}}
+Answer: D
+
+Question 7:
+The area of triangle ABC is 210 square centimeters. What is the height h, in centimeters, of this triangle?
+
+A. {{MATH_33}}
+B. {{MATH_34}}
+C. {{MATH_35}}
+D. {{MATH_36}}
+Answer: C
+
+Question 8:
+The length of a rectangle's diagonal is {{MATH_37}}, and the length of one of the rectangle's sides is 9. What is the perimeter of the rectangle?
+
+A. {{MATH_38}}
+B. {{MATH_39}}
+C. {{MATH_40}}
+D. {{MATH_41}}
+Answer: C
+
+Question 9:
+Circle A: {{MATH_42}}
+Circle B: {{MATH_43}}
+In the given equations, p is a positive constant. Which statement correctly compares the graphs of circles A and B in the xy-plane?
+
+A. Circle B is the reflection of circle A across the x-axis.
+B. Circle B is the reflection of circle A across the y-axis.
+C. Circle B is the translation of circle A 14 units up.
+D. Circle B is the translation of circle A 14 units to the right.
+Answer: B
+
+Question 10:
+Line s is defined by {{MATH_44}}. Line t is perpendicular to line s in the xy-plane and passes through the points {{MATH_45}} and {{MATH_46}}. What is the value of k?
+
+Answer: 48

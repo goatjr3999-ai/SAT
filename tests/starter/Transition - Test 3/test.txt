@@ -1,0 +1,91 @@
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+In 1891, dancer and choreographer Loie Fuller first performed her celebrated Serpentine Dance, artfully twirling her long, flowing skirt to create striking visual effects. _______ in 1896, cinema pioneers Auguste and Louis Lumière made a groundbreaking short film of Fuller’s dance.
+
+
+A. Later,
+B. However,
+C. In conclusion,
+D. In other words,
+Answer: A
+
+Question 2:
+[Infer]
+Which choice most logically completes the text?
+
+Okot p’Bitek’s poem *Song of Lawino* (1966) explores postcolonial Ugandan life through the eyes of a woman living in a rural village. With its vibrant imagery, bitingly satiric tone, and dexterous use of traditional Acholi song and phraseology, the poem inspired a generation of East African writers. ______ those who adopted its style are often referred to as Okot School poets.
+
+
+A. Instead,
+B. Fittingly,
+C. Nevertheless,
+D. By comparison,
+Answer: B
+
+Question 3:
+[Infer]
+Which choice most logically completes the text?
+
+A chameleon uses specialized cells in its skin to change color in response to its environment. When these cells are stimulated by changes in light, temperature, or mood, they expand or contract, altering the way light reflects off the chameleon's skin. _____ when the chameleon's environment stabilizes, the cells relax and its color returns to normal.
+
+
+A. For example,
+B. By contrast,
+C. Specifically,
+D. In other words,
+Answer: B
+
+Question 4:
+[Infer]
+Which choice most logically completes the text?
+
+In 1940, scientists first isolated a sample of the steroid hormone androstenone, which they knew existed in animals—and, they assumed, only in animals. _____ scientists know that androstenone can also be found in chokecherry plants (*Prunus virginiana*), but this discovery didn't occur until decades later.
+
+
+A. Today,
+B. For instance,
+C. In other words,
+D. Thus,
+Answer: A
+
+Question 5:
+[Infer]
+Which choice most logically completes the text?
+
+Establishing Coordinated Universal Time (UTC) is no easy task. Each month, readings of a single second from atomic clocks around the world are taken and sent to the International Bureau of Weights and Measures (BIPM) in France. _____ BIPM metrologists perform the meticulous work of assembling these minutely disparate readings into a globally shared time standard.
+
+
+A. In particular,
+B. For example,
+C. Conversely,
+D. There,
+Answer: D
+
+Question 6:
+[Infer]
+Which choice most logically completes the text?
+
+Plato believed material objects to be crude representations of unseen ideal forms. In his view, such abstract, nonmaterial forms are the ultimate source of knowledge. Aristotle disagreed, positing that knowledge is best obtained through direct engagement with the material world; _____ sensory experience of the material is the ultimate source of knowledge.
+
+
+A. meanwhile,
+B. admittedly,
+C. regardless,
+D. in other words,
+Answer: D
+
+Question 7:
+[Infer]
+Which choice most logically completes the text?
+
+When apex predators, like tigers or killer whales, disappear from an ecosystem, their absence can have implications that reverberate throughout the food chain. ______ animals that were once the predator's prey may flourish, consuming more and more food sources, thereby causing scarcity issues for other species. Ecologists, such as Gerardo R. Camilo, call this phenomenon a trophic cascade.
+
+
+A. However,
+B. Likewise,
+C. By contrast,
+D. For instance,
+Answer: D
+

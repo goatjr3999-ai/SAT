@@ -1,0 +1,367 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The romantic style evident in many paintings by Jérôme-Martin Langlois tended to enhance subjects, exaggerating their beauty or heroism while hiding all imperfection, a practice that was seen as fundamentally dishonest by many painters. This led to the development of the realist style as a way to counteract this artificiality, resulting in works such as The Gleaners by Jean-François Millet, which gives us an accurate, rather than _____, portrayal of peasants picking stray wheat from a field after the harvest.
+
+
+A. an innovative
+B. a humble
+C. an idealized
+D. a subtle
+Answer: C
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Despite stated claims of the ______ of the research, much analysis of income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later remedy this shortcoming after gaining new access to banking records located in nations in Asia, such as China, and Eastern Europe, such as Hungary.
+
+
+A. pervasiveness
+B. immutability
+C. exhaustiveness
+D. novelty
+Answer: C
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Given that healthy genetic diversity supports honey bee population robustness—a matter of public interest given the bees’ crucial role as pollinators of many crops, such as watermelon—a study revealing a ______ of diversity among US honey bees raised concern, though it also noted the potential to enhance the number of bees carrying several newly discovered genetic variants (e.g., C3-567-USA).
+
+
+A. paucity
+B. disparity
+C. repository
+D. redundancy
+Answer: A
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Fruit growers must contend with sparrows and other birds ______ crops in orchards by pecking at fruits, leaving the fruits vulnerable to rot and diseases that can then spread among fruit trees. However, measures such as scarecrows can deter pest birds when properly deployed.
+
+
+A. harvesting
+B. ruining
+C. avoiding
+D. capturing
+Answer: B
+
+Question 5:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In their study of caterpillars in fragmented forests (formerly contiguous forests that have been broken into isolated patches by roads or other interruptions), Nicole M. Dallar et al. stress that although fragmentation inevitably ______ alterations to local ecological processes, the changes will likely have a greater impact on _Nola triguetrana_, a specialist feeding on a limited number of plant species, than on a species like _Himella intractata_ that feeds on several.
+
+
+A. preempts
+B. engenders
+C. subsumes
+D. attenuates
+Answer: B
+
+Question 6:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Though John Crowley, author of The Solitudes, is perhaps not as well known as the most widely read American writers of the past fifty years, his work has had several influential champions, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley’s book Little, Big, __Bloom praises how the novel adroitly blends what playwright Friedrich Schiller termed the naive and sentimental modes__—while Schiller thought works could be classified as either naive (seeking to describe reality) or sentimental (seeking to develop ideas), Little, Big fuses both modes of writing.
+
+
+A. It contrasts the opinions of two critics.
+B. It helps clarify the distinction between two categories.
+C. It compares the work of a writer with that of a poet who admired him.
+D. It gives a reason why a critic appreciates a certain book.
+Answer: D
+
+Question 7:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Lee Hsiang Liow and colleagues relied on historical DNA (hDNA)—genomic data incidentally preserved in specimens housed in collections such as those at the Smithsonian National Museum of Natural History—to investigate the evolutionary relationships between thirty-seven species of metazoans. Although this approach can yield many insights about the biological past, it remains a relatively underutilized resource in part because hDNA is often to some extent degraded, a situation not easily remediable under current methodological paradigms and with extant DNA extraction and analysis technologies.
+
+
+A. It presents a scientific study that relied on a particular approach, then describes a barrier to the widespread adoption of that approach.
+B. It evaluates a research methodology used in a particular study, then explains how scientists may overcome difficulties inherent to that methodology.
+C. It summarizes the findings of a scientific study, then discusses the possibility of other researchers replicating those findings in future studies.
+D. It exemplifies a common method of genomic data analysis, then details the difficulties in adapting that method to new circumstances.
+Answer: A
+
+Question 8:
+[Cross Text]
+Based on the texts, how would the author of Text 2 mostly likely respond to the argument presented in Text 1?
+
+Text 1
+Sir Geoffrey Luttrell commissioned the Luttrell Psalter, a celebrated document of religious songs and images of life in medieval England. Not all of Luttrell’s actions were admirable, however. Most infamously, he participated in what was essentially a private war against Sempringham Priory, a monastery near his manor, even making off with 500 pounds’ worth of monastery property during a violent raid. So Luttrell’s reputation should be regarded as questionable at best.
+Text 2
+Some historians claim that an assessment of Luttrell’s life must mention both his support of the Luttrell Psalter and his behavior toward his neighbors. But contemporary descriptions of Luttrell’s “raid” on Sempringham Priory contain what appear to be exaggerated claims characteristic of complaints by those whose property has been legally seized as compensation for money owed, which is likely the case here.
+
+
+A. By arguing that when considering Luttrell’s character, one should take into account that primary sources for his interaction with Sempringham Priory may not be objective
+B. By pointing out that scholars evaluating Luttrell’s behavior should bear in mind that many details in firsthand descriptions of his conflict with Sempringham Priory have been shown to be false
+C. By suggesting that judging Luttrell’s actions regarding Sempringham Priory is difficult because contemporary depictions disagree about important details
+D. By claiming that a proper analysis of Luttrell’s dispute with Sempringham Priory needs to acknowledge that Priory sources concede that Luttrell was owed money
+Answer: A
+
+Question 9:
+[COE]
+Information in the text best supports which statement about mongoose lemurs?
+
+Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Joel Brown and colleagues found to be negatively associated with foraging by Arizona pocket mice but Deborah J. Curtis and colleagues found to be positively associated with foraging by mongoose lemurs. This discrepancy is explicable in terms of OFT: the lemurs’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the mice.
+
+
+A. If increased lunar intensity imposed the same costs on the lemurs that it imposes on Arizona pocket mice, there would be no association between lunar intensity and the lemurs’ foraging.
+B. If increased lunar intensity creates any disadvantages for the lemurs, those disadvantages are more than compensated for by the advantages that the lemurs gain.
+C. If the advantages that the lemurs gain from increased lunar intensity explain the change in their foraging behavior, those advantages are likely shared by some other species that are not heavily reliant on vision.
+D. If the lemurs’ foraging behavior under increased lunar intensity actually reflects a cost-benefit trade-off, their behavior should be more similar to that of Arizona pocket mice than it is.
+Answer: B
+
+Question 10:
+[COE]
+Which quotation from a translation of Claudine at School most effectively illustrates the claim?
+
+Claudine at School is a 1900 novel by Colette, originally written in French. The narrator is a fifteen-year-old girl living in a small, rural town surrounded by forests. She suggests that spending time in the forests can alter one’s perception: ______
+
+
+A. “Montigny ‘built in tiers’? No, that’s not how I see it; to my mind, the houses just tumble haphazard from the top of the hill to the bottom of the valley.”
+B. “You’re so well-sheltered [in the woods] that when you come out of those depths you are quite lost and dazzled and feel ill at ease in the broad daylight.”
+C. “Under the firs, you light a fire, even in summer, because it’s forbidden; you cook any old thing, an apple, a pear, a potato stolen from a field, some wholemeal bread if you’ve nothing better.”
+D. “The charm, the delight of this countryside composed of hills and of valleys so narrow that some are ravines, lies in the woods—the deep, encroaching woods that ripple and wave away into the distance as far as you can see.”
+Answer: B
+
+Question 11:
+[COE]
+Which choice best describes data from the graph that support the student’s claim?
+
+In a college course on urban affairs, a student asserts that increased traffic congestion in the United States in the 1990s was present both in very large cities such as Philadelphia, Pennsylvania, and smaller areas such as Allentown-Bethlehem, Pennsylvania, and Anchorage, Alaska; though those smaller areas may have been less affected by traffic congestion than very large cities, this congestion also worsened in them over time.
+
+
+
+A. While the annual number of hours of traffic delay per commuter was always higher in the Philadelphia, Pennsylvania, area than in the Anchorage, Alaska, area for each year between 1990 and 2000, the amount of traffic delay rose in both areas during this period.
+B. In at least one of the four urban areas shown, the amount of traffic delay was less than 20 hours per commuter per year at one point between 1990 and 2000.
+C. Even though the amount of traffic delay per commuter per year was greater in the Allentown-Bethlehem, Pennsylvania, area than in the Philadelphia, Pennsylvania, area throughout the period from 1990 to 2000, the amounts were nearly identical in 1996.
+D. In 1992, the amount of traffic delay in the Philadelphia, Pennsylvania, area was less than 30 hours per commuter per year.
+Answer: A
+
+Question 12:
+[Infer]
+Based on the text, what would be the most reasonable next step for the students to take to accomplish their goal?
+
+In 2002, the US state of Minnesota enacted rate stability regulations (RSRs), constraining insurance companies’ latitude to raise premiums (the recurring fees policyholders pay to maintain insurance policies) once policies are in effect. Although RSRs are intended to benefit consumers, Naoki Aizawa and Ami Ko note that RSRs could curtail insurers’ profits to such a degree that insurers abandon the market, thereby reducing the competitive pressure that typically restrains premium prices for newly issued policies. To determine whether this occurred in Minnesota, students first collect data on the number of insurers in the state for a few years leading up to and following 2002 and the premium prices for new policies offered by those insurers.
+
+
+A. Compare changes over time in the insurer-number data the students have collected with changes over time in insurer-number data from another state that enacted RSRs but not during the same period
+B. Compare changes over time within each of the two types of data the students have collected with changes over time in analogous data for the same period from an otherwise similar state that had not enacted RSRs
+C. Compare changes over time within each of the two types of data the students have collected with changes over time in the same types of data from Minnesota for a period beginning several years after 2002
+D. Compare changes over time in the premium price data the students have collected with changes over time in premium prices for policies that were already in effect during the same period in an otherwise similar state that had not enacted RSRs
+Answer: B
+
+Question 13:
+[COE]
+Which quotation from a study of California agriculture best supports the student’s claim?
+
+A student is writing a research paper on the history of irrigation in the state of California, situating the development of the Rowena Reservoir (created in Los Angeles County, California, in 1901) in a larger historical context. The student claims that innovation in irrigation techniques was driven in part by the climate in some parts of the state.
+
+
+A. “Competition for scarce water resources in Southern California inspired the development of sprinkler irrigation systems, a manner of irrigating that requires less use of water than traditional surface irrigation methods.”
+B. “While the low humidity of Southern California’s desert areas makes irrigation a requirement if agriculture is to be a success there, the relatively high humidity in the northern parts of the state makes such practices less necessary.”
+C. “The irrigation system developed by the Hohokam people in the 7th century CE in what is now Arizona was simple but applied hydraulic engineering design features that are still used today in both Arizona and California.”
+D. “The necessity of irrigation infrastructure in California today cannot be overstated, since it is the most common means of conveying water for agricultural use.”
+Answer: A
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Medieval Genoa was among the societies that enacted sumptuary laws regulating consumption related to goods or practices indicative of status, such as processions and clothing, in an effort to reinforce the existing social order. Such laws were easily circumvented, inviting the conclusion that they were failures. Historian Laurel Ann Wilson instead suggests that their purpose is misunderstood, noting two persistent trends: sumptuary laws were constantly revised and reissued; and even in revised laws, whose preambles often lamented public noncompliance and the ensuing erasure of class distinctions, enforcement mechanisms remained weak or absent. The recurrence of these patterns throughout preindustrial societies suggests that ______
+
+
+A. observance of sumptuary laws in medieval Genoa and other societies was complicated by the constant reissuance and revision of the laws, as citizens struggled to navigate conflicting edicts.
+B. the practical value of sumptuary laws was secondary to the laws’ symbolic function as official reassertions of the social order.
+C. sumptuary laws in societies such as medieval Genoa originally served a practical purpose but this intent was lost as the laws became more circuitous in subsequent revisions.
+D. lawmakers gradually realized that sumptuary laws were inherently challenging to enforce and lowered their expectations of compliance over time.
+Answer: B
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+Over 600 languages are spoken in New York City in addition to English—one can find Bambara spoken in the neighborhood of Kingsbridge, for example, or Gullah in Bedford-Stuyvesant. A linguist hypothesizes that some of these languages may be developing local dialects—variations that differ from the parent language in some of their vocabulary, pronunciation, and grammar—specific to New York City and partly influenced by linguistic interaction with the majority language of English. She finds during her field research in New York that some local dialects do exist and that younger speakers of nonmajority languages use those dialects more often than older speakers do. These findings suggest that ______.
+
+
+A. younger speakers of nonmajority languages in New York City are more likely to borrow words from English than older speakers are.
+B. the proportion of younger speakers who use a dialect specific to New York City is higher in neighborhoods where many languages are spoken than in neighborhoods where one or two languages predominate.
+C. both the number of languages spoken in New York City and the number of dialects of each of those languages will increase over time.
+D. dialects used by younger speakers in New York City tend to have more words borrowed from nonmajority languages than borrowed from English.
+Answer: A
+
+Question 16:
+[Infer]
+Which choice most logically completes the text?
+
+Apple's introduction of the Apple Watch in 2015 is an instance of brand extension—the company leveraged its brand recognition as a computer manufacturer to enter a new product category. To investigate how market share affects consumers’ likelihood of purchasing brand extensions, Alicia Grasby et al. identified 30 extended-brand pairs (e.g., the same brand of cooking oil and butter) in household purchasing data; for each pair, Grasby et al. calculated the branded products’ market share and calculated the increase in probability of a brand in one category being purchased if the same brand was purchased in the other category. A broad inverse relationship between the two values emerged, which can most reasonably be attributed to the fact that ______.
+
+
+A. consumers tend to be less familiar with brands with low market share than brands with high market share and thus may purchase both products in a pair with low market share without recognizing that the products are the same brand.
+B. brands with high market share have high purchase probability regardless of whether the other product in the pair is purchased and thus have less potential to increase in purchase probability than brands with low market share do.
+C. as a brand’s market share increases, the number of competing brands in the same product category tends to decrease, and thus the rate of increase in market share tends to accelerate as a brand’s market share grows.
+D. the purchase probability of a brand is affected by the purchase probability of the particular product category to which it belongs, and thus brands in categories that are rarely purchased tend to have low purchase probabilities regardless of market share.
+Answer: B
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In the book A Theory of Harmony (1985), Swiss musicologist Ernst Levy argued that every chord has an opposite that can be substituted for it. For example, a pianist could replace the iv chord for the V chord while ______ chord is a given chord’s opposite can be determined using a music visualization tool called the circle of fifths.
+
+
+A. improvising, which
+B. improvising and which
+C. improvising. Which
+D. improvising which
+Answer: C
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In their 2017 study of vegetation cover in central Nigeria, researchers Aladesanmi Agbelade et al. used the Normalized Difference Vegetation Index (NDVI), which remains a popular metric for assessing vegetation density across large areas. The index’s accuracy may be compromised in certain environmental ______ NDVI values may appear artificially low in areas with dense canopy cover, potentially resulting in an underestimation of vegetation density.
+
+
+A. conditions, though;
+B. conditions; though
+C. conditions, though
+D. conditions, though,
+Answer: A
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+As the textbook Chemistry by Raymond Chang explains, every one of the periodic table’s 118 elements (including fluorine, or F) ______ shown with both its symbol and its atomic number.
+
+
+A. are
+B. are being
+C. have been
+D. is
+Answer: D
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A 2016 study by researchers Andreas Keller and Leslie Vosshall evaluating how participants described the odors of various chemical compounds revealed some similarities between the odor of sample 17 (o-anisaldehyde) and that of sample 8 (DL-phenylalanine). The ______ primary descriptors both included “burnt”; however, the next most common word used for sample 17 was “sour,” while that for sample 8 was “edible.”
+
+
+A. sample’s odors
+B. samples’ odors’
+C. samples odors’
+D. samples’ odor’s
+Answer: B
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In her work, Mohawk artist Skawennati uses video games and other technologies to explore Native representation and participation in the digital space. Since 1989, Indianapolis’s Eiteljorg Museum has celebrated the work of groundbreaking contemporary Native ______ in 2011, it awarded Skawennati one of its prestigious artist fellowships.
+
+
+A. artists, thus
+B. artists;
+C. artists and
+D. artists,
+Answer: B
+
+Question 22:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Archived within the storied libraries of Timbuktu, a West African city prominent during the Songhai Empire, is Branching in Jurisprudential Schools, one of the city’s hundreds of thousands of historical manuscripts, each of which ______ researchers insight into Timbuktu’s tenure as a center of trade and education.
+
+
+A. are offering
+B. offer
+C. offers
+D. offering
+Answer: C
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+When it was built in the nineteenth century, the Eiffel Tower was criticized—even protested—for its unique appearance. ______ the spire-like structure earned not just acceptance but adoration, and its iconic design is now echoed in everything from the Eiffel Tower replica in Voronezh, Russia, to the Copenhagen Zoo Tower in Copenhagen, Denmark.
+
+
+A. Ultimately,
+B. Similarly,
+C. Thus,
+D. For example,
+Answer: A
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Though the musical groups Los Tigres del Norte and Sólido are often categorized under the catchall “regional Mexican music” label, they each adhere to distinct musical traditions. The former works within the norteño tradition, which originated in late nineteenth-century northern Mexico. The latter, _____ follows the tejano tradition, with roots in mid-twentieth-century Texas and northern Mexico.
+
+
+A. to this end,
+B. as a result,
+C. in other words,
+D. on the other hand,
+Answer: D
+
+Question 25:
+[Synthesis]
+The student wants to emphasize a similarity between the two national union federations. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•National union federations aim to improve conditions for workers in their respective nations.
+•The Trade Union Congress of Namibia is a national union federation for Namibia.
+•The Trade Union Confederation of Burundi is a national union federation for Burundi.
+
+
+A. The Trade Union Confederation of Burundi aims to improve conditions for workers in Burundi.
+B. Both the Trade Union Congress of Namibia and the Trade Union Confederation of Burundi aim to improve conditions for workers in their respective nations.
+C. Namibia and Burundi each have national union federations.
+D. The Trade Union Congress of Namibia and the Trade Union Confederation of Burundi represent workers in different countries.
+Answer: B
+
+Question 26:
+[Synthesis]
+The student wants to identify an emission spectrum that includes a wavelength in the violet portion of the visible spectrum. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•When the electrons of a chemical element change energy states, certain wavelengths of light are released.
+•This unique collection of wavelengths is known as the emission spectrum of the element. •Carbon’s emission spectrum includes the 426.7 nanometer (nm) wavelength.
+•Helium’s emission spectrum includes the 587.5 nm wavelength.
+•The violet portion of the visible spectrum is made up of light with wavelengths of 380–450 nm.
+
+
+A. Carbon’s emission spectrum includes the 426.7 nm wavelength, which is in the violet portion of the visible spectrum.
+B. The 587.5 nm wavelength, which is in the violet portion of the visible spectrum, is one wavelength in the emission spectrum of helium.
+C. Since the 426.7 nm wavelength of light is within the 380–450 nm range, it is part of the violet portion of the visible spectrum.
+D. Containing the 426.7 nm and 587.5 nm wavelengths, respectively, both carbon’s and helium’s emission spectra include wavelengths in the violet portion of the visible spectrum.
+Answer: A
+
+Question 27:
+[Synthesis]
+The student wants to explain the significance of New Jersey's NPVIC adoption. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•In the Electoral College system that determines the outcome of US presidential elections, the winner of New Jersey's popular vote receives all 14 of New Jersey's electoral votes.
+•A 2001 article written by law professors Akhil and Vikram Amar proposed that states could instead agree to award their electoral votes to the winner of the national popular vote.
+•The Amars' idea is the basis of the National Popular Vote Interstate Compact (NPVIC).
+•If states holding a majority of electoral college votes (270) adopt the NPVIC, the compact will take effect and adopters will award their electoral votes accordingly.
+•New Jersey adopted the NPVIC in 2008.
+
+
+A. According to the idea proposed by the Amars, the winner of New Jersey's popular vote will receive all of the state's electoral votes if the NPVIC takes effect.
+B. An agreement among US states to award their electoral votes to the presidential candidate who wins the national popular vote was adopted by New Jersey in 2008.
+C. If the NPVIC takes effect, adopter New Jersey will award all 14 of its electoral votes to the winner of the national, rather than the state's, popular vote.
+D. Because it has adopted the NPVIC, New Jersey will award its electoral votes to the winner of the state's popular vote—once states holding a majority of electoral college votes (270) do the same.
+Answer: C
+

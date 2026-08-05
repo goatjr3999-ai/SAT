@@ -1,0 +1,344 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The unique subak water management system used to irrigate the rice paddy fields of the Indonesian island of Bali has a rich cultural, philosophical, and historical significance dating back to the ninth century. The many elements of subak—terraces, canals, and water temples—are ______ : they are joined together into a single cohesive unit.
+
+A. informal
+B. optional
+C. outmoded
+D. interconnected
+Answer: D
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The mihrab (or niche) is one of many features that are foundational to traditional mosque architecture and is therefore considered ______ aspect of mosque design. Even mosques that exhibit elements of multiple architectural styles, such as the KH Hasyim Asy'ari Grand Mosque, which incorporates elements from the Betawi and Indonesian Islamic styles, will also include several of these standard features.
+
+A. an imposing
+B. an embellished
+C. a quintessential
+D. an unprecedented
+Answer: C
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Egyptian plover—a bird native to Africa—has a symbiotic relationship with the Nile crocodile. While a crocodile rests on land with its mouth open for extended periods of time, the plover eats the food that is stuck in the crocodile’s teeth. This ______ relationship provides a nutritious meal for the bird and removes potentially dangerous bacteria from the crocodile’s mouth.
+
+A. reciprocal
+B. interchangeable
+C. inefficient
+D. unequal
+Answer: A
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Until 1917, there was no formal measure in the United States Senate that could be ______ to end a debate that had been excessively prolonged as a tactic to block voting on a matter. In that year, a procedure was created to allow a majority of senators to curtail deliberation and force a vote.
+
+A. improvised
+B. invoked
+C. abolished
+D. partitioned
+Answer: B
+
+Question 5:
+[Details]
+Which choice best states the function of the underlined sentence in the text as a whole?
+
+The following text is adapted from Akwaeke Emezi’s 2019 novel *Pet*. Jam is a teenager who lives with her father, Aloe, and her mother, Bitter, who is a painter.
+
+Bitter finished the painting in the dark morning of a day—it was well past midnight when Jam heard the studio door creak open. She stared into the velvet black of her room and listened to her mother’s footsteps walking in her mother and Aloe’s bedroom. There was a weight thrumming through the floorboards in a low song, and that was how Jam knew the painting was done. __Bitter’s feet were singing the news.__
+
+©2019 by Akwaeke Emezi
+
+A. It describes Aloe’s reaction upon seeing the painting for the first time.
+B. It indicates that Jam is more interested in music than in art.
+C. It adds to the idea that Bitter’s footsteps reveal something to Jam.
+D. It indicates that Bitter always sings when working on a painting.
+Answer: C
+
+Question 6:
+[Structure]
+Which choice best states the main purpose of the text?
+
+In 2016 Ana Filipa Lopes and colleagues published a study concluding that ocean acidification has a strong effect on the behavior of *Atherina presbyter*, a species of fish. However, Lopes and colleagues' study relied on a mean sample size of only about 15 fish. In a 2022 review of various scientists’ conclusions about the impacts of ocean acidification on fish behavior, Timothy D. Clark and colleagues caution that relying on such a relatively small sample size can increase the potential for biased analysis. Such analysis, in turn, can contribute to reports of exaggerated effects.
+
+A. To discuss an aspect of ocean acidification that is frequently overlooked.
+B. To note a potential concern about the findings of a scientific study.
+C. To present a debate between two research teams about a cause of ocean acidification.
+D. To explain how the behavior of a fish species has changed over time.
+Answer: B
+
+Question 7:
+[Structure]
+Which choice best states the main idea of the text?
+
+Habitat navigation is a skill that helps animals reach food or safety. To test how navigation works in fish, Shachar Givon and colleagues taught goldfish to drive a vehicle—a motorized fish tank with wheels.
+
+A. Fish can navigate only within their natural aquatic environment in order to find food and safety.
+B. An animal’s navigational skills directly depend on that animal’s particular environment.
+C. Researchers can train animals to complete many different tasks when they offer the animals treats.
+D. Research shows that although they live in the water, fish can navigate on land with a little mechanical help.
+Answer: D
+
+Question 8:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+Deposits of valuable objects, or hoards, have been unearthed in many different parts of Ireland and Northern Ireland. Some of these hoards were discovered before 2000: for example, ______
+
+A. the Ardagh Hoard was discovered in 1868, and the Balline Hoard was discovered in 1940.
+B. the Ardagh Hoard was one of several hoards discovered in the 1800s.
+C. the Balline Hoard and the Carrick-on-Suir Hoard were both discovered in the 2000s.
+D. the Carrick-on-Suir Hoard was discovered in 1940, and the Balline Hoard was discovered in 2013.
+Answer: A
+
+Question 9:
+[COE]
+Which choice best describes data from the graph that support the underlined claim?
+
+Researcher Helen O’Neill and her team were studying sponges in the family Irciniidae when they discovered that three of the sponges were functioning as microhabitats for banded sand catsharks (*Atelomycterus fasciatus*). Additionally, __the team found that male and female *A. fasciatus* share the same sponge (the same microhabitat)__, a behavior not found among Port Jackson sharks (*Heterodontus portusjacksoni*), another seabed-dwelling species.
+
+A. Each of the three sponges was inhabited by at least one male *A. fasciatus* and at least one female *A. fasciatus*.
+B. Sponge 1 was inhabited by 17 male *A. fasciatus*.
+C. Each of the three sponges was inhabited by at least one male *A. fasciatus* and at least one undetermined *A. fasciatus*.
+D. Sponge 1 was inhabited by 13 female *A. fasciatus*.
+Answer: A
+
+Question 10:
+[COE]
+Which finding, if true, would most strongly support the underlined claim?
+
+Olms are salamanders that live in underwater caves. Scientists once thought that olms stay in their caves all their lives. However, Raoul Manenti and team claim that __olms regularly come to the surface to perform important activities such as finding food.__
+
+A. Researchers discover that earthworms from surface soils are a major part of olms' diet.
+B. Researchers learn that olms' brains differ from other salamanders' brains.
+C. Researchers confirm that olms live in only a few cave systems.
+D. Researchers determine that olms don't breed often.
+Answer: A
+
+Question 11:
+[COE]
+Which choice best describes data from the graph that support the team’s conclusion?
+
+Studies have shown that plants usually have a negative electrical charge, while bees and other pollinators tend to have a positive charge. Because negatively and positively charged objects attract, a team of researchers examined whether this mechanism plays a role in the transmission of pollen between plants and pollinators. The researchers’ experiments showed that positive charges above 200 picocoulombs (PC) could draw pollen grains to a pollinator, so they concluded that both bumblebees and European peacock butterflies can attract pollen.
+
+A. Both the bumblebees and the European peacock butterflies were found to have maximum charges greater than 200 PC.
+B. The bumblebees were found to have a maximum charge many times greater than that found for the houseflies.
+C. The European peacock butterflies were found to have a greater maximum charge than the bumblebees and the houseflies were found to have.
+D. The houseflies were found to have a maximum charge below 200 PC.
+Answer: A
+
+Question 12:
+[COE]
+Which choice best describes data from the graph that support Pötzelsberger and colleagues' conclusion?
+
+Elisabeth Pötzelsberger and colleagues gathered data on 23 non-native tree species grown in Europe. They analyzed reports from Denmark, Finland, and Belgium about the number of these species grown by the timber industries in those countries. The researchers concluded that none of these countries' timber industries grow all 23 species.
+
+A. There are species other than those reported by Belgium that are important to its timber industry, but they're native to the country.
+B. Some of the species that Finland reported are not among the 23 tree species that Pötzelsberger and colleagues were evaluating.
+C. Denmark, Finland, and Belgium each reported at least 4 of the 23 species.
+D. Denmark, which reported more of the 23 species than either Finland or Belgium did, reported fewer than 15 of the species.
+Answer: D
+
+Question 13:
+[COE]
+Which finding, if true, would most directly support Mulder and Spellman’s conclusion?
+
+Creeping dogwood (*Cornus canadensis*) plants are native to Alaska, where harsh conditions have historically impeded potential invasive species. As the boreal climate has warmed in recent decades, however, common knotgrass (*Polygonum aviculare*) plants have established themselves in Alaska. It has been suggested that warming induced delays in the onset of subfreezing temperatures in autumn can benefit invasives more than native species; to evaluate this possibility, biologists Christa Mulder and Katie Spellman tracked *C. canadensis* and *P. aviculare*, along with other native and invasive species, over several years, concluding that invasives are advantaged by delays in subfreezing temperature onset in Alaska.
+
+A. Although *C. canadensis* and *P. aviculare* both tended to produce leaves later into autumn in years with late subfreezing temperature onset, the extension was much greater for *P. aviculare* than for *C. canadensis*.
+B. Although *C. canadensis* and *P. aviculare* both tended to produce more leaves overall in years with late subfreezing temperature onset than they did in years with historically typical temperature patterns, the years with late subfreezing temperature onset also had early growing season onset in spring.
+C. Although *C. canadensis* and *P. aviculare* tended to stop producing leaves at about the same time in years with historically typical temperature patterns, *P. aviculare* stopped producing leaves sooner than *C. canadensis* did in years with late subfreezing temperature onset.
+D. Although significant interannual variations in subfreezing temperature onset were observed during the study, neither *P. aviculare* nor *C. canadensis* showed any significant interannual variation in the cessation of leaf production.
+Answer: A
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Southern Colorado's Conejos County is among the most rural counties in the United States: the US Census Bureau classified it as 100% rural in 2010. Researchers studying populations of counties like Conejos often struggle to recruit and retain participants. Melissa Valerio and colleagues tested whether a method called snowball sampling could improve recruitment and retention. Working in two rural counties, the researchers identified a small number of people who had the characteristics desired for a proposed study and asked them to recruit additional participants from their social networks. Valerio and colleagues found that participants recruited via snowball sampling showed a much higher retention rate than did people recruited by strangers, suggesting that ______
+
+A. social networks can become large enough that two people can share a network but nevertheless regard each other as strangers
+B. snowball sampling is more likely to improve retention rates among rural participants than among nonrural participants
+C. people with relatively small social networks are inherently less likely to be recruited to participate in a study via snowball sampling than are people with relatively large social networks
+D. being recruited to participate in a study by someone with whom one is socially connected may impart a feeling of obligation to persist with participation in the study
+Answer: D
+
+Question 15:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In the periodic table, an element’s atomic number indicates how many protons there are in an atom of the element. For example, a xenon atom ______ 54 protons. Professor Raymond Chang explains this concept in more detail in the textbook *Chemistry*.
+
+A. had
+B. has had
+C. has
+D. is having
+Answer: C
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Koulsy Lamko, born in 1959, is a playwright from Dadouar, Chad. In recent years more writers from Chad, including Lamko, ______ to reach audiences beyond the African nation's borders.
+
+A. have begun
+B. is beginning
+C. has begun
+D. begins
+Answer: A
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of standard English?
+
+The Borgia map is a mappa mundi from the fifteenth century. Currently held at the Vatican Library in Vatican City, it is one of over 1,000 such world maps from the European Middle Ages still remaining, with the even older Hereford map from the fourteenth century (now held at Hereford Cathedral in Hereford, England) ______ another one.
+
+A. being
+B. is
+C. has been
+D. was
+Answer: A
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The African baobab (*Adansonia digitata*) known as Panke Baobab, located in Zimbabwe, was one of the oldest known trees in the world, at 2,419 years old. With over two millennia of climate data in its tree ______ single tree like this, claims dendrochronologist Valerie Trouet, can tell the history of the world.
+
+A. rings, a
+B. rings. A
+C. rings and a
+D. rings; a
+Answer: A
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The transit method, a means of indirect planetary discovery, has detected previously unknown exoplanets at vast distances from ______ the super Earth TRAPPIST-1 b; at 352 light-years away, the super Earth Kepler-102 f; and, as of 2023, over 4,000 other exoplanets that are too far away and dim to be observed directly.
+
+A. Earth: at 41 light-years away,
+B. Earth at 41 light-years away:
+C. Earth, at 41 light-years away,
+D. Earth at 41 light-years away,
+Answer: A
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+L. Leann Kanda, a researcher and sewing enthusiast, experimented with several techniques in her attempt to replicate the famous pleating of the Fortuny Delphos gown. The specific method, which the fashion ______ developed in the early twentieth century, is considered lost.
+
+A. designers, Henriette Nigrin and Mariano Fortuny y Madrazo
+B. designers Henriette Nigrin and Mariano Fortuny y Madrazo
+C. designers Henriette Nigrin and Mariano Fortuny y Madrazo,
+D. designers, Henriette Nigrin and Mariano Fortuny y Madrazo,
+Answer: B
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+While studying jorö spiders, a large species originally from East Asia, University of Georgia researchers wondered if the spiders' rapid spread throughout the southeastern US was a result of aggressive behavior, ______ they discovered that jorö spiders are gentle giants who react to even minor disturbances by “freezing” in place for an hour or more.
+
+A. In other words,
+B. Therefore,
+C. For example,
+D. Instead,
+Answer: D
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Some bands choose a name that's as unique as possible to distinguish themselves from other bands. The electronic rock band Primary, ______ took a different approach. They chose to name themselves after a song by a well-known band, the Cure.
+
+A. therefore,
+B. by contrast,
+C. for example,
+D. secondly,
+Answer: B
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Portuguese researcher Isabel C.F.R. Ferreira reports that the caffeic acid in termite mushrooms benefits the mushroom by combating harmful molecules called free radicals. ______ Ferreira suggests that the acid can promote cellular health in humans, who also experience free radical damage.
+
+A. Conversely,
+B. Moreover,
+C. Rather,
+D. For example,
+Answer: B
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The Eloi are not real: they are fictional creatures that feature in H.G. Wells's acclaimed science fiction novella *The Time Machine*. ______ the Eloi were prime candidates for inclusion in Jorge Luis Borges and Margarita Guerrero's *The Book of Imaginary Beings*, a compendium of fantastical entities from legend and literature.
+
+A. Granted,
+B. In reality,
+C. As such,
+D. For example,
+Answer: C
+
+Question 25:
+[Synthesis]
+The student wants to emphasize the order in which the supercontinents were formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• A supercontinent is a single landmass made up of most or all of Earth's continents.
+• Over time, continents merge together to form supercontinents, which then break apart.
+• This process is believed to take hundreds of millions of years and is known as the supercontinent cycle.
+• Ur was a supercontinent that formed about 3.1 billion years ago.
+• Pangaea was a supercontinent that formed about 300 million years ago.
+
+A. The supercontinent Pangaea formed long after the supercontinent Ur.
+B. Forming and breaking apart over hundreds of millions of years, supercontinents are made up of most or all of Earth's continents.
+C. Ur and Pangaea were both supercontinents, single landmasses made up of most or all of Earth's continents.
+D. Ur formed about 3.1 billion years ago but eventually broke apart.
+Answer: A
+
+Question 26:
+[Synthesis]
+The student wants to provide an example of a poem by Johnson. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Charles Bertram Johnson (1880-1958) was an African American poet.
+• Johnson also worked as an educator and minister.
+• “Old Things” is a poem by Johnson.
+• It was published in the March 1923 issue of The Crisis.
+• The Crisis is an influential Black literary magazine.
+
+A. Johnson was an African American poet, educator, and minister.
+B. Johnson published poetry in a literary magazine called The Crisis.
+C. One example of a poem by Johnson is “Old Things” (1923).
+D. The Crisis is an influential Black literary magazine that has published poetry.
+Answer: C
+
+Question 27:
+[Synthesis]
+The student wants to provide an example of a position in ballroom dance. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Body positions are an important part of dance.
+• In ballroom dance, there is a position called closed facing position.
+• It is one of several positions for partner dancing.
+
+A. Closed facing position is an example of a position in ballroom dance.
+B. In dance, some positions are for partner dancing.
+C. Body positions are an important part of dance, including ballroom dance.
+D. Ballroom dance includes several dance positions for partner dancing.
+Answer: A
+

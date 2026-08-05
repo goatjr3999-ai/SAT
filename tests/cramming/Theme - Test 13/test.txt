@@ -1,0 +1,196 @@
+Question 1:
+[Cross Text]
+Based on the texts, how would the author of Text 2 most likely respond to the overall characterization in Text 1 of the publicity campaign?
+
+Text 1
+*The Roadmender, The Life of Martin R. Delany*, and twenty-three other works of the late 1800s and early 1900s were rerelapsed in 2020 as publicity for a prestigious prize for women writers of fiction. Recognizing that women long had to use male pseudonyms for their works to be granted serious consideration (by publishers and readers alike), the campaign restored the authors’ given female names in place of such pseudonyms and brought visibility to identities that should not have been hidden.
+Text 2
+The belief that women historically were barred from publishing under names perceived as female is persistent. That it is also an overgeneralization becomes obvious when considering writers such as Elizabeth Barrett Browning, who published Poems and many other works under her own name in the 1800s, and Mary Mackay, who elected to use the female pseudonym Marie Corelli for her novels and stories in the late 1800s.
+
+
+A. By suggesting that Barrett Browning and Mackay are among the historical examples that challenge the assumption about the historical use of pseudonyms by female writers that is presented in Text 1
+B. By agreeing that the authors of The Roadmender, The Life of Martin R. Delany, and the other works referred to in Text 1 were not afforded the same opportunities as Barrett Browning and Mackay to shape their own representations when publishing
+C. By acknowledging that the circumstances of publication for Barrett Browning and Mackay differed from those for the authors whose works are the focus of Text 1, given that Barrett Browning and Mackay each published multiple works
+D. By asserting that while it is clearly inappropriate to conclude that Barrett Browning was motivated by the same set of factors as the authors of the works discussed in Text 1 to publish under the names they did, it is appropriate to conclude that Mackay was
+Answer: A
+
+Question 2:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+*The Life of Martin R. Delany* is one of twenty-five works from the nineteenth and early twentieth centuries reissued in 2020 in a project professing to give overdue credit to authors by replacing nonfemale pseudonyms with the authors’ given female names (crediting Frances Rollin Whipper rather than Frank A. Rollin, in this case). Claire Jarvis and other scholars cite a lack of nuance and erasure of intention in the implication that pseudonymous identities were invariably necessary due to social roles, appropriately contending that what may have been a constraint for some was an elective exercise in self-fashioning for others.
+
+
+A. The Life of Martin R. Delany is cited as a prominent work from a literary movement, a study of the movement’s defining features is mentioned, and then one of the study’s insights is presented.
+B. A literary project is briefly described, the stance taken by Jarvis and others in response to that project is introduced, and then support for that stance is expressed.
+C. An assertion about a literary project is reported, the team of scholars that advanced the assertion is identified, and then the reasoning behind the assertion is summarized.
+D. Details about a reissue of The Life of Martin R. Delany are given, a question about the authorship of that work is raised, and then the circumstances of the work’s original publication are considered.
+Answer: B
+
+Question 3:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+John Thomson utilized the pen name “Gracchus”—borrowed from a prominent Roman statesman—in the political treatises he composed in 1795, a decision that achieved much more than merely hiding his identity. ____ it was not an arbitrary alias; rather, it served as a carefully crafted rhetorical method by which Thomson associated his political ideas with the esteemed republican values of antiquity, thus heightening the credibility of his writings.
+
+
+A. Conversely,
+B. In addition,
+C. Indeed,
+D. However,
+Answer: C
+
+Question 4:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Selected nineteenth- and early twentieth-century works were reissued in a 2020 publicity campaign purporting to "restore" authors' given female names in place of male or nongendered pseudonyms (e.g., *Ye Game and Playe of Chesse* by Alice Dunbar-Nelson, not Monroe Wright; *The Head of Medusa* by Julia Fletcher, not George Fleming). Sophie Coulombeau and other scholars have charged this effort with perpetuating the fallacy that concealment of female authorship was once a necessity. Indeed, though likely used by some of the authors featured in the campaign as an unavoidable means to circumvent more general societal barriers, __aliases were readily adopted by others, sometimes explicitly to distinguish works in different genres__.
+
+
+A. It reveals that scholars' concerns are justified by confirming that personal factors rather than social pressures drove the cited authors not to publish under the names Alice Dunbar-Nelson and Julia Fletcher.
+B. It lends support to the view attributed to Coulombeau and others by advancing a claim about the discretion certain authors exercised when publishing their works.
+C. It articulates a distinction scholars have drawn between Ye Game and Playe of Chesse and The Head of Medusa in terms of contemporaneous public awareness of the authors' use of pseudonyms.
+D. It identifies a theme that Coulombeau and others assert is prevalent either explicitly or implicitly in the works selected for inclusion in a publicity campaign.
+Answer: B
+
+Question 5:
+[Structure]
+Which choice best states the main idea of the text?
+
+Garden of Kama is one of twenty-five works from the nineteenth and early twentieth centuries reissued in 2020 in a project professing to give overdue credit to authors by replacing nonfemale pseudonyms with the authors' given female names (crediting Mary Tuttiett rather than Maxwell Gray, in this case). Olivia Rutigliano and other scholars cite a lack of nuance and erasure of intention in the implication that pseudonymous identities were invariably necessary due to social roles, appropriately contending that what may have been a constraint for some was an elective exercise in self-fashioning for others.
+
+
+A. Scholars have observed that a campaign involving literary works amplifies awareness of the fact that social bias made pseudonymous publication necessary for a certain class of nineteenth- and early twentieth-century authors to achieve success.
+B. By crediting works to names other than those historically associated with their publication, a campaign involving literary works has inadvertently led readers to believe that the authorship of those works had previously been misattributed.
+C. The approach to acknowledgement of authorship taken by a campaign involving literary works encourages the erroneous belief that social pressures uniformly drove the use of pseudonyms by the authors whose works are featured.
+D. While also addressing the idea that the circumstances of publication for any given work are deeply influenced by the particulars of time and place, a campaign involving literary works primarily emphasizes the autonomy the authors exercised in presenting their works.
+Answer: C
+
+Question 6:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Researchers César A. Hidalgo, Elisa Casta'er, and Andres Sevtsuk created a computer model to predict the mix of electronics stores, bakeries, and other businesses found in a given neighborhood. __How we define a neighborhood and its boundaries is subjective__, so the team used a clustering algorithm to locate dense group lines of amenities that represent human-identified neighborhoods like Boston's Central Square**.** The predictive model, which incorporates this algorithm, is sure to be invaluable in determining the optimal mix of city's amenities.
+
+A. It emphasizes the accuracy of an algorithm used to identify the boundaries of specific neighborhoods.
+B. It suggests a difficulty associated with analysing neighbourhoods that the research team attempted to overcome.
+C. It criticizes the methods that urban planners traditionally use to define neighbourhoods.
+D. It introduces a study about the clustering of amenities in urban neighbourhoods.
+
+Answer: B
+
+Question 7:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Quito, Ecuador, and Montevideo, Uruguay, were surveyed about parks in their cities. For the 624 residents of both cities, 85.4% reported using their city's parks, and of the 617 respondents from Montevideo, 76.7% indicated using city parks. __Given that the percentage of Quito respondents who reported using parks was higher than the percentage of Montevideo respondents__, greater proximity alone can't explain the difference in park use.
+
+A. It introduces a counterexample to the scenario described earlier in the text.
+B. It identifies the nature of a relationship that is significant to the text's conclusion.
+C. It provides context to help readers understand the scope of the researchers' survey.
+D. It marks a shift from a discussion of the researchers' conclusion to a discussion of their methods.
+
+Answer: B
+
+Question 8:
+[COE]
+According to the text, why did the team employ a clustering algorithm?
+
+Researchers César A. Hidalgo, Elisa Castañer, and Andres Sevtsuk created a computer model to predict the mix of gyms, beauty salons, and other businesses found in a given neighborhood. How we define a neighborhood and its boundaries is subjective, so the team used a clustering algorithm to locate dense groupings of amenities that represent human-identified neighborhoods like Boston’s Central Square. The predictive model, which incorporates this algorithm, is sure to be invaluable in determining the optimal mix of a city’s amenities.
+
+A. The algorithm provided insight into how customers are made aware of new gyms and beauty salons.
+B. The algorithm gave them an objective way to identify neighborhoods.
+C. The algorithm could be used to evaluate the reasons for a business’s closing.
+D. The algorithm could predict which types of businesses would be successful in a given neighborhood.
+
+Answer: B
+
+Question 9:
+[COE]
+According to the text, what is one potential drawback of Hidalgo and colleagues’ method?
+
+Researchers César A. Hidalgo, Elisa Castaner, and Andres Sevtsuk created a computer model to predict the mix of businesses and places of interest found in a given neighborhood. The team used data from the Google Places API service to help identify movie theaters, gyms, and other businesses and map their locations. This approach has some limits—data from Places API tend to be restricted to places that are customer facing— but the data set nonetheless provides an extremely reliable source to study colocation patterns of neighborhood amenities.
+
+A. It may lead to conclusions that are not reflective of all the amenities in a given neighborhood.
+B. It is likely to contribute to inaccurate identifications of the boundaries of specific neighborhoods.
+C. It is based on recent advancements from other fields that have yet to be applied outside of those contexts.
+D. It depends upon data that are likely to be outdated.
+
+Answer: A
+
+Question 10:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Researchers César A. Hidalgo, Elisa Castañer, and Andres Sevtsuk created a computer model to predict the mix of businesses and services often found in a given neighborhood. Their team used data from the Google Places API service to help identify gyms, clothing stores, and other businesses and map their locations. This approach has some limits—__data from Places API tends to be restricted to places that are customer facing__ — but the data set nonetheless provides an extremely reliable source to study collocation patterns of neighborhood amenities.
+
+A. It identifies a specific flaw in using a data set about amenities in cities.
+B. It introduces a model that a research team built to evaluate the mix of amenities in urban neighborhoods.
+C. It emphasizes the potential utility of the team's model.
+D. It describes the imprecise and subjective nature of neighborhood boundaries.
+
+Answer: A
+
+Question 11:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+Researchers César A. Hidalgo, Elisa Castañer, and Andres Sevtsuk created a computer model to predict the mix of movie theaters, gyms, and other businesses found in a given neighborhood. How we define a neighborhood and its boundaries is subjective, so the team used a clustering algorithm to locate dense groupings of amenities that represent human-identified neighborhoods like Boston’s Harvard Square. The predictive model, which incorporates this algorithm, __is sure to be invaluable in determining the optimal mix of a city’s amenities__.
+
+A. It praises an algorithm’s accuracy in identifying neighborhood boundaries.
+B. It emphasizes the potential utility of the team’s model.
+C. It suggests a difficulty associated with analyzing neighborhoods that the research team attempted to overcome.
+D. It summarizes trends in recent urban development in Boston.
+
+Answer: B
+
+Question 12:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Researchers César A. Hidalgo, Elisa Castañer, and Andres Sevtsuk created a computer model to predict the mix of gyms, beauty salons, and other businesses found in a given neighborhood. How we define a neighborhood and its boundaries is subjective, so the team used a clustering algorithm to locate dense groupings of amenities that represent human-identified neighborhoods like Boston’s Central Square. The predictive model, which incorporates this algorithm, is sure to be invaluable in determining the optimal mix of a city’s amenities.
+
+A. It describes how an algorithm can predict the success of certain businesses, discusses an example of a use of that algorithm, and suggests potential uses of the algorithm in other fields.
+B. It introduces a research team’s study of urban neighborhoods, describes an aspect of the study’s methodology, and suggests a potential application of the team’s research.
+C. It summarizes trends in recent urban development, describes a potential problem for urban planners, and suggests a computational tool that can be used to solve that problem.
+D. It explains why urban planners are interested in understanding the locations of certain businesses, details a study that has addressed this question, and identifies one key finding.
+Answer: B
+
+Question 13:
+[COE]
+Which finding, if true, would most directly support the researchers' conclusion?
+
+Christina Zdenek, Chris Hay, and their team studied hearing in woma pythons (*Aspidites ramsayi*), eastern brown snakes (*Pseudonaja textilis*), and rough-scaled death adders (*Acanthophis rugosus*). They observed whether the snakes move toward or away from the source of a sound traveling through the air. The researchers concluded that woma pythons, unlike eastern brown snakes and rough-scaled death adders, were more curious than cautious about the airborne sound.
+
+
+A. During the trials, woma pythons moved toward the source of the sound, whereas eastern brown snakes and rough-scaled death adders moved away from the source of the sound.
+B. During the trials, woma pythons moved farther away from the source of the sound than did eastern brown snakes and rough-scaled death adders.
+C. Woma pythons, eastern brown snakes, and rough-scaled death adders are typically preyed on by foxes and cats in the wild.
+D. Both eastern brown snakes and rough-scaled death adders typically prey on woma pythons.
+Answer: A
+
+Question 14:
+[COE]
+Which finding from Christina Zdenek, Timothy Staples, and their team’s study, if true, would most directly challenge the underlined assumption?
+
+A student is studying how woma pythons, eastern brown snakes, and rough-scaled death adders react to sound. The student knew that many snakes display movement of more than 20 cm in response to sound traveling through the ground but assumed that __snakes do not detect sound traveling through the air__ until reading a study by Christina Zdenek, Timothy Staples, and their team.
+
+
+A. Neither eastern brown snakes nor rough-scaled death adders display movement of more than 20 cm in response to airborne sound.
+B. Woma pythons have better overall hearing than do rough-scaled death adders.
+C. Both woma pythons and eastern brown snakes react only to sounds traveling through the ground.
+D. Woma pythons, eastern brown snakes, and rough-scaled death adders display movement of more than 20 cm in response to both ground and airborne sound waves.
+Answer: D
+
+Question 15:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+Christina Zdenek, Damian Candusso, and their team researched snakes' hearing by studying how woma pythons (Aspidites ramsayi), eastern brown snakes (Pseudonaja textilis), and dugites (Pseudonaja affinis) react to different sound frequencies. The researchers played sounds from a speaker in an otherwise soundproof room. __Two of the sounds traveled only through the air, while the third sound also produced ground vibrations__. The researchers found that the snakes react to sound waves traveling through both types of medium.
+
+
+A. It defines two scientific terms used in the previous sentence.
+B. It counters a common misconception that is introduced in the previous sentence.
+C. It identifies important characteristics of the sounds mentioned in the previous sentence.
+D. It notes an exception to the claim presented in the previous sentence.
+Answer: C

@@ -1,0 +1,54 @@
+Question 1:
+The average score of 4 students in a test was 25 points. If the highest individual score is removed, the average score of the remaining 3 students becomes 20 points. What was the highest score?
+
+A. 30
+B. 35
+C. 40
+D. 45
+Answer: C
+
+Question 2:
+Data set A consists of the heights of 75 buildings and has a mean of 32 meters. Data set B consists of the heights of 50 buildings and has a mean of 62 meters. Data set C consists of the heights of the 125 buildings from data sets A and B. What is the mean, in meters, of data set C?
+
+Answer: 44
+
+Question 3:
+A data set of 27 different numbers has a mean of 33 and a median of 33. A new data set is created by adding 7 to each number in the original data set that is greater than the median and subtracting 7 from each number in the original data set that is less than the median. Which of the following measures does NOT have the same value in both the original and new data sets?
+
+A. Median
+B. Mean
+C. Sum of the numbers
+D. Standard deviation
+Answer: D
+
+Question 4:
+A survey was taken of the value of homes in a county, and it was found that the mean home value was 165,000 dollars and the median home value was 125,000 dollars. Which of the following situations could explain the difference between the mean and median home values in the county?
+
+A. The homes have values that are close to each other.
+B. There are a few homes that are valued much less than the rest.
+C. There are a few homes that are valued much more than the rest.
+D. Many of the homes have values between $125,000 and $165,000.
+Answer: C
+
+Question 5:
+Andrew and Maria each collected six rocks, and the masses of the rocks are shown in the table above. The mean of the masses of the rocks Maria collected is 0.1 kilogram greater than the mean of the masses of the rocks Andrew collected. What is the value of {{MATH_1}}?
+
+Answer: 2.6
+
+Question 6:
+The table above lists the lengths, to the nearest inch, of a random sample of 21 brown bullhead fish. The outlier measurement of 24 inches is an error. Of the mean, median, and range of the values listed, which will change the most if the 24-inch measurement is removed from the data?
+
+A. Mean
+B. Median
+C. Range
+D. They will all change by the same amount.
+Answer: C
+
+Question 7:
+A survey was given to residents of all 50 states asking if they had earned a bachelor-s degree or higher. The results from 7 of the states are given in the table above. The median percent of residents who earned a bachelor-s degree or higher for all 50 states was 26.95%. What is the difference between the median percent of residents who earned a bachelor-s degree or higher for these 7 states and the median for all 50 states?
+
+A. 0.05%
+B. 0.95%
+C. 1.22%
+D. 1.45%
+Answer: B

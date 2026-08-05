@@ -1,0 +1,122 @@
+Question 1:
+[COE]
+It can be inferred from the passage that Schatz would most likely agree with which of the following about the intellectuals mentioned in the passage?
+
+Before its reassessment by film historians in the 1980s, the Hollywood studio system of the 1930s and 40s was largely seen by contemporary intellectuals as a factory for formulaic escapism—a creatively bankrupt, commercialized purveyor of standardized entertainment. Later analyses of the studio era, however, highlight its capacity for social commentary, particularly the subtle critiques of capitalism embedded in many genre films. The reconciliation of these films' subversive undercurrents with their adherence to strict genre conventions and production codes has been a challenge for scholars. Seeking to explain this paradox, scholar Jeanine Basinger argues that filmmakers strategically used conventional genres as a "smokescreen" to conceal critical messages from studio heads and censors. An alternative interpretation is offered by Thomas Schatz, who suggests that the genre system itself could foster socially significant, not just conformist, results by tapping into collective cultural anxieties and channeling them into cathartic narratives that implicitly questioned the status quo.
+
+A. Their analysis correctly identifies the primary goal that studio-era filmmakers sought to accomplish.
+B. Their view of the studio system is not as wholly negative as some later film historians have portrayed it.
+C. Their mistake was in overstating the degree to which these films were intended to have a social function.
+D. They incorrectly presuppose that a formulaic or commercial framework is inherently devoid of critical substance.
+Answer: D
+
+Question 2:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+In Egypt, use of solid fuel (e.g., coal, wood) as a share of total household fuel use fell by more than 90 percent between 2000 and 2015; such shifts are typically explained by appeal to the energy ladder, a model holding that fuel choice is mediated mainly by household income (specifically, high-technology fuels displace solid fuels as incomes rise). Alemu Mekonnen and Gunnar Köhlin’s study of fuel use in Ethiopia shows how reductive this model is, however: __although income of course constrained fuel choice__, several circumstances, including the local availability of different fuel sources, influenced decisions.
+
+A. It anticipates a potential objection to the description of a model that the text provides.
+B. It admits the superficial plausibility of an assumption that the text presents as lacking any empirical support.
+C. It acknowledges the role played by a factor whose importance the text suggests has been overstated.
+D. It concedes that a finding may not appear to support the main view that the text advances.
+Answer: C
+
+Question 3:
+[COE]
+Which choice best describes the finding made by Fernández-Duque and colleagues, as presented in the text?
+
+Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Mary V. Price and colleagues found to be negatively associated with foraging by white-throated woodrats but Eduardo Fernández-Duque and colleagues found to be positively associated with foraging by Azara’s night monkeys. This discrepancy is explicable in terms of OFT: the monkeys’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the woodrats.
+
+A. Increased lunar intensity is more beneficial for Azara’s night monkeys than it is for white-throated woodrats.
+B. As lunar intensity increases, white-throated woodrats reduce their foraging activity.
+C. As lunar intensity increases, Azara’s night monkeys increase their foraging activity.
+D. During periods of high lunar intensity, Azara’s night monkeys increase their reliance on vision.
+Answer: C
+
+Question 4:
+[COE]
+The passage indicates which of the following as a reason for the traditional separate analysis of Italian Renaissance artistic centers by historians?
+
+During the 15th and 16th centuries, Italian Renaissance art was dominated by three major centers of artistic production: Florence, Rome, and Venice, which employed a significant number of the era's artists. An analysis of these artistic hubs has been traditionally conducted separately by art historians, a result of their high degree of diversity in style, patronage, and technique. However, a unifying influence across all three hubs was the rediscovery of classical antiquity, which profoundly shaped artistic practice. Based on this shared foundation, historian Alistair Finch posits that an integrated examination of these three centers is necessary. Such a holistic approach, Finch contends, would enable the identification of pan-Italian artistic trends that may have shaped the Renaissance art world as a whole.
+
+A. a shared foundation in classical antiquity across all artistic centers
+B. commonalities in the artistic styles of Florence, Rome, and Venice
+C. the overall influence of Renaissance art on European culture
+D. variations in artistic techniques among the three major centers
+Answer: D
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Established knowledge of prehistoric societies primarily stems from analysis of durable historical artifacts, including stone tools, but Mercedes Murillo-Barroso and team have contributed new insights with a unique analysis of plant-based items. Plant-based artifacts, including straw baskets, are seldom studied due to their perishable nature. __This relative scarcity__ made it all the more exciting when the team examined remains of well-preserved organic artifacts discovered in a cave in Spain and determined that they dated even further back than previously thought.
+
+A. It suggests that the researchers did not fully achieve a goal outlined earlier in the text.
+B. It describes the uncertain nature of a discovery by the researchers mentioned earlier in the text.
+C. It distinguishes between the two types of historical artifacts discussed earlier in the text.
+D. It refers to a challenging situation presented earlier in the text.
+Answer: D
+
+Question 6:
+[COE]
+Which quotation from The Wonderful Wizard of Oz most effectively illustrates the claim?
+
+The Wonderful Wizard of Oz is a 1900 novel by L. Frank Baum. In the novel, the narrator describes a character’s house as having become very faded in appearance over time: ____.
+
+A. “Once more [Dorothy and her companions] could see fences built beside the road; but these were painted green, and when they came to a small house, in which a farmer evidently lived, that also was painted green.”
+B. “Then [Dorothy] went back to the house, and having helped herself and Toto to a good drink of the cool, clear water, she set about making ready for the journey to the City of Emeralds.”
+C. “Once the house had been painted, but the sun blistered the paint and the rains washed it away, and now the house was as dull and gray as everything else.”
+D. “When Dorothy stood in the doorway and looked around, she could see nothing but the great gray prairie on every side. Not a tree nor a house broke the broad sweep of flat country.”
+Answer: C
+
+Question 7:
+[COE]
+Which quotation from a translation of Uncle Vanya most effectively illustrates the claim?
+
+Uncle Vanya: Scenes from Country Life in Four Acts is an 1898 play by Anton Chekhov, originally written in Russian. In the play, Professor Serebrakoff and his wife Helena have come to stay at their country estate, which Vanya manages with the help of Sonia, the professor’s daughter from a previous marriage. Chekhov portrays the relationship between Vanya and Professor Serebrakoff as being much more strained than it once was, as is evident when _____.
+
+A. Vanya says to Professor Serebrakoff, “For twenty-five years I have managed [the country estate], and have sent you the returns from it like the most honest of servants, and you have never given me one single word of thanks for my work, not one—neither in my youth nor now.”
+B. Vanya says of Professor Serebrakoff, “He is everlastingly whining about his hard lot, though, as a matter of fact, he is extraordinarily lucky.”
+C. Professor Serebrakoff asks Vanya to leave the room, saying, “For the sake of our former friendship do not protest against going. We will talk some other time.”
+D. Professor Serebrakoff says to Helena, “It is funny that everybody listens to [Vanya] and his old idiot of a mother, but the moment I open my lips you all begin to feel ill-treated.”
+Answer: C
+
+Question 8:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+The following text is from Armando Palacio Valdés's short story *“The Love of Clotilde,”* originally published in Spanish in 1884. In the story, Don Jerónimo is a financial supporter of artists in the theater.
+Any youth from the provinces who arrived in Madrid with a drama in his pocket could __take no surer road__ to seeing it produced than that which led to the home of Don Jerónimo. One and all, he received them with open arms, the good and the bad alike. There is no denying that, since he was rather brusque in his ways, he never spared the young authors who asked his advice and read him their productions, but criticized vigorously, even to the verge of insult.
+
+A. It suggests that Don Jerónimo does not enjoy financially supporting playwrights.
+B. It creates a contrast between the reputation of a young playwright and that of Don Jerónimo.
+C. It emphasizes the degree to which Don Jerónimo’s support is consequential for inexperienced playwrights.
+D. It explains Don Jerónimo’s view of the quality of theatrical works of the time.
+Answer: C
+
+Question 9:
+[COE]
+The text suggests that the narrator's initial perception of Mr. Holloway, upon starting his employment, was that of a
+
+This excerpt is from Diana Miller's novel, The Apprentice, first released in 2001.
+My initial salary had been dispensed, and as I made my way back to my dwelling, a gratifying sense pervaded me that my employer had begrudgingly parted with every cent of my meager earnings—(My previous view of Mr. Holloway as a kinsman had long since faded—he revealed himself to be an oppressive taskmaster, aspiring to nothing more than the role of a merciless despot). Potent, though repetitive, thoughts consumed me; an internal dialogue ensued, with two voices reiterating the same refrains. The first declared, "Julian, your existence is unbearable." The second questioned, "What power do you have to change it?" My pace quickened against the biting chill of a January evening.
+
+A. benign competitor.
+B. supportive confederate.
+C. discerning critic.
+D. rigorous guide.
+Answer: B
+
+Question 10:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Historical consensus holds that the great pyramids of Egypt were constructed by massive crews of enslaved laborers, a narrative popularized by ancient historians and later reinforced in popular culture. __Nevertheless, a reexamination of archaeological findings indicates that a paid, skilled workforce was likely responsible for this monumental feat__: excavations near the pyramids have unearthed settlements with evidence of well-fed workers who received medical care, and detailed administrative records documenting rations have also been found. Without this organized labor force, the precision engineering of the pyramids would have been nearly impossible, and the society required to support the project would have been fundamentally different.
+
+A. It weakens the claim that the construction of the pyramids was a significant undertaking.
+B. It reinforces the traditional narrative about the workforce that built the pyramids.
+C. It casts doubt on the idea that the pyramids were built by organized groups of people.
+D. It disputes the long-held belief that the pyramids were built using slave labor.
+Answer: D
+

@@ -1,0 +1,373 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Despite assertions of universal applicability, substantial investigations into volcanic activity conducted throughout the early 2000s were narrowly centered on volcanic regions in Japan and Italy, primarily because of restricted observational data elsewhere. Subsequently, scientists managed to ______ this limitation when newly acquired satellite datasets from volcanic zones in Africa, such as the Democratic Republic of Congo, and Southeast Asia, such as Indonesia, became accessible.
+
+
+A. substantiate
+B. presuppose
+C. typify
+D. ameliorate
+Answer: D
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Despite stated claims of the ______ of the research, much analysis of income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later remedy this shortcoming after gaining new access to banking records located in nations in Asia, such as China, and Eastern Europe, such as Hungary.
+
+
+A. pervasiveness
+B. immutability
+C. exhaustiveness
+D. novelty
+Answer: C
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+What once appeared to be a guaranteed success—a metropolitan rail line extending from the central hub of New York City to Montauk, backed by meticulous urban planning and secured funding—was abruptly terminated. Given that progress had turned an ambitious fantasy into a conceivable reality, the sudden reversal remains utterly _______.
+
+
+A. pernicious
+B. inexplicable
+C. tortuous
+D. sweeping
+Answer: B
+
+Question 4:
+[COE]
+Which choice best describes the main purpose of the text?
+
+Which household cleaning product is most effective at removing stains? One way to explore this question is to use the scientific method. This method involves forming a hypothesis, conducting an experiment, collecting data, and drawing a conclusion. Using the scientific method helps us understand how things work and helps us answer questions, such as the one about household cleaning products.
+
+
+A. To summarize two sides of a scientific debate
+B. To describe the career of a famous scientist
+C. To explain one way to answer the question about household cleaning products
+D. To criticize an experiment scientists conducted about household cleaning products
+Answer: C
+
+Question 5:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is adapted from Daniel Defoe’s 1704 nonfiction book The Storm.
+If I judge right, ‘tis the duty of an historian to set everything in its own light, and to convey matter of fact upon its legitimate authority, and no other: I mean thus, (for I would be as explicit as I can) that where a story is vouched to him with sufficient authority, he ought to give the world the special testimonial of its proper voucher, or else he is not just to the story: and where it comes without such sufficient authority, he ought to say so; otherwise he is not just to himself.
+
+
+A. It asserts that some historical documents are more trustworthy than others.
+B. It points out what Defoe thinks of as a widespread problem with historical research.
+C. It presents Defoe’s view of the appropriate ethical practice when engaging in historical research.
+D. It argues that a historical event that some people find implausible did in fact occur.
+Answer: C
+
+Question 6:
+[COE]
+What does the author imply about the series of severe droughts?
+
+For an extended period, the prevailing hypothesis for the collapse of the Classic Maya civilization centered on a series of severe droughts. This explanation proposed that insufficient rainfall resulted in catastrophic agricultural failure, leading to the abandonment of major urban centers as the society crumbled. Nonetheless, recent archaeological data indicates that a decline in monumental construction and the fragmentation of political systems had already commenced well before the most intense droughts are recorded in paleoclimatological records. Furthermore, demographic models suggest that the population reduction from agricultural shortfalls alone is insufficient to account for the full scale of the societal collapse.
+
+
+A. The existence of the droughts has been questioned by recent studies.
+B. The droughts probably happened significantly earlier than archaeologists have claimed.
+C. The droughts would have been too minor to cause any disruption to Mayan society.
+D. The chronological placement of the droughts makes them an unlikely initial cause for the Maya collapse.
+Answer: D
+
+Question 7:
+[COE]
+Which choice most effectively uses data from the graph to complete the text?
+
+Research suggests that REM sleep in animals is homeostatically regulated: animals compensate for periods of REM sleep deprivation by increasing subsequent REM sleep. When on land, fur seals get enough REM sleep, but during the weeks they’re in the water, they get almost none. In a study of fur seals’ sleep habits, researchers recorded the REM sleep (as a percentage of baseline) of fur seals once they had returned to land. They concluded that REM sleep may not be homeostatically regulated in fur seals, citing as evidence the fact that the seals in the study ______
+
+
+
+A. didn’t show significantly less REM sleep during the second day after returning to land than they did during the first day.
+B. showed no significant differences from one another in baseline levels of REM sleep.
+C. didn’t consistently demonstrate a significant increase in REM sleep after their period of deprivation in the water.
+D. showed no significant difference between REM sleep after returning to land and REM sleep while in the water.
+Answer: C
+
+Question 8:
+[COE]
+Which choice most effectively uses data from the table to complete the assertion?
+
+*Drosophila* (fruit flies) have generation times of 10–12 days, so seasonal changes in humidity and other environmental conditions can drive seasonal fluctuations in chromosome rearrangements in species such as *D. persimilis* and *D. melanogaster*. *Drosophila* body size (for which wing centroid size serves as a proxy measure) correlates with life span. Banu Sögüt and Canisida Aksoy measured the wing sizes of members of *D. melanogaster* populations in Yesilur, Turkey, that were collected monthly between May and October over three years. Their research suggests that *Drosophila* collected in relatively cooler months should tend to have a shorter life span, as is illustrated by the finding that _____.
+
+
+
+A. the average monthly low temperature was lower in May than in June.
+B. the average male wing centroid size was 1.98 mm in May but was 2.31 mm in July.
+C. the average male wing centroid size was consistently smaller than the average female wing centroid size in all four months in the table.
+D. the average female wing centroid size was smaller in May than in June.
+Answer: D
+
+Question 9:
+[COE]
+Which quotation from Poems most effectively illustrates the claim?
+
+Poems is an 1895 collection of poetry by Frances E.W. Harper. In one of Harper’s poems, the speaker declares her intention to create art that has a universal appeal across generations, saying, ___
+
+
+A. “Our world, so worn and weary, / Needs music, pure and strong, / To hush the jangle and discords / Of sorrow, pain, and wrong.” (from “Songs for the People”)
+B. “Let me make the songs for the people, / Songs for the old and young; / Songs to stir like a battle-cry / Wherever they are sung.” (from “Songs for the People”)
+C. “God bless our native land, / Land of the newly free, / Oh may she ever stand / For truth and liberty.” (from “God Bless Our Native Land”)
+D. “My mother’s kiss, my mother’s kiss, / I feel its impress now; / As in the bright and happy days / She pressed it on my brow.” (from “My Mother’s Kiss”)
+Answer: B
+
+Question 10:
+[Cross Text]
+Based on the texts, both the author of Text 1 and the author of Text 2 would most likely agree with which statement about scholarship on the modernist period in the United States?
+
+Text 1
+Scholarship today overrepresents experimentally fragmented narrative structures, such as that of Jean Toomer’s Cane, beyond the degree to which they actually influenced fiction in the United States during the modernist period (roughly 1900–1945). Meanwhile, Ellen Glasgow’s Barren Ground, whose coherent, linear narrative structure recalls the fiction of previous centuries, attracts woefully little attention from scholars of modernism.
+Text 2
+Distant reading, or computer-assisted quantitative analysis of massive collections of digitized texts, can reveal stylistic elements that have heretofore escaped notice, despite being shared by numerous texts from the modernist period. For too long, scholars have focused on narrative fragmentation versus coherence, inhibiting inquiry into other points of stylistic correspondence among works that would enrich our understanding of the modernist canon.
+
+
+A. At present, it only partially captures the stylistic dimensions of the fiction written in the period.
+B. Its primary methods for analyzing fiction written in the period are growing obsolete as computer technology advances.
+C. Instead of engaging in unproductive debates, it should work to rehabilitate the reputations of neglected modernist works.
+D. It must widen its focus to include aspects of modernist fiction beyond style, a productive but overrepresented site of inquiry.
+Answer: A
+
+Question 11:
+[COE]
+Which quotation from 'A Pair of Silk Stockings' most effectively illustrates the claim?
+
+"A Pair of Silk Stockings" is an 1897 short story written by Kate Chopin. In the story, Mrs. Sommers is depicted as sometimes making decisions without conscious deliberation:____
+
+
+A. "She handed the girl a five-dollar bill and waited for her change and for her parcel. What a very small parcel it was!"
+B. "She had no time—no second of time to devote to the past. The needs of the present absorbed her every faculty."
+C. "She was not thinking at all. She seemed for the time to be taking a rest from that laborious and fatiguing function and to have abandoned herself to some mechanical impulse that directed her actions and freed her of responsibility."
+D. "Mrs. Sommers selected a black pair and looked at them very long and closely. She pretended to be examining their texture, which the clerk assured her was excellent."
+Answer: C
+
+Question 12:
+[COE]
+Which finding from the study, if true, would most directly support the team’s conclusion?
+
+Neurobiologists Laura Cuaya, Raúl Hernández-Pérez, and colleagues investigated the language detection abilities of eighteen dogs of various ages. The researchers monitored the brain activity of Odin (a 54-month-old border collie), Bingo (a 37-month-old mixed breed), and other dogs while the animals listened to three recordings: one of The Little Prince being read in Spanish, the second in Hungarian, and a third made up of short, randomly selected fragments of the first two, scrambled so that they didn’t resemble human speech. Each of the dogs was familiar with either Spanish or Hungarian, but not both. The team concluded that the younger the dog, the worse it may be at differentiating between familiar and unfamiliar languages.
+
+
+A. Although the dogs’ general hearing sensitivity declined with age, dogs of all ages showed more brain activity in response to hearing the language they were accustomed to than in response to hearing the other language.
+B. As the age of the dog scanned decreased, so did the amount of brain activity in response to hearing the language the dog was accustomed to or the other language, but not in response to hearing the scrambled recording.
+C. Dogs showed a different pattern of brain activity when hearing the language they were accustomed to than when hearing the other language, and the difference in brain activity decreased as the age of the dog scanned decreased.
+D. The similarity between the pattern of brain activity a dog showed in response to hearing the scrambled recording and the pattern it showed in response to hearing the language it was not accustomed to was lowest among younger dogs.
+Answer: C
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+To measure changes in parasite abundance over time, Chelsea Wood and colleagues counted parasite individuals preserved on specimens of Pacific herring, spotted ratfish, and six other fish species collected from Puget Sound between 1880 and 2019. Using statistical models to estimate historical populations, the researchers determined that for every 1°C increase in annual average sea surface temperature, the abundance of complex life cycle parasites like Lepeophtheirus salmonis that require at least three unique host species throughout their life cycle decreased by 38%. However, the abundance of Gyrodactylus sp. and other directly transmitted parasites, which require only one host species, was essentially unchanged. These findings suggest that ___.
+
+
+A. as the number of hosts that complex life cycle parasites require increases, the parasites’ tolerance for rising sea surface temperatures decreases proportionally.
+B. Lepeophtheirus sp. abundance decreased by 38% over the period studied, whereas Gyrodactylus sp. abundance did not.
+C. parasites that rely exclusively on either Pacific herring or spotted ratfish are more sensitive to rising temperatures than are parasites that can infect both species throughout their life cycles.
+D. dependency on only a single host species may confer on parasites some resilience to rising sea surface temperatures.
+Answer: D
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+During their larval phase, numerous species of coral reef fish are drawn toward areas where light is present. To better understand how artificial light at night (ALAN) might affect some coral reef fish, researchers explored the effect of exposure to low levels of ALAN on the reproductive success of the common clownfish (Amphiprion ocellaris). While exposure to low levels of ALAN had no significant effect on spawning frequency and egg fertilization in A. ocellaris, incubation in the presence of ALAN completely inhibited hatching. These findings suggest that ______
+
+
+A. ocellaris that settle in areas with low levels of ALAN have significantly higher rates of successful egg fertilization than A. ocellaris that settle in areas without ALAN do.
+B. he reproductive success of A. ocellaris would be at risk if they were to selectively settle in regions that are regularly exposed to low levels of ALAN.
+C. the reproductive success of A. ocellaris is more greatly affected by the presence of low levels of ALAN during incubation than the reproductive success of other species of coral reef fish is.
+D. the spawning frequency of A. ocellaris was more strongly affected by the presence of low levels of ALAN than egg fertilization was, though both were less affected than incubation.
+Answer: B
+
+Question 15:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+When we arrived in Orofino, Idaho, we _______ a large hillside geoglyph of the letter O. Later that day, our hosts remarked that such geoglyphs are quite common in the state.
+
+
+A. noticed
+B. notice
+C. will notice
+D. are noticing
+Answer: A
+
+Question 16:
+[COE]
+Which option most logically completes the text?
+
+The sea-grass Posidonia oceanica is among various marine plant species native to the Mediterranean Sea that face the threat of extinction. The long-term survival of many such species primarily relies on fish consuming their seeds and dispersing them across different marine regions. Although many native seed-eating fish populations in the Mediterranean have drastically declined, introduced fish species such as the rabbitfish have become widespread in these waters. Recent research confirms that these non-native fish are actively dispersing seeds in the Mediterranean, implying that the fish ______.
+
+
+A. disperse more marine plant seeds throughout the Mediterranean Sea than native fish historically did.
+B. have a considerably stronger preference for seeds from native marine plants compared to those of introduced plant species.
+C. may play a crucial role in sustaining endangered marine plant species, including Posidonia oceanica.
+D. could also partake in additional behaviors influencing the dispersal potential of Posidonia oceanica and other at-risk marine plants.
+Answer: C
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+While other even-toed ungulate species, such as the kudu (*Tragelaphus strepsiceros*), are among the most abundant herbivores globally, the saola (*Pseudoryx nghetinhensis*) has a population estimated to be fewer than 250 ______ one of the thresholds necessary for classification as critically endangered.
+
+
+A. individuals; meeting
+B. individuals: meeting
+C. individuals. Meeting
+D. individuals, meeting
+Answer: D
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The theoretical framework of cognitive behavioral therapy is founded on several core ______ by American psychologist Aaron T. Beck, who aimed to replicate systematic scientific methods; this therapy prioritizes working with experienced therapists trained in cognitive restructuring and introduces clients as young as adolescents to fundamental techniques such as thought records.
+
+
+A. principles developed
+B. principles: developed
+C. principles. Developed
+D. principles that, developed
+Answer: A
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The 2001 album *Gorillaz* was created by Damon Albarn. At the time the album was first released, many listeners didn’t know Albarn was the ______ musician that appeared on the album’s cover—the animated character 2-D—obscured the artist’s true identity.
+
+
+A. musician, though. The
+B. musician, though, the
+C. musician; though, the
+D. musician though, the
+Answer: A
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The axiom “rational agents maximize utility” is foundational to classical economics because it assumes consistent logical preferences, according to traditional models. Kahneman’s theory ______ that human decision-making is systematically biased and reference-dependent, termed the prospect theory of choice, challenges the established doctrine that uses rational expectations as the standard for economic behavior.
+
+
+A. was proposing
+B. proposed
+C. proposing
+D. proposes
+Answer: C
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The world’s first airplane, the 1903 Wright Flyer, was not very aerodynamic, as evidenced by its low lift-to-drag ratio of just 8:3. The F-104 Starfighter jet, like most modern aircraft, is far more aerodynamic. ___ its lift-to-drag ratio is more than twice that of the Wright Flyer.
+
+
+A. However,
+B. Nevertheless,
+C. In conclusion,
+D. Specifically,
+Answer: D
+
+Question 22:
+[Transition]
+Which option best completes the text with the most logical transition?
+
+When Stanford University researchers Emily Tran and Michael Huang began collaborating on a video game in 2020, one of their intentions was to ensure significant representation of scientists from diverse backgrounds. ___ they designed BioQuest, a game centered around the lives of groundbreaking female biologists, with each researcher featured prominently.
+
+
+A. To that end,
+B. In summation,
+C. For instance,
+D. To clarify,
+Answer: A
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Newer offshore wind turbines often outperform older models. For example, Denmark’s offshore wind farm, built in 1995, has wind turbines that generate about 1 megawatt (MW) of electricity each. ______ China’s Jiangsu Qidong offshore wind farm, built in 2021, has turbines that can generate about 6 MW of electricity each.
+
+
+A. Granted,
+B. In contrast,
+C. For this reason,
+D. Eventually,
+Answer: B
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Generally, sleek vehicles are more aerodynamic than bulkier ones. The streamlined nose of the Airbus A320 jet, ____ helps it glide through wind with relative ease, while a boxy pickup truck encounters more wind resistance, making it less aerodynamic.
+
+
+A. for example,
+B. additionally,
+C. meanwhile,
+D. however,
+Answer: A
+
+Question 25:
+[Synthesis]
+The student wants to recount the sequence of events proposed by the researchers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• If a moon orbiting a planet comes close enough to that planet, tidal forces can cause the moon to break apart.
+• In a 2022 study, researchers proposed that Saturn was once orbited by a large moon they named Chrysalis.
+• Their simulations indicated that Chrysalis would likely have come very close to Saturn around 160 million years ago.
+• At that distance, Chrysalis would have been broken apart by tidal forces.
+• The researchers hypothesized that the resulting debris formed Saturn’s rings.
+
+
+A. According to researchers’ simulations, debris from Saturn’s rings would likely have caused Chrysalis—a large moon orbiting Saturn—to break apart around 160 million years ago.
+B. In a 2022 study, researchers proposed that Saturn was once orbited by a large moon that broke apart.
+C. Around 160 million years ago, a large moon (Chrysalis) may have come close enough to Saturn that tidal forces broke the moon apart; its debris then formed the planet’s rings.
+D. If a moon orbiting a planet (like Saturn) comes close enough to that planet, tidal forces can cause the moon to break apart.
+Answer: C
+
+Question 26:
+[COE]
+The student wants to make a generalization based on the study’s findings. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+A 2023 study analyzed agricultural data to assess the effect of a new fertilizer on corn yield on 50 US farms.
+The yield benefit of the fertilizer was the percentage increase between the yield of plots treated with the fertilizer and the yield of untreated control plots.
+A benefit above 0% indicates a positive effect.
+The fertilizer yield benefit on a farm in Iowa was greater than 15%.
+The fertilizer yield benefit on a farm in Nebraska was greater than 0% but less than 15%.
+The average yield benefit of the fertilizer across all farms was 15%.
+
+
+A. The yield benefit from the fertilizer was analyzed on farms in both Iowa and Nebraska.
+B. Although its magnitude can differ from farm to farm, the overall effect of the fertilizer on corn yield is a positive one.
+C. The fertilizer had a positive effect on corn yield on the Iowa farm, but this was not true of the Nebraska farm, which saw a below-average effect.
+D. The study determined the effect of the fertilizer by comparing the yields of treated plots and untreated control plots.
+Answer: B
+
+Question 27:
+[Synthesis]
+The student wants to compare McClintock's discovery with Lederberg's. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• In the 1940s, geneticist Barbara McClintock discovered mobile segments of DNA.
+• McClintock called these segments "controlling elements," but they are now commonly known as transposable elements (TEs).
+• TEs are capable of altering gene expression as they change position within a cell's genome.
+• In 1950, geneticist Esther Lederberg discovered a process (the lysogenic cycle) by which bacteria-infecting viruses (phages) pass their genetic material to a host cell's descendants.
+• Phage DNA will enter a bacterial host cell and incorporate itself into the host cell's genome.
+• When the host cell divides, the phage DNA replicates along with the host's DNA.
+
+
+A. Like McClintock's discovery, which revealed moving DNA segments within a cell's genome, Lederberg's discovery also involved DNA mobility, showing how phage DNA will enter a bacterial host cell and incorporate itself into the cell's genome.
+B. Both McClintock and Lederberg were geneticists: McClintock found that phage DNA could be passed to bacterial host cells, and Lederberg identified DNA segments that can change position within genomes.
+C. McClintock's and Lederberg's discoveries provided insight into how phage DNA uses the lysogenic cycle to change position within the genome of a bacterial host cell.
+D. While McClintock first discovered DNA segments capable of altering gene expression, Lederberg's discovery provided geneticists with a better understanding of how TEs move within host cells.
+Answer: A

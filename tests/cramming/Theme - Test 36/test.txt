@@ -1,0 +1,230 @@
+Question 1:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The subscription model in which consumers who do not deliberately cancel their subscriptions automatically pay recurring fees for access to products and services benefits retailers when consumer __________ is high. Many of the 8.5 percent of subscribers who canceled their food and beverage subscriptions in January 2022 had stopped valuing their subscriptions long before then, but sellers profited from those customers’ passivity in the interim.
+
+
+A. inertia
+B. evasion
+C. decisiveness
+D. turnover
+Answer: A
+
+Question 2:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The subscription model in which consumers who do not deliberately cancel their subscriptions automatically pay recurring fees for access to products and services benefits retailers when consumer passivity is high. Many of the 8.5 percent of subscribers who canceled their food and beverage subscriptions in January 2022 had stopped valuing their subscriptions long before then, but sellers profited from these customers’ __________ in the interim.
+
+
+A. torpor
+B. elasticity
+C. evasion
+D. brevity
+Answer: A
+
+Question 3:
+Which choice completes the text with the most logical and precise word or phrase?
+
+A survey found that in April 2022, 7.6 percent of subscribers to fashion and apparel services canceled their subscriptions. Reducing this kind of subscriber turnover is especially challenging for subscription sellers: customers' initial enthusiasm for a subscription is often quick to ____, and sellers must thus devise other incentives to bolster retention.
+
+
+A. subside
+B. rejuvenate
+C. converge
+D. resolve
+Answer: A
+
+Question 4:
+Which statement most effectively uses data from the table to weaken the student’s conclusion?
+
+**Average Subscription Duration (in Months) and Revenue Ratios for Four Services**
+
+Automatic recurring transactions (which ask for little attention from consumers) are the default in the subscription economy, which benefits retailers of products ranging from cosmetics to video gaming services. Liran Einav et al. simulated the impact of consumer inattentiveness on subscription duration for various monthly subscription services and calculated the ratio of revenue when subscribers are inattentive to the revenue when subscribers are fully attentive. Based on the table, a student concludes that the greater the increase in subscription duration due to inattentiveness, the greater the increase in relative revenue.
+
+
+A. Inattentiveness is expected to increase revenue for Service G by a smaller degree than it is for any other service, but inattentive subscribers to Service G subscribe for longer than they do to any other service shown.
+B. Inattentiveness is expected to increase revenue for Service A by a greater degree than it is for Service G, but the average subscription duration for fully attentive subscribers to both services is approximately equal.
+C. The difference between Service I’s average subscription duration for inattentive subscribers and fully attentive subscribers is much greater than it is for any other service shown, but its revenue is expected to benefit from inattentive subscribers less than any other service.
+D. The difference between Service B’s average subscription duration for inattentive subscribers and fully attentive subscribers is smaller than it is for Service I, but inattentiveness increases revenue for Service B by a greater degree than it does for Service I.
+Answer: D
+
+Question 5:
+Which choice most effectively uses data from the graph to complete the statement?
+
+Automatic recurring transactions (which ask for little attention from consumers) are the default in the subscription economy. In fact, for many subscription retailers—of products ranging from newspapers to video streaming, at a subscriber’s outset, consumers’ flow utility—their satisfaction with a product, which diminishes the more it is consumed—exceeds its monthly subscription price. But as consumers’ flow utility from their subscriptions once flow utility falls below the service’s price, but inattentive subscribers generally subscribe beyond this point. The graph shows simulated durations of monthly subscriptions for inattentive and fully attentive subscribers from a study by Liran Einav et al. The data in the graph suggest that flow utility from...
+
+
+
+A. Service F likely remained higher than the monthly subscription price for the longest duration among the three services.
+B. all three services likely remained higher than the monthly subscription price for inattentive subscribers than for fully attentive subscribers but for less than 12 months among fully attentive subscribers.
+C. all three services likely remained higher than the monthly subscription price for the subscription duration among inattentive subscribers but not among fully attentive subscribers.
+D. Service I likely remained higher than the monthly subscription price for the longest duration among the three services.
+Answer: A
+
+Question 6:
+Which choice most logically completes the text?
+
+The subscription economy has rapidly expanded to include a wide range of products—from pet supplies to video streaming—in part because consumers appreciate the convenience of automatic payments. But as a study by Neale Mahoney and team shows, consumers are typically inattentive to automatic payments and remain subscribed to services long after their value has worn off. The study also found that subscribers were much more likely to discontinue a service when they had to make an active renewal decision (for example, when they need to update payment information to remain subscribed) than at other times. The researchers therefore concluded that a regulation requiring all subscribers to complete payments manually would likely ___________________________
+
+
+A. decrease subscribers’ valuation of the subscription services at a faster rate than if no such regulation were implemented.
+B. result in reduced average subscription durations, but the overall experience of the longest-subscribing consumers would improve.
+C. deter attentive consumers from subscribing in the first place but would have little effect on whether inattentive consumers decide to subscribe.
+D. enable dissatisfied subscribers to save more money than they would without such a regulation in place but at the expense of a feature that may have induced them to subscribe initially.
+Answer: D
+
+Question 7:
+Which choice most logically completes the text?
+
+Many companies offering subscriptions for clothing and apparel, video streaming, and other products collect recurring payments from customers automatically unless customers unsubscribe. Consumer advocates criticize this practice because it encourages inattentiveness... Nicole Mahorski and team simulated inattentiveness’s effect on ten monthly subscription services’ revenues over a decade. All services’ revenues were greater if subscribers were inattentive, but the difference varied. For example, revenues for Service G were only 14 percent greater, while revenues for Service A were more than 100 percent greater. The findings suggest that __________.
+
+
+A. revenues from Service A’s inattentive subscribers would increase relative to revenues from fully attentive subscribers by an even greater degree if the service transitioned from monthly to yearly recurring payments.
+B. inattentive subscribers to Service A likely value their subscriptions more highly than inattentive subscribers to Service G do.
+C. revenues from automatic recurring payments are significantly higher for Service G than they are for Service A.
+D. a regulation that prevented subscription providers from automatically collecting recurring payments would likely have a proportionally larger negative effect on Service A than on Service G.
+Answer: D
+
+Question 8:
+Which quotation from a publication by a researcher would most effectively support the student’s claim?
+
+A student is writing an essay on the subject of cultured meat, which is grown in a laboratory and is intended to help reduce the number of livestock harvested for food. The student wants to make the case that cultured meat production may be useful in responding to an expected widespread change in the public’s behavior.
+
+
+A. "Consumers tend to believe that using less packaging when selling meat products in stores would have a significant effect on the environment."
+B. "The flavor of meat from livestock differs across species (from pig to chicken to cow), and is also influenced by farming conditions and the breeds and genders of animals."
+C. "A growing population that is including significantly more meat in its diet will contribute to an increasing demand for meat products in the 21st century."
+D. "Researchers who advocate for the development of lab-grown meat claim that it’s better for the environment than conventional meat because it requires less water consumption."
+Answer: C
+
+Question 9:
+Which quotation from a publication by a researcher would most effectively support the student's claim?
+
+A student is writing an essay on the subject of cultured meat, which is grown in a laboratory and is intended to help reduce the number of livestock harvested for food. The student wishes to make the case that people have mixed feelings about cultured meat that may be a barrier to its worldwide adoption.
+
+
+A. "Many consumers who were surveyed believed that cultured meat would be good for the environment if widely available, but few of those same consumers were willing to try eating cultured meat themselves."
+B. "Consumers tend to believe that using less packaging when selling meat products in stores would have a significant effect on the environment."
+C. "Advocates of lab-grown meat claim that it's safer than conventional meat because the means of its production can be tightly controlled."
+D. "The flavor of meat from livestock differs across species (from pig to chicken to cow), and is also influenced by farming conditions and the breeds and genders of animals."
+Answer: A
+
+Question 10:
+Which choice completes the text with the most logical transition?
+
+In eastern Mexico, Monument 53 and Monument 4 are the designations for two enormous statues of human heads left behind by the ancient Olmec civilization. Both statues are crafted from stone and possess considerable weight. _____ each of these statues boasts an impressive weight of over 5 tons!
+
+
+A. Earlier,
+B. In any case,
+C. In fact,
+D. Instead,
+Answer: C
+
+Question 11:
+Which choice completes the text with the most logical transition?
+
+Monument 3 is the name given to a 12.8-ton stone statue of a human head that was created during the ancient Olmec civilization. It was discovered in Tabasco, Mexico, at the La Venta archaeological site. ____ at the San Lorenzo site in the state of Veracruz, another colossal head statue called Monument 53 was discovered.
+
+
+A. As a result,
+B. Specifically,
+C. For example,
+D. Elsewhere,
+Answer: D
+
+Question 12:
+Which choice completes the text with the most logical transition?
+
+Space scientist Antonella Nota is excited about the potential of the new James Webb Space Telescope (JWST). Unlike its predecessor, the Hubble Telescope, the JWST is primarily an infrared telescope. Most light from distant galaxies is infrared; _____ the JWST can provide Nota and her team much more information about these galaxies than the Hubble could.
+
+
+A. alternatively,
+B. in contrast,
+C. for instance,
+D. hence,
+Answer: D
+
+Question 13:
+Which choice completes the text with the most logical transition?
+
+Marcia Rieke is a space scientist who works on the James Webb Space Telescope, or JWST. Thanks in part to Rieke’s contributions, the telescope is now positioned near the Sun-Earth L₂ Lagrange point, almost one million miles beyond Earth’s orbit. ______ the JWST's predecessor, the Hubble Telescope, is only about 340 miles above Earth's surface.
+
+
+A. Therefore,
+B. Similarly,
+C. By contrast,
+D. Secondly,
+Answer: C
+
+Question 14:
+Which choice completes the text with the most logical transition?
+
+Silvia Scheithauer is a space scientist who works on the James Webb Space Telescope, or JWST. Thanks in part to Scheithauer's contributions, the telescope is now positioned near the Sun-Earth L₂ Lagrange point, almost one million miles beyond Earth's orbit. ________The JWST's predecessor, the Hubble Telescope, is only about 340 miles above Earth's surface.
+
+
+A. In comparison,
+B. As a result,
+C. Next,
+D. Moreover,
+Answer: A
+
+Question 15:
+Which finding, if true, would provide evidence that the possibility Grasby et al. investigated does occur?
+
+Honda's introduction of a walk-behind lawnmower in 1978 is an instance of brand extension—the company leveraged its brand recognition as an automobile manufacturer to enter a product category where it had not previously competed. To determine if perceived category similarity predicts consumers' likelihood of purchasing brand extensions, Alicia Grasby et al. identified 50 extended-brand pairs (e.g., the same brand of hand lotion and mouthwash) in 52 weeks of purchases by approximately 60,000 households; for each pair Grasby et al. had consumers rate the similarity of the product categories and calculated the change in probability of a brand in one category being purchased if the same brand was purchased in the other category.
+
+
+A. Consumers' ratings and the changes in probability calculated by the researchers were both affected by the level of brand recognition.
+B. There was a strong positive correlation between consumers' ratings and the changes in probability calculated by the researchers.
+C. Consumers' ratings varied substantially by category pair, whereas the changes in probability calculated by the researchers were broadly similar for each pair.
+D. Consumers tended to purchase more products in categories in which extended-brand pairs are found than in categories in which extended-brand pairs are not found.
+Answer: B
+
+Question 16:
+Based on the text, which potential study design would be most likely to produce evidence that would enable Grasby et al. to answer their research question?
+
+Google’s introduction of the Chrome web browser in 2008 is a quintessential instance of brand extension—the company leveraged its brand recognition as an internet search provider to enter a product category where it had not previously competed. An outstanding question is whether perceived category similarity predicts consumers’ likelihood of purchasing brand extensions. To answer this question, Alicia Grasby et al. identified 30 extended-brand pairs (e.g., the same brand of shoes and gloves) in 52 weeks of purchases by approximately 60,000 households and, for each pair, calculated the change in probability of a brand in one category being purchased if the same brand was purchased in the other category.
+
+
+A. Have a representative sample of the households rate the similarity of the product categories in each extended-brand pair, then determine how, if at all, those ratings correlate with the change in probability that the team calculated for each pair.
+B. Poll a representative sample of the households to determine the degree of brand recognition of each brand in the extended-brand pairs, then determine how, if at all, the degree of brand recognition correlates with the average cost of each product in the pairs.
+C. Have a representative sample of the households rate the similarity of one product in each extended-brand pair to other products in the same category, then determine how, if at all, those ratings correlate with the change in probability that the team calculated for each pair.
+D. Poll a representative sample of the households to determine the degree of brand recognition for each brand in the extended-brand pairs, then determine how, if at all, the degree of brand recognition correlates with the frequency with which a different group of households purchased at least one product of that brand.
+Answer: A
+
+Question 17:
+Which choice best describes a study that could be conducted by the researchers to address the outstanding question?
+
+Apple’s introduction of the Apple Watch in 2015 is a quintessential instance of brand extension—the company leveraged its brand recognition as a computer manufacturer to enter a product category where it had not previously competed. An outstanding question is whether perceived category similarity predicts consumers’ likelihood of purchasing brand extensions. To answer this question, Alicia Grasby et al. identified 30 extended-brand pairs (e.g., the same brand of cooking oil and butter) in 52 weeks of purchases by approximately 60,000 households and, for each pair, calculated the change in probability of a brand in one category being purchased if the same brand was purchased in the other category.
+
+
+A. Poll a representative sample of the households to determine the degree of brand recognition for each brand in the extended-brand pairs, then determine how, if at all, the degree of brand recognition correlates with the frequency with which a different group of households purchased at least one product of that brand.
+B. Poll a representative sample of the households to determine the degree of brand recognition for each brand in the extended-brand pairs, then determine how, if at all, the degree of brand recognition correlates with the change in probability that the team calculated for each pair.
+C. Have a representative sample of the households rate the similarity of the product categories in each extended-brand pair, then determine how, if at all, those ratings correlate with the change in probability that the team calculated for each pair.
+D. Poll a representative sample of the households to determine the degree of brand recognition of each brand in the extended-brand pairs, then determine how, if at all, the degree of brand recognition correlates with the average cost of each product in the pairs.
+Answer: C
+
+Question 18:
+Which choice most logically completes the text?
+
+The Virgin Group’s introduction of the Virgin Atlantic airline in 1984 is an instance of brand extension—the company leveraged its brand recognition as a music retailer to enter a new product category. To investigate how market share affects consumers’ likelihood of purchasing brand extensions, Alicia Grasby et al. identified 30 extended brand pairs (e.g., the same brand of vacuum cleaner and microwave) in household purchasing data; for each pair, Grasby et al. calculated the branded products’ market share and calculated the increase in probability of a brand in one category being purchased if the same brand was purchased in the other category. A broad inverse relationship between the two values emerged, which can most reasonably be attributed to the fact that _____
+
+
+A. the purchase probability of a brand is affected by the purchase probability of the particular product category to which it belongs, and thus brands in categories that are rarely purchased tend to have low purchase probabilities regardless of market share.
+B. as a brand’s market share increases, the number of competing brands in the same product category tends to decrease, and thus the rate of increase in market share tends to accelerate as a brand’s market share grows.
+C. brands with high market share have high purchase probability regardless of whether the other product in the pair is purchased and thus have less potential to increase in purchase probability than brands with low market share do.
+D. consumers tend to be less familiar with brands with low market share than brands with high market share and thus may purchase both products in a pair with low market share without recognizing that the products are the same brand.
+Answer: C
+
+Question 19:
+Which finding, if true, would most directly weaken the student’s conclusion?
+
+American Express’s introduction of an airport lounge in 2013 is an instance of brand extension—the company leveraged its brand recognition as a financial services provider to enter a new product category. To understand consumer responses to extended brands, Alicia Grasby et al. identified 30 extended-brand pairs (e.g., the same brand of water bottle and running shoes) in household purchasing data and, for each pair, had consumers rate the similarity of the pair’s product categories. Noting that cross-category purchasing of the same brand was higher in pairs of product categories rated as similar, such as bread and bagels, than in those rated as dissimilar, such as deodorant and baking soda, a student claims that similarity drives cross-category purchasing.
+
+
+A. Products in pairs with high similarity ratings tended to be among the most expensive products in their categories, whereas products in pairs with low similarity ratings tended to be among the least expensive products in their categories.
+B. Consumers were more likely to purchase both products in pairs with similarity ratings comparable to those of bread and bagels than they were to purchase both products in pairs with similarity ratings comparable to those of deodorant and baking soda.
+C. Pairs with high similarity ratings tended to be in categories in which there were relatively few competing products from other brands, whereas pairs with low similarity ratings tended to be in categories in which there were many competing products from other brands.
+D. The positive correlation between similarity ratings and cross-category purchasing was equally strong for pairs with low brand recognition and pairs with high brand recognition.
+Answer: C

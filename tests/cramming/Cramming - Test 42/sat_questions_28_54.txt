@@ -1,0 +1,399 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Literary scholars often encourage those studying authors and their literary movements to understand how certain qualities of an author’s writings were perceived by his or her immediate audience. While most would not consider the works of Miguel de Unamuno to be especially controversial today, one should consider whether there are aspects of his work that may have been seen as ____ to some readers of his time.
+
+
+A. provocative
+B. irrefutable
+C. pretentious
+D. irrelevant
+Answer: A
+
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The reception of Misa Sugiura’s book It’s Not Like It’s a Secret has been very good. Many reviewers have ______ the book, and it won the Asian/Pacific American Award for Literature.
+
+
+A. blamed
+B. misunderstood
+C. overlooked
+D. applauded
+Answer: D
+
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Many of late nineteenth-century artist James McNeill Whistler’s oil paintings and lithographs depict the streets of European cities. While his contemporaries’ approaches to these subjects were often sentimental, Whistler’s eye seemed ____. In this way, he anticipated the early twentieth-century photographs of Walker Evans, which create the illusion of being objective documentations of life.
+
+
+A. tranquil
+B. peculiar
+C. nostalgic
+D. dispassionate
+Answer: D
+
+
+Question 4:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is from Bram Stoker’s 1911 novel *The Lair of the White Worm*. Adam is meeting his great-uncle Richard at a port.
+The meeting so auspiciously begun proceeded well. Adam, seeing that the old man was interested in the novelty of the ship, suggested that he should stay the night on board, and that he would himself be ready to start at any hour or go anywhere that the other suggested. This affectionate willingness to fall in with his own plans quite won the old man’s heart. He warmly accepted the invitation, and at once they became not only on terms of affectionate relationship, but almost like old friends."
+
+
+A. It showcases how Adam’s flexibility and consideration strengthen his relationship with his great-uncle Richard.
+B. It states the reasons why Adam and his great-uncle Richard decide to sleep on the ship rather than finding lodging on land.
+C. It describes why Adam and his great-uncle Richard are excited for their upcoming journey on the ship.
+D. It contrasts great-uncle Richard’s wary first impressions of Adam with his ultimate affection toward him.
+Answer: A
+
+
+Question 5:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Mexican architect Luis Barragán’s prolific career, which spanned the 1920s to the 1980s, evolved through distinct phases. After traveling to the United States and Europe in the early 1930s and immersing himself in a broader architectural discourse, Barragán shifted his style to incorporate principles of modernism, as seen in the Plazaro Suárez House. The project’s unadorned geometric forms, typical of the modernist aesthetic, contrasted with the historically inspired architecture seen in his earlier projects in Guadalajara, such as the house in Calle Pedro Loza.
+
+
+A. It summarizes the career of a particular architect, states how a journey influenced that architect’s career, and then emphasizes how influential that architect’s career has been.
+B. It presents a general claim about a particular architect’s career, describes the early stages of the architect’s career, and then explains a later shift in that career.
+C. It explains the design aesthetic of a particular architect, acknowledges the sources of those design choices, and then contrasts that aesthetic with the designs of earlier architects.
+D. It provides a general statement about the career of a particular architect, highlights a transition in that career, and then expounds on the ways that transition is evident in the architect’s work.
+Answer: D
+
+
+Question 6:
+[Structure]
+Which choice best states the main purpose of the text?
+
+In their study of the steering muscles regulating sclerites (minute hardened structures) in the Drosophila (fruit fly) wing hinge, Johan M. Melis et al. used machine learning to devise a convolutional neural network (CNN) model capable of predicting the pattern of wing motion produced by the maximum activity of the muscles. The CNN model’s output aligned with results of prior studies by other researchers measuring muscle activity patterns directly—one of several indications, said Melis et al., that the model accurately represents important biomechanical processes underlying wing motion.
+
+
+A. To present evidence from Melis et al.’s study in support of the efficacy of their CNN model
+B. To provide an overview of how Melis et al. honed the accuracy of their CNN model
+C. To compare results obtained by Melis et al. using their CNN model to prior results obtained from other researchers’ models
+D. To account for Melis et al.’s reliance in their study on a CNN model in lieu of direct measurement
+Answer: A
+
+
+Question 7:
+[COE]
+According to the table, which country has the highest approximate annual ridership?
+
+General Information about Metro Systems in Four Countries
+
+A metro system is made up of rail lines that mainly serve a metropolitan area. The table shows the number of metro systems and stations for four countries, as well as approximate annual ridership, in millions of rides.
+
+
+A. Russia
+B. South Korea
+C. Thailand
+D. Spain
+Answer: A
+
+
+Question 8:
+[Details]
+Which choice best states the function of the underlined portion in the text as a whole?
+
+The following text is adapted from Anthony Trollope’s 1855 novel *The Warden*. The narrator is describing a rectory, the residence of a clergyperson.
+Let us observe the well-furnished breakfast-parlour at Plumstead Episcopi, and the comfortable air of all the belongings of the rectory. Comfortable they certainly were, but neither gorgeous nor even grand; indeed, considering the money that had been spent there, the eye and taste might have been better served; there was an air of heaviness about the rooms which might have been avoided without any sacrifice of propriety; colours might have been better chosen and lights more perfectly diffused; __but perhaps in doing so the thorough clerical aspect of the whole might have been somewhat marred.__
+
+
+A. It concedes that there is a lack of attention to the impression the rectory makes on people.
+B. It offers a potential explanation for the furnishing choices the narrator critiques.
+C. It emphasizes that the narrator finds it inappropriate for a clergyperson to have such grand furnishings.
+D. It hints at how the insufficient distribution of lights in the rectory could be fixed.
+Answer: B
+
+
+Question 9:
+[COE]
+Which quotation from The Wonderful Wizard of Oz most effectively illustrates the claim?
+
+*The Wonderful Wizard of Oz* is a 1900 novel by L. Frank Baum. In the novel, the narrator describes a character’s house as having become very faded in appearance over time: ____.
+
+
+A. “Once more [Dorothy and her companions] could see fences built beside the road; but these were painted green, and when they came to a small house, in which a farmer evidently lived, that also was painted green.”
+B. “Then [Dorothy] went back to the house, and having helped herself and Toto to a good drink of the cool, clear water, she set about making ready for the journey to the City of Emeralds.”
+C. “Once the house had been painted, but the sun blistered the paint and the rains washed it away, and now the house was as dull and gray as everything else.”
+D. “When Dorothy stood in the doorway and looked around, she could see nothing but the great gray prairie on every side. Not a tree nor a house broke the broad sweep of flat country.”
+Answer: C
+
+
+Question 10:
+[Structure]
+Which choice best states the main topic of the text?
+
+In her book *Limitarianism*, ethicist Ingrid Robeyns criticizes economic policies that allow businesses to profit from their successes while displacing the burden of failure onto taxpayers. As an example she cites the US financial crisis of 2008 in which dozens of institutions including State Street and SunTrust received a collective $700$ billion of government support. Had the US government previously exercised stricter regulation of risky financial instruments, Robeyns argues, this enormous expenditure of taxpayer dollars would not have been necessary.
+
+
+A. Techniques of assessing the risks of particular methods of financial investment
+B. Consequences of the 2008 financial crisis for State Street and SunTrust
+C. How the US government used money received from taxation to help institutions recover from a period of financial instability
+D. Why a scholar believes it would be beneficial for certain governmental economic practices to be reconsidered
+Answer: D
+
+
+Question 11:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+Average Hours Worked per Person per Year in 1950 and 2017
+
+Calculations may be inexact due to rounding.
+A student in an economics course is examining the decline since 1950 in average hours worked per person per year in various nations due to both increased productivity and the adoption of policies that limit working hours. The first task in this investigation is to determine how the decline in the United Kingdom compares to that in other countries. The student finds that ______.
+
+
+A. though the percent decrease in hours worked in the United Kingdom was less than that in Germany, it was greater than that in Australia and Mexico.
+B. though the percent decrease in hours worked in the United Kingdom was greater than that in Germany and Mexico, it was less than that in Australia.
+C. while the number of hours worked rose in the United Kingdom from 1950 to 2017, it declined in Germany, Australia, and Mexico.
+D. the decline in number of hours worked was greater in the United Kingdom than it was in Germany, Australia, or Mexico.
+Answer: A
+
+
+Question 12:
+[Infer]
+Which choice most logically completes the text?
+
+Like many other genera of wild bees, bumblebees have in recent decades experienced population collapse caused by, among other factors, habitat destruction and climate variation. Bumblebees are also one of the most researched bee genera, second only to honeybees. As a result, ecologists have gained much of their insight about wild-bee declines from bumblebees. In a 2021 paper, zoologist Guillaume Ghisbain notes that bumblebees are among the relatively few wild-bee genera that display social behaviors and dietary generalism (ability to obtain nectar and pollen from a diversity of plant species), two traits that are associated with increased resilience to some specific environmental changes. Ghisbain therefore contends that ____.
+
+
+A. because bumblebees and other bees with generalist diets are less negatively affected by environmental stress than bees with specialized diets are, they are less likely to experience major population changes in the future than bees with specialized diets are.
+B. although bumblebees have been more extensively studied than most wild bees, researchers should not use bumblebees to draw conclusions about the decline of other wild bees, even ones with feeding patterns and levels of sociability that are similar to those of bumblebees.
+C. although bumblebees and many other wild bees have experienced overall population declines in the past, compared with other wild bees, bumblebees are likely at greater risk of being harmed by climate variation than by habitat destruction.
+D. because the responses of bumblebees and other wild bees to environmental threats are not always comparable, researchers need to exercise caution when extrapolating information about wild-bee population declines from bumblebees.
+Answer: D
+
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+Microbial fuel cells (MFCs) capitalize on the ability of some species of bacteria to metabolize metal, liberating electrons. The bacteria form a dense biofilm on the surface of an electron-collecting anode, but moving the electrons from the bacterial cytoplasm to an external electrode requires that the electrons pass through a series of inefficient oxidation-reduction (redox) reactions. Accordingly, MFC power output rarely exceeds a density of 0.30 milliwatts per square centimeter (mW/cm²). In an experiment, researchers added silver nanoparticles to carbon paper covering the anode in an MFC. The resulting power density was 0.66 mW/cm². Since metals such as silver exhibit high electrical conductivity, the researchers hypothesized that ____.
+
+
+A. silver nanoparticles may increase the metabolic processes of the bacteria, thereby increasing the number of free electrons available to transfer to the electrode.
+B. as the density of the biofilm increases, the series of redox reactions may accelerate independent of the presence of the silver nanoparticles.
+C. silver nanoparticles may allow electrons to bypass the series of redox reactions and transfer directly to the electrode.
+D. electrons may be conducted directly to the electrode before the silver nanoparticles catalyze the redox reactions.
+Answer: C
+
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+The great egret and the wood stork are long-legged birds that live in wetlands, like the Everglades in Florida. Laura D’Acunto and colleagues wanted to know how these birds choose an area in which to live. They looked at features of the birds’ habitats, such as the extent of tree-canopy coverage in the area and how deep the water is during the birds’ breeding season. They found that great egrets prefer areas with deep water during breeding season, but that was not true for wood storks. The researchers concluded that water management strategies that increase the depth of water in potential wetland bird habitats during breeding season are therefore more likely to ______
+
+
+A. decrease the area’s appeal to both great egrets and wood storks than they are to increase the appeal to either.
+B. attract birds that don’t typically live in wetlands to the area than they are to attract great egrets or wood storks to the area.
+C. attract great egrets to the area than they are to attract wood storks to the area.
+D. extend the average lifespan of great egrets already in the area than they are to attract a greater number of those birds to the area.
+Answer: C
+
+
+Question 15:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+When a given term—“self-fulfilling prophecies” and “role models” are two well-known examples—is generally accepted and frequently used, ______ susceptible to obliteration by incorporation (OBI). In cases of OBI, widely used terms are rarely, if at all, attributed to the individuals who coined them.
+
+
+A. it often becomes
+B. this often becomes
+C. these often become
+D. they often become
+Answer: A
+
+
+Question 16:
+[Infer]
+Which choice most logically completes the text?
+
+It's widely known that plants can release airborne chemicals to warn their neighbors of an insect attack. However, scientists have questioned whether plants can also perceive physical cues. To investigate this, a team of botanists studied *Arabidopsis thaliana*, a small flowering plant. They exposed one group of plants to precise vibrations that mimicked the chewing of a caterpillar. Other groups were exposed to silence or to different vibrations, such as those created by a gentle wind. The team then measured the production of glucosinolates, a class of chemical defenses. They found that plants exposed only to the chewing vibrations produced significantly higher levels of glucosinolates, while the other groups showed no change in their chemical defenses, suggesting that ________
+
+
+A. all physical vibrations cause Arabidopsis thaliana to increase its production of chemical defenses.
+B. the production of glucosinolates is the most effective defense mechanism available to Arabidopsis thaliana.
+C. caterpillars prefer to feed on Arabidopsis thaliana over other types of small flowering plants.
+D. plants may be able to distinguish between threatening and non-threatening environmental vibrations.
+Answer: D
+
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+On most of the world’s beaches, sand is a predictable cream or beige color. The sand at Talofofo Beach in Guam is an ______ sand gets its shade from deposits of gray- and tan-hued quartz and feldspar, deposits of crushed olivine crystal and other organic matter lend the sand at Talofofo Beach a colorful green tint.
+
+
+A. exception, though most
+B. exception, though, most
+C. exception: though most
+D. exception, though. Most
+Answer: C
+
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Miguel Luciano’s 2006 sculpture Pure Plantainum is a striking and thought-provoking work of art. Fittingly, curator E. Carmen Ramos decided ______ it in a 2013 exhibition at the Smithsonian American Art Museum.
+
+
+A. included
+B. including
+C. to include
+D. include
+Answer: C
+
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Costa Rica and Portugal have two of the longest constitutions in the world. At 16,705 and 35,219 words, respectively, these ______ according to research by constitutional scholars George Tsebelis and Dominic J. Nardi, correlate with GDPs (gross domestic products) that are lower than those of countries with shorter constitutions.
+
+
+A. constitutions' length,
+B. constitution's length,
+C. constitutions' lengths,
+D. constitutions lengths,
+Answer: C
+
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Although 39P/Oterma and 83982 Crantor are both classified as centaur objects—outer solar system bodies in unstable orbits—they exhibit striking differences in ____ object 39P/Oterma is considered an active centaur, showing sporadic comet-like activity (such as clouds of dust and gas on its surface), 83982 Crantor, showing no such activity, is considered dormant.
+
+
+A. behavior: while the
+B. behavior, the
+C. behavior, while the
+D. behavior. The
+Answer: A
+
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+While conducting an interview for her book Latina Authors and Their Muses, editor Mayra Calvani asked Caridad Piñeiro, author of the suspense novel Cold Case Reopened, what ______ Piñeiro’s response was Wolf and the Dove by Kathleen Woodiwiss.
+
+
+A. was her favorite book!
+B. her favorite book was?
+C. her favorite book was.
+D. was her favorite book?
+Answer: C
+
+
+Question 22:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In the list “Things That Make One’s Heart Beat Faster” from Sei Shōnagon’s Pillow Book, the author delights in a cloudy mirror, rain on a window, and scented robes. So shrewd an observer is Shōnagon, a lady-in-waiting to Empress Teishi, that her book’s musings on tenth-century Japanese courtly life ____ readers a thousand years later.
+
+
+A. fascinate
+B. has fascinated
+C. is fascinating
+D. fascinates
+Answer: A
+
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The lack of accessible written sources is a common challenge faced by biographers of pre-nineteenth-century subjects. ______ when writing his biography of Alexander Hamilton (1735–1804), historian Ron Chernov had at his disposal Harold Syrett’s 26-volume, 19,000-document Papers of Alexander Hamilton.
+
+
+A. To take one well-known example,
+B. In accordance with this premise,
+C. It thus came as no surprise that,
+D. On the other end of the spectrum,
+Answer: D
+
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Alabama is one of several US states to enact statutes supporting the incorporation of worker cooperatives, businesses with democratic governance. Many scholars testify to the economic sustainability of the co-op model while acknowledging its challenges. ______ those who declare the model inherently unviable can discount documented successes, while those who champion it may understate its challenges.
+
+
+A. That said, some experts overlook such nuance;
+B. Nevertheless, how these challenges might be overcome remains contentious;
+C. Ultimately, these complex issues require complex solutions;
+D. Thus, the scholars are skeptical about the co-op model’s viability;
+Answer: A
+
+
+Question 25:
+[Synthesis]
+The student wants to make a generalization about the Hina Hanta archive. Which choice most effectively uses relevant information from the notes to accomplish this goal? 
+
+While researching a topic, a student has taken the following notes:
+• Hina Hanta is an online archive curated by the Choctaw Nation of Oklahoma.
+• It features images of cultural artifacts relevant to the history of the Choctaw people.
+• It features household items, including a stamp (isht inchuwa in Choctaw) made from rubber.
+• The stamp was made in the 1800s.
+• Hina Hanta features sports apparel, including a stickball collar (ihtuch) made from horsehair.
+• The stickball collar was made in 2016.
+
+
+A. The Choctaw name for the rubber stamp is isht inchuwa.
+B. Included in the Hina Hanta online archive is a rubber stamp.
+C. Not all artifacts in the Hina Hanta archive are from the 1800s.
+D. The horsehair stickball collar (ihtuch) was made in 2016.
+Answer: C
+
+
+Question 26:
+[Synthesis]
+The student wants to emphasize the size of Tepeapulco. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Tepeapulco is a municipality in the state of Hidalgo, Mexico.
+•Municipalities are governmental regions responsible for providing many public services to their residents.
+•One service they provide is water treatment.
+•Tepeapulco covers an area of roughly 243 km².
+•Hidalgo is divided into 84 municipalities.
+
+
+A. Providing water treatment is just one example of the public services that municipalities provide.
+B. Tepeapulco—a governmental region in the state of Hidalgo, Mexico—provides many public services to its residents.
+C. Tepeapulco is one of 84 governmental regions, known as municipalities, across Hidalgo.
+D. The municipality of Tepeapulco in Hidalgo, Mexico, covers an area of roughly 243 km².
+Answer: D
+
+
+Question 27:
+[Synthesis]
+The student wants to describe how DLS cures 3D objects. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Digital Light Synthesis (DLS) is a form of additive manufacturing that utilizes light to rapidly cure liquid resin into high-quality, 3D objects.
+• Step 1: Ultraviolet (UV) light images are projected up into a pool of liquid resin, where the object’s first layer takes shape.
+• Step 2: The partially cured resin object is raised, leaving a thin space (a “dead zone”) beneath it for oxygen and liquid resin to flow through.
+• Step 3: The UV light passes through the dead zone—maintaining the flow of resin—and partially cures additional layers of the object.
+• Step 4: When the resin object is complete, it is baked in an oven to complete the curing.
+
+
+A. DLS cures 3D objects by passing through a “dead zone,” adding layers to the object, then curing the object in an oven.
+B. In DLS, UV light is projected into layers of liquid resin until the resin solidifies and passes through a “dead zone,” wherein the curing is completed.
+C. In DLS, UV light images are projected into a liquid resin pool to cure a 3D object layer by layer; once solidified, the object is baked in an oven.
+D. DLS is a form of additive manufacturing that creates a “dead zone” in which UV light solidifies layer by layer before being baked in an oven, creating a high-quality, 3D object.
+Answer: C

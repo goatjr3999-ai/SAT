@@ -1,0 +1,374 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The recovery program led by Marisel López-Flores has dramatically increased the population size of the endangered *Amazona vittata*, the endemic parrot of Puerto Rico. Given that *A. vittata* corresponds in physiology, behavior, and ecology to endangered *Amazona* species elsewhere in the Caribbean, the conservation approach developed by López-Flores may be ______ across the genus.
+
+A. replicable
+B. comprehensible
+C. observable
+D. redeemable
+Answer: A
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although oil shocks—such as the 45% rise in oil prices from November 1980 to February 1981—can strongly affect individual consumers, Gbadebo Oladosu and colleagues have shown that at the level of national economies, their effects are often quite ______ . The effect of recent oil shocks on the gross domestic product of the United States, for example, was only slightly greater than zero.
+
+A. persistent
+B. subdued
+C. beneficial
+D. variable
+Answer: B
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Steiger Butte Drum, a family ensemble from the Klamath Tribes of the Pacific Northwest, collaborated with composer Michael Gordon to create *Natural History*, a work featuring traditional drumming and vocals alongside an orchestra and chorus; Steiger Butte Drum's participation is ______ to the piece: members not only contributed to its composition but also must be included in all performances.
+
+A. analogous
+B. tangential
+C. integral
+D. subsequent
+Answer: C
+
+Question 4:
+[Details]
+Which choice best states the function of the underlined portion in the text as a whole?
+
+The following text is adapted from Susan Glaspell’s 1917 play *The People*. Oscar, a writer at a newspaper called *The People*, is writing at a table when a woman enters the office to speak to the editor.
+
+THE WOMAN: This *is* the office of *The People*?
+
+OSCAR: Um-hum.
+
+THE WOMAN: (*Excitedly.*) I came to see the author of those wonderful words.
+
+OSCAR: __(*Rising.*) Which wonderful words?__
+
+THE WOMAN: About moving toward the beautiful distances.
+
+OSCAR: (*Loses interest and returns to his writing.*) Oh. Those are Mr. Wills’ wonderful words.
+
+THE WOMAN: Could I see him?
+
+OSCAR: He isn’t here yet. He’s just back from California. Won’t be at the office till a little later.
+
+A. To indicate that Oscar had been expecting the woman to come to the office.
+B. To suggest that Oscar is annoyed that the woman’s visit has interrupted his work.
+C. To depict Oscar as a polite and professional representative of the newspaper.
+D. To show Oscar’s brief hope that the woman is fond of his writing.
+Answer: D
+
+Question 5:
+[Details]
+Which choice best states the function of the underlined sentence in the text as a whole?
+
+__Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship.__ While horizontal gene transfer is common among prokaryotes—single-celled organisms, such as the bacteria *Comamonas aquatica* and *Moraxella caviae*—it has rarely been observed among eukaryotes (multicellular organisms). However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought.
+
+A. It explains a biological process by contrasting it with a somewhat similar process.
+B. It explains why a common perception of a biological process is flawed.
+C. It proposes a direction for future research into a biological phenomenon.
+D. It argues that two biological phenomena are more similar than they may initially appear to be.
+Answer: A
+
+Question 6:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Some researchers posit that the species inhabiting the South Pacific island of Grande Terre belong to clades that predate the island’s split from remnants of the former supercontinent Gondwana around 80 million years ago. A study conducted by Yohan Pillon et al. found, however, that the crown age (the age of the most recent common ancestor of all living and extinct species in the clade) of the clade of *Geissois* trees on Grande Terre is 7.3 million years; Pillon et al. further found that the crown age of the clade of *Geissois* trees in the South Pacific generally is also approximately 7.3 million years.
+
+A. It identifies a discrepancy between a hypothesis some researchers have proposed and related research findings, then explains that discrepancy.
+B. It presents a possibility that some researchers have raised, then describes a study that clarifies their reasons for doing so.
+C. It explains a view some researchers have advanced, then discusses study results that led them to reconsider that view.
+D. It describes an idea that some researchers have put forward, then presents study results that are incompatible with that idea.
+Answer: D
+
+Question 7:
+[Cross Text]
+Based on the texts, how would Ert and Erev (Text 2) most likely respond to Kahneman and Tversky’s finding (Text 1)?
+
+**Text 1**
+
+In a seminal 1979 study, Daniel Kahneman and Amos Tversky presented students and college faculty from Israel, Sweden, and the United States with hypothetical questions involving financial decisions. Finding that participants’ responses indicated that losses have a greater psychological impact than equivalent gains do, the researchers formulated the concept of loss aversion, which has since informed research in fields ranging from cognitive psychology to transportation studies.
+
+**Text 2**
+
+Eyal Ert and Ido Erev conducted an experiment in which two groups of Israeli students were exposed to financial choices that involved potential losses of either relatively minor sums of money, such as 10 Israeli shekels (low-stakes contexts), or more substantial sums, such as 100 Israeli shekels (high-stakes contexts). The researchers concluded that only the latter contexts were associated with loss aversion.
+
+A. By observing that researchers’ ability to assess feelings about financial decisions is contingent on gathering adequate data about gains and losses.
+B. By agreeing that experimental results support the idea that some people tend to be more cognizant of financial losses than of gains.
+C. By disputing Kahneman and Tversky’s claim that a tendency to place excessive emphasis on financial losses accounts for the loss aversion observed in fields such as cognitive psychology and transportation studies.
+D. By contending that the attitude toward financial losses that Kahneman and Tversky observed is contingent on the magnitude of outcomes.
+Answer: D
+
+Question 8:
+[COE]
+According to the text, what is one way that The Antelope Woman differs from most of Erdrich’s work?
+
+*Tracks* is a 1988 novel by Ojibwe writer Louise Erdrich. It explores how historical events affect families on a reservation in rural North Dakota. *Tracks* is typical of Erdrich’s work. Her writing usually focuses on portrayals of everyday life in Ojibwe communities. Yet some of her novels have fantastical plots and take place outside Ojibwe communities. For example, her 2016 novel *The Antelope Woman* is essentially fantasy fiction, and the otherworldly events in its plot are set in an urban Indigenous community in Minneapolis.
+
+A. Its main characters are Ojibwe.
+B. It isn’t set in a rural Ojibwe community.
+C. It has been adapted into a movie.
+D. It contains very little dialogue.
+Answer: B
+
+Question 9:
+[COE]
+The text most strongly suggests that particular aspects of Hamilton’s political beliefs may have been omitted from the musical in part to achieve which effect?
+
+Lin-Manuel Miranda’s 2015 hip-hop musical *Hamilton* depicts historical political figure Alexander Hamilton as a self-made man who, through sheer determination, transcends his humble origins to become a key participant in the founding of the United States. This depiction of Hamilton establishes him as a compelling and well-defined protagonist but obscures other facets of the historical person’s views, namely his elitism and mistrust of the democratic politics of some of his contemporaries. In effect, the musical’s portrayal of Hamilton fails to convey the ideological complexity that a more nuanced portrayal might have suggested.
+
+A. To suggest why certain contributions by Hamilton to US history have been overlooked.
+B. To encourage modern audiences to emulate Hamilton’s politics.
+C. To create an unambiguous thematic presentation of Hamilton’s life.
+D. To challenge the prevailing historical consensus about Hamilton.
+Answer: C
+
+Question 10:
+[COE]
+Which choice most effectively uses data from the graph to complete the statement?
+
+The US Department of Agriculture’s *Fruit and Tree Nuts Outlook* is a document that covers a variety of subjects, from the causes of reductions in grapefruit supply to the forecast for yields of apple crops. A student studying agricultural economics is consulting a graph in the document that shows the prices for which several types of nuts have been sold by growers in the United States over four growing seasons from 2016 to 2020. The student wishes to determine in which season walnuts reached their lowest price. Consulting the graph, the student finds that this season was the ______
+
+A. 2017/18 season
+B. 2016/17 season
+C. 2018/19 season
+D. 2019/20 season
+Answer: C
+
+Question 11:
+[COE]
+Which choice most effectively uses data from the graph to complete the example?
+
+Lin-Tai Ho and colleagues counted fish in a tide pool in Taiwan at several times during the year and found that some species had a significantly higher maximum population count than others. For example, the highest count for the combtooth blenny was 62 individuals in January of 2001, whereas the highest count for the yellowtail sergeant was ______
+
+A. 72 individuals in January of 2001.
+B. 15 individuals in April of 2001.
+C. 13 individuals in January of 2001.
+D. 3 individuals in January of 2001.
+Answer: D
+
+Question 12:
+[COE]
+Which choice most effectively uses data from the table to complete the example?
+
+As the second-most populous continent in the world, Africa was home to an estimated 1.186 billion people in 2015. In a paper for a social studies class, a student nonetheless notes that countries with very large populations may be less densely populated than are countries with much smaller populations, as can be seen by comparing ______
+
+A. the geographic size of Angola (1,246,700 square kilometers) with its relatively high population of 25,022,000 inhabitants.
+B. Angola, which has a high population of 25,022,000 inhabitants and a relatively low density of 20.1 inhabitants/square kilometer, with São Tomé and Príncipe, which has a much lower population and a higher density.
+C. Mauritania, which has a low density, with Ethiopia, which has a similar density despite both countries having different geographic sizes.
+D. the populations of both São Tomé and Príncipe and Ethiopia in 2015 with their populations in 2010.
+Answer: B
+
+Question 13:
+[COE]
+Which finding, if true, would most directly support Aburto-Oropeza and colleagues’ explanation?
+
+Declining fishing technology costs and overexploitation of near-shore fishing grounds have made isolated oceanic reefs, which often lack regulatory protections, increasingly attractive to commercial and sport fishers. A team led by Octavio Aburto-Oropeza surveyed the biomass density and species composition of two isolated reefs: Alacranes, a protected (fishing prohibited) reef 135 kilometers from the Yucatan Peninsula, and Bajos del Norte, an unprotected reef 25 kilometers further out to sea. Species at the highest level of the trophic pyramid constituted 34% of the biomass at Alacranes and 10% of the biomass at Bajos del Norte. Aburto-Oropeza and colleagues attribute this difference to the two reefs’ difference in regulatory status.
+
+A. Total biomass at Alacranes is much greater than total biomass at Bajos del Norte, though the reefs’ biomass densities are similar.
+B. It is somewhat more expensive for commercial and sport fishers to reach Bajos del Norte than it is to reach Alacranes.
+C. Some of the species that compose the highest trophic level at Bajos del Norte are not found at Alacranes.
+D. Commercial and sport fishers tend to disproportionately remove species at the highest trophic level.
+Answer: D
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Researchers Eugeni Vidal-Tortosa and Robin Lovelace looked at the relationship between street lighting in a city and people’s willingness to ride a bicycle. Their results suggest that poor street lighting can deter new or inexperienced cyclists from riding in a city but has little effect on experienced cyclists. Therefore, increasing the number of streetlights in a city could potentially ______
+
+A. decrease the number of experienced cyclists riding in the city.
+B. increase the number of new or inexperienced cyclists riding in the city.
+C. increase the number of experienced cyclists riding in the city.
+D. decrease the number of new or inexperienced cyclists riding in the city.
+Answer: B
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+Research into whether floating mats of macroalgae affect the prevalence of microphytobenthos (MPB)—benthic, or bottom-dwelling, microalgae—has produced varying results: Amber Hardison and colleagues determined that macroalgae do not impact MPB, whereas Emilio García-Robledo and Alfonso Corzo observed that benthic chlorophyll concentrations (a common measure of MPB biomass) decreased in the presence of macroalgae. Hypothesizing that macroalgal mats have a negative effect on MPB biomass, Alice F. Besterman and Michael L. Pace surveyed mudflats in Curlew Bay and other coastal sites in Virginia. Because Besterman and Pace did not find a significant correlation between benthic chlorophyll concentrations and the abundance of macroalgal mats, it can be concluded that ______
+
+A. their hypothesis about the relationship between macroalgae and MPB was not supported and their finding was instead consistent with that of Hardison and colleagues.
+B. although this finding was consistent with that of García-Robledo and Corzo, trends in MPB biomass are likely not a result of stresses caused by macroalgae.
+C. differences between their study design and that of García-Robledo and Corzo likely explain the discrepancy in the two studies’ findings about the responses of MPB to macroalgal mats.
+D. rather than inhibiting chlorophyll production in MPB, as they had hypothesized, macroalgal mats may positively affect chlorophyll production.
+Answer: A
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Many ranching terms come from Spanish. For example, the word “stockade” (a fence) ______ from the Spanish word *estacada*, and “cinch” (a belt) derives from *cincho*. This is because the first Anglo, African, and Native American cattle ranchers in the southwestern US learned the trade from Spanish-speaking Mexican *vaqueros*, or cowboys.
+
+A. have derived
+B. were deriving
+C. derive
+D. derives
+Answer: D
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A voluntary workforce established to make improvements to public lands, parks, and forests across the US, the Civilian Conservation Corps (CCC)—though widely popular—was not without its critics. For Aldo Leopold, the CCC was implicated in what ______ “Idle CCC camps,” he wrote, “presented a widespread temptation to build new and often needless roads.”
+
+A. he viewed as unnecessary development.
+B. he viewed as unnecessary development?
+C. did he view as unnecessary development?
+D. did he view as unnecessary development.
+Answer: A
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Though it was designated as mission ______ mission was actually the forty-sixth flight under NASA’s Space Shuttle Program.
+
+A. STS-45, the
+B. STS-45, and the
+C. STS-45. The
+D. STS-45 the
+Answer: A
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The epic poem *Theogony* dates back to the 8th century BCE. Originally ______ in ancient Greek, it has since been translated into other languages.
+
+A. is written
+B. had been written
+C. written
+D. was written
+Answer: C
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Trade with neighboring civilizations contributed to the success of the Roman Empire, which reigned in the Mediterranean from around 27 BCE to 476 CE. By supplying oil, grapes, and grain to societies that lacked these valuable ______ the Roman Empire grew not only in wealth but also in power and influence.
+
+A. items; the
+B. items, the
+C. items the
+D. items. The
+Answer: B
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In his 2023 collection *The Diaspora Sonnets*, Filipino American poet Oliver de la Paz leverages the sonnet form’s “diamond-like quality of precision,” as he describes it. The poems often adhere scrupulously to the form’s centuries-old conventions, such as its characteristic fourteen-line length. In the twelve-line poem “Diaspora Sonnet at the Feeders Before the Freeze,” ______ de la Paz playfully subverts sonnet conventions, the poem’s truncated length conveying a sense of abruptness.
+
+A. for example,
+B. similarly,
+C. by contrast,
+D. fittingly,
+Answer: C
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Cornelia Konrads is a German sculptor who creates art that seems to be part of its surroundings. Her sculpture entitled *the match* is built between statues at a park in France. ______ appearing as large vases being tossed between statues at the park, it is cleverly placed into its environment, serving as an example of Konrads’s approach.
+
+A. There,
+B. Later,
+C. However,
+D. For instance,
+Answer: A
+
+Question 23:
+[COE]
+Which choice most effectively uses information from the given sentences to explain the advantages of onshore wind farms over offshore ones?
+
+While researching a topic, a student has taken the following notes:
+
+• A wind farm uses turbines to convert wind into electrical power.
+• Offshore wind farms tend to produce more electricity than farms on land (onshore).
+• Offshore wind farms tend to be more expensive to build and maintain than onshore ones.
+• Muppandal Wind Farm is an onshore wind farm in Tamil Nadu, India.
+
+A. Though they don’t produce as much electricity as offshore wind farms, onshore farms are usually cheaper to build and maintain.
+B. Tamil Nadu, India, is home to Muppandal Wind Farm.
+C. Like other wind farms, Muppandal Wind Farm in Tamil Nadu, India, uses turbines to turn wind power into electricity.
+D. Whether onshore or offshore, wind farms harness the power of wind to generate electricity.
+Answer: A
+
+Question 24:
+[Synthesis]
+The student wants to emphasize how popular The Woman in White became when it was first published. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Wilkie Collins’s mystery novel *The Woman in White* first appeared in a London literary magazine.
+• The novel was published in forty weekly installments between November 1859 and August 1860.
+• Every installment ended with a moment of unresolved suspense.
+• *The Woman in White* became extremely popular as readers eagerly anticipated the next week’s entry.
+• The magazine’s sales increased to a record-breaking 100,000 copies per issue.
+
+A. *The Woman in White* became so popular that sales of the magazine it appeared in increased to a record-breaking 100,000 copies per issue.
+B. Every installment of *The Woman in White* ended with a moment of unresolved suspense, which led readers to eagerly anticipate the next week’s entry.
+C. Collins’s novel *The Woman in White* was published in forty weekly installments between November 1859 and August 1860.
+D. *The Woman in White*, a mystery novel, first appeared in a London literary magazine.
+Answer: A
+
+Question 25:
+[Synthesis]
+The student wants to emphasize fluorite’s Mohs scale number. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.
+• Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.
+• Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.
+• The mineral gypsum has a Mohs scale number of 2.
+• The mineral fluorite has a Mohs scale number of 4.
+• The mineral quartz has a Mohs scale number of 7.
+
+A. Quartz, which has a Mohs scale number of 7, can scratch both gypsum and fluorite.
+B. In the Mohs scale of mineral hardness, quartz (7) is ranked higher than gypsum (2).
+C. Fluorite has a Mohs scale number of 4, which means that it is harder than gypsum (2) but softer than quartz (7).
+D. Fluorite, gypsum, and quartz can be ordered by their ability to leave visible scratches on other minerals.
+Answer: C
+
+Question 26:
+[Synthesis]
+The student wants to emphasize the aesthetic qualities of SMA by quoting Knight. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Stop motion animation (SMA) is a filmmaking technique that involves manipulating characters (puppets, clay figures, etc.) by hand in minute increments.
+• Each change in position is meticulously captured in a series of images that, when played back, give the illusion of motion.
+• Producer Travis Knight: “It’s a process that dates back to the dawn of cinema, with a charm and a warmth and a beauty that other forms of animation...do not have. And because you effectively get one opportunity to get it right, every shot is a high-wire act.”
+• Knight: SMA is “raw and it’s imperfect. It’s also undeniably human.”
+
+A. The handmade, “imperfect” look of stop motion animation, says Knight, lends this “undeniably human” technique a “charm and a warmth and a beauty.”
+B. As Knight says, “you effectively get one opportunity to get it right” when meticulously capturing the series of images that, when played back, give it the illusion of motion.
+C. With its puppets and clay figures, stop motion animation, Knight says, “dates back to the dawn of cinema.”
+D. Stop motion animation is imperfect, making every shot “a high-wire act,” Knight says.
+Answer: A
+
+Question 27:
+[Synthesis]
+The student wants to provide a specific example of an isthmus. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• An isthmus is a strip of land that connects two larger pieces of land across an expanse of water.
+• It is also known as a land bridge.
+• The Isthmus of Potidea is located in Greece.
+• It connects the Kassandra Peninsula to mainland Greece.
+
+A. There is a land bridge in Greece.
+B. In Greece, the Kassandra Peninsula is connected to mainland Greece.
+C. One example of an isthmus is the Isthmus of Potidea in Greece.
+D. An isthmus, also known as a land bridge, is a strip of land that connects two larger pieces of land across an expanse of water.
+Answer: C
+

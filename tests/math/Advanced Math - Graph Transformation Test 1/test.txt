@@ -1,0 +1,99 @@
+Question 1:
+The exponential function g is defined by {{MATH_1}}, where a is a positive constant. If {{MATH_2}}, what is the value of g(4)?
+Answer: 11875
+
+
+Question 2:
+The function f is defined by the given equation, {{MATH_3}}. If {{MATH_4}}, which of the following equations defines the function g?
+
+A. {{MATH_5}}
+B. {{MATH_6}}
+C. {{MATH_7}}
+D. {{MATH_8}}
+Answer: B
+
+Question 3:
+{{MATH_9}}
+The function g is defined by {{MATH_10}}. For what value of x does g(x) reach its minimum?
+
+A. {{MATH_11}}
+B. {{MATH_12}}
+C. {{MATH_13}}
+D. {{MATH_14}}
+Answer: A
+
+
+Question 4:
+The function f is defined by {{MATH_15}}. In the xy-plane, the graph of {{MATH_16}} is the result of translating the graph of {{MATH_17}} up 4 units. What is the value of g(0)?
+Answer: 76
+
+
+Question 5:
+The function f is an exponential function. The y-intercept of the graph of {{MATH_18}} in the xy-plane is {{MATH_19}}. What is the y-intercept of the graph of {{MATH_20}}?
+
+A. {{MATH_21}}
+B. {{MATH_22}}
+C. {{MATH_23}}
+D. {{MATH_24}}
+Answer: C
+
+
+Question 6:
+The function f is defined by {{MATH_25}}. In the xy-plane, the graph of {{MATH_26}} is the result of shifting the graph of {{MATH_27}} up 7 units. Which equation defines function g?
+
+A. {{MATH_28}}
+B. {{MATH_29}}
+C. {{MATH_30}}
+D. {{MATH_31}}
+Answer: C
+
+
+Question 7:
+The function f is defined by {{MATH_32}}, where a is a constant. The graph of {{MATH_33}} in the xy-plane is translated 11 units to the left to produce the graph of {{MATH_34}}. Which equation defines function g?
+
+A. {{MATH_35}}
+B. {{MATH_36}}
+C. {{MATH_37}}
+D. {{MATH_38}}
+Answer: B
+
+
+Question 8:
+The function f is defined by {{MATH_39}}. The graph of {{MATH_40}} in the xy-plane is translated 3 units to the left. What is the y-intercept of the resulting graph?
+
+A. {{MATH_41}}
+B. {{MATH_42}}
+C. {{MATH_43}}
+D. {{MATH_44}}
+Answer: B
+
+
+Question 9:
+In the xy-plane, the graph of {{MATH_45}} is the result of translating the graph of {{MATH_46}} to the right by {{MATH_47}} units. Which of the following equations defines g(x)?
+
+A. {{MATH_48}}
+B. {{MATH_49}}
+C. {{MATH_50}}
+D. {{MATH_51}}
+Answer: B
+
+
+Question 10:
+In the xy-plane, the graph of {{MATH_52}} is a line that passes through the points {{MATH_53}} and {{MATH_54}}. The graph of {{MATH_55}} is the result of translating the graph of {{MATH_56}} down 14 units. For what value of x does g(x) = 0?
+Answer: 59/9
+
+
+Question 11:
+{{MATH_57}}
+The exponential function g is defined by the given equation. The graph of {{MATH_58}} in the xy-plane is translated 2 units down and 3 units to the left to produce the graph of {{MATH_59}}. What is the value of h(0)?
+Answer: 20
+
+
+Question 12:
+The function f is defined by {{MATH_60}}, and the function g is defined by {{MATH_61}}. In the xy-plane, the graph of {{MATH_62}} is the result of shifting the graph of {{MATH_63}} to the left by k units. What is the value of k?
+Answer: 5
+
+
+Question 13:
+Line p is defined by {{MATH_64}}. Line q is the result of translating line p down 6 units in the xy-plane. What is the x-coordinate of the x-intercept of line q?
+Answer: 13/6

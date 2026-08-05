@@ -1,0 +1,203 @@
+Question 1:
+If the graph of given equation has exactly one intersection point, what is the x-coordinate of intersection point?
+y = 3x^{2} + 18x + c
+y + 6x = 11
+
+Answer: -4
+
+Question 2:
+The height of a right circular cylinder is 36 inches, and the circumference of its base is 360 inches. Which expression represents the total surface area, in, square inches, of the cylinder?
+
+A. {{MATH_1}}
+B. {{MATH_2}}
+C. {{MATH_3}}
+D. {{MATH_4}}
+Answer: A
+
+Question 3:
+
+The volume of sphere A is {{MATH_60}}. If the radius of sphere B is 2 units longer than the radius of A. What is the volume of sphere B in terms of r?
+
+A. {{MATH_61}}
+B. {{MATH_62}}
+C. {{MATH_63}}
+D. {{MATH_64}}
+
+Answer: D
+
+Question 4:
+The table shows the volume of two similar solids, right circular cylinder A and right circular cylinder B. The radius of right circular cylinder A is 4 units. The surface area of right circular cylinder A is {{MATH_5}} square units, and the surface area of right circular cylinder B is {{MATH_6}} square units, where {{MATH_7}} and {{MATH_8}} are constants. What is the value of {{MATH_9}}? (The surface area of a right circular cylinder with radius {{MATH_10}} and height h is {{MATH_11}}).
+
+Answer: 1920
+
+Question 5:
+For any real number {{MATH_12}}, which of the following points lies on the graph of both equations? 
+{{MATH_13}}
+{{MATH_14}}
+
+A. {{MATH_15}}
+B. {{MATH_16}}
+C. {{MATH_17}}
+D. {{MATH_18}}
+Answer: A
+
+Question 6:
+
+For the linear function f, the graph of {{MATH_65}} in the xy-plane has a slope of {{MATH_66}} and passes through the point {{MATH_67}}. Which equation defines f?
+
+A. {{MATH_68}}
+B. {{MATH_69}}
+C. {{MATH_70}}
+D. {{MATH_71}}
+
+Answer: D
+
+Question 7:
+Each of the following frequency tables represents a data set. Which data set has the greatest mean?
+
+A. A
+B. B
+C. C
+D. D
+Answer: A
+
+Question 8:
+The exponential function given above passes through points {{MATH_21}} and {{MATH_22}}. What is a possible value of {{MATH_23}}? 
+{{MATH_24}}
+
+Answer: 16
+
+Question 9:
+What percentage of 300,000 is 168,000?
+
+A. 14%
+B. 44%
+C. 56%
+D. 86%
+Answer: C
+
+Question 10:
+For right triangle ABC and DEF, the measure of angle A and D are 90. If the length BC and DF are equal, which of the following is enough to claim that the given triangles are congruent?
+I. The measure of B and E are equal.
+II. The length of AB and DE are equal.
+
+A. Only I
+B. Only II
+C. I and II
+D. Neither I nor II
+Answer: D
+
+Question 11:
+A circle in the x y-plane has its center at (-4,-7). Line k is tangent to this circle at the point (-7,-8). What is the slope of line k?
+
+A. -3
+B. {{MATH_25}}
+C. {{MATH_26}}
+D. 3
+Answer: A
+
+Question 12:
+The graph of {{MATH_27}}is shown. If {{MATH_28}}, where {{MATH_29}}and {{MATH_30}}are constants, which of the following could be the value of {{MATH_31}}?
+
+A. -21
+B. -2
+C. 3
+D. 27
+Answer: A
+
+Question 13:
+{{MATH_32}} and {{MATH_33}}, what is the value of {{MATH_34}}?
+
+Answer: 19/24
+
+Question 14:
+
+The positive number a is 2,800% of the number c, and c is 20% of the number b. What is the value of {{MATH_72}} in terms of c? 
+
+A. {{MATH_47}}
+B. {{MATH_48}}
+C. {{MATH_49}}
+D. {{MATH_50}}
+
+Answer: A
+
+Question 15:
+There is exactly one solution to which of the following systems of linear equations?
+I .{{MATH_35}}
+{{MATH_36}}
+II. {{MATH_35}}
+{{MATH_37}}
+
+A. I only
+B. II only
+C. I and II
+D. Neither I nor II
+Answer: A
+
+Question 16:
+The equation {{MATH_38}}, where k is a constant, has exactly one solution. Which of the following could be the value of {{MATH_39}}?
+
+A. −8 or 8
+B. −8 only
+C. 0 only
+D. 8 only
+Answer: C
+
+Question 17:
+For each real number {{MATH_40}}, which of the following points lies on the graph of each equation in the xy-plane for the given system?
+{{MATH_41}}
+{{MATH_42}}
+
+A. {{MATH_43}}
+B. {{MATH_44}}
+C. {{MATH_45}}
+D. {{MATH_46}}
+Answer: A
+
+Question 18:
+What is the range of the data set shown?
+4, 4, 12, 25, 25
+
+A. 12
+B. 14
+C. 21
+D. 70
+Answer: C
+
+Question 19:
+
+An entomologist is studying the growth rate of various insect species in a controlled environment. For one particular species being studied in the controlled environment, an exponential model predicts that a population with an initial measurement of 4 organisms will increase by 160% every 23 days. Which equation represents this model, where y is the predicted number of organisms in the population x days since the initial measurement?
+
+A. {{MATH_73}}
+B. {{MATH_74}}
+C. {{MATH_75}}
+D. {{MATH_76}}
+
+Answer: D
+
+Question 20:
+A scientist studying the life cycle of butterflies counted the number of butterflies in a certain habitat each day for 46 days. On June 15, there were 168 butterflies in the habitat. The percent increase in the number of butterflies in the habitat from May 1 to June 15 was 31.25%. How many butterflies were in the habitat on May 1?
+
+A. 128
+B. 116
+C. 53
+D. 5
+Answer: A
+
+Question 21:
+An object's speed is increasing at a rate of {{MATH_51}} meters per second squared. What is this rate, in miles per minute squared, rounded to the nearest tenth? (Use 1 mile = 1,609 meters.)
+
+A. 0
+B. {{MATH_52}}
+C. {{MATH_53}}
+D. {{MATH_54}}
+Answer: B
+
+Question 22:
+One of the factors of {{MATH_55}}is {{MATH_56}}, where {{MATH_57}} and {{MATH_58}} are positive constants. Which of the following is a possible value of {{MATH_59}}
+
+A. 7
+B. 14
+C. 18
+D. 36
+Answer: C

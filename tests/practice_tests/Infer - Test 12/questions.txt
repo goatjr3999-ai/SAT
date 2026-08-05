@@ -1,0 +1,129 @@
+Question 33:
+[Infer]
+Which choice most logically completes the text?
+
+The musical Hadestown was produced off-Broadway in New York in 2016. A revised version of the musical premiered on Broadway in 2019, in a larger production. In a review of the Broadway production, theater critic Jesse Green enthusiastically praised the musical’s storytelling. However, Green also explained that he had seen the earlier version of Hadestown in 2016 and had found the storytelling to be very confusing. This suggests that in Green’s view, ____.
+
+
+A. Hadestown improved greatly between 2016 and its premiere on Broadway.
+B. The 2016 version of Hadestown had fewer storytelling problems than the 2019 version did.
+C. Hadestown should have had a larger production in 2019 than it actually did.
+D. The 2019 version of Hadestown was less enjoyable than the 2016 version.
+Answer: A
+
+Question 8:
+[Infer]
+Which choice most logically completes the text?
+
+Neuroscientist Artin Arshamian and his team sought to determine what affects a person’s perception of an odor as pleasant: is it culture, personal taste, or aspects of human anatomy? The team assessed odor preferences in ten groups of people with different modes of living (urban, agricultural, and hunter-gatherer) including the Semelai people from a small community in the Malay Peninsula and the Seri people from a small community in Mexico. The team observed little cross-cultural variation in the relative ratings of odors such as eugenol, which smells like cinnamon, and mushroom alcohol, which smells like fungus, suggesting that ______
+
+
+A. people from the Malay Peninsula and people from Mexico tended to rate more odors as pleasant than as unpleasant.
+B. although many people from the Malay Peninsula and people from Mexico rated mushroom alcohol as unpleasant, there were also many people from both places who likely rated it as pleasant.
+C. people from the Malay Peninsula tended to rate eugenol as more pleasant than mushroom alcohol regardless of differences in their anatomical characteristics or personal tastes.
+D. if people from Mexico tended to rate mushroom alcohol as less pleasant than eugenol, then people from the Malay Peninsula were also likely to rate mushroom alcohol as the less pleasant odor.
+Answer: D
+
+Question 66:
+[Infer]
+Which choice most logically completes the text?
+
+A group of primate conservationists recently began a long-term study of the effects of different conservation strategies on the Perrier’s sifaka (Propithecus perrieri). The species population is currently estimated to be around 500. It is challenging to accurately count these primates, however, which makes it difficult to tell whether the population is increasing, decreasing, or staying stable. The study may thus ____.
+
+
+A. risk making inaccurate conclusions about the effectiveness of different conservation strategies.
+B. cause other conservationists to adopt a new methodology for counting populations.
+C. benefit from including species beyond the Perrier’s sifaka.
+D. fail to consider less well-known conservation approaches for the Perrier’s sifaka.
+Answer: A
+
+Question 3:
+[Infer]
+Which choice most logically completes the text?
+
+Arthurian legends(tales related to the character of King Arthur) derive from many sources, such as Annaies Cambriae, composed around 970, and the Mabinogion from the 12th and 13th centuries. One of the most significant sources, Geoffrey of Monmouth's History of the Kings of Britain, was written in Latin in the 1130s; some material from it was later adapted by the Norman poet Wace into the Roman de Brut in 1155. But while no source before 1155 includes references to the famous Round Table at which Arthur's knights assembled,both the Roman de Brut and Sir Thomas Malory's 15th-century compilation of Arthurian legends, Le Morte d’Arthur, do. It can therefore be inferred that__     __
+
+
+A. Malory did not use Annales Cambriae as a source for information when he presented about the Round Table.
+B. Geoffrey of Monmouth's accounts of Arthurian legends in his History are more similar overall in content to the accounts in the Mabinogion than they are to the accounts in Roman de Brut.
+C. Geoffrey of Monmouth was unaware of stories of the Round Table when composing his History, though historians know that works containing such stories were available to him.
+D. Le Morte d’Arthur is more historically accurate than History, because the Mabinogion had not been written when Geoffrey of Monmouth was writing his work.
+Answer: A
+
+Question 17:
+[Infer]
+Which choice most logically completes the text?
+
+Blue holes—large marine sinkholes, like Watling’s Blue Hole near San Salvador Island—can be hundreds of meters deep and are sometimes part of widespread subterranean networks of passageways. In 2021, researchers conducted the first formal study of the Taam ja’ Blue Hole (TJBH), located in a bay of fresh water and salt water on Mexico’s coast, and reported a maximum depth of 274 meters. Oscar F. Reyes-Mendoza and colleagues later reinvestigated the depth of the TJBH, determining that it exceeded 400 meters; additionally, they detected variations in characteristics across water layers. Layers more than 400 meters deep began to show density and salinity conditions akin to those of the nearby Caribbean Sea. Reyes-Mendoza and colleagues therefore suggest that ______.
+
+
+A. there may be tunnels and caves that connect the TJBH and the waters of the Caribbean deep underground
+B. in the TJBH, there are greater differences between water layers less than 275 meters deep than there are between water layers greater than 400 meters deep
+C. researchers should reevaluate existing measurements of the depths of Watling’s Blue Hole and other blue holes where the conditions in very deep waters are similar to those of waters in open seas
+D. the apparent relationship between depth and salinity level in the TJBH is the inverse of that found in the Caribbean Sea
+Answer: A
+
+Question 37:
+[Infer]
+Which choice most logically completes the text?
+
+The Clarion-Clipperton Zone is a huge section of the Pacific Ocean seabed situated between Hawaii and Mexico. The zone has drawn international interest in recent years for its rich deposits of minerals crucial for electric vehicle batteries and other renewable energy technologies. Efforts to establish mining operations in the region have faced stiff resistance from marine biologists and conservation groups who wish to protect the area’s diverse wildlife. Despite such concerns, international authorities have already begun issuing preliminary mining permits, suggesting that ______
+
+
+A. international authorities started providing permits before conservationists began to protest mining in the zone.
+B. the minerals found in the zone cannot reasonably be obtained from another source.
+C. the push for deep-sea mining is gaining momentum and may lead to significant ecological consequences.
+D. mining companies plan on conducting their operations in a way that will limit the negative impact on the environment.
+Answer: C
+
+Question 23:
+[Infer]
+Which choice most logically completes the text?
+
+The oceanic whitetip shark and the Pacific halibut are ectothermic (cold-blooded) fish, whereas the shortfin mako shark and the yellowfin tuna are regional endotherms—they retain metabolic heat resulting in body temperatures above the ambient water temperature. Modeling the effect of falling ambient temperatures on ectotherms indicated to researchers Haley R. Dolton and colleagues that ectotherms’ body temperatures inexorably decrease toward the ambient temperature. Data from wild basking sharks show that even though their body temperature consistently remains 1.0 to 1.5°C above a also declines as the ambient temperature falls. This suggests that the body temperatures of the ______.
+
+
+A. Yellowfin tuna and the shortfin mako shark are likely to be more variable than the body temperature of the basking shark.
+B. Pacific halibut and the basking shark are at least partly determined by the ambient water temperature.
+C. Basking shark and the shortfin mako shark remain fixed even as ambient water temperature changes, while the body temperature of the Pacific halibut changes with variations in the ambient water temperature.
+D. Basking shark and the yellowfin tuna remain fixed even if the ambient water temperature changes, while the body temperature of the oceanic whitetip shark varies even if the ambient temperature is stable.
+Answer: B
+
+Question 41:
+[Infer]
+Which choice most logically completes the text?
+
+Many people experience the Hubert H. Humphrey Building and other examples of Brutalism—an architectural style characterized by bulkiness, immense scale, and austerity—as visually abrasive and alienating, an impression that contributes to the belief that the name “Brutalism” is intended to signify aggression. (In fact, the term comes from the French for “raw” and refers to the use of humble, unvarnished materials and exposed structural elements.) Some proponents of Brutalism argue that renaming the style “Heroic”—a name evocative of Brutalist architects’ aspirations to celebrate civic ideals through architecture—would rehabilitate the style’s public image, but this argument assumes that _______
+
+
+A. creating designs that were likely to be contentious was foundational to the political agenda that most Brutalist architects sought to realize through their work.
+B. objections to Brutalist buildings on the grounds that they provoke strong reactions aren’t representative of the reasons why the general public dislikes them.
+C. the negative feelings that Brutalist structures often evoke are attributable to a misunderstanding of the intentions of the structures’ architects rather than to qualities inherent in the structures. (true)
+D. the off-putting nature of the term “Brutalism” and the aesthetically unappealing elements of the Brutalist style risk obscuring the ingenuity involved in the style’s unconventional designs.
+Answer:
+
+Question 25:
+[Infer]
+Which choice most logically completes the text?
+
+Designed by Young Projects, Six Square House demonstrates the increasing focus among architects on developing eco-conscious and sustainable buildings. One way to accomplish this goal is through biophilic design, which incorporates elements that establish a coherent physical and emotional relationship among nature, human biology, and the building. Architects dedicated to this approach carefully contemplate every aspect of their projects from location characteristics and initial materials selection to ultimate interior design choices and building installation. Thus, _____.
+
+
+A. biophilic design considerations are exercised during both the conception and execution of a new project.
+B. architecture firms like Young Projects typically work with large crews in order to expedite the time it takes to build a new project.
+C. architecture firms like Young Projects aim to use unique building materials for each project that they design.
+D. biophilic design prioritizes the emotional effects on inhabitants rather than the physical state of the natural surroundings.
+Answer: A
+
+Question 6:
+[Infer]
+Which choice most logically completes the text?
+
+William Shakespeare’s famous sequence of sonnets is thought to have circulated as a manuscript long before its publication in 1609. To determine when the sonnets were written, a team of scholars compared their style and vocabulary to those of Shakespeare’s plays, reasoning that a sonnet and play written at the same time would resemble each other. The team concluded that for the sonnets addressing a handsome young man, the composition history is especially complex. For example, Sonnet 43 is stylistically similar to Shakespeare’s plays written in the mid-1590s but also uses the word “imperfect,” which had entered English relatively recently and is otherwise used by Shakespeare only in plays written after 1600. Given such examples, it is likely that ______.
+
+
+A. the sonnets addressing a handsome young man predate the other sonnets in the 1609 collection.
+B. while the manuscript probably wasn’t prepared for publication by Shakespeare himself, its editor was familiar with the plays that Shakespeare wrote after 1600.
+C. Shakespeare’s experience of writing additional sonnets after 1600 influenced his word choice in the later plays.
+D. the text of certain sonnets in the 1609 publication preserves much of the content of the original manuscript while also reflecting revisions after 1600.
+Answer: D

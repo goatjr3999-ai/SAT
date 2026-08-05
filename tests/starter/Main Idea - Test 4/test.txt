@@ -1,0 +1,78 @@
+Question 1:
+[Structure]
+Which choice best states the main idea of the text?
+
+In the 1940s, Evelyn Cunningham worked for the Pittsburgh Courier, focusing on coverage of the early civil rights movement. Cunningham's accomplishment is just one example of the rich history of Black journalism in the United States. That history is preserved by the National Association of Black Journalists, which was founded in Washington, D.C. in 1975 to support Black media professionals and honor people like Cunningham.
+
+
+A. Cunningham's achievements are often overlooked in countries other than the United States.
+B. The National Association of Black Journalists was founded in Washington, D.C. in the 1900s.
+C. Black journalism in the United States has an important history that the National Association of Black Journalists helps to honor.
+D. Black journalism has an interesting history both inside and outside the United States.
+Answer: C
+
+Question 2:
+[Structure]
+Which choice best states the main purpose of the text?
+
+In 2016, neurologists Tania Ferrante and Adil Mehta published research suggesting that sleep deprivation strongly influences cognitive performance in Rattus neurologicus, a species of laboratory rat. However, Ferrante and Mehta's research was based on an average test group of only around 12 rats. In a 2022 analysis evaluating various researchers' claims about sleep deprivation's effects on cognition in laboratory animals, Carlos Silva and collaborators warn that depending on such a comparatively limited test group may heighten the risk of biased conclusions. Such conclusions, consequently, may lead to reports overstating the effects.
+
+
+A. To explain how the behavior of a rat species has changed over time
+B. To note a potential concern about the findings of a scientific study
+C. To discuss an aspect of sleep deprivation that is frequently overlooked
+D. To present a debate between two research teams about a cause of sleep deprivation
+Answer: B
+
+Question 3:
+[Structure]
+Which choice best states the main topic of the text?
+
+When champion gymnast Simone Biles executes her routines, each movement seems effortless and spontaneous. Her remarkable technical mastery is evident, but her performances appear relaxed, fluid, and daring. Yet beneath this impression of ease lies intense and methodical training. Regardless of her extensive experience and high-level proficiency, Biles never assumes she has perfected a routine. Instead, she always approaches each performance with fresh curiosity, as if learning the moves anew.
+
+
+A. To explain how Biles selects the gymnastics routines she performs.
+B. To argue that Biles’s routines appear effortless due to her thorough preparation.
+C. To discuss the routines Biles finds easiest when attempting them for the first time.
+D. To describe Biles’s unique training methods for new gymnastics moves.
+Answer: B
+
+Question 4:
+[Structure]
+Which choice best states the main idea of the text?
+
+Extending from the 1850s to the 1910s, French composer Claude Debussy’s expansive musical output developed through several distinctive periods. After spending time in Russia and Germany in the late 1870s and engaging with a diverse international musical community, Debussy started adopting ideas influenced by symbolism and impressionism into his compositions, as demonstrated by *Prelude to the Evening Moon*, whose free-flowing harmonic structures stand apart from the conventionally romantic style exhibited in *Serenade for Louise Martin*, one of Debussy’s earliest pieces composed in Paris.
+
+
+A. Debussy’s compositions Prelude to the Evening Moon and Serenade for Louise Martin are recognized as perfect representations of a symbolist and impressionist style.
+B. Debussy’s composition Serenade for Louise Martin is regarded as more experimental than Prelude to the Evening Moon.
+C. Debussy’s early compositions illustrate a firm commitment to an impressionist style that he subsequently abandoned.
+D. A clear transition in Debussy’s compositional style indicates the impact of his international experiences.
+Answer: D
+
+Question 5:
+[Structure]
+Which choice best states the main topic of the text?
+
+In 1955, Marian Anderson became the first African American soloist to perform at the Metropolitan Opera in New York City. Anderson's breakthrough represents just one moment within the extensive legacy of African American contributions to classical music. This legacy is commemorated by the National Association of Negro Musicians, established in Chicago in 1919, which advocates for African American musicians and promotes core values such as artistic excellence.
+
+
+A. Performing classical music was a significant achievement for artists in countries other than the United States.
+B. The history of African American musicians in classical music is significant and continues to be preserved by the National Association of Negro Musicians.
+C. The National Association of Negro Musicians was created specifically for this purpose in Chicago.
+D. The history of African American contributions to music is compelling both within the United States and internationally.
+Answer: B
+
+Question 6:
+[Structure]
+Which choice best states the main topic of the text?
+
+Marina Salazar’s poem *Evening in Cartagena*, depicting quiet streets illuminated by lanterns beneath a richly starry sky, exemplifies the literary style of the Colombian Poets Circle, a loosely connected group primarily producing poetry in the 1920s and ’30s. Their poems notably anticipated and reinforced imagery associated with Colombia that later became widespread in popular literary culture. Members frequently utilized evocative natural motifs—peaceful urban avenues, softly glowing lanterns—which Salazar and her contemporaries revisited continually.
+
+
+A. Although similar in its imagery to other works from the Colombian Poets Circle, Evening in Cartagena has recently attained greater literary acclaim than other poems from the group.
+B. Common imagery recurring in poems by Salazar and other Colombian Poets Circle poets became broadly connected with Colombia partly due to the group’s literary impact.
+C. Although poems by the Colombian Poets Circle once received praise for vividly portraying Colombia’s urban scenes, such works diminished in popularity after the 1930s.
+D. The tranquil urban streets and glowing lanterns typical of Salazar’s poetry, indistinguishable from the works of other Colombian Poets Circle members, uniquely differentiate her poems from theirs.
+Answer: B
+

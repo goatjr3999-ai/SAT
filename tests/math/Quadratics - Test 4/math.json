@@ -1,0 +1,27 @@
+{
+  "{{MATH_1}}": "h",
+  "{{MATH_2}}": "\\frac{1}{2}",
+  "{{MATH_3}}": "k",
+  "{{MATH_4}}": "2x^{2}-12x-13",
+
+  "{{MATH_5}}": "\\begin{cases}-2x+3y=-8\\\\2x-3y=8\\end{cases}",
+  "{{MATH_6}}": "\\begin{cases}2x-3y=8\\\\3x+4y=9\\end{cases}",
+  "{{MATH_7}}": "\\begin{cases}2x-3y=8\\\\-6x+9y=-24\\end{cases}",
+  "{{MATH_8}}": "\\begin{cases}-2x+3y=8\\\\4x-6y=16\\end{cases}",
+
+  "{{MATH_9}}": "ax^{2}+bx+c",
+
+  "{{MATH_10}}": "3x^{2}+7x+14a",
+  "{{MATH_11}}": "3x^{2}+28x+14a",
+  "{{MATH_12}}": "3x^{2}+42x+14a",
+  "{{MATH_13}}": "3x^{2}+49x+14a",
+
+  "{{MATH_14}}": "\\frac{a}{4}",
+  "{{MATH_15}}": "\\frac{b}{4}",
+  "{{MATH_16}}": "\\frac{c}{4}",
+
+  "{{MATH_17}}": "4x^{3}+84x^{2}+416x",
+
+  "{{MATH_18}}": "\\sqrt{k-x}",
+  "{{MATH_19}}": "59-x"
+}

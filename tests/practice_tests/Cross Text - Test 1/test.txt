@@ -1,0 +1,148 @@
+Question 1:
+[Cross Text]
+Based on the texts, the author of Text 1 would most likely agree with the author of Text 2 on which point?
+
+Text 1
+Isaac Asimov, author of The Naked Sun and The Gods Themselves, is highly regarded despite his mediocre writing style. His prose is workmanlike; his characters are flat and discuss ideas rather than emotions. That his work is enjoyable despite this is a testament to his prodigious imagination—even if people read his books only for the ideas, they will have plenty to consider.
+Text 2
+Asimov is critiqued for his style, but it is wrong to fault a writer for failing to do what he never intended to do. For example, although most of his novel Foundation consists of people discussing science and politics and we find out little about his characters' lives, Asimov wanted to convey the vast sweep of human history over centuries, and one of his points is that at such a timescale, individuals don’t matter. Thus his lack of characterization is central to his thematic aims.
+
+A. The Naked Sun is more representative of Asimov's writing style than Foundation is.
+B. Asimov's writing style is often unfairly criticized.
+C. Asimov's characters can be concerned mainly with intellectual matters rather than emotions.
+D. Asimov was correct to suggest that individual humans have little influence over the course of human history.
+Answer: C
+
+Question 2:
+[Cross Text]
+Based on the texts, how would the author of Text 2 most likely respond to the underlined claim in Text 1?
+
+Text 1
+In 1995, James Cameron directed *Titanic*, a movie depicting the tragic sinking of the RMS Titanic. Since its release, *Titanic* has become a staple of film history and is frequently re-released in theaters. __However, the movie feels outdated, with an old-fashioned narrative and themes that no longer resonate with modern audiences__. For cinema to maintain its relevance, filmmakers need to create new classics instead of relying on dated productions.
+Text 2
+While *Titanic* may seem antiquated, it remains a beloved film that continues to attract audiences and generate significant revenue for theaters. Even if the movie’s story feels dated, there are innovative ways to revitalize its appeal. For instance, Baz Luhrmann successfully reimagined classic narratives in his unique style. A modern adaptation of *Titanic*, incorporating updated perspectives and cinematic techniques, could similarly appeal to contemporary viewers.
+
+A. By challenging the notion that Titanic is outdated and disagreeing with the claim that reimagined versions wouldn’t appeal to today’s viewers.
+B. By agreeing that modern audiences have mostly lost interest in Titanic because it is too old-fashioned.
+C. By arguing that modernized versions of Titanic could help theaters increase their revenue while maintaining the film’s appeal.
+D. By suggesting that filmmakers should focus on reimagining Titanic for current audiences rather than discarding the film entirely.
+Answer: D
+
+Question 3:
+[Cross Text]
+Based on the texts, how would Rubayet Bin Mostafiz and colleagues (Text 2) most likely respond to the information presented in Text 1?
+
+Text 1:
+In northern and western Nebraska, many buildings and other structures rest on soil that is expansive, meaning that it swells or shrinks as its moisture level changes. Civil engineer Jay X. Wang has noted that the effects of expansive soil appear slowly in the form of gradually growing cracks in foundations, walls, and pavements. Because these effects are incremental and can generally be repaired (though at some cost), structures in northern and western Nebraska are typically not built to resist them.
+Text 2:
+In a 2021 study, Rubayet Bin Mostafiz and colleagues calculated that in the state of Louisiana alone, the annual cost of damage caused by expansive soils reaches nearly $90 million. But they note that this damage can be mitigated: building structures on pile supports can significantly reduce the effects of soil swelling and shrinking.
+
+A. They would recommend that engineers in northern and western Nebraska measure the moisture level in the soil beneath proposed structures before beginning construction.
+B. They would argue that engineers in northern and western Nebraska have misjudged the effectiveness of the techniques they use to reduce the effects of expansive soil.
+C. They would encourage engineers in northern and western Nebraska to use pile supports when building new structures.
+D. They would suggest that engineers in northern and western Nebraska consider the cost of replacing the pile supports on which existing structures rest.
+Answer: C
+
+Question 4:
+[Cross Text]
+Based on the texts, how would the author of Text 2 most likely respond to the characterization of Meding and Zasoski’s study in Text 1?
+
+Text 1
+In separate studies, Stephen Meding and Robert J. Zasoski and Xinhua He and colleagues examined whether plants transfer nutrients to one another using a common mycorrhizal network (CMN)—a lattice of fungal strands in the soil. Meding and Zasoski excluded all pathways other than the CMN by using barriers to keep the plants’ root systems separate while allowing mycorrhizal strands through—a crucial step He and colleagues’ study did not take.
+Text 2
+Meding and Zasoski took the necessary precaution of separating the plants’ root systems (thereby excluding root-to-root transmission). However, any barrier used must allow the thread-like hyphae of a CMN to pass through, and this permeability would also allow liquids through. Thus, the researchers’ experimental design cannot ensure that any nutrient transfer observed can be attributed to a CMN and not to some other pathway.
+
+A. By asserting that the author of Text 1 has overstated the effectiveness of the method that Meding and Zasoski used
+B. By pointing out that the author of Text 1 has overlooked studies that reported results that contradict those reported by Meding and Zasoski
+C. By claiming that the author of Text 1 has misrepresented what Meding and Zasoski were trying to achieve with their experimental design
+D. By arguing that the author of Text 1 has conflated the method used by Meding and Zasoski with that used by He and colleagues
+Answer: A
+
+Question 5:
+[Cross Text]
+Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree on which point?
+
+Text 1:
+For thousands of years, O’odham farmers in the Sonoran desert of the southwestern US and northern Mexico have cultivated elderberries and chia seeds, sometimes planting these species together so that the elderberry bushes provide shade for chia flowers. Doing so helps protect chia flowers from the harshest heat and light and thereby helps prevent soil moisture from evaporating.
+Text 2:
+Chia flowers are well adapted to growing in the desert but grow best when shaded. Inspired by O’odham farmers, who often strategically plant chia flowers in the shade of sun-hardy species like elderberry bushes for protection from the sun and heat, Gary Nabhan and colleagues planted chia flowers in the shade of solar panels in the Sonoran desert and found that the plants grew well, suggesting to Nabhan and colleagues that the panels provide a benefit similar to that provided by elderberry bushes.
+
+A. Elderberry bushes can provide shade that protects chia flowers from high-intensity heat and light.
+B. Nabhan’s team’s method could be refined to more actively prevent soil moisture from evaporating.
+C. Compared with Nabhan’s approach, the O’odham approach has the advantage of producing chia seeds.
+D. Elderberry bushes grow best when planted in shaded areas, while chia flowers do not require shade to thrive.
+Answer: A
+
+Question 6:
+[Cross Text]
+Based on the texts, how would the author of Text 2 most likely respond to the problem presented in Text 1?
+
+Text 1
+One challenge faced by researchers studying global urbanization is that countries may define urban settlements differently. Many countries define urban settlements based on the number of people living in them. However, countries do not all use the same number; for example, Greenland uses a minimum population of 200, while the Netherlands uses 20,000. Other countries use a combination of population and other factors. This variation makes it difficult for researchers to compare aspects of urbanization in different countries.
+Text 2
+Recently, a group of six international organizations developed global definitions of common types of settlements. The group developed a new measure called the “degree of urbanization.” This new measure establishes global criteria used to define three types of settlements (cities, towns, and rural areas) and allows researchers to better understand global urbanization rates.
+
+A. By suggesting that researchers focus on topics besides urbanization
+B. By noting that a possible solution to the problem is available
+C. By recommending that a specific institution should further investigate the problem
+D. By supplying additional ways in which urbanization research is difficult
+Answer: B
+
+Question 7:
+[Cross Text]
+Based on the texts, the author of Text 2 would most likely agree with which statement regarding the findings of Torres and colleagues (Text 1)?
+
+Text 1:
+In several coastal regions, the lionfish significantly preys upon juvenile reef fish. Marine biologist Elena M. Torres and her research team observed that when lionfish populations were briefly controlled, juvenile reef fish populations noticeably expanded. This outcome demonstrates a basic ecological concept: predator presence directly influences prey abundance.
+Text 2:
+Samuel Griffiths and Jessica Lowell discovered that removing sharks from specific marine habitats off the coast of South Africa, where sharks predominantly prey on seals, did not substantially alter seal populations. Although numerous predation-focused studies indicate a rise in prey populations following predator removal, these studies usually examine small marine organisms with high reproductive rates, such as small reef fish and shrimp, rather than large, slowly reproducing mammals like seals. Such distinctions in prey characteristics likely clarify the difference between Griffiths and Lowell’s findings and other studies.
+
+A. These findings might be partly influenced by biological traits of juvenile reef fish not shared by seals.
+B. These findings could differ if the size ratio between lionfish and juvenile reef fish was larger.
+C. These findings might partly result from the smaller size and rapid reproduction of lionfish compared to sharks.
+D. These findings may represent a phenomenon unique to juvenile reef fish rather than other marine species
+Answer: A
+
+Question 8:
+[Cross Text]
+Based on the texts, which choice best describes a point on which the author of Text 1 and the author of Text 2 would most likely agree?
+
+Text 1: In separate studies, Stephen Meding and Robert J. Zasoski and Xinhua He and colleagues examined whether plants transfer nutrients to one another using a common mycorrhizal network (CMN)—a lattice of fungal strands in the soil. Meding and Zasoski excluded all pathways other than the CMN by using barriers to keep the plants' root systems separate while allowing mycorrhizal strands through—a crucial step He and colleagues' study did not take.
+Text 2: Meding and Zasoski took the necessary precaution of separating the plants' root systems (thereby excluding root-to-root transmission). However, any barrier used must allow the thread-like hyphae of a CMN to pass through, and this permeability would also allow liquids through. Thus, the researchers' experimental design cannot ensure that any nutrient transfer observed can be attributed to a CMN and not to some other pathway.
+
+A. Meding and Zasoski's study effectively excluded any explanation for nutrient transfer other than via a CMN.
+B. Excluding root-to-root transfer of nutrients between plants is sufficient to ensure that any observed nutrient transfer must involve a CMN.
+C. He and colleagues' study was not designed in a way that would allow it to produce compelling evidence that nutrient transfer occurred via a CMN.
+D. A barrier that is impervious to both roots and fungal strands is necessary to evaluate nutrient transfer via a CMN.
+Answer: C
+
+Question 9:
+[Cross Text]
+Based on the texts, both the author of Text 1 and the author of Text 2 would most likely agree with which statement about scholarship on the modernist period in the United States?
+
+Text 1
+Scholarship today overrepresents experimentally fragmented narrative structures, such as that of Jean Toomer’s Cane, beyond the degree to which they actually influenced fiction in the United States during the modernist period (roughly 1900–1945). Meanwhile, Ellen Glasgow’s Barren Ground, whose coherent, linear narrative structure recalls the fiction of previous centuries, attracts woefully little attention from scholars of modernism.
+Text 2
+Distant reading, or computer-assisted quantitative analysis of massive collections of digitized texts, can reveal stylistic elements that have heretofore escaped notice, despite being shared by numerous texts from the modernist period. For too long, scholars have focused on narrative fragmentation versus coherence, inhibiting inquiry into other points of stylistic correspondence among works that would enrich our understanding of the modernist canon.
+
+A. At present, it only partially captures the stylistic dimensions of the fiction written in the period.
+B. Its primary methods for analyzing fiction written in the period are growing obsolete as computer technology advances.
+C. Instead of engaging in unproductive debates, it should work to rehabilitate the reputations of neglected modernist works.
+D. It must widen its focus to include aspects of modernist fiction beyond style, a productive but overrepresented site of inquiry.
+Answer: A
+
+Question 10:
+[Cross Text]
+Based on the texts, how would Zeif and Yechiam (Text 2) most likely respond to Kahneman and Tversky’s finding (Text 1)?
+
+Text 1:
+In a seminal 1979 study, Daniel Kahneman and Amos Tversky presented students and college faculty from Israel, Sweden, and the United States with hypothetical questions involving financial decisions. Finding that participants’ responses indicated that losses have a greater psychological impact than equivalent gains do, the researchers formulated the concept of loss aversion, which has since informed research in fields ranging from marketing to law.
+Text 2:
+Dana Zeif and Eldad Yechiam conducted an experiment in which study participants from five countries were exposed to financial choices that involved potential losses of either relatively minor sums of money, such as 20 US dollars (low-stakes contexts), or more substantial sums, such as 100 US dollars (high-stakes contexts). The researchers concluded that only the latter contexts were associated with loss aversion.
+
+A. By contending that the attitude toward financial losses that Kahneman and Tversky observed is contingent on the magnitude of outcomes.
+B. By agreeing that experimental results support the idea that some people tend to be more cognizant of financial losses than of gains.
+C. By observing that researchers’ ability to assess feelings about financial decisions is contingent on gathering adequate data about gains and losses.
+D. By disputing Kahneman and Tversky’s claim that a tendency to place excessive emphasis on financial losses accounts for the loss aversion observed in fields such as marketing and law.
+Answer: A
+

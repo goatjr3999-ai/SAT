@@ -1,0 +1,252 @@
+Question 1:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The Hoover Dam, located on the border of Nevada and Arizona, generates about 4,000 gigawatt-hours (GWh) of electricity per year. ____ China’s Three Gorges Dam, the world’s largest hydroelectric power station, produces over 100,000 GWh annually.
+
+A. As a result,
+B. That is,
+C. By comparison,
+D. For instance,
+Answer: C
+
+Question 2:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Firefly luciferase (Fluc) is a distinctly evolved enzyme that can oxidize a substrate called D-luciferin to induce bioluminescence and can act as a fatty acyl-CoA synthetase (ACS) enzyme, a class of enzyme present in all insects. ___ Fluc is a bifunctional enzyme whose presence indicates an insect is capable of emitting light; in contrast, the presence of ACS alone would be insufficient for determining bioluminescence.
+
+A. In fact,
+B. Moreover,
+C. That is,
+D. Nevertheless,
+Answer: C
+
+Question 3:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+German meteorologist Alfred Wegener, known for his groundbreaking theory of continental drift, did not have the mechanism fully understood; his hypothesis for what powered the continents' movement—the "pole-fleeing force"—was incorrect and rejected by his contemporaries. Even with this flawed explanation, ______ Wegener was revolutionary for compiling evidence that the continents were not fixed, but had moved over geological time.
+
+A. therefore,
+B. in fact,
+C. moreover,
+D. though,
+Answer: D
+
+Question 4:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Kore, one of the eighty known moons of Jupiter, is designated as Jupiter XLIX ("XLIX" means "49"). Roman numerals typically indicate the order in which the moons were named rather than the order of their proximity to Jupiter. It is incorrect to assume, ___ that Kore is the forty-ninth moon from Jupiter in terms of proximity.
+
+A. however,
+B. moreover,
+C. finally,
+D. accordingly,
+Answer: D
+
+Question 5:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In astrophysics, a ring of debris orbiting a larger object within the object’s Roche limit is expected to persist as a ring, whereas a ring of debris orbiting outside this limit would likely accrete into a satellite (e.g., a moon). Bruno Morgado and colleagues ____ detected a dense ring of material orbiting the trans-Neptunian object Quaoar at a distance of 2,500 miles, well outside the calculated Roche limit of 1,100 miles, that has remained intact.
+
+A. likewise,
+B. fittingly,
+C. for example,
+D. though,
+Answer: D
+
+Question 6:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The names of geological eras uniformly describe phases in Earth’s evolutionary history (e.g., Cenozoic means “new life”). Names given to geological periods, _____ are of diverse origins. The Silurian period is named after the Celtic tribe the Silures, for example, while the Permian period takes its name from the historical region of Perm in Russia.
+
+A. in turn,
+B. furthermore,
+C. on the other hand,
+D. therefore,
+Answer: C
+
+Question 7:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Generally, sleek vehicles are more aerodynamic than bulkier ones. For example, the streamlined nose of the T-38 Talon jet helps it glide through wind with relative ease. ____ a boxy semitruck encounters more wind resistance, making it less aerodynamic.
+
+A. As a result,
+B. Specifically,
+C. In conclusion,
+D. On the other hand,
+Answer: D
+
+Question 8:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In the 19th century, Louis Pasteur's famous experiments on fermentation involved simple microscopes, which used single glass lenses to observe yeast cells. Unsurprisingly, this basic optical technology had been entirely superseded by the time modern microbiology labs were established in the 20th century. ______ powerful electron microscopes revealed the intricate internal structures of microorganisms.
+
+A. In other words,
+B. For this reason,
+C. In addition,
+D. Then,
+Answer: D
+
+Question 9:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Visually distinguishing the common raven (Corvus corax) from the Chihuahuan raven (Corvus cryptoleucus) can confound even seasoned bird watchers. ______ the two species share similarities that—at times—make the birds appear virtually identical. Size, though, remains a differentiating feature: the common raven tends to be larger.
+
+A. Instead,
+B. Moreover,
+C. Indeed,
+D. Thus,
+Answer: C
+
+Question 10:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In a 1993 study by Vales and Peek, the researchers determined the ratio of three different plant subtypes within the diet of elk: graminoids, forbs, and browse. _____ the researchers determined the relative quantities of the plants the animal consumed.
+
+A. That is,
+B. In addition,
+C. By contrast,
+D. Next,
+Answer: A
+
+Question 11:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In a transdisciplinary study, a scholar examines a concept from another academic field, such as economics, anthropology, or psychology. Elena Rodriguez’s 2012 research paper Keynesian Perspectives, for instance, analyzes John Keynes’s 1936 economic theory General Theory of Employment; Mark Tanaka’s 2020 paper Human Rituals, ____ engages with a theory from another discipline: Victor Turner’s 1969 anthropological work The Ritual Process.
+
+A. nevertheless,
+B. likewise,
+C. hence,
+D. conversely.
+Answer: B
+
+Question 12:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Connecticut lawyer and statesman Roger Sherman strategically adopted the pen name “A Citizen of New Haven” when voicing support for the ratification of the US Constitution in the New-Haven Gazette. Publishing pseudonymously offered a number of advantages, such as shielding a writer from criticism and controversy. _____ by removing a potential source of bias (the writer’s name), it encouraged readers to focus on an essay’s arguments.
+
+A. Moreover,
+B. In other words,
+C. Specifically,
+D. For example,
+Answer: A
+
+Question 13:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Katharine Kuh and Bernarda Bryson Shahn have both received Lifetime Achievement Awards from the Women’s Caucus for Art, though for different reasons. Kuh was honored for her work as an art historian; Bryson, ______ was recognized for her contributions as a painter.
+
+A. as a result,
+B. for instance,
+C. in other words,
+D. by contrast,
+Answer: D
+
+Question 14:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In the global energy sector, the consumption of renewable energy grew from 3.8% to 5.7% of the total between 2010 and 2019. ______ worldwide carbon dioxide emissions from fossil fuels continued to climb, increasing by over 3 billion metric tons during that same period.
+
+A. For example,
+B. Eventually,
+C. In other words,
+D. Concurrently,
+Answer: D
+
+Question 15:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+With some elements, like phosphorus, scientists were able to isolate a relatively pure sample of the substance shortly after discovering its existence—but this wasn’t the case with all elements. ___ the isolation process took a few years. The element molybdenum, for instance, was discovered in 1778 but not isolated until 1781.
+
+A. Even so,
+B. Often,
+C. Specifically,
+D. In fact,
+Answer: B
+
+Question 16:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The Jiangsu Qidong, an offshore wind farm located off the coast of China, produces about 802 megawatts (MW) of electricity per year. _____ England’s Hornsea Project One offshore wind farm, which generates the most power of any single offshore farm, produces 1,218 MW of electricity.
+
+A. By comparison,
+B. For instance,
+C. That is,
+D. As a result,
+Answer: A
+
+Question 17:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In her 2012 analysis of tree rings from Japan's Yaku Island, cosmic ray physicist Fusa Miyake noted an anomalous carbon-14 spike dating to 774-775 CE, indicating that a massive burst of radiation reached Earth during that time. _____ this unprecedented radiocarbon surge was dubbed a "Miyake event" in honor of its discoverer.
+
+A. Fittingly,
+B. Similarly,
+C. However,
+D. In other words,
+Answer: A
+
+Question 18:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The names of chemical elements in the halogen group uniformly describe a key chemical property (e.g., the name halogen itself means “salt-producing”). Names given to many other elements, ______, are of diverse origins. Curium is named after the scientist Marie Curie, for example, while berkelium takes its name from the city of Berkeley, California.
+
+A. in turn,
+B. furthermore,
+C. on the other hand,
+D. therefore,
+Answer: C
+
+Question 19:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The geologic principle of cross-cutting relationships states that an intrusion is younger than the rocks through which it cuts. ______ geophysicists analyzing a given rock formation can ascertain that an igneous intrusion that bisects a layer of 358.9-million-year-old Tournaisian rock but not the 303.7-million-year-old Gzhelian rock above it is younger than the former but older than the latter.
+
+A. Accordingly,
+B. Moreover,
+C. To this end,
+D. That being said,
+Answer: A
+
+Question 20:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+With some elements, like selenium, scientists were able to isolate a relatively pure sample of the substance shortly after discovering its existence—but this wasn’t the case with all elements. ___ the isolation process took a few years. The element molybdenum, for instance, was discovered in 1778 but not isolated until 1781.
+
+A. Often,
+B. Even so,
+C. Similarly,
+D. Furthermore,
+Answer: A
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Unlike standard Western maps, which privileged static features like coastlines, the Marshallese stick charts used by Pacific Islands navigators for centuries depicted fluctuating ocean dynamics, such as ocean swells, through intricate lattice-like constructions of wood, fibers, and shells. ______ these stick charts were memorized prior to a voyage rather than consulted at sea.
+
+A. Subsequently,
+B. However,
+C. Even so,
+D. Moreover,
+Answer: D
+

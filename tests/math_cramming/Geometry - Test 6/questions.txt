@@ -1,0 +1,4 @@
+Question 1:
+In the figure shown, points A, B, C, and E lie on the circle, and AB{{MATH_1}}. The diameter of the circle is 201. If {{MATH_2}} what is the value of {{MATH_3}}? (dien phan so)
+
+Answer: 40003/398

@@ -1,0 +1,185 @@
+Question 1:
+What is one of the solutions to the given equation?
+{{MATH_1}}
+
+A. {{MATH_2}}
+B. {{MATH_3}}
+C. {{MATH_4}}
+D. {{MATH_5}}
+Answer: A
+
+Question 2:
+The graphs of the equations in the given system intersect at the point {{MATH_6}} in the {{MATH_7}}-plane. What is a possible value of {{MATH_8}}
+{{MATH_9}}
+{{MATH_10}}
+
+A. 3
+B. 5
+C. 9
+D. 45
+Answer: A
+
+Question 3:
+A circle in the {{MATH_11}}plane has its center at (-7,2), and the point (1,-2) lies on the circle. Which equation represents this circle?
+
+A. {{MATH_12}}
+B. {{MATH_13}}
+C. {{MATH_14}}
+D. {{MATH_15}}
+Answer: A
+
+Question 4:
+The function {{MATH_16}} is defined by {{MATH_17}}, where {{MATH_18}}. What is the product of {{MATH_19}} and {{MATH_20}}?
+
+Answer: 638
+
+Question 5:
+One gallon of sealant costs $31 and will cover 250 square feet of a surface. A deck has a total surface area of {{MATH_21}} square feet. Which equation represents the cost {{MATH_22}}, in dollars, of the sealant needed to cover the deck twice?
+
+A. {{MATH_23}}
+B. {{MATH_24}}
+C. {{MATH_25}}
+D. {{MATH_26}}
+Answer: C
+
+Question 6:
+The graph of line {{MATH_27}} is shown in the {{MATH_28}}-plane. Line {{MATH_29}} is defined by {{MATH_30}}, where {{MATH_31}} and {{MATH_32}} are constants. If line {{MATH_29}} is graphed in this {{MATH_28}}-plane, resulting in the graph of a system of two linear equations, the system of two linear equations will have infinitely many solutions. What is the value of {{MATH_33}}?
+
+Answer: 360
+
+Question 7:
+If {{MATH_34}}, the value of {{MATH_35}} is between which of the following pairs of values?
+
+A. {{MATH_36}}
+B. {{MATH_37}}
+C. {{MATH_38}}
+D. {{MATH_39}}
+Answer: B
+
+Question 8:
+The function {{MATH_40}} is defined by the equation {{MATH_41}}, where {{MATH_42}} is a constant. In the {{MATH_7}}-plane, the graph of {{MATH_43}} contains the points (0,36) and {{MATH_44}} where {{MATH_45}} is a constant. What is the value of {{MATH_46}}
+
+Answer: 416
+
+Question 9:
+The function {{MATH_89}} is defined by {{MATH_90}}, where {{MATH_91}} and {{MATH_92}} are integer constants and {{MATH_93}}. The functions {{MATH_94}} and {{MATH_95}} are equivalent to function {{MATH_89}}, where {{MATH_96}} and {{MATH_97}} are constants. Which of the following equations displays the y-coordinate of the y-intercept of the graph of {{MATH_98}} in the {{MATH_28}}-plane as a constant or coefficient?
+
+I. {{MATH_99}}
+II. {{MATH_100}}
+
+A. I only
+B. II only
+C. I and II
+D. Neither I nor II
+Answer: D
+
+Question 10:
+For a linear function {{MATH_47}} the table shows three values of {{MATH_48}} and their corresponding values of {{MATH_49}}. Which of the following could define {{MATH_50}}
+
+A. {{MATH_51}}
+B. {{MATH_52}}
+C. {{MATH_53}}
+D. {{MATH_54}}
+Answer: B
+
+Question 11:
+In the figure, {{MATH_101}} is a diameter of the circle with center {{MATH_102}}, and {{MATH_103}}. Triangle {{MATH_104}} is equilateral. The length of {{MATH_105}} is {{MATH_106}} times the length of {{MATH_107}}. What is the value of {{MATH_108}}?
+
+A. {{MATH_109}}
+B. {{MATH_110}}
+C. {{MATH_111}}
+D. {{MATH_112}}
+Answer: C
+
+Question 12:
+An acceptable noise criterion rating for the background noise in a laundry room is 50. For a noise criterion rating of 50, the equation {{MATH_55}} gives the estimated sound pressure level, y, in decibels, as a function of the octave band center frequency, x, in hertz. Where x ≥ 60. Which of the following is the best interpretation of 47 in this context?
+
+A. 47 is 22 less than the estimated sound pressure level, in decibels, at an octave band center frequency of 60 hertz
+B. 47 is 22 less than the estimated sound pressure level, in decibels, at an octave band center frequency of 0 hertz
+C. 47 is the estimated sound pressure level, in decibels, at an octave band center frequency of 60 hertz
+D. 47 is the estimated sound pressure level, in decibels, at an octave band center frequency of 0 hertz
+Answer: A
+
+Question 13:
+In {{MATH_56}} the measures of both {{MATH_57}}and {{MATH_58}} are equal and the measure of {{MATH_59}} is 138. What is the measure of {{MATH_60}}
+
+A. 90
+B. 69
+C. 42
+D. 21
+Answer: D
+
+Question 14:
+A small business owner budgets $3,600 to purchase timber each year. The owner must purchase a minimum of 345 slats of timber each year to maintain the discounted pricing. If the owner pays $7.25 to purchase each slat of pine pulpwood and $24.75 to purchase each slat of pine sawtimber, what is the maximum number of slats of pine sawtimber the owner can purchase to stay within the budget and maintain the discounted pricing?
+
+Answer: 62
+
+Question 15:
+There is an entertain summer camp for students only schools- official can order tickets. If number of tickets is less than or equal to 150, the price of a ticket is 24$. For every extra ticket, schools must pay only half of the price. If a school order x tickets, where x > 150, what will be cost of school, f(x), in dollars?
+
+A. f(x) = 12x + 3600
+B. f(x) = 24x + 1800
+C. f(x) = 12x + 1800
+D. f(x) = 24x + 3600
+Answer: C
+
+Question 16:
+A taco stand is buying pork for carnitas and flank steak for carne asada from its distributor. The distributor will deliver no more than 400 pounds of meat in a shipment. Pork comes in 9-pound packages, and flank steak comes in 6-pound packages. The taco stand wants to order at least three times as many packages of pork as packages of flank steak. Let p represent the number of packages of pork and let f represent the number of packages of flank steak. Which of the following systems of inequalities best represents this situation?
+
+A. 9p + 6f ≤ 400 | 3p ≥ f
+B. 9p + 6f ≤ 400 | p ≥ 3f
+C. 27p + 6f ≤ 400 | 3p ≥ f
+D. 27p + 6f ≤ 400 | p ≥ 3f
+Answer: B
+
+Question 17:
+In the given system of equations
+{{MATH_61}}
+{{MATH_62}}
+For each real number r, which of the following points lies on the graph of each equation in the xy-plane for the given system?
+
+A. {{MATH_63}}
+B. {{MATH_64}}
+C. {{MATH_65}}
+D. {{MATH_66}}
+Answer: A
+
+Question 18:
+In the given system of equations, {{MATH_67}} is a positive integer constant. The system has no real solutions. What is the least possible value of {{MATH_67}}?
+{{MATH_68}}
+{{MATH_69}}
+
+Answer: 25
+
+Question 19:
+The function {{MATH_70}} is defined by {{MATH_71}}, where {{MATH_72}} and {{MATH_21}}are constants. In the xy-plane, the graph of {{MATH_73}}passes through the points {{MATH_74}}, and {{MATH_75}} and the product of all the values of {{MATH_76}}for which {{MATH_77}}, where {{MATH_78}} and {{MATH_79}} are constants, what is the value of {{MATH_80}}
+
+Answer: 336
+
+Question 20:
+In the given equation, r is a positive integer.
+{{MATH_81}}
+If the given equation has exactly one solution, what CANNOT be the value of r?
+
+A. 3
+B. 7
+C. 22
+D. 26
+Answer: D
+
+Question 21:
+
+
+Answer: 59/70
+
+Question 22:
+In the given system of equations, {{MATH_82}} is a constant. The system has two distinct real solutions.
+{{MATH_83}}
+{{MATH_84}}
+Which of the following could be the value of {{MATH_82}}?
+
+A. {{MATH_85}}
+B. {{MATH_86}}
+C. {{MATH_87}}
+D. {{MATH_88}}
+Answer: D

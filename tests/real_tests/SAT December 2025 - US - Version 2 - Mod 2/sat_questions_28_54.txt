@@ -1,0 +1,351 @@
+Question 1:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Fossils of ancient arthropods preserved in volcanic ash in Morocco have ____ similarities between ancient arthropods and modern ones, such as spiders. Detailed 3D images of the fossils allowed scientists to see features that look like features found in arthropod species living today.
+
+
+A. revealed
+B. questioned
+C. repaired
+D. protected
+Answer: A
+
+Question 2:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Quantitative analysis of vast historical data sets and other tools of abstraction allow historians to examine broad phenomena, but such methods _____ the particularity of individual actors. By focusing on singular individuals and incidents in exhaustive detail, Paul Seaver's Wallington's World and other microhistories aim to show how broader phenomena were experienced at a human level.
+
+
+A. misconstrue
+B. efface
+C. preempt
+D. accentuate
+Answer: B
+
+Question 3:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Several scholars of children's literature recently _____ to discuss the work of Wil Clay, illustrator of such lauded books as Little Eight John. Once together, they talked about his style, influences, and themes.
+
+
+A. cited
+B. stipulated
+C. ascribed
+D. convened
+Answer: D
+
+Question 4:
+Information in the text best supports which statement about book-to-movie adaptations?
+
+Films based on famous books tend to do well in theaters: when Terry McMillan's acclaimed novel How Stella Got Her Groove Back was adapted into a movie in 1998, it was a commercial success. To investigate whether book-to-movie adaptations also have an impact on the books' popularity, two researchers examined online activity related to The Monuments Men and two other books that have been turned into movies. They found that the films' releases in theaters coincided with increased intent to read the original books but not with higher average ratings for those books.
+
+
+A. They often achieve great commercial success but are generally perceived as lacking in artistic value.
+B. They may lead to increased interest in the original books but not necessarily to greater liking of those books.
+C. They are generally the least well received by people who have read the original books.
+D. They may damage the reputation of the original books, but any such negative effect is of short duration.
+Answer: B
+
+Question 5:
+What does the text most strongly suggest about the study conducted by Rosas-Guerrero et al.?
+
+Pollination syndromes are suites of floral traits that have independently evolved as a result of selection pressure exerted by pollinators; psychophilous (butterfly-pollinated) flowers, for example, frequently exhibit yellow, red, or orange coloring. In a review of previous studies covering 417 plant species, Victor Rosas-Guerrero et al. concluded that the syndromes reliably predict angiosperms' most effective pollinators. However, in a response paper, Jeff Ollerton et al. note that Rosas-Guerrero et al. may have inadvertently ignored inconsistencies in how authors of previous studies evaluated floral traits.
+
+
+A. A limitation in the methodology used by the researchers may entail that the study's conclusion is not well supported.
+B. The approach selected by the researchers enabled them to sort through and remove obviously incomplete or inconsistent data before conducting their analysis.
+C. Because the study contained data on a limited number of plant species, its conclusion is accurate for those species but cannot be applied to species not in the study.
+D. Due to the difficulty of gathering representative research on angiosperms, the study may have included previous research with a focus too heterogeneous to be comparable.
+Answer: A
+
+Question 6:
+Based on the texts, the researchers in both passages address which question?
+
+Text 1
+Norse settlers occupied part of Greenland from about 985 CE until the early 15th century, when they mysteriously abandoned the region. Many researchers cite increasingly lower temperatures to explain why the Norse fled. The researchers reason that the Norse settlers arrived in the region while the climate was warm and were able to remain there until temperatures declined during the Little Ice Age, which occurred between the 14th and 19th centuries.
+Text 2
+Jeffrey Salacup, Isla Castañeda, and colleagues analyzed sediment samples from a lake in Greenland close to the Norse settlement. This allowed them to reconstruct the area's climate history. The researchers found no evidence of substantial temperature changes during the settlement period. They argue that instead the region experienced a persistent drought, which played a more important role in forcing the Norse out of the area than did increasingly lower temperatures.
+
+
+A. Why did the Norse settlers abandon their settlement in Greenland?
+B. What was the average global temperature during the Little Ice Age?
+C. How often did the Norse settlers in Greenland experience drought?
+D. Where was the first sediment sample of a Norse settlement found?
+Answer: A
+
+Question 7:
+Which choice best states the main idea of the text?
+
+Animals use many objects as tools to achieve goals more easily. Such goals include grooming, finding food, and protecting themselves. For a long time, people thought tool use was unique to primates. Boxer crabs and other animals, though, have busted the myth that tool use is limited to certain primates. Inventively, boxer crabs use stinging anemones to defend against attack. Striated herons also get creative. They use breadcrumbs and other lures to attract fish to the water's surface, making it easier for the herons to catch them.
+
+
+A. Animals find it difficult to use objects as tools.
+B. Contrary to long-held beliefs, primates aren't the only animals to use tools.
+C. There are many myths about tool use that researchers are starting to challenge.
+D. Unlike primates, boxer crabs are exceptionally skillful at using different tools.
+Answer: B
+
+Question 8:
+Which quotation from Memoirs of Elleanor Eldridge most effectively illustrates the claim?
+
+Memoirs of Elleanor Eldridge is an 1838 historical account by Elleanor Eldridge and Frances Harriet Whipple Green. In the book, the authors caution against inquiring into the private life of the book's subject beyond what is presented in the text, writing, _____
+
+
+A. "Let us, dear reader, remember the punishment of idle curiosity, as taught in the true and affecting history named 'Blue Beard;' and, striving to be content with the facts in the case, seek not to lift the veil, which the sensibility of true love, and feminine delicacy, have alike conspired to draw."
+B. "Having thus so comfortably established ourselves, with no evil-minded eaves-dropper to make us afraid, bend now, dear reader, thy most earnest and delicately adjusted ear; for I am going to tell thee a secret."
+C. "To give some idea of the high esteem in which the subject of the following narrative is held, and the strong interest her misfortunes have excited, a few, from the great number of recommendations in her possession, are selected."
+D. "Blessed are the slumbers of the innocent! They are kindlier than balm, and they refresh and gladden the spirit of childhood, like ministerings from a better world."
+Answer: A
+
+Question 9:
+Which choice best describes how Text 1 differs from Text 2?
+
+Text 1
+Kikko (tortoiseshell) and other Japanese sashiko embroidery patterns use motifs drawn from nature and daily activities, classic sources of inspiration in folk-art traditions. A category that resists firm delineation, folk art is generally defined by an intimate connection to quotidian life. "The beauty of such objects," writes Sōetsu Yanagi in The Unknown Craftsman, "is not so much of the noble, the huge, or the lofty as a beauty of the warm and familiar."
+Text 2
+Through their beautiful handmade aesthetic, painting and textiles from Japan's twentieth-century mingei (folk art) movement represent an unambiguous rejection of mass-produced consumer goods. At the same time, mingei, properly considered, stands apart from fine art, as its rootedness in commonplace craft traditions gives it an authenticity and accessibility that fine art, with its prizing of sophistication and innovation, cannot match.
+
+
+A. Both texts highlight the principally utilitarian nature of folk-art objects, but Text 1 acknowledges a complementary decorative function that is not mentioned in Text 2.
+B. Text 1 suggests that the nature-based aesthetic of folk art is inherently resistant to change, while Text 2 implies that the pressures of consumer culture have indirectly altered how folk art is made.
+C. Text 1 identifies characteristics shared by folk art across cultural contexts, while Text 2 describes how a universal characteristic of folk art is manifest within a specific tradition.
+D. Both texts valorize folk-art traditions, but Text 1 does so by emphasizing qualities that are intrinsic to folk art, whereas Text 2 makes reference to other modes of cultural production.
+Answer: D
+
+Question 10:
+Which choice best describes data from the graph that weaken the student's claim?
+
+To measure whether countries in free trade agreements (FTAs)—agreements among nations to reduce tariffs, duties, and other trade barriers—experience changes in total agricultural exports, economist Kayode Ajewole and colleagues calculated average export growth rates for several countries over the five years before and the five years after entering an FTA with the United States. The graph shows the results for three countries in the study. Consulting the graph, a student claims that joining an FTA increases the rate of growth of a country's total agricultural exports.
+
+
+
+A. Although agricultural exports from Jordan decreased over the five years before JOFTA, a reversal in this trend was observed over the five years after Jordan joined JOFTA.
+B. Over the five years after Guatemala joined CAFTA-DR, agricultural exports from Guatemala grew at a rate of about 20.1 percent, which is higher than the rate over the five years before Guatemala joined the agreement.
+C. All the countries shown had positive growth in agricultural exports over the five years after joining their respective FTAs, but their rates of export growth varied.
+D. Although agricultural exports from Morocco grew over the five years after Morocco joined MAFTA, their growth rate was even higher in the five years before MAFTA.
+Answer: D
+
+Question 11:
+Which choice best states the main idea of the text?
+
+Mushrooms, including Pleurotus ostreatus and species from the genus Thelephora, are known to use the process of evapotranspiration to maintain internal temperatures below ambient temperatures. This hypothermic behavior is enhanced by the many thin gills (lamellae) on the fungi’s caps, with substantial surface area contributing to capacity for evaporation. Examining fungal thermoregulation mechanisms, Radames Cordero et al. determined that molds and yeasts also engage in evaporative cooling to facilitate hypothermia and suggest that, lacking features analogous to lamellae, these unicellular fungi aggregate into colonies to derive the benefit of greater surface area.
+
+
+A. A study of a fungal thermoregulation mechanism determined that it is used more efficiently by molds and yeasts than by mushrooms and other multicellular fungi due to variances in colony size.
+B. A recent analysis of specimens of Pleurotus ostreatus and species from the genus Thelephora substantiated the findings of earlier studies of thermoregulation mechanisms in several types of fungi.
+C. Despite significant differences in their biological structures, mushrooms, molds, and yeasts have been observed to utilize the same thermoregulation process to achieve a particular effect.
+D. Although a certain thermoregulation process has been observed in colonies of unicellular fungi, it has yet to be observed at the individual organism level.
+Answer: C
+
+Question 12:
+Which choice best describes the overall structure of the text?
+
+The desirability of minimizing the use of adverbs, especially those ending in -ly (e.g., "obediently"), in prose fiction is a point of agreement among many novelists, including Graham Greene, who described adverbs as "damaging to a writer." To investigate whether -ly adverb avoidance is associated with literary achievement, statistician Ben Blatt calculated the frequency with which such adverbs occur in the works of E.M. Forster and other prominent English-language novelists and found that there is a positive correlation between low -ly adverb frequency and novels' perceived literary merit.
+
+
+A. It makes a claim about a trait of prose fiction, details an observation about that trait's increasing proliferation, and then makes a supposition based on that observation.
+B. It mentions a popular strategy for crafting prose fiction, outlines a benefit of that strategy, and then presents research that provides a more nuanced view of that benefit.
+C. It describes a phenomenon inherent to prose fiction, summarizes a procedure used to investigate that phenomenon, and then notes a benefit of that procedure.
+D. It introduces a widely held view on prose fiction, offers an example of what a proponent of that view has asserted, and then discusses a study examining data relevant to that view.
+Answer: D
+
+Question 13:
+Which choice best describes data from the table that support Konno et al.’s conclusion?
+
+Average Ratings of Perceived Personality Traits of Dogs and Human Willingness to Keep or Interact with Them
+
+Dogs and modern gray wolves share a recent wolf ancestor from which dogs were domesticated. Noting that dogs tend to have darker irises than gray wolves do, Akitsugu Konno et al. presented facial images of dogs with a range of iris colors to human participants, who rated the dogs’ personality traits and their own attitudes toward the dogs. On the basis of their findings, Konno et al. concluded that the dog-wolf iris pattern may be an effect of human selection for a positively perceived trait during domestication.
+
+
+A. Participants rated the dog in image 3 as friendlier than the dog in image 8 and rated the dog in image 24 as friendlier than the dog in image 16.
+B. Participants rated the dogs in images 3 and 8 as friendlier than the dogs in images 16 and 24 and indicated that they were more willing to interact with or keep the dogs in the former two images than the dogs in the latter two images.
+C. Participants rated the irises of the dogs in images 3 and 8 as darker than the irises of the dogs in images 16 and 24.
+D. Participants rated the dogs in images 16 and 24 as more mature than the dogs in images 3 and 8 and indicated that they were more willing to interact with or keep the dogs in the former two images than the dogs in the latter two images.
+Answer: B
+
+Question 14:
+Which choice most logically completes the text?
+
+Neuroscientist Artin Arshamian and his team sought to determine what affects a person's perception of an odor as pleasant: is it culture, personal taste, or aspects of human anatomy? The team assessed odor preferences in ten groups of people with different modes of living (urban, agricultural, and hunter-gatherer) including the Mah Meri people from a small community in the Malay Peninsula and the Imbabura Quichua people from a small community in Ecuador. The team observed little cross-cultural variation in the relative ratings of odors such as linalool, which smells like citrus, and mushroom alcohol, which smells like fungus, suggesting that ______.
+
+
+A. although many people from the Malay Peninsula and people from Ecuador rated mushroom alcohol as unpleasant, there were also many people from both places who likely rated it as pleasant.
+B. if people from Ecuador tended to rate mushroom alcohol as less pleasant than linalool, then people from the Malay Peninsula were also likely to rate mushroom alcohol as the less pleasant odor.
+C. people from the Malay Peninsula tended to rate linalool as more pleasant than mushroom alcohol regardless of differences in their anatomical characteristics of personal tastes.
+D. people from the Malay Peninsula and people from Ecuador tended to rate more odors as pleasant than as unpleasant.
+Answer: B
+
+Question 15:
+Based on the texts, which choice best describes a difference in how the authors of Text 1 and Text 2 view Capital and Ideology?
+
+Text 1
+Economist Thomas Piketty’s book Capital in the Twenty-First Century has a more rigorous structure than its sequel, Capital and Ideology. While the first book’s chapters all contribute to bolstering a clear, coherent argument about income inequality, the second book’s digressions on subjects such as the authorship of the Sanskrit text known as the Manusmriti do not just stretch out the book needlessly but also muddy its reasoning.
+Text 2
+Capital and Ideology has different aims than Piketty’s earlier books. It should be judged not just in the context of Piketty’s previous work but placed next to books like Robert Burton’s Anatomy of Melancholy, in which the stated theme of the varieties of melancholy is mainly an excuse for a polymath to map his own mind. Even when sections do not explicitly support the central thesis, they link to each other in intriguing ways. None of them should be considered extraneous.
+
+
+A. The author of Text 1 thinks that Piketty’s expertise as an economist does not qualify him to discuss the Manusmriti in Capital and Ideology, while the author of Text 2 holds that academics such as Piketty should feel comfortable discussing subjects outside their fields of study.
+B. The author of Text 1 thinks that Capital and Ideology does not entirely succeed in its attempt to make a single coherent argument, while the author of Text 2 contends that making such an argument is not the book’s ambition.
+C. The author of Text 1 thinks that the structure of Capital and Ideology makes it a less well-written book than Capital in the Twenty-First Century, while the author of Text 2 thinks that the structure of Capital and Ideology is why it is superior to Capital in the Twenty-First Century.
+D. The author of Text 1 finds the claim that Capital and Ideology resembles the work of Robert Burton to be dubious, while the author of Text 2 believes there is sufficient evidence to substantiate the claim.
+Answer: B
+
+Question 16:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Composed of clay and silicate rocks, ______ are typically dark in appearance. M-type asteroids, on the other hand, are composed of nickel-iron and appear much brighter.
+
+
+A. the C-type classification applies to asteroids 74 Galatea and 90 Antiope, which
+B. 74 Galatea and 90 Antiope are classified as C-type asteroids, and asteroids
+C. C-type asteroids, such as 74 Galatea and 90 Antiope,
+D. asteroids, such as the C-type asteroids 74 Galatea and 90 Antiope,
+Answer: C
+
+Question 17:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A team of researchers led by Princeton University’s Mary Caswell Stoddard found that birds of the Cisticola galactotes species produced eggs with an average length of ______ eggs produced by birds of the Burhinus vermicularis species proved to be longer, with an average length of 4.80 cm.
+
+
+A. 1.65 cm,
+B. 1.65 cm;
+C. 1.65 cm, however,
+D. 1.65 cm. While
+Answer: B
+
+Question 18:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Recently discovered gravitational signals from a distant galaxy recorded approximately 3 billion years ago and linked to neutron star mergers may offer proof that cosmic collisions involving neutron stars happened 500 million years sooner than was previously _____ discovery that, if verified, would challenge established models of star evolution in astrophysics.
+
+
+A. assumed; a
+B. assumed. A
+C. assumed a
+D. assumed, a
+Answer: D
+
+Question 19:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Fulfilling their myriad duties with grace and goodwill, ______ in 2019.
+
+
+A. a total of 11,595,425 departing passengers were boarded by employees at Ronald Reagan Washington National Airport
+B. employees at Ronald Reagan Washington National Airport boarded a total of 11,595,425 departing passengers
+C. Ronald Reagan Washington National Airport saw a total of 11,595,425 departing passengers boarded by employees
+D. flights at Ronald Reagan Washington National Airport were boarded by a total of 11,595,425 departing passengers
+Answer: B
+
+Question 20:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Was Dál Riata, a Gaelic sea power based in western Scotland that reached its height around 600 CE, a thalassocracy? A British historian, David Abulafia, established a somewhat restrictive definition of the term in his 2014 article ______ a thalassocracy is not merely a coastal state that possesses some overseas territories but a naval empire whose hegemony is maintained via military control of sea routes.
+
+
+A. “Thalassocracies” for Abulafia,
+B. “Thalassocracies,” for Abulafia,
+C. “Thalassocracies,” for Abulafia:
+D. “Thalassocracies”: for Abulafia,
+Answer: D
+
+Question 21:
+Which choice completes the text with the most logical transition?
+
+Formerly known as the Indiana Territory, Indiana was granted statehood by a vote of the US Congress on December 11, 1816, making Indiana the 19th US state. By comparison, as one of the nation’s original thirteen colonies, Connecticut became a state when it ratified the US Constitution on January 9, 1788. ______ New York attained statehood by ratifying the Constitution, becoming the 11th US state on July 26, 1788.
+
+
+A. Nevertheless,
+B. For example,
+C. Likewise,
+D. Therefore,
+Answer: C
+
+Question 22:
+Which choice completes the text with the most logical transition?
+
+Silver is one of a variety of potentially useful trace elements contained in the chemical-rich brine that remains after seawater is purified through desalination. However, routine extraction of silver and other such elements from brine is not yet technologically or economically feasible. ______ most trace elements have only been extracted from seawater on an experimental basis.
+
+
+A. In doing so,
+B. Finally,
+C. Similarly,
+D. To date,
+Answer: D
+
+Question 23:
+Which choice completes the text with the most logical transition?
+
+A research team led by Cia Badihi has discovered that chimpanzees communicate through exchanges of gestures occurring at a pace similar to that of human conversations. ______ chimpanzee gesture exchanges have short pauses of about 120 milliseconds between communications, comparable to the 200-millisecond average pause between turns in human speech.
+
+
+A. By contrast,
+B. As a result,
+C. Nevertheless,
+D. Specifically
+Answer: D
+
+Question 24:
+Which choice completes the text with the most logical transition?
+
+Modernista architects championed nature in their designs. ____ the dramatic archways and stone turtle statues of Sagrada Família, a Modernista basilica designed by Antoni Gaudí, couldn’t exactly grow in a forest. Still, one sees natural influences in Gaudí’s penchant for curves (rather than right angles) and plant- and animal-inspired flourishes.
+
+
+A. Granted,
+B. Similarly,
+C. Furthermore,
+D. Thus,
+Answer: A
+
+Question 25:
+The student wants to emphasize a difference between the two novels. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Epistolary novels are novels written primarily as a series of fictional documents, typically letters.
+•Sometimes, the documents are journal entries, newspaper clippings, and more.
+•The Screwtape Letters (1942) is an epistolary novel by British author C.S. Lewis.
+•It consists primarily of letters sent between a character named Screwtape and his nephew, Wormwood.
+•Parable of the Sower (1993) is an epistolary novel by American author Octavia Butler.
+•It consists primarily of journal entries written by a teenager living in an apocalyptic society.
+
+
+A. Some epistolary novels consist primarily of journal entries, but most, like C.S. Lewis's The Screwtape Letters, consist primarily of letters.
+B. Both C.S. Lewis and Octavia Butler have written epistolary novels.
+C. While the novel The Screwtape Letters consists primarily of letters, the novel Parable of the Sower consists primarily of journal entries.
+D. The Screwtape Letters and Parable of the Sower are epistolary novels, which means they are written primarily as a series of documents.
+Answer: C
+
+Question 26:
+The student wants to present Altman's claim to an audience already familiar with Louis Ballard. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Louis Ballard was a classical composer and citizen of the Quapaw Tribe.
+•His works blend Western classical music with elements of various Native musical traditions.
+•His 1970 composition Cacéga Ayuwípi incorporates a Pueblo water drum, a traditional Native instrument.
+•Critic Peter Altman commended Ballard's ability to synthesize "strong, idiomatically modern expressions."
+
+
+A. Ballard was commended for his musical compositions, many of which blend Western classical music with elements of various Native musical traditions, by the critic Peter Altman.
+B. Ballard's works demonstrate what Peter Altman refers to as an ability to synthesize "strong, idiomatically modern expressions."
+C. Peter Altman praised Ballard—a classical composer whose works blend Western classical music with elements of Native musical traditions—for creating "strong, idiomatically modern expressions."
+D. Ballard's 1970 Cacéga Ayuwípi blends Western classical music and elements of various Native musical traditions by incorporating a Pueblo water drum.
+Answer: B
+
+Question 27:
+The student wants to describe Above and Below to a new audience. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Maya Lin is an American artist known for her memorials and works of installation art.
+•She completed the Vietnam Veterans Memorial in 1982.
+•It is a memorial sculpture consisting of two 246-foot granite walls, and it is designed to commemorate veterans of the Vietnam War.
+•She completed Above and Below in 2007.
+•It is an installation composed of aluminum tubing that fills an entire gallery ceiling.
+
+
+A. Though Maya Lin’s Above and Below (2007) is not a memorial, its gallery-filling scale may call to mind the imposing Vietnam Veterans Memorial, which consists of two 246-foot granite walls.
+B. Artist Maya Lin is well known for her installation art, such as Above and Below (2007), and for her memorials.
+C. Completed in 2007, Maya Lin’s Above and Below is a large-scale installation artwork composed of aluminum tubing that fills an entire gallery ceiling.
+D. Maya Lin’s Vietnam Veterans Memorial is a granite memorial sculpture that commemorates veterans of the Vietnam War, while Above and Below is an installation artwork.
+Answer: C
+

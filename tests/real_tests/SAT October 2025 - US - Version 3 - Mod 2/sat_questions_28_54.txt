@@ -1,0 +1,359 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+For most of its length, the Paraná River has sufficiently high flow velocity to suspend sedimentary particles, but when the river reaches the calmer waters of the Atlantic Ocean, its channel widens and divides, reducing flow velocity and thereby ______ sedimentary particle suspension. Particles are thus deposited, eventually forming deltaic lobes.
+
+
+A. obscuring
+B. interrupting
+C. compounding
+D. expediting
+Answer: B
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Writer Lydia Davis observed that while ______ literary forms, such as the poem, are recognizable as such even as they evolve, there are rarer “intergeneric” forms that might, for example, use elements of both fiction and essays to create something unclassifiable. Anne Carson’s long piece *Nox* arguably fits in this category, since it straddles the line between prose and poetry.
+
+
+A. neutral
+B. equivocal
+C. intermediate
+D. orthodox
+Answer: D
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The subscription model in which consumers who do not deliberately cancel their subscriptions automatically pay recurring fees for access to products and services benefits retailers when consumer ______ is high. Many of the 7.8 percent of subscribers who canceled their fashion and apparel subscriptions in June 2022 had stopped valuing their subscriptions long before then, but sellers profited from those customers’ passivity in the interim.
+
+
+A. inertia
+B. turnover
+C. decisiveness
+D. evasion
+Answer: A
+
+Question 4:
+[Details]
+Which choice best states the function of the underlined sentence in the text as a whole?
+
+Founded in New York City in 1904, the Hispanic Society of America is one of the best-known US-based institutions showcasing Latino cultures. Since its founding, it has acquired more than 18,000 objects for its permanent collection. *__Since 2000, the number of Latino cultural institutions in the US has expanded considerably.__* LA Plaza de Cultura y Artes, which opened in Los Angeles in 2011 and focuses on Mexican American art and culture, is among the most prominent.
+
+
+A. It contrasts the focus of the Latino cultural institution discussed earlier in the text with the focus of the institution discussed later in the text.
+B. It identifies a historical trend of which the Latino cultural institution discussed later in the text is a part.
+C. It describes a historical development that encouraged the founding of the two Latino cultural institutions discussed in the text.
+D. It analyzes how two institutions’ approach to exhibiting artworks reflects the approach taken by most Latino cultural institutions.
+Answer: B
+
+Question 5:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+One popular hypothesis concerning animal cognition is that the complexity of species’ social networks is the primary driver of cognitive evolution, an idea addressed by Borgeaud and many others. This view holds that the demand of behaviors related to living in groups—trading grooming for access to food, for example—selects for, and thus accounts for, greater cognition. Now, a growing body of research suggests that interactions between species members without a social connection also present challenges that contribute significantly to sophisticated cognitive adaptations.
+
+
+A. It outlines a widespread view about how behaviors such as trading grooming influence cognitive evolution in animals and then addresses a recent area of study that is relevant to that view.
+B. It identifies the origin of a hypothesis about the effect of trading grooming and other behaviors on cognitive evolution in animals and then indicates that the hypothesis is receiving increasing support from researchers.
+C. It expresses support for an accepted view of social groups and animal behaviors such as trading grooming and then acknowledges emerging findings that seem to undermine that view.
+D. It asserts that the significance of trading grooming in social groups should be reconsidered in light of a new hypothesis and then proposes further study to explore similar animal behaviors.
+Answer: A
+
+Question 6:
+[Cross Text]
+Which choice best describes the relationship between the two texts?
+
+**Text 1**
+ Siberian aster (*Eurybia sibirica*) plants are native to Alaska, where harsh conditions have historically impeded potential invasive species. As the boreal climate has warmed in recent decades, however, honey clover (*Melilotus albus*) plants have established themselves in Alaska. Previous research conducted in non-boreal ecosystems has documented warming-induced increases in summer temperatures benefiting invasive species more than native species.
+**Text 2**
+ At a site near Fairbanks, Alaska, Christa Mulder and Katie Spellman tracked *E. sibirica* and *M. albus*, along with other native and invasive species, over several years. They observed that although average summer temperatures were substantially higher in some years of the study than in others, neither *E. sibirica* nor *M. albus* showed any significant variation in summer growth patterns from year to year.
+
+
+A. Text 2 presents a finding that casts doubt on the generalizability of the research discussed in Text 1.
+B. Text 2 explains a study that suggests an alternative explanation for the trend observed in the research discussed in Text 1.
+C. Text 2 discusses an observation that challenges the validity of the findings described in Text 1.
+D. Text 2 describes a methodology that helps researchers avoid a problem encountered in the studies discussed in Text 1.
+Answer: A
+
+Question 7:
+[COE]
+Based on the text, what is the most likely reason Walsh and colleagues chose to avoid the method used in the strawberry study?
+
+In a 2024 study, Corrine Walsh and colleagues examined whether the composition of soil microbial communities could affect plants’ flavor chemistry. Whereas Jimenez-Gomez et al. (2017) showed that adding specific bacterial or fungal strains to soil can yield increased vitamin C in strawberry crops, Walsh and team applied intact microbial communities gathered from ecologically distinct settings across Colorado, including areas of ponderosa pine forest and dry pasture, to mustard plants and evaluated the flavor compounds in the plants’ seeds. This ensured that the microbial conditions in their experiment would better reflect the variation and complexity of naturally occurring communities.
+
+
+A. The microbial community in the soil from the strawberry study affected plants’ nutrition, not their flavor chemistry.
+B. The microbial community in the soil from the strawberry study likely included similar species to those in wild soils.
+C. The diversity of species of microorganisms in the soil from the strawberry study was already abnormally high before the researchers added further microorganisms.
+D. The composition of microorganisms in the soil in the strawberry study may not have been representative of a naturally existing composition.
+Answer: D
+
+Question 8:
+[COE]
+According to the text, why is the information collected by the Great Sunflower Project valuable?
+
+Information from the Great Sunflower Project helps scientists address pollinator population-size declines caused by habitat loss. Participants monitor which pollinators visit specific plants and the frequency of those visits. Scientists then use this information to determine which plant species best support pollinators and identify where those plant species have declined. Without bees, butterflies, and other pollinators performing their vital role in plant reproduction and food production, ecosystems would suffer—making the conservation efforts informed by this citizen science project all the more important!
+
+
+A. It helps project participants demonstrate that butterfly population sizes are growing faster than bee population sizes.
+B. It helps scientists determine which flowers produce the most honey when visited by bees.
+C. It helps gardeners learn how to grow larger sunflowers through better pollination.
+D. It helps scientists develop strategies for addressing pollinator habitat loss.
+Answer: D
+
+Question 9:
+[COE]
+Which quotation from "The Monster" most effectively illustrates the claim?
+
+"The Monster" is an 1898 story by Stephen Crane. In the story, the character of Jimmie is a young boy who has been scolded by his father for accidentally damaging a flower in his garden; Jimmie then looks for sympathy from Henry Johnson, the man responsible for the care of Jimmie's father's horses. Crane demonstrates Henry's tendency towards such sympathy, writing, ______
+
+
+A. "In regard to almost everything in life [Jimmie and Henry] seemed to have minds precisely alike."
+B. "Henry would sometimes choose to absolutely repudiate [Jimmie's behavior], and when Jimmie appeared in his shame would bully him most virtuously, preaching with assurance the precepts of [Jimmie's father's] creed, and pointing out to Jimmie all of his abominations."
+C. "For a minute Jimmie refused to take an interest in anything. He was very downcast."
+D. "Henry... could usually provide a sin to place himself on a footing with the disgraced one. Perhaps he would remember that he had forgotten to put the hitching-strap in the back of the buggy on some recent occasion, and had been reprimanded by [Jimmie's father]."
+Answer: D
+
+Question 10:
+[COE]
+Which finding, if true, would most clearly be an exception to the pattern Blatt identified?
+
+Describing the adverb as "a word that distracts," novelist Elmore Leonard is one of several authors and literary critics to recommend minimizing the use of adverbs, especially those ending in -ly (e.g., “grudgingly”), in works of fiction. To investigate the prevalence of -ly adverbs in novels, Ben Blatt used natural language processing—machine learning technology that reads and interprets text—to calculate the rates at which these words occur in both popular fiction and in novels that commonly appear on lists of notable works of English literature, such as Willa Cather’s My Ántonia. Blatt concluded that there is a positive correlation between -ly adverb avoidance and novels’ perceived literary merit.
+
+
+A. The novels of Virginia Woolf, one of the most celebrated writers of the twentieth century, have an average of 116 -ly adverbs per 10,000 words, while the novels of Jane Austen, one of the most celebrated writers of the nineteenth century, have an average of 128 -ly adverbs per 10,000 words.
+B. William Faulkner’s classic novel The Sound and the Fury has the lowest -ly adverb rate among Faulkner’s novels in Blatt’s study, while F. Scott Fitzgerald’s classic novel The Great Gatsby has the lowest -ly adverb rate among Fitzgerald’s novels in Blatt’s study.
+C. D.H. Lawrence’s acclaimed novel Women in Love and novels by several genre fiction authors that many critics regard as lacking in artistic quality have a comparable number of -ly adverbs per 10,000 words.
+D. Whereas award-winning and best-selling novels have on average 114 and 115 -ly adverbs per 10,000 words, respectively, fan fiction novels, which are frequently authored by nonprofessional authors, have on average 154 -ly adverbs per 10,000 words.
+Answer: C
+
+Question 11:
+[COE]
+Which finding from the study by Venter et al., if true, would most directly support the underlined claim?
+
+In public and political discourse, the implementation of green space in urban planning is generally treated as an obvious strategy for effective local abatement of major air pollutants (such as NO₂, O₃, and particulate matter). __Research indicates that the role of such spaces is nuanced, however__. Zander S. Venter et al. analyzed data at three spatial scales (street, neighborhood, and city) from 2010 to 2019 at air-quality monitoring stations in Albania, the US state of West Virginia, and thousands of other locations. When coupled with images from aerial surveys of vegetation patterns at those locations in the same time period, the data reveal several factors mediating the relationship between vegetation and air quality.
+
+
+A. The association between total green space and pollutant levels is much more variable at the smallest spatial scale than at the largest, and the association is more strongly negative in areas situated in coniferous forest biomes, especially when considering particulate matter.
+B. Regardless of total green space, locations with policies targeting the reduction of anthropogenic emissions have experienced larger improvements in air quality than locations with policies targeting the abatement of emitted pollutants have.
+C. The effect size of total green space on ambient air quality remained consistent by location despite localized deviations from typical weather patterns, such as heat waves, that are known to cause spikes in ambient air pollution.
+D. There is a moderately positive association between total green space and air quality across all locations, and the association persists even when the data are disaggregated by spatial scale.
+Answer: A
+
+Question 12:
+[Infer]
+Which choice most logically completes the text?
+
+Exclusively inhabiting tropical countries such as Cameroon, wild chimpanzees lack adaptations to seasonal variations in ultraviolet B (UVB) irradiance from sunlight; since UVB exposure enables vertebrates to synthesize vitamin D, Sophie Moittié and colleagues studied zoo chimpanzees in Norway and other mid-latitude countries to see how vitamin D levels are affected by the seasonal variations in UVB irradiance that occur in those locations. They found that chimpanzees’ vitamin D levels were significantly lower in winter than in summer and appeared unaffected by oral supplementation of vitamin D administered by zookeepers. Moittié and colleagues point out, however, that supplementation was rare, highly varied, and poorly tracked, and therefore ______
+
+
+A. differences in vitamin D supplementation likely explain more of the difference in vitamin D levels across zoo chimpanzees in Norway and other mid-latitude countries than seasonal differences in UVB irradiation do.
+B. the possibility that zoo chimpanzees in Norway and other mid-latitude countries would benefit from supplemental vitamin D during winter cannot be excluded.
+C. vitamin D levels in zoo chimpanzees in Norway and other mid-latitude countries may be higher during winter than Moittié and colleagues’ data appear to indicate.
+D. the effect of supplemental vitamin D on zoo chimpanzees in Norway and other mid-latitude countries can more clearly be observed in summer than in winter.
+Answer: B
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+Because scholars have yet to decipher the script of the Olmec civilization—which flourished in southern Mexico circa 1500 BCE–400 BCE—they are uncertain which language the Olmecs spoke. However, the ancient Olmec sites are situated in the territory of the Mixe-Zoquean family, a group of related languages that includes such present-day representatives as Totontepec Mixe and Rayón Zoque. Moreover, many words in the region’s contemporary Mayan languages—languages otherwise unrelated to the Mixe-Zoquean family—are Mixe-Zoquean in origin. Such lexical borrowing may have occurred because a Mixe-Zoquean language served as a medium of cultural exchange throughout southern Mexico during the era of Olmec hegemony, which would suggest that _______
+
+
+A. the language of the Olmec civilization likely belonged to the same language family as Totontepec Mixe and Rayón Zoque.
+B. the languages of the Mixe-Zoquean and Maya peoples alike may derive from a precursor language spoken in the region before the rise of the Olmec civilization.
+C. speakers of Mayan languages likely used Totontepec Mixe and Rayón Zoque as mediums of cultural exchange even after the decline of the Olmec civilization.
+D. the Olmecs may have spoken a language that was closer to Mayan languages than to Mixe-Zoquean languages.
+Answer: A
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+During the Bronze Age, collections of metal objects (called hoards) were buried for safekeeping all over Britain. Earlier discoveries of these hoards, such as the discovery around 1931 of the Towednack hoard (which included gold jewelry from the 10th century BCE), were rare and often accidental. But since the 1960s, advancements such as inexpensive metal detectors, ground-penetrating radar, and aerial surveys have made it much easier to locate hoards while they are still underground. A more recent find like the 2011 discovery of the Boughton Malherbe hoard was thus much more likely than a pre-1960s discovery to ______
+
+
+A. include gold jewelry.
+B. include rare items from the 10th century BCE.
+C. result from artifacts being unearthed accidentally.
+D. occur before the ground was disturbed.
+Answer: D
+
+Question 15:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Enacted in 1953, Denmark's 6,221-word constitution, in contrast to Chile's, which was enacted in 1980 and contains a far greater number (25,821) of words, ______ as the 13th shortest in the world. Such data are studied by constitutional scholars like George Tsebelis, who can use them to draw broader conclusions.
+
+
+A. ranks
+B. are ranking
+C. rank
+D. have ranked
+Answer: A
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Many folktales that originate in the Hindi language start with a phrase that roughly translates to “it’s an old story.” Many tales that originate in English use “once upon a time.” Such phrases, known as story starters, ______ from language to language.
+
+
+A. is varying
+B. vary
+C. has varied
+D. varies
+Answer: B
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Ford Madox Ford's classic novel about two couples living in Europe was first published in 1915. Of the many revisions that Ford made before publication, the change to the book's title is among the most ______ Ford had originally called the novel The Saddest Story, but he ultimately published it as The Good Soldier—a title that shifted the focus to the novel's strongly ironic tone.
+
+
+A. noteworthy:
+B. noteworthy
+C. noteworthy,
+D. noteworthy—
+Answer: A
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The 1913 Armory Show in New York City was a groundbreaking art exhibition planned by a collective of 28 artists, among them D. Putnam Brinley and Everett Shinn. By this time, many of these artists ______ tired of the staid realism that dominated American art at the time; the Armory Show aimed to jolt the artistic establishment awake with bold, experimental modernism.
+
+
+A. are growing
+B. grow
+C. will have grown
+D. had grown
+Answer: D
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Some theories in astrophysics, such as string theory, posit dimensions beyond our familiar four. In contrast, quantum mechanics achieved prominence in the twentieth century yet still informs much of modern physics, its foundational principles ______ explored by physicists worldwide.
+
+
+A. being
+B. are
+C. are being
+D. will be
+Answer: A
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+As categorized by linguists like Isidore Dyen, the languages Cebuano and Malagasy—spoken by roughly 30 million and 17 million people, ______ are part of the Austronesian language family, which altogether accounts for one-fifth of the world’s languages.
+
+
+A. respectively
+B. respectively—
+C. respectively,
+D. respectively:
+Answer: B
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In a US presidential election, Massachusetts’s 11 electoral votes are currently awarded to the winner of Massachusetts’s popular vote, but a new plan aims to change that. Law professors Akhil and Vikram Amar’s 2001 article ______ that states could instead agree to allocate their electoral votes to the winner of the national popular vote has given rise to the National Popular Vote Interstate Compact (NPVIC).
+
+
+A. suggesting
+B. suggested
+C. has suggested
+D. suggests
+Answer: A
+
+Question 22:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Oats, olives, and many other species of plants were brought to the Western Hemisphere after the late 15th century. These species were native to the continents of ______ Africa, and Asia in the Eastern Hemisphere.
+
+
+A. Europe
+B. Europe,
+C. Europe;
+D. Europe:
+Answer: B
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The early Australian railroad system of the 1800s was famously uncoordinated. Trains on the narrow gauge Mackay Railway line in Queensland couldn’t travel on the Yarra Valley Railway in Victoria, which used broad gauge tracks, without performing time-consuming conversions. ______ historians refer to this complicated system as the “mixed gauge muddle.”
+
+
+A. Likewise,
+B. Hence,
+C. Rather,
+D. For example,
+Answer: B
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The Duchy of Gaeta, a sea power based in the Mediterranean port city of Gaeta that reached its height around 900 CE, is considered a thalassocracy—a geopolitical entity whose hegemony resulted from control of the sea rather than of land. Historians classify thalassocracies as distinct from tellurocracies, or land-based powers. ______ the British Empire (1600s–1900s CE) is known for both land and sea supremacy.
+
+
+A. For example, tellurocracies have long overpowered their rivals:
+B. Of course, the distinction is not always so neat:
+C. Likewise, thalassocracies are sea-based powers:
+D. In other words, empires are classified according to their source of power:
+Answer: B
+
+Question 25:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The Sino–Tibetan language of Kurtöp has only about 15,000 living speakers. Although most Kurtöp speakers live in Bhutan, where the language originated, Kurtöp is also spoken in New York City. ______ the New York–based Endangered Language Alliance has identified a group of Kurtöp speakers in the city’s Sunnyside neighborhood, in the borough of Queens.
+
+
+A. Specifically,
+B. Meanwhile,
+C. In addition,
+D. Nonetheless,
+Answer: A
+
+Question 26:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Seventeenth-century baroque artist Pietro da Cortona famously created a trompe l’oeil—an illusion of three-dimensional space on a two-dimensional surface—in the interior of the Palazzo Barberini in Rome, Italy. In actuality, the frescoed ceiling of the palace is mostly flat. Da Cortona’s artful use of forced perspective, ______ creates the illusion of dozens of allegorical figures rising into the sky.
+
+
+A. therefore,
+B. for example,
+C. however,
+D. in other words,
+Answer: C
+
+Question 27:
+[COE]
+Which choice most effectively uses information from the given sentences to introduce Tademy to a new audience?
+
+While researching a topic, a student has taken the following notes:
+• Since 1931, the New York Times (NYT) Best Sellers list has been a measure of the most successful books in the US.
+• Lalita Tademy and Toni Morrison are Black authors who have reached the NYT Best Sellers list.
+• *Cane River* is a novel by Lalita Tademy.
+• It reached the NYT Best Sellers list on September 9, 2001.
+• *Jazz* is a novel by Toni Morrison.
+• It reached the NYT Best Sellers list on May 3, 1992.
+
+
+A. Lalita Tademy is the author of the NYT best-selling novel Cane River.
+B. Cane River is an NYT best-selling novel by author Lalita Tademy.
+C. Cane River by Lalita Tademy made the NYT Best Sellers list on September 9, 2001.
+D. The NYT Best Sellers list once included Lalita Tademy’s Cane River and Toni Morrison’s Jazz.
+Answer: A

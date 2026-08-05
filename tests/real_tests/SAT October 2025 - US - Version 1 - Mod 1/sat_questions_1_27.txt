@@ -1,0 +1,369 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Yupno people of the remote Finisterre Range of Papua New Guinea do not measure age and have no artificial means (e.g., clocks) of tracking time, but this does not imply that the Yupno are _____ time. As Rafael Núñez and colleagues have recently shown, the Yupno language contains many temporal expressions, such as usa-don sonda, which translates to “next week.”
+
+
+A. inattentive to
+B. dependent on
+C. meticulous about
+D. preoccupied with
+Answer: A
+
+Question 2:
+[WIC]
+As used in the text, what does the phrase “most advanced” most nearly mean?
+
+The following text is from Thomas Hardy’s 1874 novel Far from the Madding Crowd. Bathsheba and Liddy are traveling down a road when Liddy points out a neighbor whom Bathsheba hasn’t met yet.
+Liddy looked. “That! That’s Farmer Boldwood—of course ‘tis—the man you couldn’t see the other day when he called.”
+“Oh, Farmer Boldwood,” murmured Bathsheba, and looked at him as he outstripped them. The farmer had never turned his head once, but with eyes fixed on the __most advanced__ point along the road, passed as unconsciously and abstractedly as if Bathsheba and her charms were thin air.
+
+
+A. Most modern
+B. Brightest
+C. Farthest
+D. Most matured
+Answer: C
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Text corpora such as the Oxford English Corpus are enormous collections of electronically stored texts that can be used for empirical testing of hypotheses regarding the frequency of typical word usage. For instance, one might have an intuition about the ______ of the word “day” in standard English, but only an analysis of a corpus can prove that “day” is the fifth most commonly used noun.
+
+
+A. inception
+B. duration
+C. prevalence
+D. caliber
+Answer: C
+
+Question 4:
+[COE]
+Which choice best describes the main purpose of the text?
+
+Which household cleaning product is most effective at removing stains? One way to explore this question is to use the scientific method. This method involves forming a hypothesis, conducting an experiment, collecting data, and drawing a conclusion. Using the scientific method helps us understand how things work and helps us answer questions, such as the one about household cleaning products.
+
+
+A. To summarize two sides of a scientific debate
+B. To describe the career of a famous scientist
+C. To explain one way to answer the question about household cleaning products
+D. To criticize an experiment scientists conducted about household cleaning products
+Answer: C
+
+Question 5:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is adapted from Daniel Defoe’s 1704 nonfiction book The Storm.
+If I judge right, ‘tis the duty of an historian to set everything in its own light, and to convey matter of fact upon its legitimate authority, and no other: I mean thus, (for I would be as explicit as I can) that where a story is vouched to him with sufficient authority, he ought to give the world the special testimonial of its proper voucher, or else he is not just to the story: and where it comes without such sufficient authority, he ought to say so; otherwise he is not just to himself.
+
+
+A. It asserts that some historical documents are more trustworthy than others.
+B. It points out what Defoe thinks of as a widespread problem with historical research.
+C. It presents Defoe’s view of the appropriate ethical practice when engaging in historical research.
+D. It argues that a historical event that some people find implausible did in fact occur.
+Answer: C
+
+Question 6:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+The Alan Parsons Project's 1977 album I Robot features one of a myriad of iconic album covers designed by Hipgnosis—a British avant-garde design group—from the late 1960s through the early '80s. Hipgnosis (whose work eventually became a cultural symbol in its own right) was engaged by the Alan Parsons Project and other artists seeking a departure from standard album covers featuring straightforward band portraits. Hipgnosis employed experimental photographic techniques and optic effects that resulted in surreal, conceptually rich art mirroring the mood of the music captured on the albums.
+
+
+A. It presents a claim about the prominence of a band, suggests that this prominence resulted from the band's album covers, and then introduces the design group responsible for the covers.
+B. It establishes the impact of a design group, explains the process the group employed when collaborating with a band, and then specifies the design group's unique methods.
+C. It describes the cover art for an album, mentions the techniques used by the design group to create the art, and then explains the significance of the cover art.
+D. It refers to an album, introduces the design group responsible for the cover art on that album, and then describes the novel approach the design group was known for.
+Answer: D
+
+Question 7:
+[Structure]
+Which choice best states the main idea of the text?
+
+Animals use many objects as tools to achieve goals more easily. Such goals include grooming, finding food, and protecting themselves. For a long time, people thought tool use was unique to primates. Octopuses and other animals, though, have busted the myth that tool use requires hands. Inventively, octopuses use two halves of a seashell to provide protection or a place to hide. Striated herons also get creative. They use breadcrumbs and other lures to attract fish to the water’s surface, making it easier for the herons to catch them.
+
+
+A. Unlike primates, octopuses are exceptionally skillful at using different tools.
+B. There are many myths about tool use that researchers are starting to challenge.
+C. Contrary to long-held beliefs, primates aren’t the only animals to use tools.
+D. Animals find it difficult to use objects as tools.
+Answer: C
+
+Question 8:
+[Structure]
+Which choice best states the main idea of the text?
+
+Several sociologists have observed that the word “culture,” though commonly used in academic literature, is an ultimately hazy concept—for example, Christian Smith has noted that the word “culture” represents “an amazing variety of often-discordant ideas.” Does the idea of culture encompass knowledge, or habits, or both these things and others? For casual usage, such haziness is permissible—we know culture when we see it—but for researchers, a standardization of the term is called for if sociology is to truly progress.
+
+
+A. There is no widely agreed-upon definition of the word “culture,” though the field of sociology would benefit if there were.
+B. In his research, Smith presented reasons why sociologists disagree on how to analyze “culture.”
+C. Nonspecialists and specialists have different ideas of what the word “culture” means.
+D. Knowledge and habits are key components of what nonspecialists refer to as “culture.”
+Answer: A
+
+Question 9:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+Minimum and Maximum Depths of Stony Coral Species in Caribbean and
+Indo-Pacific Waters
+
+Scleractinian corals, also known as stony corals due to their hard skeletons, live in all the world’s oceans. While researching four stony coral species, a marine biologist wanted to determine the depths at which those species are found. Consulting the table, she noted that the greatest maximum depth for any of these species is ______.
+
+
+A. 80 meters.
+B. 130 meters.
+C. 20 meters.
+D. 92 meters.
+Answer: D
+
+Question 10:
+[COE]
+Which finding, if true, would be most consistent with Poeplau and his coauthor’s conclusion?
+
+Cover crops, such as hairy vetch, are planted by many farmers between main growing seasons. While these crops are known for reducing drought stress, Christopher Poeplau and his coauthor argued in a 2015 study that cover crops’ role in supporting soil carbon sequestration deserves more attention. Cover crops remove carbon dioxide (CO₂) from the air and convert it to organic compounds; some of these compounds are stored in the soil as soil organic carbon (SOC), which contributes to the buildup of SOC stocks over time. Based on data from numerous farm fields, Poeplau and his coauthor concluded that cover crops contribute meaningfully to soil carbon sequestration and, if widely adopted, could help offset agricultural emissions of atmospheric CO₂ and other greenhouse gases.
+
+
+A. Hairy vetch captures considerably more CO₂ in fields where it is the sole cover crop compared with fields where it is grown alongside other species of cover crops.
+B. SOC stocks vary more in fields where cover crops have been grown for decades compared with fields where cover crops have only recently been introduced.
+C. SOC stocks tend to be significantly lower in fields without cover crops compared with fields where cover crops have been grown for several years.
+D. Cover crops generally exhibit reduced carbon sequestration rates in fields exposed to high levels of greenhouse gas emissions compared with fields exposed to low levels of those emissions.
+Answer: C
+
+Question 11:
+[COE]
+Which statement, if true, would most directly support the claim in the underlined sentence?
+
+Dolly Parton’s greatest success came in the late 1970s through the mid-1980s, when she incorporated pop instrumentation and song structures into country music and found a wider audience with such singles as “Real Love.” Before that period, she had recorded a purer form of country grounded in the harmonies and subject matter of the traditional folk ballads of the southern United States. __Yet it is misleading to draw a sharp contrast between Dolly’s early albums and those from 1977 to 1985, since even the albums from this pop-oriented period contain songs that signal the continued influence of the folk ballads she had sung as a girl in East Tennessee.__
+
+
+A. Dolly experienced renewed commercial success with the 1987 album Trio, which she recorded with Emmylou Harris and Linda Ronstadt, and the 1989 solo album White Limozeen.
+B. The title track of the 1974 album Love Is Like a Butterfly represents one of Dolly’s first attempts at combining country and pop, yet the remainder of the album is entirely free of the influence of pop music.
+C. The 1974 album Jolene brought Dolly a newfound level of fame and critical praise, and many music historians regard the title track as her finest composition.
+D. On the 1983 album Burlap and Satin, Dolly’s original composition “Appalachian Memories” shows the influence of folk ballads in both its word choice and subject matter.
+Answer: D
+
+Question 12:
+[COE]
+Which choice most effectively uses data from the table to complete the assertion?
+
+Monthly Temperatures and Wing Centroid Sizes of Fruit Fly Specimens
+
+Drosophila (fruit flies) have generation times of 10–12 days, so seasonal changes in humidity and other environmental conditions can drive seasonal fluctuations in chromosome rearrangements in species such as D. persimilis and D. subobscura. Drosophila body size (for which wing centroid size serves as a proxy measure) correlates with life span. Banu Şebnem Önder and Cansu Fidan Aksoy measured the wing sizes of members of a D. melanogaster population in Yeşilöz, Turkey, that were collected monthly between May and October over three years. Their research suggests that Drosophila collected in relatively cooler months should tend to have a shorter life span, as is illustrated by the finding that
+
+
+A. the average male wing centroid size was consistently smaller than the average female wing centroid size in all four months in the table.
+B. the average monthly low temperature was lower in May than in September.
+C. the average female wing centroid size was 2.02 mm in July but was 2.29 mm in October.
+D. the average male wing centroid size was smaller in May than in July.
+Answer: D
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+Antonia Olivia Dolan and colleagues had musicians and nonmusicians with clinically average hearing listen to recordings of nature sounds and music in popular genres like classic rock and heavy metal and adjust the volume to optimize their listening enjoyment. The researchers found that for a given recording that a musician and nonmusician identified as their favorite among those included in the study, optimal volume tended to be higher for the musician than for the nonmusician. Thus, if a musician and nonmusician both identified Led Zeppelin’s “Whole Lotta Love” as their favorite recording and the musician preferred to listen to it at a volume of 90.2 decibels, the nonmusician would be expected to
+
+
+A. find listening to “Whole Lotta Love” at 90.2 decibels less enjoyable than listening to it at a lower volume.
+B. not find it enjoyable to listen to any recordings at a volume as low as 90.2 decibels.
+C. prefer listening to other music at 90.2 decibels over listening to “Whole Lotta Love” at that volume.
+D. enjoy listening to the nature sounds at 90.2 decibels more than listening to “Whole Lotta Love” at 90.2 decibels.
+Answer: A
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Ray Bradbury’s 1957 novel Dandelion Wine is regularly described as autobiographical. That characterization is apt—there are many parallels between the experiences of the novel’s protagonist, Douglas Spaulding, and those of Bradbury—but it should not be taken to mean that Dandelion Wine displays a strong fidelity to facts. Much of the novel is pure invention. Nevertheless, readers interested in understanding Bradbury as a person can gain considerable insight from the book: Dandelion Wine integrates invented material with Bradbury’s interpretations of his memories, and the novel thus ______.
+
+
+A. provides readers with an objective depiction of circumstances that Bradbury experienced.
+B. showcases many of the literary techniques that made Bradbury popular with readers.
+C. can give readers a sense of how Bradbury perceived certain people and events.
+D. prevents readers from identifying any real-life inspirations for its characters.
+Answer: C
+
+Question 15:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+After the auction in 2015, some attendees were still shocked that Mark Rothko’s 1958 painting No. 10 ______ for $81.9 million that day.
+
+
+A. sells
+B. had sold
+C. to sell
+D. selling
+Answer: B
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In their study of ancient construction techniques, MIT researchers used microscopic analysis and chemical testing to understand the ______ that made Roman concrete uniquely durable.
+
+
+A. property's of the massive kilns’
+B. property's of the massive kilns
+C. properties of the massive kilns
+D. properties’ of the massive kiln’s
+Answer: C
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Sashimi is the name of a Martian rock. ______ identified by NASA's Spirit rover, which first touched down on Mars in 2004.
+
+
+A. It was
+B. I was
+C. We were
+D. Those were
+Answer: A
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Ranking No. 47 out of 57 in a list of the highest points in each US state, district, and territory, Campbell Hill proudly ______ as the apex of Ohio, at 1,549 feet.
+
+
+A. will have stood
+B. stand
+C. stands
+D. have stood
+Answer: C
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The impala (Aepyceros melampus) has a total population of about 2,000,000 ______ this species still has fewer members than the water buffalo (Bubalus bubalis), which has a total population of roughly 172,000,000.
+
+
+A. members,
+B. members yet,
+C. members
+D. members, yet
+Answer: D
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Amelia Bloomer championed women’s voting rights in the 1800s. She ______ her home state of Iowa in the National Woman Suffrage Association, an influential organization that included delegates from every US state and territory.
+
+
+A. represented
+B. will have represented
+C. will represent
+D. represents
+Answer: A
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Susana Wadgymar is a biologist at Davidson ______ conducts research on plants.
+
+
+A. College. Where she
+B. College. She
+C. College, she
+D. College she
+Answer: B
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In eastern Mexico, Monument 53 and Monument 89 are the names given to two massive human head statues that were left behind by the ancient Olmec civilization. Both statues are made of stone and are extremely heavy. ______ they each weigh more than 5 tons!
+
+
+A. In fact,
+B. In any case,
+C. Instead,
+D. Earlier,
+Answer: A
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+KYUK is a Native-run radio station broadcasting from the Yukon-Kuskokwim Delta in Alaska. In 2004, Loris Taylor wanted to make sure that stations like KYUK continued to thrive. ______ she founded Native Public Media, a support system for Native radio stations that now includes around sixty stations.
+
+
+A. Therefore,
+B. Regardless,
+C. In other words,
+D. Besides,
+Answer: A
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The comic strips Compu-Toon by Charles Boyce and Torchy Brown by Jackie Ormes feature clever humor and engaging characters. ______ Torchy Brown highlights social and political themes.
+
+
+A. Therefore,
+B. In other words,
+C. Instead,
+D. In addition,
+Answer: D
+
+Question 25:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Plant species known as metal hyperaccumulators can help remove heavy metal pollutants from soil.
+Thalaspi caerulescens, or alpine pennygrass, for instance, can absorb a large quantity of cadmium and store it safely in its roots and shoots. ______ the plant’s roots may not reach far enough into the soil to eliminate the pollutant entirely.
+
+
+A. On the contrary,
+B. Moreover,
+C. Still,
+D. For this reason,
+Answer: C
+
+Question 26:
+[Synthesis]
+The student wants to emphasize the number of migratory bird species that stop at the Great Salt Lake. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•The Great Salt Lake is located in Utah.
+•It is one of the saltiest bodies of water in the world.
+•More than 330 species of migratory birds stop at the lake each year.
+•One of these species is the willet.
+
+
+A. The Great Salt Lake in Utah is one of the saltiest bodies of water in the world.
+B. Migratory birds stop at the Great Salt Lake in Utah.
+C. The willet is a type of migratory bird.
+D. Each year, more than 330 species of migratory birds stop at the Great Salt Lake in Utah.
+Answer: D
+
+Question 27:
+[Synthesis]
+The student wants to explain the principle espoused by the Bauhaus. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Bertrand Goldberg was an architect and industrial designer born in Chicago, Illinois.
+•He began attending the Bauhaus in 1932.
+•The Bauhaus was an influential German art and design school.
+•The school famously espoused the design principle of “form follows function.”
+• “Form follows function” means that an object’s shape should be determined primarily by its intended purpose.
+
+
+A. Famous for its principle of “form follows function,” the Bauhaus was an influential German art and design school.
+B. Bertrand Goldberg was an architect and industrial designer who attended the Bauhaus, famous for espousing the principle of “form follows function.”
+C. According to the Bauhaus, an object’s intended purpose (function) should primarily determine its shape (form).
+D. An object’s intended purpose and its shape are two elements of the design principle “form follows function.”
+Answer: C
+

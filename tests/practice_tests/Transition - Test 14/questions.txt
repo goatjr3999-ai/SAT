@@ -1,0 +1,259 @@
+Question 34:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+When using hairy coneflower for dyeing cloth, textile artists first soak it in water to release its color. Next, they add the cloth to the dye bath and simmer it for hours, perhaps even days. ______ they remove the cloth from the dyebath, revealing that the cloth has turned a vibrant blue color.
+
+
+A. Finally,
+B. However,
+C. Therefore,
+D. Actually,
+Answer: A
+
+Question 78:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Between 1589 and 1611, the prolific playwright William Shakespeare, author of the tragedy Antony and Cleopatra (1606), wrote approximately 20 plays classified as histories or tragedies. ______ he somehow found the time to author 17 comedies, including Twelfth Night (1601).
+
+
+A. For example,
+B. In summary,
+C. Meanwhile,
+D. Specifically,
+Answer: C
+
+Question 45:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Marcia Rieke is a space scientist who works on the James Webb Space Telescope, or JWST. Thanks in part to Rieke’s contributions, the telescope is now positioned near the Sun-Earth L₂ Lagrange point, almost one million miles beyond Earth’s orbit. ______ the JWST's predecessor, the Hubble Telescope, is only about 340 miles above Earth's surface.
+
+
+A. Therefore,
+B. Similarly,
+C. By contrast,
+D. Secondly,
+Answer: C
+
+Question 135:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Beginning in her days at Vassar College in 1905, lawyer and activist Inez Milholland was an advocate for various social causes: worker's rights, racial justice, prison reform, and more. ______ her advocacy work would catapult her to national prominence, most notably when, astride a white horse and garbed in a flowing cape, she led the 1913 Women's Suffrage Procession in Washington, DC, thereby becoming the face of the US suffrage movement.
+
+
+A. For example,
+B. Similarly,
+C. Ultimately,
+D. As such,
+Answer: C
+
+Question 46:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Photogrammetry and polygonal modeling, methods used by digital artists to create three-dimensional elements for video games, typically require software to process geometric shapes numbering in the thousands. ______ these approaches are more economical than surface model methods, which require more powerful and expensive processors to manage polygons numbering in the millions.
+
+
+A. For example,
+B. Instead,
+C. As such,
+D. Specifically,
+Answer: C
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+When printing paper money for the colony of Pennsylvania in the 1730s, Benjamin Franklin—then a Philadelphia shop owner—took steps to combat the circulation of counterfeit notes, such as weaving blue threads and muscovite (a reflective mineral) into the paper he used. _____ he stamped the notes with detailed imprints of sage leaves that proved difficult for forgers to replicate.
+
+
+A. Moreover,
+B. Specifically,
+C. For example,
+D. That said,
+Answer: A
+
+Question 49:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As anthropologist Cristina Grasseni explains, many artisanal cheeses in Italy, such as Castelmagno from Piedmont and Mozzarella di Bufala Campana from Apulia, are highly valued for their regional authenticity; ______ they are prized for being made using local ingredients and methods typical of their respective geographic regions.
+
+
+A. rather,
+B. still,
+C. then,
+D. that is,
+Answer: D
+
+Question 148:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In a given rock formation, Tortonian rock from 11.6 million years ago might directly abut Captainian rock from 264.3 million years ago. But how could this happen? Time did not actually stand still during the intervening 252.7 million years; ______ this geologic unconformity likely resulted from natural processes removing sedimentary material from the stratigraphic record.
+
+
+A. for instance,
+B. rather,
+C. moreover,
+D. however,
+Answer: B
+
+Question 154:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Because of its bulky body, the world's first airplane, the 1903 Wright Flyer, was not very aerodynamic. Modern planes, like the Comac AB/21 Xiangfeng jet, have much sleeker, more streamlined bodies. ______ they are much more aerodynamic.
+
+
+A. Lastly,
+B. On the contrary,
+C. As a result,
+D. Regardless,
+Answer: C
+
+Question 87:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Space scientist Julie van Campen is excited about the potential of the new James Webb Space Telescope (JWST). Unlike its predecessor, the Hubble Telescope, the JWST is primarily an infrared telescope. Most light from distant galaxies is infrared; ______ the JWST can provide van Campen and her team much more information about these galaxies than the Hubble could.
+
+
+A. for instance,
+B. in contrast,
+C. hence,
+D. alternatively,
+Answer: C
+
+Question 147:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A recent survey found that the share of teens between the ages of 13 and 17 who claim to be “almost constantly” on social media has nearly doubled from 24% in 2015 to 46% today. ________ most of the survey responders believe they spend an appropriate amount of time online; only 36% reported that they believe they spend too much time on the internet.
+
+
+A. Despite this increase,
+B. Illustrating this point,
+C. Subsequently,
+D. Indeed,
+Answer: A
+
+Question 40:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The Beatrice, an offshore wind farm located off the coast of Scotland, produces about 588 megawatts (MW) of electricity per year. ____ England's Hornsea Project One offshore wind farm, which generates the most power of any single offshore farm, produces 1,218 MW of electricity.
+
+
+A. For instance,
+B. As a result,
+C. That is,
+D. By comparison,
+Answer: D
+
+Question 138:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Ecologists, such as Michelle Evans-White, use the trophic pyramid to illustrate the transfer of energy via food in an ecosystem. At the pyramid’s base are primary producers, like algae, that provide food to herbivores, like shrimp, at the second trophic level; these animals, ______ provide food to omnivores and carnivores, like seals, at the third level; and so on, up the food chain.
+
+
+A. in turn,
+B. nevertheless,
+C. for instance,
+D. alternatively,
+Answer: A
+
+Question 88:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+With over five decades of hit singles, including “Lately” from the album Hotter than July, Stevie Wonder looms over the history of pop music with near peerless talent and longevity. ______ in 1989, his legacy earned him one of the music industry's top honors: a spot in the Rock &amp; Roll Hall of Fame."
+
+
+A. Accordingly,
+B. Besides,
+C. In other words,
+D. However,
+Answer: A
+
+Question 151:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Hilo soil is found in abundance across Hawaii and is vital to the state's agricultural industry, used to grow crops like ginger and taro. ______ it is a fitting choice for the designated state soil.
+
+
+A. Nevertheless,
+B. For instance,
+C. Therefore,
+D. Meanwhile,
+Answer: C
+
+Question 41:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A blend of gabardine and wool, the material for Elvis Presley's Peacock jumpsuit was flexible enough to allow the singer to perform his signature dance moves. ____ the added weight of the suit's embroidered feathers in shades of blue and green likely limited Elvis's mobility to some degree.
+
+
+A. However,
+B. Firstly,
+C. In other words,
+D. For this reason,
+Answer: A
+
+Question 2:
+[Infer]
+Which choice most logically completes the text?
+
+Soil polluted with nickel (a heavy metal) is harmful to many plants and animals, but the plant species Pistia stratiotes, or water lettuce, not only thrives in such conditions but also helps remediate them. As a metal hyperaccumulator, Pistia stratiotes absorbs a large amount of nickel and stores it safely in its roots and shoots; _______ nickel concentrations in the soil decrease.
+
+
+A. in turn,
+B. nevertheless,
+C. specifically,
+D. in addition,
+Answer: A
+
+Question 72:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Generally, sleek vehicles are more aerodynamic than bulkier ones. The streamlined nose of the F-104 Starfighter jet, ______ helps it glide through wind with relative ease, while a boxy pickup truck encounters more wind resistance, making it less aerodynamic.
+
+
+A. however,
+B. meanwhile,
+C. for instance,
+D. additionally,
+Answer: C
+
+Question 115:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In his painting At the Cycle-Race Track, Jean Metzinger aims to depict a bike race in four-dimensional space. ______ Metzinger’s painting doesn’t technically represent a fourth dimension; humans can only see in three dimensions. That said, by depicting the race through multiple, simultaneous perspectives, Metzinger offers a fascinating glimpse at what this other universe might look like.
+
+
+A. For example,
+B. That is,
+C. Moreover,
+D. Of course,
+Answer: D
+
+Question 57:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In 2014, Nestor Gomez won his first-ever storytelling competition, relating a tale about his life as a Guatemalan immigrant living in Chicago. _____ in 2017, Gomez created the show 80 Minutes Around the World as a platform for others to share stories about their immigration experiences.
+
+
+A. Instead,
+B. For example,
+C. Later,
+D. In other words,
+Answer: C

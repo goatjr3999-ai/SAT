@@ -1,0 +1,382 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Despite assertions of universal applicability, substantial investigations into volcanic activity conducted throughout the early 2000s were narrowly centered on volcanic regions in Japan and Italy, primarily because of restricted observational data elsewhere. Subsequently, scientists managed to ______ this limitation when newly acquired satellite datasets from volcanic zones in Africa, such as the Democratic Republic of Congo, and Southeast Asia, such as Indonesia, became accessible.
+
+
+A. substantiate
+B. presuppose
+C. typify
+D. ameliorate
+Answer: D
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Samuel Taylor Coleridge often viewed nature through a detached, philosophical lens, resulting in landscapes that were idealized rather than observed. Conversely, John Clare, whose perspective was shaped by the physical labor of a tenant farmer, imbued his poetry with a gritty ______: his verses capture the unvarnished, dirt-stained reality of the nineteenth-century English countryside.
+
+
+A. verisimilitude
+B. equivocation
+C. didacticism
+D. abstraction
+Answer: A
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Though most hoaxes perpetrated as jokes by mischievous users of Wikipedia, an online encyclopedia that almost anyone can freely edit, have quickly been detected and removed, a few invented entries, such as those for the American new wave band Transformatix and the 18th-century forestry magnate Guillermo Garcia, persisted on the site for many years before they were finally recognized as ______ and deleted.
+
+
+A. conscientious
+B. profound
+C. straightforward
+D. fictitious
+Answer: D
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although protected areas (PAs) achieve nature conservation goals by restricting certain kinds of economic activity, ecologically responsible industries can thrive in such areas: many PAs, including Abernethy National Nature Reserve in Scotland, generate revenue from tourism. However, these ventures' success often stems from particular regional circumstances and can be challenging to _______ elsewhere.
+
+
+A. concede
+B. redress
+C. counterfeit
+D. replicate
+Answer: D
+
+Question 5:
+[Details]
+Which choice best describes the function of the reference to Brown's biography in the text as a whole?
+
+The following text is from Yung Wing's 1909 memoir My Life in China and America: Yung Wing was the first American college graduate of Chinese heritage; Phoebe Brown was the first prominent female hymn writer in the United States.
+I look back upon my acquaintance with Mrs. Phoebe H. Brown with a mingled feeling of respect and admiration. She certainly was a remarkable New England woman—a woman of surpassing strength of moral and religious character. Those who have had the rare privilege of reading her stirring biography, will, I am sure, bear me out in this statement. She went through the crucible of unprecedented adversities and trials of life and came out one of the rare shining lights that beautify the New England sky.
+
+
+A. It emphasizes that Brown's life has been a popular subject for writers because it was so remarkable.
+B. It suggests that other people who are familiar with Brown's life would share the author's view of her.
+C. It explains why Brown was unique amongst her peers.
+D. It describes the nature of the relationship between Yung and Brown.
+Answer: B
+
+Question 6:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+The Museum of Modern Art (MoMA) in New York City has an exhibition of video games that includes *Portal*from 2007, which museum visitors can play on site, and *Myst* from 1993, which visitors can see only in a video presentation. __MoMA claims that the video presentations are only for games that would be impractical to display in a playable form__, but video games are an inherently interactive medium, a feature that is grossly absent in a video-only presentation.
+
+
+A. It provides MoMA’s rationale for a decision that the author critiques.
+B. It presents a misconception about video games that the author believes is evident in MoMA’s choice about which video games to exhibit.
+C. It details a criticism of MoMA that the author defends against in the remainder of the sentence.
+D. It introduces a fact about video games that the author thinks MoMA did not appropriately consider when choosing which video games to exhibit.
+Answer: A
+
+Question 7:
+[COE]
+What does the text most strongly suggest about specimens from natural history collections?
+
+Susette Castaneda-Rico and colleagues relied on historical DNA (hDNA)—genomic data incidentally preserved in specimens housed in natural history collections—to investigate the evolutionary trajectory of Peromyscus maniculatus, a rodent species. Although this approach offers unique benefits, such as the ability to contrast historical genomic data with present-day data, it remains relatively underutilized because archival specimens are sometimes stored in ways that compromise DNA quality, a situation not easily remediable under current methodological paradigms and with extant DNA extraction and analysis technologies.
+
+
+A. They are primarily used as sources of genomic data by scientists studying organisms that have undergone major evolutionary change.
+B. While they were used in a study that made an important scientific discovery, they are generally of marginal value as sources of genomic data.
+C. While they may contain valuable genomic data, not all of them can yield usable hDNA.
+D. Because of their often-deteriorated condition, they tend to yield genomic data that are time-consuming to extract and interpret.
+Answer: C
+
+Question 8:
+[COE]
+The passage suggests that Gledhill would be most likely to agree with which of the following statements about the contemporary reviewers mentioned in the passage?
+
+Prior to the re-evaluation of American cinema by French critics in the post-war era, the films now categorized as *film noir* were largely dismissed by contemporary reviewers as formulaic B-movies—cynical, low-budget thrillers emblematic of Hollywood's commercial machinery. In contrast, later scholarly analyses of *noir* highlight its artistic merits, particularly its profound critique of the American Dream's disillusionment. A central challenge for many film historians has been the reconciliation of *noir's* existential despair and social commentary with its adherence to the conventional tropes of the crime genre. In an attempt to resolve this seeming paradox, scholar Paul Schrader concludes that *noir* filmmakers strategically utilized the crime story framework as a disguise, smuggling their subversive worldview past the strictures of the Production Code. An alternative perspective is proposed by Christine Gledhill, however, who re-examines the genre conventions themselves, suggesting that the "melodramatic" elements of the crime genre could inherently serve a critical, not just escapist, function by channeling societal anxieties and making viewers emotionally receptive to a critique of the status quo.
+
+
+A. Their characterization of the primary objective of noir filmmakers is largely accurate.
+B. Their reviews of these films are not as wholly negative as later film scholars have claimed.
+C. Their error lies in overstating the degree to which these films were intended as commercial entertainment.
+D. Their mistaken assumption is that the conventions of a commercial genre are inherently incapable of conveying serious social commentary.
+Answer: D
+
+Question 9:
+[Details]
+Which choice best describes the function of the reference to the "wooing kestrel" (a type of bird) in the text as a whole?
+
+The following text is from Anne Spencer's 1922 poem "Translation."
+We trekked into a far country,
+My friend and I.
+Our deeper content was never spoken,
+But each knew all the other said.
+He told me how calm his soul was laid
+By the lack of anvil and strife.
+"The wooing kestrel," I said, "mutes his mating-note
+To please the harmony of this sweet silence.
+
+
+A. It suggests that there are some aspects of nature that will forever be mysterious to humans.
+B. It emphasizes the speaker's belief that her friend is not sharing his true feelings with her.
+C. It presents the natural world as aligning with the experience of the speaker and her friend.
+D. It illustrates the assertion that the definition of peace changes from person to person.
+Answer: C
+
+Question 10:
+[COE]
+What does the text most strongly suggest about how analyzing a painting with nonvisible light can inform a judgment about who that painting is attributed to?
+
+Because they penetrate the visible surface of a painting, ultraviolet and other nonvisible spectra of light enable the detection of otherwise imperceptible features of the work. Beneath the surface of Michelangelo Merisi da Caravaggio’s *The Cardsharps* (ca. 1594), art historians found that Caravaggio had originally positioned the figure on the right side of the painting. Furthermore, nonvisible spectra can be used for chemical analysis to identify specific pigments and thus, in some cases, reveal forgeries: if, for example, titanium oxide—which wasn’t developed until the 20th century—is evident throughout the layers of a painting attributed to an 18th-century artist, that work can only be a forgery.
+
+
+A. It can show how the work is similar to others attributed to the same artist.
+B. It can definitively undermine that attribution.
+C. It can confirm that attribution with a high degree of confidence.
+D. It can provide new information about the attributed artist’s practices.
+Answer: B
+
+Question 11:
+[COE]
+Which quotation from Life Among the Paiutes most effectively illustrates the claim?
+
+Life Among the Paiutes is an 1882 autobiographical narrative by Sarah Winnemucca Hopkins. In the work, Winnemucca creates suspense by emphasizing her physical response to an event, writing ______.
+
+
+A. "Oh, how my heart jumped when I heard a noise close by. It was a horse running towards us. We had to lie down close to the ground. It came close to us and stopped. Oh, how my heart beat! I thought whoever it was would hear my heart beat."
+B. "Oh, how happy everybody was! One could hear laughter everywhere, and songs were sung by happy women and children."
+C. "Late in that fall, there came news that my grandfather was on his way home. Then my father took a great many of his men and went to meet his father, and there came back a runner, saying, that all our people must come together."
+D. "That same fall, after my grandfather came home, he told my father to take charge of his people and hold the tribe, as he was going back to California with as many of his people as he could get to go with him."
+Answer: A
+
+Question 12:
+[Infer]
+Which choice most logically completes the text?
+
+Indigenous songs are an important resource for ecological information. Songs of the Warlpiri people in Yuendumu, Australia, convey information about wild edible seeds, and the songs of the Karen (hta) Hin Lad Nai people in Thailand offer detailed information about bees. There have been efforts made to preserve Indigenous languages over the years—e.g., the United Nation’s International Decade of Indigenous Languages (2022–2032). However, such attempts have typically focused on spoken language despite the fact that some expressions in these languages appear only in songs. Therefore, if those involved in such efforts want to ensure that a comprehensive range of information is secured, they must _____.
+
+
+A. analyze musical similarities in the songs of the Warlpiri and Karen (hta) Hin Lad Nai people.
+B. acknowledge that Indigenous songs are largely but not entirely composed using phrases taken from spoken language.
+C. incorporate the preservation of songs into their broader efforts to protect Indigenous languages.
+D. recognize that Indigenous languages likely have more unique expressions that represent ecological knowledge than represent other types of information.
+Answer: C
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+Soil microbial compositions (the species and their relative abundances) can affect plants’ disease resistance, leading Ella Katz and colleagues to hypothesize that microbial composition could also affect plants’ production of glucosinolates (spicy and bitter compounds). To test this, the team created five compositionally different live-microbe slurries (inoculates) and autoclaved (heated under high pressure) half of each inoculate to create five dead-microbe inoculates as a control. They planted mustard plants in different pots of previously autoclaved soil, incorporating one of the ten inoculates into each pot. At the study’s end, all soils exhibited robust microbial communities. Therefore, it’s plausible that ______.
+
+
+A. the autoclaving protocol was insufficient to achieve the intended purpose.
+B. the plants neutralized the microbes introduced to the soil in the inoculates.
+C. autoclaving the inoculates interfered with the affected plants’ ability to produce glucosinolates.
+D. the microbial taxa affected the plants’ glucosinolate levels in unanticipated ways.
+Answer: A
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+To combat predation by Arizona myotis and other insectivorous bats, many moth species, including Cycina tenera, emit ultrasonic pulses that, in some cases, disrupt the echolocation bats rely on for foraging. Some scientists have hypothesized that this capability evolved because it imposes a lower metabolic cost than does the alternative mechanism of producing chemicals that render moths noxious to bats. Nicholas T. Homziak et al. investigated the acoustic properties of moths’ ultrasonic responses to audio of bat echolocation and then assessed the palatability of the ultrasound-producing moths. They found that several moth genera that emit ultrasonic pulses capable of disrupting bat echolocation are unpalatable to bats, suggesting that ______.
+
+
+A. most genera of moths that produce ultrasound capable of disrupting bat echolocation do so primarily for purposes other than evading capture by Arizona myotis and other predators.
+B. the hypothesis about the development of this ultrasonic defense likely does not account for all instances of the trait in moths.
+C. although previous findings about Cycina tenera are consistent with the hypothesis about the low metabolic cost of producing noxious chemicals, the ability to disrupt bat echolocation and unpalatability are not mutually exclusive traits.
+D. further investigations into moths’ ability to protect themselves by disrupting bat echolocation will likely find that moth genera relying on this mechanism are also generally inedible to bats.
+Answer: B
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+Over 600 languages are spoken in New York City in addition to English—one can find Bambara spoken in the neighborhood of Kingsbridge, for example, or Gullah in Bedford-Stuyvesant. A linguist hypothesizes that some of these languages may be developing local dialects—variations that differ from the parent language in some of their vocabulary, pronunciation, and grammar—specific to New York City and partly influenced by linguistic interaction with the majority language of English. She finds during her field research in New York that some local dialects do exist and that younger speakers of nonmajority languages use those dialects more often than older speakers do. These findings suggest that ______.
+
+
+A. younger speakers of nonmajority languages in New York City are more likely to borrow words from English than older speakers are.
+B. the proportion of younger speakers who use a dialect specific to New York City is higher in neighborhoods where many languages are spoken than in neighborhoods where one or two languages predominate.
+C. both the number of languages spoken in New York City and the number of dialects of each of those languages will increase over time.
+D. dialects used by younger speakers in New York City tend to have more words borrowed from nonmajority languages than borrowed from English.
+Answer: A
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In 1953, scientists James Watson and Francis Crick published the double helix structure of DNA, revealing that genetic information was encoded in a way far more elegant than was previously ______ model that, if accepted, would revolutionize the field of genetics and molecular biology.
+
+
+A. imagined; a
+B. imagined. A
+C. imagined a
+D. imagined, a
+Answer: D
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+As a behavioral economist, Ai Hisano of Kyoto University recognizes that people sometimes make irrational economic decisions. Hisano’s research can thus address anomalies that neoclassical economic ___ assume that people are consistently rational decision-makers—cannot explain.
+
+
+A. models which—
+B. models which
+C. models—which
+D. models, which
+Answer: C
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Ranking No. 47 out of 57 in a list of the highest points in each US state, district, and territory, Campbell Hill proudly ______ as the apex of Ohio, at 1,549 feet.
+
+
+A. will have stood
+B. stand
+C. stands
+D. have stood
+Answer: C
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Indo-European language of Rushani has only about 18,000 living speakers, most of them in Tajikistan. However, the New York City–based Endangered Language Alliance has identified a group of Rushani speakers in the city’s borough of ______ in the Rego Park neighborhood, these speakers are both helping to ensure Rushani’s survival and contributing to the city’s unmatched linguistic diversity.
+
+
+A. Queens where
+B. Queens, where,
+C. Queens; where
+D. Queens; where,
+Answer: B
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Paintings by the renowned twentieth-century US ____ were featured in Artist to Artist, an exhibition at the Smithsonian Art Museum that paired the works of artists whose career trajectories intersected in meaningful ways.
+
+
+A. artists Thomas Hart Benton, and Jackson Pollock,
+B. artists: Thomas Hart Benton and Jackson Pollock,
+C. artists Thomas Hart Benton and Jackson Pollock
+D. artists, Thomas Hart Benton and Jackson Pollock
+Answer: C
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The world’s first airplane, the 1903 Wright Flyer, was not very aerodynamic, as evidenced by its low lift-to-drag ratio of just 8:3. The F-104 Starfighter jet, like most modern aircraft, is far more aerodynamic. ___ its lift-to-drag ratio is more than twice that of the Wright Flyer.
+
+
+A. However,
+B. Nevertheless,
+C. In conclusion,
+D. Specifically,
+Answer: D
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+With many elements, like osmium, scientists were able to isolate a relatively pure sample of the substance shortly after discovering its existence. ______ this wasn’t the case with all elements. The process of isolating magnesium, for example, took years—53, to be precise.
+
+
+A. Likewise,
+B. Granted,
+C. In other words,
+D. For this reason,
+Answer: B
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In contrast to first-past-the-post electoral processes, the proportional representation system by which Uruguay’s Chamber of Representatives is elected begins with citizens casting their votes not for specific candidates but for political parties. _______ once the votes have been tabulated, each party is awarded a number of seats proportional to the number of votes it received.
+
+
+A. Conversely,
+B. In other words,
+C. Then,
+D. However,
+Answer: C
+
+Question 24:
+[Synthesis]
+The student wants to explain why the modern scientific consensus rejects the concept of linguistic determinism. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching cognitive linguistics, a student has taken the following notes:
+• The principle of linguistic relativity posits that the structure of a language affects its speakers' cognition and worldview.
+ • This principle is often associated with the Sapir-Whorf hypothesis, which has two main interpretations.
+ • The "strong" version, known as linguistic determinism, asserts that language *determines* thought; an individual's cognitive categories are limited and defined by their linguistic categories.
+ • The "weak" version, linguistic relativity, proposes that language merely *influences* thought and certain non-linguistic behaviors, creating biases or tendencies but not insurmountable constraints.
+ • Most contemporary research has largely discredited linguistic determinism as being too absolute.
+ • Evidence for the weak version exists; for example, studies show that speakers of languages with grammatical gender may subconsciously attribute stereotypically masculine or feminine properties to inanimate objects.
+ • The modern consensus is that while language can shape certain cognitive habits, it does not imprison the mind within a fixed framework.
+
+
+A. According to the modern view, linguistic determinism is untenable because it suggests that thought is merely influenced by language, a position that fails to account for how grammatical gender can shape perceptions of objects.
+B. Linguistic determinism is rejected because while language has been shown to influence cognitive tendencies—creating perceptual biases—it does not determine thought by imposing rigid, inescapable boundaries on what a person can conceive.
+C. The Sapir-Whorf hypothesis, which encompasses both linguistic determinism and linguistic relativity, has been a foundational concept in exploring the intricate relationship between language and human cognition.
+D. Because the weak version of the hypothesis has been supported by evidence, the strong version, linguistic determinism, has been largely discredited by most contemporary researchers.
+Answer: B
+
+Question 25:
+[COE]
+Which choice most effectively uses information from the given sentences to present the study and its findings?
+
+While researching a topic, a student has taken the following notes:
+• Springtails are a group of noninsect hexapods (six-legged animals).
+• Researchers Claudia Marcela Ospina-Sánchez, Felipe N. Soto-Adames, and Grizelle González conducted a study to determine how many springtail species are present in Puerto Rico.
+• They found a total of 146 springtail species.
+• They found 1 springtail species belonging to the genus Hemisotoma.
+• They found 3 springtail species belonging to the genus Spheridia.
+
+
+A. In Puerto Rico, the genus Hemisotoma contains one springtail species, and the genus Spheridia contains three springtail species.
+B. According to a study by researchers Claudia Marcela Ospina-Sánchez, Felipe N. Soto-Adames, and Grizelle González, there are 146 springtail species present in Puerto Rico, including one from the genus Hemisotoma and three from the genus Spheridia.
+C. Researchers Claudia Marcela Ospina-Sánchez, Felipe N. Soto-Adames, and Grizelle González studied springtails in Puerto Rico, and they wanted to know how many species there are in the genus Hemisotoma and the genus Spheridia.
+D. There are 146 species of springtail (noninsect hexapods) in Puerto Rico, but there are more species from the genus Spheridia than from the genus Hemisotoma.
+Answer: B
+
+Question 26:
+[Synthesis]
+The student wants to contrast the subject matter of the two prints. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•*Hyde Park* is a 1931 color linocut print by Canadian artist Sybil Andrews.
+•It depicts a tranquil, everyday scene (a spring day in a city park).
+•*Amanzi Amakhulu* (*The cold water takes him*) is a 2001 black-and-white linocut print by South African artist Nontombana Tana.
+•It features a scene with an explicitly political point of view (of a Xhosa warrior fighting British colonial rule).
+•Relief printing is a technique in which an image is carved onto a printing block, covered in ink or paint, and stamped onto paper.
+•Lino cutting is a type of relief printing that uses linoleum tile as the printing block.
+
+
+A. The print by Tana is a black-and-white linocut; by contrast, Andrews’s is a relief print.
+B. Tana’s print expresses an explicitly political point of view, while Andrews’s depicts a tranquil, everyday scene.
+C. Andrews made Hyde Park in 1931, while Tana made Amanzi Amakhulu (The cold water takes him) later, in 2001.
+D. The scenes depicted in both works were first carved onto a printing block, then stamped onto paper; however, one work is a linocut, while the other is a relief print.
+Answer: B
+
+Question 27:
+[Synthesis]
+The student wants to emphasize the umami intensity of bull kelp. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Receptors in the human tongue can detect sweetness, saltiness, sourness, bitterness, and umami.
+• Umami is a rich, savory flavor.
+• Umami is triggered by the compounds in a variety of foods, including tuna and blue cheese.
+• Participants in a research study tasted samples of bull kelp (a type of brown seaweed) collected from Bamfield, British Columbia.
+• On average, they rated its umami intensity as high.
+
+
+A. Umami is triggered by compounds in bull kelp, tuna, and blue cheese.
+B. Samples of bull kelp, a brown seaweed, have been collected in Bamfield, British Columbia.
+C. Participants in a research study found the umami intensity of bull kelp, a brown seaweed, to be high.
+D. Umami is a rich, savory flavor triggered by compounds in foods such as tuna and blue cheese.
+Answer: C

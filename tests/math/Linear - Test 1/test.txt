@@ -1,0 +1,48 @@
+Question 1:
+{{MATH_1}}
+The equation above models the total cost y, in dollars, that a company charges a customer to rent a truck for one day and drive the truck x miles. The total cost consists of a flat fee plus a charge per mile driven. When the equation is graphed in the xy-plane, what does the y-intercept of the graph represent in terms of the model?
+
+A. A flat fee of $19.99
+B. A charge per mile of $1.50
+C. A charge per mile of $19.99
+D. Total daily charges of $21.49
+Answer: A
+
+Question 2:
+In the given equation, {{MATH_2}} is a constant. The equation has no solution. What is the value of {{MATH_2}}?
+{{MATH_3}}
+
+A. {{MATH_4}}
+B. {{MATH_5}}
+C. {{MATH_6}}
+D. {{MATH_7}}
+Answer: B
+
+Question 3:
+{{MATH_8}}
+A group of biology students conducted an experiment to study the relationship between a person-s femur length and the person-s height. The given equation describes the relationship between the length L, in inches, of a student-s femur and the student-s estimated height H, in inches, for the students in the group. Which of the following is the best interpretation of 2.403 in this context?
+
+A. The increase in a student-s estimated height, in inches, for each increase of 1 inch in the student-s femur length
+B. The increase in a student-s femur length, in inches, for each increase of 1 inch in the student-s estimated height
+C. The increase in a student-s femur length, in inches, for each increase of 23.31 inches in the student-s estimated height
+D. The estimated height, in inches, of a student whose femur has a length of L inches
+Answer: A
+
+Question 4:
+Line {{MATH_9}} in the {{MATH_10}}-plane is perpendicular to the line with equation {{MATH_11}}. What is the slope of line {{MATH_9}}?
+
+A. 0
+B. − 1/2
+C. − 2
+D. The slope of line 𝓁 is undefined
+Answer: A
+
+Question 5:
+In the given equation, x, y, and z are positive numbers. Which expression is equivalent to y?
+{{MATH_12}}
+
+A. {{MATH_13}}
+B. {{MATH_14}}
+C. {{MATH_15}}
+D. {{MATH_16}}
+Answer: B

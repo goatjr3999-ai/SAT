@@ -1,0 +1,95 @@
+Question 1:
+The bar graph shows the distribution of flower type for the{{MATH_1}} flowers that a florist has in stock.
+
+For which two types of flowers is the total number of flowers of the two types exactly {{MATH_2}} of the florist's stock?
+
+A. Daisy and orchid
+B. Orchid and lily
+C. Orchid and sunflower
+D. Lily and sunflower
+Answer: B
+
+Question 2:
+The scatterplot shows the relationship between two variables, x and y, for data set A. A line of best fit for the data is also shown. Data set B is created by subtracting{{MATH_3}} units from the value of y for each data point from data set A. Which of the following is closest to the y-coordinate of the y-intercept of the line of best fit for data set B?
+
+A. {{MATH_4}}
+B. {{MATH_5}}
+C. {{MATH_6}}
+D. {{MATH_7}}
+Answer: C
+
+Question 3:
+The weight of each object in two groups, A and B, was recorded. The histograms represent the distributions of weight, in grams, for the objects in groups A and B.
+
+The mean weight of the objects in group A is equal to {{MATH_8}}, and the mean weight of the objects in group B is equal to {{MATH_9}}. Which of the following statements about the standard deviations of weight for the objects in these two groups is true?
+
+A. The standard deviation of weight for the objects in group A is less than the standard deviation of weight for the objects in group B.
+B. The standard deviation of weight for the objects in group A is equal to the standard deviation of weight for the objects in group B.
+C. The standard deviation of weight for the objects in group A is greater than the standard deviation of weight for the objects in group B.
+D. There is not enough information to compare the standard deviations of weight for the objects in these two groups.
+Answer: C
+
+Question 4:
+A group of 10 gardeners recorded data on the germination rates of their tomato crop for one growing season. The scatterplot shows the relationship between the number of tomato seeds planted, x, and the number of tomato seeds that germinated, y, for each of the gardeners. A line of best fit is also shown.
+
+Which of the following is the best interpretation of the slope of the line of best fit in this context?
+
+A. The number of tomato seeds planted is predicted to increase by 60 seeds every 100 days.
+B. The number of tomato seeds planted is predicted to increase by 300 seeds every 100 days.
+C. The number of tomato seeds that germinate is predicted to increase by 60 seeds for every additional 100 tomato seeds that are planted.
+D. The number of tomato seeds that germinate is predicted to increase by 300 seeds for every additional 100 tomato seeds that are planted.
+Answer: C
+
+Question 5:
+For data set A, the table summarizes the distribution of the number of pieces of mail received by a business each day during a period of 11 days.
+The data value 13 is removed from data set A to create data set B, which consists of the remaining 10 data values. Which statement best compares the median of data set A and the median of data set B?
+
+A. The median of data set B is less than the median of data set A.
+B. The median of data set B is greater than the median of data set A.
+C. The median of data set B is equal to the median of data set A.
+D. There is not enough information to compare the medians of the two data sets.
+Answer: C
+
+Question 6:
+{{MATH_10}}c
+For the given data set, the data values are listed in ascending order, where a, b, and c are constants. For this data set, the mean is 36, the median is 29, and the range is 72. What is the value of c ?
+
+A. {{MATH_11}}
+B. {{MATH_12}}
+C. {{MATH_13}}
+D. {{MATH_14}}
+Answer: C
+
+Question 7:
+In 2013, Chloe earned 11% more than in 2012, and in 2014 Chloe earned 6% more than in 2013. If Chloe earned y times as much in 2012 as in 2014, which of the following is closest to the value of y?
+
+A. {{MATH_15}}
+B. {{MATH_16}}
+C. {{MATH_17}}
+D. {{MATH_18}}
+Answer: C
+
+Question 8:
+At a nature preserve, a wildlife biologist counted bald eagles from an observation deck at the same time each day for 21 days. The table summarizes the resulting data set, data set A.
+
+The data value 19 was recorded in error and is removed from data set A to create data set B, which consists of the remaining 20 data values. Which statement best compares the median of data set A and the median of data set B?
+
+A. The median of data set B is less than the median of data set A.
+B. The median of data set B is equal to the median of data set A.
+C. The median of data set B is greater than the median of data set A.
+D. There is not enough information to compare the medians of the two data sets.
+Answer: B
+
+Question 9:
+A researcher investigated two species of mites: a predator and its prey. At the start of a week, there was an equal number of the two species. At the end of the week, the number of prey had increased by 1,900% of the number of prey at the start of the week, and the number of predators had increased by 150% of the number of predators at the start of the week. The number of prey at the end of the week was p% greater than the number of predators at the end of the week. What is the value of p?
+
+Answer: 700
+
+Question 10:
+Which of the following lists represents a data set with the smallest standard deviation?
+
+A. {{MATH_20}}
+B. {{MATH_21}}
+C. {{MATH_22}}
+D. {{MATH_23}}
+Answer: D

@@ -1,0 +1,46 @@
+Question 1:
+A science teacher is preparing the 5 stations of a science laboratory. Each station will have either Experiment A materials or Experiment B materials, but not both. Experiment A requires 6 teaspoons of salt, and Experiment B requires 4 teaspoons of salt. If {{MATH_1}} is the number of stations that will be set up for Experiment A and the remaining stations will be set up for Experiment B, which of the following expressions represents the total number of teaspoons of salt required?
+
+A. {{MATH_2}}
+B. {{MATH_3}}
+C. {{MATH_4}}
+D. {{MATH_5}}
+Answer: C
+
+Question 2:
+Alan drives an average of 100 miles each week. His car can travel an average of 25 miles per gallon of gasoline. Alan would like to reduce his weekly expenditure on gasoline by $5. Assuming gasoline costs $4 per gallon, which equation can Alan use to determine how many fewer average miles, {{MATH_6}}, he should drive each week?
+
+A. {{MATH_7}}
+B. {{MATH_8}}
+C. {{MATH_9}}
+D. {{MATH_10}}
+Answer: D
+
+Question 3:
+In the {{MATH_11}}-plane, line {{MATH_12}} is defined by {{MATH_13}}. Line {{MATH_14}} is perpendicular to line {{MATH_12}}, and the {{MATH_15}}-intercept of line {{MATH_14}} is {{MATH_16}}. Which of the following is an equation of line {{MATH_14}}?
+
+A. x + y = 3
+B. x + y = − 3
+C. x − y = 3
+D. x − y = − 3
+Answer: D
+
+Question 4:
+{{MATH_17}}
+For the given function {{MATH_18}}, which of the following gives the equation for the function {{MATH_19}}, given that the point {{MATH_20}}lies on the graph of {{MATH_21}}?
+
+A. f(x) = − 2x − 15
+B. f(x) = − 2x + 1
+C. f(x) = − 2x − 7
+D. f(x) = − 2x + 15
+Answer: A
+
+Question 5:
+{{MATH_22}}
+For the given function {{MATH_18}}, which of the following gives the equation for the function {{MATH_23}}, given that the point {{MATH_24}}lies on the graph of {{MATH_25}}?
+
+A. f(x) = − 5x − 17
+B. f(x) = − 5x + 27
+C. f(x) = − 5x + 37
+D. f(x) = − 5x + 40
+Answer: C

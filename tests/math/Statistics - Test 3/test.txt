@@ -1,0 +1,62 @@
+Question 1:
+The frequency distribution above summarizes a set of data, where {{MATH_1}} is a positive integer. How much greater is the mean of the set of data than the median?
+
+A. 0
+B. 1
+C. 2
+D. 3
+Answer: A
+
+Question 2:
+Data set A consists of 10 positive integers less than 60. The list shown gives 9 of the integers from data set A.
+43, 45, 44, 43, 38, 39, 40, 46, 40
+The mean of these 9 integers is 42. If the mean of data set A is an integer that is greater than 42, what is the value of the largest integer from data set A?
+
+Answer: 52
+
+Question 3:
+In 2008, there were 21 states with 10 or more electoral votes, as shown in the table above. Based on the table, what was the median number of electoral votes for the 21 states?
+
+A. 13
+B. 15
+C. 17
+D. 20
+Answer: B
+
+Question 4:
+The mean amount of time that the 16 employees of a tech startup have worked for the company is 5.8 years. After one of the employees leaves the company, the mean amount of time that the remaining employees have worked for the company is reduced to 5.5 years. How many years did the employee who left the company work for the company?
+
+A. 8.50
+B. 9.30
+C. 10.30
+D. 10.70
+Answer: C
+
+Question 5:
+The maximum value of a data set consisting of 25 positive integers is 84. A new data set consisting of 26 positive integers is created by including 96 in the original data set. Which of the following measures must be 12 greater for the new data set than for the original data set?
+
+A. The mean
+B. The median
+C. The range
+D. The Standard deviation
+Answer: C
+
+Question 6:
+A data set of 27 different numbers has a mean of 33 and a median of 33. A new data set is created by adding 7 to each number in the original data set that is greater than the median and subtracting 7 from each number in the original data set that is less than the median. Which of the following measures does NOT have the same value in both the original and new data sets?
+
+A. Median
+B. Mean
+C. Sum of the numbers
+D. Standard deviation
+Answer: D
+
+Question 7:
+Data set B consists of 10 positive integers each less than 50. The list below shows 9 of the integers from data set B:
+35, 35, 36, 34, 35, 36, 34, 35, 35
+The mean of these 9 integers is 35. If the mean of data set B is an integer that is greater than 35, what is the value of the largest integer from data set B?
+
+A. 40
+B. 42
+C. 45
+D. 48
+Answer: C

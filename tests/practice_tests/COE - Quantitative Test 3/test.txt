@@ -1,0 +1,70 @@
+Question 1:
+[COE]
+Which choice best describes data from the table that support the student's argument?
+
+Native to Latin America, the cane toad was introduced to Australia in the 1930s. In recent decades, tadpoles in the Australian population have been shown to consume eggs of their own species. A 2022 study showed that when presented with cane toad eggs as well as eggs of native Australian amphibians, cane toad tadpoles disproportionately consumed eggs of their own species. This behavior results from their attraction to bufadienolide, a chemical produced by the eggs of cane toads but not by the eggs of native amphibians. However, using data from this study, a student wishes to argue that the presence of bufadienolide doesn't entirely explain the cane toad tadpoles’ preference for certain eggs over others.
+
+
+
+A. The tadpoles consumed a higher percentage of the striped burrowing frog eggs than they did of the eggs of the dainty green tree frog.
+B. The tadpoles left a certain percentage of the eggs of each of the five species unharmed, thus ultimately allowing them to hatch.
+C. The tadpoles consumed a lower percentage of the short-footed frog eggs than they did of the eggs of their own species.
+D. The tadpoles consumed the same percentage of the dainty green tree frog eggs as they did of the little red tree frog eggs.
+Answer: A
+
+Question 2:
+[COE]
+Which choice best describes data from the table that support the researchers’ conclusion?
+
+To study how floral damage affects the behavior of pollinators, such as bees, a team of researchers punched holes in the floral tissue of flowers from the vine yellow jessamine (*Gelsemium sempervirens*), a plant that produces flowers that have either a long pistil and a short stamen (pin morphs) or a short pistil and a long stamen (thrum morphs). The researchers then compared the time different insect pollinators spent visiting intact pin and thrum flowers to the time such pollinators spent visiting the artificially damaged pin and thrum flowers. The researchers concluded that the effect of floral damage on time spent per flower varied by both floral morph and the genus of the pollinator.
+
+
+
+A. For pin flowers, damage led to longer times per flower in all pollinator genera, whereas for thrum flowers, damage led to longer times per flower only in Habropoda and Osmia.
+B. Compared with pollinators belonging to the genus Osmia, pollinators belonging to the genus Xylocopa spent less time on damaged pin flowers but more time on damaged thrum flowers.
+C. Damage led to shorter times per thrum flower in three pollinator genera (Osmia, Pierid, and Xylocopa), whereas it led to longer times per thrum flower in one pollinator genus (Habropoda).
+D. Pollinators belonging to the genus Habropoda spent 2.7 seconds on intact pin flowers and 4.1 seconds on intact thrum flowers.
+Answer: A
+
+Question 3:
+[COE]
+Which choice best describes data in the graph that support Meng and colleagues’ conclusion?
+
+Aerial robots vary considerably in their holding force; the Ultra-Fast Robot Hand, for example, has a holding force of 56 newtons, more than twice that of the Permanent Magnet Hand and more than four times that of the Yale Model T. Since an aerial robot must lift its own weight along with its cargo, engineer Jiawei Meng and colleagues used a ratio of each robot’s holding force to the robot’s weight to calculate payload capacity, with higher ratios corresponding to greater capacity, concluding that the Ultra-Fast Robot Hand has a higher payload capacity than the Yale Model T.
+
+
+
+A. The Ultra-Fast Robot Hand and the Yale Model T each weigh more than 450 grams.
+B. The Ultra-Fast Robot Hand and the Yale Model T each weigh more than the Permanent Magnet Hand does.
+C. The Yale Model T has a lower holding force than the Permanent Magnet Hand despite weighing more.
+D. The Ultra-Fast Robot Hand weighs only slightly more than the Yale Model T does.
+Answer: D
+
+Question 4:
+[COE]
+Which choice best describes data from the table that support Barrett and Rayfield’s suggestion?
+
+The largest tyrannosaurids—the family of carnivorous dinosaurs that includes Tarbosaurus, Albertosaurus, and, most famously, Tyrannosaurus rex—are thought to have had the strongest bites of any land animals in Earth’s history. Determining the bite force of extinct animals can be difficult, however, and paleontologists Paul Barrett and Emily Rayfield have suggested that an estimate of dinosaur bite force may be significantly influenced by the methodology used in generating that estimate.
+
+
+
+A. The study by Meers used body-mass scaling and produced the lowest estimated maximum bite force, while the study by Cost et al. used muscular and skeletal modeling and produced the highest estimated maximum.
+B. In their study, Gignac and Erickson used tooth-bone interaction analysis to produce an estimated bite force range with a minimum of 8,000 newtons and a maximum of 34,000 newtons.
+C. The bite force estimates produced by Bates and Falkingham and by Cost et al. were similar to each other, while the estimates produced by Meers and by Gignac and Erickson each differed substantially from any other estimate.
+D. The estimated maximum bite force produced by Cost et al. exceeded the estimated maximum produced by Bates and Falkingham, even though both groups of researchers used the same method to generate their estimates.
+Answer: C
+
+Question 5:
+[COE]
+Which choice most effectively uses data from the table to support the underlined claim?
+
+Swahili is estimated to be the first language of up to 15 million people worldwide. It’s also an officially recognized language in Tanzania, Kenya, and the Democratic Republic of the Congo, which means these countries use Swahili in government documents and proceedings. __But even in countries where almost everyone speaks Swahili, for many it isn’t their first language but is instead their second, third, or even fourth language.__
+
+
+
+A. Tanzania has approximately 61 million Swahili speakers, which is much more than the estimated total number of people worldwide for whom Swahili is their first language.
+B. Tanzania is estimated to have at most 15 million Swahili speakers, while the country’s total population is approximately 61 million people.
+C. Approximately 100 percent of the people who speak Swahili as their first language live in Kenya, which has a total population of approximately 55 million people.
+D. Approximately 100 percent of Kenya’s population speaks Swahili, while only about 25 percent of the Democratic Republic of the Congo’s population speaks Swahili.
+Answer: A
+

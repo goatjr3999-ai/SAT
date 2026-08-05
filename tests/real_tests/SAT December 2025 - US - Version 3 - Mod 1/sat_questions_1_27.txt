@@ -1,0 +1,341 @@
+Question 1:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Smart watches and wireless speakers tend to rely on batteries that can't be easily taken out and swapped for new ones. Environmental policy researcher Jessika Richter warns that because these gadgets can't ___ without working batteries, once the batteries stop working, the devices are typically disposed of as trash.
+
+
+A. decide
+B. separate
+C. expand
+D. function
+Answer: D
+
+Question 2:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Kawai Gyokudō’s 1895 piece Cormorant Fishing is an important work of Nihonga, or traditional Japanese painting. To produce the piece, Kawai used a centuries-old Japanese approach, applying color pigments to a silk surface. By contrast, Asai Chū ______ European methods, using oil on canvas to produce Western-style paintings.
+
+
+A. employed
+B. overheard
+C. imagined
+D. punished
+Answer: A
+
+Question 3:
+As used in the text, what does the word "accepted" most nearly mean?
+
+The following text is from Charles Dickens's 1861 novel Great Expectations. The narrator is taking a walk near his home on a damp morning. On every rail and gate, wet lay clammy, and the marsh mist was so thick, that the wooden finger on the post directing people to our village—a direction which they never __accepted__, for they never came there—was invisible to me until I was quite close under it.
+
+
+A. Changed
+B. Followed
+C. Approved
+D. Allowed
+Answer: B
+
+Question 4:
+Which choice completes the text with the most logical and precise word or phrase?
+
+City planners need accurate maps of their city's sidewalks to properly maintain them, but mapping manually is slow. Maryam Hosseini and her team addressed this by training a computer program to identify sidewalks in aerial images of Boston. When they used the program on aerial images of Brooklyn, it accurately _____ sidewalks and could even distinguish between concrete and brick.
+
+
+A. mistook
+B. approved
+C. detected
+D. neglected
+Answer: C
+
+Question 5:
+Which choice best states the main idea of the text?
+
+From meerkats to leaf beetles, many animals practice some form of brood care (caring for offspring). Chenyang Cai and team claim to have found the earliest evidence of this behavior in insects in 163.5-million-year-old remains from the Haifanggou Formation in China, a location that has yielded many fossils, including those of long-proboscid scorpionflies. Cai and team examined 157 specimens of the extinct water boatman species Karataviella popovi and noted thirty individuals that appear to carry eggs on one of their legs. This finding establishes brood care in insects approximately 38 million years earlier than previously known.
+
+
+A. Cai and team's study of K. popovi fossils suggests that brood care in insects began earlier than formerly established.
+B. Cai and team concluded that K. popovi likely carried their offspring on one of their legs.
+C. The Haifanggou Formation is an abundant source of fossilized scorpionflies and K. popovi.
+D. Research shows that long-proboscid scorpionflies inhabited the location that is now the Haifanggou Formation long before K. popovi did.
+Answer: A
+
+Question 6:
+What is the main topic of the text?
+
+The following text is from Angeline Boulley’s 2021 novel Firekeeper’s Daughter. The narrator is an Ojibwe teenager who runs in the morning before going to school. Levi is her younger brother.
+My brother complains about my lengthy warm-up routine whenever he runs with me. I keep telling Levi that my longer, bigger, and therefore vastly superior muscles require more intensive preparation for peak performance. The real reason, which he would think is dorky, is that I recite the correct anatomical name for each muscle as I stretch.
+
+
+A. A popular teacher at the narrator’s high school
+B. The narrator’s warm-up routine before running
+C. The narrator’s feelings about moving to a new town
+D. The job that the narrator’s brother wishes to have in the future
+Answer: B
+
+Question 7:
+Which choice best states the main idea of the text?
+
+Willie Daniels’s Ocean Sunset, a beach scene featuring the silhouettes of two palm trees set against an orange sky and whitecapped green ocean waves, is typical of paintings by the mid-twentieth-century landscape artists now known as the Florida Highwaymen. Even though Florida was rapidly being developed at that time, tourists in particular held the idea that its distinctive tropical and coastal environments represented a pristine natural world, untouched by modernity. As with many Highwaymen paintings, the appeal of Ocean Sunset derived from its ability to capture this sentiment.
+
+
+A. Ocean Sunset and other paintings by the Florida Highwaymen were notable for their ability to appeal to a popular conception about the state of Florida in the mid-twentieth century.
+B. Tourists to Florida in the mid-twentieth century were more likely to admire the sentiments expressed in Ocean Sunset and similar paintings than Florida residents were.
+C. Although Ocean Sunset and other paintings by the Florida Highwaymen were originally celebrated for their depictions of Florida’s natural environments, art historians now question these paintings’ accuracy.
+D. Although many paintings by the Florida Highwaymen have subjects in common, Ocean Sunset is now more highly regarded by critics than other Florida Highwaymen paintings are.
+Answer: A
+
+Question 8:
+Based on the text, which choice best describes why molecular analysis was used in the identification of Chonelasma bispinula but not in the identification of Trophomena mangani?
+
+The Clarion-Clipperton Zone (CCZ) is an expanse of abyssal seabed between Hawai’i and Mexico. Recent samples from the CCZ have shown it to harbor immense biodiversity, including thousands of previously undescribed species of invertebrates. Trophomena mangani and other species from which collecting an appropriate sample for molecular analysis was impracticable were identified solely through morphological analysis, whereas for Chonelasma bispinula, both analyses were conducted.
+
+
+A. Chonelasma bispinula had previously been identified morphologically, whereas Trophomena mangani had not.
+B. The Chonelasma bispinula and Trophomena mangani samples were collected by different groups of researchers with different areas of focus.
+C. The sample of Chonelasma bispinula was less suitable for morphological analysis than the sample of Trophomena mangani was.
+D. It was feasible for researchers to acquire the type of sample they needed to perform molecular analysis on Chonelasma bispinula, but that was not the case for Trophomena mangani.
+Answer: D
+
+Question 9:
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Ohmic heating, a thermal technology used to preserve food on an industrial scale, is generally considered to be an improvement over more conventional thermal preservation methods. Scientists in Latin America have contributed to a better understanding of this technology, with researchers from Chile demonstrating its effectiveness in preserving strawberries. As research continues, scientists hope to make advancements in hybrid systems combining multiple food preservation technologies, which would be advantageous over using ohmic heating alone, given that __it is especially vulnerable to technical breakdowns.__
+
+
+A. It explains why conventional thermal processing methods are popular in commercial applications.
+B. It identifies a flaw of ohmic heating technologies. .
+C. It introduces ohmic heating as a food processing technology.
+D. It suggests an advantage that ohmic heating has over conventional thermal processing methods.
+Answer: B
+
+Question 10:
+According to the text, what did the researchers spot clear signs of in the M. symmetrica?
+
+Arthropods, a group including insects such as ladybugs and crustaceans such as dragon shrimp, do not have a spine. Their nervous systems are made up of a brain and nerves but no spinal cord. Javier Ortega-Hernández, James Weaver, and team studied two fossils of the extinct arthropod species Mollisonia symmetrica. The researchers spotted clear signs of nerves extending into the animal’s body parts. They believe the fossils might also contain rare evidence of a synganglion, a brain-like mass of nerve tissues.
+
+
+A. Skeletons of two ladybugs
+B. Pairs of legs
+C. A new species
+D. Nerves extending into body parts
+Answer: D
+
+Question 11:
+Which statement is best supported by information from the text and table?
+
+Installing a new high-speed rail (HSR) hub in an area has the potential to boost residential development nearby, though the amount and type of development vary considerably by location. This potential is greatest when HSR hubs are established in areas far away from city centers, as these locations tend to have more available land for redevelopment into residential areas.
+Four European High-Speed Rail Hubs
+
+
+
+A. The area around København H has greater potential for residential development than the area around Stuttgart Hbf does.
+B. The area around Kassel-Wilhelmshöhe has greater potential for residential development than the area around København H does.
+C. The area around København H has greater potential for residential development than the area around Belfort-Montbéliard TGV does.
+D. The area around Kassel-Wilhelmshöhe has greater potential for residential development than the area around Belfort-Montbéliard TGV does.
+Answer: B
+
+Question 12:
+Which quotation from a moviegoer would best illustrate Lee’s conclusion?
+
+Book lovers are often eager to watch movies based on literary works they admire. Therefore, when a movie version of Wang Dulu’s novel Crouching Tiger, Hidden Dragon was released in 2000, fans of the novel flocked to theaters. In a study, Klaudia H.Y. Lee concluded that movie adaptations of books can also inspire people to read the original books. She arrived at this conclusion based on interviews with more than three thousand students.
+
+
+A. “Books typically have more details than movies do, so I enjoy books more.”
+B. “Usually if I like a movie that’s based on a book, I’ll try to borrow that book from the library later on.”
+C. “Sometimes if I find a movie interesting, I’ll watch it more than once.”
+D. “When watching a movie with a complicated plot, knowing the basic storyline beforehand can be helpful.”
+Answer: B
+
+Question 13:
+Which quotation from a moviegoer would best illustrate Lee’s conclusion?
+
+Book lovers are often eager to watch movies based on literary works they admire. Therefore, when a movie version of John Irving’s novel The Cider House Rules was released in 1999, fans of the novel flocked to theaters. In a study, Klaudia H.Y. Lee concluded that movie adaptations of books can also inspire people to read the original books. She arrived at this conclusion based on interviews with more than three thousand students.
+
+
+A. “Usually if I like a movie that’s based on a book, I’ll try to borrow that book from the library later on.”
+B. “Sometimes if I find a movie interesting, I’ll watch it more than once.”
+C. “When watching a movie with a complicated plot, knowing the basic storyline beforehand can be helpful.”
+D. “Books typically have more details than movies do, so I enjoy books more.”
+Answer: A
+
+Question 14:
+Which choice most logically completes the text?
+
+Neuroscientist Artin Arshamian and his team sought to determine what affects a person’s perception of an odor as pleasant: is it culture, personal taste, or aspects of human anatomy? The team assessed odor preferences in ten groups of people with different modes of living (urban, agricultural, and hunter-gatherer) including the Semelai people from a small community in the Malay Peninsula and the Seri people from a small community in Mexico. The team observed little cross-cultural variation in the relative ratings of odors such as eugenol, which smells like cinnamon, and mushroom alcohol, which smells like fungus, suggesting that ______
+
+
+A. people from the Malay Peninsula and people from Mexico tended to rate more odors as pleasant than as unpleasant.
+B. although many people from the Malay Peninsula and people from Mexico rated mushroom alcohol as unpleasant, there were also many people from both places who likely rated it as pleasant.
+C. people from the Malay Peninsula tended to rate eugenol as more pleasant than mushroom alcohol regardless of differences in their anatomical characteristics or personal tastes.
+D. if people from Mexico tended to rate mushroom alcohol as less pleasant than eugenol, then people from the Malay Peninsula were also likely to rate mushroom alcohol as the less pleasant odor.
+Answer: D
+
+Question 15:
+Which choice most logically completes the text?
+
+A social species, chickens will cry out to one another in warning if they sense a hawk or other predator nearby. But if alone, a chicken will remain silent so as not to attract the predator’s attention. Sonja Hillemacher decided to use this behavior to determine whether individual chickens possess a capacity to recognize themselves visually when reflected in a mirror (a common standard for animal intelligence). In the first condition of her study, the subject could see its reflection, but no other chickens were present. In a second condition, another chicken was visible to the subject. Hillemacher presented an image of a hawk to the subject in both conditions, reasoning that if chickens lacked a capacity for visual self-recognition, then ______.
+
+
+A. the subject likely would cry out a warning in both study conditions.
+B. the subject would fail to distinguish its reflection from the image of the hawk.
+C. neither study condition would elicit an audible response from the subject.
+D. only the first study condition would elicit an audible response from the subject.
+Answer: A
+
+Question 16:
+Which quotation from The Joy Luck Club most effectively illustrates the claim?
+
+The *Joy Luck Club* is a 1989 novel by Amy Tan. In the novel, Tan suggests that upon smelling fragrant aromas, she felt an intuitive and sometimes unexpected sense of cultural recognition: _____
+
+
+A. "We had a feast of warm pork with lettuce, dumplings, tender fish still tasting of lake weeds, red-bean soup with long dumplings, warm sesame-seed cake dotted with watermelon seeds."
+B. "There is so much about my mother I do not understand. And though the food I cook now is not the same as my mother's, when I cook it, when I taste it, I feel a powerful connection to her."
+C. "Ever since I was a child, the smell of that dish stirred me strangely. It carried the flavors of my ancestors, the love and traditions that went into making it."
+D. "Suyaun began to talk about Chinese people who eat dumplings on the last day of the old year and the first day of the new year. She said dumplings were like hopes—little pieces of filling wrapped up in a dough, with the corners twisted tight."
+Answer: C
+
+Question 17:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In his work, acclaimed Cahuilla ____using basketry, acrylic paintings, and other mediums, explores Native perspectives on truth and beauty.
+
+
+A. artist, and 2007 Eiteljorg Fellowship recipient Gerald Clarke
+B. artist and 2007 Eiteljorg Fellowship recipient Gerald Clarke
+C. artist and 2007 Eiteljorg Fellowship recipient Gerald Clarke —
+D. artist and 2007 Eiteljorg Fellowship recipient Gerald Clarke,
+Answer: D
+
+Question 18:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In 1972, microbiologist Ananda Chakrabarty had two types of patents for a bacterium, Pseudomonas putida, accepted, but a third type was rejected by the patent examiner. It would take the US Supreme Court to confirm a reversal of the examiner’s decision, the court ______ in Diamond v. Chakrabarty (1980) that the bacterium’s status as a living organism was legally insignificant to its patentability.
+
+
+A. would decide
+B. decided
+C. was deciding
+D. deciding
+Answer: D
+
+Question 19:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Nicolay de Caveri, the Genoese geographer responsible for creating a sixteenth-century world map, and Flemish ____ known for showing the world in a cordiform projection, are both remembered for their contributions to the history of mapmaking during the early modern period.
+
+
+A. cartographer Abraham Ortelius,
+B. cartographer, Abraham Ortelius
+C. cartographer Abraham Ortelius
+D. cartographer, Abraham Ortelius,
+Answer: A
+
+Question 20:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Sometimes, when a hippopotamus sniffs the ground, it will open its mouth, curl back its top lip, and expose its teeth. The hippopotamus ______ this behavior, called the flehmen response, to transmit scents to powerful receptors just above the roof of the hippopotamus’s mouth.
+
+
+A. to use
+B. uses
+C. having used
+D. using
+Answer: B
+
+Question 21:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Researchers recently theorized that Copper Age (3500 BCE to 2750 BCE) owl-shaped carvings collected from Iberian archaeological sites were likely toys created by children. This hypothesis, based on comparative analyses of owl drawings made by modern children, is supported by the objects predominantly being crafted from slate—a material that, because of its ______ be easily carved by small hands using rudimentary tools.
+
+
+A. maleability-could
+B. maleability, could
+C. maleability could
+D. maleability could-
+Answer: B
+
+Question 22:
+Which choice completes the text with the most logical transition?
+
+Thousands of years ago, the Olmec civilization's reign over parts of eastern Mexico ended. ______ the Olmecs' massive stone statues of human heads remain. Two of these statues, known as Monument 2 and Monument 53, weigh over 5 tons!
+
+
+A. Therefore,
+B. Secondly,
+C. Still,
+D. Previously,
+Answer: C
+
+Question 23:
+Which choice completes the text with the most logical transition?
+
+Scientists studying forest restoration have discovered that trees depend on complex partnerships with microscopic organisms for survival. The researchers found that special fungi called endophytes live inside tree leaves and serve as a defense mechanism. ___ these endophytes help by fighting off diseases and boosting the tree's immune system.
+
+
+A. Alternatively,
+B. Nevertheless,
+C. Specifically,
+D. In conclusion,
+Answer: C
+
+Question 24:
+Which choice completes the text with the most logical transition?
+
+Germanium is one of a variety of potentially useful trace elements contained in the chemical-rich brine that remains after seawater is purified through desalination. However, routine extraction of germanium and other such elements from brine is not yet technologically or economically feasible. ______ most trace elements have only been extracted from seawater on an experimental basis.
+
+
+A. In doing so,
+B. Similarly,
+C. Finally,
+D. To date,
+Answer: D
+
+Question 25:
+The student wants to describe the format of "4 haiku (for Max Roach)." Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•The poem "4 haiku (for Max Roach)" is by African American writer Sonia Sanchez.
+•It was published in her 2010 poetry book entitled Morning Haiku.
+•The poem is written as a sequence of four haiku.
+•According to the book's publisher, Penguin Random House (PRH), the book "celebrates the gifts of life and mourns the deaths of revered African American figures."
+•According to Sanchez, she chose to write in the form of haiku because it helps "maintain memory and dignity."
+
+
+A. The poem "4 haiku (for Max Roach)" is written as a sequence of four haiku.
+B. The poem "4 haiku (for Max Roach)" was published in the 2010 book Morning Haiku, which "celebrates the gifts of life and mourns the deaths of revered African American figures."
+C. Sanchez chose the form used in the poem "4 haiku (for Max Roach)" because it helps "maintain memory and dignity."
+D. The poems in Morning Haiku (2010) are each written as a sequence of haiku.
+Answer: A
+
+Question 26:
+The student wants to emphasize a difference between Ephydra cinerea and Achromobacter. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•The Great Salt Lake in Utah is one of the world's saltiest bodies of water.
+•The northern portion of the lake has a higher concentration of salt than the southern portion.
+•Aquatic insects called Ephydra cinerea live in the southern portion.
+•Bacteria called Achromobacter live in the southern portion.
+
+
+A. Ephydra cinerea and Achromobacter are different types of organisms: Ephydra cinerea are aquatic insects, whereas Achromobacter are bacteria.
+B. The northern portion of the Great Salt Lake has a higher concentration of salt than does the southern portion.
+C. Ephydra cinerea and Achromobacter both live in the Great Salt Lake's southern portion.
+D. Ephydra cinerea are aquatic insects that live in the southern portion of the Great Salt Lake.
+Answer: A
+
+Question 27:
+The student wants to provide an example of an invasive species.Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•A nonnative species is considered invasive if it causes environmental or economic harm in an ecosystem.
+•Curly pondweed is a species of aquatic plant native to parts of Eurasia.
+•It can also be found in the northern and western US.
+•There, it crowds out native plants and impedes aquatic recreation.
+•It is considered an invasive species in the US.
+
+
+A. In the northern and western US, curly pondweed is an invasive aquatic plant that crowds out native plants and impedes aquatic recreation.
+B. One way a nonnative species of plant could cause harm in an ecosystem is by crowding out native plants and impeding aquatic recreation.
+C. A nonnative species that crowds out native plants and impedes aquatic recreation, causing environmental or economic harm, is considered invasive.
+D. Curly pondweed is an example of an invasive species that causes environmental or economic harm in parts of Eurasia.
+Answer: A
+

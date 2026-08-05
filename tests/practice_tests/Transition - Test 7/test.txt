@@ -1,0 +1,228 @@
+Question 1:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The Madison is a type of line dance that involves neat rows of dancers performing a repeated sequence of steps in unison. ____ many other dances are also defined by order, repetition, and synchronicity, but the Madison is distinguished by its extreme uniformity; when an auditorium full of dancers performs the Madison, one almost gets the impression of a military march.
+
+A. Of course,
+B. However,
+C. Specifically,
+D. Moreover,
+Answer: A
+
+Question 2:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The world’s first airplane, the 1903 Wright Flyer, was not very aerodynamic, as evidenced by its low lift-to-drag ratio of just 8:3. The F-104 Starfighter jet, like most modern aircraft, is far more aerodynamic. ___ its lift-to-drag ratio is more than twice that of the Wright Flyer.
+
+A. However,
+B. Nevertheless,
+C. In conclusion,
+D. Specifically,
+Answer: D
+
+Question 3:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Contemplating the beauty of a natural landscape, the serene speaker of William Wordsworth’s poem Lines Composed a Few Miles above Tintern Abbey (1798) seems wholly insulated from society. As scholars have argued, however, Wordsworth’s retreat to nature was an aesthetic response to—and implicit critique of—England’s rapid industrialization and urbanization at that time. ____ despite its idyllic quality, the poem bears the imprint of the dramatic changes affecting English life.
+
+A. Nevertheless,
+B. For example,
+C. Moreover,
+D. As such,
+Answer: D
+
+Question 4:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+William Shakespeare likely arrived in London as early as 1585, at the age of 21, to pursue a career in the theater. Little is known of his early years there, but by 1593 he was becoming known for plays such as Richard III. ____ in 1599, he would delight audiences with Much Ado About Nothing, considered by some to be one of his greatest works.
+
+A. In other words,
+B. Conversely,
+C. Thus,
+D. Later,
+Answer: D
+
+Question 5:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In astrophysics, a ring of debris orbiting a larger object within the object’s Roche limit is expected to persist as a ring, whereas a ring of debris orbiting outside this limit would likely accrete into a satellite (e.g., a moon). Bruno Morgado and colleagues ____ detected a dense ring of material orbiting the trans-Neptunian object Quaoar at a distance of 2,500 miles, well outside the calculated Roche limit of 1,100 miles, that has remained intact.
+
+A. fittingly,
+B. for example,
+C. likewise,
+D. though,
+Answer: D
+
+Question 6:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Physicist Walter Massey led numerous scientific organizations over his long career. His most prominent appointment came in 1990, when Massey was named director of the National Science Foundation. _____ Massey had served as the first president of the National Society of Black Physicists.
+
+A. In conclusion,
+B. Previously,
+C. Thus,
+D. For example,
+Answer: B
+
+Question 7:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In his painting At the Cycle-Race Track, Jean Metzinger aims to depict a bike race in four-dimensional space. Of course, Metzinger’s painting doesn’t technically represent a fourth dimension; humans can only see in three dimensions. ____ by depicting the race through multiple, simultaneous perspectives, Metzinger offers a fascinating glimpse at what this other universe might look like.
+
+A. For example,
+B. In other words,
+C. Moreover,
+D. That said,
+Answer: D
+
+Question 8:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Upon first approaching artist Kurt Wenner’s Dies Irae, a colorful scene painted on the surface of a cobblestone street in Mantua, Italy, one might assume a deep hole filled with life-sized, classically styled sculptures had opened up in the street. ___ by expertly applying the principles of perspective, Wenner created merely the illusion of depth.
+
+A. Additionally,
+B. Next,
+C. As a result,
+D. On the contrary,
+Answer: D
+
+Question 9:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Every US state has an associated state soil, which is typically selected by a group of experts, then passed through the state legislature to receive its official designation. For example, Arkansas’s Stuttgart soil was formally designated in 1997, and Maine’s Chesuncook soil in 1999. _____ years pass between a soil’s selection and official designation, as the legislative process can be notoriously slow.
+
+A. Often,
+B. Therefore,
+C. Similarly,
+D. Indeed,
+Answer: A
+
+Question 10:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The title of "On Restraint," a piece by Italian thinker Giovanni Rossi, implies a simple, focused theme. Yet, Rossi’s inquisitive and wide-ranging intellect prevented him from confining himself to a single topic. _____ the essay moves beyond restraint to encompass a sweeping examination of Rossi’s entire philosophical perspective.
+
+A. Additionally,
+B. That said,
+C. Lastly,
+D. Understandably,
+Answer: D
+
+Question 11:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Generally, sleek vehicles are more aerodynamic than bulkier ones. The streamlined nose of the Airbus A320 jet, ____ helps it glide through wind with relative ease, while a boxy pickup truck encounters more wind resistance, making it less aerodynamic.
+
+A. for example,
+B. additionally,
+C. meanwhile,
+D. however,
+Answer: A
+
+Question 12:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+One might assume that Germany's Amrumbank West offshore wind farm produces the same amount of energy as land-based wind farms of a similar size. ______ because wind speeds over open water are generally higher than those over land, Amrumbank West's turbines turn faster and produce more energy than do most land farms' turbines.
+
+A. Actually,
+B. For example,
+C. Therefore,
+D. Finally,
+Answer: A
+
+Question 13:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Cornelia Konrads is a German sculptor who creates art that seems to be part of its surroundings. Her sculpture entitled Knotty Knots is built on the wall of a university building in the United States. ___ appearing as two support beams knotted together against the wall, it is cleverly placed into its environment, serving as an example of Konrads’s approach.
+
+A. There,
+B. Later,
+C. For instance,
+D. However,
+Answer: A
+
+Question 14:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+With many elements, like phosphorus, scientists were able to isolate a relatively pure sample of the substance shortly after discovering its existence—but this wasn’t the case with all elements. ______ the isolation process took years. The element radium, for instance, was discovered in 1898 but not isolated until 1910.
+
+A. Thus,
+B. However,
+C. Moreover,
+D. Sometimes,
+Answer: D
+
+Question 15:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As technology has advanced, many countries have sought to gain an advantage in, or even control parts of, space and its celestial bodies. _____ it is the 1967 Outer Space Treaty—signed by Austria, Finland, and over 100 other nations—that curtails these ambitions and ensures that space remains a neutral place for the international community.
+
+A. Consequently,
+B. Specifically,
+C. Alternatively,
+D. Ultimately,
+Answer: D
+
+Question 16:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The Coastal Virginia Offshore Wind project is anticipated to generate 2.6 gigawatts of energy, enough to power almost one million homes. As its name indicates, the project—currently in development—consists of wind turbines located off the Virginia coast. _____ the project plan calls for 176 large turbines to be placed at a site 27 miles east of Virginia Beach.
+
+A. In conclusion,
+B. In contrast,
+C. As a result,
+D. To be exact,
+Answer: D
+
+Question 17:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A band might choose a name that is as unique and original as possible. _____they might name themselves after a recognizable song by a favorite band. This is what the Japanese experimental rock band Boris did when they named themselves after the song ”Boris” by the Melvins.
+
+A. Thus,
+B. Alternatively,
+C. In other words,
+D. For instance,
+Answer: B
+
+Question 18:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Despite its great distance from Earth—it is 550 light-years away—the star Antares is one of the brightest stars in the sky, ranking 15th. Although not as bright as Antares, the star Alphard also ranks among the 50 brightest stars (47th, to be exact). ________ Alphard' s brightness is likely due to the star’s relative proximity: Alphard is only 180 light-years from Earth.
+
+A. Indeed,
+B. Granted,
+C. As a result,
+D. Similarly,
+Answer: B
+
+Question 19:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The principle of textual layering maintains that any editorial addition is created later than the base text into which it is inserted. ______ philologists examining a fourteenth-century chivalric romance can infer that a previously unknown stanza, placed between the existing lines 75 and 76, is later than the original manuscript but earlier than the marginal notes apparently penned two decades afterward.
+
+A. Moreover,
+B. Consequently,
+C. By contrast,
+D. Nevertheless,
+Answer: B
+

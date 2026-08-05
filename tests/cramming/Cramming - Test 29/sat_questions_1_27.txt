@@ -1,0 +1,400 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Though most hoaxes perpetrated as jokes by mischievous users of Wikipedia, an online encyclopedia that almost anyone can freely edit, have quickly been detected and removed, a few fictitious entries, such as those for the American new wave band Transformatix and the Civil War general George K. Broomhall, persisted on the site for many years before they were finally recognized as ___ and deleted.
+
+
+A. enhancements
+B. pranks
+C. revelations
+D. analyses
+Answer: B
+
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Pacific halibut is an ectothermic (cold-blooded) fish, whereas the yellowfin tuna is a regional endotherm; unlike that of ectotherms, its body temperature remains above the ambient water temperature. The basking shark had been classified as a full ectotherm, but researchers Haley R. Dolton et al. found that its body temperature remains 1.0 to 1.5°C above ambient, which is ____ that classification.
+
+
+A. incongruous with
+B. subordinate to
+C. opportune for
+D. indicative of
+Answer: A
+
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Green hydras and certain other species lack functional ocular organs, so they use different mechanisms to navigate their surroundings. Licheng Yuan and colleagues investigated how Chinese red-headed centipedes ______ their lack of eyes and other organs with photoreceptors (light-detecting cells) by relying on thermal receptors to recognize and subsequently avoid sunlight.
+
+
+A. compensate for
+B. capitalize on
+C. depend on
+D. advocate for
+Answer: A
+
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Though most hoaxes perpetrated as jokes by mischievous users of Wikipedia, an online encyclopedia that almost anyone can freely edit, have quickly been detected and removed, a few entries that knowledgeable readers should have realized were _____, such as those for the American new wave band Transformatrix and the 19th-century German poet Emilia Dering, persisted on the site for many years before they were finally recognized as falsehoods and deleted.
+
+
+A. spurious
+B. compulsory
+C. scrupulous
+D. palpable
+Answer: A
+
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+The following text is from Yung Wing’s 1909 memoir My Life in China and America. Yung Wing was the first person from China to graduate from a US university.
+__Little did I realize when in 1845 I wrote, while in the Morrison School, a composition on “An Imaginary Voyage to New York and up the Hudson,” that I was to see New York in reality.__ This incident leads me to the reflection that sometimes our imagination foreshadows what lies uppermost in our minds and brings possibilities within the sphere of realities.
+
+
+A. It foreshadows Yung’s eventual success as a writer.
+B. It indicates Yung’s unwillingness to distinguish between reality and fantasy as a child.
+C. It illustrates the sense of adventure that Yung developed as a child.
+D. It describes an event in Yung’s life that exemplifies a phenomenon.
+Answer: D
+
+
+Question 6:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+High-speed rail systems, in which trains can move at great speeds, are expanding in many countries because high-speed rail can reduce the number of automobiles on the road and ultimately conserve energy. In Morocco, for instance, 186 kilometers of high-speed rail lines are in operation as of 2023, and 1,287 kilometers are under construction.
+
+
+A. The text notes a general trend and then cites an example of that trend.
+B. The text summarizes an argument and then offers a challenge to that argument.
+C. The text questions a course of action and then suggests alternatives to that action.
+D. The text rejects a long-held belief and then proposes a different interpretation.
+Answer: A
+
+
+Question 7:
+[Cross Text]
+Which choice best describes a difference in what the author of Text 1 and the author of Text 2 believe about female birdsong?
+
+**Text 1** 
+For decades, ornithologists assumed that if they saw a singing Cassin’s finch—a bird species found in temperate North America—they must be observing a male trying to attract a mate or claim territory. As Peter J. B. Slater and Nigel I. Mann have emphasized, however, a similar assumption can’t be made about birds in the tropics, where females sing as often as males do. Slater and Mann call for more research on this discrepancy between tropical and temperate female birdsong.
+**Text 2** 
+Recent evidence shows that a female Cassin’s finch is as capable of song as a male is. In fact, female birdsong is more common among temperate species than currently assumed, claim Evangeline Rose and colleagues. These female songbirds sing less frequently than males do, and in duller tones, making it “easy for researchers to miss the quiet and hidden females and focus on the loud and colorful males,” says Rose.
+
+
+A. The author of Text 2 thinks that among tropical species, females sing less frequently than males do, whereas the author of Text 1 thinks that females sing as frequently as males do.
+B. The author of Text 2 would likely disagree with the author of Text 1 about whether it can be assumed that females of temperate species don’t sing.
+C. The author of Text 2 believes that female birdsong is much more common among tropical species than the author of Text 1 believes.
+D. The author of Text 2 would likely reject the claim by the author of Text 1 that among tropical birds, females sing as frequently as males do.
+Answer: B
+
+
+Question 8:
+[Cross Text]
+Based on the texts, what do the author of Text 1 and the author of Text 2 mainly disagree about?
+
+Text 1
+ *Ollantay* is a play in Quechua, an Indigenous language in South America. The play portrays life in the Inca Empire before Spain invaded in the 1500s. Yet the oldest known text of the play is from 1770, and in many places its writing style resembles the writing style of Spanish plays from the 1700s. Thus, *Ollantay* was probably created in the late 1700s by someone who knew much about the Inca past.
+Text 2
+ *Ollantay* includes details of Inca society that a writer in the 1700s wouldn’t have known about. Also, the play’s structure matches descriptions of the structure of Inca drama from the 1500s. The obvious explanation is that *Ollantay* itself is an Inca work from the 1500s. It could have been performed continuously from the 1500s to the 1700s. By the time it was written down in 1770, it could have easily been influenced by later Spanish plays.
+
+
+A. What inspired a Spanish writer in the 1700s to write a play about the Inca Empire
+B. Whether Ollantay is an Inca play from the 1500s or was instead created much later, in the 1700s
+C. How the Inca author of Ollantay knew so much about plays from Spain
+D. Why Inca plays became more popular in the 1700s than they had been when they were first performed in the 1500s
+Answer: B
+
+
+Question 9:
+[COE]
+What does the text most strongly suggest about the value of Drelichman and Voth’s research to their discipline?
+
+Mauricio Drelichman and Hans-Joachim Voth’s research on the fiscal vulnerability of Philip II (who ruled not only Spain but other regions including Milan from 1556 to 1598) builds on other studies of European early modern state finance, including Hoffman and Norberg’s work on the relationship between state finance and political development. But Drelichman and Voth’s unique contribution is their reconstruction of the earliest extant set of annual fiscal records for any sovereign state, which demonstrate that Philip’s defaults were caused by short-term liquidity crises, not long-term unsustainable debts.
+
+
+A. Drelichman and Voth’s research uses newly compiled evidence to eliminate one possible reason Philip II defaulted on his debts and to affirm another.
+B. Drelichman and Voth’s research revealed the role of Philip II’s debt defaults in exacerbating short-term liquidity crises.
+C. Drelichman and Voth’s research builds on earlier work about a particular aspect of European early modern state finance by Hoffman and Norberg and corrects errors in that earlier work.
+D. Drelichman and Voth’s research presented a novel body of evidence supporting Hoffman and Norberg’s hypothesis regarding why Philip II defaulted on several loans.
+Answer: A
+
+
+Question 10:
+[Structure]
+Which choice best states the main idea of the text?
+
+Dubautia carrii is among the twenty-eight species of silversword plants found only on the Hawaiian archipelago that collectively illustrate the process of adaptive radiation, or the rapid diversification of an ancestral species into different, related species. Each silversword species is physically distinct, with mature plant forms ranging from trees and shrubs to vines. However, they all descended from a common tarweed plant species, with their unique physical characteristics emerging as they adapted to the archipelago’s many specific habitats over time.
+
+
+A. All silverswords that grow on the Hawaiian archipelago have similar physical characteristics.
+B. The Hawaiian archipelago exhibits many distinct habitats and species.
+C. Most plants that grow on the Hawaiian archipelago are descendants of a single founder species.
+D. Silverswords are good examples of adaptive radiation on the Hawaiian archipelago.
+Answer: D
+
+
+Question 11:
+[COE]
+Which choice best describes data from the table that support the researchers' conclusion?
+
+Observed Traits in a Population of Broadleaf Arrowhead, by Flowering Date
+
+The mating environment hypothesis predicts that populations of flowering plants compensate for reduced mating opportunities due to dichogamy (a plant's expression of male and female functions at separate times to prevent self-pollination) by adjusting the bias of floral sex allocation during the flowering period, increasing the probability of successful cross-plant pollination. Researchers tested the hypothesis by examining a population of broadleaf arrowhead, a plant for which bloom onset generally takes longer for male flowers than for female flowers, during the flowering season. They concluded that the mating environment hypothesis is not well supported by their observational data.
+
+
+A. Whereas the total number of open flowers per growth unit peaked on day 15, the proportion of male flowers experienced a peak earlier in the flowering season, on day 10.
+B. Despite the sharp reduction in the total number of open flowers per growth unit from day 15 to 20, there was no decline in the estimated reproductive success rate of male flowers in that interval.
+C. Sex allocations were largely evenly distributed on days 10 and 15 but were female biased on days 5 and 20.
+D. Although sex allocations became overwhelmingly female biased by day 20, male flowers' estimated reproductive success rate did not vary from day 5 to 20.
+Answer: D
+
+
+Question 12:
+[COE]
+Which finding, if true, would most strongly support the researchers' conclusion?
+
+The utilization of deceptive antipredator displays is well documented in the little ringed plover (Charadrius dubius) and other species of the avian order Charadriiformes. An extensive literature review conducted by Léna le Fraonard et al. revealed that this trait has evolved across a surprisingly large phylogenetic distribution of 13 avian orders, including Caprimulgiformes and Gruiformes. Subsequent investigation of potential selection mechanisms prompted the researchers to conclude that independent of avian order, the prevalence of the trait is mediated by environmental variations associated with the absolute latitude of brooding sites.
+
+
+A. Across the orders in the study, approximately 54% of the bird species brood in ranges from 50° to 80° absolute latitude, but most of the birds that are known to use deceptive antipredator displays brood between 0° and 30° absolute latitude.
+B. Deceptive antipredator displays are documented in Charadriiformes species across the entire range of absolute latitudes for brooding sites within that order, but in species from other orders, deceptive antipredator displays are documented only when brooding sites are at absolute latitudes 10°–20° higher than what is typical for those species.
+C. The use of deceptive antipredator displays is widespread among Charadriiformes species independent of the absolute latitude of their brooding sites, but its prevalence in other avian orders is limited to species with brooding sites located in absolute latitudes of 0°–30°.
+D. Across the orders in the study, deceptive antipredator displays are observed in approximately 34% of species with brooding ranges of 0°–30° absolute latitude and approximately 60% of species with brooding ranges of 50°–80° absolute latitude.
+Answer: D
+
+
+Question 13:
+[COE]
+Which finding from the study, if true, would most directly support the researchers’ conclusion?
+
+Almost all works of fiction contain references to the progression of time, including the time of day when events in a story take place. In a 2020 study, Allen Kim, Charuta Pethe, and Steven Skiena claim that an observable pattern in such references reflects a shift in human behavior prompted by the spread of electric lighting in the late nineteenth century. The researchers drew this conclusion from an analysis of more than 50,000 novels spanning many centuries and cultures, using software to recognize and tally both specific time references—that is, clock phrases, such as 7 a.m. or 2:30 p.m.—and implied ones, such as mentions of meals typically associated with a particular time of day.
+
+
+A. Novels published after the year 1800 include the clock phrase "10 a.m." less often than novels published before the year 1800 do
+B. Among novels published in the nineteenth century, implied time references become steadily more common than clock phrases as publication dates approach 1900
+C. The time references of noon (12 p.m.) and midnight (12 a.m.) are used with roughly the same frequency in the novels
+D. Novels published after 1880 contain significantly more references to activities occurring after 10 p.m. than do novels from earlier periods
+Answer: D
+
+
+Question 14:
+[COE]
+Which quotation from “A Pair of Silk Stockings” most effectively illustrates the claim?
+
+"A Pair of Silk Stockings" is an 1897 short story written by Kate Chopin. In the story, Mrs. Sommers attends a play, which she experiences as a temporary escape from the circumstances of her daily life: ______.
+
+
+A. “The play was over, the music ceased, the crowd filed out. It was like a dream ended.”
+B. “But there were vacant seats here and there, and into one of them she was ushered, between brilliantly dressed women who had gone there to kill time and eat candy and display their gaudy attire.”
+C. “It was a little later when she entered the theatre, the play had begun and the house seemed to her to be packed.”
+D. “When she entered [the restaurant] her appearance created no surprise, no consternation, as she had half feared it might.”
+Answer: A
+
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+As exemplified by Yi songs about the natural environment and Tlingit songs about wildlife encounters, ecological information can be transmitted in Indigenous songs, and in some instances is maintained only in this way. Kwaxsistalla Wathl'thla, a song keeper for the Kwakwaka'wakw people in Canada, collaborated with ethnologist Dana Lepofsky et al., sharing songs referencing terraced intertidal clam gardens the people implemented in the past to foster healthy development of a dietary staple. Drawing on archaeological evidence as well, Lepofsky et al. determined that the prevalence of the practice described in the songs corresponded with growth in clam size and abundance despite increased harvesting pressure—a finding that demonstrates that _____
+
+
+A. representation of practical applications of ecological knowledge is the defining characteristic of the music of certain Indigenous peoples.
+B. the Kwakwaka'wakw people likely would not have detailed their creation of clam gardens in songs if their efforts had not produced significantly larger clams.
+C. the clams harvested from intertidal terraces by Kwakwaka'wakw people in the past likely were a different species than the clams found in those areas today.
+D. effective methods for the cultivation of sources of sustenance are among the ecological knowledge preserved in Indigenous songs.
+Answer: D
+
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Occurring in the constellation Perseus, 240 million light-years from Earth, SN 2006gy was a ______ explosion of a massive star, which blasts large amounts of radiation, heavy elements, and debris into space—that was first detected by American astronomer Robert Quimby.
+
+
+A. supernova: the
+B. supernova, the
+C. supernova. The
+D. supernova—the
+Answer: D
+
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Branching in Jurisprudential Schools is one of the hundreds of thousands of manuscripts that have survived from roughly the sixteenth century to the present ______ being passed down through private libraries in the city of Timbuktu, Mali. Many of these manuscripts can be found at the Al-Wangari Manuscript Library.
+
+
+A. day by
+B. day; by
+C. day.By
+D. day by,
+Answer: A
+
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Historians have analyzed the 19th-century industrial mill for its specific impact on the Manchester economy. The facility shouldn't be defined as purely an outcome of regional _______ the scope of the technological innovations, which vary from steam engine improvements to automated weaving techniques.
+
+
+A. A) factors, however, noting
+B. B) factors, however. Noting
+C. C) factors; however, noting
+D. D) factors; however noting
+Answer: A
+
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Many works of the Greek mathematician Archimedes (3rd century BCE), including his text on optics, Catoptrica, have been lost to time. Antiquarians _____ to read one of Archimedes’ extant works—not one known only through references to it by other authors, that is—might instead procure a copy of his Psammites, a treatise on mathematics and astronomy.
+
+
+A. hope
+B. hoping
+C. hoped
+D. have hoped
+Answer: B
+
+
+Question 20:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+While studying joro spiders, a large species originally from East Asia, University of Georgia researchers wondered if the spiders’ rapid spread throughout the southeastern US was a result of aggressive behavior. ______ they discovered that joro spiders are gentle giants who react to even minor disturbances by “freezing” in place for an hour or more.
+
+
+A. In other words,
+B. Therefore,
+C. For example,
+D. Instead,
+Answer: D
+
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The parks of San Jose, California, seem to be making people happier. In a 2022 study, researchers _____ for a relationship between the physical location in which a social media post was created and the content of that post analyzed geotagged social media posts from San Jose. The team found that posts from the city’s parks contained more words associated with
+happiness than other posts did.
+
+
+A. were looking
+B. looked
+C. looking
+D. had looked
+Answer: C
+
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+German meteorologist Alfred Wegener, known for his groundbreaking theory of continental drift, did not have the mechanism fully understood; his hypothesis for what powered the continents' movement—the "pole-fleeing force"—was incorrect and rejected by his contemporaries. Even with this flawed explanation, ______ Wegener was revolutionary for compiling evidence that the continents were not fixed, but had moved over geological time.
+
+
+A. therefore,
+B. in fact,
+C. moreover,
+D. though,
+Answer: D
+
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In a hypothetical family tree, it is common for a parent in the first generation to exhibit a given trait, such as dimples, and for none of that parent’s children (second generation) to inherit it. ______ the grandchildren (third generation) could inherit dimples or another such trait from the grandparent.
+
+
+A. Nonetheless,
+B. Specifically,
+C. Besides,
+D. In addition,
+Answer: A
+
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+John Quincy Adams employed the pseudonym “Marcellus”—a reference to a leader of an ancient Roman army—in political essays he wrote in 1793, a choice that accomplished far more than simply concealing his authorship. ______ It wasn’t an arbitrary pen name but rather a complex rhetorical strategy through which Adams aligned his political views with the venerated republican ideals of the ancient world, thereby bolstering the authority of his writing.
+
+
+A. Conversely,
+B. In addition,
+C. However,
+D. Indeed,
+Answer: D
+
+
+Question 25:
+[Synthesis]
+The student wants to make a generalization about the germination of seeds ingested by bats. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Mikaela Marques Pulzatto and M.S. Dainez Filho published a study in 2017. In it, the researchers found that ingestion by bats had a positive effect on the germination of Cecropia pachystachya plant seeds.
+• Jorge E. López and C. Vaughan published a study in 2004. In it, the researchers found that ingestion by bats had a neutral effect on the germination of Senna fruticosa plant seeds.
+• Katrin Heer, Larissa Albrecht, and Elisabeth K.V. Kalko published a study in 2010. In it, the researchers found that ingestion by bats had a negative effect on the germination of Ficus obtusifolia plant seeds.
+
+
+A. Seed ingestion by bats can have varying effects on seed germination.
+B. As was found in the 2017 study, ingestion by bats has a negative effect on the germination of plant seeds.
+C. Over the years, researchers have studied the effect that seed germination has had on ingestion by bats.
+D. Bat ingestion has consistently been found to have a positive effect on seed germination.
+Answer: A
+
+
+Question 26:
+[Synthesis]
+The student wants to paraphrase a quotation from Champ and Freeman to explain the inefficiency of barter economies. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes.
+• Grain was used as commodity money in ancient Sumer.
+• In a commodity money economy, specific goods act as a common unit of monetary exchange that can be used to buy and sell other goods.
+• In a barter economy, goods are traded directly between parties without the use of money.
+• Economists Bruce Champ and Scott Freeman: bartering requires that 'the person with whom you wish to trade must not only have what you want but also want what you have. The inefficiency is apparent; a great deal of time is spent merely finding someone with whom to trade.'
+• Champ and Freeman: when 'individuals might come to accept one particular good in exchange for other goods even if they do not wish to consume that good...barter economies essentially become monetary economies.'
+
+
+A. According to Champ and Freeman, the inefficiencies of barter economies become apparent when goods are traded between parties without the use of money.
+B. The precise alignment of desires that barter economies require, Champ and Freeman contend, makes them inefficient.
+C. In a barter economy, Champ and Freeman contend, goods are traded directly between parties without the use of money, leading to inefficiency.
+D. Champ and Freeman argue that inefficient barter economies can become monetary economies if a good becomes a unit of exchange.
+Answer: B
+
+
+Question 27:
+[Synthesis]
+The student wants to compare the curviness of the two rivers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• A river’s stream length is the length of a line that follows along the river path.
+• A river’s valley length is the length of a straight line drawn from the beginning of the river to the end.
+• The river’s curviness, or sinuosity, is the ratio of the river’s stream length to its valley length.
+• Low-sinuosity rivers have a stream length 1–1.5 times longer than their valley length, and high-sinuosity rivers have a stream length 1.5 or more times longer than their valley length.
+• The Embarras River in Canada has high sinuosity.
+• The Luni River in India has low sinuosity.
+
+
+A. The high-sinuosity Luni River in India is curvier than the low-sinuosity Embarras River in Canada.
+B. In both the Embarras and the Luni rivers, curviness is determined by comparing stream length to valley length.
+C. By comparing the stream lengths of the Embarras and Luni rivers to their valley lengths, one can calculate their curviness, or sinuosity.
+D. The Embarras River’s ratio of stream length to valley length, also known as sinuosity, is greater than that of the Luni River.
+Answer: D

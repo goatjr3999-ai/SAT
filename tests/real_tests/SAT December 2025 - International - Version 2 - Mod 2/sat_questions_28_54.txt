@@ -1,0 +1,373 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Analysis of preserved plants cataloged in the Southeast Regional Network of Expertise and Collections indicates that rising temperatures correlate with earlier leaf production, but such specimens represent only brief moments in plants’ overall development. ______ this research with studies involving live plants would enable a fuller understanding of how these observed changes affect plant fitness.
+
+
+A. Categorizing
+B. Complementing
+C. Foregrounding
+D. Anticipating
+Answer: B
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In the Metropolitan Museum of Art’s Costume Institute’s innovative multisensory exhibit of garments and accessories spanning four centuries, an emphasis on the ______ of fashion was conveyed both by the exhibit’s theme of perpetual renewal in nature and, more subtly, by its scientific re-creations of ephemeral elements (like a fragrance worn with a dress more than a century ago).
+
+
+A. definitiveness
+B. partiality
+C. superficiality
+D. transience
+Answer: D
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Highly skilled specialists can often distinguish modern forgeries from authentic historical paintings on the basis of subtle deviations from the historical artist’s style and techniques, but since no painter is truly ______ scientific tests of paints, canvases, and frames are sometimes used to establish whether a painting could have been made during a given historical artist’s lifetime.
+
+
+A. autonomous
+B. inimitable
+C. contemporaneous
+D. prolific
+Answer: B
+
+Question 4:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+The synthesis of novel superheavy elements, such as copernicium (Cn), has led theorists to consider the feasibility of synthesizing all possible chemical compounds. In 2022, Guillermo Restrepo calculated the historical rates at which newly discovered compounds have entered the scientific literature, expanding the "chemical space." __Using a conservative estimate of the number of viable compounds and assuming a doubling of the historical pace of discovery__, Restrepo found that under these hypothetical conditions, all potential compounds could be synthesized and documented by 2050.
+
+
+A. It introduces information that helps explain why the synthesis of superheavy elements has rapidly expanded the chemical space.
+B. It makes a comparison between the past and current rates at which new chemical compounds have entered the scientific literature.
+C. It emphasizes the point implicitly made earlier in the text that human inefficiency is the primary constraint on the expansion of the chemical space.
+D. It provides details about the qualification later in the sentence regarding the prospect of cataloging the full range of possible chemical compounds
+Answer: D
+
+Question 5:
+[COE]
+Taken together, the three underlined portions most clearly serve which function in the text as a whole?
+
+The following text is from Rachel Heng's 2023 novel *The Great Reclamation*. Ah Boon is fishing off the coast of Singapore.
+**
+When he pulled up the nets, they contained only one kind of fish—__black pomfrets__**, the flat diamonds of their bodies slick in the morning light. This uniformity did not surprise him; over the years, he’d learned that the waters here were temperamental. They could be relied upon for a good catch, but from time to time threw up only **__prawns or squid__**, and other times **__colorful varieties of fish__** that weren’t even supposed to be found in this region. He’d grown to accept the unpredictability, embracing it as a game to be played, like the reading of tea leaves or the grooves of a palm.
+
+
+A. They illustrate the changeable nature of the fishing grounds where Ah Boon is.
+B. They emphasize the wide variety of sea creatures that Ah Boon has caught on this particular fishing trip.
+C. They underscore Ah Boon’s lack of surprise at seeing sea creatures that aren’t usually found in the region.
+D. They provide examples of what Ah Boon most frequently catches in the area.
+Answer: A
+
+Question 6:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+The following text is from Yung Wing’s 1909 memoir My Life in China and America. Yung Wing was the first person from China to graduate from a US university.
+__Little did I realize when in 1845 I wrote, while in the Morrison School, a composition on "An Imaginary Voyage to New York and up the Hudson," that I was to see New York in reality.__ This incident leads me to the reflection that sometimes our imagination foreshadows what lies uppermost in our minds and brings possibilities within the sphere of realities.
+
+
+A. It describes an event in Yung's life that exemplifies a phenomenon.
+B. It indicates Yung's unwillingness to distinguish between reality and fantasy as a child.
+C. It foreshadows Yung's future difficulties in publishing his writings.
+D. It illustrates the role that education played in Yung's childhood.
+Answer: A
+
+Question 7:
+[Cross Text]
+Based on the texts, how would the author of Text 2 most likely respond to the description of Asimov's characters in the underlined portion of Text 1?
+
+Text 1
+Isaac Asimov, author of The Naked Sun and Pebble in the Sky, is highly regarded despite his mediocre writing style. His prose is workmanlike; __his characters are flat__ and discuss ideas rather than emotions. That his work is enjoyable despite this is a testament to his prodigious imagination --- even if people read his books only for the ideas, they will have plenty to consider.
+Text 2
+Asimov is critiqued for his style, but it is wrong to fault a writer for failing to do what he never intended to do. For example, although most of his novel Foundation consists of people discussing science and politics and we find out little about his characters' lives, Asimov wanted to convey the vast sweep of human history over centuries, and one of his points is that at such a timescale, individuals don't matter. Thus his lack of characterization is central to his thematic aims.
+
+
+A. Asimov's characterizations would have been richer if he had possessed a deeper understanding of history.
+B. The flatness of Asimov's characters is a feature of The Naked Sun and Pebble in the Sky but not of Foundation.
+C. Asimov's characterizations would have been more believable if his writing had discussed fewer ideas.
+D. The flatness of Asimov's characters should not necessarily be considered a flaw in his writing.
+Answer: D
+
+Question 8:
+[Structure]
+Which choice best states the main idea of the text?
+
+Research by economists Wei Feng and Jinzhe Yan indicates that the degree of linguistic abstraction in negative reviews influences how consumers perceive businesses: reviews with concrete details were more likely to result in stronger attributions of fault to companies than vague reviews were. They also found that varying levels of linguistic abstraction in reviews require different types of responses to mitigate their effects. Conciliatory responses were most effective at mitigating the impact of concrete reviews, whereas more defensive responses were more useful when reviews were relatively abstract.
+
+
+A. Given its implications for companies' reputation among consumers, the level of linguistic abstraction in negative reviews is an important consideration when companies devise a response strategy.
+B. When negative reviews provide specific details, they are more likely to damage companies' public perception, and efforts by companies to mitigate this damage are less likely to be successful than when negative reviews are vague.
+C. Increasing linguistic abstraction in negative reviews correlates with the degree to which consumers hold companies accountable for negative experiences, but companies can mitigate this effect by responding to such reviews promptly.
+D. Consumers are more likely to find companies blameworthy for negative consumer experiences if the companies are overly defensive and linguistically abstract in their responses to negative reviews than if their responses are accommodating and linguistically concrete.
+Answer: A
+
+Question 9:
+[COE]
+Which statement about the mycelium of the twenty mushroom species is best supported by the text?
+
+Radamés Cordero et al. have confirmed that twenty mushroom species (including Coprinellus micaceus and species from the genus Hortiboletus) maintain subambient temperatures in both their fruited bodies and their mycelium (the root-like hyphae from which the fruited bodies grow), though the benefits of this hypothermic behavior are unclear. Noting that relative coldness was more pronounced in fruiting than in nonfruiting sites of the mycelium --- a difference that persisted even after fruited bodies were detached --- the researchers speculate that thermoregulation in the mycelium may influence reproductive success.
+
+
+A. The correlation between higher mycelium temperature and greater fruit productivity indicates that successful reproduction may be dependent on thermoregulation in the mycelium.
+B. The mycelium generally maintains temperatures lower than those of the fruited bodies even when considering temperature variations between fruiting and nonfruiting sites.
+C. Temperatures in the fruiting areas of the mycelium are lower than in the nonfruiting areas due to differences in the depth and spread of the mycelium within soil or other organic matter.
+D. Variation in thermoregulation across the mycelium may occur independent of the presence or absence of fruited bodies.
+Answer: D
+
+Question 10:
+[COE]
+What does the text most strongly suggest about Poe's work and American readers?
+
+The following text is from William Carlos Williams's 1925 creative nonfiction book in the American Grain. Williams is discussing how works by nineteenth-century Us poet and fiction writer Edgar Allan Poe were received by American readers.
+Poe must suffer by his originality. Invent that which is new, even if it be made of pine from your own yard, and there's none to know what you have done. It is because there's no name. This is the cause of Poe's lack of recognition. He was American. that which is under your nose which seems inexplicable.
+
+
+A. American readers failed to appreciate Poe's work because of its novelty and the fact that it reflected aspects of the American character too ingrained in those readers for them to comprehend.
+B. Poe's work had few admirers among American readers because it tended to present a negative image of American life and institutions.
+C. Poe's work was so innovative that there was not even terminology to describe it, which led American readers to regard both the work and Poe himself as strange but quintessentially American.
+D. American readers largely overlooked Poe's work because its tone and subject matter were out of keeping with mainstream literature.
+Answer: A
+
+Question 11:
+[COE]
+Which statement, if true, would most directly support the claim in the underlined sentence?
+
+Most Native languages belong to language families, or groups of languages whose similarities in vocabulary and grammar suggest shared descent from a single language spoken long ago. In contrast, the language spoken by the Esselen people in a mountainous area of Central California was an isolate, or a language with no demonstrated relationship to other languages. Isolates are more prevalent in mountainous regions than elsewhere, likely because challenging terrain inhibits the geographical expansion of language families. __Yet it is clear that geographical barriers on their own cannot fully explain this aspect of the distribution of indigenous languages in California and elsewhere in the present-day United States.__
+
+
+A. In mountainous regions of the western US, isolate-speaking peoples historically met most of their food needs through foraging, hunting, and fishing rather than intensive farming
+B. Esselen and other isolates spoken in mountainous regions of California tend to contain many more terms describing features of mountainous terrain than nonisolate languages from relatively flat regions of California do.
+C. Shoshone, a language in the Uto-Aztecan family, was originally spoken in a vast expanse of Idaho, Nevada, Oregon, and Wyoming - a region whose mountainousness rivals that of the homeland of the Esselen people.
+D. Although Native languages in non-mountainous areas of California tend to belong to language families, those families do not necessarily share common linguistic ancestry.
+Answer: C
+
+Question 12:
+[COE]
+Which finding, if true, would most directly support Núñez and colleagues’ claim?
+
+Rafael Núñez and colleagues studied how members of the Yupno, an Indigenous group in Papua New Guinea, conceptualize time in both spoken language and gestures. The researchers recorded Yupno speakers explaining certain temporal words and phrases, such as kalip bishop, a past-oriented expression that translates to “past times,” and coded each speaker’s manual gestures. Previous research has found a tendency in many cultures to make temporal distinctions along imagined linear axes: for instance, Spanish speakers often refer to the left/right axis to describe events in time. Some researchers believe this tendency is universal, but Núñez and colleagues claim this is not the case.
+
+
+A. Future-oriented gestures used by Yupno speakers do not, on average, point in the opposite linear direction of past-oriented gestures.
+B. Some Yupno grammatical structures used when talking about time are also used in Spanish.
+C. Yupno speakers were observed making temporal gestures both indoors and outdoors, though with greater frequency when indoors.
+D. Yupno speakers typically use their left hand to make temporal gestures regardless of whether the gestures are past oriented or future oriented
+Answer: A
+
+Question 13:
+[COE]
+Which choice most effectively uses data from the table to complete the text?
+
+The percent of cities and towns in a given period that persist from a prior period (backward continuity) and the percent that persist into a later period (forward continuity) are known to correlate positively with economic and political stability in a region. Researchers studying demographic trends in the Indigenous societies of ancient Mexico determined both continuity measures for the Yautepec Valley, which lay within the macroregional hegemony of the city-state of Teotihuacan from roughly 100 BCE until roughly 450 CE, after which point Teotihuacan declined. The team concluded that ______.
+
+
+
+
+
+
+A. Teotihuacan’s hegemony imposed stability on the Yautepec Valley, mitigating the decrease in the compound average annual growth rate of the valley’s population as well as the decrease in the number of cities and towns there in the Early Classic and Middle Classic.
+B. values for both backward and forward continuity in the Yautepec Valley were consistently higher during the centuries of Teotihuacan’s hegemony than they were in the period following the collapse of the hegemony.
+C. Although the forward continuity data suggest that the decline of Teotihuacan occasioned economic and political instability in the Yautepec Valley, these developments were nonetheless associated with a net increase in the valley’s population.
+D. the marginal decrease in the compound average annual growth rate of the Yautepec Valley’s population in the Early Classic was likely associated with the widespread abandonment of cities and towns established in the Terminal Formative.
+Answer: C
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+In 2003, the US state of Florida enacted rate stability regulations (RSRs), constraining insurance companies' latitude to raise premiums (the periodic fees policyholders pay to maintain insurance policies) after policies are in effect. RSRs are effective at protecting existing policyholders from price volatility, but Naoki Aizawa and Ami Ko note that since dynamic pricing of premiums is an important risk-mitigation tool for insurers, RSRs may lead some insurers to scale back or entirely cease selling new policies in the affected market, thereby reducing the competitive pressure that typically restrains premium prices for new policies. Thus, Florida's RSRs may ______.
+
+
+A. benefit policyholders at the expense of nonpolicyholders seeking to acquire policies
+B. reduce premium price volatility once policies are in effect but increase risks for policyholders.
+C. prevent large increases in premium prices for new policies despite leading to fewer insurers offering such policies in the affected market.
+D. be more advantageous for insurers than they are for either current or prospective policyholders.
+Answer: A
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+In an analysis of medieval urbanization in Ipswich, Bamberg, and other European settlements, researchers drew on modern urban scaling theory, which posits that population density in core urban areas increases as a city grows larger. Hypothesizing that this typical relationship would have differed in medieval settlements because of the constraining influence of strong hierarchical social structures (which are much less pronounced in modern cities) on social networking and economic integration-drivers of urban agglomeration-the team created a model that accounted for the presence of restrictive institutions. They found that the typically expected density-size relationship held for each of the 173 medieval settlements whose growth they analyzed, suggesting that ______
+
+
+A. despite a change in the role of social structures over time, there is likely a notable consistency between medieval settlements and modern cities in underlying elements of the social and economic interactions among individuals that shape the development of core urban areas.
+B. the social and economic dynamics that affect urban agglomeration were likely much different in medieval settlements than in modern cities, despite the similarity across time in population density patterns.
+C. Although there tends to be a positive relationship between population size and development of core urban areas for both medieval settlements and modern cities, social institutions are likely limited the rate at which population density increased in medieval settlements.
+D. the constraining influence of hierarchical medieval institutions likely had a significant effect on individuals in some social groupings but little to no effect on members of other social groupings.
+Answer: A
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In the book A Theory of Harmony (1985), Swiss musicologist Ernst Levy argued that every chord has an opposite that can be substituted for it. For example, a pianist could replace the bvii6 chord for the I7 chord while ______ chord is a given chord’s opposite can be determined using a music visualization tool called the circle of fifths.
+
+
+A. improvising. Which
+B. improvising and which
+C. improvising, which
+D. improvising which
+Answer: A
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+“Streetwide and bitter as hope / strewn between El Salvador and San Francisco.” These lines are from a poem by Chicano ______ whose early career as a campesino informs the dialogue on Mexican American politics and identity that unfolds in his work.
+
+
+A. writer Juan Felipe Herrera
+B. writer, Juan Felipe Herrera
+C. writer, Juan Felipe Herrera
+D. writer Juan Felipe Herrera,
+Answer: D
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Los Angeles-based artist Henry Taylor's large, vibrant paintings of prominent Black figures such as Olympian Alice Coachman (See Alice Jump, 2011) and artist David Hammons (Hammons meets a hyena on holiday, ______ celebrated by admirers of twenty-first-century portraiture, attracted legions of new fans in 2024 when they were included in a popular Taylor retrospective at the Whitney Museum.
+
+
+A. 2016) have long been
+B. 2016), long
+C. 2016), had long been
+D. 2016) were long
+Answer: B
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Among the small magazines animating London's vibrant literary scene in the early twentieth century was ______ by Dora Marsden and featuring poetry by Amy Lowell, Allen Upward, and William Carlos Williams; essays by Muriel Ciolkowska and Huntly Carter; and fiction by Rebecca West, this magazine publicized the work of influential avant-garde writers and artists of the day.
+
+
+A. The New Freewoman, edited
+B. the New Freewoman; edited
+C. The New Freewoman. Edited
+D. The New Freewoman edited
+Answer: C
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The extensive impact that selenium nanoparticles (SeNPs) have had on medicine belies their minuscule size, the nanoparticles typically from only 10 to 45 billionths of a meter.
+
+
+A. can range
+B. will range
+C. ranging
+D. range
+Answer: C
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Signal Check is a 2014 film still by Canadian director Mei Huang. Like many of Huang’s stills, the work features a pair of gloves. Clasping a clipboard, one glove _____ covered in tracking codes, the gloves imply an out-of-frame technician on the edge of reporting.
+
+
+A. is pristine and the other is
+B. pristine, the other is
+C. is pristine, the other
+D. pristine and the other
+Answer: D
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The moon Leda orbits Jupiter in the same direction that the planet rotates. _______Leda’s orbit is described as prograde. Eupheme, another of Jupiter’s moons, orbits in the opposite direction, so its orbit is described with the opposite term: retrograde.
+
+
+A. Next,
+B. Hence,
+C. In reality,
+D. Nevertheless,
+Answer: B
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+On a chilly spring morning in a Virginia park, as sunlight crested the treetops, Kathrin Swoboda raised her Nikon D500 camera and captured an image that would win the Grand Prize in the 2019 Audubon Photography Awards: a red-winged blackbird, exhaling what appeared to be rings of smoke._____ the "smoke" was actually the blackbird's breath hitting the cold morning air as the bird sang.
+
+
+A. Therefore,
+B. Furthermore,
+C. For example,
+D. Of course
+Answer: D
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Born in Liberty, Mississippi, in 1922, musician Andy Rodgers is best known as a key figure in the development of the Delta blues, a variant of blues that originated in the Mississippi Delta region. ______ steeped in the fertile music scene that sprung up in the alluvial delta between the Mississippi and Yazoo Rivers, Rodgers and his peers developed their distinctive stripped-down, guitar-driven style.
+
+
+A. There,
+B. Nevertheless,
+C. Thus,
+D. Moreover,
+Answer: A
+
+Question 25:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Followers of the philosopher Hegel argue that sound reasoning must be forged by the tension of the dialectic, which is to say, each stage of a thought’s progression should contain within it the very seeds of its negation. ______ Hegelians resist the notion that logic is weakened by contradiction, believing the latter to be a necessary precursor to the former.
+
+
+A. However,
+B. Still,
+C. Finally,
+D. Accordingly,
+Answer: D
+
+Question 26:
+[Synthesis]
+The student wants to emphasize a similarity between the astronauts Morgan and Wheelock. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Extravehicular activities (EVAs) are activities performed outside a spacecraft by astronauts in outer space.
+• EVAs are also known as spacewalks.
+• Andrew Morgan is a US astronaut who has performed 7 spacewalks.
+• The total time of Morgan's spacewalks was 45 hours and 48 minutes.
+• Douglas Wheelock is a US astronaut who has performed 6 spacewalks.
+• The total time of Wheelock's spacewalks was 43 hours and 30 minutes.
+
+
+A. Morgan and Wheelock have each performed multiple spacewalks.
+B. EVAs, also known as spacewalks, are activities done by astronauts outside a spacecraft.
+C. Morgan has performed spacewalks, but Wheelock has performed EVAs.
+D. Wheelock has spent less time performing spacewalks than Morgan has.
+Answer: A
+
+Question 27:
+[Synthesis]
+The student wants to present the aim of the study. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Researchers Gwangsu Kim et al. sought to explore the relationship between the brain’s ability to process natural sounds and its ability to process music.
+• They used an artificial deep neural network (DNN) that models how the brain processes auditory information.
+• The DNN had been trained to detect natural sounds (excluding music).
+• Finding: The DNN spontaneously developed neurons that responded to music but not to other auditory stimuli.
+• Conclusion: The brain’s ability to process music may arise as a by-product of natural sound processing.
+
+
+A. Using an artificial deep neural network, the researchers sought to explore the relationship between the brain’s ability to process natural sounds and its ability to process music.
+B. By training an artificial deep neural network, the researchers aimed to establish that the brain’s ability to process natural sounds arises as a byproduct of processing music.
+C. The researchers used an artificial deep neural network, which spontaneously developed neurons that responded to music but not to other auditory stimuli.
+D. In their study, the researchers evaluated whether an artificial deep neural network could model how the brain processes auditory information.
+Answer: A
+

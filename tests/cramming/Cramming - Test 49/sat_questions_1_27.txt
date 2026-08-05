@@ -1,0 +1,409 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Often, the Nobel Prize in Chemistry is given to a single person, such as Richard Martin Willstätter in 1915. But sometimes the Nobel Committee wants to reward work attributed to two or three individuals, in which case, the award is given ____. For instance, in 2020, Jennifer Doudna was among those awarded for “the development of a method for genome editing.”
+
+
+A. retroactively
+B. ceremoniously
+C. jointly
+D. reluctantly
+Answer: C
+
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Originating in the traditional stories of the *Kanaka Maoli*, the Native Hawaiian people, the literature of Hawaii has a rich history that was later brought to international prominence by writers such as Mary Kawena Pukui. Now, by producing acclaimed works, Eric Chock has ___ his place in that literary tradition.
+
+
+A. extricated
+B. contemplated
+C. subverted
+D. solidified
+Answer: D
+
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Some pieces of music might have an infinite number of possible meanings—the compositions of Phyllis Fergus might be understood in as many ways as there are people to listen to them—and so as long as the evidence a listener uses to support an interpretation is ___, it is difficult to the claim that the interpretation is incorrect.
+
+
+A. inferior
+B. identical
+C. repetitive
+D. reasonable
+Answer: D
+
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Brazilian artist Camila Rosa started her career with a female street art collective called Colectivo Chá. Rosa says that her artistic style has been ______ by her time in the group and her interest in things like punk rock and political movements. Those inspirations can be seen in her artworks’ references to identity and social justice.
+
+
+A. copied
+B. believed
+C. influenced
+D. debated
+Answer: C
+
+
+Question 5:
+[Details]
+Which choice best states the function of the underlined sentence in the text as a whole?
+
+Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship. While horizontal gene transfer is common among prokaryotes—single-celled organisms such as the bacteria *Carnobacterium viridans* and *Moraxella caviae*—it has rarely been observed among eukaryotes (typically multicellular organisms). __However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought__.
+
+
+A. It argues that a particular direction of research concerning horizontal gene transfer is likely to be fruitless.
+B. It indicates a distinction between horizontal gene transfer and vertical gene transfer.
+C. It implies that a common perception of horizontal gene transfer may be inaccurate.
+D. It compares the frequencies with which horizontal gene transfer has been detected in two categories of organisms.
+Answer: C
+
+
+Question 6:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+In Nimipuutimit, an Indigenous language from the interior Northwest region of what is now the United States, *pit’iin’* means “girl,” whereas *pi-pit’in’* is used to refer to two or more girls. __This phenomenon, in which an element of a root word is repeated, sometimes with modification, within another word that is related to the root word, is called reduplication.__ In this case, the element “*pi”* in *pit’iin’* gets repeated in *pi-pit’in’.* There are many examples of this type of reduplication in Nimipuutimit.
+
+
+A. It explains where the language discussed in the text is from.
+B. It contrasts the language discussed in the text with other languages.
+C. It provides English translations of the Nimipuutimit words discussed in the text.
+D. It provides a general definition of the phenomenon discussed in the text
+Answer: D
+
+
+Question 7:
+[Cross Text]
+Based on the texts, how would Tsai et al. (Text 2) most likely respond to Madhusudhan et al.’s research, as presented in Text 1?
+
+Text 1
+Hycean planets are a class of exoplanets (planets outside our solar system) with oceans of liquid water—critical to supporting life—and atmospheres rich in hydrogen. Computer models have determined that for potential hycean planets, the range of the habitable zone (HZ), the distance from a star that allows a planet to retain liquid water on its surface, begins at about 1 astronomical unit (AU). In 2021, Nikku Madhusudhan et al. identified K2-18 b as a hycean candidate, noting that the planet is located right on the inner edge of the HZ.
+Text 2
+In a 2023 paper, Shang-Min Tsai et al. claimed that the hydrogen-rich atmospheres of K2-18 b and other hycean candidates admit wavelengths of light that cause elevated surface temperatures and increased water evaporation. Unlike earlier assessments, Tsai et al.’s calculations therefore placed the inner edge for these planets’ HZ as far out as 3.85 AU.
+
+
+A. By arguing that K2-18 b and other hycean candidates are unlikely to support life because these planets are located too far from the stars they orbit.
+B. By maintaining that Madhusudhan et al. relied on a model whose estimates of surface temperatures on hycean candidates are likely too high.
+C. By stating that the chemical composition of the atmosphere of the hycean candidate Madhusudhan et al. identified suggests that this planet’s surface is unlikely to harbor liquid water.
+D. By observing that unlike the hycean candidate Madhusudhan et al. discovered, most other types of planets with hydrogen-rich atmospheres are likely located within the HZ.
+Answer: C
+
+
+Question 8:
+[COE]
+What does the text most strongly suggest about paintings by Roberts?
+
+Motivated to sell as many paintings as possible, Alfred Hair, an influential figure among the landscape artists known as the Florida Highwaymen, pioneered “fast painting,” which in part involved swift applications of paint. That many of Hair’s acolytes, including Livingston Roberts, imitated the technique accounts in part for the impressionistic qualities that are now synonymous with the group’s shared aesthetic. But not all Highwaymen fully embraced this approach; for instance, though Charles Walker was also prolific, his paintings were executed with greater attention to detail.
+
+
+A. Because of the manner in which they were created, they likely have visual qualities that are regarded as more typical of Florida Highwaymen paintings than the qualities in works by Walker are.
+B. Roberts’s reliance on the technique of fast painting likely accounts for his works being more aesthetically interesting than works by Walker are.
+C. Although it is evident that Roberts adopted some of Hair’s preferred techniques, Roberts’s works are less derivative of works by Hair than is typically acknowledged.
+D. The lack of precision with which they were executed suggests that they are inferior to works by either Hair or Walker.
+Answer: A
+
+
+Question 9:
+[COE]
+Which statement about sonnet cycles is best supported by the text?
+
+When read sequentially, the individual sonnets of a sonnet cycle—a series of fourteen-line poems that rhyme in a fixed pattern—typically evince a loose narrative arc that traditionally dramatizes the speaker’s persistent efforts to win the affections of an aloof addressee, as occurs in Edmund Spenser’s 1595 *Amoretti.* However, by using the sonnet cycle to instead relay a loosely autobiographical account of his travels abroad, modern poet Claude McKay’s series “Cities” subverts entrenched sonnet conventions to reveal the form’s potential for new possibilities.
+
+
+A. Although sonnet cycles are strongly associated with a certain subject matter, this association doesn’t preclude poets from exploring ideas that are relatively unorthodox by the genre’s standards.
+B. Although sonnet cycles generally feature similar narrative arcs related to the speaker’s relationship with another person, there is a remarkable range in the number of perspectives represented within the story arcs of different sonnet cycles.
+C. Although sonnet cycles generally present an overarching narrative structure, some of those narratives, such as the narrative in McKay’s “Cities,” are more cohesive than others.
+D. Although the rigidity of the conventions of sonnet cycles discourages experimentation, sonnet cycles sometimes exhibit truly novel features, as exemplified by McKay’s “Cities” and Spenser’s Amoretti.
+Answer: A
+
+
+Question 10:
+[COE]
+Assuming that the Volga and Don basins supported similarly sized hunter-gatherer populations 6,500–8,000 years ago, which finding, if true, would most directly support Courel and colleagues’ explanation?
+
+Blandine Courel and her colleagues analyzed pottery fragments from thirty-five sites across the Volga and Don river basins to determine whether the ways in which hunter-gatherer societies used pottery in these regions around 6,500–8,000 years ago were influenced primarily by local food availability or primarily by cultural factors. Analysis of organic residues on the pottery fragments showed different prevailing uses for pottery in these locations—cooking and storing terrestrial animal protein at Volga sites and cooking and storing aquatic animal protein at Don sites—which Courel and colleagues attribute to cultural differences.
+
+
+A. Across the Volga and Don basins, people had broadly similar access to the same terrestrial and aquatic animal resources.
+B. The people of the Volga basin acquired the techniques used to create pottery for cooking and storing food from the people of the Don basin.
+C. There were many more bodies of water in a comparably sized area in the Don basin than in the Volga basin.
+D. In both the Volga and Don basins, most of the sites from which pottery has been recovered appear to have been seasonal fishing and hunting encampments rather than year-round settlements.
+Answer: A
+
+
+Question 11:
+[COE]
+Which choice best describes data from the graph that weaken the student’s claim?
+
+Average Total Agricultural Export Growth Rate, Five Years Pre- and Post-FTA with the United States
+
+To measure whether countries in free trade agreements (FTAs)—agreements among nations to reduce tariffs, duties, and other trade barriers—experience changes in total agricultural exports, economist Kayode Aiyelowo and colleagues calculated average export growth rates for several countries over the five years before and the five years after entering an FTA with the United States. The graph shows the results for three countries in the study. Consulting the graph, a student claims that joining an FTA increases the rate of growth of a country’s total agricultural exports.
+
+
+A. All the countries shown had positive growth in agricultural exports over the five years after joining their respective FTAs, but their rates of export growth varied.
+B. Although agricultural exports from Nicaragua grew over the five years after Nicaragua joined CAFTA-DR, their growth rate was even higher in the five years before CAFTA-DR.
+C. Although agricultural exports from Mexico decreased over the five years before NAFTA, a reversal in this trend was observed over the five years after Mexico joined NAFTA.
+D. Over the five years after El Salvador joined CAFTA-DR, agricultural exports from El Salvador grew at a rate of about 21.8 percent, which is higher than the rate over the five years before El Salvador joined the agreement.
+Answer: B
+
+
+Question 12:
+[Infer]
+Which choice most logically completes the text?
+
+From November 1980 to February 1981, oil prices rose 45%, creating what economists term an oil shock. Although oil shocks have occurred multiple times since 1945, a broadly applicable description of how oil shocks affect economies at the national level has proved elusive, a problem typically attributed to the fact that oil shocks’ effects are substantially conditioned on country-specific characteristics (oil import-export ratios, most importantly). Recently, however, Gbadebo Oladosu et al. showed that economists’ estimates of national economies’ responsiveness to oil shocks are highly heterogeneous even within a given country and time frame—ranging by more than a factor of five in the case of the United States during a recent oil shock, for instance—suggesting that ______.
+
+
+A. controlling for variations in countries’ oil import-export ratios may have obscured inconsistencies in economists’ findings about the effects of oil shocks at national levels.
+B. economists’ conventional measures of national economic activity may be insufficiently sensitive to the effects of oil shocks.
+C. methodological discrepancies in studies of oil shocks may have contributed to economists’ inability to provide a generalized model of oil shocks’ effects on national economies.
+D. differences in oil import-export ratios from one country to another may account for more of the differences in the effects of oil shocks on those countries’ economies than economists previously believed.
+Answer: C
+
+
+Question 13:
+[COE]
+Which quotation from The Age of Innocence best illustrates the claim?
+
+The Age of Innocence is a 1920 novel by Edith Wharton set in New York City in the 1870s. In the novel, Newland Archer attends an opera. The narrator describes the New York society to which Archer belongs as preferring familiarity over novelty: _____
+
+
+A. "But, in the first place, New York was a metropolis, and perfectly aware that in metropolises it was 'not the thing' to arrive early at the opera."
+B. "It was Madame Nilsson's first appearance [in an opera] that winter, and what the daily press had already learned to describe as 'an exceptionally brilliant audience' had gathered to hear her."
+C. "To come to the Opera in a [carriage for hire] was almost as honourable a way of arriving as in one's own carriage."
+D. "Though there was already talk...of a new Opera House which should compete in costliness and splendour with those of the great European capitals, the world of fashion was still content to reassemble every winter in the shabby red and gold boxes of the sociable old Academy [of Music in New York]."
+Answer: D
+
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+The advent of online streaming has led many music listeners to drift away from ownership of music (through downloads or through physical media such as compact discs) and toward the streaming services HieartRadio and Tidal, among others. Datta et al. Studied the impact of this change on the variety of music that listeners consume. The researchers reasoned that the ownership model of music assigns a cost per song to acquiring a variety of music, while streaming services typically charge a flat fee for access to an entire music catalog, making variety free, which suggests that ______.
+
+
+A. music publishers who choose to forgo releasing music on physical media are likely to see no change in revenue.
+B. listeners who prefer to purchase compact discs rather than use a service such as HieartRadio or Tidal would tend to listen to older music.
+C. listeners who use streaming services would be more likely to give physical copies of music as gifts to others than to purchase physical copies for themselves.
+D. the music choices of listeners who use streaming services would likely be more varied than those of listeners who do not use streaming services.
+Answer: D
+
+
+Question 15:
+[COE]
+Which choice best describes how Aunt Polly is presented in the text?
+
+The following text is adapted from Mark Twain’s 1876 novel The Adventures of Tom Sawyer. Aunt Polly is having dinner with Tom, her mischievous young nephew.
+Aunt Polly asked [Tom] questions that were full of guile, and very deep—for she wanted to trap him into damaging revealments. Like many other simple-hearted souls, it was her pet vanity to believe she was endowed with a talent for dark and mysterious diplomacy, and she loved to contemplate her most transparent devices as marvels of low cunning.
+
+
+A. The narrator gently makes fun of Aunt Polly’s mistaken confidence in her subtlety.
+B. The narrator humorously exaggerates Aunt Polly’s view of herself as an intellectual.
+C. The narrator characterizes Aunt Polly as being excessively nosy about other people’s private lives.
+D. The narrator emphasizes that Aunt Polly’s intentions are good even when she behaves impolitely.
+Answer: A
+
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Ulster Cycle is an epic poem originally composed in Old Irish. Epic poems are typically ______ that tell a story and focus on heroic deeds.
+
+
+A. a long poem's
+B. long poems
+C. long poems'
+D. a long poem
+Answer: B
+
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Sociologist Alton Okinaka sits on the review board tasked with adding new sites to the Hawai‘i Register of Historic Places, which includes Menehune Fishpond and the Wailuku School. However, Okinaka doesn’t make such decisions ______ all historical designations must be approved by a group of nine other experts from the fields of architecture, archaeology, history, and Hawaiian culture.
+
+
+A. single-handedly;
+B. single-handedly and
+C. single-handedly
+D. single-handedly,
+Answer: A
+
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In their attempt to create a quantum random number generator, K. Muhammed Shafi et al. used a continuous-wave diode laser to fire photons at a periodically-poled potassium titanyl phosphate (PPKTP) nonlinear crystal. A plano-convex lens ______ the laser on the center of the 10-millimeter-long crystal ensured a spot size (a measure of the beam’s diameter) of 85 micrometers.
+
+
+A. focus
+B. focuses
+C. focusing
+D. focused
+Answer: C
+
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The 2020 documentary Without a Whisper—Konnon:Kwe was directed by Katsitsionni Fox. It explores how Indigenous Haudenosaunee culture shaped the woman suffrage movement in the early nineteenth ____ how the personal and political authority Haudenosaunee women had in their communities influenced the first suffragists in the US.
+
+
+A. century. Revealing
+B. century; revealing
+C. century, revealing
+D. century revealing
+Answer: C
+
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In the list “Things That Make One’s Heart Beat Faster” from Sei Shōnagon’s *Pillow Book*, the author delights in a cloudy mirror, rain on a window, and scented robes. So shrewd an observer is Shōnagon, a lady-in-waiting to Empress Teishi, that her book’s musings on tenth-century Japanese courtly life ____ readers a thousand years later.
+
+
+A. fascinate
+B. has fascinated
+C. is fascinating
+D. fascinates
+Answer: A
+
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In his 2011 book, historian Sebouh David Aslanian quantifies the reading patterns of early modern Armenian merchants from New Julfa. Aslanian’s macroanalysis ____ nearly 1,000 book titles published between 1512 and 1800 shows not only the steady popularity of religious texts but also a broadening interest in secular books, especially those on history and geography.
+
+
+A. examined
+B. examining
+C. examines
+D. had examined
+Answer: B
+
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In astrophysics, a ring of debris orbiting a larger object within the object’s Roche limit is expected to persist as a ring, whereas a ring of debris orbiting outside this limit would likely accrete into a satellite (e.g., a moon). Bruno Morgado and colleagues ____ detected a dense ring of material orbiting the trans-Neptunian object Quaoar at a distance of 2,500 miles, well outside the calculated Roche limit of 1,100 miles, that has remained intact.
+
+
+A. likewise,
+B. fittingly,
+C. for example,
+D. though,
+Answer: D
+
+
+Question 23:
+[Synthesis]
+The student wants to identify the title of NoViolet Bulawayo’s first published short story. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•NoViolet Bulawayo is an acclaimed writer.
+•Her first published work of fiction was a short story.
+•It was called "Hitting Budapest."
+•It first appeared in Boston Review in 2010.
+
+
+A. Acclaimed writer NoViolet Bulawayo’s first published work of fiction was a short story.
+B. NoViolet Bulawayo’s first published work of fiction appeared in 2010.
+C. In 2010, a short story by NoViolet Bulawayo appeared in Boston Review.
+D. NoViolet Bulawayo’s first published short story was called "Hitting Budapest."
+Answer: D
+
+
+Question 24:
+[Synthesis]
+The student wants to specify a location where Caspian terns stop during migration. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•The Great Salt Lake is in northern Utah.
+•Caspian terns are migratory birds.
+•They stop at the Great Salt Lake during migration.
+•Brine shrimp thrive in the lake's salty waters.
+•The Caspian terns feed on the shrimp.
+
+
+A. Caspian terns stop to feed during migration.
+B. Caspian terns are migratory birds that feed on brine shrimp.
+C. Migratory birds called Caspian terns feed on brine shrimp, which thrive in salty waters.
+D. During migration, Caspian terns stop at the Great Salt Lake in northern Utah.
+Answer: D
+
+
+Question 25:
+[Synthesis]
+The student wants to emphasize a difference between the two scrolls. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Ike Taiga (1723–1776) was a Japanese painter.
+•Li Bai (701–762) was a Chinese poet.
+•Taiga created the artwork titled Landscape and Couplet of Chinese Verse.
+•The artwork is made up of two scrolls.
+•Scroll 1 features a painting of a lone figure walking among tall, narrow mountains.
+•Scroll 2 features a poem from Li Bai that is about being in nature.
+
+
+A. Made up of two scrolls that each depict nature, Landscape and Couplet of Chinese Verse was created by Li Bai.
+B. Ike Taiga created Landscape and Couplet of Chinese Verse, which is made up of two scrolls that each depict nature.
+C. One of the two scrolls that make up Landscape and Couplet of Chinese Verse features mountains, and one features a portrait of poet Li Bai.
+D. In Landscape and Couplet of Chinese Verse, one scroll features a painting, while the other scroll features a poem.
+Answer: D
+
+
+Question 26:
+[Synthesis]
+The student wants to emphasize a similarity between Macready and Keene. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•In the 1800s, some actors also managed theaters.
+•They were known as actor-managers.
+•William Charles Macready managed the Covent Garden Theatre (London) from 1837 to 1839.
+•He starred in a production of Henry V there in 1838.
+•Laura Keene managed Laura Keene’s Theatre (New York) from 1856 to 1863.
+•She starred in a production of The Seven Sisters there in 1860.
+
+
+A. Macready managed a London theater, whereas Keene managed one in New York.
+B. In the 1800s, some actors (such as Keene) also managed theaters; they were thus considered actor-managers.
+C. As actor-managers, both Macready and Keene managed theaters where they also performed.
+D. Both Macready and Keene were managers of the Covent Garden Theatre in London, where they also starred in various plays.
+Answer: C
+
+
+Question 27:
+[Synthesis]
+The student wants to emphasize a difference between the two plants. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Most of the plant and bird species in Oahu, Hawaii, are non-native.
+•In a 2019 study, researchers wanted to know what role non-native birds play in dispersing plant seeds in Oahu.
+•Researchers catalogued plant seeds found in fecal samples from non-native birds.
+•*Pipturus albidus*, a flowering shrub, was one of fifteen native species catalogued.
+•*Psidium cattleianum*, a fruit tree, was one of twenty-nine non-native species catalogued.
+•Researchers concluded that non-native birds play a vital role in dispersing the seeds of native and non-native plants.
+
+
+A. Most plant species found in Oahu, Hawaii, like Psidium cattleianum, are non-native.
+B. Though Pipturus albidus and Psidium cattleianum can both be found in Oahu, Hawaii, only the former plant is native.
+C. A 2019 study catalogued plant seeds found in bird fecal samples in Oahu, Hawaii, to determine what role non-native birds play in seed dispersal.
+D. Seeds from Pipturus albidus and Psidium cattleianum plants were found in the fecal samples of non-native Hawaiian birds, according to a 2019 study.
+Answer: B

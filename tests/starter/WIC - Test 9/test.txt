@@ -1,0 +1,131 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The work of Tobias Gerstenberg et al. on tracking eye movements supports a theory that people engage in _____ thinking when making causal judgments: when subjects were asked to look at two colliding billiard balls and judge whether one caused or prevented the other’s movement through a gate, their eyes looked at where the target ball would have gone if the ball that altered its path did not exist.
+
+
+A. counterfactual
+B. analogical
+C. ambivalent
+D. associative
+Answer: A
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Apollo Moon landings (1969–1972) brought charged particle detectors and seismic sensors to the Moon and produced large amounts of data. Researcher Renee Weber, who is investigating tectonic activity on the Moon, continues to use Apollo’ s data, demonstrating that the missions’ value to science is _________.
+
+
+A. ongoing
+B. controversial
+C. displaced
+D. original
+Answer: A
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+There are many art exhibitions in the Art Institute of Chicago, but browsing some other art works in the street can _______the visitor’s experience.
+
+
+A. satisfy
+B. supplement
+C. provoke
+D. impede
+Answer: B
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Cuttlefish appear to be surprisingly ________ at exercising self-control: in a 2021 study conducted by behavioral ecologist Alexandra Schnell, these cephalopods routinely demonstrated restraint by delaying gratification, waiting for a favorite treat instead of instantly devouring a readily available meal.
+
+
+A. manageable
+B. awkward
+C. competent
+D. imaginative
+Answer: C
+
+Question 5:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Radar and sonar can detect objects or people through walls, but they are too costly for consumer use. Researchers Fadel Adib and Dina Katabi have shown, however, that there may be a comparatively _________ alternative: small changes to the Wi-Fi technology used in smartphones can give users a cheap way to count people or even identify their gestures through walls.
+
+
+A. infrequent
+B. inexpensive
+C. impractical
+D. unmistakable
+Answer: B
+
+Question 6:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In the United Kingdom, Slovakia, and other countries with strong democratic institutions, the state tends to exert relatively little direct control over economic performance. Though this may seem to ________ the state’ s ability to curb inflation, Raj Desai et al. have shown that strongly democratic states can and do deploy effective counter-inflationary policies.
+
+
+A. extort
+B. underscore
+C. impugn
+D. hamper
+Answer: D
+
+Question 7:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although Hawaiian literature is highly heterogeneous in many ways, it is also characterized by considerable thematic _____; scholars have drawn connections linking works by writers such as Mary Kawena Pukui and Lee Tonouchi to the traditional stories of the Kānaka Maoli, the Native Hawaiian people.
+
+
+A. continuity
+B. subtlety
+C. sophistication
+D. innovation
+Answer: A
+
+Question 8:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The National Heritage Fellowship was created to honor exceptional folk and traditional artists in the United States. In 2006, the fellowship was given to the Puerto Rican stringed-instrument maker Donomedes Matos. Matos was ______ to receive it because of his lifetime contributions to the arts.
+
+
+A. chosen
+B. reluctant
+C. confused
+D. ineligible
+Answer: A
+
+Question 9:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Sanjana Patel has demonstrated that nutritional supplements rarely influence the likelihood that a specific therapeutic protocol being evaluated by the World Health Organization will gain approval, but supplementation is not as ________ as this outcome appears to imply. As Patel herself acknowledges, supplementation might affect which therapeutic protocols WHO evaluators initially choose to examine.
+ 
+
+
+A. misanthropic
+B. inefficacious
+C. tendentious
+D. inimical
+Answer: B
+
+Question 10:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although fewer companies trade their stocks on the Tehran Stock Exchange in Tehran, Iran, than on the stock exchanges in London, Mumbai, or Tokyo, the Tehran Stock Exchange has the advantage of focusing on local companies and thus reflecting economic circumstances ___ Iran. This sensitivity to unique, rapidly evolving local conditions benefits the companies and investors alike.
+
+
+A. irrelevant to
+B. prohibitive in
+C. distinctive to
+D. unchanging in
+Answer: C
+

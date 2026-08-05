@@ -1,0 +1,405 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Studying menus from nineteenth-century restaurants, old coupons clipped out of newspapers, and posters promoting concerts by long-forgotten musicians may seem like a frivolous pursuit, but ephemeral objects like these are useful as evidence of cultural change: they can ______ shifts in norms, values, and concerns that traditional objects of historical inquiry may not.
+
+
+A. dissociate from
+B. collude with
+C. compensate for
+D. attest to
+Answer: D
+
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In the architectural process called modular construction, a building is manufactured in modules under controlled conditions and then assembled at its intended location. ______ of this approach cite the production of less material waste and a faster return on investment.
+
+
+A. Components
+B. Safeguards
+C. Proponents
+D. Epitomes
+Answer: C
+
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+When it comes to crafting policy recommendations to protect species at risk, lessons from previous declines in biodiversity can be especially ______. The factors that contributed to the extinction of the Caribbean ground sloth around 3000 BCE, for example, may be applicable to endangered species today.
+
+
+A. singular
+B. facile
+C. germane
+D. contentious
+Answer: C
+
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The discoverers of the minor planet 2731 Cucula named it after the animal genus that includes cuckoos. Most of the recently discovered minor planets, however, are given only an identification number, a trend that can be ______ to there being over 500,000 such bodies known at present, making it nearly impossible to find a unique name for each.
+
+
+A. attributed
+B. referred
+C. alluded
+D. entrusted
+Answer: A
+
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+The following text is adapted from Matthew Arnold’s 1869 nonfiction book Culture and Anarchy.
+__The Times [a British newspaper], replying to some foreign strictures on the dress, looks, and behaviour of the English abroad, urges that the English ideal is that every one should be free to do and to look just as he likes__. But culture indefatigably tries, not to make what each raw person may like the rule by which he fashions himself, but to draw ever nearer to a sense of what is indeed beautiful, graceful, and becoming, and to get the raw person to like that.
+
+
+A. It presents an opinion with which the author disagrees.
+B. It asserts that the English are not as well known for their sense of taste as they ought to be.
+C. It implies that opinions regarding culture evolve over time.
+D. It details an example that supports the author’s primary claim.
+Answer: A
+
+
+Question 6:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Asteroid 6478 Gault has experienced intermittent mass loss since at least 2013, but in contrast to some other asteroids with repeated mass-loss episodes, 6478 Gault has not lost mass at its perihelion (the closest point of its orbit to the Sun), and thus the loss is not attributable to solar energy-driven ice vaporization. And as Jane X. Luu et al. point out, the singular nature of impact ejection makes it untenable as an account of multiple loss episodes of similar duration over several years. Instead, Luu et al. are likely correct that 6478 Gault is shedding mass due to rotational instability.
+
+
+A. It describes an astronomical finding, discusses competing theories about that finding that the author regards as flawed, and then describes new evidence that supports an alternative theory.
+B. It presents a scientific observation, describes a contrast between that observation and other observations, and then explains why those other observations should not be considered credible.
+C. It introduces a natural phenomenon, refutes two potential explanations for that phenomenon, and then presents a third explanation for that phenomenon that the author regards as plausible.
+D. It discusses a physical process, evaluates possible causes of that process, and then states that a persuasive account of the process has yet to be put forward.
+Answer: C
+
+
+Question 7:
+[COE]
+Information in the text best supports which statement about recommender systems?
+
+R.D. Lawrence et al. found that a recommender system (RS)—an algorithm that generates personalized product suggestions for online shoppers—impacted consumer behavior and increased sales, a result that was corroborated by Dokyun Lee and Kartik Hosanagar. However, Lee and Hosanagar also determined that whereas an RS had a stronger positive effect on item views for utilitarian products (e.g., dish detergents) than for hedonic products (e.g., music albums), the RS had a stronger positive effect on likelihood of purchase for hedonic products than for utilitarian ones.
+
+
+A. While recommender systems can affect consumer behavior toward suggested products, those effects are not uniform in nature and strength across product categories.
+B. By directing customers toward specific product categories on a retailer's website, recommender systems may limit the variety of items seen by online shoppers.
+C. By proposing the most useful options to consumers, recommender systems boost the online visibility of utilitarian items that otherwise tend to be overlooked.
+D. While recommender systems cause consumers to spend more time viewing utilitarian items such as dish detergents, recommender systems' positive effect on purchase rates is likely limited to hedonic items such as music albums.
+Answer: A
+
+
+Question 8:
+[COE]
+According to the text, the difference between Upham and Hafner’s findings and Fernández-Duque and colleagues’ findings can be attributed to which difference between desert kangaroo rats and Azara’s night monkeys?
+
+Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Nathan Upham and John Hafner found to be negatively associated with foraging by desert kangaroo rats but Eduardo Fernández-Duque and colleagues found to be positively associated with foraging by Azara’s night monkeys. This discrepancy is explicable in terms of OFT: the monkeys’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the kangaroo rats.
+
+
+A. The kangaroo rats decrease their foraging activity as lunar intensity increases, whereas the monkeys increase their foraging activity.
+B. The kangaroo rats are more vulnerable to predators than the monkeys are.
+C. The kangaroo rats are less reliant on vision than the monkeys are.
+D. The kangaroo rats encounter different levels of lunar intensity than the monkeys do.
+Answer: C
+
+
+Question 9:
+[COE]
+Which choice most effectively uses data from the table to complete the assertion?
+
+Drosophila (fruit flies) have generation times of 10–12 days, so seasonal changes in humidity and other environmental conditions can drive seasonal fluctuations in chromosome rearrangements in species such as D. persimilis and D. melanogaster. Drosophila body size (for which wing centroid size serves as a proxy measure) correlates with life span. Banu Sögüt and Canisida Aksoy measured the wing sizes of members of D. melanogaster populations in Yesilur, Turkey, that were collected monthly between May and October over three years. Their research suggests that Drosophila collected in relatively cooler months should tend to have a shorter life span, as is illustrated by the finding that _____.
+
+
+
+A. the average monthly low temperature was lower in May than in June.
+B. the average male wing centroid size was 1.98 mm in May but was 2.31 mm in July.
+C. the average male wing centroid size was consistently smaller than the average female wing centroid size in all four months in the table.
+D. the average female wing centroid size was smaller in May than in June.
+Answer: D
+
+
+Question 10:
+[Cross Text]
+Based on the texts, how would the researchers discussed in Text 2 most likely respond to the underlined claim presented in Text 1?
+
+Text 1
+ From about 985 CE to the early 1400s, when they mysteriously abandoned the region, Norse settlers occupied part of Greenland. __Many researchers cite cold weather to explain why the Norse fled.__ The researchers reason that the Norse settlers arrived in the region while the climate was warm and were able to remain there until temperatures declined during the Little Ice Age, which occurred between the 14th and 19th centuries.
+Text 2
+ Raymond Bradley, Boyang Zhao, and colleagues analyzed sediment samples from a lake in Greenland close to the Norse settlement. This allowed them to reconstruct the area's history. The researchers found evidence that the Norse diet relied mainly on food sources from land at the beginning of the settlement period. Their diet changed to sea sources near the end of the period. The team claims prolonged drought rather than cold weather caused this diet switch and ultimately drove the Norse to leave the region.
+
+
+A. They would acknowledge that the evidence regarding the Norse diet confirms cold weather as the main cause for the Norse abandonment.
+B. They would argue that the evidence about the Norse diet supports drought, not temperature, as a reason the Norse settlers fled.
+C. They would present evidence challenging the idea that cold weather caused a diet change for the Norse settlers.
+D. They would agree that the Norse diet would have changed even if the Norse settlers hadn’t experienced the Little Ice Age.
+Answer: B
+
+
+Question 11:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+Examples of Hoards found in Ireland and Northern Ireland
+
+Deposits of valuable objects, or hoards, have been unearthed in many different parts of Ireland and Northern Ireland. Some of these hoards were discovered before 2000; for example, _____
+
+
+A. the Balline Hoard and the Dooyork Hoard were both discovered in the 2000s.
+B. the Broighter Hoard was one of several hoards discovered in the 1800s.
+C. the Dooyork Hoard was discovered in 1940, and the Balline Hoard was discovered in 2001.
+D. the Broighter Hoard was discovered in 1896, and the Balline Hoard was discovered in 1940.
+Answer: D
+
+
+Question 12:
+[COE]
+Which finding, if true, would most directly support Núñez and colleagues' claim?
+
+The phrase **usa-don sonda** is a future-oriented expression used by members of the Yupno, an Indigenous group in Papua New Guinea, that translates to "next week." Rafael Núñez and colleagues recorded Yupno speakers explaining several of these temporal-related words and phrases and coded each speaker's manual gestures. Previous research has found evidence of Spanish speakers referring to the left/right axis to describe events in time, and many researchers believe that this tendency to make temporal distinctions along imagined linear axes is universal. However, Núñez and colleagues claim that this tendency is not in fact ubiquitous.
+
+
+A. Yupno speakers were observed making temporal gestures both indoors and outdoors, though with greater frequency when indoors.
+B. Yupno speakers typically use their left hand to make temporal gestures regardless of whether the gestures are past oriented or future oriented.
+C. Some Yupno grammatical structures used when talking about time are also used in Spanish.
+D. When outdoors and referring to the future, Yupno speakers facing uphill gesture in front of themselves, whereas those facing downhill gesture behind themselves.
+Answer: D
+
+
+Question 13:
+[Cross Text]
+Based on the texts, both authors would most likely agree with which statement?
+
+Text 1
+According to a study by a conservation group representing 11 tribal nations in the Great Lakes region, the northern wild rice (manoomin in the Ojibwe language) will have significantly worse outcomes over the next 50 years if temperatures increase as much as some models suggest. By contrast, the white-tailed deer (waawaashkeshi in Ojibwe) should be able to withstand the highest predicted warming without much harm and so likely won’t require the conservation efforts that the northern wild rice will.
+Text 2
+US government agencies involved in conservation are unfortunately not able to address every possible threat to natural resources. They must use the best information available to decide which species are most threatened and therefore most in need of conservation efforts.
+
+
+A. State, federal, and tribal groups involved in natural-resource management in the Great Lakes region should immediately begin conservation programs for both the northern wild rice and white-tailed deer.
+B. Agencies involved in natural-resource management in the Great Lakes region should focus their conservation efforts more on the northern wild rice than on the white-tailed deer.
+C. A collaborative approach is necessary to keep temperatures in the Great Lakes region from increasing to the highest predicted levels.
+D. Conservation efforts focused on the northern wild rice are more likely to be successful if they incorporate state and federal agency resources with the knowledge of tribal groups in those efforts.
+Answer: B
+
+
+Question 14:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+Interested in how differences in the color of dogs’ irises affect human responses to dogs, Akitsugu Konno et al. showed close-up images of dogs’ faces to human participants and asked them to rate the dogs’ traits and their own attitudes toward the dogs. Konno et al. suggest that differences in iris color led participants to view some dogs as more vulnerable and in need of protection than others and that this phenomenon could help explain the association the researchers observed between iris color and participants’ inclinations to interact with or keep dogs, as illustrated by the finding that _____
+
+
+
+A. the more mature a dog was perceived to be, the more likely participants were to rate it as having light irises.
+B. participants favored the dogs in images 2 and 11, which they rated as less mature than the dogs in images 20 and 16.
+C. participants rated the dog in image 2 as less mature than the dog in image 11 and rated the dog in image 16 as less mature than the dog in image 20.
+D. dogs that participants rated as friendlier were also dogs that participants indicated a stronger willingness to interact with or keep.
+Answer: B
+
+
+Question 15:
+[COE]
+The text makes which point about the difference between the proportions of Quito residents and Lima residents using parks?
+
+In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Quito, Ecuador, and Lima, Peru, were surveyed about parks in their cities. Of the 618 respondents from Quito, 82.9% indicated that they use the city’s parks, and of the 663 respondents from Lima, 72.7% indicated using city parks. Given that the percentage of Quito respondents who reported living within a 10-minute walk of a park was much lower than that reported by Lima respondents, greater proximity alone can’t explain the difference in park use.
+
+
+A. It was much larger than the researchers conducting the study expected.
+B. It could be due to inaccuracies in the survey results.
+C. It was calculated using sources that predate the survey.
+D. It is caused by something other than the parks’ proximity to city residents.
+Answer: D
+
+
+Question 16:
+[COE]
+Which choice best describes data from the table that illustrate Wang et al.'s claim?
+
+Correlations between GPP and Four SIF Data Sets, by Ecosystem Type
+
+A small amount of solar radiation absorbed by plant chlorophyll is reemitted as solar-induced chlorophyll fluorescence (SIF), which is detectable by satellites and can serve as a proxy for photosynthetic activity. The Wang et al. evaluated the potential of several SIF data sets (which vary in accuracy because of factors including variances in spatial and temporal resolution) to estimate plants' gross primary productivity (GPP), the rate of carbon uptake during photosynthesis. Based on their calculations of correlation coefficients, with higher values indicating a stronger relationship between SIF and independently collected GPP data, Wang et al. claim that researchers should consider ecosystem type when selecting the most appropriate SIF data set for inferring GPP for a particular ecosystem.
+
+
+A. CSIF and GOSIF data consistently correlated more strongly with GPP than TROPOMI and MetOpA data did except for croplands.
+B. CSIF and GOSIF data correlated more strongly with GPP than any other SIF data set did for evergreen needleleaf forests but correlated more weakly than TROPOMI data did for closed shrublands.
+C. TROPOMI data indicated that closed shrublands had the highest GPP levels, whereas MetOpA data indicated that woody savannas had the lowest GPP levels.
+D. GPP levels estimated from GOSIF data for wetlands were substantially lower than GPP levels for evergreen needleleaf forests but only moderately lower than GPP levels for croplands.
+Answer: B
+
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Paleontologists Charles Walcott and Harry Whittington meticulously examined fossilized specimens from the Burgess Shale deposit. Their analysis in the early 20th century cemented the importance of an interval around 540 million years ago—widely referenced as the Cambrian _______ complex life forms materialized rapidly, an occurrence that evolutionary theorists continue to debate.
+
+
+A. Explosion—when
+B. Explosion: when
+C. Explosion, when
+D. Explosion when
+Answer: A
+
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Pink Floyd's 1973 album *The Dark Side of the Moon* explores themes of conflict and madness, a powerful commentary on the pressures of modern ______ becomes a record-breaking success that defined the progressive rock genre.
+
+
+A. life, and
+B. life and
+C. life,
+D. life
+Answer: A
+
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+At the Chicxulub asteroid impact crater in Mexico, the presence of many fossilized microbiacteria, which seem to have thrived there despite the extreme heat that persisted after the Chicxulub impact, ______ claims that bacteria are among the planet’s most resilient organisms.
+
+
+A. reinforce
+B. have reinforced
+C. reinforces
+D. are reinforcing
+Answer: C
+
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In Xu Bing’s art installation *Book from the Sky*, each one of the thousands of faux Chinese characters—printed in precise columns on the trio of long scrolls that swoop across the ceiling, on the rows of open books that undulate along the floor, and on the paper walls that stand to the sides—______ no meaning. Invented by Bing, the characters present plausibly and grandiosely, inviting yet punishing those who yearn to decode them.
+
+
+A. hold
+B. holds
+C. have held
+D. were holding
+Answer: B
+
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Residents of Cairo, Egypt, rely on its rapid transit system, the Cairo Metro, for millions of trips each year. ____ city officials strive to maintain the system’s 71 stations to ensure each of these journeys is as smooth as possible.
+
+
+A. For this reason,
+B. However,
+C. For example,
+D. Alternatively,
+Answer: A
+
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The names of chemical elements in the halogen group uniformly describe a key chemical property (e.g., the name halogen itself means “salt-producing”). Names given to many other elements, ______, are of diverse origins. Curium is named after the scientist Marie Curie, for example, while berkelium takes its name from the city of Berkeley, California.
+
+
+A. in turn,
+B. furthermore,
+C. on the other hand,
+D. therefore,
+Answer: C
+
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In quantum physics, Karen Barad’s theory of agential realism—which emphasizes the entanglement, or “intra-action,” of human and nonhuman actors—is a foundational rebuke to the dualistic subject-object divide that has undergirded scientific epistemology for centuries. ______ Barad’s theory presents a paradigmatic shift in the scientific understanding of reality and the quantum world.
+
+
+A. For example,
+B. By contrast,
+C. As such,
+D. That said,
+Answer: C
+
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A double-blind study design is often used in clinical trials to ensure unbiased results when testing a new drug's efficacy. Using this methodology offers a number of advantages, such as preventing both researchers and participants from letting their expectations influence the outcome. ______ by eliminating potential sources of bias (like the placebo effect or researcher expectations), it encouraged an objective assessment of the drug's true effects.
+
+
+A. Moreover,
+B. In other words,
+C. Specifically,
+D. For example,
+Answer: A
+
+
+Question 25:
+[COE]
+Which choice most effectively uses information from the given sentences to begin a narrative about Zaha Hadid’s life?
+
+While researching a topic, a student has taken the following notes:
+•Zaha Hadid (1950–2016) was an architect originally from Baghdad, Iraq.
+•She was the first female recipient of the prestigious Pritzker Architecture Prize.
+•During the initial phase of her career, she produced abstract drawings and designs that were never built, such as The Peak (1983).
+•Later in her career, she realized many physical structures, including the London Aquatics Centre (2011).
+•She is renowned for the fluid geometry and curvature of her designs.
+
+
+A. In 2011, Zaha Hadid completed the construction of the London Aquatics Centre.
+B. Though she eventually constructed buildings like the London Aquatics Centre, Hadid started her career by successfully building The Peak in 1983.
+C. Zaha Hadid’s biography commences in Baghdad, Iraq, where she was born in 1950.
+D. Hadid designed many famous structures, such as the London Aquatics Centre (2011), and was the first woman to win the Pritzker Architecture Prize.
+Answer: C
+
+
+Question 26:
+[Synthesis]
+The student wants to provide a quotation from Chapter 5. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes
+•*The Future of Nostalgia* is a scholarly book by literary theorist Svetlana Boym.
+•The book provides a multifaceted exploration of the concept of nostalgia.
+•Chapter 4 defines a form of nostalgia interested in re-creating the past.
+•Chapter 5 explores the Soviet-style restaurant the Nostalgia Snack Bar in Ljubljana.
+•In Chapter 5 Boym writes, “TheNostalgiaSnackBarTheNostalgiaSnackBar is a new kind space that plays with the past and the present.”
+
+
+A. Svetlana Boym defines a form of nostalgia interested in re-creating the past in chapter 4 of her book.
+B. In a discussion of the Soviet-style restaurant the Nostalgia Snack Bar in Ljubljana, Svetlana Boym writes, “The Nostalgia Snack Bar is a new kind space that plays with the past and the present.”
+C. Svetlana Boym’s The Future of Nostalgia provides a multifaceted exploration of nostalgia.
+D. After defining a form of nostalgia interested in re-creating the past, Boym goes on to explore the Soviet-style restaurant the Nostalgia Snack Bar in Ljubljana.
+Answer: B
+
+
+Question 27:
+[Synthesis]
+The student wants to explain an advantage of the Antelope House dwelling site. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Antelope House is an Ancestral Puebloan dwelling site located in northeastern Arizona.
+•It was built under a rock overhang and inhabited from approximately 1050–1270 CE.
+•The overhanging rock ledges offered protection from heavy rain and snow.
+•Mud Springs Pueblo is an Ancestral Puebloan dwelling site located in southwestern Colorado.
+•It was built on relatively flat terrain and inhabited from approximately 1200–1250 CE.
+•This level surface allowed for the construction of large terraced buildings.
+
+
+A. The relatively flat terrain on which Antelope House was built allowed for the construction of large terraced buildings.
+B. Located in northeastern Arizona, Antelope House is an Ancestral Puebloan dwelling site that was inhabited from approximately 1050–1270 CE.
+C. The location of Antelope House, an Ancestral Puebloan dwelling site in northeastern Arizona, provided an advantage to its inhabitants.
+D. Since it was built under a rock overhang, Antelope House was naturally protected from heavy rain and snow.
+Answer: D

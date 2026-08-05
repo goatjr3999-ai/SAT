@@ -1,0 +1,365 @@
+Question 1:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The financial situation of playwrights in Elizabethan theater was often _____, but being as commercially successful as he was early in his career likely granted William Shakespeare security that contributed to his ability to later create Twelfth Night, Antony and Cleopatra, and other works still revered today.
+
+
+A. indecipherable
+B. justifiable
+C. predictable
+D. precarious
+Answer: D
+
+
+Question 2:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Some social scientists argue that while a belief in the importance of reason and progress is key to democracy, the public’s understanding of history is also central to its subsequent comprehension of a state’s politics, and if an electorate is to function, historical issues cannot remain the dominion only of academics. History is too ______ to leave to historians alone.
+
+
+A. accessible
+B. complex
+C. critical
+D. respectable
+Answer: C
+
+
+Question 3:
+Which choice best describes data from the table that support the researchers’ conclusion?
+
+Average Frequencies of LP Allele in Four European Regions
+
+*Referred to by the names of corresponding present-day nations
+Relatively high average levels of lactase persistence (LP)—which preserves the ability to digest lactose, or milk sugar, into adulthood—have typically been found in past and present populations in which milk, cheese, and other dairy products are a major source of nutrition after infancy. Using genetic data from archaeological sites in Great Britain (such as Amesbury) and across continental Europe, David Reich, Ali Akbari, and colleagues studied average frequencies during Europe’s Iron Age (700-1 BCE) of the allele that confers this trait in Europeans. The researchers concluded that during that period, dairy products were likely a more important part of people’s diet in what is today Great Britain than they were in other parts of Europe.
+
+
+A. The reported average frequency of the LP allele is 73% for Great Britain during the Iron Age, whereas the highest reported average frequency in any of the other European countries shown is 48%.
+B. For each region, the reported average frequency of the LP allele is notably higher for modern times than it is for the Iron Age.
+C. The reported average frequency of the LP allele during the Iron Age is much higher for Great Britain than it is for other parts of Europe.
+D. The reported average frequency of the LP allele during the Iron Age in Great Britain is 50%.
+Answer: C
+
+
+Question 4:
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Guadalupe Romero Villanueva et al. conducted radiocarbon analysis of paint used in rock art at the Patagonian archaeological site Cueva Huenul 1, revealing that images of a comblike motif date to as early as 8,000 years ago, predating other paintings in the region by several millennia. The motif was subsequently reproduced multiple times at the site over the next 3,000 years, __a period coinciding with extremely arid conditions and slightly negative population growth.__ The motif may therefore have functioned to help preserve cultural knowledge during a time of ecological and demographic stress.
+
+
+A. It identifies a consideration that factored into an interpretation of the rock art at Cueva Huenul 1 that is presented in the text.
+B. It provides context that informs the text’s claim about why the peoples of Patagonia chose Cueva Huenul 1 as a culturally significant site.
+C. It emphasizes the historical conditions that explain why production of the painted motif described in the text abruptly ceased after 3,000 years of continued use.
+D. It explains the environmental circumstances that account for the rarity of rock art dating to the same period as the motif discussed in the text.
+Answer: A
+
+
+Question 5:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Quantitative analysis of vast historical data sets and other tools of abstraction allow historians to examine broad phenomena, but such methods _____ the particularity of individual actors. By focusing on singular individuals and incidents in exhaustive detail, Paul Seaver's Wallington's World and other microhistories aim to show how broader phenomena were experienced at a human level.
+
+
+A. misconstrue
+B. efface
+C. preempt
+D. accentuate
+Answer: B
+
+
+Question 6:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Analyzing data on Hemitriceus diops and 378 other bird species from the Tyranni suborder, W. Alice Boyle and Courtney J. Conway found that group foragers are much less likely to seasonally migrate in search of food than solitary foragers are, suggesting that seasonal resource scarcity can be _____ the greater foraging efficiency that group foraging confers.
+
+
+A. Predicated on
+B. Conflated with
+C. Overcome by
+D. Compelled by
+Answer: C
+
+
+Question 7:
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Typically, synthetic leather is petroleum based, but materials scientists searching for an ecologically sustainable alternative have used various bacteria that secrete linear chains of glucose, forming a dense mesh of cellulose called a pellicle, which is leatherlike except in color. The standard process for dyeing leather generates substantial wastewater and other undesirable byproducts, so __adopting such a regimen would run counter to the ecological promise of the pellicle approach.__ To address this, Kenneth T. Walker and colleagues worked to modify Komagataelbacter rhaeticus bacteria to produce a pellicle with embedded pigmentation cells, thereby allowing the pellicle to “dye” itself from the inside.
+
+
+A. To illustrate how the researchers adapted the pellicle approach to overcome a potential impediment to their main goal as presented in the text
+B. To concede that the researchers’ main goal as described in the text will be challenging to achieve due to the standard coloring approach being impractical for use on a pellicle
+C. To indicate the characteristic of conventional synthetic leathers that makes those leathers poorly suited to achieve the researchers’ main goal as presented in the text
+D. To describe a consideration that led the researchers to employ an alternative approach to coloring a pellicle that allowed them to achieve their main goal as presented in the text
+Answer: D
+
+
+Question 8:
+Which finding, if true, would most directly challenge the researchers' conclusion?
+
+Baltimore, Maryland, has installed shoreline-hardening structures—mainly jetties—along 71% of its shoreline to protect infrastructure from wave erosion and other hazards. To evaluate the responses of waterbirds at sites in the Chesapeake Bay on the US East Coast to shoreline hardening and other landscape alterations, Diann Prosser et al. surveyed waterbird communities consisting of sixty-four species, including the tundra swan and the great blue heron. Utilizing the Index of Waterbird Community Integrity (IWCI), on which a low score corresponds to low community integrity, the researchers concluded that shoreline hardening more negatively affects waterbirds than does land development for uses such as housing or agriculture.
+
+
+A. Waterbird communities at Margothy, a site with a relatively low percentage of developed land and a relatively high percentage of hardened shoreline, had lower average IWCI scores than did waterbird communities at Back River, a site with a higher percentage of developed land and a lower percentage of hardened shoreline.
+B. Waterbird communities at Stony and Curtis, two sites with relatively high percentages of developed land and hardened shoreline, had similar IWCI scores, whereas waterbird communities at Ware and Honga, two sites with relatively low percentages of developed land and hardened shoreline, had widely differing IWCI scores.
+C. Waterbird communities at Mill, a site with a relatively low percentage of developed land and a relatively high percentage of hardened shoreline, had higher average IWCI scores than did waterbird communities at Langford, a site with a higher percentage of developed land and a lower percentage of hardened shoreline.
+D. Waterbird communities at Old Road, a site with a relatively high percentage of developed land and hardened shoreline, had lower average IWCI scores than did waterbird communities at Onancock, a site with a relatively low percentage of developed land and hardened shoreline.
+Answer: C
+
+
+Question 9:
+Based on the texts, the author of Text 2 would most like to know the answer to which question about Cruz and colleagues' study that is not addressed in Text 1?
+
+Text 1:
+The University of California, Irvine, and the online class provider edX are two of the many institutions offering training programs in entrepreneurship. But what results do such programs produce? In a study of businesspeople in Spain, researcher Natalia Cruz and colleagues addressed this question and reported that participants who received entrepreneurial training showed high innovativeness in entrepreneurial activities.
+Text 2:
+While studies of entrepreneurial training typically report positive results, a close look at these studies reveals widespread methodological shortcomings. This research literature is plagued by unclear hypotheses, insufficient sample sizes, a lack of control groups, and failures to establish pretraining baselines for the measured attributes of participants.
+
+
+A. Did Cruz and colleagues measure any attributes of the participants in the study after they had received the training?
+B. Did the participants that Cruz and colleagues included in the study share any characteristics or life circumstances?
+C. How many Spanish businesspeople did Cruz and colleagues include in the study?
+D. Did Cruz and colleagues compare Spanish businesspeople who received the training with a group of successful entrepreneurs who did not receive the training?
+Answer: C
+
+
+Question 10:
+Which choice best describes the overall structure of the text?
+
+Pollination syndromes are suites of floral traits (e.g., symmetry) hypothesized to have independently evolved to attract specific pollinators. Jeff Ollerton et al. examined flowering plants from Venezuela and five other locations on three continents, concluding that the syndromes were unreliable in predicting plants’ most frequent pollinators, doing so in only about 30% of species. By contrast, Silvana Martén-Rodríguez et al. produced results that largely corroborated the scientific utility of the syndromes, illustrating why the topic of pollination syndromes remains contentious among ecologists.
+
+
+A. It summarizes a hypothesis, details the results of an investigation challenging that hypothesis, and then discusses research that illustrates a shortcoming of that investigation.
+B. It makes a claim about a phenomenon, outlines an empirical observation related to that phenomenon, and then reports on research that adds greater nuance to scientists’ understanding of that phenomenon.
+C. It introduces a natural process, describes evidence produced by two studies supporting the existence of that process, and then notes why other researchers may be unable to replicate that evidence.
+D. It defines an ecological concept, presents conflicting findings arising from studies of that concept, and then comments on the incongruent findings’ significance.
+Answer: D
+
+
+Question 11:
+Which choice most effectively uses data from the table to complete the statement?
+
+The late Hemphillian (Hh) North American Land Mammal Age includes the subdivisions Hh3, 6.8 million years ago (Ma) to 6 Ma, and Hh4, 6 Ma to 4.75 Ma. While mammalian fossils have indicated that Florida’s Montbrook Fossil Site (MFS) and Palmetto Fauna of the Bone Valley Region (PFBV) date to Hh4, a more precise determination of the sites’ ages has proved challenging. Stephanie R. Killingsworth et al. compared average ratios of strontium-87 to strontium-86 (⁸⁷Sr/⁸⁶Sr) in fossil shark teeth from MFS and PFBV—0.709000 and 0.709023, respectively—to ⁸⁷Sr/⁸⁶Sr ratios in the global strontium seawater curve, a record that shows how ⁸⁷Sr/⁸⁶Sr ratios in seawater correspond to numerical ages and that is used to date fossils and, by extension, fossil sites. The researchers concluded that ______.
+Global Strontium Seawater Curve
+
+
+
+A. mammalian fossil evidence offers less dating precision than do ⁸⁷Sr/⁸⁶Sr ratios in fossil shark teeth and that PFBV likely was deposited closer to the Hh3-Hh4 boundary than was MFS.
+B. the average ⁸⁷Sr/⁸⁶Sr ratios in the fossil shark teeth from MFS and PFBV resolve previous uncertainty about the sites’ relative ages by indicating that both sites were deposited contemporaneously during the late Hh.
+C. the average ⁸⁷Sr/⁸⁶Sr ratios in the fossil shark teeth from MFS and PFBV only partially support the site age estimates previously established through mammalian fossil evidence.
+D. the average ⁸⁷Sr/⁸⁶Sr ratios in the fossil shark teeth from MFS and PFBV corroborate that both MFS and PFBV fall within Hh4 but suggest that PFBV was likely deposited more recently than MFS.
+Answer: D
+
+
+Question 12:
+Which consideration about Bless Me, Ultima do both Text 1 and Text 2 implicitly address?
+
+Text 1: Magical realism, a fiction style that includes fantastical content in realistic narratives, arose in Latin America in the mid-1900s. In 1972, Rudolfo Anaya’s Bless Me, Ultima became the first major work of magical realism in the US. Others followed, including Toni Morrison’s Beloved in 1987, but Bless Me, Ultima should be seen less as a model followed by Anaya’s peers than as an indicator of growing interest in the style among US writers more generally.
+Text 2: In combining the fantastical with the realistic in Beloved, Morrison was inspired by Latin American magical realism, not by Bless Me, Ultima. Anaya’s direct influence can, however, be seen in the work of fellow Mexican American authors. In her 1993 novel So Far from God, Ana Castillo clearly echoes Anaya’s portrayal of Mexican communities in the US and his reliance on Mexican folktales as a source of fantasy.
+
+
+A. Whether Mexican American writers were more influenced by Bless Me, Ultima than writers from other communities were
+B. Whether Beloved or Bless Me, Ultima more closely resembles classic Latin American magical realism
+C. Whether Castillo’s treatment of fantastical content in some of her works suggests that she was influenced by Morrison as well as by Anaya
+D. Whether Anaya’s exploration of magical realism in Bless Me, Ultima directly influenced the later Beloved
+Answer: D
+
+
+Question 13:
+Which choice most logically completes the text?
+
+Because scholars have yet to decipher the script of the Olmec civilization—which flourished in southern Mexico circa 1500 BCE–400 BCE—they are uncertain which language the Olmecs spoke. However, the ancient Olmec sites are situated in the territory of the Mixe-Zoquean family, a group of related languages that includes such present-day representatives as Totontepec Mixe and Rayón Zoque. Moreover, many words in the region’s contemporary Mayan languages—languages otherwise unrelated to the Mixe-Zoquean family—are Mixe-Zoquean in origin. Such lexical borrowing may have occurred because a Mixe-Zoquean language served as a medium of cultural exchange throughout southern Mexico during the era of Olmec hegemony, which would suggest that _______
+
+
+A. the language of the Olmec civilization likely belonged to the same language family as Totontepec Mixe and Rayón Zoque.
+B. the languages of the Mixe-Zoquean and Maya peoples alike may derive from a precursor language spoken in the region before the rise of the Olmec civilization.
+C. speakers of Mayan languages likely used Totontepec Mixe and Rayón Zoque as mediums of cultural exchange even after the decline of the Olmec civilization.
+D. the Olmecs may have spoken a language that was closer to Mayan languages than to Mixe-Zoquean languages.
+Answer: A
+
+
+Question 14:
+Which choice most logically completes the text?
+
+During the Bronze Age, collections of metal objects (called hoards) were buried for safekeeping all over Britain. Earlier discoveries of these hoards, such as the discovery around 1931 of the Towednack hoard (which included gold jewelry from the 10th century BCE), were rare and often accidental. But since the 1960s, advancements such as inexpensive metal detectors, ground-penetrating radar, and aerial surveys have made it much easier to locate hoards while they are still underground. A more recent find like the 2011 discovery of the Boughton Malherbe hoard was thus much more likely than a pre-1960s discovery to ______
+
+
+A. include gold jewelry.
+B. include rare items from the 10th century BCE.
+C. result from artifacts being unearthed accidentally.
+D. occur before the ground was disturbed.
+Answer: D
+
+
+Question 15:
+Based on the texts, how would Tsai et al. (Text 2) most likely respond to Madhusudhan et al.’s research, as presented in Text 1?
+
+Text 1
+Hycean planets are a class of exoplanets (planets outside our solar system) with oceans of liquid water—critical to supporting life—and atmospheres rich in hydrogen. Computer models have determined that for potential hycean planets, the range of the habitable zone (HZ), the distance from a star that allows a planet to retain liquid water on its surface, begins at about 1 astronomical unit (AU). In 2021, Nikku Madhusudhan et al. identified K2-18 b as a hycean candidate, noting that the planet is located right on the inner edge of the HZ.
+Text 2
+ In a 2023 paper, Shang-Min Tsai et al. claimed that the hydrogen-rich atmospheres of K2-18 b and other hycean candidates admit wavelengths of light that cause elevated surface temperatures and increased water evaporation. Unlike earlier assessments, Tsai et al.’s calculations therefore placed the inner edge for these planets’ HZ as far out as 3.85 AU.
+
+
+A. By arguing that K2-18 b and other hycean candidates are unlikely to support life because these planets are located too far from the stars they orbit.
+B. By stating that the chemical composition of the atmosphere of the hycean candidate Madhusudhan et al. identified suggests that this planet’s surface is unlikely to harbor liquid water.
+C. By maintaining that Madhusudhan et al. relied on a model whose estimates of surface temperatures on hycean candidates are likely too high.
+D. By observing that unlike the hycean candidate Madhusudhan et al. discovered, most other types of planets with hydrogen-rich atmospheres are likely located within the HZ.
+Answer: B
+
+
+Question 16:
+Which choice most logically completes the text?
+
+The ratio of methane to other atmospheric constituents—represented by a measure called the methane mole fraction—influences a variety of meteorological phenomena, notably precipitation and humidity. For Titan, Saturn’s largest moon, the observational data that exist are too sparse and discrepant to fully constrain the range of the methane mole fraction at various atmospheric levels. Juan Lora and colleagues point out that outputs of the IPSL atmospheric model of Titan, which track closely to observations in some respects, reflect how the model’s developers responded to this challenge: by prescribing a uniform methane mole fraction for the lowest level of the atmosphere. It is therefore important to note that ____.
+
+
+A. even though the model’s outputs sometimes agree with observational data, Titan’s real methane mole fraction is likely higher than the methane mole fraction used in the model.
+B. inconsistencies across the model’s simulations of Titan’s precipitation and humidity could be attributable to variations in the moon’s methane mole fraction.
+C. further observations of Titan may clarify the moon’s methane mole fraction sufficiently for the model to employ a single value rather than a range.
+D. some disagreements between the model’s simulations of Titan’s precipitation and humidity and the moon’s actual precipitation and humidity are to be expected.
+Answer: D
+
+
+Question 17:
+Which choice most logically completes the text?
+
+Like many other genera of wild bees, bumblebees have in recent decades experienced population collapse caused by, among other factors, habitat destruction and climate variation. Bumblebees are also one of the most researched bee genera, second only to honeybees. As a result, ecologists have gained much of their insight about wild-bee declines from bumblebees. In a 2021 paper, zoologist Guillaume Ghisbain notes that bumblebees are among the relatively few wild-bee genera that display social behaviors and dietary generalism (ability to obtain nectar and pollen from a diversity of plant species), two traits that are associated with increased resilience to some specific environmental changes. Ghisbain therefore contends that ____.
+
+
+A. because bumblebees and other bees with generalist diets are less negatively affected by environmental stress than bees with specialized diets are, they are less likely to experience major population changes in the future than bees with specialized diets are.
+B. although bumblebees have been more extensively studied than most wild bees, researchers should not use bumblebees to draw conclusions about the decline of other wild bees, even ones with feeding patterns and levels of sociability that are similar to those of bumblebees.
+C. although bumblebees and many other wild bees have experienced overall population declines in the past, compared with other wild bees, bumblebees are likely at greater risk of being harmed by climate variation than by habitat destruction.
+D. because the responses of bumblebees and other wild bees to environmental threats are not always comparable, researchers need to exercise caution when extrapolating information about wild-bee population declines from bumblebees.
+Answer: D
+
+
+Question 18:
+Which choice best states the main purpose of the text?
+
+Many people use the trademark “Kleenex” to refer generally to facial tissue rather than specifically to products made by Kimberly-Clark, the company that owns the trademark. As legal experts note, this may pose a problem for Kimberly-Clark. In the US, courts can cancel a trademark if they decide that its meaning is no longer specific to the trademark owner’s products. If “Kleenex” were judged to have become a generic term, as “cellophane” was, other companies would be free to use it to promote similar products, making it harder for Kimberly-Clark to stand out from competitors.
+
+
+A. To discuss the legal challenges Kimberly-Clark faces in maintaining the trademark “Kleenex.”
+B. To explain how genericization of trademarks can impact brand exclusivity and market competition.
+C. To compare the trademark issues faced by “Kleenex” and “cellophane” in the US market.
+D. To argue that consumers should use specific brand names instead of generic terms for products.
+Answer: B
+
+
+Question 19:
+Based on the text, how would an advocate of the energy ladder model most likely explain the change observed in Brazil?
+
+In Brazil, use of solid fuel (e.g., coal, wood) as a share of total household fuel use fell by around 70 percent between 2000 and 2019; such shifts are typically explained by appeal to the energy ladder, a model holding that fuel choice is mediated mainly by household income (specifically, high-technology fuels displace solid fuels as incomes rise). Alemu Mekonnen and Gunnar Köhlin’s study of fuel use in Ethiopia shows this model to be reductive, however: household fuel use was heterogeneous, flexible, and influenced by several factors, including households’ cooking habits.
+
+
+A. Between 2000 and 2019, household incomes rose in Brazil, resulting in households meeting a greater proportion of their fuel needs with high-technology fuels.
+B. Beginning in 2000, high-technology fuels became more readily available in Brazil, enabling households of various income levels to shift away from solid fuels.
+C. Solid fuel use declined in Brazil between 2000 and 2019 because changes in household income during that period made solid fuels more expensive relative to income.
+D. Household incomes in Brazil rose from 2000 to 2019, which weakened the association between income and household fuel choice.
+Answer: A
+
+
+Question 20:
+Which finding, if true, would most directly support the scientist’s conclusion?
+
+To boost the performance of oil–absorbing resins, which are used to remove oil and other organic compounds from wastewater, one team of materials researchers created a resin with a novel—albeit very expensive—monomer (a molecule that can chemically bond with analogous molecules to form polymers) synthesized from β-cyclodextrin. Other researchers have produced resins consisting of various much cheaper, commercially available methacrylate monomers, including one derived from benzyl methacrylate (BZMA). Testing all these resins’ capacity to absorb toluene and trichloromethane, two organic compounds, a scientist concluded that when practical considerations were taken into account, the BZMA-derived resin showed the greatest potential for use in wastewater cleanup.
+
+
+A. For both toluene and trichloromethane, the BZMA-derived resin exhibited only modestly lower absorption capacity than the resin synthesized from β-cyclodextrin but higher absorption capacity than other resins consisting of commercially available methacrylate monomers.
+B. Relative to the resin synthesized from β-cyclodextrin and to other resins consisting of commercially available methacrylate monomers, the BZMA-derived resin exhibited superior absorption capacity for toluene but not for trichloromethane.
+C. For both toluene and trichloromethane, the BZMA-derived resin exhibited similar absorption capacity as other resins consisting of commercially available methacrylate monomers and a slightly higher absorption capacity than the resin synthesized from β-cyclodextrin.
+D. Whereas the resin synthesized from β-cyclodextrin exhibited the highest absorption capacity for toluene, the BZMA-derived resin and other resins consisting of commercially available methacrylate monomers exhibited the highest absorption capacity for trichloromethane.
+Answer: A
+
+
+Question 21:
+Which choice best describes the overall structure of the text?
+
+Spoken in Northern California, Karuk is an isolate, or a language that has no demonstrated relationship to other documented languages. The Haida language in Alaska is an isolate as well. However, most Native languages belong to language families, or groups of languages whose similarities can be attributed to shared descent from a single language spoken thousands of years ago. Curiously, isolates are more prevalent in regions where numerous nonisolates are also spoken. Thus, the geographical circumstances that favor the development of isolates may also drive diversification within language families.
+
+
+A. It provides examples of isolates, distinguishes isolates from most other Native languages, then discusses a point of correspondence between isolates and nonisolates.
+B. It compares two isolates, sketches the process by which nonisolates evolve from isolates, then discusses how geography affects the development of isolates and nonisolates alike.
+C. It defines the concepts of isolate languages and nonisolate languages, distinguishes between the regions where isolates and nonisolates are found, then accounts for this geographical distribution.
+D. It names several isolates and nonisolates, proposes a similarity between the two categories of languages, then identifies the respective regions where languages belonging to each category are likely to be found.
+Answer: A
+
+
+Question 22:
+Which choice best states the main purpose of the text?
+
+The following text is adapted from Matthew Arnold’s 1869 nonfiction book Culture and Anarchy.
+The Times [a British newspaper], replying to some foreign strictures on the dress, looks, and behavior of the English abroad, urges that the English ideal is that everyone should be free to do and to look just as he likes. But culture indefatigably tries, not to make what each raw person may like, the rule by which he fashions himself; but to draw ever nearer to a sense of what is indeed beautiful, graceful, and becoming, and to get the raw person to like that.
+
+
+A. It argues that what is beautiful is a matter of fact rather than opinion.
+B. It analyzes the unique sense of taste of the English.
+C. It indicates that opinions regarding culture shift over time.
+D. It makes a claim about one of the principal effects of culture.
+Answer: D
+
+
+Question 23:
+Based on the texts, how would Zeif and Yechiam (Text 2) most likely respond to Kahneman and Tversky’s finding (Text 1)?
+
+Text 1:
+In a seminal 1979 study, Daniel Kahneman and Amos Tversky presented students and college faculty from Israel, Sweden, and the United States with hypothetical questions involving financial decisions. Finding that participants’ responses indicated that losses have a greater psychological impact than equivalent gains do, the researchers formulated the concept of loss aversion, which has since informed research in fields ranging from marketing to law.
+Text 2:
+Dana Zeif and Eldad Yechiam conducted an experiment in which study participants from five countries were exposed to financial choices that involved potential losses of either relatively minor sums of money, such as 20 US dollars (low-stakes contexts), or more substantial sums, such as 100 US dollars (high-stakes contexts). The researchers concluded that only the latter contexts were associated with loss aversion.
+
+
+A. By contending that the attitude toward financial losses that Kahneman and Tversky observed is contingent on the magnitude of outcomes.
+B. By agreeing that experimental results support the idea that some people tend to be more cognizant of financial losses than of gains.
+C. By observing that researchers’ ability to assess feelings about financial decisions is contingent on gathering adequate data about gains and losses.
+D. By disputing Kahneman and Tversky’s claim that a tendency to place excessive emphasis on financial losses accounts for the loss aversion observed in fields such as marketing and law.
+Answer: A
+
+
+Question 24:
+Which choice most logically completes the text?
+
+In classical Greek and Roman mythology, female characters are typically cast as either villains lacking in psychological depth or passive victims who are marginal to these stories, which usually focus on the exploits of male characters. Recently, a subgenre has emerged in which writers reimagine these stories from the perspectives of their female characters, giving them agency and complex motivations. Purists argue that such efforts represent a distinctively modern tendency to impose our own values on past civilizations, obscuring those civilizations’ beliefs. Defenders of the subgenre counter that reimaginings of the myths for new cultural contexts are almost as old as the myths themselves, suggesting that ______.
+
+
+A. the complex motivations given to female characters in modern retellings of Greek and Roman myths reflect a recent shift toward psychological depth in fictional representation.
+B. purists are overlooking a long tradition of adapting Greek and Roman myths to focus on female characters.
+C. bringing female perspectives to the forefront is not indicative of a novel attitude regarding fidelity to Greek and Roman myths’ ideologies.
+D. modern writers’ foregrounding of female characters is chiefly motivated by a desire to counterbalance the primacy of male perspectives among earlier adaptations of Greek and Roman myths.
+Answer: C
+
+
+Question 25:
+Which choice most logically completes the text?
+
+A soil’s microbial community (the microbial taxa present in their relative abundances) is known to affect plants’ nutrient acquisition. Corrine Walsh and colleagues hypothesized that microbial communities could also affect plants’ flavor chemistry, including volatiles and secondary metabolites like glucosinolates. Recognizing that soil moisture varies by location in the wild and could influence plants’ chemistry, Walsh et al. introduced distinct microbial communities to individually potted mustard plants (Brassica juncea) growing in a controlled environment, then measured the plants’ glucosinolates, like 3-methylthiopropyl and allyl (the most prominent), that create the spicy and bitter flavors in mustard. This method thus enabled the researchers to _____.
+
+
+A. Distinguish variations in glucosinolates due to differences in microbial communities from those that in a natural setting may be due to differences in soil moisture.
+B. Disentangle the influence of microbial communities on soil moisture from their influence on glucosinolate content in the plants.
+C. Demonstrate that differences in plants’ flavor chemistry result from differences in the level of glucosinolates regardless of the soil moisture.
+D. Re-create the conditions of studies conducted in the wild that found links between soil microbial communities and levels of 3-methylthiopropyl in mustard plants.
+Answer: A
+
+
+Question 26:
+Which choice best states the main idea of the text?
+
+When Kenyan writer Ngũgĩ wa Thiong’o, who had previously published four novels in English, began writing in his native language, Gĩkũyũ, in the 1970s, several fellow writers and critics cautioned that doing so might make his works inaccessible outside his own community. Some noted that Kiswahili—widely spoken in Kenya and elsewhere in Africa—would be a more practical choice. Rejecting their arguments, Ngũgĩ went on to author dozens of acclaimed works in Gĩkũyũ that have been translated into a total of more than thirty languages.
+
+
+A. Although Ngũgĩ insisted on publishing his first works in Gĩkũyũ, they have since been translated into many other languages.
+B. Although Ngũgĩ’s decision to write in Gĩkũyũ was met with some skepticism, it didn’t prevent him from achieving literary success.
+C. The reaction to Ngũgĩ’s rejection of English illustrates that some literary experts believe that fame is most easily gained by writing in a widely understood language, such as Gĩkũyũ.
+D. In the 1970s, Ngũgĩ became convinced that literature ought to be written in authors’ native languages, and he proceeded to publish many works in Gĩkũyũ.
+Answer: B
+
+
+Question 27:
+Which finding, if true, would most directly support the text’s claim about wireless communication devices?
+
+Piezoelectric harvesters convert kinetic energy (resonance) to electrical energy, precluding the need for external electrical sources. The vibration of a spacecraft, for example, can provide sufficient energy to power many of its sensors piezoelectrically. A newly designed piezoelectric harvester incorporating a highly conductive carbon-fiber-reinforced polymer (CFRP) electrode has been shown to provide steady energy loads during resonance, an absolute prerequisite for wireless communication devices to be powered piezoelectrically.
+
+
+A. The high conductivity of the CFRP is what makes the energy output from a piezoelectric harvester sufficient for wireless communication devices.
+B. The CFRP electrode is incompatible with most wireless communication devices.
+C. Intermittent or unpredictable electrical supply undermines the efficacy of wireless communication devices.
+D. The near-constant kinetic vibration of a spacecraft makes it possible to power its wireless communication devices using only non-CFRP piezoelectric harvesters.
+Answer: C

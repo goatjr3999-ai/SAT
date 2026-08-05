@@ -1,0 +1,259 @@
+Question 37:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Those who looked up at the right time on July 9, 1926, would have witnessed an annular solar eclipse, during which the Moon blocks most of the Sun and causes it to look like a ring of light. ______ stargazers on December 24, 1927, would have seen a partial solar eclipse, during which the Moon only blocks a portion of the Sun and causes it to look like a crescent.
+
+
+A. As a result,
+B. On the other hand,
+C. Simultaneously,
+D. Indeed,
+Answer: B
+
+Question 61:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+When languages are no longer spoken, they are considered extinct. ______ the Umbrian language went extinct around the first century BCE, though it was once widely spoken in parts of central Italy.
+
+
+A. In conclusion,
+B. Therefore,
+C. Admittedly,
+D. For example,
+Answer: D
+
+Question 92:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Kore, one of the eighty known moons of Jupiter, is designated as Jupiter XLIX ("XLIX" means "49"). Roman numerals typically indicate the order in which the moons were named rather than the order of their proximity to Jupiter. It is incorrect to assume, ___ that Kore is the forty-ninth moon from Jupiter in terms of proximity.
+
+
+A. however,
+B. moreover,
+C. finally,
+D. then,
+Answer: D
+
+Question 28:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+F. Julius LeMoyne was an outspoken abolitionist whose Pennsylvania home was a stop on the underground railroad (the network of people and places that some enslaved people used to escape to freedom). It was relatively rare for supporters of the railroad to be secretive about their antislavery views. _____ they were vocal abolitionists like LeMoyne.
+
+
+A. Fittingly,
+B. Granted,
+C. More often,
+D. For example,
+Answer: C
+
+Question 103:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In a 2021 study, Louise Shewan and colleagues used optically stimulated luminescence dating to analyze stone jars excavated from an archaeological site in Laos. The dating method Shewan’s team used, which involves analysis of inorganic mineral grains, is applicable to deposits buried hundreds of thousands of years ago. ______ it isn’t constrained by some fundamental limitations of radiocarbon dating, such as the latter’s age threshold of around 60,000 years and reliance on organic material.
+
+
+A. That said,
+B. For example,
+C. By contrast,
+D. As a result,
+Answer: D
+
+Question 75:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Formerly known as the Southwest Territory, Tennessee was granted statehood by a vote of the US Congress on June 1, 1796, making Tennessee the 16th US state. By comparison, as one of the nation’s original thirteen colonies, Delaware became a state when it ratified the US Constitution on December 7, 1787. ____ New York attained statehood by ratifying the Constitution, becoming the 11th US state on July 26, 1788.
+
+
+A. Therefore,
+B. Nevertheless,
+C. For example,
+D. Likewise,
+Answer: D
+
+Question 52:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+On a chilly spring morning in a Virginia park, as sunlight crested the treetops, Kathrin Swoboda raised her Nikon D500 camera and captured an image that would win the Grand Prize in the 2019 Audubon Photography Awards: a red-winged blackbird, exhaling what appeared to be rings of smoke._____ the "smoke" was actually the blackbird's breath hitting the cold morning air as the bird sang.
+
+
+A. Therefore,
+B. Furthermore,
+C. For example,
+D. Of course
+Answer: D
+
+Question 136:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Plant species known as metal hyperaccumulators can help remove heavy metal pollutants from soil. Sesbania drummondii, or rattlebush, for instance, can absorb a large quantity of cadmium and store it safely in its roots and shoots. ______ its roots may not reach far enough into the soil and could leave trace amounts of cadmium.
+
+
+A. Moreover, the plant is potentially useful in removing accumulated metals;
+B. On the contrary, a pollutant such as cadmium can be removed from the soil;
+C. For this reason, the plant has useful applications in soil quality restoration;
+D. That said, the plant may not always be able to remove all of the pollutant;
+Answer: D
+
+Question 5:
+[Infer]
+Which choice most logically completes the text?
+
+Textile artist Amber Joy Greenidge-Sabral wanted to avoid using harsh synthetic dyes that could be damaging to the environment. ______ she began experimenting with more environmentally friendly natural dye methods, using organic materials like goldenrod and prairie parsley for their natural yellow and red colors.
+
+
+A. Nevertheless,
+B. In actuality,
+C. To sum up,
+D. With this in mind,
+Answer: D
+
+Question 96:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The Geneva Particle Accelerator experiment is expected to produce collision energies of 13 tera-electronvolts, sufficient to simulate conditions moments after the Big Bang. As the experiment's title implies, the project—currently under construction—comprises high-powered particle accelerators located underground near Geneva. _____ the project's blueprint specifies an accelerator tunnel approximately 100 meters beneath the French-Swiss border.
+
+
+A. To be exact,
+B. In conclusion,
+C. As a result,
+D. In contrast,
+Answer: A
+
+Question 149:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As fundamental as it may seem, biologists have failed to reach consensus on what a species is: some cite the biological species concept (Mayr 1942), while others adhere to the genotypic cluster species concept (Mallet 1995). ______ those, supporting a pluralist approach—in place of a single, monistic concept—argue that a diversity of species concepts fits their equally diverse applications within the discipline.
+
+
+A. However, some scholars posit that, outside the human desire to name, species don't exist;
+B. Counterintuitively, this lack of agreement may not be without its virtues;
+C. Accordingly, many biologists seek to find a universal species concept;
+D. Indeed, this definitional stalemate is widely known as the species problem;
+Answer: B
+
+Question 42:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+When it was completed in 1889, the Eiffel Tower in Paris, France, was criticized—even protested—for the novelty of its unique spire-like silhouette. _____ the design is commonplace, found in everything from Eiffel Tower replicas like the one in Rio de Janeiro, Brazil, to structures like the Copenhagen Zoo Tower in Copenhagen, Denmark.
+
+
+A. On the contrary,
+B. In conclusion,
+C. Furthermore,
+D. Nowadays,
+Answer: D
+
+Question 160:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In Spain, citizens must be at least 18 years old to vote in their country’s elections. _____ citizens in Brazil need only be 16 years old to cast their vote.
+
+
+A. By contrast,
+B. For example,
+C. Firstly,
+D. Therefore,
+Answer: A
+
+Question 133:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+If you could travel in a spaceship to Valetudo, one of Jupiter's many moons, you’d find a moon with a prograde orbit. This means that Valetudo orbits Jupiter in the same direction that Jupiter rotates on its axis. ________ at Pasithee, another Jovian moon, you'd find an example of a retrograde orbit, with the moon revolving around Jupiter in the opposite direction.
+
+
+A. In other words,
+B. Specifically,
+C. Elsewhere,
+D. For example,
+Answer: C
+
+Question 101:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As anthropologist Cristina Grasseni explains, many artisanal cheeses in Italy, such as Castelmagno from Piedmont and Mozzarella di Butala Campana from Apulia, are highly valued for their regional authenticity; ______ they are prized for being made using local ingredients and methods typical of their respective geographic regions.
+
+
+A. That is,
+B. Rather,
+C. Still,
+D. Then,
+Answer: A
+
+Question 118:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Soil polluted with cadmium (a heavy metal) is harmful to many plants and animals, but the plant species Phalaris arundinacea, or reed canary grass, can thrive in such conditions. _____ as a metal hyperaccumulator, Phalaris arundinacea absorbs a large amount of cadmium and sequesters it in its roots and shoots, thereby reducing concentrations of this harmful substance in the soil.
+
+
+A. Consequently,
+B. What’s more,
+C. By contrast,
+D. Nevertheless,
+Answer: B
+
+Question 146:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In eastern Mexico, Monument 31 and Monument 3 are the names given to two massive human head statues that were left behind by the ancient Olmec civilization. Both statues are made of stone and are extremely heavy. ____ they each weigh more than 5 tons!
+
+
+A. Earlier,
+B. In any case,
+C. In fact,
+D. Instead,
+Answer: C
+
+Question 89:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Kho kho, a tag-like sport that originated in India, was not a medal sport at the 1936 Berlin Summer Olympic Games. _____ kho kho was featured at the Games as a demonstration sport. Demonstration sports have been featured at past Olympics to showcase lesser-known or regionally significant sports.
+
+
+A. For example,
+B. Rather,
+C. Thus,
+D. Additionally,
+Answer: B
+
+Question 32:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Scientists studying asteroid deflection have focused on secondary objects such as S/2020 (2013 PY6), a moonlet orbiting the near-Earth asteroid 2013 PY6. In 2022 NASA intentionally crashed a probe into just such an object, successfully altering its orbit. Scientists have yet to demonstrate, ______ that 2013 PY6 and other primary objects would be similarly affected.
+
+
+A. for example,
+B. though,
+C. likewise,
+D. moreover,
+Answer: B
+
+Question 116:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+KABU is a Native-run radio station broadcasting from the Spirit Lake Tribe's lands in North Dakota. In 2004, Loris Taylor wanted to make sure that stations like KABU continued to thrive. _____ she founded Native Public Media, a support system for Native radio stations that now includes around sixty stations.
+
+
+A. Regardless,
+B. Besides,
+C. Therefore,
+D. In other words,
+Answer: C

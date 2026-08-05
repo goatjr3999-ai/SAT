@@ -1,0 +1,387 @@
+Question 1:
+Which choice completes the text with the most logical and precise word or phrase?
+
+In New Zealand, France, and other countries with strong democratic institutions, the state tends to exert relatively little direct control over economic performance. Though this may seem to ______ the state's ability to curb inflation, Raj Desai et al. have shown that strong democratic states can and do deploy effective counterinflationary policies.
+
+
+A. hamper
+B. extant
+C. underscore
+D. impugn
+Answer: A
+
+
+Question 2:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Though iconic Brutalist structures, like the Barbican Estate (1976) in London, UK, are known for their visually arresting use of concrete, the choice of the material was also ______. The unprecedented expansion of public services and civic institutions in the United Kingdom during the 1950s–70s required widescale construction, and concrete was inexpensive and plentiful.
+
+
+A. anomalous
+B. pragmatic
+C. polarizing
+D. onerous
+Answer: B
+
+
+Question 3:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Writer Lydia Davis observed that while ______ literary forms, such as the poem, are recognizable as such even as they evolve, there are pathbreaking “intergeneric” forms that might, for example, use elements of both fables and realist narratives to create something unclassifiable. Davis’s own very short literary pieces arguably fit in this category, since they straddle the line between prose and poetry.
+
+
+A. innovative
+B. elusive
+C. established
+D. ambiguous
+Answer: C
+
+
+Question 4:
+Which choice best states the main idea of the text?
+
+The following text is from Nathaniel Hawthorne’s 1830 short story “Sir William Phips.”
+The knowledge, communicated by the historian and biographer, is analogous to that which we acquire of a country by the map,—minute, perhaps, and accurate, and available for all necessary purposes, but cold and naked, and wholly destitute of the mimic charm produced by landscape painting. These defects are partly remediable, and even without an absolute violation of literal truth, although by methods rightfully interdicted to professors of biographical exactness.
+
+
+A. Historians do not agree among themselves about the best methods of recording history.
+B. Maps are more practical to own than paintings.
+C. Historians should not worry if their readers believe they are embellishing the truth.
+D. Historians’ fidelity to the truth often results in work that is less engaging than it could be.
+Answer: D
+
+
+Question 5:
+Which choice best describes how Aunt Polly is presented in the text?
+
+The following text is adapted from Mark Twain's 1876 novel The Adventures of Tom Sawyer. Aunt Polly is having dinner with Tom, her mischievous young nephew.
+Aunt Polly asked [Tom] questions that were full of guile, and very deep—for she wanted to trap him into damaging revelaments. Like many other simple-hearted souls, it was her pet vanity to believe she was endowed with a talent for dark and mysterious diplomacy, and she loved to contemplate her most transparent devices as marvels of low cunning.
+
+
+A. The narrator humorously exaggerates Aunt Polly's view of herself as an intellectual.
+B. The narrator characterizes Aunt Polly as being excessively nosy about other people's private lives.
+C. The narrator emphasizes that Aunt Polly's intentions are good even when she behaves impolitely.
+D. The narrator gently makes fun of Aunt Polly's mistaken confidence in her subtlety.
+Answer: D
+
+
+Question 6:
+Which choice best describes the overall structure of the text?
+
+To facilitate customers’ navigation of online retailers’ product inventories, Vijayakumar Mohanraj et al. and other programmers have developed recommender systems (RSs)—algorithms that suggest items to customers. As demonstrated by Amos Azaria et al., RSs boost sales for online retailers; however, a 2020 study indicated that whereas RSs may have a stronger positive impact on item views for utilitarian products (e.g., clothes irons) than for hedonic products (e.g., chocolates), RSs may have a stronger positive impact on likelihood of purchase for hedonic products than for utilitarian ones.
+
+
+A. It introduces a sales technique, mentions an intended outcome from using that technique, and then discusses how that technique’s ability to achieve that outcome may be uncertain.
+B. It details a solution to a prevalent problem, reports the conclusion of an investigation into that solution’s potential to help businesses, and then summarizes findings that undermine that conclusion.
+C. It indicates the purpose of a particular tool, describes a documented effect of that tool, and then presents information that provides a more detailed view of that effect.
+D. It makes a claim about a specific algorithm, outlines experimental observations of that algorithm’s functioning, and then makes a prediction based on those observations.
+Answer: C
+
+
+Question 7:
+Which choice best describes the overall structure of the text?
+
+In Tunica, an Indigenous language from the lower Mississippi Valley in what is now the United States, the verb for ‘get’ includes a morpheme that is also a verb root meaning ‘take.’ This phenomenon, in which an element of a root word is repeated, sometimes with modifications within another word that is related to the root word, is called reduplication. In this case, the entire word *mili* gets repeated in *milimili*. There are many examples of this type of reduplication in Tunica.
+
+
+A. It presents some specific words in Tunica, describes the general linguistic phenomenon exemplified by those words, and then states that this phenomenon occurs frequently in Tunica.
+B. It identifies the most frequently occurring words in Tunica, explains why it is important that linguists research those words, and then offers some examples of languages other than English into which those words can be translated.
+C. It explains the phenomenon of reduplication, discusses why reduplication has been controversial among scholars, and then argues that an analysis of Tunica could help resolve that controversy.
+D. It describes the relationship between Tunica and several other languages, poses a question about the nature of that relationship, and then answers that question.
+Answer: A
+
+
+Question 8:
+Based on the texts, Malone et al. (Text 2) would most likely agree with which statement about the "approach" described in Text 1?
+
+Text 1
+ Livestock farming and other human activities are significant sources of atmospheric methane (CH₄), but, as Wenxue Ding and colleagues have shown, so too are naturally occurring emissions from sources like peatlands. The team found that a "bottom-up" approach to monitor given natural sources' variability and spatial diffusion, but one promising __approach__ is to use CH₄ flux data from extant monitoring infrastructure as proxies for CH₄ fluxes in unmonitored areas.
+Text 2
+ Sparkle Malone and colleagues examined the United States' network of eddy covariance (EC) towers—the equipment used to track CH₄ fluxes—to evaluate the utility of network data for quantifying biogenic CH₄. Malone et al. found that EC towers are disproportionately concentrated in areas where biogenic CH₄ emissions are known to be elevated, a pattern that seriously compromises the representativeness of network data.
+
+
+A. It could compromise the accuracy of the biogenic CH₄ emissions data that EC towers collect in areas with elevated emissions.
+B. It may suggest that biogenic CH₄ emissions in unmonitored areas are higher than they actually are.
+C. It would only be viable if the EC towers monitoring biogenic CH₄ emissions could detect smaller fluxes than they can at present.
+D. It is likely to be useful for determining biogenic CH₄ emissions in unmonitored areas of some regions but not of most regions.
+Answer: B
+
+
+Question 9:
+Based on the text, what can most reasonably be concluded about the substitution strategies Hoang and Breugelmans developed?
+
+Investigating how online retailers can reduce customer discontent with substitutions for out-of-stock groceries, Dong Hoang and Els Breugelmans conducted an experiment involving over three thousand consumers. Based on the results, the researchers created a set of substitution strategies that include leveraging consumers' purchase histories, if available, and distinguishing between product categories like potato chips, where consumer choices are typically based on subjective criteria (e.g., preferred flavor), and categories like ketchup, where consumer choices tend to be based on objective criteria (e.g., price).
+
+
+A. They can be used to reduce customer frustration because they encourage retailers to offer substitutions that have previously been purchased by consumers and to select the substitutions based on objective rather than subjective criteria.
+B. They offer different approaches based on the category to which out-of-stock groceries belong and whether the retailer has access to information about products previously purchased by the consumer.
+C. They challenge the assumption that the degree to which consumers react negatively when groceries are out of stock varies across product categories and is mediated by prior familiarity with offered substitutions.
+D. They were designed to account for the fact that consumers' reactions to substitutions are less influenced by purchase history than by consumers' tendency to prioritize a single criterion when selecting items.
+Answer: B
+
+
+Question 10:
+Which finding, if true, would most directly support the researchers' conclusion?
+
+The bill of _Phaethornis guy_ (green hermit, a hummingbird species) is similar in length to the corolla (collection of petals) of _Columnea guzmanioides_, allowing the pollinator to access nectar at the base of the flower. This kind of alignment of the shape and size of physical traits in interacting species—called morphological matching—is expected to result in greater interaction frequencies between those species than between species with mismatched traits. Maria A. Maglianesi and team compared physical traits of hummingbirds, including _P. guy_, and plant species in the hummingbirds' habitats. The researchers concluded that, in general, morphological matching had the expected effect on hummingbird–plant interactions.
+
+
+A. As mean corolla lengths of flowers increased, the variety of hummingbird species that visited those plants increased.
+B. Plant species with largely consistent corolla lengths were visited by hummingbirds more frequently than those with more inconsistent corolla lengths were.
+C. Fewer hummingbird visits to flowers were observed among flowers with longer and narrower corollas than among those with shorter and wider corollas.
+D. As the similarity between mean bill lengths of hummingbirds and mean corolla lengths of flowers increased, the frequency of hummingbird visits to those plants increased.
+Answer: D
+
+
+Question 11:
+Which choice most effectively uses data from the graph to illustrate the researchers’ conclusion?
+
+Researchers used anonymized location data from the US and Côte d’Ivoire to document people’s daily patterns of mobility, using these results to test the efficacy of the researchers’ predictive computer model. In each country, unidirectional cycles among two, three, or four locations were empirically the most common pattern types; the graph shows each of these pattern types as a proportion of all pattern instances found for that country (e.g., the measured value for C1 3 in the graph, 0.12, indicates that the three-location pattern constituted 12% of all pattern instances in the Côte d’Ivoire data). The researchers ran their model twice under different assumptions, concluding that emphasizing the salience of local population density over personal preferences generally yielded the best results.
+
+
+
+A. Under the assumption that preferences are more salient than density, the US 2 and C1 2 proportions were predicted to be in the range of 0.3 to 0.5, placing them farther from the measured values than were those predicted under the other assumption.
+B. Under the assumption that density is more salient than preferences, the US 2 and C1 2 proportions are approximately 0.65 and 0.85, respectively, significantly higher than the values predicted under the other assumption and thus farther than those predictions from the measured values.
+C. Under the assumption that preferences are more salient than density, the two-location patterns (US 2 and C1 2) were predicted to be most frequent in the data even though neither proportion was projected to exceed 0.5, well below the proportion predicted under the other assumption.
+D. Under the assumption that preferences are more salient than density, the US 2 and C1 2 proportions were predicted to be approximately 0.45 and 0.35, respectively, both below the measured values, whereas under the other assumption, the model overestimated the proportion for US 2 and overestimated that for C1 2.
+Answer: A
+
+
+Question 12:
+Which choice most logically completes the text?
+
+Scientists recently created a model to predict how shorter winters will affect future mammal population sizes in US national forests. Unfortunately, when the model is applied to large forests, its predictions for large-mammal populations are too high, and when applied to small forests, its predictions for small-mammal populations are too high. Tuskegee National Forest in Alabama is a small forest, covering less than 100,000 acres. If used to evaluate the effect of shorter winters on this forest in ten years, the model would likely therefore ______.
+
+
+A. exaggerate the effect of shorter winters on large mammals.
+B. reflect factors affecting small mammals other than shorter winters.
+C. overestimate the actual population sizes of small mammals.
+D. ignore the predator-prey relationships between large and small mammals.
+Answer: C
+
+
+Question 13:
+Which choice most logically completes the text?
+
+Whereas Mara Aruguete and colleagues’ 1992 study of captive chimpanzees and squirrel monkeys reported more right-handedness than left-handedness, William C. McGrew and colleagues’ 1999 study of wild chimpanzees did not. According to a meta-analysis of studies of nonhuman primates, captive populations are more likely to be described as right-handed than wild populations are. Statistical analysis indicates a handedness study would need a minimum of 176 individuals to show a representative result; however, the study by Aruguete and colleagues included a total population of 27, and the study by McGrew and colleagues included a total population of 13. This suggests that ______
+
+
+A. the study by Aruguete and colleagues reliably represents handedness in captive primates but not in wild primates.
+B. McGrew and colleagues likely underestimated the prevalence of right-handedness among the wild chimpanzees in the study.
+C. the study by Aruguete and colleagues reliably represents handedness in captive primates, but the study by McGrew and colleagues likely does not reliably represent handedness in wild primates.
+D. neither the study by Aruguete and colleagues nor the study by McGrew and colleagues provides sufficient evidence to make a meaningful comparison about handedness in primates.
+Answer: D
+
+
+Question 14:
+Which quotation from a literary critic would be the most effective evidence in support of the underlined claim?
+
+Editor Bruce Sterling’s 1986 cyberpunk anthology *Mirrorshades* contains just twelve carefully selected stories, and by the end of the 1980s, Sterling himself opined that cyberpunk, a subgenre of science fiction, was a “dead artistic movement”. But editor Jared Shurin's chronologically expansive 2023 anthology *The Big Book of Cyberpunk* contains 108 stories, including Fritz Leiber's "Coming Attraction" (1950) and Sam J. Miller's "Rock, Paper, Scissors (In the American Tropics)" (2017). Critics have claimed that __Shurin's wider selection better reflects the way in which cyberpunk absorbed elements from other influences over time while still retaining the core components that Sterling saw as defining the genre__.
+
+
+A. “Not all the stories anthologized in The Big Book of Cyberpunk first appeared in stand-alone books or in traditional magazines or journals; for example, Jeff Noon’s 2011 story 'Ghost Codes of Sparkletown (New Mix)' was first released in a different form on a social networking platform.”
+B. “The Big Book of Cyberpunk's chronological ordering of stories makes clear—as no other anthology of the genre has—that though cyberpunk began as a distinctly US subgenre of science fiction, it later spread to non-English-speaking cultures, embracing aspects of those cultures as it did so.”
+C. “In his introduction to Mirrorshades, Bruce Sterling asserts that a key component of the work of cyberpunk writers is an affection for the totems of sixties pop culture, such as the mirrored sunglasses that were then popular.”
+D. “Unlike Mirrorshades, not all the stories anthologized in The Big Book of Cyberpunk first appeared in print publications; for example, orrim's 2021 story 'Lops' was originally self-published on the author's site spiraling.”
+Answer: B
+
+
+Question 15:
+Which choice best describes data in the graph that support Liu et al.'s conclusion?
+
+Fracture Toughness Values for CrMnFeCoNi and CrCoNi at Various Temperatures
+
+High entropy alloys (HEAs) typically combine five or more elements in roughly equal proportions, and medium entropy alloys (MEAs) typically combine three or four elements in similar proportions. HEAs and MEAs are known for withstanding cracking at extremely low (cryogenic) temperatures relatively well, though their fracture toughness generally falls as temperature does. Dong Liu et al. investigated the fracture toughness (both the initiation and propagation toughness) of the HEA CrMnFeCoNi and its MEA derivative CrCoNi and concluded that the alloys' toughness performance differs from that of most HEAs and MEAs.
+
+
+A. CrCoNi outperformed CrMnFeCoNi at 20 kelvins in both initiation toughness and propagation toughness even though it is composed of fewer elements.
+B. Both CrMnFeCoNi and CrCoNi showed substantially higher propagation toughness than initiation toughness throughout the range from 20 kelvins to 293 kelvins.
+C. The changes in initiation toughness and propagation toughness were greater between 20 kelvins and 77 kelvins than between 77 kelvins and 198 kelvins for both CrMnFeCoNi and CrCoNi.
+D. For both CrMnFeCoNi and CrCoNi, initiation toughness and propagation toughness were lower at 293 kelvins than at 20 kelvins.
+Answer: D
+
+
+Question 16:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The towns Entebbe and Jamame are both located almost directly on the ______ they are in different countries. Entebbe is in Uganda, while Jamame is in Somalia.
+
+
+A. equator
+B. equator, but
+C. equator,
+D. equator that
+Answer: B
+
+
+Question 17:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Released in 1999, the Intel Pentium III microchip contained a single CPU, or core, to execute commands. Since then, the average processing power of microchips has ______ cores now number in the dozens, hundreds, or even thousands—that the once-revolutionary dual-core technology that replaced the single-core chip can be found in everyday items like toasters and toothbrushes.
+
+
+A. increased—so drastically,
+B. increased so drastically,
+C. increased, so drastically,
+D. increased so drastically—
+Answer: D
+
+
+Question 18:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Disyllabic words ______ as trochees in English metrical verse, such as “eyebrow” and “mascot,” consist of one stressed syllable followed by one unstressed syllable.
+
+
+A. have been classified
+B. can be classified
+C. are classified
+D. classified
+Answer: D
+
+
+Question 19:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In Puerto Rico, it’s not unusual for a city or town to be known by a nickname that corresponds to one of its notable features, like landscape, climate, famous residents, or chief export. For example, the Puerto Rican municipality of Guaynabo is well known for its popular annual carnival that celebrates the Taino Chief ______ this distinction has earned it a fitting nickname: “the Village of the Mabó Carnival.”
+
+
+A. Mabodamaca, and
+B. Mabodamaca
+C. Mabodamaca,
+D. Mabodamaca and
+Answer: A
+
+
+Question 20:
+Which choice completes the text with the most logical transition?
+
+Many places that gained their independence from Spain in the nineteenth century still bear the legacy of the Spanish Empire in their language, including Spanish-speaking Peru, which left the empire in 1821 ______ which ceased to be part of the Spanish Empire in 1648; Spanish is rarely spoken in the Netherlands in the twenty-first century.
+
+
+A. Another example is the Netherlands,
+B. The results can be heard in the Netherlands,
+C. The reverse is true of the Netherlands,
+D. This contrast is evident in the Netherlands,
+Answer: C
+
+
+Question 21:
+Which choice completes the text with the most logical transition?
+
+Al-Andalus, the historical region of the Iberian Peninsula that includes most of modern-day Spain, was ruled by various Arabic-speaking Muslim states between the eighth and fifteenth centuries. ______ many Arabic words, such as "alacrán"—meaning "scorpion"—made their way into the Spanish language.
+
+
+A. For example,
+B. Instead,
+C. Specifically,
+D. Consequently,
+Answer: D
+
+
+Question 22:
+Which choice completes the text with the most logical transition?
+
+Feeding from aquifers in Alaska’s Susitna Glacier, the Skwentna River, a tributary of the Susitna River, courses 160 km downstream before flowing into another tributary, the Yentna River. The Yentna then flows into the main stem of the river system, the Susitna River, which, ______ empties into the Gulf of Alaska.
+
+
+A. nevertheless,
+B. in turn,
+C. on the other hand,
+D. for instance,
+Answer: B
+
+
+Question 23:
+The student wants to emphasize a similarity between the two specimens. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Jane is the nickname of a dinosaur fossil specimen housed at the Burpee Museum of Natural History.
+•The Burpee Museum of Natural History is located in Rockford, Illinois.
+•Jane is a member of the genus *Tyrannosaurus*.
+•Big Mike is the nickname of a dinosaur fossil specimen housed at the Museum of the Rockies.
+•The Museum of the Rockies is located in Bozeman, Montana.
+•Big Mike is a member of the genus *Tyrannosaurus*.
+
+
+A. While Jane is housed at the Burpee Museum of Natural History, Big Mike is housed at the Museum of the Rockies.
+B. The dinosaur fossil specimens, Jane and Big Mike, are both members of the genus Tyrannosaurus.
+C. Big Mike is the nickname of a Tyrannosaurus fossil specimen housed at the Museum of the Rockies in Bozeman, Montana.
+D. The Burpee Museum of Natural History, where Jane is housed, is located in Rockford, Illinois.
+Answer: B
+
+
+Question 24:
+The student wants to emphasize the duration of Williams and Hoshide’s EVA. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• NASA mission Expedition 32 took place from July 1, 2012, to September 16, 2012.
+• Astronauts Sunita Williams and Akihiko Hoshide were crew members of Expedition 32.
+• August 30, 2012: Williams and Hoshide performed an extravehicular activity (EVA) to replace equipment on the International Space Station.
+• An EVA (also known as a spacewalk) is an activity done by astronauts outside the spacecraft.
+• The duration of their EVA was 8 hours and 17 minutes.
+• Theirs is counted among the longest completed spacewalks to date.
+
+
+A. Lasting 8 hours and 17 minutes, Williams and Hoshide’s EVA is one of the longest spacewalks completed to date.
+B. The EVA completed by Expedition 32 crew members Williams and Hoshide took place from July 1, 2012, to September 16, 2012.
+C. Williams and Hoshide completed an EVA, also known as a spacewalk, in which they left the spacecraft to replace equipment on the International Space Station.
+D. During their time as crew members of Expedition 32, Williams and Hoshide completed an EVA.
+Answer: A
+
+
+Question 25:
+The student wants to provide a historical overview of the Shackleton expedition. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•1914: British explorer Ernest Shackleton and a small crew embarked on an expedition to Antarctica.
+•1915: Shackleton's ship _Endurance_ became stuck in ice before eventually breaking apart and sinking.
+•1916: After more harrowing sea-ice adventures, the entire crew was rescued.
+•1959: Historian Alfred Lansing wrote a book called _Endurance: Shackleton's Incredible Voyage._
+•2001: Filmmaker George Butler released a documentary called _The Endurance: Shackleton's Legendary Antarctic Expedition._
+•2022: The wreckage of _Endurance_ was discovered at the bottom of Antarctica's Weddell Sea.
+
+
+A. Alfred Lansing wrote about the history of Shackleton's 1914–16 expedition in the book _Endurance: Shackleton's Incredible Voyage_ (1959); years later, in 2001, George Butler released a documentary about the expedition.
+B. Leaving in 1914 for Antarctica, Shackleton and his crew underwent many harrowing sea-ice adventures, including losing their ship in 1915, before being rescued in 1916.
+C. In 1914, the Shackleton expedition sailed to Antarctica, where, in 1916, they rescued the crew of a ship that had sunk, _Endurance_ (the wreckage of which was discovered in 2022).
+D. Shackleton's expedition has inspired a 1959 book, a 2001 film, and a 2022 discovery.
+Answer: B
+
+
+Question 26:
+The student wants to contrast the effect of parks on happiness in Charlotte with that in Philadelphia. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• A 2022 study analyzed geotagged social media posts to assess the effect of parks on happiness in 25 US cities.
+• The happiness score for posts made in a given city was calculated by comparing the frequencies of words with positive and negative connotations.
+• The happiness benefit of a city’s parks was the numeric difference between the happiness scores of posts made in parks and posts made elsewhere.
+• The park happiness benefit in Charlotte, North Carolina, was about 0.05.
+• The park happiness benefit in Philadelphia, Pennsylvania, was about 0.11.
+• The average happiness benefit of parks across all cities was 0.10.
+
+
+A. The study found parks in Charlotte and Philadelphia to have a happiness benefit of 0.10, on average.
+B. While Philadelphia’s parks had a positive happiness benefit, this was not true of Charlotte’s parks, whose happiness benefit was below average.
+C. To contrast the effect of parks on happiness in Charlotte and Philadelphia, the study analyzed geotagged social media posts.
+D. Although parks in both cities had a positive influence on happiness, this benefit was somewhat greater in Philadelphia than in Charlotte.
+Answer: D
+
+
+Question 27:
+The student wants to use an example to illustrate Popper's critique of verification. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• A verifiable hypothesis can theoretically be confirmed by observation; a falsifiable hypothesis can theoretically be proved false by observation.
+• The hypothesis "all armadillos have hard shells" could be falsified by observing a single armadillo without a hard shell.
+• The hypothesis "some armadillos have hard shells" is verifiable but not falsifiable.
+• Falsifying it would require observing every armadillo in the universe, which is not possible.
+• Philosopher Karl Popper argued that a scientific hypothesis should be falsifiable, as that means it can be rigorously tested: "A theory which is not refutable by any conceivable event is non-scientific."
+• Popper cautioned against relying on verification alone to support a hypothesis.
+
+
+A. One could confirm the hypothesis "some armadillos have hard shells" by observation, but the statement cannot theoretically be proved wrong, and thus cannot be rigorously tested.
+B. The hypothesis "some armadillos have hard shells" could be verified by observation, but, as Popper argues, observing a single armadillo without a hard shell would falsify it.
+C. One could rigorously test the hypothesis "all armadillos have hard shells," but Popper argues that "a theory which is not refutable by any conceivable event is non-scientific."
+D. The statement "all armadillos have hard shells" could be falsified by observing a single armadillo without a hard shell, while the statement "some armadillos have hard shells" cannot be verified.
+Answer: A

@@ -1,0 +1,163 @@
+Question 1:
+A researcher investigated two species of mites: a predator and its prey. At the start of a week, there was an equal number of the two species. At the end of the week, the number of prey had increased by 2,700% of the number of prey at the start of the week, and the number of predators had increased by 180% of the number of predators at the start of the week. The number of prey at the end of the week was p% greater than the number of predators at the end of the week. What is the value of p? 
+
+Answer: 900
+
+Question 2:
+In the figure, parallel lines a and b are intersected by lines c, d, and e. If z = 49, y = 136, and v > z, which statement about x and w must be true?
+
+A. x < w
+B. x > w
+C. x = w
+D. x + w = 90
+Answer: A
+
+Question 3:
+The function {{MATH_34}} gives the estimated number of cephalopods, a class of marine animal, in a certain area, where {{MATH_9}} is the number of months since a study began.
+
+{{MATH_35}}
+
+How many months after the study began was the number of cephalopods in the area estimated to be {{MATH_36}}?
+
+Answer: 16
+
+Question 4:
+On a plot of land, 52.0% of the square footage is farmland and the remaining square footage is pasture. There are buildings on exactly 21.5% of the square footage of the farmland, and there are buildings on exactly 14.0% of the square footage of the pasture. If there are buildings on exactly p% of the square footage of the plot of land, what is the value of p? (rounded to the nearest tenth)
+
+Answer: 17.9
+
+Question 5:
+The function {{MATH_1}} and {{MATH_2}} are given, In function {{MATH_3}} is a constant. If {{MATH_4}}, what is the value of {{MATH_5}}
+{{MATH_6}}
+{{MATH_7}}
+
+Answer: 21
+
+Question 6:
+A right square pyramid has a total surface area of 51,984 square centimeters. The area of the base is 23,104 square centimeters. What is the volume, in cubic centimeters, of the pyramid?
+
+A. 293,426
+B. 438,976
+C. 879,908
+D. 1,316,928
+Answer: B
+
+Question 7:
+An inspector checked a sample of 230 scales selected at random from a population of 7,000 scales to estimate what percentage of the 7,000 scales were inaccurate. From this sample, the inspector estimated that 9% of the 7,000 scales were inaccurate, with an associated margin of error of 3.7%. Which of the following is the most appropriate conclusion?
+
+A. It is plausible that between 371 and 889 of the scales in the population are inaccurate.
+B. It is plausible that fewer than 371 of the scales in the population are inaccurate.
+C. Exactly 630 of the scales in the population are inaccurate.
+D. It is plausible that more than 889 of the scales in the population are inaccurate.
+Answer: A
+
+Question 8:
+{{MATH_37}}, for the equation {{MATH_38}}, what is the value of {{MATH_16}} for which {{MATH_39}}?
+
+Answer: 1
+
+Question 9:
+A triangle has a base length of 80 centimeters and a height of 40 centimeters. What is the area, in square centimeters, of the triangle?
+
+Answer: 1600
+
+Question 10:
+For the given lines, b and c are constants. If the given lines are perpendicular and intersects at (1, 1), what is the value of c?
+2x + 3y = a
+5x + by = c
+(phân số)
+
+Answer: 5/3
+
+Question 11:
+Hector receives a gift card worth $70.00 to pay for movies online. He uses his gift card to buy 2 movies for $6.50 each. He will spend the rest of his gift card on renting movies for $1.50 each. How many movies can Hector rent?
+
+Answer: 38
+
+Question 12:
+The function {{MATH_8}} gives the estimated number of bacteria in a growth medium {{MATH_9}} hours after a study began. According to the function, the number of bacteria is estimated to increase 50% every {{MATH_10}} minutes. What is the value of {{MATH_11}}
+{{MATH_12}}
+
+A. 40
+B. 50
+C. 72
+D. 90
+Answer: B
+
+Question 13:
+The table shows three values of {{MATH_13}} and their corresponding values of {{MATH_14}} for the equation {{MATH_15}}. In the table, {{MATH_16}} is a constant. What is the value of {{MATH_17}}
+
+A. 40
+B. 48
+C. 52
+D. 100
+Answer: C
+
+Question 14:
+In the xy-plane, circle {{MATH_40}} is the graph of the equation {{MATH_41}}, where {{MATH_16}} is a positive constant. Circle {{MATH_42}} is obtained by shifting circle {{MATH_40}} {{MATH_43}} units to the right. Which equation represents circle {{MATH_42}}?
+
+A. {{MATH_44}}
+B. {{MATH_45}}
+C. {{MATH_46}}
+D. {{MATH_47}}
+Answer: D
+
+Question 15:
+The function {{MATH_18}} is defined by {{MATH_19}} where a, b, and n are constants, and b and n are integers. If {{MATH_20}} and {{MATH_21}} what is the value of {{MATH_22}}?
+
+Answer: 1458
+
+Question 16:
+A right circular cylinder has a volume of {{MATH_23}} cubic inches. The height of the cylinder is 2 times its radius. What is the radius, in inches, of the cylinder?
+
+A. 26
+B. 52
+C. 676
+D. 1,352
+Answer: A
+
+Question 17:
+In the xy-plane, which of the following does NOT contain any points (x,y) that are solutions to 7x + 4y > 12?
+
+A. The region where x > 0 and y > 0
+B. The region where x < 0 and y > 0
+C. The region where x < 0 and y < 0
+D. The region where x > 0 and y < 0
+Answer: C
+
+Question 18:
+In the given equation, {{MATH_24}} are positive constants. The product of the solutions to the given equation is {{MATH_25}} is a constant. What is the value of {{MATH_26}}
+{{MATH_27}}
+
+A. 24
+B. 1
+C. {{MATH_28}}
+D. {{MATH_29}}
+Answer: D
+
+Question 19:
+The solutions to the given equation {{MATH_30}} are {{MATH_31}} and {{MATH_32}} , where m and q are integers. What is the value of {{MATH_33}}?
+
+Answer: 208
+
+Question 20:
+The graph of the polynomial function f in the xy-plane, where y = f(x), has x-intercepts of (−3, 0) and (6, 0). Which of the following must be true?
+
+A. f(0) = −3
+B. f(6) = −3
+C. f(−3) = 0
+D. f(−3) = 6
+Answer: C
+
+Question 21:
+When a collection of books is sorted, 75% are nonfiction and the remaining books are fiction. Of those that are fiction, 20% are westerns and the remaining fiction books are romance. If there are 2,671 romance books in this collection, what is the total number of books in the collection?
+
+Answer: 13355
+
+Question 22:
+The quadratic function f(x) has 2 solutions j and k, where j < k. The quadratic function g(x) has 2 solutions l and m, where l < m. The quadratic function h(x) = x^{2} + 7x + c has solutions of k + l and m + j, and can be rewritten as
+(x + a)(x + b), what is the value of c?
+f(x) = x^{2} + 5x - 6
+g(x) = x^{2} + 2x - 35
+
+Answer: 6

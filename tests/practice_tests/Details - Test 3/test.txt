@@ -1,0 +1,121 @@
+Question 1:
+[COE]
+The text makes which point about the difference between the proportions of Quito residents and Lima residents using parks?
+
+In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Quito, Ecuador, and Lima, Peru, were surveyed about parks in their cities. Of the 618 respondents from Quito, 82.9% indicated that they use the city’s parks, and of the 663 respondents from Lima, 72.7% indicated using city parks. Given that the percentage of Quito respondents who reported living within a 10-minute walk of a park was much lower than that reported by Lima respondents, greater proximity alone can’t explain the difference in park use.
+
+A. It was much larger than the researchers conducting the study expected.
+B. It could be due to inaccuracies in the survey results.
+C. It was calculated using sources that predate the survey.
+D. It is caused by something other than the parks’ proximity to city residents.
+Answer: D
+
+Question 2:
+[COE]
+Based on the text, which potential study design would be most likely to produce evidence that would enable Grasby et al. to answer their research question?
+
+Google’s introduction of the Chrome web browser in 2008 is a quintessential instance of brand extension—the company leveraged its brand recognition as an internet search provider to enter a product category where it had not previously competed. An outstanding question is whether perceived category similarity predicts consumers’ likelihood of purchasing brand extensions. To answer this question, Alicia Grasby et al. identified 30 extended-brand pairs (e.g., the same brand of shoes and gloves) in 52 weeks of purchases by approximately 60,000 households and, for each pair, calculated the change in probability of a brand in one category being purchased if the same brand was purchased in the other category.
+
+A. Have a representative sample of the households rate the similarity of the product categories in each extended-brand pair, then determine how, if at all, those ratings correlate with the change in probability that the team calculated for each pair.
+B. Poll a representative sample of the households to determine the degree of brand recognition of each brand in the extended-brand pairs, then determine how, if at all, the degree of brand recognition correlates with the average cost of each product in the pairs.
+C. Have a representative sample of the households rate the similarity of one product in each extended-brand pair to other products in the same category, then determine how, if at all, those ratings correlate with the change in probability that the team calculated for each pair.
+D. Poll a representative sample of the households to determine the degree of brand recognition for each brand in the extended-brand pairs, then determine how, if at all, the degree of brand recognition correlates with the frequency with which a different group of households purchased at least one product of that brand.
+Answer: A
+
+Question 3:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+The following text is from Mary Shelley's 1818 novel Frankenstein. Victor Frankenstein, who is narrating this portion of text, describes the state of scientific knowledge as he began his own study of the natural world.
+The untaught peasant beheld the elements around him and was acquainted with their practical uses. The most learned philosopher knew little more. He had partially unveiled the face of Nature, but her highest immortal lineaments were still a wonder and a mystery. __He might dissect, anatomise, and give names; but, not to speak of a final cause, causes in their secondary and tertiary grades were utterly unknown to him__. I had gazed upon the fortifications and impediments that seemed to keep human beings from entering the citadel of nature, and rashly and ignorantly I had repined.
+
+A. It explains what can be gained from a scientific approach to understanding natural phenomena.
+B. It describes an intensely debated scientific controversy that Victor dedicated his life to resolving.
+C. It undermines the idea that a practical approach to understanding natural phenomena is inferior to a scientific approach.
+D. It suggests that Victor did not discover what he wanted to know from the scientific research available to him.
+Answer: D
+
+Question 4:
+[COE]
+Which choice best completes the text with the most precise and contextually appropriate word or phrase?
+
+Domesticated thousands of years ago by Indigenous peoples in South America, the potato deviates structurally from its wild progenitor. Similarly, summer squash, another agronomic staple cultivated by Indigenous Americans, exhibits such minimal morphological similarity to any extant wild species that comprehensive genetic analyses were imperative to ascertain the wild Johnny gourd as its direct ancestor. This profound divergence renders the domestication process of summer squash ostensibly ________, necessitating advanced scientific intervention to elucidate its evolutionary trajectory.
+
+A. impervious
+B. eclectic
+C. inexplicable
+D. perspicuous
+Answer: C
+
+Question 5:
+[COE]
+Which quotation from a translation of The Underdogs most effectively illustrates the claim?
+
+The Underdogs is a 1915 novel by Mariano Azuela, originally written in Spanish. In the novel, Azuela makes a comparison using natural imagery to convey the mental state of the protagonist, Demetrio: ____.
+
+A. “The river crept along, murmuring as the waters rose and fell in small cascades.”
+B. “Demetrio suppressed a sigh. Memories crowded and buzzed through his brain like bees about a hive.”
+C. “When he reached the summit, he glanced down to see the sun steeping the valley in a lake of gold.”
+D. “Demetrio laid a hand on his hair which covered his ears, and stretching himself out for a long time, seemed to be lost in thought.”
+Answer: B
+
+Question 6:
+[COE]
+Which choice best states the overall structure of the text?
+
+Elio Sucena and colleagues have explored how convergent evolution—a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages—can result from a genetic mechanism shared by both lineages. Meanwhile, Patricia J. Wittkopp and colleagues have investigated how convergence occurs through different genetic mechanisms, but the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.
+
+A. It explains a widespread assumption about a phenomenon, describes two studies that are based on that assumption, and explains why the assumption is unfounded.
+B. It discusses a particular study of a phenomenon, elaborates on how two other studies have approached this phenomenon in the past, and critiques the first study’s approach.
+C. It details the development of a field of scientific inquiry, gives examples of three studies that were important to this development, and speculates on how future studies can develop these ideas.
+D. It describes a phenomenon, provides examples of two studies of that phenomenon, and mentions a third study of that phenomenon.
+Answer: D
+
+Question 7:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+__A microgenre is a specialized genre consisting of a comparatively small number of stylistically similar artists__. The microgenre of electronic music known as hyperpop emerged in the 2010s, with American singer Dorian Electra as an early exponent. Their combination of lush synthesizer arrangements and propulsive beats with vocals electronically shifted in pitch below their natural range exemplifies the hyperpop sound. More recently, Japanese-British recording artist Rina Sawayama has contributed to the microgenre by incorporating pop melodies into hyperpop songs.
+
+A. It anticipates an objection to the text's endorsement of hyperpop.
+B. It notes an exception to the text's description of hyperpop.
+C. It defines a term used in the text's discussion of hyperpop.
+D. It states that the text's intended audience mainly consists of hyperpop fans.
+Answer: C
+
+Question 8:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Chorioactis geaster, a species of mushroom that makes a distinctive hissing sound when it releases its spores, is an elusive fungus that has been observed only in Texas and Oklahoma in the US and in the Miyazaki and Nara Prefectures in Japan. Scientists aren’t entirely sure why C. geaster is distributed in this way (genetic analysis reveals that the US and Japanese strains diverged 19 million years ago), but the mushroom appears to be very selective: __it is typically found on the decaying stumps and roots of only a few tree species that are abundant in these areas.__
+
+A. It provides an explanation for the relationship between C. geaster and its habitats.
+B. It highlights the negative impact C. geaster has on the trees on which it’s found.
+C. It emphasizes the uncertainty about C. geaster alluded to earlier in the text.
+D. It elaborates on a characterization of C. geaster presented earlier in the text.
+Answer: D
+
+Question 9:
+[COE]
+Which choice most effectively uses a quotation from a translation of The Clouds to illustrate the claim?
+
+The Clouds is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught customers rhetorical techniques to use in public speaking, along with providing instruction in other subjects. In the play, Aristophanes satirizes sophists as teaching people to speak dishonestly, as seen when the character ____.
+
+A. Strepsiades encourages his son to learn to be a sophist, saying, “If you have any concern for your father’s patrimony, become one of them.”
+B. Pheidippides says, after taking lessons from a sophist, “How pleasant it is to be acquainted with new and clever things, and to be able to despise the established laws!”
+C. Strepsiades, taking lessons from a sophist, says he wants to become “a fabricator of falsehoods, inventive of words, a practiced knave in lawsuits…a fox, a sharper, a slippery knave, a dissembler, a slippery fellow, an impostor.”
+D. Socrates, a sophist, says to a potential customer, “I wish to briefly learn from you if you are possessed of a good memory.”
+Answer: C
+
+Question 10:
+[Details]
+Which choice best states the function of the underlined sentence in the text as a whole?
+
+Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship. While horizontal gene transfer is common among prokaryotes—single-celled organisms such as the bacteria Carnobacterium viridans and Moraxella caviae—it has rarely been observed among eukaryotes (typically multicellular organisms). __However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought__.
+
+A. It argues that a particular direction of research concerning horizontal gene transfer is likely to be fruitless.
+B. It indicates a distinction between horizontal gene transfer and vertical gene transfer.
+C. It implies that a common perception of horizontal gene transfer may be inaccurate.
+D. It compares the frequencies with which horizontal gene transfer has been detected in two categories of organisms.
+Answer: C
+

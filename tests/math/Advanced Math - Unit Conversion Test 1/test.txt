@@ -1,0 +1,63 @@
+Question 1:
+An object's speed is increasing at a rate of {{MATH_1}} meters per second squared. What is this rate, in miles per minute squared, rounded to the nearest tenth? (Use {{MATH_2}} mile = {{MATH_3}} meters.)
+
+A. {{MATH_4}}
+B. {{MATH_5}}
+C. {{MATH_6}}
+D. {{MATH_7}}
+Answer: B
+
+Question 2:
+A certain town has an area of {{MATH_8}} square miles. Which of the following is closest to the area, in square yards, of this town? ({{MATH_9}} mile = {{MATH_10}} yards.)
+
+A. {{MATH_11}}
+B. {{MATH_12}}
+C. {{MATH_13}}
+D. {{MATH_14}}
+Answer: D
+
+Question 3:
+An object's speed is increasing at a rate of {{MATH_15}} meters per second squared. What is this rate, in miles per hour squared, rounded to the nearest tenth? (Use {{MATH_16}} mile = {{MATH_17}} meters.)
+
+A. {{MATH_18}}
+B. {{MATH_19}}
+C. {{MATH_20}}
+D. {{MATH_21}}
+Answer: C
+
+Question 4:
+A certain park has an area of {{MATH_22}} square yards. What is the area, in square miles? ({{MATH_23}} mile = {{MATH_24}} yards.)
+
+A. {{MATH_25}}
+B. {{MATH_26}}
+C. {{MATH_27}}
+D. {{MATH_28}}
+Answer: B
+
+Question 5:
+A landscape supply company sells mulch at a rate of {{MATH_29}} dollars per cubic yard. What price does the company charge for {{MATH_30}} cubic feet of mulch? ({{MATH_31}} yard = {{MATH_32}} feet.)
+
+A. {{MATH_33}}
+B. {{MATH_34}}
+C. {{MATH_35}}
+D. {{MATH_36}}
+Answer: B
+
+Question 6:
+A car travels at a constant acceleration of {{MATH_37}} meters per second squared. What is this acceleration in miles per hour squared, rounded to the nearest tenth? (Use {{MATH_38}} mile = {{MATH_39}} meters.)
+
+A. {{MATH_40}}
+B. {{MATH_41}}
+C. {{MATH_42}}
+D. {{MATH_43}}
+Answer: B
+
+Question 7:
+A rectangular field has an area of {{MATH_44}} square kilometers. What is the area of the field in square meters?
+
+Answer: 2500000
+
+Question 8:
+Water flows through a pipe at a rate of {{MATH_45}} liters per second. What is this rate in liters per minute?
+
+Answer: 420

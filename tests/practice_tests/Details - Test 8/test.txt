@@ -1,0 +1,122 @@
+Question 1:
+[COE]
+Which quotation from a music streaming platform user would best illustrate Walsh’s finding?
+
+Many music streaming services also function as social media platforms: by giving users the option to follow friends and share curated playlists or information about their listening history, these platforms allow people to convey their music preferences and listening activities directly to their social networks. In a 2023 study, researcher Michael James Walsh interviewed frequent users of a popular music streaming platform to investigate how its social media dimensions shape their listening habits. Walsh found that these dimensions tended to make study participants feel more mindful of how their listening activities may be perceived, which in turn influenced how they managed those activities.
+
+A. “Listening to music through a streaming platform feels a lot more passive, since I don’t need to make any deliberate choices about what music I’m going to consume, like I do when buying digital downloads or records and CDs.”
+B. “When I create playlists or choose songs to listen to, I often pick songs that I think the friends who are following me might be interested in listening to, rather than what I might actually prefer listening to in that moment.”
+C. “Because the predictions the platform makes about what new songs I might like depend on my past listening habits, at times its recommendations can feel overly repetitive and unvarying.”
+D. “The social aspects of music streaming make it really easy to create a sense of a shared listening experience with my friends, even if we aren’t in the same room.”
+Answer: B
+
+Question 2:
+[COE]
+What does the text most strongly suggest about the artist’s studio?
+
+There was a certain oppressive quality to the studio that might have been alleviated without compromising its dignity; the hues chosen for the walls could have been lighter, and the natural light better utilized. Yet perhaps altering these details would have disrupted the thoroughly artistic atmosphere of the space; after all, the heavy, elaborate rugs were placed with careful intent, the ornate but shadowy wall hangings meticulously chosen, and the dense curtains deliberately positioned to filter out much of the sunlight.
+
+A. It is intended to be inspiring but feels restrictive instead.
+B. Its furnishings were selected to preserve an air of artistic decorum.
+C. Its style of decoration seems excessively lavish to the narrator.
+D. It contains many aesthetically pleasing elements, but they lack functional value.
+Answer: B
+
+Question 3:
+[COE]
+Which quotation from Memoirs of Eleanor Eldridge most effectively illustrates the claim?
+
+*Memoirs of Eleanor Eldridge* is an 1838 historical account by Eleanor Eldridge and Frances Harriet Whipple Green. In the book, the authors assert that all people naturally have an emotional attachment to where they live, writing, _____
+
+A. “This little book is published for the express purpose of giving a helping hand to suffering and persecuted merit.”
+B. “To give some idea of the high esteem in which the subject of the following narrative is held, and the strong interest her misfortunes have excited, a few, from the great number of recommendations in her possession, are selected.”
+C. “Blessed are the slumbers of the innocent! They are kindlier than balm, and they refresh and gladden the spirit of childhood, like ministerings from a better world.”
+D. “Home is home, to the lowly as well as the great; and no rank, or color, destroys its sacred character, its power over the mind, and the affections.”
+Answer: D
+
+Question 4:
+[Details]
+Which choice best describes the function of the two underlined portions in the text as a whole?
+
+The following text is from Sarojini Naidu's 1896 poem "Alabaster."
+"Like __this alabaster__ box whose art
+Is frail as a cassia-flower, is __my heart__,
+Carven with delicate dreams and wrought
+With many a subtle and exquisite thought."
+
+A. They describe the subjects, one physical and one abstract, of a comparison that extends throughout the text.
+B. They symbolize two attitudes, one logical and one emotional, that are contrasted throughout the text.
+C. They indicate potential reactions, one hoped for and one feared, to a decision the speaker considers throughout the text.
+D. They provide examples, one literal and one figurative, of a change that the speaker describes throughout the text.
+Answer: A
+
+Question 5:
+[COE]
+Which quotation from a translation of Uncle Vanya most effectively illustrates the claim?
+
+"Uncle Vanya: Scenes from Country Life in Four Acts" is an 1898 play by Anton Chekhov, originally written in Russian. In the play, Professor Serebryakov and his wife Helena have come to stay at their country estate, which Vanya manages with the help of Sonia, the professor's daughter from a previous marriage. Chekhov portrays the professor as being unable to adjust to living at the country estate, as is evident when ______.
+
+A. Professor Serebryakov says, "I am a book-worm and a scholar, and am unfamiliar with practical affairs. I cannot, I find, dispense with the help of well-informed people."
+B. Professor Serebryakov says to Helena, "I am used to my library and the lecture hall and to the esteem and admiration of my colleagues. Now I suddenly find myself plunged into this wilderness [the estate] and condemned to see the same stupid people from morning till night and listen to their futile conversations."
+C. Professor Serebryakov says to Helena, "Of course I see that it is foolish for me to live so long, but what I shall soon set you all free. My life cannot drag on much longer."
+D. Vanya says to himself, "I was proud of [Professor Serebryakov] and of his learning. I received all his words and writings as inspired and now? Now he has retired, and what is the total of his life? A blank!"
+Answer: B
+
+Question 6:
+[COE]
+Which choice best completes the text with the most precise and contextually appropriate word or phrase?
+
+In the late 1970s, the price of collectible stamps from earlier in the century rose dramatically, which had the counterintuitive effect of engendering demand: buyers who hadn’t previously wanted to purchase old stamps suddenly thronged the market, believing prices would continue to rise and the stamps could be resold later at a profit. This ______ confidence likely exacerbated the speculative frenzy, ultimately destabilizing the market.
+
+A. circumspect
+B. overweening
+C. tentative
+D. judicious
+Answer: B
+
+Question 7:
+[COE]
+Which choice best describes the main purpose of the text?
+
+Pteropods are small swimming snails with thin, delicate calcium carbonate shells. These animals are thought to be especially vulnerable to ocean acidification due to calcium carbonate’s susceptibility to dissolution at lower pH values. Victoria L. Peck and colleagues recently found that the periostracum (a protective coating on pteropods’ outer shells) prevents this dissolution when intact. Moreover, the team was surprised to discover that even when the periostracum is breached, pteropods can still mitigate damage by rebuilding the inner shell wall.
+
+A. To call for additional research on biological mechanisms that improve pteropod survival rates
+B. To present findings that suggest that a concern about the effects of ocean acidification on pteropod shells may be unwarranted
+C. To address some of the ways ocean acidification has altered pteropod behavior over time
+D. To discuss a conclusion drawn in a study of calcium carbonate’s role in protecting the periostracum of pteropods
+Answer: B
+
+Question 8:
+[COE]
+According to the passage, Titan differs atmospherically from Ganymede and Callisto because of a difference in
+
+Saturn’s giant moon Titan is the only planetary satellite with a significant atmosphere and the only body in the solar system other than Earth that has a thick atmosphere dominated by molecular nitrogen. For a long time, the big question about Titan’s atmosphere was how it could be so thick, given that Jupiter’s moons Ganymede and Callisto, which are the same size as Titan, have none. The conditions for acquiring and retaining a thick nitrogen atmosphere are now readily understood. The low temperature of the protosaturnian nebula enabled Titan to acquire the moderately volatile compounds methane and ammonia (later converted to nitrogen) in addition to water. The higher temperatures of Jupiter’s moons, which were closer to the Sun, prevented them from acquiring such an atmosphere.
+
+A. rate of heat loss
+B. proximity to the Sun
+C. availability of methane and ammonia
+D. distance from its planet
+Answer: B
+
+Question 9:
+[COE]
+In his treatise on urban planning, architectural historian Lewis Mumford describes the ideal city as a living organism. The city-as-organism, a complex entity far greater than the sum of its parts, relies on a delicate ______ the constant flow of people and goods, the maintenance of public infrastructure, and the cultural exchange within its diverse neighborhoods.
+
+A. balance; the
+B. balance, the
+C. balance. The
+D. balance: the
+Answer: D
+
+Question 10:
+[COE]
+Based on the text, what piece of knowledge about the Pledge of Allegiance has recently become uncertain?
+
+It has long been thought that the original author of the US Pledge of Allegiance was Francis Bellamy, who said that he wrote the pledge one evening in August of 1892. But a historian recently discovered a newspaper article that was published several months before August 1892. The article describes students reciting the same pledge that Bellamy claims he first wrote in August. This means that Bellamy may not have created the pledge after all.
+
+A. How many changes were made to the pledge in the 1900s
+B. Which part of the pledge students liked best in 1892
+C. The name of the newspaper that first published the pledge
+D. The identity of the person who first wrote the pledge
+Answer: D
+

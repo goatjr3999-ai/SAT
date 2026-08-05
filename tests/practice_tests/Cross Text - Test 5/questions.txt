@@ -1,0 +1,267 @@
+Question 40:
+Based on the texts, how would NASA in Text 2 respond to the author of Text 1?
+
+Text 1
+ In some ways, astrology may seem scientific. After all, it uses scientific knowledge about heavenly bodies as well as scientific-sounding tools like star charts. Some people use astrology to generate expectations about future events and people’s personalities, much as scientific ideas generate expectations. Additionally, some people cite the experiences of those who believe that astrology has benefited them as proof that astrology is empirically valid.
+Text 2
+ Here at NASA, we study astronomy, the scientific study of celestial objects, not astrology. We do not depend on zodiac signs; we make irrefutable calculations with mathematics. Astrology is not based on astronomy. Astrology is the belief that the positions of stars and planets can influence human events. Although astrologers seek to explain the natural world, they don’t attempt to critically evaluate whether those explanations are valid — and this is a key part of science.
+
+
+A. By arguing that far too many predictions based on astrology fail, proving that astrology is not based on science
+B. By refuting any argument advocating that astrology is scientific to some extent
+C. By challenging the proponents of astrology to put forth evidence to support their claim that astrology is scientific to some extent
+D. By conceding to the claim that astrology is scientific and beneficial even while noting specific reservations
+Answer: B
+
+Question 22:
+Based on the texts, the author of Text 2 would most likely agree with which statement about Blackwell and colleagues' findings (Text 1)?
+
+Text 1
+In parts of New Zealand, the stoat is a major predator of the house mouse. Researcher G.L. Blackwell and colleagues found that when this predation pressure on house mice was temporarily reduced, their numbers significantly increased. This finding illustrates a foundational ecological principle: predators control prey population numbers.
+Text 2
+François Potvin and colleagues found that excluding wolves from a site in Quebec, Canada, where they typically prey on white-tailed deer had no significant effect on white-tailed deer abundance. Many other predation relief studies show an increase in prey abundance, but those studies often focus on small, rapidly reproducing prey, like birds, mice, and frogs, rather than large, slowly reproducing prey, like white-tailed deer, which could account for the difference between those results and Potvin and colleagues' results.
+
+
+A. They may have been different if the ratio of the body size of stoats to that of house mice was greater than it is.
+B. They may reflect a response that does not tend to be observed in prey species other than house mice.
+C. They may be partially explained by the fact that stoats are smaller and reproduce more rapidly than wolves.
+D. They may be partially attributable to physical characteristics of house mice that are not shared by white-tailed deer.
+Answer: D
+
+Question 45:
+Based on the texts, how would Odom and colleagues (Text 2) most likely respond to the view of birdsong presented in Text 1?
+
+Text 1
+For decades, ornithologists assumed that if they saw a singing purple finch—a bird species found in temperate North America—they must be observing a male. That’s because birdsong has long been considered a male trait; researchers have argued that singing enables males to attract mates and claim territory.
+Text 2 
+Recent evidence shows that a female purple finch is as capable of song as a male is. In fact, Karan J. Odom and colleagues found evidence of female song in 71% of the 323 species they examined. They claim that the historical mischaracterization of birdsong as a male trait is largely the result of bias: much of the research ornithologists have carried out has been near universities in the temperate northern hemisphere, where female birdsong is less common than it is in the tropics.
+
+
+A. They would underscore that male songbirds in temperate zones are likely using their songs for different purposes than are male songbirds in the tropics.
+B. They would argue that it was influenced by the kinds of study sites researchers tended to select.
+C. They would claim that other factors than mate attraction and territorial defense have driven the evolution of singing in male birds.
+D. They would suggest that it reflects a tendency to study male birds rather than female birds.
+Answer: B
+
+Question 31:
+The author of Text 1 and the author of Text 2 both discuss which topic?
+
+Text 1
+From the extinct greater Haitian ground sloth to the living Hoffmann’s two-toed sloth, sloths are among the most appealing animals native to the Americas. But scientists still have a lot to learn about them. Unlike their ancient ground-dwelling relations, today’s sloths spend most of their time high up in trees. The sloths’ inaccessibility has made it hard for scientists to study them.
+Text 2
+By using a hat-like monitor, biologist Bryson Voirin and colleagues can at last discover the previously hidden activities of sloths. Such monitors can provide information to correct misconceptions. It was long believed that sloths sleep all day. But, in fact, in the wild, sloths sleep about nine hours a day.
+
+
+A. How extinct sloths compare with living sloths
+B. Scientists’ efforts to understand sloths
+C. The benefits of putting monitoring devices on sloths
+D. Changes in sloths’ habitats
+Answer: B
+
+Question 20:
+Based on the texts, the author of Text 1 would most likely agree with the author of Text 2 on which point?
+
+Text 1
+Isaac Asimov, author of The Naked Sun and The Gods Themselves, is highly regarded despite his mediocre writing style. His prose is workmanlike; his characters are flat and discuss ideas rather than emotions. That his work is enjoyable despite this is a testament to his prodigious imagination—even if people read his books only for the ideas, they will have plenty to consider.
+Text 2
+Asimov is critiqued for his style, but it is wrong to fault a writer for failing to do what he never intended to do. For example, although most of his novel Foundation consists of people discussing science and politics and we find out little about his characters' lives, Asimov wanted to convey the vast sweep of human history over centuries, and one of his points is that at such a timescale, individuals don’t matter. Thus his lack of characterization is central to his thematic aims.
+
+
+A. The Naked Sun is more representative of Asimov's writing style than Foundation is.
+B. Asimov's writing style is often unfairly criticized.
+C. Asimov's characters can be concerned mainly with intellectual matters rather than emotions.
+D. Asimov was correct to suggest that individual humans have little influence over the course of human history.
+Answer: C
+
+Question 49:
+Based on the texts, how would the author of Text 2 most likely respond to the overall characterization in Text 1 of the publicity campaign?
+
+Text 1
+The Roadmender, The Life of Martin R. Delany, and twenty-three other works of the late 1800s and early 1900s were rerelapsed in 2020 as publicity for a prestigious prize for women writers of fiction. Recognizing that women long had to use male pseudonyms for their works to be granted serious consideration (by publishers and readers alike), the campaign restored the authors’ given female names in place of such pseudonyms and brought visibility to identities that should not have been hidden.
+Text 2
+The belief that women historically were barred from publishing under names perceived as female is persistent. That it is also an overgeneralization becomes obvious when considering writers such as Elizabeth Barrett Browning, who published Poems and many other works under her own name in the 1800s, and Mary Mackay, who elected to use the female pseudonym Marie Corelli for her novels and stories in the late 1800s.
+
+
+A. By suggesting that Barrett Browning and Mackay are among the historical examples that challenge the assumption about the historical use of pseudonyms by female writers that is presented in Text 1
+B. By agreeing that the authors of The Roadmender, The Life of Martin R. Delany, and the other works referred to in Text 1 were not afforded the same opportunities as Barrett Browning and Mackay to shape their own representations when publishing
+C. By acknowledging that the circumstances of publication for Barrett Browning and Mackay differed from those for the authors whose works are the focus of Text 1, given that Barrett Browning and Mackay each published multiple works
+D. By asserting that while it is clearly inappropriate to conclude that Barrett Browning was motivated by the same set of factors as the authors of the works discussed in Text 1 to publish under the names they did, it is appropriate to conclude that Mackay was
+Answer: A
+
+Question 17:
+Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree with which statement about many new albums?
+
+Text 1
+In the past, music albums were created to be played back on physical formats like records. A typical record holds only about twenty-five minutes of music on each of its shiny black sides. This forced artists and producers to think carefully about what music to include on an album and what to leave out. Today’s artists don’t have to worry as much about fitting their music on physical formats. For this reason, many of today’s artists are making albums that are much longer than albums from decades past.
+Text 2
+In today’s digital age, most music is created to be streamed from online services. These services remove the limitations of physical formats like records and CDs. This may be why many new albums are longer and have more songs than albums crafted for physical formats. Unfortunately, many of these longer albums suffer from a lack of focus.
+
+
+A. Many new albums include more artwork than albums generally once included.
+B. Many new albums sell more copies than albums generally once sold.
+C. Many new albums are longer than albums generally once were.
+D. Many new albums are quieter than albums generally once were.
+Answer: C
+
+Question 32:
+Based on the texts, how would Tsai et al. (Text 2) most likely respond to Madhusudhan et al.’s research, as presented in Text 1?
+
+Text 1
+Hycean planets are a class of exoplanets (planets outside our solar system) with oceans of liquid water—critical to supporting life—and atmospheres rich in hydrogen. Computer models have determined that for potential hycean planets, the range of the habitable zone (HZ), the distance from a star that allows a planet to retain liquid water on its surface, begins at about 1 astronomical unit (AU). In 2021, Nikku Madhusudhan et al. identified K2-18 b as a hycean candidate, noting that the planet is located right on the inner edge of the HZ.
+Text 2
+ In a 2023 paper, Shang-Min Tsai et al. claimed that the hydrogen-rich atmospheres of K2-18 b and other hycean candidates admit wavelengths of light that cause elevated surface temperatures and increased water evaporation. Unlike earlier assessments, Tsai et al.’s calculations therefore placed the inner edge for these planets’ HZ as far out as 3.85 AU.
+
+
+A. By arguing that K2-18 b and other hycean candidates are unlikely to support life because these planets are located too far from the stars they orbit.
+B. By stating that the chemical composition of the atmosphere of the hycean candidate Madhusudhan et al. identified suggests that this planet’s surface is unlikely to harbor liquid water.
+C. By maintaining that Madhusudhan et al. relied on a model whose estimates of surface temperatures on hycean candidates are likely too high.
+D. By observing that unlike the hycean candidate Madhusudhan et al. discovered, most other types of planets with hydrogen-rich atmospheres are likely located within the HZ.
+Answer: B
+
+Question 29:
+Based on the texts, which choice best describes a point on which the author of Text 1 and the author of Text 2 would most likely agree?
+
+Text 1: In separate studies, Stephen Meding and Robert J. Zasoski and Xinhua He and colleagues examined whether plants transfer nutrients to one another using a common mycorrhizal network (CMN)—a lattice of fungal strands in the soil. Meding and Zasoski excluded all pathways other than the CMN by using barriers to keep the plants' root systems separate while allowing mycorrhizal strands through—a crucial step He and colleagues' study did not take.
+Text 2: Meding and Zasoski took the necessary precaution of separating the plants' root systems (thereby excluding root-to-root transmission). However, any barrier used must allow the thread-like hyphae of a CMN to pass through, and this permeability would also allow liquids through. Thus, the researchers' experimental design cannot ensure that any nutrient transfer observed can be attributed to a CMN and not to some other pathway.
+
+
+A. Meding and Zasoski's study effectively excluded any explanation for nutrient transfer other than via a CMN.
+B. Excluding root-to-root transfer of nutrients between plants is sufficient to ensure that any observed nutrient transfer must involve a CMN.
+C. He and colleagues' study was not designed in a way that would allow it to produce compelling evidence that nutrient transfer occurred via a CMN.
+D. A barrier that is impervious to both roots and fungal strands is necessary to evaluate nutrient transfer via a CMN.
+Answer: C
+
+Question 10:
+Which choice best describes the relationship between the two texts?
+
+**Text 1**
+ A prevailing model in neuroscience posits that adult hippocampal neurogenesis (AHN), the birth of new neurons in the brain’s memory center, is fundamental for spatial learning. This model is largely built on research in which laboratory rodents with experimentally increased AHN demonstrate superior performance in navigating mazes, suggesting a direct causal link between the rate of neurogenesis and the ability to form new spatial memories.
+**Text 2**
+ Neuroscientist Akiko Kobayashi and her team recently examined the role of AHN in prairie voles, a species known for forming stable, long-term spatial maps in the wild. The researchers used a genetic technique to halt neurogenesis in one group of voles. They found that while these voles were slightly slower to learn a new environment, their ability to navigate using well-established, familiar maps was indistinguishable from that of the control group, even months later.
+
+
+A. Text 2 presents a finding that challenges the generalizability of the model described in Text 1.
+B. Text 2 offers a detailed explanation for the biological mechanism underlying the trend observed in the research in Text 1.
+C. Text 2 presents an observation that questions the validity of the conclusions from the research mentioned in Text 1.
+D. Text 2 describes a study that confirms the necessity of the process discussed in Text 1 for a different species.
+Answer: A
+
+Question 12:
+Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree on which point?
+
+Text 1:
+For thousands of years, O’odham farmers in the Sonoran desert of the southwestern US and northern Mexico have cultivated elderberries and chia seeds, sometimes planting these species together so that the elderberry bushes provide shade for chia flowers. Doing so helps protect chia flowers from the harshest heat and light and thereby helps prevent soil moisture from evaporating.
+Text 2:
+ Chia flowers are well adapted to growing in the desert but grow best when shaded. Inspired by O’odham farmers, who often strategically plant chia flowers in the shade of sun-hardy species like elderberry bushes for protection from the sun and heat, Gary Nabhan and colleagues planted chia flowers in the shade of solar panels in the Sonoran desert and found that the plants grew well, suggesting to Nabhan and colleagues that the panels provide a benefit similar to that provided by elderberry bushes.
+
+
+A. Elderberry bushes can provide shade that protects chia flowers from high-intensity heat and light.
+B. Nabhan’s team’s method could be refined to more actively prevent soil moisture from evaporating.
+C. Compared with Nabhan’s approach, the O’odham approach has the advantage of producing chia seeds.
+D. Elderberry bushes grow best when planted in shaded areas, while chia flowers do not require shade to thrive.
+Answer: A
+
+Question 24:
+Based on the texts, how would the author of Text 2 most likely respond to the characterization of Meding and Zasoski’s study in Text 1?
+
+**Text 1**
+ In separate studies, Stephen Meding and Robert J. Zasoski and Xinhua He and colleagues examined whether plants transfer nutrients to one another using a common mycorrhizal network (CMN)—a lattice of fungal strands in the soil. Meding and Zasoski excluded all pathways other than the CMN by using barriers to keep the plants’ root systems separate while allowing mycorrhizal strands through—a crucial step He and colleagues’ study did not take.
+**Text 2**
+ Meding and Zasoski took the necessary precaution of separating the plants’ root systems (thereby excluding root-to-root transmission). However, any barrier used must allow the thread-like hyphae of a CMN to pass through, and this permeability would also allow liquids through. Thus, the researchers’ experimental design cannot ensure that any nutrient transfer observed can be attributed to a CMN and not to some other pathway.
+
+
+A. By asserting that the author of Text 1 has overstated the effectiveness of the method that Meding and Zasoski used
+B. By pointing out that the author of Text 1 has overlooked studies that reported results that contradict those reported by Meding and Zasoski
+C. By claiming that the author of Text 1 has misrepresented what Meding and Zasoski were trying to achieve with their experimental design
+D. By arguing that the author of Text 1 has conflated the method used by Meding and Zasoski with that used by He and colleagues
+Answer: A
+
+Question 30:
+Based on the texts, what would Salman-Engin and colleagues (Text 1) most likely say about the discussion of the model in Text 2?
+
+Text 1
+Studies contributing to the body of evidence that people generally enjoy socializing have routinely focused on interactions in ongoing relationships (from spouses to classmates), but psychologist Selin Salman-Engin and colleagues have demonstrated the benefit of making connections with strangers. Greater positive affect was reported by participants in their study who warmly thanked a shuttle driver than by those who didn’t speak to the driver.
+Text 2
+Social relations research commonly draws on a model that centers an individual within three concentric circles. The innermost circle holds one's strongest ties (e.g., a treasured friend), the next holds close but less important ties (e.g., a teammate), and the outermost holds weak ties (those more distant but important enough to be counted as part of one’s social network).
+
+
+A. It underscores that most research on social interactions fails to capture a category of connections that has the capacity to contribute positively to individuals’ sense of well-being.
+B. It reflects an overemphasis on relationship longevity in researchers’ evaluations of the relative importance of various connections in an individual's social network.
+C. It explains researchers’ observations that individuals typically expect interactions with familiar people to be more positive than their interactions with unfamiliar people would be.
+D. It emphasizes distinctions among types of close connections that aren't adequately represented in social relations research, since most studies categorize relationships as either close or casual.
+Answer: A
+
+Question 50:
+Based on the texts, how would Ert and Erev (Text 2) most likely respond to Kahneman and Tversky's finding (Text 1)?
+
+Text 1
+In a seminal 1979 study, Daniel Kahneman and Amos Tversky presented students and college faculty from Israel, Sweden, and the United States with hypothetical questions involving financial decisions. Finding that participants' responses indicated that losses have a greater psychological impact than equivalent gains do, the researchers formulated the concept of loss aversion, which has since informed research in fields ranging from cognitive psychology to transportation studies.
+Text 2
+Eyal Ert and Ido Erev conducted an experiment in which two groups of Israeli students were exposed to financial choices that involved potential losses of either relatively minor sums of money, such as 10 Israeli shekels (low-stakes contexts), or more substantial sums, such as 100 Israeli shekels (high-stakes contexts). The researchers concluded that only the latter contexts were associated with loss aversion.
+
+
+A. By observing that researchers' ability to assess feelings about financial decisions is contingent on gathering adequate data about gains and losses.
+B. By agreeing that experimental results support the idea that some people tend to be more cognizant of financial losses than of gains.
+C. By disputing Kahneman and Tversky's claim that a tendency to place excessive emphasis on financial losses accounts for the loss aversion observed in fields such as cognitive psychology and transportation studies.
+D. By contending that the attitude toward financial losses that Kahneman and Tversky observed is contingent on the magnitude of outcomes.
+Answer: D
+
+Question 34:
+Based on the texts, how would Zeif and Yechiam (Text 2) most likely respond to Kahneman and Tversky’s finding (Text 1)?
+
+Text 1:
+In a seminal 1979 study, Daniel Kahneman and Amos Tversky presented students and college faculty from Israel, Sweden, and the United States with hypothetical questions involving financial decisions. Finding that participants’ responses indicated that losses have a greater psychological impact than equivalent gains do, the researchers formulated the concept of loss aversion, which has since informed research in fields ranging from marketing to law.
+Text 2:
+Dana Zeif and Eldad Yechiam conducted an experiment in which study participants from five countries were exposed to financial choices that involved potential losses of either relatively minor sums of money, such as 20 US dollars (low-stakes contexts), or more substantial sums, such as 100 US dollars (high-stakes contexts). The researchers concluded that only the latter contexts were associated with loss aversion.
+
+
+A. By contending that the attitude toward financial losses that Kahneman and Tversky observed is contingent on the magnitude of outcomes.
+B. By agreeing that experimental results support the idea that some people tend to be more cognizant of financial losses than of gains.
+C. By observing that researchers’ ability to assess feelings about financial decisions is contingent on gathering adequate data about gains and losses.
+D. By disputing Kahneman and Tversky’s claim that a tendency to place excessive emphasis on financial losses accounts for the loss aversion observed in fields such as marketing and law.
+Answer: A
+
+Question 4:
+Which choice best describes a difference between the approach of Text 1 and the approach of Text 2?
+
+Text 1
+Uisdean Nicholson and his team have discovered evidence in seismic data of a 40-kilometer-wide subsurface crater beneath nearly a kilometer of water off the coast of West Africa that is consistent with a 400-meter-wide asteroid striking the seafloor. This structure, which the team named Nadir, exhibits all the telltale signs of a high-velocity impact crater: an elevated rim, a circular shape, a terraced floor, and a pronounced area of uplift at its center.
+Text 2
+ Both carbonate dissolution and subsurface salt withdrawal can cause craterlike depressions without the need for a high-velocity impact. However, carbonate dissolution is very unlikely to have occurred in the vicinity of Nadir, and although subsurface salt withdrawal could have plausibly occurred in this area and would result in a depression with a terraced floor or a circular shape, it would not exhibit the area of central uplift seen at Nadir.
+
+
+A. Text 1 dispassionately describes Nicholson and colleagues’ findings and conclusions, whereas Text 2 attempts to convey the researchers’ excitement on discovering Nadir.
+B. Text 1 focuses on features Nadir lacks, whereas Text 2 indicates features it shares with other geological depressions.
+C. Text 1 emphasizes the evidence supporting an asteroid impact as the cause of Nadir, whereas Text 2 argues against that explanation.
+D. Text 1 discusses a single plausible cause of Nadir, whereas Text 2 evaluates two possible causes.
+Answer: D
+
+Question 21:
+Based on the texts, what would the author of Text 2 most likely say in response to the underlined claim in Text 1?
+
+Text 1
+In 2019 Belo Horizonte, Brazil, was named a City of Gastronomy by UNESCO in recognition of the city’s unique food culture. The honor is well known among residents of the city as well as tourists who visit. __It’s obvious that the selection of Belo Horizonte by UNESCO has brought awareness to local recipes, cooking practices, and chefs and has provided a boost to the city’s tourism industry.__
+Text 2
+ Many people in Belo Horizonte’s restaurant industry hoped that food tourism would increase after the city was chosen as a City of Gastronomy in 2019. However, as researcher Eerang Park and colleagues argue, cities must still create effective marketing strategies to benefit fully from being named a City of Gastronomy. Without an intentional effort to promote the city’s food scene, many current and potential visitors to Belo Horizonte may not even be aware that it’s home to uniquely delicious food.
+
+
+A. Many people worked together to help Belo Horizonte be recognized by UNESCO, but chefs deserve the most credit for Belo Horizonte’s selection as a City of Gastronomy.
+B. Belo Horizonte may have benefited from being selected by UNESCO, but tourism can likely be further increased by making more potential visitors aware of the city’s status as a City of Gastronomy.
+C. The naming of Belo Horizonte as a City of Gastronomy was long overdue, given the city’s unique and delicious food.
+D. The benefits of being named a City of Gastronomy extend well beyond tourism.
+Answer: B
+
+Question 46:
+Based on the texts, the author of Text 1 would most likely agree with the author of Text 2 on which point?
+
+Text 1:
+Thomas Piketty’s book Capital in the Twenty-First Century has a more rigorous structure than its sequel, Capital and Ideology. While the first book’s chapters all contribute to bolstering a clear, coherent argument about income inequality, the second book’s digressions on subjects such as the history of vegetarian diets in India do not just make the book tedious but also muddy its reasoning.
+Text 2:
+Capital and Ideology has different aims than Piketty’s earlier books. It should be judged not just in the context of Piketty’s previous work but placed next to books like Robert Burton’s Anatomy of Melancholy, in which the stated theme of the varieties of melancholy is mainly an excuse for a polymath to map his own mind. Even when sections do not explicitly support the central thesis, they link to each other in intriguing ways. None of them should be considered extraneous.
+
+
+A. Capital and Ideology is notably different in structure from some of Piketty’s earlier work.
+B. The material in Capital and Ideology on vegetarian diets in India is essential to the book.
+C. Capital in the Twenty-First Century is a superior book to Capital and Ideology.
+D. Capital and Ideology was influenced by the writing of Robert Burton.
+Answer: A

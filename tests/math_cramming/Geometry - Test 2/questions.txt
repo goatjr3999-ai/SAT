@@ -1,0 +1,77 @@
+Question 1:
+A line intersects two parallel lines, forming four acute angles and four obtuse angles. The measure of one of the acute angles is {{MATH_1}} . The sum of the measures of one of the acute angles and three of the obtuse angles is {{MATH_2}}. What is the value of {{MATH_3}}?
+
+Answer: 1840
+
+Question 2:
+A circle in the xy-plane has its center at {{MATH_5}}. Line t is tangent to this circle at the point {{MATH_6}}, where a is a constant. The slope of line t is {{MATH_7}}. What is the value of a?
+
+A. {{MATH_8}}
+B. {{MATH_9}}
+C. {{MATH_10}}
+D. {{MATH_11}}
+Answer: D
+
+Question 3:
+In triangle PQR, the measure of angle P is{{MATH_12}}, the measure of angle Q is{{MATH_13}}and the measure of angle R is{{MATH_14}} If side QR is extended through point R to point S, and the measure of angle PRS is {{MATH_15}} , what is the value of x+y?
+
+Answer: 31
+
+Question 4:
+The triangle inequality theorem states that the sum of any two sides of a triangle must be greater than the length of the third side. If a triangle has side lengths of 5 and 9, which inequality represents the possible lengths, x, of the third side of the triangle?
+
+A. {{MATH_17}}
+B. {{MATH_18}}
+C. {{MATH_19}}
+D. {{MATH_20}}
+Answer: C
+
+Question 5:
+A right circular cone has a volume of 34,496π cubic centimeters and the area of its base is 3,136π square centimeters. What is the slant height, in centimeters, of this cone?
+
+A. {{MATH_21}}
+B. {{MATH_22}}
+C. {{MATH_23}}
+D. {{MATH_24}}
+Answer: D
+
+Question 6:
+An object has a mass of {{MATH_25}} grams and a volume of {{MATH_26}} cubic centimeters. What is the density, in grams per cubic centimeter, of the object?
+
+A. {{MATH_27}}
+B. {{MATH_28}}
+C. {{MATH_29}}
+D. {{MATH_30}}
+Answer: A
+
+Question 7:
+In triangle {{MATH_31}}and triangle {{MATH_32}} , the measures of angles {{MATH_33}}G and {{MATH_34}}L are each 30°. The lengths of {{MATH_35}} and {{MATH_36}} are each {{MATH_37}} centimeters, and{{MATH_38}}. Which additional piece of information would be necessary to prove that triangle {{MATH_39}} is congruent to triangle {{MATH_40}} ?
+
+A. The lengths of {{MATH_41}} and {{MATH_42}} are each {{MATH_43}}centimeters.
+B. The measures of angles {{MATH_44}}{{MATH_45}}H and{{MATH_46}} M are each {{MATH_47}}°.
+C. The measures of angles F and K are each {{MATH_48}}°.
+D. No additional information is necessary.
+Answer: D
+
+Question 8:
+In the right triangle shown, what is the value of sin x°?
+
+A. {{MATH_49}}
+B. {{MATH_50}}
+C. {{MATH_51}}
+D. {{MATH_52}}
+Answer: C
+
+Question 9:
+In the given figure, {{MATH_53}} is the diameter of semicircle O. Angles Q, R, and S are right angles, and point P is the midpoint of {{MATH_54}} . If PQ = 52 feet and NS = 18 feet, the area of the figure can be expressed as {{MATH_55}} square feet, where a and b are integers. What is the value of {{MATH_56}} ?
+
+Answer: -1534
+
+Question 10:
+In right triangle ABC, angles A and B are acute, side AC has a length of{{MATH_58}}, and {{MATH_59}}. What is the length of side BC rounded to the nearest tenth?
+
+A. {{MATH_60}}
+B. {{MATH_61}}
+C. {{MATH_62}}
+D. {{MATH_63}}
+Answer: B

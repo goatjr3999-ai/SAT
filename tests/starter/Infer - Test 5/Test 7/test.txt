@@ -1,0 +1,130 @@
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+North American gray wolves usually have mixed gray and white fur, but some members of the species have a version of a gene, or gene variant, that gives them a mostly black coat instead. Sarah Cubaynes and her team studied twelve populations of North American gray wolves. They found that the black-furred wolves are more common in areas where outbreaks of distemper virus happen regularly. The team also discovered that the black-furred wolves are more likely to be immune to distemper than the gray-furred wolves are. Taken together, these findings suggest that _________
+
+
+A. North American gray wolves experience more outbreaks of distemper virus than other wolf species do.
+B. The gene variant that results in black fur may be linked to immunity to the distemper virus.
+C. The average life span of gray wolves is likely to increase over time because of a particular gene variant.
+D. Gray-furred wolves will soon replace black-furred wolves across North America.
+Answer: B
+
+Question 2:
+[Infer]
+Which choice most logically completes the text?
+
+Although military veterans make up a small proportion of the total population of the United States, they occupy a significantly higher proportion of the jobs in the civilian government. One possible explanation for this disproportionate representation is that military service familiarizes people with certain organizational structures that are also reflected in the civilian government bureaucracy, and this familiarity thus _____
+
+
+A. makes civilian government jobs especially appealing to military veterans.
+B. alters the typical relationship between military service and subsequent career preferences.
+C. encourages nonveterans applying for civilian government jobs to consider military service instead.
+D. increases the number of civilian government jobs that require some amount of military experience to perform.
+Answer: A
+
+Question 3:
+[Infer]
+Which choice most logically completes the text?
+
+Colonized by Spain in the 1600s, New Mexico is home to a dialect of Spanish that differs significantly from dialects spoken in Spain’s other former colonies in the Americas. Most notably, the New Mexican dialect retains older features of the language that other dialects lost in later centuries. But why would it have done so? New Mexico was so distant from population centers in Spain’s other colonies that it attracted few colonists after its initial colonization. Geographical isolation in turn would have limited the exposure of New Mexican colonists to changes occurring to Spanish grammar and vocabulary elsewhere in the empire. Thus, the present-day uniqueness of the New Mexican dialect suggests the extent to which ____
+
+
+A. a language can protect itself from being influenced by other languages.
+B. the grammar and vocabulary of any given language change over time.
+C. geographical isolation can influence how a language develops.
+D. speakers of one dialect of a language can understand speakers of another dialect of that language.
+Answer: C
+
+Question 4:
+[Infer]
+Which choice most logically completes the text?
+
+To investigate the history of plate subduction—when one of Earth’s tectonic plates slides beneath another—Sarah M. Aarons and colleagues compared ancient rocks from the Acasta Gneiss Complex in Canada to modern rocks. Using isotope analysis, the researchers found that Acasta rocks dating to about 4.02 billion years ago (bya) most strongly resemble modern rocks formed in a plume setting (an area in which hot rocks from Earth’s mantle flow upward into the crust). By contrast, they found that Acasta rocks dating to about 3.75 bya and 3.6 bya have an isotope composition that is similar to that of modern rocks formed in a subduction setting. Aarons’s team therefore concluded that ____
+
+
+A. subduction-like processes began occurring in some locations no later than 3.75 bya.
+B. subduction replaced mantle plume formation as the most common geological process by about 4.02 bya.
+C. the majority of the rocks in the Acasta Gneiss Complex formed through subduction.
+D. the rocks in the Acasta Gneiss Complex are of a more recent origin than scientists previously thought.
+Answer: A
+
+Question 5:
+[Infer]
+Which choice most logically completes the text?
+
+Some businesses believe that when employees are interrupted while doing their work, they experience a decrease in energy and productivity. However, a team led by Harshad Puranik, who studies management, has found that interruptions by colleagues can have a social component that increases employees’ sense of belonging, resulting in greater job satisfaction that benefits employees and employers. Therefore, businesses should recognize that _________.
+
+
+A. the interpersonal benefits of some interruptions in the workplace may offset the perceived negative effects.
+B. in order to maximize productivity, employers should be willing to interrupt employees frequently throughout the day.
+C. most employees avoid interrupting colleagues because they don’t appreciate being interrupted themselves.
+D. in order to cultivate an ideal workplace environment, interruptions of work should be discouraged.
+Answer: A
+
+Question 6:
+[Infer]
+Which choice most logically completes the text?
+
+In many cultures, a handshake can create trust between people. Engineer João Avelino and his team are designing a robot to shake hands with a human in order to improve human-robot interactions. The robot hand adjusts its movements and pressure to better imitate the feel of a human hand. The researchers want the robot's handshake to feel realistic because _________
+
+
+A. Lifelike handshakes may make people more comfortable interacting with robots.
+B. It’s easier to program a robot to perform handshakes than it is to program a robot to perform some other types of greetings.
+C. People are less likely to interact with robots that don’t look like humans.
+D. The robot in the researchers’ study may have uses other than interacting with humans.
+Answer: A
+
+Question 7:
+[Infer]
+Which choice most logically completes the text?
+
+A main goal of the Association for the Advancement of Creative Musicians (AACM), an arts organization founded in 1965, is to advance new works by Black musicians. The AACM achieves this goal in part by focusing on young artists. By having established musicians and composers serve as mentors, the AACM gives young artists the benefits of expert technical training and creative guidance. Numerous organizations offer similar kinds of support to new generations of painters, writers, and other artists, suggesting that ____
+
+
+A. artists of all ages benefit more from technical training than from creative guidance.
+B. many arts organizations recognize the importance of providing opportunities for young artists to learn from experienced mentors.
+C. most established artists could become even better artists by serving as mentors.
+D. finding a mentor is more important for musicians than it is for painters, writers, and other types of artists.
+Answer: B
+
+Question 8:
+[Infer]
+Which choice most logically completes the text?
+
+To create the poems in her 2017 collection *One Last Word*, poet Nikki Grimes used a writing method called the golden shovel. This method often involves choosing a line from an existing poem and then using each word from that line as the last word of each line in a new poem. Grimes wanted the poems in *One Last Word* to honor important Black poets of the past, so she chose lines by poets such as Langston Hughes and Georgia Douglas Johnson. Writing in this way can be challenging and might seem as though it would produce awkward poems. However, reviewers praised *One Last Word* as a beautiful and powerful tribute to the poets who inspired it. This reaction suggests that ____
+
+
+A. most reviewers didn’t understand Grimes’s goal for One Last Word.
+B. Grimes successfully used the golden shovel method to achieve her goal for One Last Word.
+C. Langston Hughes and Georgia Douglas Johnson are two of Grimes’s favorite poets.
+D. Grimes inspired many other writers to create poems using the golden shovel method.
+Answer: B
+
+Question 9:
+[Infer]
+Which choice most logically completes the text?
+
+Georgia Douglas Johnson wrote many plays in the 1920s and 1930s. At the time, professional theater companies rarely put on plays by Black women, so few of Johnson’s plays made it to the stage. Only a small number of her plays were published in her lifetime. But that doesn’t mean that Johnson never learned what other people thought of her plays. Johnson hosted weekly get-togethers for fellow Black writers and artists in her Washington, D.C., home. Attendees would read and discuss one another’s work, including Johnson’s own. These gatherings could therefore serve as:
+
+
+A. an occasion for professional theater companies to put on plays.
+B. an opportunity for Johnson to get feedback on her plays.
+C. a way for Johnson to learn about plays that were produced in other cities.
+D. subject matter for future plays by Johnson.
+Answer: B
+
+Question 10:
+[Infer]
+Which choice most logically completes the text?
+
+Dutch painters in the sixteenth and seventeenth centuries often showed tables filled with large wheels of cheese or carved shards of butter. Some art historians, noting that dairy products were a major component of the Dutch diet, interpret these depictions as reflections of everyday Dutch eating habits. However, a group of researchers recently reviewed hundreds of food-related paintings and found that lemons—which could only be acquired in the Netherlands at great cost, since they had to be imported from warmer climates—feature in Dutch paintings of the period more than three times as frequently as dairy products do, thereby casting doubt on the idea that _____
+
+
+A. dairy products were a more significant component of the Dutch diet of the period than lemons were.
+B. food was a more popular subject among Dutch painters than it was among painters from other countries at the time.
+C. depictions of food in Dutch paintings of the period should be taken as realistic representations of Dutch eating habits.
+D. Dutch painters of the period may have depicted foods for symbolic reasons rather than to show what Dutch people typically ate.
+Answer: C
+

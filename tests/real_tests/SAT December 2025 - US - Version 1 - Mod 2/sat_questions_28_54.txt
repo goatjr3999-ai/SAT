@@ -1,0 +1,334 @@
+Question 1:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Scholars of Mexican literature have focused their attention on writers of the fertile period following the Mexican Revolution (which lasted from 1910-1920), such as Laura Esquivel. These writers are often considered the leading figures of the Mexican literary canon, but nineteenth-century writers like Antonio Menendez de la Peña are just as ______ Mexican literature.
+
+
+A. overlooked in
+B. polarizing in
+C. essential to
+D. knowledgeable about
+Answer: C
+
+Question 2:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Several scholars of children's literature recently ___ to discuss the work of Sharon Bell Mathis, author of such lauded books as Ray Charles. Once together, they talked about her style, influences, and themes.
+
+
+A. stipulated
+B. convened
+C. cited
+D. ascribed
+Answer: B
+
+Question 3:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Whereas researchers long thought the Congo rainforest constrained the initial expansion of Bantu-speaking peoples (which today include the Kuria in Tanzania and the Shona in Zimbabwe) across subequatorial Africa, recent studies indicate that early Bantu communities managed to ___ the rainforest, a feat facilitated by drier conditions that opened up viable corridors through the vegetation.
+
+
+A. traverse
+B. decimate
+C. circumvent
+D. preserve
+Answer: A
+
+Question 4:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The extensive use of the costly pigment ultramarine in the paintings of Johannes Vermeer—creator of masterpieces such as Woman with a Lute (ca. 1662-1663)—was likely ____ as much by the pigment's chemical durability as by its exclusiveness and vivid blue hue: relative to indigo and other blue pigments employed by Vermeer and his contemporaries, ultramarine is less susceptible to degradation.
+
+
+A. constrained
+B. motivated
+C. expedited
+D. preempted
+Answer: B
+
+Question 5:
+Which statement, if true, would most directly support the underlined argument?
+
+It may seem that works of art are best experienced in person. However, in an online collection from the Tokyo Fuji Art Museum in Tokyo, Japan, people can zoom in on a high-quality image of the woodblock print Fine Breezy Day by Katsushika Hokusai. A student argues that __viewers usually can’t examine works of art in a museum as carefully as they can examine works in online collections.__
+
+
+A. Most museums have signs that provide basic information about the works of art on display.
+B. Many museums have started adding images of works from their collections to their websites.
+C. Most museums don’t allow visitors to get very close to the works of art on display.
+D. Museums don’t always put works by different artists together in one room.
+Answer: C
+
+Question 6:
+Which choice best states the main idea of the text?
+
+Harold Newton's Yellow Day, a wetland landscape with palm trees and lush greenery set against the pastel yellows and pinks of the sky and water, is typical of paintings by the mid-twentieth-century landscape artists now known as the Florida Highwaymen. Even though Florida was rapidly being developed at that time, tourists in particular held the idea that its distinctive tropical and coastal environments represented a pristine natural world, untouched by modernity. As with many Highwaymen paintings, the appeal of Yellow Day derived from its ability to capture this sentiment.
+
+
+A. Although many paintings by the Florida Highwaymen have subjects in common, Yellow Day is now more highly regarded by critics than other Florida Highwaymen paintings are.
+B. Although Yellow Day and other paintings by the Florida Highwaymen were originally celebrated for their depictions of Florida's natural environments, art historians now question these paintings' accuracy.
+C. Tourists to Florida in the mid-twentieth century were more likely to admire the sentiments expressed in Yellow Day and similar paintings than Florida residents were.
+D. Yellow Day and other paintings by the Florida Highwaymen were notable for their ability to appeal to a popular conception about the state of Florida in the mid-twentieth century.
+Answer: D
+
+Question 7:
+Which choice best states the main idea of the text?
+
+Mushrooms, including Coprinellus micaceus and species from the genus Cantharellus, are known to use the process of evapotranspiration to maintain internal temperatures below ambient temperatures. This hypothermic behavior is enhanced by the many thin gills (lamellae) on the fungi’s caps, with substantial surface area contributing to capacity for evaporation. Examining fungal thermoregulation mechanisms, Radames Cordéro et al. determined that molds and yeasts also engage in evaporative cooling to facilitate hypothermia and suggest that, lacking features analogous to lamellae, these unicellular fungi aggregate into colonies to derive the benefit of greater surface area.
+
+
+A. Although a certain thermoregulation process has been observed in colonies of unicellular fungi, it has yet to be observed at the individual organism level.
+B. A recent analysis of specimens of Coprinellus micaceus and species from the genus Cantharellus substantiated the findings of earlier studies of thermoregulation mechanisms in several types of fungi.
+C. A study of a fungal thermoregulation mechanism determined that it is used more efficiently by molds and yeasts than by mushrooms and other multicellular fungi due to variances in colony size.
+D. Despite significant differences in their biological structures, mushrooms, molds, and yeasts have been observed to utilize the same thermoregulation process to achieve a particular effect.
+Answer: D
+
+Question 8:
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Editor Jared Shurin’s 2023 anthology The Big Book of Cyberpunk contains 108 stories, an enormous number. The anthology has a vast chronological scope, including both James Tiptree Jr.’s "The Girl Who Was Plugged In" (1973) and Lavanya Lakshminarayan's "Études" (2020). In his introduction, Shurin defines cyberpunk as a subgenre of speculative fiction concerning "the influence of technology on the scale, the pace, or the pattern of human affairs"; however, __many critics have previously argued that cyberpunk is a literary movement that is not just idea driven but that has distinctive aesthetic components as well.__
+
+
+A. It points out a characteristic that is shared by the work of Tiptree and Lakshminarayan.
+B. It explains one of several points of disagreement that an editor of a cyberpunk anthology has with a group of critics.
+C. It explains why some critics think that a particular anthology of cyberpunk stories should not be considered a definitive summary of its genre.
+D. It suggests a way in which a particular editor's definition of cyberpunk may be considered incomplete.
+Answer: D
+
+Question 9:
+Which finding, if true, would most directly challenge the researchers' conclusion?
+
+Baltimore, Maryland, has installed shoreline-hardening structures—mainly jetties—along 71% of its shoreline to protect infrastructure from wave erosion and other hazards. To evaluate the responses of waterbirds at sites in the Chesapeake Bay on the US East Coast to shoreline hardening and other landscape alterations, Diann Prosser et al. surveyed waterbird communities consisting of sixty-four species, including the tundra swan and the great blue heron. Utilizing the Index of Waterbird Community Integrity (IWCI), on which a low score corresponds to low community integrity, the researchers concluded that shoreline hardening more negatively affects waterbirds than does land development for uses such as housing or agriculture.
+
+
+A. Waterbird communities at Margothy, a site with a relatively low percentage of developed land and a relatively high percentage of hardened shoreline, had lower average IWCI scores than did waterbird communities at Back River, a site with a higher percentage of developed land and a lower percentage of hardened shoreline.
+B. Waterbird communities at Stony and Curtis, two sites with relatively high percentages of developed land and hardened shoreline, had similar IWCI scores, whereas waterbird communities at Ware and Honga, two sites with relatively low percentages of developed land and hardened shoreline, had widely differing IWCI scores.
+C. Waterbird communities at Mill, a site with a relatively low percentage of developed land and a relatively high percentage of hardened shoreline, had higher average IWCI scores than did waterbird communities at Langford, a site with a higher percentage of developed land and a lower percentage of hardened shoreline.
+D. Waterbird communities at Old Road, a site with a relatively high percentage of developed land and hardened shoreline, had lower average IWCI scores than did waterbird communities at Onancock, a site with a relatively low percentage of developed land and hardened shoreline.
+Answer: C
+
+Question 10:
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+Joseph A. Walker's award-winning play The River Niger was produced in 1972 by the groundbreaking Negro Ensemble Company (NEC)__. NEC cofounder Robert Hooks, an actor, producer, and activist, had met actor and playwright Douglas Turner Ward while they were performing in a 1960 touring production of Lorraine Hansberry's play A Raisin in the Sun____. Together, they envisioned a theater company that would nurture and showcase the work of Black theater professionals__. Since NEC's founding in 1967, its workshops and performances have given Black playwrights, including Walker, a forum for their compelling stories.
+
+
+A. It provides additional information about a person mentioned in the text.
+B. It emphasizes the ongoing significance of the theater company discussed in the text.
+C. It illustrates the widespread influence of a play discussed earlier in the text.
+D. It explains the circumstances that led to the formation of the theater company discussed in the text.
+Answer: D
+
+Question 11:
+Which choice best describes the overall structure of the text?
+
+The Cygne is just one of approximately three million known historical shipwrecks spread throughout the world's oceans, and their impact on sea life and underwater ecosystems is of great interest to researchers. Leila Hamdan and colleagues were particularly curious about the effects of wooden shipwrecks on seafloor microbial communities. The researchers studied two wooden shipwrecks in the Gulf of Mexico by placing pieces of pine and oak between zero and 200 meters away from each shipwreck to collect samples of three kinds of microbes: bacteria, archaea, and fungi. They found that across the three microbial communities, peak diversity and richness was observed on pine and oak samples placed approximately 125 meters from the shipwrecks.
+
+
+A. It states the number of known shipwrecks, describes the historical significance of one of those shipwrecks, and then comments on the various microbes found at the shipwreck site.
+B. It notes a general scientific interest in shipwrecks' ecological effects, describes a specific study related to that interest, and then states one of the study's findings.
+C. It introduces a study of microbial communities near shipwrecks that has received significant scholarly attention, summarizes the results of that study, and then describes a research team's reaction to the study.
+D. It names a famous historical shipwreck, describes the type of wood used to build that ship, and then explains how that wood type influences underwater microbial communities.
+Answer: B
+
+Question 12:
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+The fecal-steroidal profile of pronghorn is clearly distinct from those of other ungulates. __By contrast, bison dung cannot be distinguished from elk dung based solely on their fecal-steroidal profiles__, as both contain similar levels of beta-sitosterol and cholestanone, among other sterols. The relative levels of fecal zoostanols (steroids with animal origins), such as coprostanol and epi-coprostanol, in layers of lake bed sediments at Buffalo Ford Lake in Yellowstone National Park show that bison, elk, or both have been the dominant ungulate species in the lake’s watershed for at least the last 2,000 years.
+
+
+A. It offers context that helps account for the finding that the dominant ungulate species in the Buffalo Ford Lake watershed have been largely unchanged for at least 2,000 years.
+B. It presents an observation that supports an argument about why the dominant ungulate species in the Buffalo Ford Lake watershed shifted over the course of the last 2,000 years.
+C. It describes an assumption about two types of ungulates’ fecal-steroidal profiles that the research on Buffalo Ford Lake sediment calls into question.
+D. It provides information that explains why the data from Buffalo Ford Lake allow for multiple possibilities regarding the dominant ungulate species in the watershed.
+Answer: D
+
+Question 13:
+Which quotation from Memoirs of Elleanor Eldridge most effectively illustrates the claim?
+
+Memoirs of Elleanor Eldridge is an 1838 historical account by Elleanor Eldridge and Frances Harriet Whipple Green. In the book, the authors suggest that many memoirs of renowned people aren't particularly straightforward or candid, writing. _ ____
+
+
+A. "There is often a kind of [deceptive] light, playing around such [famous] names, calculated to dazzle and mislead, by their false lustre, until the eye can no longer receive the pure light of Truth, or the mind appreciate real excellence, or intrinsic worth."
+B. "It should not be considered essential to the interest and value of biography, that its subject be of exalted rank, or illustrious name."
+C. "How careful ought we to be to speak nothing but the truth, even in regard to the most trifling circumstances; and not only so, but to be well assured that what we suppose to be true, is truth, before we receive it as such."
+D. "Blessed are the slumbers of the innocent! They are kindlier than balm, and they refresh and gladden the spirit of childhood, like ministerings from a better world."
+Answer: A
+
+Question 14:
+Which statement about the Lindy Hop is most directly supported by the text?
+
+The Lindy Hop is a partner dance that originated in Harlem, New York, in the late 1920s and became popular across the United States during the 1930s. The dance’s aesthetic reflected the influence of the syncopated, propulsive rhythms and improvisational qualities of big band swing music. As swing music’s popularity waned in the 1940s, social dancers adapted Lindy Hop steps to suit the rhythms of beach music, Motown, and other emergent music genres, giving rise to hundreds of swing variants, from jive to the Dallas push, each with its own unique character.
+
+
+A. It is more strongly associated with big band swing music than with either beach music or Motown.
+B. Its influence on the development of jive was stronger than its influence on the development of the Dallas push was.
+C. Its signature aesthetic is more recognizable to modern dancers than most other social dances that emerged in the past are.
+D. It was better known among social dancers in Harlem, New York, than it was among social dancers in other regions of the United States.
+Answer: A
+
+Question 15:
+Which choice most logically completes the text?
+
+Zooarchaeologist Ophélie Lebrasseur and her team examined a fox skeleton discovered in 1991 at an archaeological site alongside artifacts of human habitation (like spear points) in central Argentina. Lebrasseur et al. determined that the fox was Dusicyon avus, an extinct species resembling a jackal, and radiocarbon dating placed the fox at the site at the same time as human inhabitants. (Indeed, the inhabitants may have deliberately buried the fox.) In addition, while wild foxes have a diet entirely made of meat, isotopic signatures of the skeleton’s teeth indicated that the fox’s diet, like that of the humans, was partly composed of plant material. Lebrasseur et al. therefore concluded that ______
+
+
+A. the humans who were alive at the same time as the fox most likely ate more meat than the fox did.
+B. the humans who were alive at the same time as the fox hunted using the spears whose points were also found at the site.
+C. the fox had a diet more similar to that of jackals than to that of wild foxes.
+D. the fox may have been a companion animal of the humans who inhabited the site at the same time.
+Answer: D
+
+Question 16:
+Which choice most logically completes the text?
+
+William Shakespeare’s famous sequence of sonnets is thought to have circulated as a manuscript long before its publication in 1609. To determine when the sonnets were written, a team of scholars compared their style and vocabulary to those of Shakespeare’s plays, reasoning that a sonnet and play written at the same time would resemble each other. The team concluded that for the sonnets addressing a handsome young man, the composition history is especially complex. For example, Sonnet 43 is stylistically similar to Shakespeare’s plays written in the mid-1590s but also uses the word “imperfect,” which had entered English relatively recently and is otherwise used by Shakespeare only in plays written after 1600. Given such examples, it is likely that ______.
+
+
+A. the sonnets addressing a handsome young man predate the other sonnets in the 1609 collection.
+B. while the manuscript probably wasn’t prepared for publication by Shakespeare himself, its editor was familiar with the plays that Shakespeare wrote after 1600.
+C. Shakespeare’s experience of writing additional sonnets after 1600 influenced his word choice in the later plays.
+D. the text of certain sonnets in the 1609 publication preserves much of the content of the original manuscript while also reflecting revisions after 1600.
+Answer: D
+
+Question 17:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Jean-Michel Basquiat was an American artist who produced more than two thousand ____ His work Self-Portrait was completed in 1981 and sold at auction in 2016 for $4.7 million.
+
+
+A. drawing's and painting's.
+B. drawings and painting's.
+C. drawings and paintings.
+D. drawings' and paintings'.
+Answer: C
+
+Question 18:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The moose (Alces alces) has a species population of roughly 1,500,000 ______ less than that of the Maxwell’s duiker (Philantomba maxwellii), which has a species population of about 2,137,000.
+
+
+A. members: this amount is,
+B. members. This amount is:
+C. members, this amount is
+D. members; this amount is
+Answer: D
+
+Question 19:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Cameroon’s 1972 constitution contains one of the six constitutional features that enhance judicial independence, as identified by legal scholars James Melton and Tom Ginsburg. Since 1985, such de jure judicial independence has become more prevalent among ______ Russia’s constitution contains three such features.
+
+
+A. constitutions enacted in 1993;
+B. constitutions, enacted in 1993;
+C. constitutions, enacted in 1993,
+D. constitutions; enacted in 1993,
+Answer: D
+
+Question 20:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+According to a 2017 analysis by economist Jacob Lundberg, the US’s top tax rate of 48% was lower than the country’s Laffer curve peak (76%). To some economists, whether a tax cut will ultimately increase the US’s tax revenue is dependent on the country’s position on the Laffer curve. A theoretical relationship between tax rates and revenues, the curve is named for the US ______ Arthur Laffer.
+
+
+A. economist
+B. economist-
+C. economist:
+D. economist,
+Answer: A
+
+Question 21:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+To monitor locations and prevent theft, hospitals often equip medical equipment with radio frequency identification (RFID) tags, which contain information accessible only when the tags are scanned by RFID readers. An RFID tag ______ an internal power source that would enable autonomous transmission of information relies on an electromagnetic signal emitted by an RFID reader to power the data exchange.
+
+
+A. lacks
+B. can lack
+C. lacked
+D. lacking
+Answer: D
+
+Question 22:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Painter Georgette ______ for incorporating everyday objects from her Singaporean environment—such as lanterns, mooncakes, and tropical fruits—into her still-life compositions, was a pivotal figure in the mid-twentieth-century Nanyang art movement, which sought to blend European painting traditions (including still life) with elements of Southeast Asian cultures and art.
+
+
+A. Chen is known
+B. Chen, known
+C. Chen, was known
+D. Chen was known
+Answer: B
+
+Question 23:
+Which choice completes the text with the most logical transition?
+
+In 1965, Morrie Turner’s comic strip Wee Pals became the first serial comic by a Black cartoonist to be syndicated, appearing in papers nationwide. Comics by other Black cartoonists followed. ______ Stephen Bentley (Herb and Jamaal) and Aaron McGruder (The Boondocks) joined the ranks of syndicated Black cartoonists in 1989 and 1996, respectively.
+
+
+A. Alternatively,
+B. For instance,
+C. Previously,
+D. However,
+Answer: B
+
+Question 24:
+Which choice completes the text with the most logical transition?
+
+Private Badel Hernández Guzmán and First Lieutenant Jose Torres Caban served in the 65th Infantry Regiment of the US Army. This Puerto Rico-based regiment has undertaken many missions since its formation in the early 20th century, including guarding airfields in Corsica during World War II. ______ “The Borinqueneers” were awarded the Congressional Gold Medal in 2016.
+
+
+A. In recognition of their history of service,
+B. As an example of their service on such missions,
+C. In contrast to their impressive accomplishments,
+D. Over the decades since World War II,
+Answer: A
+
+Question 25:
+Which choice completes the text with the most logical transition?
+
+Formerly known as the Sou Invest Territory, Tennessee was granted statehood by a vote of the US Congress on June 1, 1796, making Tennessee the 16th US state. By comparison, as one of the nation's original thirteen colonies, Delaware became a state when it ratified the US Constitution on December 7, 1787. ______ New York attained statehood by ratifying the Constitution, becoming the 11th US state on July 26, 1788.
+
+
+A. Therefore,
+B. Nevertheless,
+C. For example,
+D. Likewise,
+Answer: D
+
+Question 26:
+The student wants to describe the study’s research methodology. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• In a 1989 study, researchers J.M. Palmeirim, D.L. Gorchoy, and S. Stoleson wanted to explore the effects of ingestion by bats on the germination of Piper friedrichsthalii seeds in Costa Rica.
+• The team of researchers tested 55 Piper friedrichsthalii seeds that had been ingested by silky short-tailed bats.
+• Of these, 48 seeds (87%) germinated.
+• As a control, J.M. Palmeirim et al. tested 123 Piper friedrichsthalii seeds that had not been ingested by silky short-tailed bats.
+• Of these, 111 seeds (90%) germinated.
+
+
+A. J.M. Palmeirim et al. wanted to explore the effects of silky short-tailed bats’ ingestion on Piper friedrichsthalii seed germination.
+B. Research by J.M. Palmeirim et al. revealed that 48 of 55—that is, 87%—of the Piper friedrichsthalii seeds that had been ingested by the bats germinated.
+C. In the study, a lower percentage of Piper friedrichsthalii seeds ingested by bats germinated than those that had not been ingested by bats.
+D. The team of researchers tested the germination of 55 Piper friedrichsthalii seeds that had been ingested by silky short-tailed bats and 123 Piper friedrichsthalii seeds that had not been ingested.
+Answer: D
+
+Question 27:
+The student wants to contrast ukiyo-e and sōsaku-hanga production methods. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Ukiyo-e woodblock prints were a popular artistic form in Japan from the 1600s through the 1800s.
+• Ukiyo-e prints were produced by teams of artisans that included artists, wood-carvers, printers, and publishers.
+• Sōsaku-hanga was a popular Japanese printmaking movement that emerged in the early 1900s.
+• Sōsaku-hanga prioritized individual artistic expression.
+• An artist working in this style typically handled all aspects of print creation, from drawing to wood carving to printing.
+
+
+A. Teams of artisans produced ukiyo-e prints, whereas individual artists typically handled all aspects of sōsaku-hanga printmaking themselves.
+B. In contrast to ukiyo-e prints, sōsaku-hanga prints were produced using methods such as drawing and wood carving.
+C. One notable distinction between ukiyo-e and sōsaku-hanga prints is sōsaku-hanga’s emphasis on individual artistic expression.
+D. Ukiyo-e prints were popular in Japan from the 1600s through the 1800s, while sōsaku-hanga prints emerged later, in the early 1900s.
+Answer: A
+

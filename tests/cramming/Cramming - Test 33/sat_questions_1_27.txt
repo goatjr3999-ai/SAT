@@ -1,0 +1,400 @@
+Question 1:
+[COE]
+Based on the text, what does Wong most likely mean when she states that she is "composing"?
+
+The following text is from Alice Wong's 2022 memoir *Year of the Tiger: An Activist’s Life*. Wong has just described her tendency to procrastinate when she has a writing deadline.
+ In the middle of these distractions, a vibe will emerge, a point I want to make, a phrase, a hook, a title for a story, an image. A connection or epiphany can happen while watching or reading something brilliant. By doing "nothing" and daydreaming, I am actually *__composing__*, even if words don't immediately materialize.
+©2022 by Alice Wong
+
+
+A. She is deceiving herself about her true feelings about a subject.
+B. She is engaging in an important part of her writing process.
+C. She is gathering sources of information to use in her writing.
+D. She is being soothed by immersing herself in creative works by other people.
+Answer: B
+
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+At a 2027 wellness summit in Reykjavik, longevity enthusiasts tested a variety of _____ eating regimens: week-long juice-only cleanses, month-long color-restricted menus, and diets limited to foods foraged within a ten-mile radius.
+
+
+A. meager
+B. salutary
+C. proscriptive
+D. eccentric
+Answer: C
+
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The fact that publications by University of California-Berkeley economist Bronwyn Hughes Hall, who studies innovation and economics, are so frequently cited in other scholars' work ______ the usefulness of her research for her peers—other economists clearly find her studies valuable for their own scholarship.
+
+
+A. controverts
+B. accentuates
+C. precludes
+D. supplants
+Answer: B
+
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Despite stated claims of the ______ of the research, much analysis of income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later remedy this shortcoming after gaining new access to administrative records located in nations in Africa, such as Ivory Coast, and Eastern Europe, such as Poland.
+
+
+A. novelty
+B. immutability
+C. exhaustiveness
+D. pervasiveness
+Answer: C
+
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined portion of the text?
+
+The following text is adapted from Adib Khorram’s 2018 novel "Darius the Great Is Not Okay." The narrator, Darius, is a teenager visiting family in Iran. He and his friend Sohrab are at the entrance of the ruins of the ancient city of Persepolis.
+“The Gate of All Nations,” Sohrab said. He gestured to the lamassus [sculptures] and pillars surrounding us. “That’s the name in English.” It wasn’t much of a gate anymore, since anyone of any nation could have easily stepped around it instead of walking through. But it was still amazing. Behind the lamassu, more __columns sprouted from the ground like ancient trees in a petrified forest__, forty feet tall, spindly but still miraculously upright. Giant stone slabs formed the remains of what must once have been a breathtaking structure.
+
+
+A. It presents an image to illustrate what one part of the ruins looks like.
+B. It emphasizes that the narrator already knows a lot about the city.
+C. It suggests that the narrator had expected to visit a forest.
+D. It indicates the specific time in the past when the buildings became ruins.
+Answer: A
+
+
+Question 6:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Economist Gabriel Zucman finds that 8% of worldwide household wealth is held in tax havens (territories such as Hong Kong with low tax rates for investors who reside outside those territories). Zucman also finds that use of tax havens differs between countries: they are rarely used by investors living in South Korea, while other investors who use a tax haven reside in Saudi Arabia or Venezuela. Philosopher Ingrid Robeyns disapproves of the use of tax havens as a method of tax avoidance that, though legally permissible, nonetheless helps investors to sidestep payment toward government upkeep.
+
+
+A. It contrasts two economic theories about a particular financial practice.
+B. It summarizes an economist's findings about a practice and then presents a philosopher's critique of that practice.
+C. It describes a legal argument against a practice and then presents evidence to support that argument.
+D. It explains the history of a financial practice and then discusses its modern-day consequences.
+Answer: B
+
+
+Question 7:
+[Cross Text]
+How would the author of Text 2 most likely respond to the underlined claim in Text 1?
+
+Text 1
+The US film industry has a long history of producing sequels and other franchise movies that share the same characters, stories, or fictional worlds, from Warner Bros. Pictures’ classic series of films featuring the dog film Tin Tin to the *Star Wars* movies and beyond. But most franchise movies have the same problem. They simply recycle elements of earlier entries in the franchise. __Audiences never get to experience anything truly surprising__.
+Text 2
+ It’s true that franchise movies like *Jurassic World Dominion* (2022) resemble earlier entries in their franchises. But just because a movie has familiar elements doesn’t mean it can’t also be worth watching. Critics generally agree that *Jurassic World Dominion* isn’t the most exciting franchise movie, but franchise movies are rarely as stale as some people claim. And some franchise movies, like *Mad Max: Fury Road* (2015), are wonderfully unpredictable.
+
+
+A. By stating that franchise movies have become more popular over time
+B. By agreeing that people generally feel bored by franchise movies
+C. By explaining that most franchise movies are expensive to make
+D. By arguing that some franchise movies are indeed surprising
+Answer: D
+
+
+Question 8:
+[COE]
+Information in the text best supports which statement about the design of the house in Calle Liceo?
+
+Mexican architect Luis Barragán’s prolific career, which spanned the 1920s to the 1980s, evolved through distinct phases. After traveling to the United States and Europe in the early 1930s and immersing himself in a broader architectural discourse, Barragán began incorporating principles derived from functionalism and modernism in his work, as seen in the houses in Avenida Parque Mexico, whose unadorned geometric forms contrast with his earlier projects in Guadalajara, such as the house in Calle Liceo, which evince the aesthetics of traditional Mediterranean and Mexican styles.
+
+
+A. It represents a transitional moment between the early and late phases of Barragán’s development.
+B. It is characteristic of the Guadalajaran architecture that influenced Barragán throughout his career.
+C. It reflects an approach to ornamentation and shape that Barragán later stopped using.
+D. It displays the effects of Barragán’s exposure to international architectural trends in the 1930s.
+Answer: C
+
+
+Question 9:
+[COE]
+Which quotation from a translation of Uncle Vanya most effectively illustrates the claim?
+
+Uncle Vanya: Scenes from Country Life in Four Acts is an 1898 play by Anton Chekhov, originally written in Russian. In the play, Professor Serebrakoff and his wife Helena have come to stay at their country estate, which Vanya manages with the help of Sonia, the professor's daughter from a previous marriage. Chekhov depicts Vanya's opinion of Professor Serebrakoff as having changed significantly, as is evident when _____
+
+
+A. Vanya says to himself, “I was proud of [Professor Serebrakoff]and of his learning; I received all his words and writings as inspired and now? Now he has retired, and what is the total of his life? A blank! He is absolutely unknown, and his fame has burst like a soap-bubble. I have been deceived; I see that now, basely deceived.”
+B. Professor Serebrakoff says to Helena, “My darling, don't leave me alone with [Vanya]. He will begin to lecture me.”
+C. Vanya says to Professor Serebrakoff, “For twenty-five years I have managed [the country estate], and have sent you the returns from it like the most honest of servants, and you have never given me one single word of thanks for my work, not one—neither in my youth nor now.”
+D. Vanya says to Professor Serebrakoff, “The place[the country estate] could never have been bought had I not renounced my inheritance in favor of my sister[the professor’s late wife], whom I deeply loved— and what is more. I worked for ten years like an ox, and paid off the debt.”
+Answer: A
+
+
+Question 10:
+[COE]
+Which finding, if true, would most directly support the underlined claim?
+
+For years, Christopher Clavius’s 1593 work Astrolabium had the earliest known evidence of a decimal point, which was in a sine table’s interpolation column. However, math historian Glen Van Brummelen pointed out that Venetian merchant Giovanni Bianchini, who worked as an astrological consultant, used the mathematical symbol approximately 150 years before Clavius did. Van Brummelen asserts that in his role as a consultant, __Bianchini used trigonometry to calculate the coordinates of the planets, and these calculations contain the earliest example of the decimal point.__
+
+
+A. Several dots appear in both Clavius’s Astrolabium and Bianchini’s Flores Almagesti, but the dot was commonly used in manuscripts in the 1400s and 1500s as a means to separate letters or whole numbers from each other.
+B. In Clavius’s Astrolabium, he gives several examples of both interpolation and inverse interpolation using decimal numbers and justifies the method to his readers by equating 45.7 with “457 tenths.”
+C. In a table in Bianchini’s astronomical Latin manuscript from the 1440s, Tabulae primi mobilis B, a dot appears between two numbers in a context that suggests the value is not a whole number.
+D. As recorded in his manuscripts, some of Bianchini’s calculations for the coordinates of the planets are inaccurate due to the use of whole numbers rather than non-whole-number decimals.
+Answer: C
+
+
+Question 11:
+[COE]
+Which quotation from an art historian would most directly support the claim made in the text?
+
+In Diné (Navajo) culture, *iikaah* (sandpaintings) are created and then erased as part of sacred healing ceremonies lasting no more than a few days, but Diné *hataalii* (chanter, healer, cultural guide) Fred Stevens developed fixatives to preserve desacralized sandpaintings. While on a US-sponsored cultural ambassadorial trip in Europe and the Americas in the 1960s, Stevens produced several such sandpaintings and gave them to cultural institutions. This may seem in tension with the role of cultural ambassador—how could static objects authentically represent an inherently ephemeral and dynamic practice?—but such a view is itself overly object-focused and neglects how Stevens strove to convey exactly those characteristics of *iikaah* as a cultural practice.
+
+
+A. “Stevens’s ambassadorial sandpaintings are best understood not as self-contained objects but as reminders of the public creations of the sandpaintings, during which Stevens conducted appropriate iikaah rituals and encouraged viewers to closely track his movements and subtle shifts in the sand throughout the process.”
+B. “While Stevens’s ambassadorial sandpaintings are undoubtedly educative for audiences that have little exposure to Diné culture, they should not be confused with authentic iikaah, which cannot be extracted from a practice that is intentionally and necessarily transitory nor condensed into a single persistent object.”
+C. “The most compelling way to reconcile the apparent tension between the temporary and performative nature of iikaahand the persistent and static nature of Stevens’s ambassadorial sandpaintings is to recognize that Stevens was an ambassador not only of Diné culture but of a US art culture that tended to value permanent works over ephemeral ones.”
+D. “It is important to recall Stevens’s own actions as a gift-giver—a temporary and performative role—of the sandpaintings, for by taking those actions, Stevens publicly enacted the transmission of knowledge of both traditional iikaah practices and cutting-edge chemistry (in the form of the preservative additives), a hybrid that reflects the dynamism of Diné culture.”
+Answer: A
+
+
+Question 12:
+[COE]
+Which finding, if true, would most directly support the hypothesis presented in the text?
+
+Some toothpastes contain titanium dioxide nanoparticles (TiO₂-NPs), which can leach into waterways and soils via wastewater. In a 2015 study, Adeline Bourgeault and colleagues found that TiO₂-NPs can accumulate in the bodies of zebra mussels (Dreissena polymorpha). While bioaccumulation of manufactured nanoparticles may be inherently worrisome, it has been hypothesized that TiO₂-NP bioaccumulation in invertebrates like D. polymorpha could serve a valuable proxy, obviating the need for manufacturers to conduct costly and intrusive sampling of vertebrate species—such as common carp (Cyprinus carpio), commonly used in regulatory compliance testing—for nanoparticle bioaccumulation, as environmental protection laws currently require.
+
+
+A. In comparable environments, D. polymorpha and C. carpio display comparable rates of TiO₂-NP uptake.
+B. Compared with C. carpio, D. polymorpha can tolerate significantly higher TiO₂-NP concentrations without displaying any negative effects.
+C. It is easier to detect low and harmless concentrations of TiO₂-NPs in D. polymorpha than it is to detect high and harmful concentrations of TiO₂-NPs in C. carpio.
+D. TiO₂-NP concentrations in D. polymorpha tend to vary more from individual to individual than do TiO₂-NP concentrations in C. carpio when the species are exposed to similar levels of TiO₂-NPs.
+Answer: A
+
+
+Question 13:
+[COE]
+Which choice most effectively uses data from the table to complete the excample?
+
+A report from an international organization that monitors the numbers of women serving as judges or magistrates on various nations’ highest courts, such as the Supreme Court of Justice in Mexico and the Supreme Court in the Philippines, found that the overall trend is toward more women serving on the high courts in 2010 than in 1980. For example, none of the countries in the graph had more than 2 women in these positions in 1980, but ______
+
+
+A. in 2010, Singapore had 3 women on its high courts, the Philippines had 3, and Mexico had 3.
+B. neither Singapore nor the Philippines saw a reduction in the women on their high courts in any of the years shown on the graph, but Mexico did after 1990.
+C. the increase in the number of women on the high courts from 1980 to 2010 in Singapore was greater than that in either the Philippines or Mexico.
+D. Mexico had 2 women on its high courts in 1980 and 3 in 2010.
+Answer: A
+
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+The Clarion-Clipperton Zone (CCZ) is an expanse of abyssal plain and seamounts (underwater mountains) between Hawai‘i and Mexico in which mining is permitted, but the area's biodiversity is poorly understood. The vast majority of invertebrate species found in a recent survey of the CCZ were hitherto unknown to scientists, and sampling for animal life has been highly concentrated in the eastern part of the zone. Some species like Ledella knudseni were identified both morphologically and molecularly (using DNA analysis), whereas Prionospio branchilucida and other species for which molecular sampling was impracticable were identified solely based on physical morphology. Since molecular analysis does not require distinguishing subtle physiological differences, it is ______.
+
+
+A. more likely to properly distinguish between morphologically similar but distinct invertebrate species than is the method used to identify Prionospio branchilucida.
+B. more frequently used for identifying species with physiological characteristics like those of Ledella knudseni than morphological analysis is.
+C. better suited to distinguishing Prionospio branchilucida from morphologically similar species than to distinguishing Ledella knudseni from morphologically similar species.
+D. capable of providing greater physiological detail about a species than is the method used for Prionospio branchilucida.
+Answer: A
+
+
+Question 15:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Aftermath the Kings and Their Biographies is one of the hundreds of thousands of manuscripts that have survived from roughly the sixteenth century to the present ____ being passed down through private libraries in the city of Timbuktu, Mali. Many of these manuscripts can be found at the Al-Imam Essayouti Library.
+
+
+A. day. By
+B. day by
+C. day by,
+D. day; by
+Answer: B
+
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The parks of San Diego, California, seem to be making people happier. In a 2022 study, researchers ______ for a relationship between the physical location in which a social media post was shared and the content of that post analyzed geotagged social media posts from San Diego. The team found that posts from the city's parks contained more words associated with happiness than other posts did.
+
+
+A. were looking
+B. looking
+C. looked
+D. had looked
+Answer: B
+
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In premodern Europe, one could sail from the east coast of England to the Netherlands or France faster than one could travel by land to England’s capital, London. In that era, historian Michael Pye argues in his 2015 book The Edge of the World: A Cultural History of the North Sea and the Transformation of Europe, the North Sea did more to link the various peoples, cultures, and economies on ______ shores than to divide them.
+
+
+A. it’s
+B. its
+C. their
+D. they’re
+Answer: B
+
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The vertical position of the Sun in the sky at a particular time of day varies throughout the year: due to Earth’s axial tilt, it appears higher in the summer and lower in the winter. Axial tilt is not the only factor that affects the Sun’s ______ as the eccentricity of Earth’s orbit causes its position to vary horizontally as well, resulting in a figure-eight shape called an analemma (if the Sun’s position is recorded at the same time of day throughout the year).
+
+
+A. position, though,
+B. position; though,
+C. position, though
+D. position, though;
+Answer: A
+
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Many Farms Chapter is one of the 110 chapters of the Navajo Nation (Naabeehó Bináhásdzo). The chapter, known as Dá’ák’eh Halání in the Navajo language (Diné bizaad), was the subject of a profile ______ in the Navajo Times on August 22, 2013.
+
+
+A. appearing
+B. has appeared
+C. appeared
+D. appears
+Answer: A
+
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of standard English?
+
+As the exoplanet 81 Ceti b orbits a star 330 light-years from Earth, the gas giant's gravity causes the star to wobble. In 2008, astronomers observing the wobble—indicated by red shifts and blue shifts in the star's spectral wavelengths—eventually attributed ______ to the gravitational influence of the previously undetected exoplanet.
+
+
+A. them
+B. it
+C. these
+D. each
+Answer: B
+
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Pluto, a celestial body discovered in 1930, was not officially classified as the solar system's ninth major planet by the International Astronomical Union (IAU) in 2006. ______ Pluto was reclassified by the IAU as a dwarf planet. The dwarf planet category was created to accommodate celestial bodies that are massive enough to be rounded by their own gravity but have not cleared their neighboring region of other objects.
+
+
+A. For example,
+B. Rather,
+C. Thus,
+D. Additionally,
+Answer: B
+
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Many corporations have been known to use loopholes in the tax system to reduce their overall tax burden. For example, some companies may shift their profits to countries with lower tax rates. ___________ a study conducted by Harvard Business School researchers found that 15% of US corporations moved their profits to tax havens between 2004 and 2012.
+
+
+A. In contrast
+B. On the other hand
+C. Alternatively
+D. In fact
+Answer: D
+
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Visually distinguishing the common raven (Corvus corax) from the Chihuahuan raven (Corvus cryptoleucus) can confound even seasoned bird watchers. ______ the two species share similarities that—at times—make the birds appear virtually identical. Size, though, remains a differentiating feature: the common raven tends to be larger.
+
+
+A. Instead,
+B. Moreover,
+C. Indeed,
+D. Thus,
+Answer: C
+
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Teams from 32 countries gathered in Brazil in 2014 for the World Cup of men’s soccer. The event, which is held every four years, now features teams from all over the world. The World Cup used to be much smaller and more limited geographically, ______ The 1934 event in Italy included only 16 teams, most from Europe and the Americas.
+
+
+A. indeed.
+B. though.
+C. for example.
+D. moreover.
+Answer: B
+
+
+Question 25:
+[Synthesis]
+The student wants to compare the lengths of the two rivers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The Madeira River is in South America.
+• It ranks No. 21 among the longest rivers in the world.
+• It is 3,380 kilometers long.
+• The Amur River is in Asia.
+• It ranks No. 10 among the longest rivers in the world.
+• It is 4,444 kilometers long.
+
+
+A. The Madeira River in South America is 3,380 kilometers long.
+B. The Amur River is in Asia, whereas the Madeira River is located in South America.
+C. Among the longest rivers in the world, the Amur River is ranked No. 10.
+D. The Madeira River is shorter than the Amur River.
+Answer: D
+
+
+Question 26:
+[COE]
+Which choice most effectively uses information from the sentences to emphasize how long Hess’s sport has been a Paralympic event?
+
+While researching a topic, a student has taken the following notes:
+•The Paralympic Games are a series of international sporting events involving athletes with an impairment.
+•A gold medal indicates that an athlete finished in first place.
+•Swimming has been an event at the Paralympics since 1960.
+•Béatrice Hess competed as a Paralympic swimmer from 1984 to 2004.
+•She won twenty-five medals.
+•Twenty of these medals were gold.
+
+
+A. An accomplished Paralympian with multiple gold medal wins, Béatrice Hess competed as a swimmer from 1984 to 2004.
+B. Béatrice Hess competed at the Paralympic Games, a series of international sporting events.
+C. Swimming, a sport in which Béatrice Hess took home twenty gold medals, has been an event at the Paralympic Games since 1960.
+D. During her career in swimming, which started in 1984, Béatrice Hess took home a total of twenty-five medals, twenty of which were gold.
+Answer: C
+
+
+Question 27:
+[Synthesis]
+The student wants to make a generalization based on the study’s findings. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•A 2022 study analyzed geotagged social media posts to assess the effect of parks on happiness in 25 US cities.
+•The happiness benefit of a city’s parks was the numeric difference between the calculated happiness scores of posts made in parks and posts made elsewhere.
+•A benefit above 0 indicates a positive effect.
+•The park happiness benefit in San Francisco, California, was greater than 0.10.
+•The park happiness benefit in Washington, DC, was greater than 0 but less than 0.10.
+•The average happiness benefit of parks across all cities was 0.10.
+
+
+A. Geotagged social media posts were analyzed for expressed happiness in both San Francisco and Washington.
+B. Though it can vary from city to city, the overall effect of parks on happiness is a positive one.
+C. San Francisco’s parks had a positive effect on happiness, but this was not true of Washington’s parks, which had a below-average effect.
+D. By comparing the happiness scores of posts made in parks and posts made elsewhere, the study determined the effect of parks on happiness.
+Answer: B

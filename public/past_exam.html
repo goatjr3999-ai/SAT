@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GlorySAT – Review Attempt</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="cipher.css" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="past_exam.css" />
+  <link rel="icon" type="image/png" href="/images/logo.webp" />
+</head>
+
+<body class="practice-page home-page past-exam-page">
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <a href="index.html" class="sigma-logo-top">
+      <img src="/images/logo.webp" alt="GlorySAT logo" class="sigma-logo-img" />
+      <span class="sigma-logo-text">GlorySAT</span>
+    </a>
+
+    <nav class="sidebar-nav">
+      <a href="index.html" class="sidebar-item"><img src="/images/home.webp" class="sidebar-icon" alt="home"> Trang chủ</a>
+      <div class="sidebar-item collapsible" id="practice-toggle">
+        <span><img src="/images/luyende.webp" class="sidebar-icon" alt="luyende"> Luyện đề</span>
+        <span class="chevron"><img src="/images/down.webp" class="sidebar-chevron" alt="open"></span>
+      </div>
+      <div class="sidebar-submenu" id="practice-submenu">
+        <a
+          href="practice.html?category=starter"
+          class="sidebar-subitem"
+          data-category="starter"
+        >Starter</a>
+        <a
+          href="practice.html?category=real_tests"
+          class="sidebar-subitem"
+          data-category="real_tests"
+        >Đề thi thật</a>
+        <a
+          href="practice.html?category=practice_tests"
+          class="sidebar-subitem"
+          data-category="practice_tests"
+        >Đề luyện</a>
+        <a
+          href="practice.html?category=cramming"
+          class="sidebar-subitem"
+          data-category="cramming"
+        >Cramming</a>
+        <a
+          href="practice.html?category=math"
+          class="sidebar-subitem"
+          data-category="math"
+        >Math</a>
+        <a
+          href="practice.html?category=math_cramming"
+          class="sidebar-subitem"
+          data-category="math_cramming"
+        >Math Cramming</a>
+      </div>
+      <a href="wrong_answers.html" class="sidebar-item"><img src="/images/history.webp" class="sidebar-icon" alt="wrong"> Kho câu sai</a>
+      <a href="theory.html" class="sidebar-item"><img src="/images/lithuyet.webp" class="sidebar-icon" alt="lithuyet"> Lí thuyết</a>
+    </nav>
+
+    <div class="sidebar-footer">
+      
+      
+      <a href="/logout" class="logout-bottom">Đăng xuất</a>
+    </div>
+  </aside>
+
+  <button class="mobile-sidebar-toggle" id="mobile-sidebar-open" type="button" aria-label="Mở menu">
+    ☰
+  </button>
+
+  <div class="mobile-sidebar-backdrop" id="sidebar-backdrop" aria-hidden="true" hidden></div>
+
+  <!-- MAIN CONTENT -->
+  <main class="main-content">
+
+    <div class="attempt-header-row">
+      <div class="attempt-title-block">
+        <h2 class="attempt-title" id="attempt-test-name">SAT December 2024 – Module 1</h2>
+        <p class="attempt-subline attempt-category" id="attempt-category">
+          <span class="attempt-category-label">Mục:</span>
+          <span class="attempt-category-value">Đề luyện</span>
+        </p>
+        <p id="attempt-correct" class="attempt-subline attempt-correct-line">
+          <span class="meta-label">Số câu đúng:</span>
+          <span class="meta-value">-- / 27</span>
+        </p>
+        <p class="attempt-subline attempt-time" id="attempt-time">
+          <span class="attempt-time-label">Thời gian làm bài:</span>
+          <span class="attempt-time-value">0 phút / 27 phút</span>
+        </p>
+      </div>
+      
+    </div>
+
+     <div class="attempt-stats-row">
+      <section id="attempt-topic-breakdown" class="topic-breakdown-panel hidden"></section>
+      <section id="attempt-time-stats" class="attempt-time-stats hidden"></section>
+    </div>
+
+
+    <!-- SUMMARY TABLE -->
+    <table id="past-exam-table">
+      <thead>
+        <tr>
+          <th class="col-no">No</th>
+          <th>Question</th>
+          <th>Topic</th>
+          <th>Status</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody id="summary-body"></tbody>
+    </table>
+
+  </main>
+
+          <div class="plan-modal-backdrop" id="plan-modal">
+  <div class="plan-modal">
+
+    <button class="plan-close" id="plan-close">X</button>
+
+    <!-- Title ở giữa -->
+    <div class="plan-header-center">
+      <div class="plan-title-top">NÂNG CẤP GLORY</div>
+      <div class="plan-subtitle plan-subtitle-center">
+        Gói Glory 1 tháng : 79.000 VNĐ
+      </div>
+    </div>
+
+    <!-- 2 COLUMN LAYOUT -->
+    <div class="plan-grid plan-grid-row">
+
+      <!-- RIGHT -->
+      <div class="plan-right">
+
+        <!-- Description vẫn nằm bên phải -->
+
+
+        <ul class="plan-benefits">
+          <li>Tổng hợp <b>tất cả các câu chúng mình từng làm</b> để đạt 1550->1600</li>
+          <li>Hơn 6000 câu Verbal + Toán</li>
+          <li>Group Zalo giải đáp các câu hỏi của mọi người</li>
+        </ul>
+        
+        <p class="plan-footer-text">
+          Mọi người muốn đăng kí hoặc tư vấn có thể inbox trực tiếp qua Threads/Instagram glory.sat của chúng mình nhé!
+        </p>
+        
+
+      </div>
+
+    </div>
+
+    <!-- Button căn giữa -->
+    <div class="plan-upgrade-center">
+      <button class="upgrade-btn" id="upgrade-btn">Nâng cấp ngay</button>
+    </div>
+
+  </div>
+</div>
+  <script>
+    const accountStatus = document.getElementById("account-status");
+  const planModal = document.getElementById("plan-modal");
+  const closePlanBtn = document.getElementById("plan-close");
+  const upgradeBtn = document.getElementById("upgrade-btn");
+    let isProAccount = false;
+
+    function openPlanModal() {
+      if (!planModal) return;
+      planModal.classList.add("open");
+      document.body.classList.add("modal-open");
+    }
+
+    function closePlanModal() {
+      if (!planModal) return;
+      planModal.classList.remove("open");
+      document.body.classList.remove("modal-open");
+    }
+
+  function getSelectedPlan() {
+    return "month";
+  }
+
+    if (planModal) {
+      planModal.addEventListener("click", (event) => {
+        if (event.target === planModal) closePlanModal();
+      });
+    }
+
+    if (closePlanBtn) {
+      closePlanBtn.addEventListener("click", closePlanModal);
+    }
+
+  if (upgradeBtn) {
+    upgradeBtn.addEventListener("click", () => {
+      const plan = getSelectedPlan();
+      window.location.href = `/payment.html?plan=${plan}`;
+    });
+  }
+
+    (function initPracticeMenu() {
+      const submenu = document.getElementById("practice-submenu");
+      const toggle = document.getElementById("practice-toggle");
+      const chevron = toggle?.querySelector(".chevron");
+      const params = new URLSearchParams(window.location.search);
+      const file = params.get("file");
+      const categoryFromFile = file?.split("/")[0];
+
+      function setOpen(open) {
+        if (!submenu || !toggle) return;
+        submenu.classList.toggle("open", open);
+        toggle.classList.toggle("active", open);
+        if (chevron) {
+          const img = chevron.querySelector('img');
+          if (img) img.src = open ? '/images/up.webp' : '/images/down.webp';
+        }
+      }
+
+      if (toggle) {
+        toggle.addEventListener("click", () => setOpen(!submenu?.classList.contains("open")));
+      }
+
+      const mobileSidebarOpen = document.getElementById("mobile-sidebar-open");
+      const sidebarBackdrop = document.getElementById("sidebar-backdrop");
+      const sidebarEl = document.querySelector(".sidebar");
+
+      function setMobileSidebar(open) {
+        const isMobile = window.matchMedia("(max-width: 900px)").matches;
+        if (!isMobile) {
+          document.body.classList.remove("sidebar-open");
+          sidebarEl?.classList.remove("open");
+          if (sidebarBackdrop) sidebarBackdrop.hidden = true;
+          return;
+        }
+
+        document.body.classList.toggle("sidebar-open", open);
+        sidebarEl?.classList.toggle("open", open);
+        if (sidebarBackdrop) sidebarBackdrop.hidden = !open;
+      }
+
+      mobileSidebarOpen?.addEventListener("click", () => setMobileSidebar(true));
+      sidebarBackdrop?.addEventListener("click", () => setMobileSidebar(false));
+
+      window.addEventListener("resize", () => {
+        if (window.innerWidth > 900) setMobileSidebar(false);
+      });
+
+      sidebarEl?.querySelectorAll("a").forEach((link) => {
+        link.addEventListener("click", () => setMobileSidebar(false));
+      });
+
+      setOpen(Boolean(categoryFromFile));
+      if (categoryFromFile) {
+        document
+          .querySelectorAll(`.sidebar-subitem[data-category="${categoryFromFile}"]`)
+          .forEach((item) => item.classList.add("active"));
+      }
+    })();
+  </script>
+  
+  <!-- POPUP -->
+  <div id="review-overlay" class="review-overlay hidden">
+    <div class="review-main-panel">
+
+      <header class="past-header">
+        <h2 id="past-title" class="past-title-text"></h2>
+
+        <div class="past-controls">
+          <span id="position-text"></span>
+          <button id="prev-btn" class="nav-btn">‹</button>
+          <button id="next-btn" class="nav-btn">›</button>
+          <button id="close-overlay" class="close-btn">✕</button>
+        </div>
+      </header>
+
+      <div id="question-image-wrapper" class="question-image-wrapper hidden">
+        <img id="question-image" class="question-image" />
+      </div>  
+
+      <div class="past-main">
+        <div class="past-question-panel">
+          <div id="question-text" class="question-text"></div>
+          <div id="choices" class="choices"></div>
+          <p id="summary-text" class="summary-text"></p>
+          <textarea
+            id="past-error-log"
+            class="error-log-input"
+            placeholder="Error Log: Ý chính của đoạn, giải thích đáp án, lí do sai, ..."
+          ></textarea>
+          <p id="past-error-log-status" class="error-log-status"></p>
+          <div id="ai-explain-section" class="ai-explain-section hidden">
+            <div id="ai-explain-output" class="ai-explain-output hidden"></div>
+          </div>
+          </div>
+
+        <aside class="ai-review-panel">
+          <div class="ai-review-header">
+            <h3 class="ai-review-title">Hỏi GigaChad</h3>
+            <button id="ai-panel-btn" class="ai-explain-btn" type="button">
+              Giải thích
+            </button>
+          </div>
+          <p id="ai-panel-status" class="ai-explain-status hidden"></p>
+          <div id="ai-panel-output" class="ai-explain-output hidden"></div>
+        </aside>
+      </div>
+    </div>
+  </div>
+
+  <script src="cipher.js"></script>
+  <script src="lockdown.js"></script>
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [["\\(", "\\)"]],
+      },
+      startup: {
+        typeset: false,
+        ready: () => {
+          MathJax.startup.defaultReady();
+          const pending = window.__mathJaxQueue || [];
+          if (pending.length) {
+            const targets = pending.flat();
+            window.__mathJaxQueue = [];
+            MathJax.typesetPromise(targets);
+          }
+        },
+      },
+    };
+  </script>
+  <script
+    id="MathJax-script"
+    async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"
+  ></script>
+  <script src="past_exam.js"></script>
+
+  <script>
+  async function loadAccountStatus() {
+    const el = document.getElementById("account-status");
+    if (!el) return;
+
+    const dot = el.querySelector(".status-dot");
+    const text = el.querySelector(".status-text");
+
+    const setState = (isPro) => {
+      isProAccount = !!isPro;
+      const isClickable = !isProAccount;
+      el.classList.toggle("pro", isProAccount);
+      if (dot) dot.classList.toggle("pro", !!isPro);
+      if (text) text.textContent = isPro ? "Tài khoản Pro" : "Tài khoản thường";
+      el.classList.toggle("clickable", isClickable);
+    };
+
+    try {
+      const res = await fetch("/api/me");
+      if (!res.ok) throw new Error("Session not available");
+      const me = await res.json();
+      setState(!!me?.isPro);
+    } catch (err) {
+      if (text) text.textContent = "Không lấy được trạng thái";
+      el.classList.remove("clickable");
+      console.error("Không thể lấy trạng thái tài khoản", err);
+    }
+  }
+
+  if (accountStatus) {
+      accountStatus.addEventListener("click", () => {
+        if (!isProAccount) openPlanModal();
+      });
+    }
+
+    loadAccountStatus();
+  </script>
+
+  <script src="pro-account-popup.js"></script>
+</body>
+</html>

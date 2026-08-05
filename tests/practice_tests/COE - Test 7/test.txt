@@ -1,0 +1,120 @@
+Question 1:
+[COE]
+Which finding, if true, would most directly support the researchers’ claim?
+
+Past research suggests that pollination by honeybees is responsible for up to 10 percent of total Chinese cabbage crop production. Now researchers are trying to determine how dependent cucumber crop production is on honeybees. The first phase of their study involved shielding some cucumber plants to prevent insects from pollinating them, resulting in those plants having 40 to 90 percent lower crop production than plants that were pollinated normally. However, the researchers claim that the first-phase experiment alone didn’t tell them how much of that difference in crop production is due specifically to excluding honeybees.
+
+A. The shielding used in the first phase of the study did not affect the amount of sunlight the cucumber plants received.
+B. Other insects like solitary bees also pollinate Chinese cabbage plants, and some studies have allowed them to pollinate normally while excluding honeybees.
+C. Other insects like squash bees also pollinate cucumber plants, and the shielding in the first phase of the study blocked them as well.
+D. Honeybees are more commonly used to pollinate cucumber plants than Chinese cabbage plants.
+Answer: C
+
+Question 2:
+[COE]
+Which of the following, if true, most strongly supports the argument?
+
+Individuals deficient in the enzyme cytochrome P450 exhibit a tripled likelihood of developing Parkinson's disease, a neurodegenerative condition, compared to those who naturally produce the enzyme. Given that cytochrome P450 serves a neuroprotective role by detoxifying harmful chemicals in the brain, it is plausible to infer that neurotoxins contribute significantly to the pathogenesis of Parkinson's disease. Researchers at a prestigious university have been investigating this correlation, noting that the absence of cytochrome P450's protective mechanism renders the brain vulnerable to toxic insults, thereby precipitating neurodegeneration associated with Parkinson’s.
+
+A. It will soon be feasible to synthesize cytochrome P450 for therapeutic use in individuals who are unable to produce this enzyme endogenously.
+B. A significant number of individuals lacking cytochrome P450 also exhibit deficiencies in producing various other essential substances.
+C. Cytochrome P450's primary function in the brain is to mitigate the effects of neurotoxic chemicals.
+D. Treatment with dopamine, a neurotransmitter naturally synthesized in the brain, often alleviates the symptoms experienced by Parkinson's patients.
+Answer: C
+
+Question 3:
+[COE]
+Which quotation from a literary scholar would most directly support the claim in the underlined portion of the text?
+
+Scholars cite Mr. President, the 1946 novel by Guatemalan author Miguel Ángel Asturias, as a foundational text of magical realism, the Latin American style of fiction in which antirealistic plot devices—often borrowed from the folkloric traditions of Indigenous and colonial societies in the Americas—are deployed in an otherwise realistic mode of representation typical of the modern novel. This style has exerted a decisive influence on authors around the world, including Olga Tokarczuk, __whose 1996 novel Primeval and Other Times resembles classic magical realist novels in its juxtaposition of literary realism with folklore—namely, that of Poland.__
+
+A. “The logic of the realistic plot of Primeval and Other Times is repeatedly and productively disrupted by the presence of imagery and situations drawn from Polish folklore.”
+B. “Although Polish folklore clearly informs the style and occasionally antirealistic plot of Primeval and Other Times, the novel also shows the inarguable influence of the magical realist tradition of Latin America.”
+C. “Like many works in the Latin American magical realist tradition, Primeval and Other Times is indebted to antirealistic elements in the folkloric tradition of Poland.”
+D. “While Primeval and Other Times alternates between realistic and antirealistic modes of representation, details suggesting the influence of Polish folklore nevertheless occur throughout the novel.”
+Answer: A
+
+Question 4:
+[COE]
+Which finding from the study, if true, would most directly support the team’s conclusion?
+
+Neurobiologists Laura Cuaya, Raúl Hernández-Pérez, and colleagues investigated the language detection abilities of eighteen dogs of various ages. The researchers monitored the brain activity of Odin (a 54-month-old border collie), Bingo (a 37-month-old mixed breed), and other dogs while the animals listened to three recordings: one of The Little Prince being read in Spanish, the second in Hungarian, and a third made up of short, randomly selected fragments of the first two, scrambled so that they didn’t resemble human speech. Each of the dogs was familiar with either Spanish or Hungarian, but not both. The team concluded that the younger the dog, the worse it may be at differentiating between familiar and unfamiliar languages.
+
+A. Although the dogs’ general hearing sensitivity declined with age, dogs of all ages showed more brain activity in response to hearing the language they were accustomed to than in response to hearing the other language.
+B. As the age of the dog scanned decreased, so did the amount of brain activity in response to hearing the language the dog was accustomed to or the other language, but not in response to hearing the scrambled recording.
+C. Dogs showed a different pattern of brain activity when hearing the language they were accustomed to than when hearing the other language, and the difference in brain activity decreased as the age of the dog scanned decreased.
+D. The similarity between the pattern of brain activity a dog showed in response to hearing the scrambled recording and the pattern it showed in response to hearing the language it was not accustomed to was lowest among younger dogs.
+Answer: C
+
+Question 5:
+[COE]
+Which quotation from a historian best supports the student’s claim?
+
+A student is writing a research paper on the history of irrigation in the southwestern United States, situating the development of Seartsville Lake (a man-made body of water created in San Mateo County, California, in 1890) in a larger historical context. The student claims that some modern-day irrigation methods used in southwestern states, such as California, Arizona, and New Mexico, have a lineage that long predates the completion of Seartsville Lake.
+
+A. “The irrigation system developed by the Hohokam people in what is now central Arizona in the 7th century CE uses simple but made use of hydraulic engineering design principles that are still utilized by today’s engineers.”
+B. “The importance of the development of irrigation infrastructure in the American Southwest today cannot be overstated, since it is the most common means of conveying water for food production.”
+C. “In the decades following the Second World War, irrigation of arid areas for agriculture increased to such a degree that it now accounts for roughly 70% of the world’s water usage.”
+D. “Sprinkler irrigation systems, which were developed in the late 20th century, are a convenient technique of irrigating that makes use of machinery in order to spray water in all directions. Many areas of the Southwestern United States are currently irrigated by this method.”
+Answer: A
+
+Question 6:
+[COE]
+Which statement, if true, would most directly support the administrators’ claim?
+
+Among the most visited art museums in the world, the Museo Reina Sofia in Madrid had approximately 4.4 million visitors in 2019. The Museo Reina Sofia also offers virtual tours that art lovers can view online for free. Although there were initial concerns that people who viewed the virtual tours would then consider an in-person visit unnecessary, museum administrators claim that their surveys of in-person visitors show that those concerns were unjustified.
+
+A. Most surveyed visitors to the Museo Reina Sofia indicated that they lived somewhere other than Madrid.
+B. Many surveyed visitors to the Museo Reina Sofia indicated that the virtual tours convinced them to plan an in-person visit.
+C. Many surveyed visitors to the Museo Reina Sofia indicated that they would likely view the virtual tours in order to reminisce about their in-person visit.
+D. Most surveyed visitors to the Museo Reina Sofia indicated that they were unaware of the virtual tours before their first in-person visit
+Answer: B
+
+Question 7:
+[COE]
+Which finding, if true, would most strongly support the researchers' conclusion?
+
+The utilization of deceptive antipredator displays is well documented in the spotted sandpiper (Actitis macularius) and other species of the avian order Charadriiformes. An extensive literature review conducted by Léna de Fraimond et al. revealed that this trait has evolved across a surprisingly large phylogenetic distribution of 13 Aves orders, including Galliformes and Apodiformes. Subsequent investigation of potential selection mechanisms prompted the researchers to conclude that independent of avian order, the prevalence of the trait is mediated by environmental variations associated with the absolute latitude of brooding sites.
+
+A. The use of deceptive antipredator displays is widespread among Charadriiformes species independent of the absolute latitude of their breeding sites, but its prevalence in other avian orders is limited to species with brooding sites located in absolute latitudes of 0°–30°.
+B. Deceptive antipredator displays are documented in Charadriiformes species across the entire range of absolute latitudes of brooding sites within that order, but in species from other orders, deceptive antipredator displays are documented only when brooding sites are at absolute latitudes 10°–20° higher than what is typical for those species.
+C. Across the orders in the study, deceptive antipredator displays are observed in approximately 34% of species with brooding ranges of 0°–30° absolute latitude and approximately 60% of species with brooding ranges of 50°–80° absolute latitude.
+D. Across the orders in the study, approximately 54% of the bird species brood in ranges from 50° to 80° absolute latitude, but most of the birds that are known to use deceptive antipredator displays brood between 0° and 30° absolute latitude.
+Answer: C
+
+Question 8:
+[COE]
+Which finding, if true, would most directly weaken the student’s claim?
+
+Geneticist Elaine Ostrander led an international collaboration in which Jocelyn Plassais and other researchers investigated the evolutionary history of size variation in modern dogs. The researchers identified multiple versions of the gene regulating the production of IGF-1 (insulin-like growth factor 1) in dogs and found that dogs of the same breed consistently share the same version of the gene. In a discussion of the study, a student hypothesizes that small breeds of dogs (for example, toy poodles) must share a version that represses IGF-1 production that would otherwise confer larger body size.
+
+A. The majority of the most prevalent dog breeds have limited activity in the gene that regulates IGF-1 production.
+B. The gene that regulates IGF-1 production is not the only gene that influences body size in dogs but is the only such gene that shows within-breed version consistency.
+C. The degree of size variation among dogs is greater than that of any other land-based mammal.
+D. Some breeds with small body sizes and low IGF-1 concentrations have a different version of the gene regulating IGF-1 production than do toy poodles.
+Answer: D
+
+Question 9:
+[COE]
+Which finding from the study, if true, would most directly support the team’s conclusion?
+
+Neurobiologists Laura Cuya, Raúl Hernández-Pérez, and colleagues investigated the language detection abilities of eighteen dogs raised in similar settings. The researchers monitored the brain activity of Barney (a golden retriever), Max (a mixed breed), and other dogs while the animals listened to three recordings: one of The Little Prince being read in Spanish, the second in Hungarian, and a third made up of short, randomly selected fragments of the first two, scrambled so that they didn’t resemble human speech. Each dog was familiar with either Spanish or Hungarian, but not both. The team concluded that the amount of previous language exposure a dog has received may influence its ability to distinguish familiar languages from unfamiliar ones.
+
+A. Although the dogs’ general hearing sensitivity declined with age, dogs of all ages showed more brain activity in response to hearing the language they were accustomed to than in response to hearing the other language.
+B. The difference between the pattern of brain activity a dog showed when hearing the language it was accustomed to and the pattern of brain activity it showed when hearing the language it was not accustomed to was greatest among older dogs.
+C. The similarity between the pattern of brain activity a dog showed in response to hearing the scrambled recording and the pattern of brain activity it showed in response to hearing the language it was not accustomed to was greatest among older dogs.
+D. Dogs showed a different pattern of brain activity when hearing the language they were accustomed to than when hearing the scrambled recording, and the difference in brain activity increased with the age of the dog scanned.
+Answer: B
+
+Question 10:
+[COE]
+Which finding, if true, would most directly support Jones and colleagues’ conclusion?
+
+Marine ecologist Adrienne Jones believes we may uncover how complex coral colonies originated from single-celled forebears by examining why the solitary microorganism Draconis alveolus—suspected to be an ancient coral precursor—occasionally forms microscopic reef clusters. Jones and her team reviewed multiple investigations on how D. alveolus reacts when it encounters another single-celled group, algae, including Markus Stein’s research with Tetraselmis marina algae and Elena Prior’s work with Chaetoceros conicus algae. Jones and her colleagues concluded that neither T. marina nor C. conicus likely played a decisive role in the progression toward reef-building life forms.
+
+A. Stein found that D. alveolus typically formed micro-reefs after contact with the algae, but Prior did not.
+B. Both Stein and Prior found that D. alveolus generally did not form micro-reefs following the algae exposure.
+C. Prior found that D. alveolus tended to assemble micro-reefs after the algae exposure, but Stein did not.
+D. Both Stein and Prior discovered that existing D. alveolus micro-reefs halted their growth after contact with algae, though they also observed that algae exposure was linked to D. alveolus initiating reef formation.
+Answer: B
+

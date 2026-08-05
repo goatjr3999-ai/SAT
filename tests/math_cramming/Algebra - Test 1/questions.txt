@@ -1,0 +1,78 @@
+Question 1:
+Carrie has c dollars and Marjani has m dollars. Carrie has {{MATH_1}} times as many dollars as Marjani, and together they have a total of ${{MATH_2}}. Which system of equations represents this situation?
+
+A. {{MATH_3}} {{MATH_4}}
+B. {{MATH_5}} {{MATH_6}}
+C. {{MATH_7}} {{MATH_8}}
+D. {{MATH_9}} {{MATH_10}}
+Answer: A
+
+Question 2:
+Anton is selling toys from his toy collection. When he started selling the toys, there were {{MATH_11}} toys in the collection. At the end of each week for {{MATH_12}} weeks after Anton started selling the toys, the number of toys in the collection had decreased by {{MATH_13}} of the toys in the collection at the end of the previous week. Which equation gives the number of toys, c, in the collection w weeks after Anton started selling the toys, where {{MATH_14}} ?
+
+A. {{MATH_15}}
+B. {{MATH_16}}
+C. {{MATH_17}}
+D. {{MATH_18}}
+Answer: D
+
+Question 3:
+{{MATH_19}}
+What is the solution to the given equation?
+
+A. {{MATH_20}}
+B. {{MATH_21}}
+C. {{MATH_22}}
+D. {{MATH_23}}
+Answer: D
+
+Question 4:
+The function {{MATH_24}} is defined by {{MATH_25}}. What is the value of {{MATH_26}}?
+
+Answer: 62
+
+Question 5:
+The function {{MATH_28}} gives the predicted height above the ground {{MATH_29}}, in feet, of a model airplane x minutes after it begins to descend. What is the predicted height above the ground, in feet, of the model airplane {{MATH_30}} minutes after it begins to descend?
+
+A. {{MATH_31}}
+B. {{MATH_32}}
+C. {{MATH_33}}
+D. {{MATH_34}}
+Answer: B
+
+Question 6:
+{{MATH_35}}
+{{MATH_36}}
+The solution to the given system of equations is {{MATH_37}} . What is the value of {{MATH_38}}?
+
+Answer: 6   
+
+Question 7:
+A bank account was opened with an initial deposit. Over the next several months, regular deposits were made into this account, and there were no withdrawals made during this time. The graph of the function {{MATH_40}} shown, where {{MATH_41}}, estimates the account balance, in dollars, in this bank account x months since the initial deposit. To the nearest whole dollar, what is the amount of the initial deposit estimated by the graph?
+
+Answer: 15
+
+Question 8:
+{{MATH_43}}
+{{MATH_44}}
+What is the solution {{MATH_45}} to the given system of equations?
+
+A. {{MATH_46}}
+B. {{MATH_47}}
+C. {{MATH_48}}
+D. {{MATH_49}}
+Answer: A
+
+Question 9:
+A rectangle has a length that is {{MATH_50}} times its width. The function {{MATH_51}} represents this situation, where y is the area, in square feet, of the rectangle and {{MATH_52}}. Which of the following is the best interpretation of {{MATH_53}} in this context?
+
+A. The length of the rectangle, in feet
+B. The area of the rectangle, in square feet
+C. The difference between the length and the width of the rectangle, in feet
+D. The width of the rectangle, in feet
+Answer: A
+
+Question 10:
+An entomologist placed an initial population of {{MATH_54}} Tenebrio molitor, a type of beetle, into a habitat and monitored the population over time. When the number of Tenebrio molitor in the habitat reached {{MATH_55}}% of the initial population, the entomologist moved {{MATH_56}}% of the Tenebrio molitor to a second habitat. How many Tenebrio molitor did the entomologist move to the second habitat at this time?
+
+Answer: 51

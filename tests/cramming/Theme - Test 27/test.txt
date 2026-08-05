@@ -1,0 +1,296 @@
+Question 1:
+Which choice completes the text with the most logical transition?
+
+With many elements, like osmium, scientists were able to isolate a relatively pure sample of the substance shortly after discovering its existence. _____ this wasn’t the case with all elements. The process of isolating magnesium, for example, took years—53, to be precise.
+
+
+A. In other words,
+B. For this reason,
+C. Granted,
+D. Likewise,
+Answer: C
+
+Question 2:
+Which choice completes the text with the most logical transition?
+
+Scientists were able to isolate a relatively pure sample of cadmium in 1817, the same year they first discovered the element’s existence. _____ the isolation process took longer for niobium, which was isolated in its pure form 63 years after scientists first discovered it.
+
+
+A. For instance,
+B. Thus,
+C. Similarly,
+D. By contrast,
+Answer: D
+
+Question 3:
+Which choice completes the text with the most logical transition?
+
+With some elements, like phosphorus, scientists were able to isolate a relatively pure sample of the substance shortly after discovering its existence—but this wasn’t the case with all elements. ___ the isolation process took a few years. The element molybdenum, for instance, was discovered in 1778 but not isolated until 1781.
+
+
+A. Even so,
+B. Similarly,
+C. Furthermore,
+D. Often,
+Answer: D
+
+Question 4:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The parks of Chicago, Illinois, seem to be making people happier. In a 2022 study, researchers studying connections between the physical location in which a social media post was ____ analyzed geotagged social media posts from various locations in Chicago.
+
+
+A. created and the post's content
+B. created, and the post's content
+C. created and the post's content,
+D. created, and the post's content,
+Answer: A
+
+Question 5:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The parks of San Diego, California, seem to be making people happier. In a 2022 study, researchers ______ for a relationship between the physical location in which a social media post was shared and the content of that post analyzed geotagged social media posts from San Diego. The team found that posts from the city's parks contained more words associated with happiness than other posts did.
+
+
+A. were looking
+B. looking
+C. looked
+D. had looked
+Answer: B
+
+Question 6:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The parks of Chicago, Illinois, seem to be making people happier. In a 2022 study, researchers studying connections between the physical location in which a social media post was ______ analyzed geotagged social media posts from various locations in Chicago. They found that posts from the city's parks contained more words associated with happiness than other posts did.
+
+
+A. created and the post's content
+B. created, and the post's content,
+C. created and the post's content,
+D. created, and the post's content.
+Answer: A
+
+Question 7:
+Which choice most effectively uses information from the given sentences to specify the length of the Foucault pendulum’s cable?
+
+While researching a topic, a student has taken the following notes:
+• The University of Oslo in Oslo, Norway, is home to a Foucault pendulum.
+• The pendulum consists of a weighted ball that swings at the end of a roughly 14-meter-long cable.
+• Like all Foucault pendulums, it dangles from a fixed point that ensures the swing path of the pendulum doesn't change.
+• To an observer, the swing path of a Foucault pendulum appears to change over time because Earth rotates beneath it.
+• Foucault pendulums are used as a simple way to provide evidence of Earth's rotation.
+
+
+A. With a swing path that appears to change over time, a Foucault pendulum provides evidence of Earth's rotation.
+B. The Foucault pendulum at the University of Oslo consists of a weighted ball and a cable.
+C. Although the swing path of a Foucault pendulum doesn't actually change, it appears to change due to Earth rotating beneath the pendulum.
+D. The Foucault pendulum at the University of Oslo in Oslo, Norway, includes a cable that is roughly 14 meters long.
+Answer: D
+
+Question 8:
+The student wants to specify the parts of a Foucault pendulum. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The Polytechnic in Gdańsk, Poland, is home to a Foucault pendulum.
+• The pendulum consists of a weighted ball that swings at the end of a roughly 26-meter-long cable.
+• Like all Foucault pendulums, it dangles from a fixed point that ensures the swing path of the pendulum doesn’t change.
+• To an observer, the swing path of a Foucault pendulum appears to change over time because Earth rotates beneath it.
+• Foucault pendulums are used as a simple way to provide evidence of Earth’s rotation.
+
+
+A. The Foucault pendulum at the Polytechnic in Gdańsk, Poland, includes a cable that is roughly 26 meters long.
+B. With a swing path that appears to change over time, a Foucault pendulum provides evidence of Earth’s rotation.
+C. Dangling from a fixed point, the Foucault pendulum at the Polytechnic consists of a cable with a weighted ball at the end.
+D. The swing path of the Foucault pendulum at the Polytechnic appears to change over time.
+Answer: C
+
+Question 9:
+The student wants to explain how a Foucault pendulum provides evidence of Earth's rotation. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Czech Technical University in Prague, the Czech Republic, is home to a Foucault pendulum.
+• The pendulum consists of a weighted ball that swings at the end of a roughly 21-meter-long cable.
+• Like all Foucault pendulums, it dangles from a fixed point that ensures the swing path of the pendulum doesn't change.
+• To an observer, the swing path of a Foucault pendulum appears to change over time because Earth rotates beneath it.
+• Foucault pendulums are used as a simple way to provide evidence of Earth's rotation.
+
+
+A. In Prague, the Czech Republic, a Foucault pendulum at Czech Technical University provides evidence of Earth's rotation.
+B. Though it swings on an unchanging path, a Foucault pendulum appears to change its swing path over time because Earth rotates beneath it.
+C. A Foucault pendulum, which consists of a weighted ball at the end of a long cable, provides evidence of Earth's rotation.
+D. The Foucault pendulum at Czech Technical University in Prague, the Czech Republic, swings on an unchanging path, but Earth rotates beneath it.
+Answer: B
+
+Question 10:
+The student wants to emphasize a similarity between the two locations. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The Museu de les Ciències Príncipe Felipe is in Valencia, Spain.
+• It is home to a Foucault pendulum.
+• Vasile Alecsandri National College is in Galați, Romania.
+• It is home to a Foucault pendulum.
+• A Foucault pendulum dangles from a fixed point that ensures the swing path of the pendulum doesn’t change.
+• To an observer, the swing path of a Foucault pendulum appears to change over time because Earth rotates beneath it.
+
+
+A. Because Earth rotates beneath it, the swing path of the Foucault pendulum at the Museu de les Ciències Príncipe Felipe appears to change over time.
+B. The Museu de les Ciències Príncipe Felipe, which is home to a Foucault pendulum, is in Spain, not Romania.
+C. The Museu de les Ciències Príncipe Felipe in Valencia, Spain, and Vasile Alecsandri National College in Galați, Romania, both house Foucault pendulums.
+D. One Foucault pendulum is in Spain, and the other is in Romania.
+Answer: C
+
+Question 11:
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+The fecal-steroidal profile of pronghorn is clearly distinct from those of other ungulates. __By contrast, bison dung cannot be distinguished from elk dung based solely on their fecal-steroidal profiles__, as both contain similar levels of beta-sitosterol and cholestanone, among other sterols. The relative levels of fecal zoostanols (steroids with animal origins), such as coprostanol and epi-coprostanol, in layers of lake bed sediments at Buffalo Ford Lake in Yellowstone National Park show that bison, elk, or both have been the dominant ungulate species in the lake’s watershed for at least the last 2,000 years.
+
+
+A. It offers context that helps account for the finding that the dominant ungulate species in the Buffalo Ford Lake watershed have been largely unchanged for at least 2,000 years.
+B. It presents an observation that supports an argument about why the dominant ungulate species in the Buffalo Ford Lake watershed shifted over the course of the last 2,000 years.
+C. It describes an assumption about two types of ungulates’ fecal-steroidal profiles that the research on Buffalo Ford Lake sediment calls into question.
+D. It provides information that explains why the data from Buffalo Ford Lake allow for multiple possibilities regarding the dominant ungulate species in the watershed.
+Answer: D
+
+Question 12:
+Which statement about bison and elk dung samples is best supported by the text?
+
+The fecal-steroidal profile of moose is clearly distinct from that of other ungulates, including bison and elk. By contrast, bison dung cannot be distinguished from elk dung based solely on their fecal-steroidal profiles, as both contain similar levels of cholestanone and stigmatanol, among other sterols. However, levels of other taxa-specific digestive by-products, such as cholic acid, can be used to help differentiate between bison and elk samples.
+
+
+A. They are distinct from each other with respect to cholic acid content but cannot otherwise be distinguished from moose samples solely on levels of digestive by-products.
+B. They are distinct from each other with respect to cholestanone and cholic acid content, but bison and moose samples cannot be distinguished from each other based solely on levels of digestive by-products.
+C. They are less distinct with respect to their steroidal profiles than they are with respect to some other digestive by-products.
+D. They are more distinct with respect to cholestanone content than they are with respect to cholic acid content.
+Answer: C
+
+Question 13:
+Which potential finding from another study, if true, would most directly strengthen the team’s conclusion?
+
+Psychologists Gregory Bryant, Dorsa Amir, and colleagues investigated cross-cultural perceptions of spontaneous (real) laughter and volitional (fake or forced) laughter. Study participants from 21 societies, including those in Singapore and Samoa, listened to randomized recordings of 18 spontaneous laughs taken from natural conversations between pairs of women and 18 volitional laughs produced separately by 18 different women in response to an instruction to laugh. Analysis of the participants’ evaluations of the laughs prompted the team to conclude that the ability to distinguish between spontaneous and volitional laughter appears to be universal across cultures.
+
+
+A. Acoustic features of spontaneous laughter, such as pitch and intensity, have measurable variations both within and across societies.
+B. Listeners from both Singapore and Samoa tend to be able to determine how well two people know each other based on recordings of their conversation.
+C. Spontaneous laughter typically has a recognizably higher pitch than volitional laughter, regardless of what society the speakers in a conversation are from.
+D. There is some evidence of correlation between the average size of communities in a society and judgments of spontaneous and volitional laughter by listeners in that society.
+Answer: C
+
+Question 14:
+Which quotation from a psychologist not involved in the team’s study would most directly weaken the team’s conclusion?
+
+Psychologists Gregory Bryant, Dorsa Amir, and colleagues investigated cross-cultural perceptions of spontaneous (real) laughter and volitional (fake or forced) laughter. Study participants from 21 societies, including those in Austria and Turkey, listened to randomized recordings of 18 spontaneous laughs taken from natural conversations between pairs of women and 18 volitional laughs produced separately by 18 different women in response to an experimenter’s instruction to laugh. Analysis of the participants’ evaluations of the laughs prompted the team to conclude that the ability to distinguish between spontaneous and volitional laughter appears to be universal across cultures.
+
+
+A. “When an individual chooses to produce volitional laughter in a natural social context, the laughter often shares certain acoustic qualities, such as pitch and fluctuation of intensity, with spontaneous laughter.”
+B. “Although the team considered the average size of communities in each society in the study, that demographic factor was found to have no effect on listeners’ identifications of laughter as spontaneous or volitional.”
+C. “Judgments of spontaneous laughter are often associated with acoustic features such as greater intensity variability and higher pitch.”
+D. “Recent studies in communications have shown that certain acoustic features of spontaneous laughter, such as pitch and intensity, are consistent both within and across societies.”
+Answer: A
+
+Question 15:
+Which quotation from Cane most effectively illustrates the claim?
+
+*Cane* is a 1923 novel by Jean Toomer. In one portion of the novel, Toomer uses figurative language to connect the narrator’s urban environment of Washington, DC, and the rural South of the narrator’s past, writing, __________
+
+
+A. “And when the wind is from the South, soil of my homeland falls like a fertile shower upon the lean streets of [Washington, DC].”
+B. “The young trees had not outgrown their [planter] boxes then. V Street [in Washington, DC] was lined with them.”
+C. “The Capitol dome looked like a gray ghost ship drifting in from sea.”
+D. “The [train] engines of this valley have a whistle, the echoes of which sound like iterated gasps and sobs. I always think of them as crude music.”
+Answer: A
+
+Question 16:
+Which quotation from Cane most effectively illustrates the claim?
+
+Cane is a 1923 novel by Jean Toomer. In one portion of the novel, Toomer establishes a contrast between the narrator's attitude toward life and the attitude of the narrator's love interest, Avey, writing, ______.
+
+
+A. "Avey was as silent as those great trees whose tops we looked down upon. She has always been like that. At least, to me."
+B. "A band in one of the buildings a fair distance off was playing a march. I wished they would stop. Their playing was like a tin spoon in one's mouth."
+C. "[Avey would] smile appreciation, but it was an impersonal smile, never for me."
+D. "As time went on, [Avey's] indifference to things began to pique me; I was ambitious. I left [our small hometown] earlier than she did."
+Answer: D
+
+Question 17:
+Which quotation from Cane most effectively illustrates the claim?
+
+*Cane* is a 1923 novel by Jean Toomer. In the novel, Toomer mentions a road in rural Georgia called Dixie Pike and describes it as having a deep connection to a faraway place, writing, _____.
+
+
+A. “And when the wind is from the South, soil of my homeland falls like a fertile shower upon the lean streets of [Washington, DC].”
+B. “[Fern and I] walked down the [Dixie] Pike with people on all the porches gaping at us.”
+C. “The Dixie Pike has grown from a goat path in Africa.”
+D. “[The wagon] bumps, and groans, and shakes as it crosses the railroad track.”
+Answer: C
+
+Question 18:
+Which choice completes the text with the most logical and precise word or phrase?
+
+The 2023 anthology The Big Book of Cyberpunk contains among its 108 stories James Tiptree Jr.'s 1973 story "The Girl Who Was Plugged In" and Saad Hossain's story "The Chaos," first published in 2020. The Big Book of Cyberpunk is more ______ than the cyberpunk anthology Mirrorshades, but the relatively limited selection of stories in Mirrorshades is the work of a more judicious editor.
+
+
+A. outmoded
+B. discerning
+C. succinct
+D. inclusive
+Answer: D
+
+Question 19:
+Which choice most logically completes the text?
+
+In June of 1988, Morocco liberalized its stock market, meaning that it began allowing foreign individuals and businesses to invest money in Moroccan companies. This was part of a wave of stock market liberalizations around the world—Argentina in 1989, Jamaica in 1991, and so on. The standard view among economists at the time was that liberalization would make it easier for companies to raise money from investors. Economist Peter Blair Henry examined the economies of 11 countries that were part of the liberalization wave and found that, on average, companies based in those countries received significant increases in investment in the three years following liberalization, suggesting that ___.
+
+
+A. companies in the countries Henry studied did not benefit from liberalization until at least three years after liberalization occurred.
+B. companies in Argentina experienced a greater increase in investment following liberalization than did companies in Morocco.
+C. economists who held the standard view of liberalization failed to anticipate some serious negative effects of liberalization.
+D. economists’ expectations about the effect of liberalization on investment were largely correct for the countries Henry studied.
+Answer: D
+
+Question 20:
+Which choice most logically completes the text?
+
+In May of 1986, the Philippines liberalized its stock market, meaning that it began allowing foreign individuals and businesses to invest money in Filipino companies. This was part of a wave of stock market liberalizations around the world—South Korea in 1987, Colombia in 1991, and so on. The standard view among economists at the time was that liberalization would make it easier for companies to raise money from investors. Economist Peter Blair Henry examined the economies of 11 countries that were part of the liberalization wave and found that, on average, companies based in those countries received significant increases in investment in the three years following liberalization, suggesting that ___
+
+
+A. economists who held the standard view of liberalization failed to anticipate some serious negative effects of liberalization.
+B. companies did not benefit from liberalization until at least three years after liberalization occurred.
+C. empirical evidence was consistent with the scholarly consensus about the consequences of liberalization.
+D. companies in South Korea experienced a greater increase in investment following liberalization than did companies in the Philippines.
+Answer: C
+
+Question 21:
+Which choice most logically completes the text?
+
+In May of 1986, the Philippines liberalized its stock market, meaning that it began allowing foreign individuals and businesses to invest money in Filipino companies. This was part of a wave of stock market liberalizations around the world—Malaysia in 1988, Morocco in 1989, and so on. The standard view among economists at the time was that liberalization would make it easier for companies to raise money from investors. Economist Peter Blair Henry examined the economies of 11 countries that were part of the liberalization wave and found that, on average, companies based in those countries received significant increases in investment in the three years following liberalization, suggesting that __________.
+
+
+A. economists in Malaysia experienced a positive change in investment following liberalization than did companies in the Philippines
+B. empirical evidence was consistent with the standard assumption about the consequences of liberalization.
+C. companies did not benefit from liberalization until at least three years after liberalization occurred.
+D. economists who held the standard view of liberalization failed to anticipate some serious negative effects of liberalization.
+Answer: B
+
+Question 22:
+Which choice most logically completes the text?
+
+In June of 1986, India liberalized its stock market, meaning that it began allowing foreign individuals and businesses to invest money in Indian companies. This was part of a wave of stock market liberalizations from the mid-1980s through the mid-1990s—Colombia in 1991, Nigeria in 1995, and so on. In an analysis of economic data from 1976 to 1993, Ross Levine and Sara Zervos found that liberalization did not lead to enduring increases in investment in companies based in countries that liberalized. Peter Blair Henry, however, found that, on average, investment in companies in liberalized countries increased significantly in the three years following liberalization. Taken together, these results suggest that _____.
+
+
+A. liberalization may provide a boost to investment that fades over time.
+B. economists’ expectations about the effect of liberalization on investment were largely correct.
+C. companies typically do not benefit from liberalization until at least three years after liberalization occurs.
+D. investment growth is likely to be more consistent in countries that liberalize than in countries that do not.
+Answer: A
+
+Question 23:
+Which choice most logically completes the text?
+
+In September of 1989, Indonesia liberalized its stock market, meaning that it began allowing foreign individuals and businesses to invest money in Indonesian companies. This was part of a wave of stock market liberalizations around the world—Jamaica in 1991, Nigeria in 1995, and so on. The standard view among economists at the time was that liberalization would make it easier for companies to raise money from investors. Economist Peter Blair Henry examined the economies of 11 countries that were part of the liberalization wave and found that, on average, companies based in those countries received significant increases in investment in the three years following liberalization, suggesting that _____.
+
+
+A. Companies in Jamaica experienced a greater increase in investment following liberalization than did companies in Indonesia.
+B. Companies in the countries Henry studied did not benefit from liberalization until at least three years after liberalization occurred.
+C. Economists who held the standard view of liberalization failed to anticipate some serious negative effects of liberalization.
+D. Economists’ expectations about the effect of liberalization on investment were largely correct for the countries Henry studied.
+Answer: D

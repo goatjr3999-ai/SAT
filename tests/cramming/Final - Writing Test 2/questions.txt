@@ -1,0 +1,407 @@
+Question 62:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Blaise Pascal’s Pascaline device—conceived, like William Oughtred’s earlier Circular Slide Rule, amid the seventeenth-century push to replace manual calculations with faster and more accurate machine-based methods— _____ among the first reproducible calculating machines.
+
+
+A. being
+B. were
+C. was
+D. are
+Answer: C
+
+Question 75:
+Which choice completes the text with the most logical transition?
+
+Upper-atmospheric jets—phenomena whereby electrical discharges cause narrow cones of blue light to briefly burst upward from the tops of thunderstorms—have been observed reaching to the ionosphere. The extreme altitudes involved (the ionosphere begins about 80 km above Earth) mark these gigantic jets as outliers; ______ the majority of jets reach heights of only 20 to 50 km.
+
+
+A. consequently,
+B. in addition,
+C. nevertheless,
+D. indeed,
+Answer: D
+
+Question 49:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Recently unearthed Neanderthal tools in France dating to 54,000 years ago and attributed to Homo sapiens may provide evidence that interactions between Neanderthals and modern humans occurred 10,000 years earlier than was previously ____ finding that, if true, would overturn current theories about H. sapiens migration during the Upper Paleolithic.
+
+
+A. supposed a
+B. supposed. A
+C. supposed, a
+D. supposed; a
+Answer: C
+
+Question 77:
+Which choice completes the text with the most logical transition?
+
+Decentralized space, in which no points in the performance space are privileged over others, was one of the central principles of Merce Cunningham’s choreographic philosophy. The approach marked a radical departure from the dance philosophies of Cunningham’s mid-twentieth-century contemporaries. ______ resulting in his dance pieces, like Interscape Mirage, being received not merely as experimental spectacles but as groundbreaking artworks.
+
+
+A. Specifically, Cunningham was an accomplished dancer as well as a choreographer,
+B. Accordingly, Cunningham founded his namesake dance company in 1953,
+C. In contrast, Cunningham gained a reputation as an unpredictable iconoclast,
+D. Moreover, Cunningham incorporated his principles with great skill and artistry,
+Answer: D
+
+Question 101:
+Which choice completes the text with the most logical transition?
+
+In hindsight, one of the insights from early artificial intelligence research is that an algorithm’s performance depends heavily on the quality and quantity of the data it is trained on. ______ rather than focusing solely on algorithm design, recent efforts have shifted toward improving data collection and preprocessing to enhance AI performance.
+
+
+A. In other words,
+B. That said,
+C. For example,
+D. Accordingly,
+Answer: D
+
+Question 60:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The standard model of particle physics and the theory of general relativity represent the twin triumphs of twentieth-century science. To reconcile these two pillars of modern physics presents a formidable conceptual ______ both theories have been validated with extraordinary precision in their respective domains, their foundational principles clash irreconcilably at the Planck scale, where gravitational effects become significant for subatomic particles.
+
+
+A. dilemma, though;
+B. dilemma, though:
+C. dilemma, though
+D. dilemma: though
+Answer: D
+
+Question 88:
+Which choice completes the text with the most logical transition?
+
+The Eloi are not real: they are fictional creatures that feature in H.G. Wells’s acclaimed science fiction novella The Time Machine. ______ the Eloi were prime candidates for inclusion in Jorge Luis Borges and Margarita Guerrero’s The Book of Imaginary Beings, a compendium of fantastical entities from legend and literature.
+
+
+A. Granted,
+B. In reality,
+C. As such,
+D. For example,
+Answer: C
+
+Question 13:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Among the small magazines animating Boston’s vibrant literary scene in the early twentieth century was ______ by William Stanley Braithwaite and featuring poetry by John Gould Fletcher, Louis Untermeyer, and Richard Aldington; essays by Amy Lowell and Jeanette Marks; and reviews of recent books, this magazine publicized the work of influential avant-garde writers and artists of the day.
+
+
+A. the Poetry Review of America; edited
+B. the Poetry Review of America edited
+C. the Poetry Review of America, edited
+D. the Poetry Review of America. Edited
+Answer: D
+
+Question 37:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+For her installation The Last Cruze, photographer LaToya Ruby Frazier traveled to Lordstown, Ohio, where she documented the lives of workers at the local automobile plant. In the installation, text culled from a series of in-depth interviews with employees and their families ______ sixty-seven gelatin silver prints, highlighting the collaborative documentary nature of Frazier’s work.
+
+
+A. are punctuated by
+B. punctuate
+C. punctuating
+D. punctuates
+Answer: D
+
+Question 24:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+On Guard is a 1997 photograph by Iranian artist Shirin Neshat. Like many of Neshat’s photos, the work features a pair of hands. Clasping a microphone, one hand ______ covered in Persian script, the hands imply an out-of-frame figure on the edge of speaking.
+
+
+A. is bare and the other is
+B. bare, the other is
+C. bare and the other
+D. is bare, the other
+Answer: C
+
+Question 40:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Multidisciplinary at its core, ___
+
+
+A. Dzawada’enuxw artist Marianne Nicolson engages a range of art forms—primarily photography, painting, and carving—in her body of work.
+B. a range of art forms—primarily photography, painting, and carving—are engaged by Dzawada’enuxw artist Marianne Nicolson in her body of work.
+C. photography, painting, and carving are among the range of art forms that Dzawada’enuxw artist Marianne Nicolson primarily engages in her body of work.
+D. Dzawada’enuxw artist Marianne Nicolson’s body of work engages a range of art forms—primarily photography, painting, and carving.
+Answer: D
+
+Question 41:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Most US states and territories have had at least one woman serve as governor. In Nebraska, for example, Governor Kay A. Orr took office on January 9, 1987. In fact, the number of states and territories that have had only male governors _____ almost every year.
+
+
+A. shrinks
+B. shrink
+C. are shrinking
+D. have been shrinking
+Answer: A
+
+Question 19:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Consider the mechanics of the pinhole camera: light passes through a small hole, resulting in a focused projected image. A ray diagram reveals how this ________ the hole's small size restricts light to a single ray, all light passing through the hole can only arrive at a single destination, eliminating diffraction and ensuring a clear image.
+
+
+A. works because
+B. works. Because
+C. works, it's because
+D. works: it's because
+Answer: B
+
+Question 69:
+Which choice completes the text with the most logical transition?
+
+Cornelia Konrads is a German sculptor who creates art that seems to be part of its surroundings. Her sculpture entitled the match is built between statues at a park in France. ______ appearing as large vases being tossed between statues at the park, it is cleverly placed into its environment, serving as an example of Konrads's approach.
+
+
+A. For instance,
+B. Later,
+C. However,
+D. There,
+Answer: D
+
+Question 6:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A single specimen of *N. vivans*, collected at a depth of 129 fathoms (236 meters) in the Indian Ocean, and a single specimen of *P. obliguiloculata*, collected at a depth of 260 fathoms (475 meters) in the South Atlantic have been preserved as exemplars of their respective ______ the former in a repository at Washington, DC's Museum of Natural History and the latter in a repository at London's Natural History Museum.
+
+
+A. species. The
+B. species; the
+C. species, and the
+D. species, the
+Answer: D
+
+Question 63:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+If an animal can recognize itself in a reflective surface (“the mirror test”), it is considered to have self-awareness. In a recent study, scientists _____ for evidence of self-awareness in snakes, species that rely primarily on olfactory rather than visual processing, adapted the test to foreground smell, modifying the scent trails of North American eastern garter snakes and African ball pythons.
+
+
+A. searched
+B. were searching
+C. have searched
+D. searching
+Answer: D
+
+Question 8:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Karl Popper’s argument that scientific hypotheses must be theoretically refutable, termed the criterion of falsifiability, rejects the confirmationist ______ verifiability as the essential criterion for scientific hypotheses. To Popper, a statement like “all spiders have eight legs” is scientific not because it can be verified, or proved true, but because it can theoretically be proved false.
+
+
+A. argument, it posits
+B. argument positing
+C. argument and posits
+D. argument, positing
+Answer: B
+
+Question 35:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Asia is known to have numerous, if not countless, traditional musical instruments. Only five of these instruments are included in international orchestral composition ______ the sitar, guzheng, koto, tabla, and erhu—the last of which is included with the others despite being a relatively recent addition to classical ensembles.
+
+
+A. performances, however:
+B. performances, however,
+C. performances, however;
+D. performances; however,
+Answer: A
+
+Question 84:
+Which choice completes the text with the most logical transition?
+
+The Cheruku rasamu mango variety is from the South Asian country of India. ____in 2018, 18.8 million metric tons of mangoes were produced.
+
+
+A. Hence,
+B. There,
+C. In fact,
+D. Specifically,
+Answer: B
+
+Question 47:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+During the decades-long movement to codify the rights of Latinos in the Us, certain events were pivotal: the founding of veteran rights group the American GI Forum in________Mendez v. Westminster court decision in 1946,which affirmed the rights of Latino students, is another such event.
+
+
+A. 1948, for one. The
+B. 1948. For one, the
+C. 1948, for one, the
+D. 1948 for one, the
+Answer: A
+
+Question 3:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Archived within the storied libraries of Timbuktu, a West African city prominent during the Songhai Empire, is The Pearls Leading to Accepted Guidance, one of the city’s hundreds of thousands of historical manuscripts, each of which ______ researchers insight into Timbuktu’s tenure as a center of trade and education.
+
+
+A. offering
+B. are offering
+C. offer
+D. offers
+Answer: D
+
+Question 52:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Proto-Kru is a protolanguage, or a hypothesized ancestral language, of all the Kru languages (thirty-eight languages that, because ______ descendants of Proto-Kru, can provide information about the protolanguage's structure).
+
+
+A. its
+B. they're
+C. their
+D. its'
+Answer: B
+
+Question 17:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Butterfly is a 1988 painting by the Japanese artist Ay-O. Like many of Ay-O’s paintings, Butterfly, which portrays a swimmer performing the butterfly stroke, attempts to make use of the entire visual light _____ sporting rainbow-striped goggles, the rainbow-hued swimmer splashes through a wavy rainbow of water.
+
+
+A. spectrum, while
+B. spectrum:
+C. spectrum
+D. spectrum while
+Answer: B
+
+Question 39:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The July Pegasid meteor shower’s brightness typically surpasses that of the Draconid meteor shower due to the interplay of three main factors—namely, the size and composition of the ___ velocity upon entering Earth’s mesosphere, with higher-velocity meteoroids releasing more energy; and atmospheric fluctuations, such as changes in sky conditions.
+
+
+A. meteoroids, their
+B. meteoroids; their
+C. meteoroids. Their
+D. meteoroids—their
+Answer: B
+
+Question 61:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A groundbreaking visual artist of her day, _____ including artists Vassily Kandinsky and Piet Mondrian.
+
+
+A. Hilma af Klint, well before many of her contemporaries, explored abstract modes of painting,
+B. Hilma af Klint explored abstract modes of painting well before many of her contemporaries,
+C. well before many of her contemporaries, Hilma af Klint explored abstract modes of painting,
+D. the explorations of Hilma af Klint into abstract modes of painting occurred well before those of many of her contemporaries,
+Answer: B
+
+Question 71:
+Which choice completes the text with the most logical transition?
+
+Author Ursula K. Le Guin's Planet of Exile is a science fiction story set in an era of intergalactic travel, whereas her The Tombs of Atuan is a work of fantasy set in a land of heroes and dragons. ___ both fans of science fiction and fans of fantasy are among her many readers.
+
+
+A. Alternatively,
+B. Accordingly,
+C. Nevertheless,
+D. At that time,
+Answer: B
+
+Question 23:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Though largely eclipsed by her success as a novelist, Jessie Redmon Fauset’s contributions as literary editor of The Crisis, a New York City–based periodical whose influence was arguably at its peak during her Harlem Renaissance–era tenure, ______ in recent scholarship that explores Fauset’s instrumental role in shaping the magazine’s aesthetic and debuting the work of Langston Hughes and other emerging Black writers.
+
+
+A. has been revisited
+B. have been revisited
+C. revisited
+D. having been revisited
+Answer: B
+
+Question 7:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+On most of the world’s beaches, sand is a predictable cream or beige color. The sand at Talofofo Beach in Guam is an ______ sand gets its shade from deposits of gray- and tan-hued quartz and feldspar, deposits of crushed olivine crystal and other organic matter lend the sand at Talofofo Beach a colorful green tint.
+
+
+A. exception: though most
+B. exception, though most
+C. exception, though, most
+D. exception, though. Most
+Answer: A
+
+Question 25:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The exoplanet Pi Mensae d was discovered using an indirect approach to planetary detection, the radial velocity method. Compared to that of the direct imaging method, ______ the effect these exoplanets have on nearby stars.
+
+
+A. the detection of distant exoplanets, too dim to be observed in the radial velocity method’s vast zone of discovery, is based on
+B. the radial velocity method’s zone of discovery is vast, as distant exoplanets too dim to be observed are detected by
+C. the radial velocity method, with its vast zone of discovery, detects exoplanets that are too dim to be observed by
+D. distant exoplanets too dim to be observed are detected within the radial velocity method’s vast zone of discovery through
+Answer: B
+
+Question 86:
+Which choice completes the text with the most logical transition?
+
+The star Wezen is unvaryingly bright, consistently ranking as one of the brightest stars in the sky (Wezen ranked 36th on a recent list). By contrast, the brightness of the red giant Betelgeuse varies considerably. Indeed, between April and June 2023, Betelgeuse became an astonishing 40% brighter; ______ its ranking rose from 10th to 7th.
+
+
+A. in sum,
+B. in turn,
+C. specifically,
+D. for example,
+Answer: B
+
+Question 94:
+Which choice completes the text with the most logical transition?
+
+Political polarization, in which opposed liberal and conservative parties embrace starkly incompatible positions, has followed differing trends in neighboring countries over the past 40 years. According to research from Brown University economist Jesse Shapiro, polarization has increased in New Zealand and decreased in nearby Australia; _____ polarization has fallen in Germany and risen in Switzerland, which borders Germany.
+
+
+A. conversely,
+B. nonetheless,
+C. likewise,
+D. thus,
+Answer: C
+
+Question 102:
+Which choice completes the text with the most logical transition?
+
+To summit Mount Everest, climbers must endure extreme altitudes and harsh weather conditions while navigating treacherous terrain, an extraordinary challenge. ______ in 1953, when Edmund Hillary and Tenzing Norgay became the first to reach the peak, they achieved what many had deemed impossible, inspiring generations of climbers.
+
+
+A. Moreover,
+B. Fittingly,
+C. Next,
+D. However,
+Answer: B
+
+Question 85:
+Which choice completes the text with the most logical transition?
+
+Legislators in Ethiopia are elected via a first-past-the-post electoral system. In this winner-take-all voting system, the seat is awarded to the candidate who receives not a majority but a plurality (i. e., greatest number) of votes. ___ if several popular candidates are vying for the same seat, it is possible for a candidate to win an election despite receiving less than 50% of the votes.
+
+
+A. However,
+B. Moreover,
+C. Accordingly,
+D. Similarly,
+Answer: C
+
+Question 20:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Sei Shōnagon composed many ______ “Things That Have Lost Their Power,” which appears in her tenth-century account of Japanese courtly life, Pillow Book, she bemoans boats run aground, toppled trees, and defeated wrestlers.
+
+
+A. lists;
+B. lists in
+C. lists. In
+D. lists:
+Answer: C

@@ -1,0 +1,69 @@
+Question 1:
+Percent of Residents Who Earned a Bachelor-s Degree or Higher
+
+A survey was given to residents of all 50 states asking if they had earned a bachelors degree or higher. The results from 7 of the states are given in the table above. The median percent of residents who earned a bachelors degree or higher for all 50 states was 26.95%. What is the difference between the median percent of residents who earned a bachelor-s degree or higher for these 7 states and the median for all 50 states?
+
+A. 0.05%
+B. 0.95%
+C. 1.22%
+D. 7.45%
+Answer: B
+
+Question 2:
+The mean score of 8 players in a basketball game was 14.5 points. If the highest individual score is removed, the mean score of the remaining 7 players becomes 12 points. What was the highest score?
+
+A. 20
+B. 24
+C. 32
+D. 36
+Answer: C
+
+Question 3:
+Ages of 20 Students Enrolled
+in a College Class
+
+The table above shows the distribution of ages of the 20 students enrolled in a college class. Which of the following gives the correct order of the mean, median, and mode of the ages?
+
+A. mode < median < mean
+B. mode < mean < median
+C. median < mode < mean
+D. mean < mode < median
+Answer: A
+
+Question 4:
+The mean score of 8 players in a basketball game was 14.5 points. If the highest individual score is removed, the mean score of the remaining 7 players becomes 12 points. What was the highest score?
+
+A. 20
+B. 24
+C. 32
+D. 36
+Answer: C
+
+Question 5:
+The tables below give the distribution of high temperatures in degrees Fahrenheit (-F) for City A and City B over the same 21 days in March.
+
+Which of the following is true about the data shown for these 21 days?
+
+A. The standard deviation of temperatures in City A is larger.
+B. The standard deviation of temperatures in City B is larger.
+C. The standard deviation of temperatures in City A is the same as that of City B.
+D. The standard deviation of temperatures in these cities cannot be calculated with the data provided.
+Answer: B
+
+Question 6:
+The table above shows two lists of numbers. Which of the following is a true statement comparing list A and list B?
+
+A. The means are the same, and the standard deviations are different.
+B. The means are the same, and the standard deviations are the same.
+C. The means are different, and the standard deviations are different.
+D. The means are different, and the standard deviations are the same.
+Answer: A
+
+Question 7:
+The dot plot represents the 15 values in data set A. Data set B is created by adding 56 to each of the values in data set A. Which of the following correctly compares the medians and the ranges of data sets A and B?
+
+A. The median of data set B is equal to the median of data set A, and the range of data set B is equal to the range of data set A
+B. The median of data set B is equal to the median of data set A, and the range of data set B is greater than the range of data set A
+C. The median of data set B is greater than the median of data set A, and the range of data set B is equal to the range of data set A
+D. The median of data set B is greater than the median of data set A, and the range of data set B is greater than the range of data set A
+Answer: C

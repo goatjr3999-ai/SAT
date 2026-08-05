@@ -1,0 +1,188 @@
+Question 1:
+Which of the following equivalent forms of the given function {{MATH_1}}displays, as the base or the coefficient, the {{MATH_2}}-coordinate of the {{MATH_3}}intercept of the graph of{{MATH_4}} in the {{MATH_5}}-plane?
+{{MATH_6}}
+
+A. {{MATH_7}}
+B. {{MATH_8}}
+C. {{MATH_9}}
+D. {{MATH_10}}
+Answer: B
+
+Question 2:
+The function f is defined by f(x) = a^{x} + b, where a and b are constants and a > 0. In the xy-plane, the graph of y = f(x) has a y-intercept at (0, –20) and passes through the point (2, 43). What is the value of a – b? (Dùng Desmos)
+
+Answer: 29
+
+Question 3:
+The function {{MATH_11}} is defined by {{MATH_12}} where {{MATH_13}} and {{MATH_14}} are constants. The graph of {{MATH_15}} is shown. For how many values of {{MATH_16}} does {{MATH_17}}
+
+A. Three
+B. Two
+C. One
+D. Zero
+Answer: C
+
+Question 4:
+Each of the three data sets represented by the three dot plots has 18 values. The median of data sets A, B, and C are a, b, and c respectively. What is the relationship between a, b, and c?
+
+A. {{MATH_18}}
+B. {{MATH_19}}
+C. {{MATH_20}}
+D. {{MATH_21}}
+Answer: D
+
+Question 5:
+A data set of 77 different numbers has a mean of 1,073. A new data set is created by adding 93 to each number in the original data set that is greater than the median and subtracting 93 from each number in the original data set that is less than the median. Which of the following measures does NOT have the same value in both the original and the new data sets?
+
+A. Sum of the numbers
+B. Mean
+C. Standard deviation
+D. Median
+Answer: C
+
+Question 6:
+A sample of a certain isotope takes 29 years to decay to half its original mass. The function {{MATH_22}} gives the approximate mass of this isotope, in grams, that remains {{MATH_23}} years after a 128-gram sample starts to decay. Which statement is the best interpretation of {{MATH_24}} in this context?
+
+A. Approximately 32 grams of the sample remains 58 years after the sample starts to decay.
+B. The mass of the sample has decreased by approximately 32 grams 58 years after the sample starts to decay.
+C. The mass of the sample has decreased by approximately 58 grams 32 years after the sample starts to decay.
+D. Approximately 58 grams of the sample remains 32 years after the sample starts to decay.
+Answer: A
+
+Question 7:
+A quadratic function models the height, in feet, of an object above the ground in terms of the time, in seconds, after the object was launched. According to the model, the object was launched from a height of 0 feet and reached its maximum height of 1,600 feet 10 seconds after it was launched. Based on the model, what was the height, in feet, of the object 15 seconds after it was launched? (Dùng Desmos)
+
+Answer: 1200
+
+Question 8:
+A district school board in a certain state is proposing a change to the length of lunch periods for all high schools in the district. A sample of 365 high school students was selected at random from all high school students in the district. The selected students were asked whether they approved of the proposed change, and 211 students responded that they did not approve. Which of the following is the largest population to which the results of the survey can be generalized?
+
+A. All high school students in the district
+B. The 365 students who were surveyed
+C. All high school students in the state
+D. The 211 students who responded that they did not approve of the proposed change
+Answer: A
+
+Question 9:
+In the xy-plane, points {{MATH_25}} and {{MATH_26}} are the endpoints of the diameter of a circle. An equation of the circle is {{MATH_27}}. What is the value of {{MATH_28}}?
+
+Answer: 4
+
+Question 10:
+The function {{MATH_11}} is defined by the equation {{MATH_29}}
+where {{MATH_30}} and {{MATH_14}} are constants. The function has a maximum value of 5 and is defined only for real numbers {{MATH_16}} such that {{MATH_31}} If the graph of {{MATH_15}} in the {{MATH_32}}plane passes through the point {{MATH_33}} what is the value of {{MATH_34}}
+
+A. {{MATH_35}}
+B. {{MATH_36}}
+C. {{MATH_37}}
+D. {{MATH_38}}
+Answer: A
+
+Question 11:
+The equation below represents a parabola in the xy-plane. Which of the following is an equivalent form that displays the y-intercept of the parabola as a constant or coefficient?
+{{MATH_39}}
+
+A. {{MATH_40}}
+B. {{MATH_41}}
+C. {{MATH_42}}
+D. {{MATH_43}}
+Answer: A
+
+Question 12:
+Which expression is a factor of {{MATH_44}}?
+
+A. {{MATH_45}}
+B. {{MATH_46}}
+C. {{MATH_47}}
+D. {{MATH_48}}
+Answer: A
+
+Question 13:
+For the linear function{{MATH_11}}, defined by{{MATH_49}}, where {{MATH_50}}and {{MATH_14}} are constants. In the {{MATH_32}}plane, the graph of {{MATH_51}} contains the point {{MATH_52}} and the graph of {{MATH_53}} has an {{MATH_54}}intercept of {{MATH_55}}Which of the following defines {{MATH_56}}
+
+A. {{MATH_57}}
+B. B.{{MATH_58}}
+C. {{MATH_59}}
+D. {{MATH_60}}
+Answer: A
+
+Question 14:
+To investigate the effect of magnesium supplementation on the sleep quality of adults, a researcher selected 190 adults at random from a community center to participate in a study. The researcher first measured the sleep efficiency of each participant. Each participant was then randomly assigned to take a magnesium supplement or a placebo each day for 6 weeks. At the end of the 6 weeks, the researcher measured the sleep efficiency of all participants again and found that the magnesium supplement caused statistically significant improved sleep quality for the adults at the community center. What feature of this study allowed the researcher to conclude that the magnesium supplement caused the improved sleep quality?
+
+A. There were more than 100 participants in the study.
+B. The participants were selected at random from the community center.
+C. The sleep efficiency of each participant was measured again at the end of 6 weeks.
+D. Each participant was randomly assigned to take a magnesium supplement or a placebo.
+Answer: D
+
+Question 15:
+Quadratic function f is defined by {{MATH_61}}where a and c are constants. The graph of y = f(x) in the xy-plane is a parabola that opens downward and has a vertex of (h, k), where k > 0. If f(3) = f(9), which of the following must be true?
+I) -1 < a < 0
+II) c > 0
+
+A. I only
+B. II only
+C. I and II
+D. Neither I nor II
+Answer: A
+
+Question 16:
+An object is launched from a height of 121 feet above the ground. A quadratic function f models the height above the ground, in feet, of the object t seconds after it is launched. According to the model, 2 seconds after the object is launched, it reaches a maximum height of 185 feet above the ground. Which equation defines f?
+
+A. {{MATH_62}}
+B. {{MATH_63}}
+C. {{MATH_64}}
+D. {{MATH_65}}
+Answer: D
+
+Question 17:
+For a school competition, each student in the sixth, seventh, and eighth grades is assigned to either the red team or the green team. The table shows the distribution of grade and team for the students in the school.
+
+A student from the competition will be selected at random. What is the probability of selecting a student who is in the sixth or seventh grade, given that the student is on the green team? (Điền đ-p -n dạng số thập ph-n)
+
+Answer: 0.6
+
+Question 18:
+A handyman charges a flat rate of $218 for the first 3 hours of work and $68 for each additional hour of work. Which equation gives the total amount {{MATH_66}}, in dollars, that the handyman charges for {{MATH_16}} hours of work, where {{MATH_67}}? (Dùng desmos)
+
+A. {{MATH_68}}
+B. {{MATH_69}}
+C. {{MATH_70}}
+D. {{MATH_71}}
+Answer: C
+
+Question 19:
+A square map has a side length of 45 inches, and 1 inch on the map represents an actual distance of 13 miles. A smaller version of the same map is printed as a square with the side length 70% shorter than the side length of the previous map. On the smaller map, which of the following is closest to the actual distance, in miles, represented by 1 inch?
+
+A. 3.90
+B. 7.65
+C. 31.50
+D. 43.33
+Answer: D
+
+Question 20:
+The dot plots represent the distributions of value in data sets A and B.
+
+Which of the following statements must be true?
+I. The median of data set A is equal to the median of data set B.
+II. The standard deviation of data set A is equal to the standard deviation of data set B.
+
+A. I and II
+B. I only
+C. II only
+D. Neither I nor II
+Answer: B
+
+Question 21:
+One of the factors of {{MATH_72}} is {{MATH_73}}, where b is a positive constant. What is the smallest possible value of b? (Có thể giải Casio hoặc dùng Desmos)
+
+Answer: 7
+
+Question 22:
+A right square pyramid has a total surface area of 28,160 square inches, and the combined surface area of the four lateral faces of this pyramid is 16,060 square inches. What is the height, in inches, of this pyramid?
+
+A. 48
+B. 55
+C. 73
+D. 110
+Answer: A

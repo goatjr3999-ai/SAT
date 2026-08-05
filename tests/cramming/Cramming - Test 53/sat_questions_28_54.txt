@@ -1,0 +1,371 @@
+Question 1:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Some animals can wiggle their ears to find prey. Many people think that most humans can’t wiggle their ears, maybe because we don’t need to do it for survival. But in a 2020 study, Daniel Strauss and team found that study participants made small ear movements without realizing it while listening to podcasts. This finding could suggest that humans might have some ______ to wiggle their ears.
+
+
+A. capacity
+B. weakness
+C. kindness
+D. job
+Answer: A
+
+
+Question 2:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although the clustering of cutlery manufacturing firms in Sheffield, UK, is often cited as typical of industrial agglomeration, Mattia Faggioni et al. show that it is not. The wide range of factors driving the phenomenon is ______ across industries: while access to specialized suppliers can prompt agglomeration, colocation among refined petroleum product manufacturers is driven by different reasons.
+
+
+A. imperative
+B. credible
+C. heterogeneous
+D. decisive
+Answer: C
+
+
+Question 3:
+Which choice completes the text with the most logical and precise word or phrase?
+
+Studying wrappers from discontinued candies, cover images from out-of-print magazines, and other physical media from the past, media preservationists may seem like a frivolous pursuit, but ephemeral objects like these are useful as ______ cultural change, revealing shifts in norms, values, and concerns that traditional objects of historical inquiry may not.
+
+
+A. pretexts for
+B. conjectures about
+C. manifestations of
+D. inducements to
+Answer: C
+
+
+Question 4:
+Which choice completes the text with the most logical and precise word or phrase?
+
+A study showed that iron is present throughout each fossilized tooth of Tarbosaurus, differing from the distribution in similarly shaped teeth of living predators, such as Rosenberg’s monitors. However, researchers note that the original distribution in Tarbosaurus teeth has likely been ______ by fossilization, since iron is so abundant in the sediments in which fossils form.
+
+
+A. obscured
+B. implemented
+C. stimulated
+D. isolated
+Answer: A
+
+
+Question 5:
+As used in the text, what does the underlined figurative phrase most nearly mean?
+
+The following text is from William Carlos Williams’s 1925 creative nonfiction book *In the American Grain*. Williams is discussing how writers by nineteenth-century US poet and fiction writer Edgar Allan Poe have been guided by Poe's work.
+Poe must suffer by his originality. Invent that which is new, even if it be made of __pine *from your own yard*,__ and there's none to know what you have done. It is because he has had no grounds to stand on. From nothing, of himself. He was American. He was the astounding, inconceivable growth of his locality.
+
+
+A. Personal experiences that are hard for others to comprehend
+B. Ideas you have never previously expressed
+C. Elements of the culture in which you live
+D. Inspiration you received while reading independently
+Answer: C
+
+
+Question 6:
+Which choice best describes the overall structure of the text?
+
+The establishment of urban green spaces for the abatement of fine particulate matter and other major air-pollutant concentrations is gaining public support, but urban planners must proceed with caution given subtleties in the body of evidence for the strategy's efficacy. High-level reports have attributed pollutant reductions to cities' inclusion of green spaces; however, one study found that while trees are negatively associated with air pollutants when considered on a citywide scale, at the street level, this association is minimal and at times positive. Because research tends to focus on large-scale effects in cities, decision-makers may be unaware that those outcomes are not always generalizable across spatial scales.
+
+
+A. It outlines a problem that is of growing public concern, explains why an innovative solution to that problem is challenging to implement, and then suggests the importance of researching alternative solutions.
+B. It addresses an appealing approach to a prevalent problem, illustrates that the approach is not as uniformly successful as it may seem, and then further emphasizes the importance of recognizing nuances in the research on that approach.
+C. It details an initiative implemented in response to certain research findings, identifies an apparent inconsistency within those findings, and then explains how that inconsistency has typically been accounted for.
+D. It establishes the growing intensity of a public concern, details the most common method of mitigating that concern, and then refers to evidence that the method is broadly ineffective.
+Answer: B
+
+
+Question 7:
+Which choice most effectively uses data from the table to complete the statement?
+
+Examples of Hoards Found in Ireland and Northern Ireland
+
+Deposits of valuable objects, called hoards, have been unearthed in many different parts of Ireland and Northern Ireland. Technological advancements in the twenty-first century have made it easier to locate hoards, but plenty of hoards were found earlier. For example, _____
+
+
+A. Balline Hoard and Carrick-on-Suir Hoard were both discovered in the 1900s.
+B. The Balline Hoard was found in 1868.
+C. The Ardagh Hoard and Balline Hoard were both found before 2000.
+D. The Ardagh Hoard, Balline Hoard, and Carrick-on-Suir Hoard have all been found since 1868.
+Answer: C
+
+
+Question 8:
+Based on the texts, how would the author of Text 2 most likely respond to the underlined portion in Text 1?
+
+Text 1: Researchers Douglas J. Levey and F. Gary Stiles observed that many migratory neotropical landbirds eat fruit or nectar and live in forest edges or other open habitats with large shifts in temperature. The researchers hypothesized that __these traits each independently contributed to the evolution of long-distance migration in many neotropical landbird species__, supporting their hypothesis with data relating to Turdinae and other families of birds.
+Text 2: Levey and Stiles’s hypothesis does not account for an additional possible evolutionary precursor to long-distance migration. W. Alice Boyle and Courtney J. Conway analyzed data on Xolmis dominicanus and 378 other species of neotropical landbirds. They found that solitary foragers are more likely to migrate than birds that forage in groups, concluding that group foraging is consistently and negatively associated with long-distance migration.
+
+
+A. By recommending that more studies be conducted to determine whether there is evidence of an association between birds’ foraging behavior and long-distance migration
+B. By countering that neither diet nor habitat contributed as decisively to the evolution of long-distance migration in many bird lineages as foraging behavior likely did
+C. By noting that an aspect of foraging behavior likewise may be linked to the evolution of long-distance migration in many bird lineages
+D. By suggesting that the evolution of long-distance migration contributed in turn to changes in many birds’ foraging behavior
+Answer: C
+
+
+Question 9:
+Which choice most effectively uses data from the table to complete the example?
+
+Reported Annual Travel Distances in Four Studies of Migrating Animal Populations
+
+Some studies of migrating animals measure how far the animals travel in a year by fitting individuals with GPS tracking collars. Other studies track annual round-trip distance (RTD), which is equal to double the distance separating the two habitats a population migrates between each year. A researcher argues that since GPS records all of an animal’s movements, using the GPS method to track a population would result in significantly higher recorded travel distances than using the RTD method would. For example, it’s very likely that the distance reported for the STD.
+
+
+A. caribou would be greater than 2,155 kilometers if the RTD method had been used.
+B. caribou would be less than 3,807 kilometers if the RTD method had been used.
+C. white-eared kob would be less than 400 kilometers if the GPS method had been used.
+D. white-eared kob would be greater than 3,807 kilometers if the GPS method had been used.
+Answer: B
+
+
+Question 10:
+Which choice most logically completes the text?
+
+To defend themselves against the eastern red bat and other bats, some moths, including *Daphnis hypothous*, produce ultrasonic clicks that either disrupt bats' echolocation, startle bats, or signal the moths' unpleasant taste. Akito Y. Kawahara and Jesse R. Barber hypothesized that unlike clicks that disrupt bats' echolocation, clicks that startle bats would prevent only initial attacks and clicks that signal an unpleasant taste would prevent subsequent attacks but not initial attacks. Performing a multi-night experiment, they found that the rates at which ultrasound-producing *Xylophanes tersa* moths were captured by bats with no prior exposure to *X. tersa* did not significantly vary over time, suggesting that __________.
+
+
+A. for X. tersa, producing ultrasound to warn of an unpleasant taste is likely a more effective defense against bat attacks than disrupting bats' echolocation is.
+B. moths belonging to the species X. tersa can produce a single ultrasonic click that simultaneously startles bats such as the eastern red bat and disrupts their echolocation.
+C. in X. tersa, the function of anti-bat ultrasound production is likely to disrupt bats' echolocation rather than to startle or warn of unpleasant taste.
+D. X. tersa produces one ultrasonic click that disrupts bats' echolocation and another ultrasonic click that startles bats.
+Answer: C
+
+
+Question 11:
+Which quotation from a survey respondent would best illustrate the underlined claim?
+
+High-speed rail (HSR) systems have trains that move at much higher speeds than traditional trains. HSR is expanding in Greece, Sweden, and many other countries around the world. The United States, however, has been slow to build HSR systems. Researchers surveyed United States residents about their attitudes toward HSR. __The researchers claim that this survey reveals that there is strong support for building more HSR lines in the United States.__
+
+
+A. “I prefer riding buses instead of taking trains because buses travel to more locations.”
+B. “I have traveled on high-speed rail lines in Greece but not in Sweden.”
+C. “I think high-speed rail is wonderful. The United States needs to build more high-speed rail lines.”
+D. “I believe that the United States has enough high-speed rail lines. It should invest in airports instead.”
+Answer: C
+
+
+Question 12:
+Issuing a one-dollar coin yields positive seigniorage—the profit generated when the cost to produce a coin is less than its face value—profiting the US government, which in turn can be used to fund such services as transportation. Some countries, such as the Netherlands, have ceased manufacturing certain coins due to their producing a repeated negative seigniorage. In an economics class discussing the data in the table, one student argues that in 2023, the one-cent coin was the least financially viable for the US to produce, while another student argues that the five-cent coin was.
+Based on the information in the text and the table, the two students most likely disagree about the answer to which question?
+
+Value, Cost, and Seigniorage of US Coins by Denomination, 2023
+
+
+
+A. When determining the financial implications of issuing a coin, which is more important, the total seigniorage from issuing that coin or the seigniorage per dollar when issuing that coin?
+B. If issuing a given coin results in negative seigniorage per dollar issued, can that be changed to positive seigniorage per dollar issued by reducing the cost of issuing the coin?
+C. If issuing a coin results in positive seigniorage per dollar but not as much positive seigniorage per dollar as issuing a different coin does, does it make financial sense to continue issuing the first coin?
+D. When determining whether it makes financial sense to issue a given coin, which is more important, the total value of the units of that coin produced or the gross cost of issuing that coin?
+Answer: A
+
+
+Question 13:
+Which potential finding from the team’s study, if true, would most directly support the team’s hypothesis?
+
+Psychologists Gregory Bryant, Dorsa Amir, and colleagues investigated cross-cultural perceptions of spontaneous (real) laughter and volitional (fake or forced) laughter. Study participants from 21 societies, including those in Singapore and Turkey, listened to randomized recordings of 18 spontaneous laughs taken from natural conversations between pairs of women and 18 volitional laughs produced separately by 18 different women in response to an instruction to laugh. The team hypothesized that participants’ judgments of laughs as either spontaneous or volitional would primarily be driven by specific acoustic features of the recorded laughs.
+
+
+A. Participants from Singapore and Turkey were more likely than participants from most other societies in the study to request that the recorded laughs be played at a higher volume.
+B. The process of recording tends to diminish the most subtle acoustic qualities of laughter that are usually detectable in face-to-face interactions.
+C. Participants from Singapore, Turkey, and most other societies in the study were more likely to identify laughs as spontaneous when the laughs consisted of short bursts at a relatively high pitch.
+D. A high tendency to identify laughs as spontaneous had an equal correlation with demographic variables of the participant’s society, such as the average percentage of mass media exposure in English, as it did with acoustic qualities of the laughs, such as pitch and burst duration.
+Answer: C
+
+
+Question 14:
+Which choice most logically completes the text?
+
+Across brown bears—omnivores with high dietary plasticity—there is wide variety in dietary mix, which may reflect genetics, local resource availability, or social learning (cubs stay with their mothers for two years or more). Evaluating these possibilities, Anne Hertel et al. analyzed 30 years of data on trophic position (indicative of dietary mix) for female brown bears. After separation, daughters, who tended to settle near their mothers, occupied the same trophic positions as their mothers for two years, but the correlation disappeared by year five. Trophic correlation with unrelated individuals in similar habitats was modest, while habitat-independent correlation with nonmaternal relatives (e.g., cousins) was no different than with unrelated individuals. These findings suggest that ______
+
+
+A. dietary mix among females may reflect a social learning effect that eventually diminishes, though environmental constraints cannot be ruled out as a contributing factor.
+B. social learning and resource fluctuations may both play a role in dietary mix among females, at least temporarily, though genetic factors appear to make a significant contribution as well.
+C. female dietary mix is best understood as changeable and contingent on fluctuating environmental conditions rather than as the result of social learning or genetic factors.
+D. growing dissimilarity between mothers and their daughters with regard to dietary mix may reflect changes in the resources available in maternal habitats, though social learning could also contribute to the trend.
+Answer: A
+
+
+Question 15:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Industrial Revolution transformed board games from handcrafted luxuries into affordable entertainment. Manufacturing innovations included mechanized printing processes, which created vibrant game boards at low ______ production methods, which ensured uniform playing pieces and packaging; and widespread distribution networks.
+
+
+A. costs, standardized
+B. costs. Standardized
+C. costs: standardized
+D. costs; standardized
+Answer: D
+
+
+Question 16:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In Puerto Rico, it’s not unusual for a city or town to be known by a nickname that corresponds to one of its notable features, like landscape, climate, famous residents, or chief export. For example, the Puerto Rican municipality of Cabo Rojo is well known for being the birthplace of Ramón Emeterio Betances y Alacán, one of the leaders of the Puerto Rican independence ______ this distinction has earned it a fitting nickname: “the Cradle of Betances.”
+
+
+A. movement, and
+B. movement
+C. movement and
+D. movement,
+Answer: A
+
+
+Question 17:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Having trained as astronauts for years, ______
+
+
+A. August 2, 1991, was when space shuttle Atlantis took flight with five crew members aboard.
+B. it was August 2, 1991, when five crew members took flight aboard space shuttle Atlantis.
+C. five crew members took flight aboard space shuttle Atlantis on August 2, 1991.
+D. space shuttle Atlantis took flight on August 2, 1991, with five crew members aboard.
+Answer: C
+
+
+Question 18:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A team led by Akitsugu Konno, an animal scientist at Japan’s Tokyo University, has found that human selection may have influenced a surprising trait in dogs: the color of their eyes. Konno’s team not only found that domesticated dogs tend to have much darker eyes than their closest cousins, wolves, but also determined through surveys that people on average ______ dogs with darker eyes to be friendlier, suggesting that dog breeders throughout history may have unknowingly selected for this trait.
+
+
+A. will have perceived
+B. had perceived
+C. perceive
+D. have perceived
+Answer: C
+
+
+Question 19:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Enabling the liquid to retain structural integrity yet spread easily,_______
+
+
+A. ketchup relies on its non-Newtonian properties for its utility as a consumer product.
+B. a consumer product like ketchup derives its utility from its non-Newtonian properties.
+C. the non-Newtonian properties of ketchup are essential to its utility as a consumer product.
+D. ketchup is a consumer product whose non-Newtonian properties are essential to its utility.
+Answer: C
+
+
+Question 20:
+Which choice completes the text with the most logical transition?
+
+Researchers have sequenced the genomes of several species of archaea (a group of single-celled organisms that lack a cell nucleus). One strain of the archaeal species Thermoplasma acidophilum was found to have 1,478 genes in its genome. ______ the number of genes is not consistent across species: a strain of Pyrococcus furiosus, for example, had 2,065 genes.
+
+
+A. Indeed,
+B. Specifically,
+C. Consequently,
+D. However,
+Answer: D
+
+
+Question 21:
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A loose confederation of cities from eleven modern-day countries, the Hanseatic League formed a powerful commercial network that supported a great flourishing of arts between the 13th and 17th centuries. Hanseatic League member ______ was one of the league's capitals, the only one of four in Germany, giving Cologne's merchants access to key maritime trade routes.
+
+
+A. city Cologne;
+B. city, Cologne,
+C. city, Cologne
+D. city Cologne
+Answer: D
+
+
+Question 22:
+Which choice completes the text with the most logical transition?
+
+If you were to view the Namarunu volcano in Kenya from above, you might notice that its low profile and gently sloping sides make it look a bit like a shield lying flat on the ground. ______, it makes sense that Lydia Jennings and other volcanologists classify Namarunu as a shield volcano.
+
+
+A. For instance,
+B. Therefore,
+C. However,
+D. By contrast,
+Answer: B
+
+
+Question 23:
+Which choice completes the text with the most logical transition?
+
+Seventeenth-century baroque artist Pietro da Cortona's commission for the Palazzo Barberini ceiling necessitated a masterful trompe l'oeil, an illusion meant to dissolve the architectural boundaries and seemingly open the interior to the heavens. ______ he meticulously manipulated forced perspective and employed quadratura painting techniques, causing dozens of allegorical figures to appear as if they are ascending beyond the flat plane of the ceiling.
+
+
+A. Nevertheless,
+B. Consequently,
+C. In other words,
+D. To this end,
+Answer: D
+
+
+Question 24:
+Which choice completes the text with the most logical transition?
+
+Many paintings of the trompe l'oeil genre attain their illusory verisimilitude by depicting quotidian things, such as a fly or an empty bird cage, as if they are placed directly on the surface. Famed seventeenth-century Flemish artist Cornelis Gysbrechts's *The Reverse of a Canvas* ______ startles the viewer with the extraordinary sight of a man attempting to poke his head out from within the picture frame.
+
+
+A. fittingly,
+B. by contrast,
+C. for instance,
+D. specifically,
+Answer: B
+
+
+Question 25:
+The student wants to provide a quotation from chapter 17. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•*The Future of Nostalgia* is a scholarly book by literary theorist Svetlana Boym.
+•The book provides a multifaceted exploration of the concept of nostalgia.
+•Chapter 8 explores nostalgia and Europe’s largest shopping mall.
+•Chapter 11 discusses various skeptics’ takes on the concept of nostalgia.
+•In chapter 17, Boym writes, “The poetics of nostalgia combines estrangement and human solidarity, affect and reflection.”
+
+
+A. After exploring nostalgia and Europe’s largest shopping mall, Svetlana Boym goes on to discuss various skeptics’ takes on the concept of nostalgia.
+B. Svetlana Boym’s The Future of Nostalgia provides a multifaceted exploration of nostalgia.
+C. Svetlana Boym explores nostalgia and Europe’s largest shopping mall in chapter 8 of her book.
+D. In an exploration of various skeptics' takes on the concept of nostalgia, Svetlana Boym writes, "The poetics of nostalgia combines estrangement and human solidarity, affect and reflection."
+Answer: D
+
+
+Question 26:
+The student wants to emphasize a similarity between facade-bound green walls and urban grasslands. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Urban natural areas are city spaces that feature elements of nature.
+•Facade-bound green walls are urban natural areas defined as exterior walls that have plants growing on them.
+•They can benefit cities by enhancing air quality.
+•Urban grasslands are urban natural areas defined as areas of pastures or meadows in cities.
+•They can benefit cities by increasing diversity among bird species.
+
+
+A. Urban grasslands, which are areas of pastures or meadows in cities, benefit cities by increasing diversity among bird species.
+B. Facade-bound green walls enhance air quality, whereas urban grasslands increase diversity among bird species.
+C. Facade-bound green walls and urban grasslands can both be considered urban natural areas.
+D. By enhancing air quality, facade-bound green walls benefit cities.
+Answer: C
+
+
+Question 27:
+The student wants to explain how the findings of the two studies relate to the GSP. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•The growth-survival paradigm (GSP) describes how growth rates are thought to correlate with survival outcomes in larval fish cohorts.
+•The GSP posits that faster-growing fish larvae have a higher likelihood of survival to maturity than do slower-growing larvae of the same species.
+•Payne et al. (2013) found that the survival rate of faster-growing Atlantic herring (Clupea harengus) larvae was significantly higher than that of relatively slow-growing C. harengus larvae.
+•Kano et al. (2015) found that the survival rate of slower-growing Alaska pollock (Gadus chalcogrammus) larvae was significantly higher than that of relatively fast-growing G. chalcogrammus larvae.
+
+
+A. Taken together, Payne's and Kano's teams' findings indicate that faster-growing C. harengus larvae were more likely to survive than were slower-growing G. chalcogrammus larvae, reflecting the GSP's predicted correlation between faster growth and survival.
+B. In contrast to Payne's team's findings concerning C. harengus, which are consistent with the GSP, those of Kano's team—suggesting that in the case of G. chalcogrammus larvae, slower growth was advantageous for survival—are inconsistent with this paradigm.
+C. Payne's team's study, in accordance with the GSP, found that relatively fast-growing C. harengus larvae had a notable survival advantage; Kano's team's study, by contrast, did not discern a relationship between larval growth rates and survival in G. chalcogrammus.
+D. Payne's team's findings regarding C. harengus—like Kano's team's findings regarding G. chalcogrammus—suggest that larval growth rates are correlated with survival outcomes, thus confirming the GSP.
+Answer: B

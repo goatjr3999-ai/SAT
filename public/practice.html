@@ -1,0 +1,1095 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GlorySAT – Luyện đề</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <script src="lockdown.js"></script>
+  <link rel="icon" type="image/png" href="/images/logo.webp" />
+</head>
+
+<body class="practice-page home-page">
+
+  <aside class="sidebar">
+    <a href="index.html" class="sigma-logo-top">
+      <img src="/images/logo.webp" alt="GlorySAT logo" class="sigma-logo-img" />
+      <span class="sigma-logo-text">GlorySAT</span>
+    </a>
+
+    <nav class="sidebar-nav">
+      <a href="index.html" class="sidebar-item"><img src="/images/home.webp" class="sidebar-icon" alt="home"> Trang chủ</a>
+      <div class="sidebar-item collapsible" id="practice-toggle">
+        <span><img src="/images/luyende.webp" class="sidebar-icon" alt="luyende"> Luyện đề</span>
+        <span class="chevron"><img src="/images/down.webp" class="sidebar-chevron" alt="open"></span>
+      </div>
+      <div class="sidebar-submenu" id="practice-submenu">
+        <a
+          href="practice.html?category=starter"
+          class="sidebar-subitem"
+          data-category="starter"
+        >Starter</a>
+        <a
+          href="practice.html?category=real_tests"
+          class="sidebar-subitem"
+          data-category="real_tests"
+        >Đề thi thật</a>
+        <a
+          href="practice.html?category=practice_tests"
+          class="sidebar-subitem"
+          data-category="practice_tests"
+        >Đề luyện</a>
+        <a
+          href="practice.html?category=cramming"
+          class="sidebar-subitem"
+          data-category="cramming"
+        >Cramming</a>
+        <a
+          href="practice.html?category=math"
+          class="sidebar-subitem"
+          data-category="math"
+        >Math</a>
+        <a
+          href="practice.html?category=math_cramming"
+          class="sidebar-subitem"
+          data-category="math_cramming"
+        >Math Cramming</a>
+      </div>
+      <a href="wrong_answers.html" class="sidebar-item"><img src="/images/history.webp" class="sidebar-icon" alt="wrong"> Kho câu sai</a>
+      <a href="theory.html" class="sidebar-item"><img src="/images/lithuyet.webp" class="sidebar-icon" alt="lithuyet"> Lí thuyết</a>
+    </nav>
+
+    <div class="sidebar-footer">
+      
+      
+      <a href="/logout" class="logout-bottom">Đăng xuất</a>
+    </div>
+  </aside>
+
+  <button class="mobile-sidebar-toggle" id="mobile-sidebar-open" type="button" aria-label="Mở menu">
+    ☰
+  </button>
+
+  <div class="mobile-sidebar-backdrop" id="sidebar-backdrop" aria-hidden="true" hidden></div>
+
+  <main class="main-content practice-main-content">
+    <h2 class="page-title-2">Làm bài ngay thuii ❤️</h2>
+
+
+    <div class="search-filter">
+      <div class="search-input" id="date-filter">
+        <input
+          type="text"
+          id="filter-display"
+          placeholder="Chọn tháng/năm đề thi thật"
+          readonly
+        />
+        <span class="search-caret">▾</span>
+      </div>
+      <div class="search-options" id="filter-options"></div>
+    </div>
+
+    <div id="test-list">Loading tests...</div>
+    
+  </main>
+<div class="plan-modal-backdrop" id="plan-modal">
+  <div class="plan-modal">
+
+    <button class="plan-close" id="plan-close">X</button>
+
+    <!-- Title ở giữa -->
+    <div class="plan-header-center">
+      <div class="plan-title-top">NÂNG CẤP GLORY</div>
+      <div class="plan-subtitle plan-subtitle-center">
+        Gói Glory 1 tháng : 79.000 VNĐ
+      </div>
+    </div>
+
+    <!-- 2 COLUMN LAYOUT -->
+    <div class="plan-grid plan-grid-row">
+
+      <!-- RIGHT -->
+      <div class="plan-right">
+
+        <!-- Description vẫn nằm bên phải -->
+
+
+        <ul class="plan-benefits">
+          <li>Tổng hợp <b>tất cả các câu chúng mình từng làm</b> để đạt 1550->1600</li>
+          <li>Hơn 6000 câu Verbal + Toán</li>
+          <li>Group Zalo giải đáp các câu hỏi của mọi người</li>
+        </ul>
+        
+        <p class="plan-footer-text">
+          Mọi người muốn đăng kí hoặc tư vấn có thể inbox trực tiếp qua Threads/Instagram glory.sat của chúng mình nhé!
+        </p>
+        
+
+      </div>
+
+    </div>
+
+    <!-- Button căn giữa -->
+    <div class="plan-upgrade-center">
+      <button class="upgrade-btn" id="upgrade-btn">Nâng cấp ngay</button>
+    </div>
+
+  </div>
+</div>
+  <script>
+
+  const accountStatus = document.getElementById("account-status");
+  const planModal = document.getElementById("plan-modal");
+  const closePlanBtn = document.getElementById("plan-close");
+  const upgradeBtn = document.getElementById("upgrade-btn");
+  let isProAccount = false;
+
+  function openPlanModal() {
+    if (!planModal) return;
+    planModal.classList.add("open");
+    document.body.classList.add("modal-open");
+  }
+
+  function closePlanModal() {
+    if (!planModal) return;
+    planModal.classList.remove("open");
+    document.body.classList.remove("modal-open");
+  }
+
+  function getSelectedPlan() {
+    return "month";
+  }
+
+  if (planModal) {
+    planModal.addEventListener("click", (event) => {
+      if (event.target === planModal) closePlanModal();
+    });
+  }
+
+  if (closePlanBtn) {
+    closePlanBtn.addEventListener("click", closePlanModal);
+  }
+
+  if (upgradeBtn) {
+    upgradeBtn.addEventListener("click", () => {
+      const plan = getSelectedPlan();
+      window.location.href = `/payment.html?plan=${plan}`;
+    });
+  }
+
+  const params = new URLSearchParams(window.location.search);
+  const category = params.get("category") || "real_tests";
+
+  const categoryMap = {
+    real_tests: "Đề thi thật",
+    practice_tests: "Đề luyện",
+    starter: "Starter",
+    cramming: "Cramming",
+    math: "Math",
+    math_cramming: "Math Cramming",
+  };
+
+  // const guidanceMap = {
+  //   starter: `
+  //     <p class="practice-guidance-title">Cẩm nang Starter</p>
+  //     <ul>
+  //       <li>Đây là phần khởi đầu, nhưng không phải phần dễ. Với mỗi dạng, mọi người nên đọc lí thuyết trước khi làm.</li>
+  //       <li>Khi làm Starter, mọi người cố gắng hiểu bản chất các câu, và Error Log thật kĩ câu sai.</li>
+  //       <li>Nên hoàn thành Starter trong 1 tháng đầu tiên.</li>
+  //     </ul>
+  //   `,
+  //   practice_tests: `
+  //     <p class="practice-guidance-title">Cẩm nang Đề luyện</p>
+  //     <ul>
+  //       <li>Mọi người có thể thấy rõ 'difficulty spike' của phần này so với Starter</li>
+  //       <li>Phần này cũng được chia theo dạng, mọi người xem mình yếu ở đâu và tập trung cải thiện</li>
+  //       <li>Nên hoàn thành phần này trong < 1.5 tháng tiếp theo</li>
+  //     </ul>
+  //   `,
+  //   real_tests: `
+  //     <p class="practice-guidance-title">Cẩm nang Đề thi thật</p>
+  //     <ul>
+  //       <li>Tổng hợp các đề thi thật trong năm 2024 và 2025.</li>
+  //       <li>Khi làm đề, mọi người nên ở trong tâm thế giống y hệt khi thi thật. </li>
+  //       <li>Không chỉ rút ra lỗi sai kiến thức mà còn là chiến thuật làm bài.</li>
+  //     </ul>
+  //   `,
+  //   cramming: `
+  //     <p class="practice-guidance-title">Cẩm nang Cramming</p>
+  //     <ul>
+  //       <li>Đây là chỗ đề sát thi thật nhất, mọi người cố gắng Cram hết để maximize khả năng recycle trong lúc thi.</li>
+  //       <li>Nên hoàn thành trong 2 tuần cuối trước khi thi.</li>
+  //     </ul>
+  //   `,
+  //   math: `
+  //     <p class="practice-guidance-title">Cẩm nang Math</p>
+  //     <ul>
+  //       <li>Đây là phần khởi đầu về Toán, nhưng không phải phần dễ.</li>
+  //       <li>Trong SAT Math có rất nhiều dạng lạ, nên mọi người không được chủ quan và phải nắm chắc kiến thức</li>
+  //       <li>Nên hoàn thành Math trong 1 tháng đầu tiên.</li>
+  //     </ul>
+  //   `,
+  //   math_cramming: `
+  //     <p class="practice-guidance-title">Cẩm nang Math Cramming</p>
+  //     <ul>
+  //       <li>Đây là bộ đề Math sát thi nhất. Làm đủ có thể cover tất cả dạng bài trong lúc thi</li>
+  //       <li>Nên hoàn thành trong 1 tháng cuối</li>
+  //     </ul>
+  //   `,
+  // };
+
+  //const guidanceBlock = document.getElementById("practice-guidance");
+  // if (guidanceBlock) {
+  //   guidanceBlock.innerHTML =
+  //     guidanceMap[category] ||
+  //     `
+  //       <p class="practice-guidance-title">Hướng dẫn làm bài</p>
+  //       <ul>
+  //         <li>Chọn đề phù hợp và cố gắng hoàn thành trọn vẹn.</li>
+  //         <li>Xem lại câu sai để cải thiện điểm số.</li>
+  //       </ul>
+  //     `;
+  // }
+  
+  const practiceLike = [
+    "practice_tests",
+    "starter",
+    "cramming",
+    "math",
+    "math_cramming",
+  ];
+
+  const pageTitle = document.querySelector(".page-title");
+  if (pageTitle) {
+    pageTitle.textContent = `${categoryMap[category] || "Luyện đề"}`;
+  }
+
+  const submenu = document.getElementById("practice-submenu");
+  const toggle = document.getElementById("practice-toggle");
+  const chevron = toggle?.querySelector(".chevron");
+
+  function setSubmenu(open) {
+    if (!submenu || !toggle) return;
+    submenu.classList.toggle("open", open);
+    toggle.classList.toggle("active", open);
+    if (chevron) {
+      const img = chevron.querySelector('img');
+      if (img) img.src = open ? '/images/up.webp' : '/images/down.webp';
+    }
+  }
+
+  if (toggle) {
+    toggle.addEventListener("click", () => setSubmenu(!submenu?.classList.contains("open")));
+  }
+
+   const mobileSidebarOpen = document.getElementById("mobile-sidebar-open");
+  const mobileSidebarClose = document.getElementById("mobile-sidebar-close");
+  const sidebarBackdrop = document.getElementById("sidebar-backdrop");
+  const sidebarEl = document.querySelector(".sidebar");
+
+  function setMobileSidebar(open) {
+    const isMobile = window.matchMedia("(max-width: 900px)").matches;
+    if (!isMobile) {
+      document.body.classList.remove("sidebar-open");
+      sidebarEl?.classList.remove("open");
+      if (sidebarBackdrop) sidebarBackdrop.hidden = true;
+      return;
+    }
+
+    document.body.classList.toggle("sidebar-open", open);
+    sidebarEl?.classList.toggle("open", open);
+    if (sidebarBackdrop) sidebarBackdrop.hidden = !open;
+  }
+
+  mobileSidebarOpen?.addEventListener("click", () => setMobileSidebar(true));
+  mobileSidebarClose?.addEventListener("click", () => setMobileSidebar(false));
+  sidebarBackdrop?.addEventListener("click", () => setMobileSidebar(false));
+
+  window.addEventListener("resize", () => {
+    if (window.innerWidth > 900) setMobileSidebar(false);
+  });
+
+  sidebarEl?.querySelectorAll("a").forEach((link) => {
+    link.addEventListener("click", () => setMobileSidebar(false));
+  });
+
+  setSubmenu(true);
+  document
+    .querySelectorAll(`.sidebar-subitem[data-category="${category}"]`)
+    .forEach((item) => item.classList.add("active"));
+
+  const testStatusMap = new Map();
+  function buildFilePath(testName = "") {
+    return `${category}/${testName}`;
+  }
+
+  function getTestStatus(filePath) {
+    return testStatusMap.get(filePath) || {
+      inProgress: false,
+      completed: false,
+      lastScore: null,
+      lastTotal: null,
+    };
+  }
+
+  async function preloadTestStatuses(tests = []) {
+    const filePaths = tests
+      .map(normalizeTestItem)
+      .map((test) => buildFilePath(test.name))
+      .filter(Boolean);
+
+    testStatusMap.clear();
+    if (filePaths.length === 0) return;
+    try {
+      const res = await fetch("/api/test-statuses", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ files: filePaths }),
+      });
+      if (!res.ok) return;
+      const data = await res.json();
+      const statuses = data?.statuses || {};
+
+      Object.entries(statuses).forEach(([filePath, status]) => {
+        testStatusMap.set(filePath, {
+          inProgress: !!status?.inProgress,
+          completed: !!status?.completed,
+          lastScore: typeof status?.lastScore === "number" ? status.lastScore : null,
+          lastTotal: typeof status?.lastTotal === "number" ? status.lastTotal : null,
+        });
+      });
+    } catch (err) {
+      console.error("Không thể preload trạng thái đề", err);
+    }
+  }
+
+  function renderLockedMessage(message) {
+    const list = document.getElementById("test-list");
+    if (list) {
+      list.classList.remove("test-list--real-grid");
+      list.innerHTML = `<div class="pro-locked">${message}</div>`;
+    }
+  }
+
+  const filterDisplay = document.getElementById("filter-display");
+  const filterOptions = document.getElementById("filter-options");
+  const placeholderMap = {
+    real_tests: "Chọn tháng/năm đề thi thật",
+    practice_tests: "Chọn dạng bài luyện tập",
+    starter: "Chọn đề Starter",
+    cramming: "Chọn đề Cramming",
+    math: "Chọn đề Math",
+  };
+  const filterPlaceholder = placeholderMap[category] || "Chọn đề";
+  if (filterDisplay) {
+    filterDisplay.placeholder = filterPlaceholder;
+  }
+
+  const monthNames = [
+    "january",
+    "february",
+    "march",
+    "april",
+    "may",
+    "june",
+    "july",
+    "august",
+    "september",
+    "october",
+    "november",
+    "december",
+  ];
+
+  let filterKeyword = "";
+  let cachedTests = [];
+  let searchEventsBound = false;
+
+  function extractMonthYear(name = "") {
+    const match = name.match(/^SAT\s+([A-Za-z]+\s+\d{4})/i);
+    return match ? match[1] : null;
+  }
+
+  function monthYearToSortable(value = "") {
+    const parts = value.trim().split(/\s+/);
+    if (parts.length !== 2) return null;
+
+    const [monthName, yearStr] = parts;
+    const year = parseInt(yearStr, 10);
+    const monthIndex = monthNames.indexOf(monthName.toLowerCase());
+
+    if (Number.isNaN(year) || monthIndex === -1) return null;
+
+    return { year, monthIndex };
+  }
+
+  function sortRealTests(tests = []) {
+    return [...tests].sort((a, b) => {
+      const aName = typeof a === "string" ? a : a?.name || "";
+      const bName = typeof b === "string" ? b : b?.name || "";
+      const aLocked = typeof a === "string" ? false : !!a?.locked;
+      const bLocked = typeof b === "string" ? false : !!b?.locked;
+
+      if (aLocked !== bLocked) {
+        return aLocked ? 1 : -1;
+      }
+      const aDate = monthYearToSortable(extractMonthYear(aName) || "");
+      const bDate = monthYearToSortable(extractMonthYear(bName) || "");
+
+      if (aDate && bDate) {
+        if (aDate.year !== bDate.year) return bDate.year - aDate.year;
+        if (aDate.monthIndex !== bDate.monthIndex) return bDate.monthIndex - aDate.monthIndex;
+      }
+
+      const aMod = parseInt(aName.match(/Mod (\d+)/)?.[1] || "0", 10);
+      const bMod = parseInt(bName.match(/Mod (\d+)/)?.[1] || "0", 10);
+
+      if (aMod !== bMod) return aMod - bMod;
+
+      return aName.localeCompare(bName, undefined, { sensitivity: "base" });
+    });
+  }
+
+  function getPracticeType(name = "") {
+    const [type] = name.split("-");
+    return type ? type.trim() : "";
+  }
+
+  function sortPracticeTypes(types = []) {
+    return [...types].sort((a, b) => {
+      const aPriority = a.trim().toLowerCase() === "december cramming" ? 0 : 1;
+      const bPriority = b.trim().toLowerCase() === "december cramming" ? 0 : 1;
+
+      if (aPriority !== bPriority) return aPriority - bPriority;
+      return a.localeCompare(b);
+    });
+  }
+
+  function toggleOptions(forceState) {
+    const inputWrapper = document.getElementById("date-filter");
+    if (!filterOptions || !inputWrapper) return;
+
+    const isOpen =
+      typeof forceState === "boolean"
+        ? forceState
+        : !filterOptions.classList.contains("open");
+
+    filterOptions.classList.toggle("open", isOpen);
+    inputWrapper.classList.toggle("active", isOpen);
+  }
+
+  function attachSearchEvents() {
+    if (searchEventsBound) return;
+    const inputWrapper = document.getElementById("date-filter");
+    if (!inputWrapper || !filterOptions) return;
+
+    inputWrapper.addEventListener("click", () => toggleOptions());
+
+    document.addEventListener("click", (e) => {
+      if (!inputWrapper.contains(e.target) && !filterOptions.contains(e.target)) {
+        toggleOptions(false);
+      }
+    });
+
+    searchEventsBound = true;
+  }
+
+  function buildRealFilterOptions(realTests = []) {
+    if (!filterOptions || !filterDisplay) return;
+
+    const options = Array.from(
+      new Set(
+        realTests
+          .map((test) => {
+            const name = typeof test === "string" ? test : test?.name;
+            return extractMonthYear(name || "");
+          })
+          .filter(Boolean)
+      )
+    ).sort((a, b) => {
+      const aParts = monthYearToSortable(a);
+      const bParts = monthYearToSortable(b);
+
+      if (!aParts || !bParts) return 0;
+
+      if (aParts.year !== bParts.year) return bParts.year - aParts.year;
+      return bParts.monthIndex - aParts.monthIndex;
+    });
+
+    filterOptions.innerHTML = "";
+
+    const allBtn = document.createElement("button");
+    allBtn.className = "option-item";
+    allBtn.textContent = "Tất cả đề";
+    allBtn.addEventListener("click", () => {
+      filterKeyword = "";
+      filterDisplay.value = "";
+      toggleOptions(false);
+      renderTests();
+    });
+    filterOptions.appendChild(allBtn);
+
+    options.forEach((opt) => {
+      const btn = document.createElement("button");
+      btn.className = "option-item";
+      btn.textContent = opt;
+      btn.addEventListener("click", () => {
+        filterKeyword = opt;
+        filterDisplay.value = opt;
+        toggleOptions(false);
+        renderTests();
+      });
+      filterOptions.appendChild(btn);
+    });
+  }
+
+  function buildPracticeFilterOptions(practiceTests = []) {
+    if (!filterOptions || !filterDisplay) return;
+
+    const types = sortPracticeTypes(
+      Array.from(
+        new Set(
+          practiceTests
+            .map((test) => {
+              const name = typeof test === "string" ? test : test?.name;
+              return getPracticeType(name || "");
+            })
+            .filter(Boolean)
+        )
+      )
+    );
+
+    filterOptions.innerHTML = "";
+
+    const allBtn = document.createElement("button");
+    allBtn.className = "option-item";
+    allBtn.textContent = "Tất cả dạng bài";
+    allBtn.addEventListener("click", () => {
+      filterKeyword = "";
+      filterDisplay.value = "";
+      toggleOptions(false);
+      renderTests();
+    });
+    filterOptions.appendChild(allBtn);
+
+   types.forEach((type) => {
+      const btn = document.createElement("button");
+      btn.className = "option-item";
+      btn.textContent = type;
+      btn.addEventListener("click", () => {
+        filterKeyword = type;
+        filterDisplay.value = type;
+        toggleOptions(false);
+        renderTests();
+      });
+      filterOptions.appendChild(btn);
+  });
+  }
+
+  function normalizeTestItem(item) {
+    if (typeof item === "string") {
+      return { name: item, locked: false, deadline: null };
+    }
+    return {
+      name: item?.name || "",
+      locked: !!item?.locked,
+      questionCount: item?.questionCount,
+      timeMinutes: item?.timeMinutes,
+      deadline: item?.deadline || null,
+    };
+  }
+
+  function parseDeadlineDate(value) {
+    if (!value) return null;
+    if (value instanceof Date) return value;
+
+    const match = String(value).match(/^(\d{4})-(\d{2})-(\d{2})$/);
+    if (match) {
+      const year = Number(match[1]);
+      const month = Number(match[2]) - 1;
+      const day = Number(match[3]);
+      return new Date(year, month, day);
+    }
+
+    const parsed = new Date(value);
+    return Number.isNaN(parsed.getTime()) ? null : parsed;
+  }
+
+  function toDateKey(value) {
+    const date = value instanceof Date ? value : parseDeadlineDate(value);
+    if (!date || Number.isNaN(date.getTime())) return null;
+    return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-${String(
+      date.getDate()
+    ).padStart(2, "0")}`;
+  }
+
+  function formatDeadlineLabel(date) {
+    if (!date) return ""; 
+    return `Hạn: ${date.toLocaleDateString("vi-VN")}`;
+  }
+
+  function buildDeadlineElement(deadline) {
+    const parsed = parseDeadlineDate(deadline);
+    if (!parsed) return null;
+
+    const deadlineKey = toDateKey(parsed);
+    const todayKey = toDateKey(new Date());
+    const isToday = deadlineKey && todayKey === deadlineKey;
+
+    const wrapper = document.createElement("div");
+    wrapper.className = "test-footer";
+
+    const span = document.createElement("span");
+    span.className = `test-deadline${isToday ? " deadline-today" : ""}`;
+    span.textContent = formatDeadlineLabel(parsed);
+
+    wrapper.appendChild(span);
+    return wrapper;
+  }
+
+  const questionIcon = `
+    <svg class="meta-icon" viewBox="0 0 24 24" aria-hidden="true">
+      <path
+        d="M7 3h7l5 5v11a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linejoin="round"
+      />
+      <path
+        d="M14 3v5h5"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linejoin="round"
+      />
+    </svg>
+  `;
+
+  const timeIcon = `
+    <svg class="meta-icon" viewBox="0 0 24 24" aria-hidden="true">
+      <circle cx="12" cy="12" r="8" fill="none" stroke="currentColor" stroke-width="2" />
+      <path
+        d="M12 8v4l3 2"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      />
+    </svg>
+  `;
+
+  function buildMetaLabels(test) {
+    const questionCount =
+      Number.isFinite(test?.questionCount) && test.questionCount > 0
+        ? test.questionCount
+        : null;
+    const timeMinutes =
+      category === "math" || category === "math_cramming"
+        ? 35
+        : Number.isFinite(test?.timeMinutes) && test.timeMinutes > 0
+          ? test.timeMinutes
+          : questionCount;
+
+    return {
+      questionLabel: questionCount ? `${questionCount} câu` : "— câu",
+      timeLabel: timeMinutes ? `${timeMinutes} phút` : "— phút",
+    };
+  }
+
+  function sortTestsByLockAndName(a, b) {
+    const lockDiff = Number(Boolean(a?.locked)) - Number(Boolean(b?.locked));
+    if (lockDiff !== 0) return lockDiff;
+
+    return (a?.name || "").localeCompare(b?.name || "", undefined, {
+      numeric: true,
+    });
+  }
+
+  function renderRealTests(tests = []) {
+    const list = document.getElementById("test-list");
+    if (!list) return;
+
+    list.classList.add("test-list--real-grid");
+
+      list.innerHTML = "";
+
+      const normalized = tests.map(normalizeTestItem).filter((test) => test.name);
+      const filteredTests = filterKeyword
+      ? normalized.filter((test) =>
+          test.name.toLowerCase().includes(filterKeyword.toLowerCase())
+        )
+      : normalized;
+
+      const groups = {};
+
+    if (filteredTests.length === 0) {
+      const noDataMessage = filterKeyword
+        ? `Không tìm thấy đề với từ khóa "${filterKeyword}".`
+        : "Chưa có đề trong mục này.";
+      list.innerHTML = `<p class='empty-tests'>${noDataMessage}</p>`;
+      return;
+    }
+
+    filteredTests.forEach((test) => {
+      const prefix = test.name.replace(/ - Mod \d+$/, "");
+      if (!groups[prefix]) groups[prefix] = [];
+      groups[prefix].push(test);
+    });
+
+    Object.keys(groups).forEach((testName) => {
+      const groupBox = document.createElement("div");
+      groupBox.className = "test-group";
+
+      groupBox.innerHTML = `
+          <div class="group-title">${testName}</div>
+          <div class="group-grid"></div>
+        `;
+
+      const grid = groupBox.querySelector(".group-grid");
+
+      groups[testName].forEach((test) => {
+        const mod = test.name.match(/Mod (\d+)/)?.[1] || "?";
+        const filePath = buildFilePath(test.name);
+
+        const card = document.createElement("div");
+        card.className = "test-card test-card--review";
+
+        const questionCount =
+          Number.isFinite(test?.questionCount) && test.questionCount > 0
+            ? test.questionCount
+            : null;
+        const questionCountLabel = `${questionCount ?? "—"} câu`;
+
+        card.innerHTML = `
+              <div class="test-header">
+                <span class="test-title">Module ${mod}</span>
+                <span class="status-badge status-black">${questionCountLabel}</span>
+              </div>
+
+            <div class="test-actions">
+              <button class="btn start-btn" aria-label="Bắt đầu bài test"><img src="images/play.svg" alt="" class="start-btn-icon" /></button>
+            </div>
+          `;
+          
+        const actionsRow = card.querySelector(".test-actions");
+
+        const deadlineElement = test.deadline
+          ? buildDeadlineElement(test.deadline)
+          : null;
+        if (deadlineElement && actionsRow) {
+          actionsRow.appendChild(deadlineElement);
+        }
+
+        const startBtn = card.querySelector(".start-btn");
+        const statusBadge = card.querySelector(".status-badge");
+
+        let inProgressState = false;
+        let completedState = false;
+
+        const setStartIconButton = () => {
+          startBtn.innerHTML = '<img src="images/play.svg" alt="" class="start-btn-icon" />';
+          startBtn.setAttribute("aria-label", "Bắt đầu bài test");
+        };
+
+        const updateStartButton = () => {
+          if (test.locked) return;
+
+          if (inProgressState) {
+            startBtn.innerHTML = '<img src="/images/pause.svg" alt="Tiếp tục" class="btn-icon" />';
+            startBtn.setAttribute("aria-label", "Tiếp tục");
+            startBtn.classList.remove("start-btn", "retake-btn");
+            startBtn.classList.add("continue-btn");
+          } else if (completedState) {
+            startBtn.innerHTML = '<img src="/images/play.svg" alt="Làm lại" class="btn-icon" />';
+            startBtn.setAttribute("aria-label", "Làm lại");
+            startBtn.classList.remove("start-btn", "continue-btn");
+            startBtn.classList.add("retake-btn");
+          } else {
+            setStartIconButton();
+            startBtn.removeAttribute("aria-label");
+            startBtn.classList.remove("continue-btn", "retake-btn");
+            startBtn.classList.add("start-btn");
+          }
+        };
+
+        const status = getTestStatus(filePath);
+        inProgressState = !!status.inProgress;
+        completedState = !!status.completed;
+
+        if (statusBadge) {
+          statusBadge.className = "status-badge";
+          if (completedState && status.lastScore !== null) {
+            statusBadge.textContent = `${status.lastScore}/${status.lastTotal}`;
+            statusBadge.classList.add("status-green");
+          } else {
+            statusBadge.textContent = questionCountLabel;
+            statusBadge.classList.add("status-black");
+          }
+        }
+
+        if (test.locked) {
+          startBtn.textContent = "Khóa";
+          startBtn.classList.remove("start-btn", "continue-btn", "retake-btn");
+          startBtn.classList.add("locked-btn");
+          startBtn.disabled = true;
+        } else {
+          updateStartButton();
+        }
+        if (!test.locked) {
+          startBtn.onclick = (event) => {
+            event.stopPropagation();
+            window.location.href =
+              "test.html?file=" + encodeURIComponent(filePath);
+            };
+        }
+        card.onclick = () =>
+          window.location.href = "history.html?file=" + encodeURIComponent(filePath);
+
+        grid.appendChild(card);
+      });
+
+      list.appendChild(groupBox);
+    });
+  }
+
+  function renderPracticeTests(tests = []) {
+    const list = document.getElementById("test-list");
+    if (!list) return;
+
+    list.classList.remove("test-list--real-grid");
+
+    list.innerHTML = "";
+
+    const normalized = tests.map(normalizeTestItem).filter((test) => test.name);
+    const filteredTests = filterKeyword
+      ? normalized.filter((test) =>
+          test.name.toLowerCase().includes(filterKeyword.toLowerCase())
+        )
+      : normalized;
+
+    if (filteredTests.length === 0) {
+      const noDataMessage = filterKeyword
+        ? `Không tìm thấy đề với từ khóa "${filterKeyword}".`
+        : "Chưa có đề trong mục này.";
+      list.innerHTML = `<p class='empty-tests'>${noDataMessage}</p>`;
+      return;
+    }
+
+    const groups = {};
+    filteredTests.forEach((test) => {
+      const type = getPracticeType(test.name) || "Dạng khác";
+      if (!groups[type]) groups[type] = [];
+      groups[type].push(test);
+    });
+
+    sortPracticeTypes(Object.keys(groups))
+      .forEach((type) => {
+        const groupBox = document.createElement("div");
+        groupBox.className = "test-group";
+
+        groupBox.innerHTML = `
+          <div class="group-title">${type}</div>
+          <div class="group-grid group-grid--compact"></div>
+        `;
+
+        const grid = groupBox.querySelector(".group-grid");
+
+        groups[type]
+          .sort(sortTestsByLockAndName)
+          .forEach((test) => {
+            const filePath = buildFilePath(test.name);
+            const metaLabels = buildMetaLabels(test);
+
+            const questionCount =
+              Number.isFinite(test?.questionCount) && test.questionCount > 0
+                ? test.questionCount
+                : null;
+            const questionCountLabel = `${questionCount ?? "—"} câu`;
+            const card = document.createElement("div");
+            card.className = "test-card test-card--compact test-card--review";
+
+            card.innerHTML = `
+              <div class="test-header">
+                <span class="test-title">${test.name}</span>
+                <span class="status-badge status-black">${questionCountLabel}</span>
+              </div>
+
+              <div class="test-actions">
+                <button class="btn start-btn" aria-label="Bắt đầu bài test"><img src="images/play.svg" alt="" class="start-btn-icon" /></button
+              </div>
+            `;
+            
+            const actionsRow = card.querySelector(".test-actions");
+
+            const deadlineElement = test.deadline
+              ? buildDeadlineElement(test.deadline)
+              : null;
+            if (deadlineElement && actionsRow) {
+              actionsRow.appendChild(deadlineElement);
+            }
+
+            const startBtn = card.querySelector(".start-btn");
+            const statusBadge = card.querySelector(".status-badge");
+
+            let inProgressState = false;
+            let completedState = false;
+
+            const setStartIconButton = () => {
+              startBtn.innerHTML = '<img src="images/play.svg" alt="" class="start-btn-icon" />';
+              startBtn.setAttribute("aria-label", "Bắt đầu bài test");
+            };
+
+            const updateStartButton = () => {
+              if (test.locked) return;
+
+              if (inProgressState) {
+                startBtn.innerHTML = '<img src="/images/pause.svg" alt="Tiếp tục" class="btn-icon" />';
+                startBtn.setAttribute("aria-label", "Tiếp tục");  
+                startBtn.classList.remove("start-btn", "retake-btn");
+                startBtn.classList.add("continue-btn");
+              } else if (completedState) {
+                startBtn.innerHTML = '<img src="/images/play.svg" alt="Làm lại" class="btn-icon" />';
+                startBtn.setAttribute("aria-label", "Làm lại"); 
+                startBtn.classList.remove("start-btn", "continue-btn");
+                startBtn.classList.add("retake-btn");
+              } else   {
+                setStartIconButton();
+                startBtn.removeAttribute("aria-label");
+                startBtn.classList.remove("continue-btn", "retake-btn");
+                startBtn.classList.add("start-btn");
+              }
+            };
+
+            const status = getTestStatus(filePath);
+            inProgressState = !!status.inProgress;
+            completedState = !!status.completed;
+
+            if (statusBadge) {
+              statusBadge.className = "status-badge";
+              if (completedState && status.lastScore !== null) {
+                statusBadge.textContent = `${status.lastScore}/${status.lastTotal}`;
+                statusBadge.classList.add("status-green");
+              } else {
+                statusBadge.textContent = questionCountLabel;
+                statusBadge.classList.add("status-black");
+              }
+            }
+
+            if (test.locked) {
+              startBtn.textContent = "Khóa";
+              startBtn.classList.remove("start-btn", "continue-btn", "retake-btn");
+              startBtn.classList.add("locked-btn");
+              startBtn.disabled = true;
+            } else {
+              updateStartButton();
+            }
+              
+            if (!test.locked) {
+              startBtn.onclick = (event) => {
+                event.stopPropagation();
+                window.location.href =
+                  "test.html?file=" + encodeURIComponent(filePath);
+                  };
+            }
+
+            card.onclick = () =>
+              window.location.href = "history.html?file=" + encodeURIComponent(filePath);
+
+            grid.appendChild(card);
+          });
+
+        list.appendChild(groupBox);
+      });
+  }
+
+  function renderTests() {
+    if (practiceLike.includes(category)) {
+      renderPracticeTests(cachedTests);
+    } else {
+      renderRealTests(cachedTests);
+    }
+  }
+
+  async function loadTests() {
+    try {
+      const res = await fetch(`/api/tests?category=${category}`);
+      if (res.status === 403) {
+        const data = await res.json().catch(() => ({}));
+        renderLockedMessage(data.error || "Bạn không có quyền xem mục này.");
+        return;
+      }
+
+      const data = await res.json();
+      cachedTests = data.tests || [];
+
+      if (category === "real_tests") {
+        cachedTests = sortRealTests(cachedTests);
+      }
+
+      if (practiceLike.includes(category)) {
+        buildPracticeFilterOptions(cachedTests);
+      } else {
+        buildRealFilterOptions(cachedTests);
+      }
+
+      await preloadTestStatuses(cachedTests);
+      attachSearchEvents();
+      renderTests();
+    } catch (e) {
+      console.error(e);
+      document.getElementById("test-list").innerHTML =
+        "<p>Error loading tests.</p>";
+    }
+  }
+
+  async function initPracticePage() {
+    await loadTests();
+  }
+
+  initPracticePage();
+</script>
+
+<script>
+  async function loadAccountStatus() {
+    const el = document.getElementById("account-status");
+    if (!el) return;
+
+    const dot = el.querySelector(".status-dot");
+    const text = el.querySelector(".status-text");
+
+    const setState = (isPro) => {
+      isProAccount = !!isPro;
+      const isClickable = !isProAccount;
+      el.classList.toggle("pro", isProAccount);
+      if (dot) dot.classList.toggle("pro", !!isPro);
+      if (text) text.textContent = isPro ? "Tài khoản Pro" : "Tài khoản thường";
+      el.classList.toggle("clickable", isClickable);
+    };
+
+    try {
+      const res = await fetch("/api/me");
+      if (!res.ok) throw new Error("Session not available");
+      const me = await res.json();
+      setState(!!me?.isPro);
+    } catch (err) {
+      if (text) text.textContent = "Không lấy được trạng thái";
+      el.classList.remove("clickable");
+      console.error("Không thể lấy trạng thái tài khoản", err);
+    }
+  }
+
+  if (accountStatus) {
+    accountStatus.addEventListener("click", () => {
+      if (!isProAccount) openPlanModal();
+    });
+  }
+  
+  loadAccountStatus();
+</script>
+
+  <script src="pro-account-popup.js"></script>
+</body>
+</html>

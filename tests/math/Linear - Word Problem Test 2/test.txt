@@ -1,0 +1,55 @@
+Question 1:
+Yoona runs at a constant rate of {{MATH_1}} yard per second. Jessica runs {{MATH_2}} times as fast as Yoona. If Jessica gives Yoona a head start of {{MATH_3}} yards in a race, how many yards must Jessica run to catch up to Yoona?
+
+Answer: 40
+
+Question 2:
+Of the {{MATH_4}} jellybeans in a jar, {{MATH_5}}% are green and the rest are red. How many green jellybeans must be removed so that {{MATH_6}}% of the remaining jellybeans are green?
+
+Answer: 50
+
+Question 3:
+A chemist wants to make {{MATH_7}} milliliters of a {{MATH_8}}% alcohol solution by mixing a {{MATH_9}}% alcohol solution with a {{MATH_10}}% alcohol solution. How many milliliters of the {{MATH_9}}% alcohol solution should the chemist use?
+
+Answer: 320
+
+Question 4:
+To move into a new studio space, the m members of an art club agreed to split the first month's rent of r dollars equally among themselves. If k of the members fail to pay their share, which of the following represents the additional amount, in dollars, that each of the remaining members must pay to cover the first month's rent?
+
+A. {{MATH_11}}
+B. {{MATH_12}}
+C. {{MATH_13}}
+D. {{MATH_14}}
+Answer: D
+
+Question 5:
+A streaming service charges a one-time signup fee of ${{MATH_15}} and ${{MATH_16}} each month. If p people sign up together and keep the service for t months, which expression represents the total amount charged?
+
+A. {{MATH_17}}
+B. {{MATH_18}}
+C. {{MATH_19}}
+D. {{MATH_20}}
+Answer: B
+
+Question 6:
+A train is {{MATH_21}} miles from a station and travels toward the station at a constant speed of {{MATH_22}} miles per hour. Which equation gives the remaining distance D (in miles) from the station after h hours, where {{MATH_23}}?
+
+A. {{MATH_24}}
+B. {{MATH_25}}
+C. {{MATH_26}}
+D. {{MATH_27}}
+Answer: A
+
+Question 7:
+A student buys notebooks and pens. Each notebook costs ${{MATH_28}} and each pen costs ${{MATH_29}}. The student buys {{MATH_30}} times as many pens as notebooks and spends a total of ${{MATH_31}}. How many pens did the student buy?
+
+Answer: 12
+
+Question 8:
+A population starts with {{MATH_32}} bacteria and decreases by {{MATH_33}}% each hour for {{MATH_34}} hours. Which equation gives the number of bacteria P after h hours, where {{MATH_35}}?
+
+A. {{MATH_36}}
+B. {{MATH_37}}
+C. {{MATH_38}}
+D. {{MATH_39}}
+Answer: C

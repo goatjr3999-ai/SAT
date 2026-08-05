@@ -1,0 +1,58 @@
+Question 1:
+Which expression is equivalent to {{MATH_1}}?
+
+A. {{MATH_2}}
+B. {{MATH_3}}
+C. {{MATH_4}}
+D. {{MATH_5}}
+Answer: C
+
+Question 2:
+The expression above can be written in the form {{MATH_6}}, where {{MATH_7}} and {{MATH_8}} are constants. What is the value of {{MATH_9}}?
+{{MATH_10}}
+
+A. 6232
+B. 6432
+C. 6632
+D. 7732
+Answer: C
+
+Question 3:
+Which of the following expressions is (are) a factor of {{MATH_11}}?
+I. {{MATH_12}}
+II. {{MATH_13}}
+
+A. I only
+B. II only
+C. I and II
+D. Neither I nor II
+Answer: B
+
+Question 4:
+The table shows three values of the x and their corresponding values of y, where p is a constant. There is a linear relationship between x and y. What is the slope of the line that represents this relationship in the xy-plane?
+
+A. {{MATH_14}}
+B. {{MATH_15}}
+C. {{MATH_16}}
+D. {{MATH_17}}
+Answer: B
+
+Question 5:
+If {{MATH_18}} and {{MATH_19}} are positive numbers, which of the following is equivalent to {{MATH_20}}?
+
+A. {{MATH_21}}
+B. {{MATH_22}}
+C. {{MATH_23}}
+D. {{MATH_24}}
+Answer: C
+
+Question 6:
+Which of the following expressions is equivalent to {{MATH_25}}, for {{MATH_26}}?
+{{MATH_27}}
+{{MATH_28}}
+
+A. {{MATH_29}}
+B. {{MATH_30}}
+C. {{MATH_31}}
+D. {{MATH_32}}
+Answer: D

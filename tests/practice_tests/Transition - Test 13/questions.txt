@@ -1,0 +1,259 @@
+Question 85:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In the Southeast Asian country of Indonesia, the percentage of the population living in cities increased from 53.3% to 56.6% between 2015 and 2020; this upward trend in urbanization was seen throughout that part of the continent. ____ from 2015 to 2020, the overall percentage of the Southeast Asian population living in cities rose from 47.2% to 50%.
+
+
+A. In reality,
+B. Later,
+C. Nevertheless,
+D. Indeed,
+Answer: D
+
+Question 119:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+With many elements, like phosphorus, scientists were able to isolate a relatively pure sample of the substance shortly after discovering its existence— but this wasn't the case with all elements. _______ the isolation process took years. The element radium, for instance, was discovered in 1898 but not isolated until 1910.
+
+
+A. Thus,
+B. However,
+C. Moreover,
+D. Sometimes,
+Answer: D
+
+Question 150:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Al-Andalus, the historical region of the Iberian Peninsula that includes most of modern-day Spain, was ruled by various Arabic-speaking Muslim states between the eighth and fifteenth centuries. ______ many Arabic words, such as "alacrán"—meaning "scorpion"—made their way into the Spanish language.
+
+
+A. For example,
+B. Instead,
+C. Specifically,
+D. Consequently,
+Answer: D
+
+Question 91:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Scientists studying asteroid deflection have focused on secondary objects such as S/2003 (69230), a moonlet orbiting the near-Earth asteroid Hermes. In 2022 NASA intentionally crashed a probe into just such an object, successfully altering its orbit. Scientists have yet to demonstrate, ______ that Hermes and other primary objects would be similarly affected.
+
+
+A. though,
+B. likewise,
+C. moreover,
+D. for example,
+Answer: A
+
+Question 25:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Those who looked up at the right time on October 31, 1902, would have witnessed a partial solar eclipse, during which the Moon only blocks a portion of the Sun and causes it to look like a crescent. Stargazers on October 1, 1921______, would have seen a total solar eclipse, during which the Moon completely blocks the Sun.
+
+
+A. As a result,
+B. Indeed,
+C. Simultaneously,
+D. On the other hand,
+Answer: D
+
+Question 74:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Modernista architects championed nature in their designs. ____ the dramatic archways and stone turtle statues of Sagrada Família, a Modernista basilica designed by Antoni Gaudí, couldn’t exactly grow in a forest. Still, one sees natural influences in Gaudí’s penchant for curves (rather than right angles) and plant- and animal-inspired flourishes.
+
+
+A. Granted,
+B. Similarly,
+C. Furthermore,
+D. Thus,
+Answer: A
+
+Question 47:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The total solar eclipse of June 5, 762 BCE, was the second-longest total eclipse before the Dark Ages—7 minutes, 25 seconds long. Another memorable solar eclipse occurred on March 21, 424 BCE, but unlike the 762 BCE eclipse, the 424 BCE eclipse was annular. ______ the Moon didn’t cover the Sun completely, instead creating an annulus, or “ring of fire.”
+
+
+A. Meanwhile,
+B. That is,
+C. For example,
+D. Nonetheless,
+Answer: B
+
+Question 80:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Among its thousands of portraits of well-known figures from British history, London’s National Portrait Gallery (NPG) includes self-portraits by noteworthy British artists, including one of John Opie. ______ the subjects of most NPG portraits are different from (and more famous than) the artists who painted them.
+
+
+A. However, Opie’s portrait is not the only self-portrait of an artist in the museum:
+B. Furthermore, Opie’s portrait exemplifies the museum’s bias in favor of autoportraiture:
+C. Consequently, such portraits reinforce the museum’s curatorial philosophy:
+D. Of course, such portraits are anomalies in the context of the museum’s collection:
+Answer: D
+
+Question 81:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+At the Museum of Natural History in Washington, DC, a single specimen of the planktonic marine organism B. pumilio is preserved as the reference organism for the species. The specimen is a holotype, meaning it was the basis of the first formal scientific description of B. pumilio. ______ the reference organism for the planktonic G. inflata, preserved at the Natural History Museum in London, is a neotype, meaning it acts as a reference organism but is not the exact specimen originally described.
+
+
+A. Admittedly,
+B. For instance,
+C. Moreover,
+D. By contrast,
+Answer: D
+
+Question 107:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Decentralized space, in which no points in the performance space are privileged over others, was one of the central principles of Merce Cunningham’s choreographic philosophy. The approach marked a radical departure from the dance philosophies of Cunningham’s mid-twentieth-century contemporaries. ______ resulting in his dance pieces, like Interscape Mirage, being received not merely as experimental spectacles but as groundbreaking artworks.
+
+
+A. Specifically, Cunningham was an accomplished dancer as well as a choreographer,
+B. Accordingly, Cunningham founded his namesake dance company in 1953,
+C. In contrast, Cunningham gained a reputation as an unpredictable iconoclast,
+D. Moreover, Cunningham incorporated his principles with great skill and artistry,
+Answer: D
+
+Question 38:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+On June 10, 1991, Gulf War veterans were recognized with a ticker-tape parade in New York City. This was just one of a number of military-related parades over the years. ____ between 1886 and 2022, there were twenty-nine ticker-tape parades held in New York to honor US war veterans.
+
+
+A. Hence,
+B. In other words,
+C. Nevertheless,
+D. In sum,
+Answer: D
+
+Question 158:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The geologic principle of cross-cutting relationships states that an intrusion is younger than the rocks through which it cuts. _____ geochemists analyzing a given rock formation can ascertain that an igneous intrusion that bisects a layer of 393.3-million-year-old Eifelian rock but not the 2541.1-million-year-old Changhsingian rock above it is younger than the former but older than the latter.
+
+
+A. Accordingly,
+B. That being said,
+C. To this end,
+D. Moreover,
+Answer: A
+
+Question 11:
+[Infer]
+Which choice most logically completes the text?
+
+When, in 2017, Cambridge University students Lucy Moss and Toby Marlow decided they wanted to develop a musical together, one of their goals was for their female actor friends to have good parts to play. ____ they created the show Six, a retelling of the history of King Henry VIII's wives in which each of the six queens has a starring role.
+
+
+A. In summary,
+B. In other words,
+C. For example,
+D. To that end,
+Answer: D
+
+Question 127:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+When it was completed in 1889, the Eiffel Tower in Paris, France, was criticized - even protested for - the novelty of its unique spire-like silhouette. ______ the design became accepted - even beloved - and can now be found in everything from the Eiffel Tower replica in Uman, Ukraine, to the Funkturm Berlin in Berlin, Germany.
+
+
+A. Over time,
+B. Indeed,
+C. Therefore,
+D. Furthermore,
+Answer: A
+
+Question 16:
+[Infer]
+Which choice most logically completes the text?
+
+While most animals prefer the safety of nighttime migration, many poisonous amphibians—a category that includes the red-bellied newt and the fire salamander—safely engage in migratory behavior during the day. ____ with the sun in the sky, the amphibians’ striking color patterns deter visually oriented daytime predators by serving as a warning of toxicity.
+
+
+A. At that time,
+B. For example,
+C. In other words,
+D. However,
+Answer: A
+
+Question 69:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Thousands of years ago, the Olmec civilization's reign over parts of eastern Mexico ended. ______ the Olmecs' massive stone statues of human heads remain. Two of these statues, known as Monument 2 and Monument 53, weigh over 5 tons!
+
+
+A. Therefore,
+B. Nevertheless,
+C. For example,
+D. Likewise,
+Answer: B
+
+Question 59:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+When, in 2017, Cambridge University students Lucy Moss and Toby Marlow decided they wanted to develop a musical together, one of their goals was for their female actor friends to have good parts to play. ___ they created the show Six, a retelling of the history of King Henry VIII’s wives in which each of the six queens has a starring role.
+
+
+A. With this in mind,
+B. Admittedly,
+C. For example,
+D. In other words,
+Answer: A
+
+Question 94:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In certain genetic inheritance patterns, inherited traits can skip a generation in a family tree. _____ it is entirely possible for an individual to share a trait, such as square nails, with a grandparent but not with either biological parent.
+
+
+A. Thus,
+B. Still,
+C. On the contrary,
+D. In addition,
+Answer: A
+
+Question 6:
+[Infer]
+Which choice most logically completes the text?
+
+The architects of Spain's Modernista movement took inspiration from the natural world when adding finishing touches to their buildings. ______ they favored plant- and animal-inspired design flourishes, like the decorative botanical panels of Castell dels Tres Dragons, a public building by architect Lluís Domènech i Montaner.
+
+
+A. Even so,
+B. Meanwhile,
+C. In particular,
+D. On the contrary,
+Answer: C
+
+Question 104:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Plant species known as metal hyperaccumulators can help remove heavy metal pollutants from soil. Paspalum fasciculatum, or bamboo grass, for instance, can absorb a large quantity of cadmium and store it safely in its roots and shoots. ______ the plant’s roots may not reach far enough into the soil to eliminate the pollutant entirely.
+
+
+A. Still,
+B. On the contrary,
+C. For this reason,
+D. Moreover,
+Answer: A

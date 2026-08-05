@@ -1,0 +1,146 @@
+Question 1:
+The functions f and g are defined by the given equations below, where x ≥ 0.
+
+Which of the following equations displays, as a constant or coefficient, the minimum value of the function it defines, where x ≥ 0?
+
+I. f(x) = {{MATH_1}}
+II. g(x) = {{MATH_2}}
+
+A. I only
+B. II only
+C. I and II
+D. Neither I nor II
+Answer: D
+
+
+Question 2:
+The functions f and g are defined by the equations shown, where a and b are integer constants, a < b and b < 0.
+
+Which of the following equations displays, as a constant or coefficient, the y-coordinate of the y-intercept of the graph of the corresponding function?
+
+I. f(x) = {{MATH_3}}
+II. g(x) = {{MATH_4}}
+
+A. I only
+B. II only
+C. I and II
+D. Neither I nor II
+Answer: D
+
+
+Question 3:
+The functions f and g are defined by the given equations, where x ≥ 0.
+
+Which of the following equations displays, as a constant or coefficient, the maximum value of the function it defines, where x ≥ 0?
+
+I. f(x) = {{MATH_5}}
+II. g(x) = {{MATH_6}}
+
+A. I only
+B. II only
+C. I and II
+D. Neither I nor II
+Answer: B
+
+
+Question 4:
+For the exponential function f, the value of f(1) is k, where k is a constant.
+
+Which of the following equivalent forms of the function f shows the value of k as the coefficient or the base?
+
+A. {{MATH_7}}
+B. {{MATH_8}}
+C. {{MATH_9}}
+D. {{MATH_10}}
+Answer: C
+
+
+Question 5:
+The functions f and g are defined by the given equations below, where x ≥ 0.
+
+Which of the following equations displays, as a constant or coefficient, the minimum value of the function it defines, where x ≥ 0?
+
+I. f(x) = {{MATH_11}}
+II. g(x) = {{MATH_12}}
+
+A. I only
+B. II only
+C. I and II
+D. Neither I nor II
+Answer: D
+
+
+Question 6:
+The function f is defined by the given equation, where k is a constant.
+
+f(x) = {{MATH_22}}
+
+The value of f(x) increases by p% for every increase of x by 1.
+
+For which of the following functions, where k is a constant, does the value of g(x) increase by p% for every increase of x by {{MATH_25}}?
+
+A. {{MATH_13}}
+B. {{MATH_14}}
+C. {{MATH_15}}
+D. {{MATH_16}}
+Answer: B
+
+
+Question 7:
+Function f is a quadratic function.
+
+The graph of y = f(x) in the xy-plane has a vertex at (-4, 8), contains the point (-5, 6), and has a y-intercept at (0, a).
+
+The graph of y = 3f(x) has a y-intercept at (0, b).
+
+What is the positive difference between a and b?
+Answer: 48
+
+
+Question 8:
+The expression {{MATH_17}} is equivalent to {{MATH_24}}, where a, b, c, and d are constants.
+
+What is the value of c?
+Answer: 78
+
+
+Question 9:
+In the given system of equations, q is a positive constant.
+
+The graphs of the equations in the given system intersect at exactly one point, (x, y), in the xy-plane.
+
+y = {{MATH_18}}
+y = {{MATH_19}}
+
+What is the value of x?
+
+A. -38
+B. -25
+C. -8
+D. -1
+Answer: D
+
+
+Question 10:
+The function f is defined by f(x) = {{MATH_20}}, where a and b are integer constants.
+
+If f(-12) > 0, f(-15) < 0, and f(-18) > 0, what is one possible value of a + b?
+
+I. 29
+II. 30
+III. 31
+
+A. I and II
+B. II and III
+C. I and III
+D. I, II, and III
+Answer: D
+
+
+Question 11:
+The function f is defined by f(x) = {{MATH_21}}, where a and b are constants.
+
+In the xy-plane, the graph of y = f(x) has an x-intercept at (2, 0) and a y-intercept at (0, -255).
+
+What is the value of b?
+Answer: -256

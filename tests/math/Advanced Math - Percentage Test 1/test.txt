@@ -1,0 +1,87 @@
+Question 1:
+What is the value of {{MATH_1}} if {{MATH_2}} of {{MATH_1}} is {{MATH_3}}?
+Answer: 32
+
+Question 2:
+A local gym in Chicago averaged {{MATH_5}} check-ins per day last month. This month, the average daily number of check-ins decreased by {{MATH_6}}. Next month, the gym plans a special membership drive, and the average daily number of check-ins is projected to be {{MATH_7}} of this month’s average. What is the projected average number of check-ins per day at the gym during the membership drive?
+Answer: 1065
+
+Question 3:
+From {{MATH_9}} to {{MATH_10}}, a certain gym reduced its number of monthly memberships by {{MATH_11}} from the number of memberships in {{MATH_9}}. If the number of memberships in {{MATH_10}} is {{MATH_12}} times the number of memberships in {{MATH_9}}, what is the value of {{MATH_12}}?
+
+A. {{MATH_13}}
+B. {{MATH_14}}
+C. {{MATH_15}}
+D. {{MATH_16}}
+Answer: B
+
+Question 4:
+The positive number {{MATH_17}} is {{MATH_18}} of the sum of the positive numbers {{MATH_19}} and {{MATH_20}}, and {{MATH_19}} is {{MATH_21}} of {{MATH_20}}. What percent of {{MATH_19}} is {{MATH_17}}?
+
+A. {{MATH_22}}
+B. {{MATH_23}}
+C. {{MATH_24}}
+D. {{MATH_25}}
+Answer: D
+
+Question 5:
+The positive number {{MATH_26}} is {{MATH_27}} of the number {{MATH_28}}, and {{MATH_26}} is {{MATH_29}} of the number {{MATH_30}}. If {{MATH_30}} is {{MATH_31}}% of {{MATH_28}}, which of the following is closest to the value of {{MATH_31}}?
+
+A. {{MATH_32}}
+B. {{MATH_33}}
+C. {{MATH_34}}
+D. {{MATH_35}}
+Answer: D
+
+Question 6:
+What percentage of {{MATH_36}} is {{MATH_37}}?
+
+A. {{MATH_38}}
+B. {{MATH_39}}
+C. {{MATH_40}}
+D. {{MATH_41}}
+Answer: C
+
+Question 7:
+{{MATH_42}} is {{MATH_43}}% of {{MATH_44}}. What is the value of {{MATH_43}}?
+Answer: 52
+
+Question 8:
+What percentage of {{MATH_46}} is {{MATH_47}}?
+
+A. {{MATH_48}}
+B. {{MATH_49}}
+C. {{MATH_50}}
+D. {{MATH_51}}
+Answer: A
+
+Question 9:
+A business owner plans to purchase the same model of chair for each of the {{MATH_52}} employees. The total budget to spend on these chairs is {{MATH_53}}, which includes a {{MATH_54}} sales tax. Which of the following is closest to the maximum possible price per chair, before sales tax, the business owner could pay based on this budget?
+
+A. {{MATH_55}}
+B. {{MATH_56}}
+C. {{MATH_57}}
+D. {{MATH_58}}
+Answer: B
+
+Question 10:
+A university career center hosts a sequence of three professional development seminars. {{MATH_59}} students attended the first seminar. {{MATH_60}} of the students who attended the first seminar attended the second seminar, and {{MATH_61}} of the students who attended the first and second seminars attended the third seminar. How many students attended all three seminars?
+Answer: 1050
+
+Question 11:
+Last week, a manufacturing plant produced {{MATH_63}} cars. This week, the production volume is {{MATH_64}} of last week's volume. How many cars were produced this week?
+
+A. {{MATH_65}}
+B. {{MATH_66}}
+C. {{MATH_67}}
+D. {{MATH_68}}
+Answer: B
+
+Question 12:
+The number {{MATH_69}} is {{MATH_70}} greater than the number {{MATH_71}}. The number {{MATH_71}} is {{MATH_72}} less than {{MATH_73}}. What is the value of {{MATH_69}}?
+
+A. {{MATH_74}}
+B. {{MATH_75}}
+C. {{MATH_76}}
+D. {{MATH_77}}
+Answer: D

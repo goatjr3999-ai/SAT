@@ -1,0 +1,52 @@
+Question 1:
+One solution to the given equation can be written as x = {{MATH_1}} − {{MATH_2}}{{MATH_3}}, where h and k are integer constants.
+What is the value of h + k?
+
+{{MATH_4}} = 0
+
+A. 13
+B. 14
+C. 31
+D. 65
+Answer: D
+
+
+Question 2:
+Which system of linear equations has no solution?
+
+A. {{MATH_5}}
+B. {{MATH_6}}
+C. {{MATH_7}}
+D. {{MATH_8}}
+Answer: D
+
+
+Question 3:
+The function f is defined by {{MATH_9}}, where a, b, and c are constants and 1 < a < 4.
+The graph of y = f(x) passes through the points (5, 0) and (−2, 0).
+If a is an integer, what could be the value of the sum of all possible values of a and b?
+Answer: -10
+
+
+Question 4:
+Which of the following has x + 2a as a factor, where a is a positive integer?
+
+A. {{MATH_10}}
+B. {{MATH_11}}
+C. {{MATH_12}}
+D. {{MATH_13}}
+Answer: D
+
+Question 5:
+One of the factors of {{MATH_17}} is x + b, where b is a positive constant.
+What is the smallest possible value of b?
+Answer: 8
+
+
+Question 6:
+In the given equation, k is a constant.
+The equation has exactly one real solution.
+What is the minimum possible value of 4k?
+
+{{MATH_18}} = {{MATH_19}}
+Answer: 235

@@ -1,0 +1,83 @@
+Question 1:
+One gallon of paint will cover 70 square feet of a surface. A room has a total wall area of w square feet. Which equation represents the total amount of paint P, in gallons, needed to paint the walls of the room twice?
+
+A. {{MATH_1}}
+B. {{MATH_2}}
+C. {{MATH_3}}
+D. {{MATH_4}}
+Answer: D
+
+Question 2:
+{{MATH_5}}
+Which of the following equivalent forms of the given function {{MATH_6}} displays, as the base or the coefficient, the y-coordinate of the y-intercept of the graph of {{MATH_7}}in the xy-plane?
+
+A. {{MATH_8}}
+B. {{MATH_9}}
+C. {{MATH_10}}
+D. {{MATH_11}}
+Answer: A
+
+Question 3:
+{{MATH_12}}
+For what value of x is the given expression equivalent to {{MATH_13}} where {{MATH_14}}? (dien phan so)
+
+Answer: 1/12
+Question 4:
+y=(x-21)(x-42)
+y=0
+The graphs of the equations in the given system of equations intersect at the point (x,y) in the xy-plane. What is a possible value of x?
+
+A. {{MATH_16}}
+B. {{MATH_17}}
+C. {{MATH_18}}
+D. {{MATH_19}}
+Answer: C
+
+Question 5:
+The cost to rent a kayak consists of a fixed fee for the first hour and an hourly fee for each additional hour. The table shows the rental cost for 4 hours and for 6 hours.
+
+Which function f gives the rental cost, in dollars, for x hours rental, where {{MATH_20}}?
+
+A. f(x)=30x
+B. f(x)=20x
+C. f(x)=20x+10
+D. f(x)=20x+90
+Answer: C
+
+Question 6:
+g(x)=(36-2x)(10+2x)
+The function g is defined by the given equation. For what value of x does g(x) reach its maximum?
+
+A. {{MATH_21}}
+B. {{MATH_22}}
+C. {{MATH_23}}
+D. {{MATH_24}}
+Answer: A
+
+Question 7:
+There is a linear relationship between x and y. The table shows three values of x and their corresponding values of y in terms of a constant n. What is the slope of the line in the xy-plane that represents this relationship?
+
+A. {{MATH_25}}
+B. {{MATH_26}}
+C. {{MATH_27}}
+D. {{MATH_28}}
+Answer: C
+
+Question 8:
+If a=3k+5r and b=9k-12r+6, which expression is equivalent to a-b?
+
+A. -6k+17r-6
+B. -6k+17r+6
+C. -6k-7r+6
+D. -6k-7r-6
+Answer: A
+
+Question 9:
+An exponential function f is defined by {{MATH_29}}, where c is a constant greater than 1. If f(8)=(49) • f(6), what is the value of c?
+
+Answer: 7
+
+Question 10:
+The equation {{MATH_31}} gives the corresponding temperature h, in degrees Fahrenheit, of any substance that has a temperature of v kelvins, where v>0. If a substance has a temperature of 557.33 degrees Fahrenheit, what is the corresponding temperature, in kelvins, of this substance?
+
+Answer: 565

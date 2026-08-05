@@ -1,0 +1,105 @@
+Question 1:
+A barista wants to make a cup of coffee containing less than {{MATH_63}} milligrams of caffeine. Each ounce of Arabica beans contains {{MATH_64}} milligrams of caffeine and each ounce of Robusta beans contains {{MATH_65}} milligrams of caffeine. The barista is required to use twice as many Arabica beans as Robusta beans. Which inequality gives all possible values for the amount {{MATH_66}}, in ounces, of Arabica beans?
+
+A. {{MATH_67}}
+B. {{MATH_68}}
+C. {{MATH_69}}
+D. {{MATH_70}}
+Answer: D
+
+Question 2:
+For an inequality graphed in the xy-plane, the point {{MATH_8}} and {{MATH_9}} are contained in the solution region, and the point {{MATH_10}} is not contained in the solution region. Which of the following could be the inequality?
+
+A. {{MATH_11}}
+B. {{MATH_12}}
+C. {{MATH_13}}
+D. {{MATH_14}}
+Answer: A
+
+Question 3:
+Sandra is given a budget of {{MATH_40}} dollars to buy pencils and enough pencil cases to hold all of them. Each pencil case costs {{MATH_41}} dollars and holds up to {{MATH_42}} pencils. Each pencil costs {{MATH_43}} dollars. Which system of inequalities represents this situation?
+
+A. {{MATH_44}}
+B. {{MATH_45}}
+C. {{MATH_46}}
+D. {{MATH_47}}
+Answer: C
+
+Question 4:
+The point {{MATH_3}} in the xy-plane is a solution to which of the following systems of inequalities?
+
+A. {{MATH_4}}
+B. {{MATH_5}}
+C. {{MATH_6}}
+D. {{MATH_7}}
+Answer: C
+
+Question 5:
+During each workout, Mina burns at least {{MATH_71}} calories from walking and running, and she runs for at least {{MATH_72}} minutes longer than she walks. Mina burns {{MATH_73}} calories per minute while walking and {{MATH_74}} calories per minute while running. What is the minimum amount of time, in minutes, she could spend running during each workout?
+
+Answer: 51
+
+Question 6:
+If the system of inequalities {{MATH_1}} and {{MATH_2}} is graphed in the xy-plane above, which quadrant contains no solutions to the system?
+
+A. Quadrant II
+B. Quadrant III
+C. Quadrant IV
+D. There are solutions in all four quadrants.
+Answer: C
+
+Question 7:
+Lianne wants to make a seasoning that consists of {{MATH_76}}% sea salt and {{MATH_77}}% black pepper. Sea salt costs {{MATH_78}} dollars per pound and black pepper costs {{MATH_79}} dollars per pound. If she can spend no more than {{MATH_80}} dollars, what is the maximum number of pounds of seasoning that she will be able to make?
+
+A. {{MATH_81}}
+B. {{MATH_82}}
+C. {{MATH_83}}
+D. {{MATH_84}}
+Answer: D
+
+Question 8:
+Denise is given {{MATH_23}} dollars to buy {{MATH_24}}-cent stamps and {{MATH_25}}-cent stamps at the post office. She must return with at least {{MATH_26}} dollars in change. Which inequality represents this situation, where {{MATH_27}} is the number of {{MATH_24}}-cent stamps and {{MATH_28}} is the number of {{MATH_25}}-cent stamps?
+
+A. {{MATH_29}}
+B. {{MATH_30}}
+C. {{MATH_31}}
+D. {{MATH_32}}
+Answer: D
+
+Question 9:
+The number {{MATH_33}} is {{MATH_34}} more than half the maximum value of {{MATH_35}}. Which inequality shows the possible values of {{MATH_35}}?
+
+A. {{MATH_36}}
+B. {{MATH_37}}
+C. {{MATH_38}}
+D. {{MATH_39}}
+Answer: C
+
+Question 10:
+A school play had {{MATH_56}} audience members consisting of adults and children. There was at least one adult for every {{MATH_57}} children. Which inequality gives the possible values of {{MATH_58}}, the number of adults in the audience?
+
+A. {{MATH_59}}
+B. {{MATH_60}}
+C. {{MATH_61}}
+D. {{MATH_62}}
+Answer: B
+
+Question 11:
+y > 15x + a  
+y < 5x + b
+In the given system of inequalities, {{MATH_48}} and {{MATH_49}} are constants. If the point {{MATH_50}} is a solution to the system, which of the following could be the value of {{MATH_51}}?
+
+A. {{MATH_52}}
+B. {{MATH_53}}
+C. {{MATH_54}}
+D. {{MATH_55}}
+Answer: D
+
+Question 12:
+Melanie burns between {{MATH_15}} and {{MATH_16}} calories for each mile that she jogs. Which inequality represents the total number of calories, {{MATH_17}}, Melanie could burn from jogging {{MATH_18}} miles?
+
+A. {{MATH_19}}
+B. {{MATH_20}}
+C. {{MATH_21}}
+D. {{MATH_22}}
+Answer: D

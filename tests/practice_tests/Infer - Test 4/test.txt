@@ -1,0 +1,120 @@
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+Indigenous songs are an important resource for ecological information. Songs of the Warlpiri people in Yuendumu, Australia, convey information about wild edible seeds, and the songs of the Karen (hta) Hin Lad Nai people in Thailand offer detailed information about bees. There have been efforts made to preserve Indigenous languages over the years—e.g., the United Nation’s International Decade of Indigenous Languages (2022–2032). However, such attempts have typically focused on spoken language despite the fact that some expressions in these languages appear only in songs. Therefore, if those involved in such efforts want to ensure that a comprehensive range of information is secured, they must _____.
+
+A. analyze musical similarities in the songs of the Warlpiri and Karen (hta) Hin Lad Nai people.
+B. acknowledge that Indigenous songs are largely but not entirely composed using phrases taken from spoken language.
+C. incorporate the preservation of songs into their broader efforts to protect Indigenous languages.
+D. recognize that Indigenous languages likely have more unique expressions that represent ecological knowledge than represent other types of information.
+Answer: C
+
+Question 2:
+[Infer]
+Which choice most logically completes the text?
+
+In a 2012 study that took place in Brazil, Enelton Fagnani, José Roberto Guimarã, and Pedro Sérgio Fadini found a negative association between levels of dissolved organic carbon and mercury in bodies of fresh water. It may seem reasonable to be skeptical of this finding, since most other studies, such as research conducted in 1995 in the United States by Charles T. Driscoll and colleagues, have found that dissolved organic carbon and mercury levels rise together. Like the latter study, however, most studies of the topic have been conducted in North America, and many of those study sites have similar characteristics to one another, suggesting that ______
+
+A. few of the studies conducted in North America have been able to measure dissolved organic carbon and mercury levels with the same level of precision as in Fagnani, Guimarã, and Fadini’s study.
+B. Fagnani, Guimarã, and Fadini’s finding may differ from the findings of other studies due to a difference in environmental circumstances that affects the relationship between dissolved organic carbon and mercury in fresh water.
+C. Fagnani, Guimarã, and Fadini’s study may have inadvertently measured a different characteristic of bodies of fresh water than their levels of dissolved organic carbon and mercury.
+D. the mercury levels reported in Fagnani, Guimarã, and Fadini’s study were much higher than those reported in the study by Driscoll and colleagues even though the dissolved organic carbon levels reported in the two studies were approximately the same.
+Answer: B
+
+Question 3:
+[Infer]
+Which choice most logically completes the text?
+
+In a 2012 study that took place in Brazil, Enelton Fagnani, José Roberto Guimarã, and Pedro Sérgio Fadini found a negative association between levels of dissolved organic carbon and mercury in bodies of fresh water. It may seem reasonable to be skeptical of this finding, since most other studies, such as research conducted in 1995 in the United States by Charles T. Driscoll and colleagues, have found that dissolved organic carbon and mercury levels rise together. Like the latter study, however, most studies of the topic have been conducted in North America, and many of those study sites have similar characteristics to one another, suggesting that _____.
+
+A. few of the studies conducted in North America have been able to measure dissolved organic carbon and mercury levels with the same level of precision as in Fagnani, Guimarã, and Fadini’s study.
+B. Fagnani, Guimarã, and Fadini’s finding may differ from the findings of other studies due to a difference in environmental circumstances that affects the relationship between dissolved organic carbon and mercury in fresh water.
+C. Fagnani, Guimarã, and Fadini’s study may have inadvertently measured a different characteristic of bodies of fresh water than their levels of dissolved organic carbon and mercury.
+D. the mercury levels reported in Fagnani, Guimarã, and Fadini’s study were much higher than those reported in the study by Driscoll and colleagues even though the dissolved organic carbon levels reported in the two studies were approximately the same.
+Answer: B
+
+Question 4:
+[Infer]
+Which choice most logically completes the text?
+
+Gottfried Schlaug et al. established that musical training is associated with physical alterations in the brain. Noting that such alterations may affect how sonic stimuli engender a hedonic response (a feeling of satisfaction and pleasure), Antonia Olivia Dolan et al. recently had musicians and nonmusicians listen to recordings—Led Zeppelin’s “Whole Lotta Love,” Jose Gonzalez’s “Heartbeats,” and others—and adjust the volume to the most pleasurable level for each recording. Although musicians and nonmusicians were clinically comparable in terms of their ability to detect sounds, musicians preferred to hear the recordings at a higher volume than nonmusicians did, leading Dolan et al. to conclude that _______.
+
+A. previous research may have overstated the effects of the physical differences between musicians’ brains and nonmusicians’ brains.
+B. physical aspects of musicians’ brains may suppress the hedonic response to music at volumes that provoke the hedonic response in nonmusicians.
+C. characteristics of musicians’ brain anatomy that are not shared with nonmusicians result in musicians experiencing the hedonic response due to characteristics of music other than its volume.
+D. musical training may alter musicians’ brains such that they have a reduced ability to detect sounds that are unlikely to incite the hedonic response.
+Answer: B
+
+Question 5:
+[Infer]
+Which choice most logically completes the text?
+
+Over 600 languages are spoken in New York City in addition to English—one can find Bambara spoken in the neighborhood of Kingsbridge, for example, or Ghale in Jackson Heights. English is the most common, with 65% of New Yorkers speaking it at home; Spanish is second, at 20%. A linguist hypothesizes that a Spanish dialect—a variation differing from the parent language in some of its vocabulary, pronunciation, and grammar—has developed in New York City, partly due to its linguistic interaction with English. Previous research shows that younger speakers of intermarriage languages are more likely to borrow words from the majority language of a region than are older speakers. If the linguist's hypothesis is correct, it is therefore likely to be the case that ____
+
+A. the proportion of younger speakers who use a Spanish dialect specific to New York City is higher in neighborhoods where many languages are spoken than in neighborhoods where Spanish and English predominate.
+B. both the number of languages spoken in New York City and the number of dialects of each of those languages will increase over time.
+C. Spanish used by younger speakers in New York City tends to have more words borrowed from other nonmajority languages than borrowed from English.
+D. younger speakers of Spanish in New York City would be more likely to use a dialect specific to New York City than older speakers living in the same neighborhood would be.
+Answer: D
+
+Question 6:
+[Infer]
+Which choice most logically completes the text?
+
+Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of freshwater in North America. But Petri Porvari and Matti Verta did not find this correlation in a study conducted in Finland, leading some scientists to hypothesize that the pattern is particular to North America. However, Yao Luo and colleagues reported dissolved organic carbon and mercury rising or falling together in a study conducted in China, and several other studies from outside North America have yielded similar results, suggesting that _____.
+
+A. Environmental characteristics unique to Finland likely result in dissolved organic carbon and mercury levels in bodies of freshwater both being significantly higher there than elsewhere.
+B. The bodies of water examined in Porvari and Verta’s study may be more similar to the bodies of water examined in studies conducted in North America than to those examined in Luo and colleagues’ study.
+C. There may be circumstances specific to the bodies of water examined in Porvari and Verta’s study that disrupted a general positive association between dissolved organic carbon and mercury levels.
+D. Bodies of freshwater outside North America are more likely to show a negative association between dissolved organic carbon and mercury levels than a positive association.
+Answer: C
+
+Question 7:
+[Infer]
+Which choice most logically completes the text?
+
+Scholars are increasingly exploring the communication and preservation of ecological knowledge through Indigenous songs (e.g., Temiar songs about landforms and landmarks and those of the Tlingit people about wildlife encounters). In one study, ethnobiologist Dana Lepofsky et al. received insight from Kwaxsistalla Wathl'thla, a song keeper for the Kwakwaka'wakw people in Canada, into songs referencing the people's use of terraced gardens in intertidal zones along the Pacific Northwest coast for the cultivation of clams for consumption. Archaeological evidence of significant increases in clam size and abundance in that area concurrent with the documented past implementation of the method described in the songs supports the conclusion that ____.
+
+A. there is greater corroboration in the archaeological record of ecological practices described in Kwakwaka'wakw songs than of those described in Temiar and Tlingit songs.
+B. non-Indigenous people around the Pacific Northwest coast adopted the practice developed by the Kwakwaka'wakw people after observing its efficacy.
+C. although contemporary Kwakwaka'wakw people have a deep understanding of and appreciation for the fishing and farming practices used by their ancestors, they no longer implement those methods.
+D. the practice used by ancestors of modern Kwakwaka'wakw people not only effectively maintained a food source but also promoted its robustness.
+Answer: D
+
+Question 8:
+[Infer]
+Which choice most logically completes the text?
+
+Like many other genera of wild bees, bumblebees have in recent decades experienced population collapse caused by, among other factors, habitat destruction and climate variation. Bumblebees are also one of the most researched bee genera, second only to honeybees. As a result, ecologists have gained much of their insight about wild-bee declines from bumblebees. In a 2021 paper, zoologist Guillaume Ghisbain notes that bumblebees are among the relatively few wild-bee genera that display social behaviors and dietary generalism (ability to obtain nectar and pollen from a diversity of plant species), two traits that are associated with increased resilience to some specific environmental changes. Ghisbain therefore contends that ____.
+
+A. because bumblebees and other bees with generalist diets are less negatively affected by environmental stress than bees with specialized diets are, they are less likely to experience major population changes in the future than bees with specialized diets are.
+B. although bumblebees have been more extensively studied than most wild bees, researchers should not use bumblebees to draw conclusions about the decline of other wild bees, even ones with feeding patterns and levels of sociability that are similar to those of bumblebees.
+C. although bumblebees and many other wild bees have experienced overall population declines in the past, compared with other wild bees, bumblebees are likely at greater risk of being harmed by climate variation than by habitat destruction.
+D. because the responses of bumblebees and other wild bees to environmental threats are not always comparable, researchers need to exercise caution when extrapolating information about wild-bee population declines from bumblebees.
+Answer: D
+
+Question 9:
+[Infer]
+Which choice most logically completes the text?
+
+Buried collections of Bronze Age metal items (called hoards) have been found all over Britain. For hoards discovered since the 1960s, such as the 2005 discovery of the Collette hoard, advancements like inexpensive metal detectors, ground-penetrating radar, and aerial surveys have made it much easier for searchers to locate hoards before putting the first shovel in the ground. Hoards found before the 1960s, however, such as the discovery of the Husbands Bosworth hoard around 1801, were not aided by such technologies and thus were much more likely to ______.
+
+A. include bronze tools and weapons and gold jewelry.
+B. result from artifacts being unearthed accidentally.
+C. occur before the ground was disturbed.
+D. include rare items from the 10th century BCE.
+Answer: B
+
+Question 10:
+[Infer]
+Which choice most logically completes the text?
+
+All stainless steel contains varying amounts of iron, carbon, and corrosion-inhibiting chromium. However, ferritic stainless steel, often used for cooking utensils, contains a higher percentage of chromium (at least 10.5%) than does austenitic stainless steel and a higher concentration of iron, which is responsible for its magnetic properties. Unlike ferritic stainless steel, austenitic stainless steel has a face-centered cubic crystalline structure resulting from the addition of nickel to the alloy. Austenitic stainless steel has two subtypes: the 200 series, often used for washing machines, and the 300 series, which has more nickel than the 200 series and is often used for mining and chemical equipment or compensators. Thus, stainless steel used to manufacture __________.
+
+A. cooking utensils will have greater magnetic properties than stainless steel used to manufacture mining and chemical equipment will.
+B. mining and chemical equipment will have a concentration of chromium lower than 10.5%, while stainless steel used for washing machines will not.
+C. cooking utensils will have a face-centered cubic crystalline structure.
+D. compensators will likely have a similar crystalline structure to stainless steel used to manufacture cooking utensils.
+Answer: A
+

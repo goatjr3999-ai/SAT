@@ -1,0 +1,240 @@
+Question 1:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Mitochondrial genomes reproduce asexually, which should over time result in an accumulation of harmful mutations and a decline in mitochondrial functionality. However, nuclear genes are hypothesized to coevolve with the rate of mitochondrial decline, eliminating mutational erosion. Such a compensatory measure ____ the organelle’s decline, unlike enzyme-stabilizing accessory proteins, offers an evolutionary explanation of mitochondrial reproduction.
+
+A. counteracting
+B. had counteracted
+C. counteracted
+D. counteracts
+Answer: A
+
+Question 2:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+With the short documentary Rick Bartow: The Man Who Made Marks, Osage and Cherokee director Nanette Kelley joined the growing number of Indigenous women adding their voices to North American ______ film, a selection of the Native Women in Film Festival, is about the art of painter and musician Rick Bartow.
+
+A. cinema, her
+B. cinema. Her
+C. cinema and her
+D. cinema her
+Answer: B
+
+Question 3:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Interest in mechanotransduction, the mechanism by which cells sense and convert mechanical stimuli into biochemical signals, is expanding because of innovative work by biomedical scientists—many of them, like neuroscience and biophysics expert Elba Serrano, _____ this mechanism to better understand how the body’s neurological and biomechanical systems interact.
+
+A. studies
+B. has studied
+C. studying
+D. is studying
+Answer: C
+
+Question 4:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In 2003, a study led by the researcher Alison G. Boyer investigated the relationship between grassland arthropod populations and agricultural _____ macronutrients like nitrogen, phosphorus, and potassium; such fertilizers boost the productivity of crops, potentially offering more nutrients for arthropods.
+
+A. fertilizers, which contain
+B. fertilizers, containing
+C. fertilizers containing
+D. fertilizers. Containing
+Answer: C
+
+Question 5:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+As a behavioral economist, Ai Hisano of Kyoto University recognizes that people sometimes make irrational economic decisions. Hisano’s research can thus address anomalies that neoclassical economic ___ assume that people are consistently rational decision-makers—cannot explain.
+
+A. models which—
+B. models which
+C. models—which
+D. models, which
+Answer: C
+
+Question 6:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Investigating the star Betelgeuse—______ 2020 study by astronomers Elena Petrova, Kenji Tanaka, and Sam Carter determined that a dust cloud, not an impending supernova, caused its recent unusual dimming.
+
+A. the famous red supergiant in Orion's shoulder, as it's often described, a
+B. the famous red supergiant in Orion's shoulder, as it's often described—a
+C. the famous red supergiant in Orion's shoulder, as it's often described. A
+D. the famous red supergiant in Orion's shoulder —as it's often described, a
+Answer: B
+
+Question 7:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The implementation of multifunctional green infrastructure is increasingly favored over single-use recreational areas. This modern approach ______ the negative effects of urban sprawl, unlike conventional landscaping which often requires intensive irrigation, offers a more sustainable and resilient model for city planning.
+
+A. offsetting
+B. has offset
+C. offset
+D. offsets
+Answer: A
+
+Question 8:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The sharp-beaked ground finch, whose diet primarily consists of seeds, is one of many endemic island ______ by adapting to fill distinct ecological niches, these related species famously illustrated Darwin's theory of natural selection.
+
+A. species; developed through adaptive radiation
+B. species developed through adaptive radiation,
+C. species. Developed, through adaptive radiation,
+D. species developed through adaptive radiation;
+Answer: D
+
+Question 9:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The 2020 documentary Without a Whisper—Konnon:Kwe was directed by Katsitsionni Fox. It explores how Indigenous Haudenosaunee culture shaped the woman suffrage movement in the early nineteenth ____how the personal and political authority Haudenosaunee women had in their communities influenced the first suffragists in the US.
+
+A. century. Revealing
+B. century; revealing
+C. century, revealing
+D. century revealing
+Answer: C
+
+Question 10:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Released in 1993, the Intel Pentium microchip contained a single CPU, or core, to execute commands. Since then, the average processing power of microchips has increased so drastically—cores now number in the dozens, hundreds, or even ___ the once-revolutionary dual-core technology that replaced the single-core chip can be found in everyday items like toasters and toothbrushes.
+
+A. thousands—that
+B. thousands that—
+C. thousands. That
+D. thousands, that
+Answer: A
+
+Question 11:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Jeffery Renard Allen’s short essay on “backwall,” a word referring to the cliff at the head of a glacier-carved valley, is included in the collection Home Ground: A Guide to the American Landscape. The book wasn’t written solely by _____ other authors, such as Carolyn Servid and Barry Lopez, also contributed essays.
+
+A. Allen; however,
+B. Allen, however;
+C. Allen. However,
+D. Allen, however,
+Answer: B
+
+Question 12:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+With the proliferation of online learning platforms that offer unprecedented access to education, it might seem that student comprehension would universally increase. Researchers have noted, however, that a purely digital format can be less effective for some ______ the absence of in-person classroom dynamics and direct teacher-student interaction can lead to decreased engagement and retention for certain learners.
+
+A. learners, for example,
+B. learners; for example,
+C. learners, for example;
+D. learners, for example,
+Answer: B
+
+Question 13:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+George Saunders concludes his essay “What Writers Really Do When They Write” by comparing the work of fiction writing to the act of juggling. The author-as-juggler performs a _____ gathering of central themes and tensions, the tossing of these elements into a dynamic narrative, and the catching of the resolutions that emerge.
+
+A. routine; the
+B. routine, the
+C. routine. The
+D. routine: the
+Answer: D
+
+Question 14:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The mathematician Emmy Noether’s groundbreaking theorem, conceptually _____ to illustrate the deep connection between symmetry and conservation laws in physics, remains a celebrated cornerstone of theoretical science.
+
+A. serves
+B. serves and,
+C. serving
+D. serves,
+Answer: C
+
+Question 15:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In 1989, Missouri ___ official fossil: the Epierisocrinus missouriensis, which is a Carboniferous period marine animal.
+
+A. lawmaker’s designated the state’s
+B. lawmakers designated the state’s
+C. lawmaker’s designated the state’s
+D. lawmakers designated the states
+Answer: B
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+"The present-day city of Yoshkar-Ola, Russia, was the capital of the Mari Autonomous Soviet Socialist Republic, one of many nominally autonomous republics within the Soviet Union. Each of these republics ____ established along ethnolinguistic lines: most residents of the Mari Republic spoke Mari, for example."
+
+A. have been
+B. are
+C. were
+D. was
+Answer: D
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Entomologists Yash Sondhi and Samuel Fabian have tried to explain why moths fly erratically around light sources at night. Knowing that flying insects keep their backs pointed toward sunlight during the day, _____
+
+A. the researchers’ theory is that moths mistake nighttime lights for the Sun, continually trying to reorient their bodies while flying near such lights.
+B. the researchers theorize that moths, mistaking nighttime lights for the Sun, continually try to reorient their bodies while flying near such lights.
+C. moths mistake nighttime lights for the Sun and continually try to reorient their bodies while flying near such lights, the researchers theorize.
+D. moths continually try to reorient their bodies while flying near nighttime lights, the researchers theorize, mistaking such lights for the Sun.
+Answer: B
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The colors of Navajo-Diné weaver Melissa Cody’s work Herold Trampler (2014) recall both the Germantown revival, a weaving style developed by Navajo Nation _____ ago, and the color palette of the video games that Cody played as a child.
+
+A. artist’s over 160 year’s
+B. artists over 160 years’
+C. artists’ over 160 years
+D. artists over 160 years
+Answer: D
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+That the towering peaks of the Himalayas, a mountain range that includes Mount Everest, continue to rise by several millimeters each year—a rate of uplift faster than the erosion that wears them down—______ to the immense and ongoing pressure from the collision of the Indian Plate with the Eurasian Plate.
+
+A. is due
+B. due
+C. being due
+D. having been due
+Answer: A
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Not all societies prosper equally or from the same kind of ___ the Tensk and the Lam, for example, prosper from intrinsic treaty frameworks; many urban enclaves, such as Riva and Sol, prosper from extrinsic treaty frameworks; and societies in the Montar domain, such as the Fal, don’t prosper from pacts at all.
+
+A. pacts,
+B. pacts;
+C. pacts:
+D. pacts
+Answer: C
+

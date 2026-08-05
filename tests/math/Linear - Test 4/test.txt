@@ -1,0 +1,37 @@
+Question 1:
+If x {{MATH_1}}-3 represents all solutions to the inequality ax + 12 < 27, where a is a constant, what is the greatest possible value of a?
+
+Answer: -5
+
+Question 2:
+The graph of the linear equation passes through the points {{MATH_2}} and {{MATH_3}}. The graph also passes through the point {{MATH_4}}. What is the value of {{MATH_5}}?
+
+Answer: 9
+
+Question 3:
+In air, the speed of sound S, in meters per second, is a linear function of the air temperature T, in degrees Celsius, and is given by {{MATH_6}}. Which of the following statements is the best interpretation of the number 331.4 in this context?
+
+A. The speed of sound, in meters per second, at 0∘C
+B. The speed of sound, in meters per second, at 0.6∘C
+C. The increase in the speed of sound, in meters per second, that corresponds to an increase of 1∘C
+D. The increase in the speed of sound, in meters per second, that corresponds to an increase of 0.6∘C
+Answer: A
+
+Question 4:
+For groups of 25 or more people, a museum charges $28 per person for the first 25 people and {{MATH_7}} for each additional person. Which function f gives the total charge, in dollars, for a tour group with n people, where {{MATH_8}}?
+
+A. {{MATH_9}}
+B. {{MATH_10}}
+C. {{MATH_11}}
+D. {{MATH_12}}
+Answer: A
+
+Question 5:
+{{MATH_13}}
+What is the sum of the solutions to the given equation?
+
+A. 0
+B. 12
+C. 19
+D. 26
+Answer: B

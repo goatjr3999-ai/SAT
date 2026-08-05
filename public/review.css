@@ -1,0 +1,382 @@
+* {
+  user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+#top-timer-bar { 
+  width: 100%;
+  height: 65px;
+  background: #eef2ff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+  box-sizing: border-box;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+
+  position: fixed;        /* giữ cố định */
+  /* thêm dòng này để có relative mà không phá fixed */
+  transform: translateZ(0);   /* trick giúp absolute hoạt động */
+}
+
+#timer-title {
+  font-size: 16px;
+  font-weight: 600;
+  color: #000000;
+  margin-left: -10px;
+  font-family: "Noto Sans", system-ui, sans-serif !important;
+}
+
+#timer-value {
+  font-size: 19px;
+  font-weight: 600;
+  color: #000000;
+  font-family: "Noto Sans", system-ui, sans-serif !important;
+
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+body {
+  padding-top: 48px !important;
+}
+
+.q-item.review {
+  background: #fee2e2;
+  border: 2px solid #b91c1c;
+  color: #b91c1c;
+}
+
+/* ===========================================
+   BLUEBOOK FIX – KEEP ORIGINAL COLORS
+   Disable red background for review state
+=========================================== */
+
+/* Tắt toàn bộ red highlight cũ */
+.q-item,
+.q-item.current,
+.q-item.answered {
+  width: 36px;
+  height: 36px;
+  border: 1.5px solid #2563eb;
+  box-sizing: border-box;
+}
+.q-item.review {
+  background: inherit !important;
+  border: inherit !important;
+  color: inherit !important;
+}
+
+/* Để overlay icon bookmark */
+.q-item {
+  box-sizing: border-box;
+  position: relative;
+}
+
+/* Icon bookmark đỏ ở góc phải trên */
+.q-item.marked::after {
+  content: "";
+  position: absolute;
+  top: -4px;
+  right: -4px;
+  width: 16px;
+  height: 20px;
+  background-image: url("/bookmark/bookmark-outline-red.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+
+/* REVIEW: dùng chung cơ chế body.mobile-single-pane như trang test */
+html{
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+body{ margin:0; overflow-x:hidden; }
+
+/* Desktop vẫn giữ như cũ, chỉ mobile mới override */
+@media (max-width: 768px){
+
+  body.mobile-single-pane{
+    padding-top: 70px !important; /* match top bar mobile */
+  }
+
+  body.mobile-single-pane #top-timer-bar{
+    height: 70px;
+    padding: 0 12px;
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    box-sizing: border-box;
+  }
+
+  body.mobile-single-pane #timer-title{
+    display: none !important;
+  }
+
+  body.mobile-single-pane #timer-value{
+    position: static !important;
+    left: auto !important;
+    transform: none !important;
+
+    grid-column: 2;
+    justify-self: center;
+
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 1;
+    white-space: nowrap;
+  }
+
+  /* Wrapper/card full width + gutter đều */
+  body.mobile-single-pane #review-wrapper{
+    padding: 18px 14px 110px !important; /* chừa bottom bar */
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    align-items: stretch;
+  }
+
+  body.mobile-single-pane #review-title{
+    font-size: 22px;
+    margin: 10px 0 8px;
+    text-align: left;
+  }
+
+  body.mobile-single-pane #review-desc{
+    font-size: 14px;
+    line-height: 1.55;
+    text-align: left;
+    margin-bottom: 18px;
+  }
+
+  body.mobile-single-pane #review-card{
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 16px !important;
+    border-radius: 16px;
+    box-sizing: border-box;
+  }
+
+  body.mobile-single-pane #review-card-header{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+
+  body.mobile-single-pane .review-section-title{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1.25;
+  }
+
+  body.mobile-single-pane .review-legend{
+    font-size: 12px;
+    gap: 14px;
+    flex-wrap: wrap;
+  }
+
+  /* Grid wrap đẹp */
+  body.mobile-single-pane #review-grid{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+
+  body.mobile-single-pane .q-item,
+  body.mobile-single-pane .q-item.current,
+  body.mobile-single-pane .q-item.answered{
+    width: 34px !important;
+    height: 34px !important;
+    box-sizing: border-box;
+  }
+
+  /* Bottom bar responsive, không absolute (để không chồng) */
+  body.mobile-single-pane #bottom-bar{
+    height: 72px;
+    padding: 0 12px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+
+  body.mobile-single-pane #bottom-bar > div{
+    position: static !important;
+    right: auto !important;
+    display: flex;
+    gap: 10px;
+  }
+
+  body.mobile-single-pane #back-btn,
+  body.mobile-single-pane #next-btn{
+    height: 44px;
+    padding: 0 16px;
+    font-size: 13px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 999px;
+  }
+}
+
+/* =========================
+   REVIEW MOBILE FIX (final)
+========================= */
+@media (max-width: 768px){
+
+  /* 1) Top bar: chỉ giữ timer ở giữa */
+  #top-timer-bar{
+    height: 70px !important;
+    padding: 0 12px !important;
+    box-sizing: border-box;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important; /* timer ở giữa */
+  }
+
+  #timer-title{
+    display: none !important; /* ✅ bỏ text góc trái */
+  }
+
+  #timer-value{
+    position: static !important; /* ✅ bỏ absolute để khỏi chồng */
+    left: auto !important;
+    transform: none !important;
+
+    font-size: 17px !important;
+    font-weight: 700;
+    line-height: 1;
+    white-space: nowrap;
+  }
+
+  /* match padding-top với top bar */
+  body{
+    padding-top: 70px !important;
+    margin: 0;
+    overflow-x: hidden;
+  }
+
+  /* 2) Gutter đều 2 bên, không tràn */
+  :root{ --gutter: 14px; }
+
+  #review-wrapper{
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+
+    padding: 18px var(--gutter) 110px !important; /* chừa bottom bar */
+    align-items: stretch;
+  }
+
+  #review-title{
+    font-size: 22px !important;
+    margin: 8px 0 10px !important;
+    text-align: left !important;
+  }
+
+  #review-desc{
+    text-align: left !important;
+    font-size: 14px !important;
+    line-height: 1.55 !important;
+    margin: 0 0 18px !important;
+  }
+
+  /* 3) Card full width */
+  #review-card{
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+
+    padding: 16px !important;
+    border-radius: 16px;
+  }
+
+  /* 4) Header trong card: không tràn */
+  #review-card-header{
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 10px !important;
+    min-width: 0;
+  }
+
+  .review-section-title{
+    font-size: 14px !important;
+    line-height: 1.25 !important;
+    max-width: 100% !important;
+
+    /* nếu tiêu đề dài: cho xuống dòng */
+    white-space: normal !important;
+    overflow-wrap: anywhere;
+  }
+
+  .review-legend{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;          /* ✅ tự xuống dòng */
+    gap: 12px !important;
+    font-size: 12px !important;
+  }
+
+  /* 5) Grid câu hỏi: wrap đẹp */
+  #review-grid{
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 10px !important;
+    max-width: 100% !important;
+  }
+
+  .q-item,
+  .q-item.current,
+  .q-item.answered{
+    width: 34px !important;
+    height: 34px !important;
+    box-sizing: border-box;
+  }
+
+  /* 6) Bottom bar: responsive, không tràn */
+  #bottom-bar{
+    height: 72px !important;
+    padding: 0 var(--gutter) !important;
+    box-sizing: border-box;
+
+    display: flex !important;
+    align-items: center !important;
+    justify-content: flex-end !important;
+
+    position: fixed;
+    left: 0; right: 0; bottom: 0;
+  }
+
+  #bottom-bar > div{
+    position: static !important;
+    right: auto !important;
+    display: flex !important;
+    gap: 10px !important;
+  }
+
+  #back-btn,
+  #next-btn{
+    height: 44px;
+    padding: 0 16px;
+    font-size: 13px;
+    border-radius: 999px;
+  }
+}
+
+
+

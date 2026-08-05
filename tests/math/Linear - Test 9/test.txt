@@ -1,0 +1,42 @@
+Question 1:
+{{MATH_1}}
+The equation above relates the number of minutes, x, Maria spends running each day and the number of minutes, y, she spends biking each day. In the equation, what does the number 75 represent?
+
+A. The number of minutes spent running each day
+B. The number of minutes spent biking each day
+C. The total number of minutes spent running and biking each day
+D. The number of minutes spent biking for each minute spent running
+Answer: C
+
+Question 2:
+For what value of x is the given expression equivalent to {{MATH_2}}, where n > 1? (phân số)
+{{MATH_3}}
+
+Answer: 5/192
+
+Question 3:
+Line k is defined by {{MATH_4}}. Line j is parallel to line k in the xy-plane and passes through the point {{MATH_5}} Which equation defines line j?
+
+A. y = 4x − 1
+B. y= 4x + 6
+C. y = − 4x + 6
+D. y = 4x + 1
+Answer: B
+
+Question 4:
+The table above shows the coordinates of three points on a line in the {{MATH_6}}-plane, where {{MATH_7}} and {{MATH_8}} are constants. If the slope of the line is 2, what is the value of {{MATH_9}}?
+
+A. 20
+B. 25
+C. 30
+D. 35
+Answer: C
+
+Question 5:
+The cost to rent a bus from Company X is $950 for the first 2 hours and an additional $50 per hour for each hour after the first 2 hours. If the total cost to rent the bus from Company X for t hours, where t > 2, is $1,150, which equation represents this situation?
+
+A. {{MATH_10}}
+B. {{MATH_11}}
+C. {{MATH_12}}
+D. {{MATH_13}}
+Answer: C

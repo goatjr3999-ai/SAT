@@ -1,0 +1,376 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Evaluating the utility of using measurements of chlorophyll a (chl a)—a pigment present in cyanobacteria, diatoms, and other phytoplankton—as ______ phytoplankton biomass, Claire H. Davies et al. concluded that although relative proportions of chl a are affected by factors such as nitrogen status, chl a remains an adequate proxy for phytoplankton biomass.
+
+
+A. a surrogate for
+B. an amalgam of
+C. a stipulation for
+D. a complement to
+Answer: A
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Monitoring of bird population responses to restoration of riparian (river-adjacent) habitats in the Colorado River Delta revealed overall gains, but trends at the species level could be ______, even within ecological guilds (species linked by resource usage): though both are riparian forest birds, Columbina passerina showed initial signs of recovery, whereas Polioptila melanura did not.
+
+
+A. discrepant
+B. extraneous
+C. ominous
+D. contrived
+Answer: A
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Frank Leslie’s Illustrated Newspaper and other popular US publications of the late 1800s and early 1900s, though instrumental in disseminating literature to mass audiences, endured a period of scholarly neglect due to the perception that their commercial orientation was ______ the production of serious art, a dismissive assumption that scholars attuned to the complex interplay of commerce and culture have since challenged.
+
+
+A. debunked by
+B. inimical to
+C. inured to
+D. commensurate with
+Answer: B
+
+Question 4:
+[WIC]
+As used in the text, what does the word “figures” most nearly mean?
+
+The following text is from Edith Wharton’s 1917 novel *Summer*.
+She rose and leaned out of the window. The twilight had deepened into night, and she watched the frail curve of the young moon dropping to the edge of the hills. Through the darkness she saw one or two __figures__ moving down the road; but the evening was too cold for loitering, and presently the strollers disappeared.
+
+
+A. Prices
+B. Human shapes
+C. Digits
+D. Mathematical symbols
+Answer: B
+
+Question 5:
+[Details]
+Which choice best states the function of the underlined portion in the text as a whole?
+
+In The Jazz Continuum, LaTasha Barnes, Alain Lauture, and other dancers seamlessly interweave recent dance styles, including hip-hop and voguing, with elements of the Lindy Hop, a popular swing dance of the 1930s with roots in the Black American community of Harlem, New York. __Inspired by Barnes’s curiosity about the similarities between the Lindy Hop and these seemingly unrelated dance styles__, the show’s choreography makes visible how intertwined their histories actually are. The show is therefore a testament to the Lindy Hop’s enduring influence on American culture.
+
+
+A. It provides evidence for the text’s claim that the Lindy Hop has had a greater cultural impact than the other dances featured in The Jazz Continuum have had.
+B. It identifies the motivation for The Jazz Continuum’s choreographic approach that is described earlier in the text.
+C. It addresses the reasons why the historical connections between the dance styles mentioned earlier in the text have been generally overlooked.
+D. It identifies the specific ways in which the Lindy Hop is similar to the contemporary dance styles discussed in the text.
+Answer: B
+
+Question 6:
+[Details]
+Which choice best states the function of the underlined sentence in the text as a whole?
+
+Miko Branden raises Chickasaw red corn, a variety developed by his Chickasaw ancestors centuries ago. It belongs to a group of related varieties known as flint corn. Although flint corn was developed by tribes in eastern North America, genetic studies trace its ancestry to corn populations in the Southwest, including one cultivated in Utah around 225 CE. The Southwestern populations themselves descended from varieties originated by tribes in ancient Mexico. __Thus, the ears of dark red corn grown by Brandon represent thousands of years of agricultural history.__
+
+
+A. It calls attention to Chickasaw red corn’s physical resemblance to the ancient corn of Arizona and Mexico.
+B. It affirms the historical authenticity of Brandon’s methods for farming Chickasaw red corn.
+C. It establishes a parallel between Chickasaw red corn and varieties of ancient corn that are otherwise unrelated.
+D. It stresses the relationship of Chickasaw red corn farmed in the present to ancestral corn populations.
+Answer: D
+
+Question 7:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Human taste receptors contain TRPM5 channels, which affect how sweet or bitter, among other flavors, things are. These channels are most active at high temperatures, conferring the greatest effect for food that is consumed hot. Conversely, for foods eaten cold (particularly below 59°F), these channels are less active and confer less flavor; thus, something like ice cream containing large amounts of sugar will taste as intended when eaten cold but may become cloyingly sweet once it melts.
+
+
+A. To suggest changes to the formulations of some foods to account for the temperatures at which they are meant to be consumed
+B. To indicate why some flavors are consistently more prominent than others across a range of temperatures
+C. To discuss how particular temperature-sensitive structures affect perceptions of flavor
+D. To explain how discoveries related to taste receptors might influence the temperatures at which foods are typically consumed
+Answer: C
+
+Question 8:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Hay’s Spring amphipods, oims, and other organisms lack functional eyes or ocular organs altogether and rely on other mechanisms to navigate their surroundings. Zhihao Yao and colleagues investigated how the Chinese red-headed centipede is still able to sense and avoid sunlight without having eyes or even any photoreceptors (light-detecting cells). In an experiment, the researchers found that light-avoidant behavior observed in the centipedes was associated with activation of BRTNaC1, a thermal receptor located in the centipede’s antennae, in the presence of simulated sunlight.
+
+
+A. To explain the role of BRTNaC1 in light detection for multiple organisms
+B. To contrast how centipedes detect sunlight with how Hay’s Spring amphipods and oims detect sunlight
+C. To outline a study designed to identify the mechanism involved in light detection in a species of centipede
+D. To compare the functions of two body parts of a species of centipede
+Answer: C
+
+Question 9:
+[COE]
+Which choice best states the function of the underlined word in the text as a whole?
+
+Still cultivated by the Chickasaw people, Chickasaw red corn is a variety of flint corn, a clade associated with the tribes of eastern North America. Genetic analyses link the collective flint lineage to corn populations in what is now the US Southwest, including one cluster in Arizona circa 275 BCE and one in Texas circa 25 CE, with the two clusters descending in turn from populations cultivated in northern Mexico in the deep past, though—__crucially__—not from the same ones. What emerges from the data is a complex geography of diffusion, likely through trade between contiguous tribes.
+
+
+A. It implies that a discrepancy in data on ancient corn populations is so significant as to require adjustments to the hypothesized chronology of flint corn’s diffusion.
+B. It characterizes the genetic divergence of corn populations in Arizona and Texas as pivotal to establishing the classificatory boundaries of the flint clade.
+C. It signals that the degree of genetic similarity between ancient corn populations is instrumental to determining the route taken by the flint lineage.
+D. It positions genetic data on ancient corn populations in Arizona and Texas as critical to mapping trade relationships among contemporaneous tribes.
+Answer: D
+
+Question 10:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+The late Hemphillian (Hh) North American Land Mammal Age includes the subdivisions Hh3, 6.8 million years ago (Ma) to 6 Ma, and Hh4, 6 Ma to 4.75 Ma. While mammalian fossils have indicated that Florida’s Montbrook Fossil Site (MFS) and Palmetto Fauna of the Bone Valley Region (PFBV) date to Hh4, a more precise determination of the sites’ ages has proved challenging. Stephanie R. Killingsworth et al. compared average ratios of strontium-87 to strontium-86 (⁸⁷Sr/⁸⁶Sr) in fossil shark teeth from MFS and PFBV—0.709000 and 0.709023, respectively—to ⁸⁷Sr/⁸⁶Sr ratios in the global strontium seawater curve, a record that shows how ⁸⁷Sr/⁸⁶Sr ratios in seawater correspond to numerical ages and that is used to date fossils and, by extension, fossil sites. The researchers concluded that ______.
+Global Strontium Seawater Curve
+
+
+
+A. mammalian fossil evidence offers less dating precision than do ⁸⁷Sr/⁸⁶Sr ratios in fossil shark teeth and that PFBV likely was deposited closer to the Hh3-Hh4 boundary than was MFS.
+B. the average ⁸⁷Sr/⁸⁶Sr ratios in the fossil shark teeth from MFS and PFBV resolve previous uncertainty about the sites’ relative ages by indicating that both sites were deposited contemporaneously during the late Hh.
+C. the average ⁸⁷Sr/⁸⁶Sr ratios in the fossil shark teeth from MFS and PFBV only partially support the site age estimates previously established through mammalian fossil evidence.
+D. the average ⁸⁷Sr/⁸⁶Sr ratios in the fossil shark teeth from MFS and PFBV corroborate that both MFS and PFBV fall within Hh4 but suggest that PFBV was likely deposited more recently than MFS.
+Answer: D
+
+Question 11:
+[Cross Text]
+Which consideration about Bless Me, Ultima do both Text 1 and Text 2 implicitly address?
+
+Text 1: Magical realism, a fiction style that includes fantastical content in realistic narratives, arose in Latin America in the mid-1900s. In 1972, Rudolfo Anaya’s Bless Me, Ultima became the first major work of magical realism in the US. Others followed, including Toni Morrison’s Beloved in 1987, but Bless Me, Ultima should be seen less as a model followed by Anaya’s peers than as an indicator of growing interest in the style among US writers more generally.
+Text 2: In combining the fantastical with the realistic in Beloved, Morrison was inspired by Latin American magical realism, not by Bless Me, Ultima. Anaya’s direct influence can, however, be seen in the work of fellow Mexican American authors. In her 1993 novel So Far from God, Ana Castillo clearly echoes Anaya’s portrayal of Mexican communities in the US and his reliance on Mexican folktales as a source of fantasy.
+
+
+A. Whether Mexican American writers were more influenced by Bless Me, Ultima than writers from other communities were
+B. Whether Beloved or Bless Me, Ultima more closely resembles classic Latin American magical realism
+C. Whether Castillo’s treatment of fantastical content in some of her works suggests that she was influenced by Morrison as well as by Anaya
+D. Whether Anaya’s exploration of magical realism in Bless Me, Ultima directly influenced the later Beloved
+Answer: D
+
+Question 12:
+[Cross Text]
+Based on the texts, the author of Text 1 and the author of Text 2 would most likely disagree about the answer to which question?
+
+Text 1: Brown University and the investment bank Barclays are two of the many institutions offering training programs in entrepreneurship. But what results do such programs produce? In a study of business school graduates in Norway, researchers Lars Kolvereid and Øystein Moen addressed this question and convincingly demonstrated that participants showed strong intentions to become entrepreneurs as a result of receiving entrepreneurial training.
+Text 2: While studies of entrepreneurial training typically report positive results, a close look at these studies reveals widespread methodological shortcomings. For instance, a 1997 study by Lars Kolvereid and Øystein Moen found benefits of entrepreneurial education for graduates of Norwegian business schools, but the study only collected data on subjects after the training, not before, making it unclear whether the training actually had an effect.
+
+
+A. Did Kolvereid and Moen report that participants who received the entrepreneurial training showed strong intentions to become entrepreneurs?
+B. Are there convincing experimental results showing that different types of entrepreneurial training programs are associated with different outcomes?
+C. Is the cost of conducting entrepreneurial training programs typically offset by the programs’ benefits?
+D. Did Kolvereid and Moen’s study provide persuasive evidence that its results are attributable to the entrepreneurial training participants received?
+Answer: D
+
+Question 13:
+[COE]
+Which choice best describes data from the table that weaken the journalist’s claim?
+
+Few of the most commercially successful films in US movie theaters are in a language other than English. One journalist claims that to overcome what director Bong Joon-ho calls “the one-inch-tall barrier of subtitles,” it is essential for a film to receive an Oscar nomination: non-English language films that are not given this public indication of high quality will struggle to find an audience compared with those that do receive Oscar nominations.
+Highest-Grossing Films in a Language Other Than English at US Box Office
+
+
+
+A. Although both Crouching Tiger, Hidden Dragon and Eat Drink Man Woman were recognized by the Oscars, Crouching Tiger, Hidden Dragon had higher lifetime earnings.
+B. Although the opening weekend earnings were $7,846,426 for Instructions Not Included and $3,424,702 for Huevos: Little Rooster’s Egg-cellent Adventure, neither film was recognized by the Oscars.
+C. Crouching Tiger, Hidden Dragon, which was recognized by the Oscars, had lower opening weekend earnings but higher lifetime earnings than Huevos: Little Rooster’s Egg-cellent Adventure, which was not recognized by the Oscars.
+D. Instructions Not Included was not recognized by the Oscars but had higher lifetime earnings than Eat Drink Man Woman, which was recognized by the Oscars.
+Answer: D
+
+Question 14:
+[COE]
+Assuming the data in the table are broadly representative, do the data support the researcher’s hypothesis as presented in the text?
+
+By examining trait distributions across phylogenetic lineages, evolutionary biologists can determine whether trait similarities result from shared ancestry, leading to consistent presence of the trait among closely related species, or from convergent evolution under similar selective pressures, leading to the independent appearance of the trait in more distantly related species occupying similar ecological niches. Hypothesizing that orbit (eye socket) orientation in the families Canidae and Felidae (both within the order Carnivora) is primarily driven by the latter mechanism, a researcher measured frontation angles—the extent to which species’ orbits face downward or upward—in feld and candi species occupying various habitats and preferring different substrates.
+Average Frontation Angle for Five Species by Family, Habitat, and Preferred Substrate
+
+
+
+A. No, because frontation angles are relatively consistent across ecological categories, with values for species inhabiting closed arboreal habitats and species inhabiting open terrestrial habitats ranging from 56.51 to 67.61 and from 54.89 to 65.80, respectively
+B. Yes, because frontation angles are lower for candi species than for feld species regardless of habitat or preferred substrate, with values for species from the same taxonomic family clustering in a relatively narrow range
+C. Yes, because frontation angles show a moderately strong relationship with ecological niches, with two out of three species in either inhabiting closed habitats or preferring terrestrial substrates
+D. No, because frontation angles cluster by taxonomic family rather than by ecological categories, with similar values measured for species from the same family despite their occupation of different ecological niches
+Answer: D
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+Technological discontinuance—when a technological advance, such as the use of bronze metallurgy across the ancient world, is abandoned after sustained adoption—can result when difficulty in accessing resources increases. A dataset of over 4,500 shields, beads, and other gold objects from the Caucasus dating to 4000-500 BCE revealed a drop in the number of gold artifacts from sites in the Middle Kura zone circa 1500 BCE. No such drop occurred in the nearby Middle Arazes zone, but modeling suggests that walking times to the nearest gold ore deposits were comparable in the two regions. Yet, concluding that the abandonment of gold metallurgy in the Middle Kura can’t therefore be attributed to proximity to gold deposits depends on the assumption that ______.
+
+
+A. the number of gold objects at Middle Kura sites inversely correlates with distance from the nearest gold deposit.
+B. not all the gold objects found at any given site were made with gold sourced from the same deposit.
+C. evidence of mining infrastructure found at gold deposits across the Caucasus has been accurately dated.
+D. nothing prevented the peoples of the Middle Kura after 1500 BCE from identifying and exploiting the nearest gold deposits.
+Answer: D
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Handsome Man was first released in 2022. This short ______ is about a mysterious stranger who visits a family’s home on a reservation, was directed by Shoalwater Bay Tribe filmmaker Misty Shipman.
+
+
+A. drama which
+B. drama,
+C. drama
+D. drama, which
+Answer: D
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+An attack by herbivorous mustard aphids, which are among the cuckoopint plant’s most common insect predators, ______ to produce proteins that disrupt the aphids’ ability to digest food.
+
+
+A. the plant triggered
+B. triggering the plant
+C. the plant will be triggered
+D. will trigger the plant
+Answer: D
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Relative to that of Austria, ______ according to researchers: greater flexibility during times of economic volatility due to fewer provisions that could restrict necessary legislation.
+
+
+A. Denmark's constitution is shorter and less detailed, which confers a notable benefit,
+B. a notable benefit of Denmark's constitution is that it is shorter and less detailed,
+C. Denmark enjoys a notable benefit from its shorter and less detailed constitution,
+D. Denmark has a shorter and less detailed constitution, which confers a notable benefit,
+Answer: A
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Sino-Tibetan language of Kurtöp has only about 15,000 living speakers, most of them in Bhutan. However, the New York City-based Endangered Language Alliance has identified a group of Kurtöp speakers in the city’s borough of ______ in the Sunnyside neighborhood, these speakers are both helping to ensure Kurtöp’s survival and contributing to the city’s unmatched linguistic diversity.
+
+
+A. Queens; where,
+B. Queens where
+C. Queens; where
+D. Queens, where,
+Answer: D
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Featured among the more than 120 photographs in the 2021 exhibition The New Woman Behind the Camera, Trude Fleischmann’s ______ “Katharine Cornell” offers a glimpse back in time to 1939.
+
+
+A. photograph,
+B. photograph:
+C. photograph;
+D. photograph
+Answer: D
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As anthropologist Cristina Grasseni explains, many artisanal cheeses in Italy, such as Castelmagno from Piedmont and Mozzarella di Butala Campana from Apulia, are highly valued for their regional authenticity; ______ they are prized for being
+made using local ingredients and methods typical of their respective geographic regions.
+
+
+A. That is,
+B. Rather,
+C. Still,
+D. Then,
+Answer: A
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The tiny transistors that control the flow of electricity in modern devices may one day be made of wood. Researchers in Switzerland have found a way to use heat and chemicals to widen the grooves in dry pieces of balsa wood. ______ these grooves become wide enough that electrical conductors can be passed through them.
+
+
+A. For example,
+B. In contrast,
+C. Previously,
+D. As a result,
+Answer: D
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In a 2021 study, Louise Shewan and colleagues used optically stimulated luminescence dating to analyze stone jars excavated from an archaeological site in Laos. The dating method Shewan’s team used, which involves analysis of inorganic mineral grains, is applicable to deposits buried hundreds of thousands of years ago. ______ it isn’t constrained by some fundamental limitations of radiocarbon dating, such as the latter’s age threshold of around 60,000 years and reliance on organic material.
+
+
+A. That said,
+B. For example,
+C. By contrast,
+D. As a result,
+Answer: D
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Plant species known as metal hyperaccumulators can help remove heavy metal pollutants from soil. Paspalum fasciculatum, or bamboo grass, for instance, can absorb a large quantity of cadmium and store it safely in its roots and shoots. ______ the plant’s roots may not reach far enough into the soil to eliminate the pollutant entirely.
+
+
+A. Still,
+B. On the contrary,
+C. For this reason,
+D. Moreover,
+Answer: A
+
+Question 25:
+[Synthesis]
+The student wants to connect the quotation from Wilson to Jessie Redmon Fauset. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Jessie Redmon Fauset was a Black writer whose work is often associated with the Harlem Renaissance.
+• The Harlem Renaissance was a New York City-based artistic and cultural movement that began in the 1910s and continued into the 1930s.
+• Fauset's poem "Again It Is September" was published in the September 1917 issue of The Crisis.
+• The Crisis is an influential periodical that was founded in 1910.
+• According to literary scholar Sondra Kathryn Wilson, The Crisis was "a literary and intellectual outlet for Black writers" during the Harlem Renaissance.
+
+
+A. Harlem Renaissance writer Jessie Redmon Fauset published poetry in The Crisis, a periodical that was, in Wilson's words, "a literary and intellectual outlet for Black writers" during that period.
+B. Scholars such as Wilson have emphasized Jessie Redmon Fauset's role in providing "a literary and intellectual outlet for Black writers" during the Harlem Renaissance, an artistic and cultural movement that began in the 1910s and continued into the 1930s.
+C. According to Wilson, The Crisis—an influential periodical that was founded in 1910—was "a literary and intellectual outlet for Black writers."
+D. Wilson has written about The Crisis, the influential Harlem Renaissance periodical in which Jessie Redmon Fauset published poems such as "Again It Is September" (1917).
+Answer: A
+
+Question 26:
+[Synthesis]
+The student wants to explain the significance of New Jersey’s NPVIC adoption. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• In the Electoral College system that determines the outcome of US presidential elections, the winner of New Jersey’s popular vote receives all 14 of New Jersey’s electoral votes.
+• A 2001 article written by law professors Akhil and Vikram Amar proposed that states could instead agree to award their electoral votes to the winner of the national popular vote.
+• The Amars’ idea is the basis of the National Popular Vote Interstate Compact (NPVIC).
+• If states holding a majority of electoral college votes (270) adopt the NPVIC, the compact will take effect and adopters will award their electoral votes accordingly.
+• New Jersey adopted the NPVIC in 2008.
+
+
+A. Because it has adopted the NPVIC, New Jersey will award its electoral votes to the winner of the state’s popular vote—once states holding a majority of electoral college votes (270) do the same.
+B. An agreement among US states to award their electoral votes to the presidential candidate who wins the national popular vote was adopted by New Jersey in 2008.
+C. According to the idea proposed by the Amars, the winner of New Jersey’s popular vote will receive all of the state’s electoral votes if the NPVIC takes effect.
+D. If the NPVIC takes effect, adopter New Jersey will award all 14 of its electoral votes to the winner of the national, rather than the state’s, popular vote.
+Answer: D
+
+Question 27:
+[Synthesis]
+The student wants to make and support a claim about how the raga system facilitates musical exploration within traditional constraints. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Indian classical compositions are typically structured around a single raga.
+• Ragas are ancient melodic frameworks in Indian classical music that establish both a specific collection of pitches and the sequence in which they may be played.
+• Each raga can be recognized by a short musical phrase or group of phrases.
+• In performance, musicians use these short musical phrases as the foundation upon which they create longer improvisational works.
+• During a typical concert, various instruments alternate improvisational passages while adhering to the raga's constraints.
+
+
+A. Indian classical compositions are given structure by the raga system, which establishes a specific collection of pitches and the sequence in which they must be played.
+B. Through a specific collections of pitches, the short musical phrase provides a framework within which musicians use the raga system, as shown when various instruments alternate passages.
+C. The raga system facilitates exploration by allowing musicians to alternate improvisational passages while adhering to the raga's constraints.
+D. By establishing pitch selection and sequence, the raga system provides a melodic framework for the longer improvisational works performed in a typical concert, where passages adhere to the raga's constraints.
+Answer: D
+

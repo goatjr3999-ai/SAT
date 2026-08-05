@@ -1,0 +1,80 @@
+Question 1:
+{{MATH_1}}
+What value of x is the solution to the given equation?
+
+A. {{MATH_2}}
+B. {{MATH_3}}
+C. {{MATH_4}}
+D. {{MATH_5}}
+Answer: C
+
+Question 2:
+The function g is defined by{{MATH_6}}. What is the x-coordinate of the x-intercept of the graph of {{MATH_7}} in the xy-plane?
+
+Answer: 54
+
+Question 3:
+Which expression is a factor of {{MATH_9}}
+
+A. {{MATH_10}}
+B. {{MATH_11}}
+C. {{MATH_12}}
+D. {{MATH_13}}
+Answer: C
+
+Question 4:
+{{MATH_14}}
+How many distinct real solutions does the given equation have?
+
+A. Exactly one
+B. Exactly two
+C. Infinitely many
+D. Zero
+Answer: D
+
+Question 5:
+|{{MATH_15}}| {{MATH_16}}
+What is the sum of the solutions to the given equation?
+
+A. {{MATH_17}}
+B. {{MATH_18}}
+C. {{MATH_19}}
+D. {{MATH_20}}
+Answer: B
+
+Question 6:
+For the positive quantities h, j, and k, 44% of h is equivalent to 62% of j, and j is equivalent to 22% of k. What percentage of k is h? (Disregard the % sign when entering your answer. For example, if your answer is 39%, enter 39)
+
+Answer: 31
+
+Question 7:
+The graph shows the relationship between the number of shares of stock from Company A, x , and the number of shares of stock from Company B, y, that Sayen can purchase. Which equation could represent this relationship?
+
+A. {{MATH_22}}
+B. {{MATH_23}}
+C. {{MATH_24}}
+D. {{MATH_25}}
+Answer: B
+
+Question 8:
+For the exponential function f , the value of f(1) is k, where k is a constant. Which of the following equivalent forms of the function f shows the value of k as the coefficient or the base?
+
+A. {{MATH_26}}
+B. {{MATH_27}}
+C. {{MATH_28}}
+D. {{MATH_29}}
+Answer: C
+
+Question 9:
+A quadratic function models the height, in feet, of an object above the ground in terms of the time, in seconds, after the object was launched. According to the model, the object was launched from a height of 0 feet and reached its maximum height of 400 feet 5 seconds after it was launched. Based on the model, what was the height. in feet, of the object 9 seconds after it was launched?
+
+Answer: 144
+
+Question 10:
+The cost of renting a power washer is $56 for the first day and $28 for each additional day. Which of the following functions gives the cost C(d), in dollars, of renting the power washer for d days, where d is a positive integer?
+
+A. {{MATH_31}}
+B. {{MATH_32}}
+C. {{MATH_33}}
+D. {{MATH_34}}
+Answer: A

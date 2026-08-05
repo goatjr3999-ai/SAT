@@ -1,0 +1,120 @@
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+To address the susceptibility of materials used in components of high-performance machinery, such as aircraft engines, to creep (deformation that is induced by persistent mechanical stress and that often occurs at elevated temperatures), materials researchers have developed silicon carbide (SiC) fibers for producing aerospace composites. Testing the thermomechanical properties of several commercially available SiC fibers, Ramakrishna T. Bhatt et al. found that in comparison with two polymer-derived SiC fibers, a nitrogen-treated SiC fiber exhibited a lower minimum creep rate, a measure of the rate at which a stress-exposed material deforms at a constant temperature and uniaxial load. The finding suggests that ______.
+
+A. unlike the two polymer-derived SiC fibers, the nitrogen-treated SiC fiber can substantially inhibit creep, provided that temperatures and loads are consistent.
+B. aerospace composites containing the nitrogen-treated SiC fiber may have the ability to withstand mechanical stress for a longer period of time than can aerospace composites containing either of the two polymer-derived SiC fibers.
+C. composites based on the two polymer-derived SiC fibers have chemical properties that may improve the mechanical and thermal stability of aerospace equipment to a greater extent than do composites based on the nitrogen-treated SiC fiber.
+D. the two polymer-derived SiC fibers likely hold similar potential for reducing the creep resistance of materials exposed to stress and elevated temperatures, thus prolonging the lifespan of aerospace machinery.
+Answer: B
+
+Question 2:
+[Infer]
+Which choice most logically completes the text?
+
+Scientists recently created a model to predict how increasing human activity will affect future mammal population sizes in US national forests. Unfortunately, when the model is applied to large forests, its predictions for large-mammal populations are too high, and when applied to small forests, its predictions for small-mammal populations are too high. Beaverhead-Deerlodge National Forest in Montana is a large forest, covering more than 3 million acres. If used to evaluate the effect of increasing human activity on this forest in ten years, the model would likely therefore ___
+
+A. exaggerate the effect of increasing human activity on small mammals.
+B. overestimate the actual population sizes of large mammals.
+C. ignore the predator-prey relationships between large and small mammals.
+D. reflect factors affecting large mammals other than increasing human activity.
+Answer: B
+
+Question 3:
+[Infer]
+Which choice most logically completes the text?
+
+Chemists M.H. Gamble, P. Rice, and J.D. Selman studied the mass and heat transfer processes that occur when foods, such as the Indian snacks malapua and puri bhaji, are oil fried. During frying, water in the crust evaporates, leaving voids that oil (a pure fat) can fill. As the process continues, water from the food’s center moves to the crust as long as the crust remains permeable. Therefore, it is likely that, all other things being equal, sections of a food that lose less moisture during the frying process _____
+
+A. will develop a thicker crust during the frying process than sections that lose more moisture.
+B. will have a lower fat content after frying is completed than sections that lose more moisture.
+C. will have a crust that loses its permeability less quickly during the frying process than sections that lose more moisture.
+D. will have a higher temperature after frying is completed than sections that lose more moisture.
+Answer: B
+
+Question 4:
+[Infer]
+Which choice most logically completes the text?
+
+Many Indian snack foods, such as bhatoora and paneer pakora, acquire their flavor from being fried in oil; some are also coated in batter beforehand. Chemists Marc A. Meyers and Andrew Grazela studied the mass and heat transfer processes that occur when foods are fried in batters containing hydrocolloids, polymers that become viscous or gel-like in water. During frying, water in the food evaporates, leaving voids that oil (a pure fat) can fill. As the process continues, water from the food's center moves to the crust as long as the crust remains permeable. However, hydrocolloids can create structures in the crust that reduce the transfer of moisture out of the food's core during frying. Therefore, a food fried without a hydrocolloid batter coating will likely _____.
+
+A. have a more viscous crust when frying is completed than it would have if it were fried with a coating of hydrocolloid batter.
+B. have a higher fat content than it would have if it were fried with a coating of hydrocolloid batter.
+C. need to be cooked more quickly at a higher temperature than it would need to be cooked if it were fried with a coating of hydrocolloid batter.
+D. need to be cooked in a different oil than it would need to be cooked in if it were fried with a coating of hydrocolloid batter.
+Answer: B
+
+Question 5:
+[Infer]
+Which choice most logically completes the text?
+
+To understand consumer loyalty to specific online retailers, Marina Zláatkov and colleagues conducted a survey using 58 statements as proxy indicators of customer experience with receiving online purchases. The statements were categorized by topic—e.g., statement 13, “I am eagerly awaiting the delivery of the ordered items,” was categorized as joyful anticipation—and respondents, all of whom were from Serbia (which is characterized as having a developing economy), rated the importance of each statement to their experience. Researchers found that participants placed low importance on package aesthetics and high importance on speedy delivery and package tracking, but the researchers cautioned against applying the findings to customers generally, suggesting that ______.
+
+A. additional research is needed with participants from countries of varying levels of economic development to determine whether delivery time and tracking are more important than package design to customers broadly.
+B. customers in countries with higher levels of economic development than that of Serbia are likely to regard package design as relatively more important than delivery time and transparency.
+C. online retailers that operate in a variety of countries are more likely to increase customer loyalty if they make their deliveries in less time and allow customers to track those deliveries than if they improve their packaging.
+D. the greater importance assigned to delivery time and tracking than to package design may not be observed if the survey were to be given to a larger group of Serbian participants.
+Answer: A
+
+Question 6:
+[Infer]
+Which choice most logically completes the text?
+
+Biologists Rebecca M. Calisi-Rodríguez and George E. Bentley examined research on white-throated sparrows and degus, both of which have been studied in the laboratory as well as in the wild, to see how studies’ settings might have affected their results. Lab studies are useful because they make it easy to control important variables, but white-throated sparrows’ surroundings can significantly affect their hormone levels. Therefore, it’s not altogether surprising that when Calisi-Rodríguez and Bentley examined studies of white-throated sparrows, they found that ______
+
+A. hormone levels were higher in wild males than in captive male degus.
+B. captive sparrows and wild sparrows usually exhibited very similar hormone levels.
+C. significant differences in hormone levels between individuals were found for both captive sparrows and wild sparrows.
+D. baseline levels of the hormone corticosterone are higher in captive sparrows than they are in wild sparrows.
+Answer: D
+
+Question 7:
+[Infer]
+Which choice most logically completes the text?
+
+As exemplified by Temiar songs about landforms and landmarks and Lakota songs about gathering mouse beans, ecological information can be transmitted in Indigenous songs, and in some instances is maintained only in this way. Kwaxsistalla WathI'thla, a song keeper for the Kwakwaka’wakw people in Canada, collaborated with ethnobiologist Dana Lepofsky et al., sharing songs referencing terraced intertidal clam gardens the people implemented in the past to foster healthy development of a dietary staple. Drawing on archaeological evidence as well, Lepofsky et al. determined that the prevalence of the practice described in the songs corresponded with growth in clam size and abundance despite increased harvesting pressure—a finding that demonstrates that ____.
+
+A. representation of practical applications of ecological knowledge is the defining characteristic of the music of certain Indigenous peoples
+B. the Kwakwaka’wakw people likely would not have detailed their creation of clam gardens in songs if their efforts had not produced significantly larger clams
+C. the clams harvested from intertidal terraces by Kwakwaka’wakw people in the past likely were a different species than the clams found in those areas today
+D. effective methods for the cultivation of sources of sustenance are among the ecological knowledge preserved in Indigenous songs
+Answer: D
+
+Question 8:
+[Infer]
+Which choice most logically completes the text?
+
+Many studies have found a positive association between levels of dissolved organic carbon and mercury in bodies of fresh water in North America. But Petri Porvari and Matti Verta did not find this correlation in a study conducted in Finland, leading some scientists to hypothesize that the association is particular to North America. However, several other studies conducted outside North America, such as one by Yao Luo and colleagues in China, showed similar results to the North American studies, while few have produced results similar to those of Porvari and Verta's study, suggesting that ____
+
+A. levels of dissolved organic carbon and mercury in bodies of fresh water are both much higher in Finland than elsewhere.
+B. the hypothesis that the positive association is particular to North America is correct.
+C. dissolved organic carbon and mercury levels do typically rise and fall together in fresh water.
+D. there were circumstances unique to Luo and colleagues’ study that impeded accurate measurements of mercury levels. ​​
+Answer: C
+
+Question 9:
+[Infer]
+Which choice most logically completes the text?
+
+Many contemporary Indigenous painters practice a specifically Indigenous mode of abstraction; for example, Linda Lomahaftewa often assembles compositions out of motifs common in the ceramics and other traditional arts of the Hopi Tribe. In contrast, the prominent Indigenous practitioners of abstract painting during the mid-twentieth century, such as the Kiowa artist T.C. Cannon, typically aligned their compositional strategies with Abstract Expressionism—a school of painting dominated by European American artists—instead of with traditionally nonrepresentational forms of Indigenous art. Thus, in the case of Cannon’s generation, the identification of an abstract painting as Indigenous art tends to ________
+
+A. depend not on stylistic details but instead on an awareness of the artist’s identity.
+B. place a greater emphasis on the artist’s biography than on the aesthetic merit of the painting.
+C. obscure the Indigenous origins of certain motifs associated with Abstract Expressionism.
+D. deny the extent to which cultural identity influences an artist’s work.
+Answer: A
+
+Question 10:
+[Infer]
+Which choice most logically completes the text?
+
+Microbial fuel cells (MFCs) capitalize on the ability of some species of bacteria to metabolize metal, liberating electrons. The bacteria form a dense biofilm on the surface of an electron-collecting anode, but moving the electrons from the bacterial cytoplasm to an external electrode requires that the electrons pass through a series of inefficient oxidation-reduction (redox) reactions. Accordingly, MFC power output rarely exceeds a density of 0.30 milliwatts per square centimeter (mW/cm²). In an experiment, researchers added silver nanoparticles to carbon paper covering the anode in an MFC. The resulting power density was 0.66 mW/cm². Since metals such as silver exhibit high electrical conductivity, the researchers hypothesized that ____.
+
+A. silver nanoparticles may increase the metabolic processes of the bacteria, thereby increasing the number of free electrons available to transfer to the electrode.
+B. as the density of the biofilm increases, the series of redox reactions may accelerate independent of the presence of the silver nanoparticles.
+C. silver nanoparticles may allow electrons to bypass the series of redox reactions and transfer directly to the electrode.
+D. electrons may be conducted directly to the electrode before the silver nanoparticles catalyze the redox reactions.
+Answer: C
+

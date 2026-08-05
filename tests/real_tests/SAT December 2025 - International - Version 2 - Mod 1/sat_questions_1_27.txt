@@ -1,0 +1,378 @@
+Question 1:
+[WIC]
+As used in the text, what does the word "surveyed" most nearly mean?
+
+The following text is from Mark Twain's 1876 novel The Adventures of Tom Sawyer. Tom, a child, has been told by his aunt to paint their house's fence.
+Tom appeared on the sidewalk with a bucket of whitewash and a long-handled brush. He __surveyed__ the fence, and all gladness left him and a deep melancholy settled down upon his spirit. Thirty yards of board fence nine feet high.
+
+
+A. Adjusted
+B. Promoted
+C. Organized
+D. Examined
+Answer: D
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Zygomorphic (bilaterally symmetric) flowers remain open and functional on average 1.1 days longer than actinomorphic (radially symmetric) flowers do. Ruby E. Stephens and colleagues claim that this extended period could be ______ the relatively small pool of potential pollinators available to zygomorphic flowers and the greater chance at successful pollination that remaining open affords them.
+
+
+A. attributed to
+B. converted by
+C. magnified by
+D. analogous to
+Answer: A
+
+Question 3:
+[WIC]
+As used in the text, what does the word "accepted" most nearly mean?
+
+The following text is from Charles Dickens's 1861 novel Great Expectations. The narrator is taking a walk near his home on a damp morning.
+On every rail and gate, wet lay clammy, and the marsh mist was so thick, that the wooden finger on the post directing people to our village --- a direction which they never __accepted__, for they never came there --- was invisible to me until I was quite close under it.
+
+
+A. Approved
+B. Altered
+C. Allowed
+D. Followed
+Answer: D
+
+Question 4:
+[WIC]
+As used in the text, what does the word "manifest" most nearly mean?
+
+The following text is adapted from Virginia Woolf’s 1919 novel Night and Day. Katharine is the granddaughter of a celebrated poet.
+[Katharine's] descent from [a celebrated poet] was no surprise to her, but matter for satisfaction, until, as the years wore on, certain drawbacks made themselves very __manifest.__ Perhaps it is a little depressing to inherit not lands but an example of intellectual virtue; perhaps the conclusiveness of a great ancestor is a little discouraging to those who run the risk of comparison with him.
+
+
+A. Intricate
+B. Possible
+C. Particular
+D. Evident
+Answer: D
+
+Question 5:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Mastering 'ajami, a Syrian art of creating intricately painted wood panels, demands a skill set that _______ innate talent: crafting the panels requires not just the ability to draw but also an understanding of traditional techniques, materials, and design elements, necessitating expertise gained through dedicated guidance from experienced artisans.
+
+
+A. restrains
+B. transcends
+C. replicates
+D. characterizes
+Answer: B
+
+Question 6:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+Lennox Brown’s powerful play A Ballet Behind the Bridge was produced in 1972 by the groundbreaking Negro Ensemble Company (NEC). NEC cofounder Robert Hooks, an actor, producer, and activist, had met actor and playwright Douglas Turner Ward while they were performing in a 1960 touring production of Lorraine Hansberry’s play A Raisin in the Sun. __Since NEC’s founding in 1967, its workshops and performances have given Black playwrights, including Brown, a forum for their compelling stories.__
+
+
+A. It explains the circumstances that led to the formation of the theater company discussed in the text.
+B. It emphasizes the ongoing significance of the theater company discussed in the text.
+C. It illustrates the widespread influence of a play discussed earlier in the text.
+D. It provides additional information about a person mentioned in the text.
+Answer: B
+
+Question 7:
+[COE]
+Based on the text, what do Stern and Gerya most likely believe about the development of complex life on exoplanets?
+
+Given the immense scope of space, the search for extraterrestrial life is almost necessarily concentrated on the exoplanets deemed to have the most plausible chance of success -typically, atmosphere-bearing terrestrial planets orbiting within a certain range of their stars (termed the habitable zone). Claiming that Earth experienced a long transition from single-lid to plate tectonics that accelerated the emergence and evolution of complex organisms, researchers Robert J. Stern and Taras V, Gerya hold that consideration of tectonics, an often overlooked factor, could help further narrow the search for advanced extraterrestrial species.
+
+
+A. It is probably more dependent on the presence of plate tectonics than on orbital distance from a host star or the presence of an atmosphere.
+B. It is unlikely unless the transition from single-lid to plate tectonics occurs before the acquisition of a lasting atmosphere.
+C. It is more likely to occur if habitable zone planets with atmospheres transition from single-lid to plate tectonics late in their history than if they transition early in their history.
+D. It is more likely to occur on habitable zone planets with atmospheres and plate tectonics than on otherwise similar planets that lack plate tectonics
+Answer: D
+
+Question 8:
+[COE]
+Which choice most effectively uses data from the table to complete the student’s conclusion?
+
+Average Hours Worked per Person per Year in 1950 and 2017
+
+Calculations may be inexact due to rounding.
+A student in an economics course is examining the decline since 1950 in average hours worked per person per year in various nations due to both increased productivity and the adoption of policies that limit working hours. The student researches how the decline in the United Kingdom compares to that in other countries and finds that ______.
+
+
+A. the percent decrease in hours worked was greater in the United Kingdom than it was in Ireland, Argentina, or Israel.
+B. though the decline in number of hours worked in the United Kingdom was not as great as that in Ireland, it was greater than that in Argentina and Israel.
+C. though the decline in number of hours worked in the United Kingdom was less than that in Ireland and Israel, it was greater than that in Argentina.
+D. while the number of hours worked rose in the United Kingdom between 1950 and 2017, it declined in Ireland, Argentina, and Israel.
+Answer: B
+
+Question 9:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+Minimum and Maximum Depths of Stony Coral Species in Caribbean and Indo-Pacific Waters
+
+A marine biologist is researching four stony coral species in Caribbean and Indo-Pacific waters, focusing on sightings of these species in the shallow zone (less than 30 meters below the surface) and the mesophotic zone (30 to 150 meters below the surface). Consulting the table, she notes that the smallest maximum depth is located in ________.
+
+
+A. Caribbean waters in the shallow zone.
+B. Indo-Pacific waters in the mesophotic zone.
+C. Indo-Pacific waters in the shallow zone.
+D. Caribbean waters in the mesophotic zone.
+Answer: C
+
+Question 10:
+[COE]
+Which quotation from The Man-Made World: Or, Our Androcentric Culture most effectively illustrates the claim?
+
+The Man-Made World: Or, Our Androcentric Culture is a 1911 nonfiction work by Charlotte Perkins Gilman. In the text, the author emphasizes the importance of cultivating individuals rather than comparing them: ______
+
+
+A. "A world full of healthy, happy people, each busily engaged in what [they] most enjoy doing."
+B. "That every child on earth shall have right conditions to make the best growth possible to it, that every citizen, from birth to death, shall have a chance to learn all he or she can [absorb], to develop every power that is in them."
+C. "We do not sadly measure the cabbage-stalk by the corn-stalk, and praise the corn for getting ahead of the cabbage --- nor incite the cabbage to [imitate] the corn. We nourish both, to its best growth --- and are the richer."
+D. "If [the family is the unit of the state]-why not run the state on that basis?"
+Answer: C
+
+Question 11:
+[Structure]
+Which choice best states the main purpose of the text?
+
+In their study of fossils of the extinct arthropod Mollisonia symmetrica, Javier Ortega-Hernández, Sarah Losso, and team reported some obvious indications of M. symmetrica’s nervous system—for example, the animal’s optic nerve. Most intriguingly, they also saw signs of what might be a synganglion, a brain-like nerve mass, in the animal’s head. This is an exciting possibility: without evidence of a synganglion, we can’t tell exactly how M. symmetrica relates to mosquitoes, slipper lobsters, and other arthropods.
+
+
+A. To question whether the fossils the team studied were actually of M. symmetrica
+B. To argue that M. symmetrica may have been more similar to mosquitoes than to slipper lobsters
+C. To discuss a significant feature that may have been found in a study of M. symmetrica fossils
+D. To describe M. symmetrica and the way the animal’s optic nerve functioned
+Answer: C
+
+Question 12:
+[COE]
+Which choice best describes an important purpose of the text?
+
+In a study covering ten years' worth of data, Zander S. Venter et al. analyzed air-quality data from monitoring stations in Germany, the US state of Kentucky, and thousands of other locations throughout Europe and the United States. The team coupled that information with high-resolution aerial images of the locations at corresponding times, allowing them to track changes in vegetation coverage generally as well as specifically in urban locations. The team found that the benefit of green spaces (areas of vegetation) for urban air-pollutant reduction was mediated by both the type of vegetation and its proximity to emission sources.
+
+
+A. To present novel research findings regarding improvements in urban air quality that contradict findings in the larger body of available research
+B. To suggest that the effectiveness of green spaces in improving air quality in one urban location may not be generalizable to other urban locations
+C. To raise questions about a frequently employed strategy for the reduction of air pollution in urban areas
+D. To call for increased scientific attention to the role of green spaces in improving urban air quality
+Answer: B
+
+Question 13:
+[Cross Text]
+Based on the texts, how would the author of Text 2 most likely respond to the information about Wignall and team's study as presented in Text 1?
+
+Text 1
+To discern the ecological role that blackberry plants, or Rubus fruticosus L. aggregate, serve for species of foraging insects, many of which are in decline, Veronica Wignall and team recorded about two thousand insect visits to R. fruticosus (between 11 a.m. and 4 p.m.) during the plant's flowering period. They observed visits from a diverse range of species, including Bombus hortorum and Apis mellifera.
+Text 2
+Researchers' focus on diurnal invertebrate pollinators has resulted in a decided lack of data on moth pollination, but using infrared detection equipment, Max Anderson et al. assessed how diurnal and nocturnal insects contribute to R. fruticosus pollination. They found that although 83% of all insect visits occurred during the day, pollen deposition rates were much higher during moths' nocturnal foraging.
+
+
+A. By agreeing that the study's findings are helpful with the caveat that the study should have included more species of plants besides R. fruticosus
+B. By claiming that the observations by Wignall and team might not include an important category of interactions between invertebrate pollinators and R. fruticosus
+C. By suggesting that Wignall and team's conclusions were undermined because of a failure to clearly distinguish between diurnal and nocturnal pollinator species
+D. By criticizing the study for failing to account for the foraging behavior of vertebrate animals that pollinate R. fruticosus
+Answer: B
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Research such as the 2012 study of mammals by Debra M. Shier and colleagues has shown that noise from human activity, like traffic on a busy highway, has various significant effects on animals, and many governments require studies of the potential noise effects on wildlife before approving highway construction projects. For one of these projects, a group of researchers suggested that, although there are both mammals and amphibians in the area, taking actions to reduce the effects of noise on the mammals will probably protect both types of animals because noise tends to affect mammals more strongly than amphibians. Another group of researchers indicated that, although the effects are usually greater on mammals, addressing only those effects won’t reduce the potential harm to the amphibians in the area because ______.
+
+
+A. the actions to reduce effects on the mammals are significantly more robust than is needed to lessen the effects on the amphibians in the area.
+B. the effects of noise on amphibians have been more thoroughly studied than the effects on mammals have.
+C. the types of actions that are usually taken to lessen the effects of noise on amphibians can sometimes harm mammals.
+D. the species of amphibians in the area experience different negative effects from noise than the species of mammals in the area do.
+Answer: D
+
+Question 15:
+[COE]
+Which quotation from an essay by an architecture historian would best illustrate the student’s claim?
+
+As a style of design and construction, the Brutalist architecture that flourished from the 1950s to the 1970s prioritized the use of industrial materials (particularly concrete) to create stark geometric forms. A student writing a paper on the history of architecture claims that Brutalist architects devised buildings that were visually striking but ultimately inefficient in terms of daily practical use.
+
+
+A. “In the work of some Brutalists, practical concerns outweighed expressive flourishes.”
+B. “With concrete, Brutalists transformed buildings into laboratories of shape and contrast. Libraries, for instance, became testing grounds for concrete curves, towers, spikes, and ramps.”
+C. “Generally, Brutalists resided in one of two camps: those who saw Brutalism as a departure from the past and those who prized continuity with earlier architecture.”
+D. “Daring uses of sharp angles, as a feature of Brutalism, were not among its failings. Confusing walkways, dangerously low ceilings, and hopelessly inept floorplans were.”
+Answer: D
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In the nineteenth century, Elizabeth Cady Stanton and Susan B. Anthony ______ for women’s right to vote in the United States.
+
+
+A. having campaigned
+B. campaigned
+C. campaigning
+D. to campaign
+Answer: B
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+At the Actors Gymnasium in Chicago, Illinois, students can learn the world-famous Meisner technique. ______ by acting teacher Sanford Meisner, this technique trains actors to react naturally to the other performers in a scene.
+
+
+A. Develops
+B. Developed
+C. Develop
+D. Developing
+Answer: B
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+While conducting an interview for her book Latina Authors and Their Muses, editor Mayra Calvani asked Sarah Cortez, author of the memoir Walking Home, what ______ Cortez’s response was Bury Me Deep by Megan Abbott.
+
+
+A. her favorite book was.
+B. it was her favorite book!
+C. was it her favorite book?
+D. what was her favorite book?
+Answer: A
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Dating to around 1500, the Unicorn Tapestries are seven large tapestries depicting a unicorn hunt that hang in The Cloisters, a museum of medieval art in New York City. Attempting to explain the tapestries' symbolism, art historian and former Cloisters head curator Margaret B. ______ that while some have interpreted the tapestries as a Christian allegory, unicorns in that era were typically featured in secular rather than religious contexts.
+
+
+A. Freeman, noting
+B. Freeman noted
+C. Freeman, noted
+D. Freeman, who noted
+Answer: B
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The editors of *Home Ground: A Guide to the American Landscape* turned to Stephen Graham Jones, a novelist, to craft the entry for “hueco,” a term referring to a water-retaining depression in a rock face. For “sassaf,” however, the editors chose the _____ author of *Becoming Earth*.
+
+
+A. poet, Eva Saulitis
+B. poet Eva Saulitis,
+C. poet, Eva Saulitis
+D. poet Eva Saulitis
+Answer: B
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Archived within the storied libraries of Timbuktu, a West African city prominent during the Songhai Empire, is Branching in Jurisprudential Schools, one of the city’s hundreds of thousands of historical manuscripts, each of which ______ researchers insight into Timbuktu’s tenure as a center of trade and education.
+
+
+A. are offering
+B. offer
+C. offers
+D. offering
+Answer: C
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A research team led by Gal Badihi has discovered that chimpanzees communicate through exchanges of gestures occurring at a pace similar to that of human conversations. ______ chimpanzee gesture exchanges have short pauses of about 120 milliseconds between communications, comparable to the 200-millisecond average pause between turns in human speech.
+
+
+A. By contrast,
+B. As a result,
+C. Nevertheless,
+D. Specifically,
+Answer: D
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+When it was built in the nineteenth century, the Eiffel Tower was criticized—even protested—for its unique appearance. ______ the spire-like structure earned not just acceptance but adoration, and its iconic design is now echoed in everything from the Eiffel Tower replica in Voronezh, Russia, to the Copenhagen Zoo Tower in Copenhagen, Denmark.
+
+
+A. Ultimately,
+B. Similarly,
+C. Thus,
+D. For example,
+Answer: A
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Over the past several decades, countries around the world have lowered the minimum voting age for their citizens. In 1971, for instance, the Netherlands changed its minimum voting age from 21 to 18.____ Australia changed its minimum voting age from 21 to 18 in 1973.
+
+
+A. Specifically,
+B. Firstly,
+C. Likewise,
+D. That is,
+Answer: C
+
+Question 25:
+[Synthesis]
+The student wants to contrast the primary function of the logistic growth equation with the primary function of Shannon’s diversity index. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•First proposed in 1838 by Pierre François Verhulst, the logistic growth equation is a nonlinear differential equation that models how a population changes over time as resource limitation forces growth to slow near a carrying capacity.
+•Because the logistic model specifies a deterministic rate of change at each population size, it can be used (given parameters) to generate an explicit trajectory for population size across time.
+•In biodiversity studies, Shannon’s diversity index (adapted from Claude Shannon’s 1948 information-theory framework) is used to quantify the uncertainty in predicting the species identity of an individual randomly drawn from a community.
+•Shannon’s index is calculated from relative abundances (e.g., pi​) using a log-based formula; higher values typically reflect greater richness and/or greater evenness.
+•In dynamical-systems ecology, local stability near an equilibrium can be assessed by linearizing the system and examining the eigenvalues of a Jacobian (community) matrix.
+•Although both biodiversity indices and population-growth equations can be applied to ecological datasets, they address different questions: one summarizes compositional “uncertainty,” while the other specifies a time-evolution rule.
+
+
+A. Unlike Shannon’s diversity index, which determines a population’s carrying capacity from relative abundances, the logistic growth equation is used to quantify uncertainty in a community’s species composition.
+B. The logistic growth equation can generate a deterministic population trajectory through a nonlinear differential equation, whereas Shannon’s diversity index is used to measure the eigenvalues of a community matrix.
+C. Whereas the logistic growth equation specifies how a population changes over time under resource limitation, the function of Shannon’s diversity index is to quantify uncertainty in predicting the species identity of a randomly selected individual.
+D. Formulated in the nineteenth century, the logistic growth equation provides a deterministic model of population change that, unlike Jacobian-based stability analysis, is not used to summarize a community’s richness and evenness.
+Answer: C
+
+Question 26:
+[Synthesis]
+The student wants to summarize the history of Timbuktu's famous manuscripts. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•*Explanation of Khalil's Mukhtasar* is one of hundreds of thousands of famous manuscripts from Timbuktu, a city in the West African country of Mali.
+•Timbuktu was part of the Songhai Empire between the fifteenth and sixteenth centuries.
+•During this period, Timbuktu was a center of knowledge and a major trade hub in the Sahara desert.
+•Many of the manuscripts date from this period.
+•The manuscripts are housed in dozens of private libraries across the city, including the Attaher Mouaz Family Library.
+
+
+A. In the city of Timbuktu, long a major trade hub in the Sahara desert, dozens of private libraries house famous manuscripts, such as Explanation of Khalil's Mukhtasar.
+B. The Attaher Mouaz Family Library houses some of the famous manuscripts of Timbuktu, a city in the Songhai Empire between the fifteenth and sixteenth centuries.
+C. From serving as a major trade hub to housing hundreds of thousands of famous manuscripts, Timbuktu, Mali, has an established history as a center of knowledge.
+D. Timbuktu is home to hundreds of thousands of famous manuscripts, many dating from between the fifteenth and sixteenth centuries, that survive to this day in private libraries across the city.
+Answer: D
+
+Question 27:
+[Synthesis]
+The student wants to provide an example of an epistolary novel. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•So Long a Letter (1981) is an epistolary novel by Senegalese author Mariama Bá.
+•Epistolary novels are novels written primarily as a series of fictional documents
+•These documents can be letters, journal entries, newspaper clippings, and more.
+•So Long a Letter consists primarily of letters.
+•The letters are sent between a widow named Ramatoulaye and her best friend, Aissatou.
+
+
+A. Consisting primarily of letters sent between a widow named Ramatoulaye and her best friend, Aissatou, Mariama Bé’s So Long a Letter is an epistolary novel.
+B. An epistolary novel is a novel written primarily as a series of fictional documents, such as letters, journal entries, or newspaper clippings.
+C. It was Mariama BÁ who published the novel So Long a Letter in 1981
+D. In 1981, Senegalese author Mariama BÁ published a novel of letters sent between a widow named Ramatoulaye and her best friend, Aissatou.
+Answer: A
+

@@ -1,0 +1,259 @@
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Stephaney Smith has worked at NASA’s famed Jet Propulsion Laboratory (JPL), one of the world's leading facilities for robotic space exploration. ____ Smith worked as a hardware quality assurance engineer on the JPL's Mars 2020 Perseverance rover team, which improved upon the 2011 Curiosity rover design by adding a coring drill to the robot that could collect rock samples for later analysis.
+
+
+A. Conversely,
+B. Finally,
+C. Nevertheless,
+D. Specifically,
+Answer: D
+
+Question 122:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+lodine and beryllium are among the elements contained in the salty, concentrated brine that remains after seawater is desalinated. Elements can be extracted from this brine in much the same way that materials are mined from the earth. ______ recovering materials from desalination by-products is known as brine mining.
+
+
+A. Rather,
+B. Fittingly,
+C. Granted,
+D. Next,
+Answer: B
+
+Question 10:
+[Infer]
+Which choice most logically completes the text?
+
+As part of a study, participants were asked to list animals they thought of as "charismatic," which was defined as "attractive, fascinating, or appealing." Researchers compiled the responses into a single list and found that the cheetah and the blue whale both landed in the top twenty. _____ no animal outranked the tiger.
+
+
+A. Still,
+B. As a result,
+C. In other words,
+D. For example,
+Answer: A
+
+Question 83:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Researchers Elena García, Martin Schmidt, and Kiran Desai note that although historians have historically preferred archival sources, recent developments show a growing shift toward digital databases. _____ historians are opting to access online historical archives—a change reflected in the rising number of digital citations in historical scholarship.
+
+
+A. Likewise,
+B. Consequently,
+C. Additionally,
+D. Increasingly,
+Answer: D
+
+Question 35:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Though Middle English was widely spoken in fourteenth-century England, the English language was rarely employed in literature until poet Geoffrey Chaucer pioneered its literary use. ______ his manuscripts contain the first documented uses of over 2,000 English words—like the word “conspiracy” in his 1386 poem “The Monk’s Tale”—which led a contemporary to dub him “the first finder of our fair language.”
+
+
+A. Besides,
+B. However,
+C. On the contrary,
+D. In fact,
+Answer: D
+
+Question 129:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+For several centuries after the birth of opera in sixteenth-century Florence, Italian remained the default language in which most opera scores were written. _________ opera singers today, such as the mezzo-soprano J'nai Bridges, encounter a wide range of Italian terms—from con amore (with love) to moderato (at a moderate tempo)—when following many eighteenth-century opera scores.
+
+
+A. Consequently,
+B. However,
+C. Lastly,
+D. Granted,
+Answer: A
+
+Question 125:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In a recent analysis of US newspapers from 1903, researchers applied a contrastive bi-encoder model to cluster articles by content, assigning similar mathematical vectors to articles with related topics and dissimilar vectors to those with unrelated topics. ______ the researchers determined that the largest of these clusters consisted of articles about the Panama Canal Treaty—making it the most widely covered news story of 1903.
+
+
+A. For example,
+B. Ultimately,
+C. That said,
+D. In other words,
+Answer: B
+
+Question 48:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The eruption of Rusty Geyser in Yellowstone National Park is caused by a sequence of events. First, water seeps down through narrow channels in the bedrock. ______ magma heats the water and turns it into steam. Finally, that steam builds up enough pressure in the narrow channels to force the water above it to burst out of the ground.
+
+
+A. Similarly,
+B. On the contrary,
+C. First of all,
+D. Next,
+Answer: D
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Ecologists, such as Gerardo R. Camilo, use trophic pyramids to illustrate the food chain within a given ecosystem. At a typical pyramid's base are primary producers, like phytoplankton, followed by herbivores at the second trophic level, then omnivores and carnivores at the third. ____ at the fourth, highest trophic level are apex predators, like sharks, that feed on the animals below.
+
+
+A. In fact,
+B. Besides,
+C. For example,
+D. Finally,
+Answer: D
+
+Question 110:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Many English adjectives share a linguistic origin with their associated nouns, like the adjective “monetary” and the noun “money,” both of which come from the Latin “monetarius.” _____ some adjectives do not share an origin with their associated nouns. For example, the adjective “bovine” ultimately comes from the Latin “bos,” while its associated noun, “cow,” comes from the Old English “cu.”
+
+
+A. Subsequently,
+B. For this reason,
+C. Nevertheless,
+D. Specifically,
+Answer: C
+
+Question 82:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Genetive Yang has worked at NASA’s famed Jet Propulsion Laboratory (JPL), one of the world's leading facilities for robotic space exploration. _____ Yang worked as an uplink lead on the JPL's Mars 2020 Perseverance rover team, which improved upon the 2011 Curiosity Rover design by adding a coring drill to the robot that could collect rock samples for later analysis
+
+
+A. Specifically,
+B. Nevertheless,
+C. Conversely,
+D. Finally,
+Answer: A
+
+Question 117:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In the 1880s, inventor Lewis Latimer improved upon Thomas Edison's design for the electric light bulb. _____ Latimer made the light bulb more durable by placing cardboard around its carbon filament. With this innovation, Latimer became the first Black inventor to contribute to the electrification of the world.
+
+
+A. Yet,
+B. Despite,
+C. However,
+D. Specifically,
+Answer: D
+
+Question 155:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+While some researchers have identified the planet Kepler-452b as potentially habitable, it's unlikely that humanity will be able to take advantage of its favorable conditions anytime soon—it's 1,799 light years away. ______ humanity must first focus on making planets within our solar system more habitable.
+
+
+A. For example,
+B. Next,
+C. Instead,
+D. Likewise,
+Answer: C
+
+Question 114:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The total solar eclipse of June 16, 345 CE, was the ninth-longest total eclipse before the Dark Ages—7 minutes, 17 seconds long. Another memorable solar eclipse occurred on October 2, 480 BCE, but unlike the 345 CE eclipse, the 480 BCE eclipse was annular. ______ the Moon didn’t cover the Sun completely, instead creating an annulus, or “ring of fire.”
+
+
+A. That is
+B. Nonetheless
+C. Meanwhile
+D. For example
+Answer: A
+
+Question 126:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Cornelia Konrads is a German sculptor who creates art that seems to be part of its surroundings. Her sculpture entitled the match is built between statues at a park in France. ______ appearing as large vases being tossed between statues at the park, it is cleverly placed into its environment, serving as an example of Konrads's approach.
+
+
+A. For instance,
+B. Later,
+C. However,
+D. There,
+Answer: D
+
+Question 100:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As volcanologists like Tamsin Mather are apt to make clear, not all volcanoes are the same. Ischia in Italy, for example, is a complex volcano, a mixed landform consisting of related volcanic centers and their associated lava flows and pyroclastic rock. Mount Vsevidof in Alaska, ______ is a stratovolcano, a conical volcano built up by many layers of hardened lava and tephra.
+
+
+A. in any case,
+B. in contrast,
+C. in fact,
+D. in conclusion,
+Answer: B
+
+Question 113:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Textile artist Amber Joy Greenidge-Sabral wanted to avoid using harsh synthetic dyes that could be damaging to the environment. ______ she began experimenting with more environmentally friendly natural dye methods, using organic materials like Texas paintbrush and madder root for their natural brown and red colors.
+
+
+A. With this in mind,
+B. To sum up,
+C. Nevertheless,
+D. In actuality,
+Answer: A
+
+Question 111:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+John Thomson employed the pseudonym “Gracchus”—the name of an ancient Roman politician—in political essays he wrote in 1795, a choice that accomplished far more than simply concealing his authorship. ____ it wasn’t an arbitrary pen name but rather a complex rhetorical strategy through which Thomson aligned his political views with the venerated republican ideals of the ancient world, thereby bolstering the authority of his writing.
+
+
+A. Indeed,
+B. Conversely,
+C. In addition,
+D. However,
+Answer: A
+
+Question 99:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Theater industry veteran Robert Tang admits that his ambitions werent’ very lofty when he created the Asian American Theater Revue, a website that documents information about Asian American Theaters like Second Generation Production in New York City, New York. “Everyone has a site, so I have to have one, too.” _______his site has become an essential resource for industry professionals looking to learn more about Asian American plays, playwrights, theater festivals, and more.
+
+
+A. Nevertheless,
+B. Therefore,
+C. Furthermore,
+D. Next,
+Answer: A
+
+Question 30:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Working together with the Navajo Nation Department of Water Resources, Dr. Lani Tsinnajinnie analyzed data about snowpack levels in the Chuska Mountains. She found that the snowpack (the amount of snow on the ground) was deepest in early March at lower elevations. At higher elevations, ______ the snowpack was deepest in mid-March.
+
+
+A. in other words,
+B. for instance,
+C. on the other hand,
+D. in summary,
+Answer: C

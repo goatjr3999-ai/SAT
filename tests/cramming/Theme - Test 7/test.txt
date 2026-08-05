@@ -1,0 +1,250 @@
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+Norway, which, according to international indices, has relatively strong democratic institutions and low intranational income inequality, experienced an inflation rate of 3.55% in 2016, whereas Cameroon, which shows the opposite pattern on such indices, had an inflation rate of only 0.86% that year. Such comparisons have engendered speculation that by diluting control over the economy, democratic institutions inhibit states’ ability to counteract inflationary pressures. To test this possibility systematically, Raj Desai et al. examined democratic strength, intranational inequality, and inflation in more than 100 countries, finding that democratic strength, if associated with inequality, restrains inflationary pressures, suggesting that ____
+
+
+A. the factors that contributed to Norway’s elevated inflation rate relative to Cameroon’s have less to do with the countries’ political institutions than with the countries’ levels of income inequality.
+B. speculations about the relative inability of democratic institutions to counteract inflation are based on measures that tend to exaggerate the levels of inflation in strongly democratic countries such as Norway.
+C. it would be a mistake to treat the relative inflation rates of Norway and Cameroon as indicative of an inherent shortcoming in democratic institutions with regard to control over inflation.
+D. the difference between Norway and Cameroon with regard to democratic institution strength may have been greater in 2016 than was represented by international indices.
+Answer: C
+
+Question 2:
+[Infer]
+Which choice most logically completes the text?
+
+Austria, which, according to international indices, has relatively strong democratic institutions and low international income inequality, experienced an inflation rate of 2.08% in 2017, whereas Cameroon, which shows the opposite pattern on such indices, had an inflation rate of only 0.64% that year. Such a comparison may seem consistent with the theoretical critique that by diluting control over the economy, democratic institutions inhibit states' ability to counteract inflationary pressures, but when Raj Desai et al. examined democratic strength, international inequality, and inflation in more than 100 countries, they found that democratic strength, if associated with low inequality, restrains inflationary pressures, which would suggest that _____.
+
+
+A. factors other than Austria's political structure contributed to the country's inflation rate exceeding that of Cameroon in 2017.
+B. the 2017 difference between Austria's inflation rate and Cameroon's inflation rate is primarily but not exclusively attributable to the different levels of international income inequality in the two countries.
+C. international indices may have underestimated the strength of Austria's democratic institutions relative to Cameroon's.
+D. inflation in Austria in 2017 would have been higher if Austria's government had less control over the economy.
+Answer: A
+
+Question 3:
+[COE]
+Based on the text, what is Camila’s primary reaction to the feedback she receives from Juan Ramón Jiménez?
+
+The following text is adapted from Julia Alvarez’s 2000 novel In the Name of Salomé. Camila is the daughter of a famous poet, Salomé, and also writes her own poetry. Max is her brother.
+She has already sent them to Max, who has written back saying that they are “fabulous.” He wants to publish them in the Dominican papers with the headline, SALOMÉ LIVES AGAIN, but she has begged him not to, for she is not yet sure of them. She has also sent a handful to an old family friend, the poet Juan Ramón Jiménez, and he has been more circumspect. “Fine line,” he has written here and there, but the pages are riddled with tiny, penciled suggestions. She knows from her teaching that this is not a good sign, the use of pencil intended to soften the indignity of the corrections.
+
+
+A. She is grateful for Juan Ramón Jiménez’s reassurance about her work even though he has been very direct in his criticism of it.
+B. She is unsure about some of the changes to her poems that Juan Ramón Jiménez has suggested, and she wishes he had been more complimentary of them.
+C. She is familiar with the approach Juan Ramón Jiménez has taken and is therefore aware that it is meant to be a sensitive way of indicating the faults in her work.
+D. She is delighted that an accomplished poet like Juan Ramón Jiménez would praise certain lines of her poetry.
+Answer: C
+
+Question 4:
+[COE]
+Based on the text, what most likely motivates Tía Ana's behavior during Salomé's salon?
+
+The following text is from Julia Alvarez's 2000 novel In the Name of Salomé. Salomé, a poet, is hosting guests in the front parlor of her family home, and Ramona is her sister. A salon is a social gathering for the exploration of intellectual ideas.
+It was evening when the two men got up to leave. Tía Ana had already come into the room several times to see if these guests had departed yet. The front parlor had always been her special province, as she used it for her little school. Now, every evening, it turned into Salomé's salon, as Ramona called it, and it was never in order for its transformation back to a classroom the following morning.
+
+
+A. She finds the guests to be dull and is eager to find a way to leave the salon.
+B. She is eager to tell the guests about the new school she is opening and anticipates their approval of her plans.
+C. She is anxious for the gathering to disperse so that she can ready the space for her own needs.
+D. She is frustrated because she needs assistance elsewhere in the house, but Salomé is unavailable while entertaining the guests.
+Answer: C
+
+Question 5:
+[Details]
+Which choice best describes the function of the reference to the parlor as Tía Ana’s “special province”?
+
+The following text is from Julia Alvarez’s 2000 novel In the Name of Salomé. Salomé, a poet, is hosting guests in the front parlor of her family home, and Ramona is her sister. A salon is a social gathering for the exploration of intellectual ideas.
+It was evening when the two men got up to leave. Tía Ana had already come into the room several times to see if these guests had departed yet. The front parlor had always been her special province, as she used it for her little school. Now, every evening, it turned into Salomé’s salon, as Ramona called it, and it was never in order for its transformation back to a classroom the following morning.
+
+
+A. It conveys that Tía Ana feels honored that her classroom is used for important events.
+B. It characterizes the room as a place where Tía Ana can go to escape social pressures.
+C. It reveals that Tía Ana feels as if Salomé has betrayed her trust by allowing guests into a space she considers her own.
+D. It introduces an idea that helps explain Tía Ana’s apparent eagerness for Salomé’s guests to leave the space.
+Answer: D
+
+Question 6:
+[COE]
+Based on the text, why does Miguel accompany his brother to the sisters’ house one day?
+
+The following text is from Julia Alvarez’s 2000 novel In the Name of Salomé. The narrator and her sister, daughters of a famous poet, are being tutored by Alejandro Román.
+Our tutor, Alejandro Román, brought his younger brother, Miguel, to class one day. By now I was eighteen and had learned everything Alejandro had to teach me, so I was glad for a new face. Miguel was an aspiring poet, and he had heard from his brother that the Ureña girls were none other than the daughters of Nicolás Ureña, and they were smart as clockwork. Miguel was hoping not only to meet us but to make the acquaintance of the poet himself at Mamá’s house.
+
+
+A. Miguel has learned all his brother can teach him and now desires to be taught by the sisters.
+B. Miguel has not received formal instruction in poetry and wants to ask the sisters’ famous father to be his mentor.
+C. Miguel wants to recite his poems to the sisters and inquire about their perspectives on his work.
+D. Miguel anticipates having the opportunity to be introduced to both the sisters and their father.
+Answer: D
+
+Question 7:
+[COE]
+Which quotation from an interview with a costume designer would most effectively support the student’s claim?
+
+The 1958 production of Maybe Tuesday was the first Broadway show for which Ann Roth was credited as a costume designer. Hoffman was among the Broadway costume designers interviewed by Sara Jablon-Roberts and Eulanda A. Sanders for their study of historical accuracy in costume design for shows with a historical setting. They found that even designers who value historical accuracy will often include contemporary design elements that don’t fit with the historical period. In a research paper about theatrical costume design, a student argues that costume designers for modern productions of Shakespeare’s A Midsummer Night’s Dream (set in ancient Greece) sometimes include such elements unintentionally.
+
+
+A. “Total historical accuracy in costume design isn’t achievable because our habits and tastes as designers will always be influenced by modern styles.”
+B. “Costumes must always reflect the appropriate historical period.”
+C. “I tend to pay careful attention to the accessories, like gloves, hats and jewelry, in my work.”
+D. “A truly historically accurate costume will sometimes make the character look comically strange to a modern audience.”
+Answer: A
+
+Question 8:
+[COE]
+Which quotation from an interview with a costume designer would most effectively support the student’s claim?
+
+The 2000 production of The Green Bird was the first Broadway show for which Constance Hoffman was credited as a costume designer. Hoffman was among the Broadway costume designers interviewed by Sara Jablon-Roberts and Eulanda A. Sanders for their study of historical accuracy in costume design for shows with a historical setting. They found that even designers who value historical accuracy will often include contemporary design elements that don’t fit with the historical period. In a research paper about theatrical costume design, a student argues that costume designers for modern productions of Shakespeare’s A Midsummer Night’s Dream (set in ancient Greece) sometimes include such elements unintentionally.
+
+
+A. “I tend to pay careful attention to a character’s accessories like gloves, hats and jackets. These elements help communicate information about how this person would have fit into society at the time.”
+B. “I aim to create a clear sense of the character and the world they inhabit. Sometimes this means adhering to the historical period’s style, but frequently, as in stagings of A Midsummer Night’s Dream, some flexibility is required to communicate an idea to the audience.”
+C. “Costumes must always reflect the correct historical period. Too often, I’ve seen costumes that borrow from a wide span of periods, resulting in a production with a confusing visual style.”
+D. “In the 1980s I was costuming for a production of A Midsummer Night’s Dream. Even though I focused on using the correct materials and techniques for the play’s period in history, when I look back I can clearly see the influence of 1980s fashion in my designs.”
+Answer: D
+
+Question 9:
+[COE]
+Which quotation from an interview with a costume designer would most effectively support the student’s claim?
+
+Romeo and Juliet was a 1968 film directed by Franco Zeffirelli, for which Danilo Donati created the costume designs. Donati was among the Hollywood costume designers interviewed by Lucy M. FitzGerald and Gwendolyn L. Brown for a study on the influence of the specific era in costume design for period movies. They discovered that designers who appreciate the authenticity of the era often incorporated modern design aspects that aren’t coherent with the historical period. In a thesis paper about film costume design, a student asserts that costume designers for contemporary adaptations of Shakespeare’s Hamlet (set in the kingdom of Denmark during the late medieval period) unintentionally incorporate such elements at times.
+
+
+A. “I typically focus on components like cloaks, boots, and headpieces that a character wears. These pieces help convey information about the character’s societal status during that era.”
+B. “My goal is to manifest a vivid representation of the character and the universe they inhabit. This sometimes means staying true to the style of the historical era, but often, as in adaptations of Hamlet, some leniency is needed to convey a concept to the audience.”
+C. “Costumes should always mirror the appropriate historical period. I have seen costumes that draw from a range of periods too many times, resulting in a film with a visually puzzling style.”
+D. “During the 1990s, I was in charge of costuming for a production of Hamlet. Even though I tried to use materials and techniques authentic to the play’s historical setting, when I look back, I unmistakably see the influence of 1990s fashion in my designs.”
+Answer: D
+
+Question 10:
+[Structure]
+Which choice best states the main idea of the text?
+
+Master and Commander, first published in 1969, is a novel in Patrick O’Brian’s Aubrey/Maturin series, which includes twenty completed books. Some critics have found fault with the abrupt endings of Master and Commander and other books in the series, saying that they do not finish conclusively but arbitrarily stop. Other critics, however, argue that the books should not be thought of as discrete texts with traditional beginnings and endings but as a single incredibly long work, similar to other multivolume stories, such as John Galsworthy’s The Forsyte Saga.
+
+
+A. The unusual structure that O’Brian uses for Master and Commander makes it one of his most intricate books.
+B. Critics have differing views regarding the efficacy of the structures of the novels in the Aubrey/Maturin series.
+C. Some critics think the Aubrey/Maturin series should have the literary renown of The Forsyte Saga, while others disagree.
+D. Many critics judge the Aubrey/Maturin novels to be remarkably entertaining despite flaws in the novels’ structures.
+Answer: B
+
+Question 11:
+[Structure]
+Which choice best states the main idea of the text?
+
+The Far Side of the World, first published in 1984, is a novel in Patrick O’Brian’s Aubrey/Maturin series, which includes twenty books plus an unfinished fragment of a twenty-first. Like the rest of the books in the series, The Far Side of the World has a rather abrupt ending, but the following book, The Reverse of the Medal, picks up neatly where The Far Side of the World leaves off. Thus, the sudden ending is only an issue if one considers the books as independent texts — the Aubrey/Maturin series is best thought of as a single incredibly long work, similar to other multivolume stories, such as John Galsworthy’s The Forsyte Saga.
+
+
+A. It is unfair that the Aubrey/Maturin series does not have the critical reputation of The Forsyte Saga, which has a similar structure.
+B. The Far Side of the World and The Reverse of the Medal are of the most complex of Patrick O’Brian’s novels due in part to their unconventional structures.
+C. The structure of each of the novels of the Aubrey/Maturin series suggests that the series should be considered a single continuous story.
+D. Many readers find the Aubrey/Maturin novels to be remarkably entertaining despite flaws in the novels’ structures.
+Answer: C
+
+Question 12:
+[Structure]
+Which choice best states the main idea of the text?
+
+The Yellow Admiral, first published in 1996, is a novel in Patrick O’Brian’s Aubrey/Maturin series, which includes twenty books plus an unfinished fragment of a twenty-first. Like the rest of the books in the series, The Yellow Admiral has a rather abrupt ending, but the following book, The Hundred Days, picks up neatly where The Yellow Admiral leaves off. Thus, the sudden ending is only an issue if one considers the books as independent texts—the Aubrey/Maturin series is best thought of as a single incredibly long work, similar to other multivolume stories, such as Marcel Proust’s In Search of Lost Time.
+
+
+A. Over time, the Aubrey/Maturin series has acquired the same eminence among critics as works like In Search of Lost Time that have similar structures.
+B. A certain understanding of the structures of the novels in the Aubrey/Maturin series is helpful if one wishes to appreciate the series.
+C. Many readers find the Aubrey/Maturin novels to be remarkably entertaining despite flaws in the novels’ structures.
+D. The Yellow Admiral and The Hundred Days are two of the most complex of O’Brian’s novels due in part to their unconventional structures.
+Answer: B
+
+Question 13:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Treason's Harbour, first published in 1983, is a novel in Patrick O'Brian's Aubrey/Maturin series, which includes twenty completed books. Some critics have found fault with the abrupt endings of Treason's Harbour and other books in the series, saying that they do not finish conclusively but arbitrarily stop. But other critics argue that the books should not be thought of as discrete texts with traditional beginnings and endings but as a single incredibly long work, similar to other multivolume stories, such as Marcel Proust's In Search of Lost Time.
+
+
+A. To explain why many critics find the Aubrey/Maturin novels to be remarkably entertaining despite flaws in the novels' structures
+B. To present a reason the unusual structure that O'Brian uses for Treason's Harbour makes it one of its most complex books
+C. To describe a characteristic of the Aubrey/Maturin novels and offer two differing viewpoints on this characteristic
+D. To argue that the Aubrey/Maturin series should have the literary renown of In Search of Lost Time
+Answer: C
+
+Question 14:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Master and Commander, first published in 1969, is a novel in Patrick O’Brian’s Aubrey/Maturin series, which includes twenty books plus an unfinished fragment of a twenty-first. __Some critics have found fault with the abrupt endings of Master and Commander and other books in the series, saying that they do not finish conclusively but arbitrarily stop.__ But other critics argue that the books should not be thought of as discrete texts with traditional beginnings and endings but as a single incredibly long work, similar to other multivolume stories, such as John Galsworthy’s The Forsyte Saga.
+
+
+A. It presents a reason most critics think the Aubrey/Maturin series should not have the literary renown of similar works like The Forsyte Saga.
+B. It explains why many critics find the Aubrey/Maturin novels to be entertaining despite flaws in the novels’ structures.
+C. It describes a characteristic of the Aubrey/Maturin novels and summarizes a negative assessment of it.
+D. It argues that the unusual structure that O’Brian uses for Master and Commander makes it one of his least entertaining books.
+Answer: C
+
+Question 15:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+HMS Surprise, first published in 1973, is a novel in Patrick O’Brian’s Aubrey/Maturin series, which includes twenty completed books. Some critics have found fault with the abrupt endings of HMS Surprise and other books in the series, saying that they do not finish conclusively but arbitrarily stop. __But other critics argue that the books should not be thought of as discrete texts with traditional beginnings and endings but as a single incredibly long work,__ similar to other multivolume stories, such as John Galsworthy’s The Forsyte Saga.
+
+
+A. It presents a reason most critics think the Aubrey/Maturin series should have the literary renown of similar works like The Forsyte Saga.
+B. It summarizes a positive assessment of a particular characteristic of the Aubrey/Maturin novels.
+C. It explains why many critics find the Aubrey/Maturin novels to be entertaining despite flaws in the novels’ structures.
+D. It argues that the unusual structure that O’Brian uses for HMS Surprise makes it one of his most entertaining books.
+Answer: B
+
+Question 16:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+The Far Side of the World, first published in 1984, is a novel in Patrick O’Brian’s Aubrey/Maturin series, which includes twenty books plus an unfinished fragment of a twenty-first. __Like the rest of the books in the series, The Far Side of the World has a rather abrupt ending, but the following book, The Reverse of the Medal, picks up neatly where The Far Side of the World leaves off.__ Thus, the sudden ending is only an issue if one considers the books as independent texts—the Aubrey/Maturin series is best thought of as a single incredibly long work, similar to other multivolume stories, such as John Galsworthy’s The Forsyte Saga.
+
+
+A. It offers a detail that helps explain why it is not necessarily the case that a certain characteristic of The Far Side of the World should be considered a flaw.
+B. It presents a reason The Far Side of the World and The Reverse of the Medal are considered to be two of O’Brian’s most engaging novels.
+C. It argues that the Aubrey/Maturin series deserves the critical renown of works like The Forsyte Saga.
+D. It demonstrates that those readers who most enjoy reading The Reverse of the Medal will be those who have just finished reading The Far Side of the World.
+Answer: A
+
+Question 17:
+[Infer]
+Which choice most logically completes the text?
+
+Although the language of the Olmec civilization, which flourished in southern Mexico circa 1500 BCE–400 BCE, hasn’t been identified, it likely belonged to the Mixe-Zoquean family, a group of related languages whose present-day representatives are spoken in an area corresponding to ancient Olmec sites. The family can be subdivided into a Zoque branch, which includes the modern language Chiapaneco Zoque, and a Mixe branch, which includes the modern language North Central Mixe. Many words in the Mayan languages—languages spoken in the region but otherwise unrelated to the Mixe-Zoquean family—are Mixe-Zoquean in origin and were likely borrowed during the period when the Olmecs dominated the entire region. Tellingly, these words derive from the Zoque branch, suggesting that ___.
+
+
+A. the language of the Olmec civilization was likely the founding language of the family that includes Chiapaneco Zoque and North Central Mixe.
+B. Chiapaneco Zoque and other languages in the Zoque branch weren’t supplanted by languages in the Mixe branch until after 400 BCE.
+C. Chiapaneco Zoque is more likely to have evolved from the language of the Olmec civilization than North Central Mixe is.
+D. the language of the Olmec civilization made contributions not only to the vocabulary of the Mayan languages but also to the vocabulary of North Central Mixe and other languages in the Mixe branch.
+Answer: C
+
+Question 18:
+[COE]
+According to the text, what do some historians suggest about Maya civilization?
+
+The ancient writing system used in the Maya kingdoms of southern Mexico and Central America had a symbol for the number zero. The earliest known example of the symbol dates to more than 2,000 years ago. At that time, almost none of the writing systems elsewhere in the world possessed a zero symbol. And the use of zero in Mexico and Central America may be even more ancient. Some historians suggest that Maya mathematicians inherited it from the Olmec civilization, which flourished in the region 2,400-3,600 years ago.
+
+
+A. Maya civilization acquired the use of zero from the Olmec civilization.
+B. Maya civilization respected its historians more than it respected its mathematicians.
+C. Maya civilization was highly secretive about its intellectual achievements.
+D. Maya civilization tried to introduce its writing system to other civilizations.
+Answer: A
+
+Question 19:
+[Infer]
+Which choice most logically completes the text?
+
+Although the language of the Olmec civilization, which flourished in southern Mexico circa 1500 BCE–400 BCE, hasn’t been identified, it likely belonged to the Mixe-Zoquean family, a group of related languages whose present-day representatives are spoken in an area corresponding to ancient Olmec sites. The family can be subdivided into a Zoque branch, which includes Francisco León Zoque, and a Mixe branch, which includes North Central Mixe. Many words in the Mayan languages—languages spoken in the region but otherwise unrelated to the Mixe-Zoquean family—are Mixe-Zoquean in origin and were likely borrowed during the period when the Olmecs dominated the entire area. Tellingly, all those words derive from the Zoque branch, suggesting that _____.
+
+
+A. North Central Mixe and the other languages of the Mixe branch likely supplanted the languages of the Zoque branch sometime before 1500 BCE.
+B. the language of the Olmec civilization was likely the founding language of the family that includes Mayan languages.
+C. the language of the Olmec civilization contributed words not only to Mayan languages but also to other languages in the Mixe-Zoquean family.
+D. the Mixe-Zoquean family had already diverged into the Mixe and Zoque branches by the time the Olmecs became the prevailing power in the region.
+Answer: D

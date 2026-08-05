@@ -1,0 +1,256 @@
+Question 1:
+[Synthesis]
+The student wants to compare the hardness of talc and orthoclase. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.
+• Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.
+• Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.
+• The mineral talc has a Mohs scale number of 1.
+• The mineral calcite has a Mohs scale number of 3.
+• The mineral orthoclase has a Mohs scale number of 6.
+
+A. The Mohs scale of mineral hardness can be used to order calcite, talc, and orthoclase by their ability to scratch other minerals.
+B. Orthoclase can leave visible scratches on talc, which means that orthoclase is harder than talc.
+C. Orthoclase can leave visible scratches on calcite, which is why orthoclase has a higher number than calcite on the Mohs scale of mineral hardness.
+D. A mineral with a Mohs number of 3, like calcite, is harder than one with a Mohs number of 1, like talc.
+Answer: B
+
+Question 2:
+[COE]
+Which choice most effectively uses information from the given sentences to present the study’s findings to an audience already familiar with the concept of seedling emergence?
+
+While researching a topic, a student has taken the following notes:
+• In a 2012 study, Eckstein et al. tested the effect of plant litter on seedling emergence in a grassland setting.
+• The test site was a dry grassland in a temperate midlatitude climate in Germany.
+• The researchers found that in these environmental conditions the presence of plant litter had a positive effect on seedling emergence.
+• Seedling emergence is when a seedling sprouts above ground and begins photosynthesis.
+
+A. The findings of Eckstein et al.’s study were published in 2012.
+B. The effect of plant litter, which includes dead leaves and other plant matter, on seedling emergence has been the subject of scientific study.
+C. Eckstein et al. found that in a dry grassland and a temperate midlatitude climate the presence of plant litter had a positive effect on seedling emergence.
+D. In a 2012 study by Eckstein et al., plant litter was found to have a positive effect on seedling emergence, which is when a seedling sprouts and begins photosynthesis.
+Answer: C
+
+Question 3:
+[Synthesis]
+The student wants to emphasize a similarity between mass fraction and mole fraction. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The ratio of the total mass of an element to the combined mass of all elements in a given environment is called the mass fraction.
+• The mass fraction of chromium (Cr) on Earth is 4,700 parts per million (ppm).
+• This indicates that the relative abundance of chromium on Earth is 0.47%.
+• The ratio of the total number of atoms of an element to the total number of all atoms in a given environment is called the mole fraction.
+• The mole fraction of chromium on Earth is 2,300,000 parts per billion (ppb).
+• This indicates that the relative abundance of chromium on Earth is 0.23%.
+
+A. On Earth, the mass fraction of chromium is 4,700 ppm, or 0.47%, and the mole fraction is 2,300,000 ppb, or 0.23%.
+B. While mass fraction is a measure of relative mass and mole fraction is a measure of relative atom count, both indicate the relative abundance of elements on Earth.
+C. Both mass and mole fraction express the relative abundance of chromium on Earth as a ratio of the total mass of chromium to the combined mass of all atoms.
+D. The mass fraction of chromium indicates its relative mass; in addition, the element’s mole fraction indicates the relative number of chromium atoms.
+Answer: B
+
+Question 4:
+[Synthesis]
+The student wants to emphasize the size of Tianguistengo. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+• Tianguistengo is a municipality in the state of Hidalgo, Mexico.
+• Municipalities are governmental regions responsible for providing many public services to their residents.
+• One service they provide is traffic control.
+• Tianguistengo covers an area of roughly 256 km².
+• Hidalgo is divided into 84 municipalities.
+
+A. Tianguistengo is one of 84 governmental regions, known as municipalities, across Hidalgo.
+B. Providing traffic control is just one example of the public services that municipalities provide.
+C. Tianguistengo—a governmental region in the state of Hidalgo, Mexico—provides many public services to its residents.
+D. The municipality of Tianguistengo in Hidalgo, Mexico, covers an area of roughly 256 km².
+Answer: D
+
+Question 5:
+[Synthesis]
+The student wants to compare Fodor’s hypothesis with Carruthers’s. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Modularity of mind is the notion that the mind is at least partly composed of innate neural structures (modules) that perform fast, necessary tasks.
+• 1983: cognitive scientist Jerry A. Fodor hypothesized that low-level cognitive systems (e.g., perception, language) are modular.
+• In Fodorian modularity, high-level systems (e.g., reasoning) are not modular.
+• 2003: cognitive scientist Peter Carruthers proposed the massive modularity hypothesis (MMH).
+• MMH expands modularity to include all cognitive systems.
+
+A. In considering some but not all cognitive systems modular, Fodorian modularity is not as expansive in its definition of modularity as MMH is.
+B. Following Fodor’s 1983 hypothesis, Carruthers proposed that modularity of mind includes all cognitive systems.
+C. The hypotheses of Fodor and Carruthers differ in whether they consider low-level cognitive systems, such as perception and language, modular.
+D. In 2003, Carruthers proposed the massive modularity hypothesis, disagreeing with Fodor’s earlier hypothesis that the mind is composed of innate neural structures.
+Answer: A
+
+Question 6:
+[Synthesis]
+The student wants to explain Cummings and Knapp’s contribution to Lullfitz’s study. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Australian ecologist Alison Lullfitz studied the distribution of *Platysace deflexa* (youlk), a small shrub with edible tubers.
+• Lullfitz found that youlk plants gathered at sites across southwest Australia had very similar DNA despite differences in soil conditions.
+• Lullfitz hypothesized that humans had transported the plant throughout the region.
+• Lullfitz consulted Shandell Cummings and Lynette Knapp, members of the area’s Noongar Aboriginal group.
+• Cummings and Knapp confirmed that their ancestors carried youlk when traveling across the region.
+
+A. Lullfitz found that Cummings and Knapp had information relevant to her study of Platysace deflexa’s distribution.
+B. Cummings and Knapp confirmed that DNA sequences from the Platysace deflexa plants Lullfitz had gathered were in fact very similar.
+C. Lullfitz consulted Cummings and Knapp, members of the Noongar Aboriginal group, who assisted with her study of Platysace deflexa, a small shrub with edible tubers.
+D. By indicating that their ancestors transported Platysace deflexa, Cummings and Knapp provided information that supported Lullfitz’s hypothesis.
+Answer: D
+
+Question 7:
+[Synthesis]
+The student wants to present findings from the study. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Most of the plant and bird species in Oahu, Hawaii, are non-native.
+• In a 2019 study, researchers wanted to know what role non-native birds play in dispersing plant seeds in Oahu.
+• Researchers catalogued plant seeds found in fecal samples from non-native birds.
+• Pipturus albidus, a flowering shrub, was one of fifteen native species catalogued.
+• Hedychium gardnerianum, an herbaceous vine, was one of twenty-nine non-native species catalogued.
+• Researchers concluded that non-native birds play a vital role in dispersing the seeds of native and non-native plants.
+
+A. In a 2019 study, researchers found seeds from Pipturus albidus and Hedychium gardnerianum in the feces of non-native birds.
+B. Most plant species found in Oahu, Hawaii, like Hedychium gardnerianum, are non-native.
+C. To determine the role non-native birds play in plant seed dispersal, a 2019 study examined seeds found in bird fecal samples in Oahu, Hawaii.
+D. A 2019 study in Oahu, Hawaii, included the plant Pipturus albidus in its exploration of the role non-native birds play in seed dispersal.
+Answer: A
+
+Question 8:
+[Synthesis]
+The student wants to compare the curviness of the two rivers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• A river’s stream length is the length of a line that follows along the river path.
+• A river’s valley length is the length of a straight line drawn from the beginning of the river to the end.
+• The river’s curviness, or sinuosity, is the ratio of the river’s stream length to its valley length.
+• Low-sinuosity rivers have a stream length 1–1.5 times longer than their valley length, and high-sinuosity rivers have a stream length 1.5 or more times longer than their valley length.
+• The Embarras River in Canada has high sinuosity.
+• The Luni River in India has low sinuosity.
+
+A. The high-sinuosity Luni River in India is curvier than the low-sinuosity Embarras River in Canada.
+B. In both the Embarras and the Luni rivers, curviness is determined by comparing stream length to valley length.
+C. By comparing the stream lengths of the Embarras and Luni rivers to their valley lengths, one can calculate their curviness, or sinuosity.
+D. The Embarras River’s ratio of stream length to valley length, also known as sinuosity, is greater than that of the Luni River.
+Answer: D
+
+Question 9:
+[COE]
+Which choice most effectively uses information from the given sentences to explain the purpose of national union federations?
+
+The South Sudan Workers Trade Union Federation (SSWTUF) is a national union federation for the African nation of South Sudan.
+• It helps improve conditions for workers in that nation.
+• ITUC-Africa is a regional union federation that represents national union federations across Africa.
+• It represents the SSWTUF.
+
+A. The SSWTUF is one of the national union federations represented by ITUC-Africa.
+B. Regional union federations like ITUC-Africa represent the national union federations in a specific area.
+C. National union federations, such as the SSWTUF, work to improve conditions for workers in their member nations.
+D. The SSWTUF is a national union federation in Africa.
+Answer: C
+
+Question 10:
+[COE]
+Which choice most effectively uses information from the given sentences to emphasize the number of medals won by Kenny?
+
+While researching a topic, a student has taken the following notes:
+• The Paralympic Games are a series of international sporting events involving athletes with an impairment.
+• Swimming has been an event at the Paralympics since 1960.
+• Mike Kenny competed as a Paralympic swimmer from 1976 to 1988.
+• He won eighteen medals.
+• Of these, sixteen were gold medals, which indicate a first-place finish.
+
+A. An accomplished Paralympian with multiple gold medal wins, Mike Kenny competed as a swimmer from 1976 to 1988.
+B. During his career as a Paralympic swimmer, Mike Kenny earned a total of eighteen medals, sixteen of which were gold.
+C. Swimming, a sport in which Mike Kenny took home sixteen gold medals, has been an event at the Paralympic Games since 1960.
+D. Mike Kenny competed at the Paralympic Games, a series of international sporting events.
+Answer: B
+
+Question 11:
+[Synthesis]
+The student wants to provide a specific example of irrational juxtaposition in surrealist collage. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Felipe Posada (pseudonym The Invisible Realm) is a New York City–based artist who specializes in the form of art known as surrealist collage.
+• Manifestation of the unconscious mind is a central aspect of surrealist collage.
+• Irrational juxtaposition of disparate elements is a central aspect of surrealist collage.
+• Posada’s Synchronicity irrationally juxtaposes images of a well-dressed man, a clouded mountain range, and a doorway to the stars.
+• Posada: “My art is a journey through the invisible realm—a space where intuition, memories, visions, and dreams are free to take visual form.”
+
+A. Images of a well-dressed man, a clouded mountain range, and a doorway to the stars are juxtaposed irrationally in the surrealist collage piece Synchronicity by artist Felipe Posada.
+B. The irrational juxtaposition of disparate elements in Felipe Posada’s art invokes “a space where intuition, memories, visions, and dreams are free to take visual form.”
+C. Synchronicity by artist Felipe Posada is an example of surrealist collage, a form in which irrational juxtaposition is a central aspect.
+D. Surrealist collage, such as Felipe Posada’s Synchronicity, manifests the unconscious mind and irrationally juxtaposes disparate elements.
+Answer: A
+
+Question 12:
+[Synthesis]
+The student wants to specify how many chromosomes the bat-eared fox has.Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Chromosomes are cellular structures that contain genes.
+• Genes carry critical instructions for determining an organism's physical traits.
+• Members of the same species typically have the same number of chromosomes.
+• The bat-eared fox (Otocyon megalotis) and the Bengal fox (Vulpes bengalensis) are species of foxes.
+• The bat-eared fox has seventy-two chromosomes.
+• The Bengal fox has sixty chromosomes.
+
+A. The bat-eared fox (Otocyon megalotis) and the Bengal fox (Vulpes bengalensis) both have chromosomes, but the bat-eared fox has more than the Bengal fox does.
+B. The Bengal fox, a species of fox, has sixty structures called chromosomes.
+C. The bat-eared fox's chromosomes contain genes, which are critical to determining an organism's physical traits.
+D. The bat-eared fox (Otocyon megalotis) has seventy-two chromosomes.
+Answer: D
+
+Question 13:
+[COE]
+Which choice most effectively uses information from the given sentences to emphasize the size of the crater?
+
+While researching a topic, a student has taken the following notes:
+• Impact craters occur when a large object collides with Earth at high speeds.
+• Examples of such objects include comets and meteorites.
+• Zeleny Gai is an impact crater in Ukraine.
+• Researchers have determined that it was formed around 80 million years ago.
+• The crater has a diameter of approximately 3.5 km.
+
+A. When a large object struck what is now Ukraine around 80 million years ago, it created Zeleny Gai, a massive crater measuring 3.5 km in diameter.
+B. Long ago, a crater now known as Zeleny Gai was created when a large object collided with Earth.
+C. Researchers have investigated the formation of Zeleny Gai, an ancient impact crater measuring 3.5 km in diameter located in Ukraine.
+D. Impact craters, like Zeleny Gai in Ukraine, are formed when a massive object collides with Earth, creating depressions in the land.
+Answer: A
+
+Question 14:
+[Synthesis]
+The student wants to refute a claim that malapportionment in the Storting favors small urban districts. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Malapportionment is the over- or underrepresentation (relative to population size) of electoral districts in a governing body.
+• It is a common feature of representative governments.
+• There are 169 seats in Norway’s supreme legislature (the Storting).
+• Seats are distributed by a formula that awards 1 point per resident and 1.8 points per unit of land.
+• Less populated rural districts with large tracts of land receive a disproportionate number of seats compared to smaller but more populated urban districts.
+
+A. Awarding more points per unit of land than points per resident, the formula for distributing Storting seats overrepresents less populated rural districts with large tracts of land.
+B. A common feature of representative governments, malapportionment occurs when electoral districts are over- or underrepresented.
+C. Less populated rural districts are disproportionally underrepresented in the Storting, creating an unfair advantage for smaller but more populated urban districts.
+D. It’s untrue that malapportionment in the 169-seat Storting favors small urban districts; rather, the formula for distributing seats overrepresents more populated district
+Answer: A
+
+Question 15:
+[Synthesis]
+The student wants to contrast the song 'Poor Miner's Farewell' with the song 'Bring Him Back Home. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Musicians around the world have used protest songs to raise awareness about human rights violations.
+• US folk singer Aunt Molly Jackson released the protest song "Poor Miner's Farewell" in 1932.
+• It exposed the unlivable wages and dangerous working conditions coal miners faced in Kentucky during the 1920s and 1930s.
+• South African singer-songwriter Hugh Masekela released the protest song "Bring Him Back Home" in 1987.
+• It called on the South African government to free Nelson Mandela, an anti-apartheid leader who’d been unjustly imprisoned.
+
+A. While both are protest songs, "Poor Miner's Farewell" is about coal miners in Kentucky, whereas "Bring Him Back Home" is about the anti-apartheid leader Nelson Mandela.
+B. Hugh Masekela’s song “Bring Him Back Home,” released in 1987, called on the South African government to free Nelson Mandela.
+C. The songs “Poor Miner's Farewell” and “Bring Him Back Home” both raised awareness about human rights violations.
+D. Released in 1932 by Aunt Molly Jackson, the song “Poor Miner’s Farewell” exposed the unlivable wages and dangerous working conditions faced by Kentucky coal miners.
+Answer: A
+

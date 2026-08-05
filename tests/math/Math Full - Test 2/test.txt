@@ -1,0 +1,196 @@
+Question 1:
+The equation {{MATH_1}} gives the predicted population N(m), in thousands, of a certain bacteria colony m minutes after the initial measurement, where Q is a constant greater than 1. The predicted population increases by p% every 180 seconds. What is the value of p in terms of Q?
+
+A. {{MATH_2}}
+B. {{MATH_3}}
+C. {{MATH_4}}
+D. {{MATH_5}}
+Answer: C
+
+Question 2:
+What are all the solutions to the given equation? 
+{{MATH_6}}
+
+A. -1 and 8
+B. 0 and 9
+C. 4
+D. 17/2
+Answer: D
+
+Question 3:
+A car dealership has only sedans, SUVs and minivans for sale. On Monday, 30% of the vehicles for sale were sedans and 50% were SUVs. If there were 57 sedans for sale at the dealership on Monday, how many minivans were for sale?
+
+Answer: 38
+
+Question 4:
+Megan engages in up to 3 types of exercise each week for a total of 14 hours while training for an ironman competition. Megan runs the same number of minutes each week. The equation y = 780 – x – 200 represents the situation where Megan swims for x minutes during a week and bikes for any remaining training time y, in minutes. If this equation is graphed in the xy-plane, which of the following statements is true?
+
+A. During a week when Megan runs for 780 minutes, she bikes for 200 minutes.
+B. Each week, Megan swims and bikes for a total of 780 minutes.
+C. During a week when Megan doesn-t swim, she runs for 260 minutes.
+D. During a week when Megan doesn-t bike, she swims for 390 minutes.
+Answer: C
+
+Question 5:
+The function {{MATH_7}} is defined by {{MATH_8}}where {{MATH_9}} and {{MATH_10}} are constants and {{MATH_11}} In the {{MATH_12}}plane, the graph of {{MATH_13}} passes through the point {{MATH_14}} crosses the {{MATH_15}}axis at {{MATH_16}} and is tangent to the {{MATH_17}}-axis at {{MATH_18}} If {{MATH_19}} what is the value of {{MATH_20}}
+
+Answer: -56
+
+Question 6:
+Which of the following equations is the most appropriate exponential model for the data shown in the scatterplot?
+
+A. {{MATH_21}}
+B. {{MATH_22}}
+C. {{MATH_23}}
+D. {{MATH_24}}
+Answer: B
+
+Question 7:
+On a certain day in June, the lowest recorded wind speed in town was 9 miles per hour (mph) and the highest recorded wind speed was 20 mph. Which inequality is true for all values of {{MATH_25}}, where {{MATH_25}} represents any wind speed, in mph, recorded in the town on this day?
+
+A. {{MATH_26}}9
+B. {{MATH_27}}
+C. {{MATH_28}}
+D. {{MATH_29}}
+Answer: D
+
+Question 8:
+What are all possible solutions to the given equation?
+{{MATH_30}}
+
+A. {{MATH_31}}
+B. {{MATH_32}}
+C. {{MATH_31}} and {{MATH_33}}
+D. {{MATH_31}} and {{MATH_32}}
+Answer: B
+
+Question 9:
+The population {{MATH_34}}of a bacteria culture {{MATH_35}} hours after an initial measurement is modeled by the equation below, where {{MATH_36}} is a constant greater than 1.
+{{MATH_37}}
+The predicted population increases by {{MATH_38}}every 45 minutes. What is the value of {{MATH_39}} in terms of {{MATH_40}}
+
+A. {{MATH_41}}
+B. {{MATH_42}}
+C. {{MATH_43}}
+D. D.{{MATH_44}}
+Answer: A
+
+Question 10:
+The volume of a right rectangular prism with a square base is 2,448 cubic centimeters. If the area of the square base is 144 square centimeters, what is the are, in square centimeters, of one of the four lateral faces of the prism?
+
+A. 17
+B. 204
+C. 540
+D. 816
+Answer: B
+
+Question 11:
+The expression {{MATH_90}} can be rewritten as
+({{MATH_91}} + a) ({{MATH_92}} + b), where a and b are positive integers, or as
+({{MATH_91}} + c) ({{MATH_92}} + d), where c and d are positive nonintegers.
+What is the value of a + c? (điền đáp án dạng số thập phân)
+
+Answer: 8.5
+
+Question 12:
+The function {{MATH_45}} is defined by the given equation, where {{MATH_46}} and {{MATH_47}} are integer constants. If {{MATH_48}}, {{MATH_49}} and {{MATH_50}}, which of the following could be the value of {{MATH_51}}
+{{MATH_52}}
+
+A. 42
+B. 44
+C. 81
+D. 83
+Answer: D
+
+Question 13:
+An object's speed is increasing at a rate of {{MATH_53}} meters per second squared. What is this rate, in miles per minute squared, rounded to the nearest tenth? (Use 1 mile = 1,609 meters.)
+
+A. 0
+B. {{MATH_54}}
+C. {{MATH_55}}
+D. {{MATH_56}}
+Answer: B
+
+Question 14:
+In the xy-plane, a parabola has vertex (-4, 25) and does not intersect the x-axis. If the equation of the parabola is written in the form y = ax^{2} + bx + c, where a, b, and c are constants, which of the following could be the value of a + b + c?
+
+A. 15
+B. 20
+C. 25
+D. 30
+Answer: D
+
+Question 15:
+In the figure, {{MATH_57}}, the measure of angle {{MATH_58}} is 23^{0}, and the measure of angle {{MATH_59}} is 34^{0}. What is the value of {{MATH_60}}?
+
+Answer: 158
+
+Question 16:
+The solution to the given system of equations is (x, y).
+What is the value of {{MATH_93}}?
+
+{{MATH_94}} + 5(y − 14) = 29
+
+{{MATH_95}} − 5(y − 14) = 41
+
+Answer: 1470
+
+Question 17:
+The maximum temperature on April 1, in degrees Fahrenheit (-F), was recorded each year at a certain weather station for 11 years. The histogram summarizes the recorded data set.
+
+The temperature of 78.2-F is removed from this data set to create a new data set of 10 temperatures. Which of the following statements must be true?
+I. The mean of the new data set is less than the mean of the original data set.
+II. The median of the new data set is less than the median of the original data set.
+
+A. I only
+B. II only
+C. I and II
+D. Neither I and II
+Answer: A
+
+Question 18:
+Two lines intersect at exactly one point, forming two acute angles and two obtuse angles. The measure of one of these angles is {{MATH_61}}. Which of the following could NOT be the sum of the measures of any two of these angles?
+
+A. {{MATH_62}}
+B. {{MATH_63}}
+C. {{MATH_64}}
+D. {{MATH_65}}
+Answer: A
+
+Question 19:
+The function {{MATH_66}}models the intensity of a signal at a distance of {{MATH_67}} meters from the source, where {{MATH_68}} is a constant greater than 1. For every increase in the value of {{MATH_67}} by 6, the signal intensity decreases by {{MATH_69}} where {{MATH_70}} Which expression gives the value of {{MATH_71}} in terms of {{MATH_72}}
+
+A. {{MATH_73}}
+B. {{MATH_74}}
+C. {{MATH_75}}
+D. {{MATH_76}}
+Answer: B
+
+Question 20:
+On January 1, there were 236 views of a video posted on a social media site. Every 3 days after January 1, the number of views of the video had increased by 60% of views 3 days earlier. The function {{MATH_45}} gives the predicted number of views {{MATH_77}}days after January 1. Which equation defines {{MATH_78}}
+
+A. {{MATH_79}}
+B. {{MATH_80}}
+C. {{MATH_81}}
+D. {{MATH_82}}
+Answer: C
+
+Question 21:
+A certain neighborhood had a population of 1,340 in 2009.
+Each year for the next 5 years, the population of the neighborhood increased by approximately 3% of the population the previous year.
+Which of the following equations represents the population, N, of the neighborhood t years after 2009, where {{MATH_96}}?
+
+A. {{MATH_97}}
+B. {{MATH_98}}
+C. {{MATH_99}}
+D. {{MATH_100}}
+Answer: C 
+
+Question 22:
+A high-yield savings account features a promotional introductory period. For the first 6 months after the account is opened, the balance grows by a fixed 3% of the initial deposit. After the first 6 months, the introductory period ends, and the account earns a compound interest rate of 1.5% every 2 months based on the current balance. Leo opened an account with an initial deposit of $8,000 and made no further deposits or withdrawals. Which of the following functions best represents the account balance, {{MATH_83}} in dollars, {{MATH_84}}months after the account was opened, for {{MATH_85}}
+
+A. {{MATH_86}}
+B. {{MATH_87}}
+C. {{MATH_88}}
+D. {{MATH_89}}
+Answer: A

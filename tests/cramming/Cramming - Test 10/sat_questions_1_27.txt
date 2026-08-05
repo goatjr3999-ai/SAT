@@ -1,0 +1,362 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Because blue holes (such as the Great Blue Hole near Belize) and cenotes (such as Cenote Calavera in Mexico) differ in their size, water composition, and type of location, they are not usually viewed as being _______ , but both are water-filled sinkholes typically produced by the natural dissolution and collapse of rocks.
+
+
+A. explicable
+B. distinct
+C. analogous
+D. incongruous
+Answer: C
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+American surrealistic artist William Nelson Copley and his friend and fellow artist Dimitri Petrov cofounded an innovative artists’ magazine known as S.M.S, in which contributors enjoyed complete freedom to create artistic works that Copley and Petrov would then reproduce with______ fidelity, sparing no expense in producing a biweekly folio of painstakingly replicated art facsimiles.
+
+
+A. evenhanded
+B. prudent
+C. scrupulous
+D. complacent
+Answer: C
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Disproportionate emphasis on instances of invention, such as the emergence of potter's wheels circa 4500 BCE, contributes to a pro-innovation bias that _______ studies of the history of technology. More attention to technological discontinuance (e.g., the disappearance of Roman concrete as a construction material around 500 CE) is thus a necessary corrective to the dominant view that innovations are steadily and inevitably adopted.
+
+
+A. pervades
+B. foments
+C. abridges
+D. supersedes
+Answer: A
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The fossil remains of the individual known as Misliya-1, discovered in Israel in 2002, can help paleoanthropologists not only ____ steps in the evolution of hominids but also illuminate the Pleistocene epoch generally, revealing important details about the time in which Misliya-1 lived.
+
+
+A. exploit
+B. yield
+C. prioritize
+D. discern
+Answer: D
+
+Question 5:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Like all hummingbirds, *Heliodoxa jacula* has high metabolic needs and is thus expected to prefer flowers with copious nectar, but María A. Maglianesi et al. found that nectar volume poorly predicted interaction frequencies between plants and hummingbirds, including *H. jacula*. If, they concluded, nectar volume does in fact mediate hummingbirds’ foraging, its precise role remains _______ .
+
+
+A. ephemeral
+B. incredulous
+C. incipient
+D. elusive
+Answer: D
+
+Question 6:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Hay’s Spring amphipods, oims, and other organisms lack functional eyes or ocular organs altogether and rely on other mechanisms to navigate their surroundings. Zhihao Yao and colleagues investigated how the Chinese red-headed centipede is still able to sense and avoid sunlight without having eyes or even any photoreceptors (light-detecting cells). In an experiment, the researchers found that light-avoidant behavior observed in the centipedes was associated with activation of BRTNaC1, a thermal receptor located in the centipede’s antennae, in the presence of simulated sunlight.
+
+
+A. To explain the role of BRTNaC1 in light detection for multiple organisms
+B. To contrast how centipedes detect sunlight with how Hay’s Spring amphipods and oims detect sunlight
+C. To outline a study designed to identify the mechanism involved in light detection in a species of centipede
+D. To compare the functions of two body parts of a species of centipede
+Answer: C
+
+Question 7:
+[COE]
+What claim does the text make about the demand for petroleum?
+
+Companies involved in petroleum extraction include drilling equipment among their assets. But petroleum extraction is a very carbon-intensive industry, so as social attitudes increasingly favor using less carbon-intensive sources of energy, demand for petroleum falls and the drilling equipment will eventually, or even suddenly, become a liability as reduced petroleum prices make it more difficult to recover the expense of maintaining such equipment.
+
+
+A. Companies involved in petroleum extraction are not affected by the demand for petroleum.
+B. The societal preference for low-carbon energy sources is a factor in the demand for petroleum.
+C. The demand for petroleum follows a predictable annual cycle.
+D. Companies involved in petroleum extraction can benefit from a decline in the demand for petroleum.
+Answer: B
+
+Question 8:
+[COE]
+Which finding, if true, would most directly challenge the second team's claim?
+
+Michelle R. Sato, Henry P. Torres, and David L. Reagan explored the development and purpose of rapid color-shifting in freshwater cichlids. Their investigation revealed that during non-harmful mock threats, about a third of the cichlid species tested displayed color transformations, varying from slight hue shifts in Neolamprologus brichardi to intense bursts of color in Tropheus moorii. A separate group of researchers then proposed that these vivid displays are mainly intended to signal and interact with other members of the species.
+
+
+A. The color shifts prompted by the simulated threats lacked any visual characteristics that would render them noticeable to herons, larger predatory fish, or other common threats to cichlids.
+B. Many of the cichlid species that did not exhibit color changes when faced with simulated threats have been observed exhibiting color alterations while in the presence of conspecifics.
+C. Among the cichlid species that shifted color in response to mock threats, no individual showed any coloration change in the minute before the threat simulations, yet the majority displayed color shifts once the simulations were initiated.
+D. The cichlids known to shift color in response to simulated threats generally inhabit solitary territories and were evaluated under conditions without other fish present.
+Answer: D
+
+Question 9:
+[COE]
+Which statement about hummingbird preferences is most strongly supported by the text?
+
+High-reward flowers that produce nectar with relatively high sugar concentrations are thought to be especially attractive to stripe-throated hermits and other hummingbird species. But when María A. Maglianesi and team monitored hummingbird visits to flowering plants, including Palicourea tormentosa, at Los Cusingos Bird Sanctuary and other sites in Costa Rica, they found that visit frequencies weren't influenced by nectar traits. Rather, physical compatibility of flower corollas (collections of petals) and hummingbird bills more strongly predicted hummingbird-plant interaction patterns.
+
+
+A. Physical compatibility between flower corollas and hummingbird bills becomes an important factor that influences hummingbird preferences when hummingbirds are uncertain about which plants produce high-reward nectar.
+B. Hummingbirds' preferences are primarily driven by trait-matching between their bills and flower corollas, though nectar qualities are a secondary factor driving their preferences.
+C. Hummingbirds consistently prefer plant species whose flowers have physical traits that are compatible with their bills but offer relatively low nectar rewards.
+D. The floral traits that most strongly influence which plant species hummingbirds prefer may result in certain hummingbird species visiting flowers with relatively low nectar rewards over those with higher nectar rewards.
+Answer: D
+
+Question 10:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Mexican textile artist Victoria Villasana weaves stories of triumph, using her unique method of applying colorful yarn to photographs of people. In some works, Villasana focuses on celebrating cultural icons who are people of color, as she does in her depiction of musician and composer Prince. However, in other works, Villasana honors ordinary people, as she does in her captivating portrayal of a young girl sitting on a sidewalk. Villasana sees both of these approaches as ways of depicting the power and interconnectedness of all people.
+
+
+A. It introduces Villasana’s cultural background, describes how this background influences her art, and then outlines some of her ideas for future projects.
+B. It compares Villasana to other contemporary artists, indicates how two of her works are similar, and then emphasizes Villasana’s enthusiasm for artistic collaboration.
+C. It explains how yarn has historically been used in art, details how Villasana uses yarn in her artworks, and then comments on the popularity of her work.
+D. It provides details about Villasana’s artworks, discusses specific examples of her work, and relates them to one of her artistic goals.
+Answer: D
+
+Question 11:
+[COE]
+Which finding, if true, would most directly weaken the student's claim?
+
+Rafael Núñez and colleagues studied how members of the Yupno, an Indigenous group in Papua New Guinea, conceptualize time. The researchers recorded Yupno speakers explaining certain temporal words and phrases, such as abùnk sonàd, a present-oriented expression that translates to “this week,” and coded each speaker's manual gestures. Previous research has found a tendency in many cultures to make temporal distinctions using spatial concepts and gestures, particularly along egocentric axes (i.e., relative to the orientation of the speaker): for instance, Spanish speakers often refer to the left/right axis to describe events in time. In an anthropology paper, a student claims that the tendency toward ego-based conceptualizations of time is universal.
+
+
+A. A Yupno speaker points in opposite directions when indicating a past event versus a future event.
+B. Some Yupno grammatical structures used when talking about time are also used in Spanish.
+C. When Yupno speakers who are outdoors use gestures to refer to the future, they point uphill from their current location regardless of which way they are facing.
+D. Although Yupno speakers and Spanish speakers both use gestures to indicate orientation in time, Yupno speakers tend to use fewer gestures overall when speaking than Spanish speakers do.
+Answer: C
+
+Question 12:
+[COE]
+In a paper for a philosophy class, a student wants to challenge the line of reasoning presented in the text. Which quotation from a work of philosophy would be most effective for the student to include?
+
+Elizabeth Gaskell, who was born in 1810, is the author of *North and South.* In a commonsense view, “Elizabeth Gaskell was born in 1810” and “the author of *North and South* was born in 1810” are identical in meaning and thus—because “was born in 1810” is constant—“Elizabeth Gaskell” is identical to “the author of *North and South.*” But this conclusion conflicts with the principle, foundational to logic and mathematics, that identical entities are necessarily substitutable in any possible world (i.e., if A = B, then B can always be substituted for A), since it was possible for Gaskell to exist but not to write *North and South.* This situation suggests that there may be something wrong with our principle about the substitutability of identical entities.
+
+
+A. “In everyday speech, we tend to talk about circumstantial characteristics of individuals (e.g., a person behaves shyly at a party) as though they are inherent characteristics of those individuals (we say the person is shy) though unfair; this tendency is more efficient than spelling out all the contingent circumstances every time we want to communicate about individuals.”
+B. “A proper name is a mere tag that refers to an individual but lacks any content; although it and a description are often able to refer to the same person in our minds, equating them is a mistake, since a name communicates no properties of the person, while a description does.”
+C. “Although the principle that two entities that are identical are necessarily substitutable sounds plausible and is useful in everyday life, it is very hard to demonstrate the validity of this principle through a logical proof without making some highly debatable assumptions.”
+D. “When scholars write about an author, they typically use the author’s full name or last name, whereas acquaintances would typically have referred to that author by first name alone; though different parts of the same proper name are used in different contexts, it would be incorrect to think that different people are therefore being referenced.”
+Answer: B
+
+Question 13:
+[COE]
+Which quotation from Poems most effectively illustrates the claim?
+
+Poems is an 1895 collection of poetry by Frances E.W. Harper. In one of Harper’s poems, the speaker suggests that those who mistreat people with less privilege will eventually receive divine judgment for it, saying, _____
+
+
+A. “Men may tread down the poor and lowly, / May crush them in anger and hate, / But surely the mills of God’s justice / Will grind out the grist of their fate.” (from An Appeal to My Countrywomen)
+B. “When ye plead for the wrecked and fallen, / The exile from far-distant shores, / Remember that men are still wasting / Life’s crimson around your own doors.” (from An Appeal to My Countrywomen)
+C. “Say not the age is hard and cold— / I think it brave and grand; / When men of diverse sects and creeds / Are clasping hand in hand.” (from The Present Age)
+D. “God help our native land, / Bring surcease to her strife, / And shower from thy hand / A more abundant life.” (from God Bless Our Native Land)
+Answer: A
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+An analysis by Alain Elayi and colleagues of coins minted in Sidon in the fifth and fourth centuries BCE reveals a change in their composition over time: while a coin from circa 450 BCE contains about 98% silver and 1% copper, a coin from 367 BCE (the end of Ba'alIšillem II's reign) contains 74.2% silver and 24.7% copper, giving it a relatively yellowish appearance that traders would have noticed. Because coins with a silver content below 80% were widely considered unsuitable for trade, Elayi et al. speculate that a crisis in confidence in the currency occurred in Sidon around 367 BCE, which was likely relieved—despite Sidon's persistent oppressive financial obligations—as a result of Ba'alIšillem II's successor Abdi'astart I's decision to ______
+
+
+A. keep the amount of silver in Sidonian coins consistent with that in coins minted in 367 BCE but decrease their weight.
+B. proclaim that the percentage of silver in coins suitable for trade would be raised to a threshold higher than 80%.
+C. fund the mining of some copper deposits that were not available to Ba'alIšillem II.
+D. begin minting heavier coins with a proportion of silver to copper similar to that in coins minted in 367 BCE.
+Answer: A
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+To address the susceptibility of materials used in components of high-performance machinery, such as aircraft engines, to creep (deformation that is induced by persistent mechanical stress and that often occurs at elevated temperatures), materials researchers have developed silicon carbide (SiC) fibers for producing aerospace composites. Testing the thermomechanical properties of several commercially available SiC fibers, Ramakrishna T. Bhatt et al. found that in comparison with two polymer-derived SiC fibers, a nitrogen-treated SiC fiber exhibited a lower minimum creep rate, a measure of the rate at which a stress-exposed material deforms at a constant temperature and uniaxial load. The finding suggests that ______.
+
+
+A. unlike the two polymer-derived SiC fibers, the nitrogen-treated SiC fiber can substantially inhibit creep, provided that temperatures and loads are consistent.
+B. aerospace composites containing the nitrogen-treated SiC fiber may have the ability to withstand mechanical stress for a longer period of time than can aerospace composites containing either of the two polymer-derived SiC fibers.
+C. composites based on the two polymer-derived SiC fibers have chemical properties that may improve the mechanical and thermal stability of aerospace equipment to a greater extent than do composites based on the nitrogen-treated SiC fiber.
+D. the two polymer-derived SiC fibers likely hold similar potential for reducing the creep resistance of materials exposed to stress and elevated temperatures, thus prolonging the lifespan of aerospace machinery.
+Answer: B
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Some approaches in urban design, such as megablock planning, favor scale beyond the pedestrian’s everyday experience. In contrast, neighborhood-oriented zoning gained traction in the twentieth century yet still shapes much of contemporary housing, its guiding principles _____ tested by planners worldwide.
+
+
+A. being
+B. are
+C. are being
+D. will be
+Answer: A
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Butterfly is a 1988 painting by the Japanese artist Ay-O. Like many of Ay-O’s paintings, Butterfly, which portrays a swimmer performing the butterfly stroke, attempts to make use of the entire visual light _____ sporting rainbow-striped goggles, the rainbow-hued swimmer splashes through a wavy rainbow of water.
+
+
+A. spectrum, while
+B. spectrum:
+C. spectrum
+D. spectrum while
+Answer: B
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Completed in 1436, Filippo Brunelleschi’s cupola for “Santa Maria del Fiore” demonstrates Brunelleschi’s penchant for engineering vast, self-supporting shells infused with traces of Gothic verticality and _______ the rediscovered statical principles of antiquity into his design.
+
+
+A. integrated
+B. integrating
+C. to integrate
+D. integrate
+Answer: B
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Not all plants benefit equally or from the same kind of _______ alfalfa and forsythia, for example, benefit from endomycorrhizal associations; many tree species, such as pine and alder, benefit from ectomycorrhizal associations; and plants in the Ericaceae family, such as huckleberry, don't benefit from mycorrhizae at all.
+
+
+A. mycorrhizae;
+B. mycorrhizae
+C. mycorrhizae,
+D. mycorrhizae:
+Answer: D
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+An original copy of the Declaration of Independence, signed in Philadelphia in the summer of 1776, and an original version of the Magna Carta, sealed at Runnymede in 1215 have been preserved as foundational documents for their respective ______ the former housed at the US National Archives and the latter displayed at the British Library.
+
+
+A. nations. The
+B. nations, the
+C. nations; the
+D. nations, and the
+Answer: B
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Despite differences in history, language, and geography, the geopolitical entities that constitute the South Pacific regions of Micronesia, Melanesia, and Polynesia share one feature: ______ an island or a group of islands. For example, Kiribati in Micronesia is a nation that consists of thirty-two atolls and one coral island spread across an area of over one million square miles.
+
+
+A. each of them are
+B. all of them is
+C. each of them is
+D. all of them are
+Answer: C
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+During the 1952 New York ticker-tape parade for US Olympic champions, the ribbonlike swirls descending on the scene were paper spools from “tickers,” telegraph machines used to transmit stock prices. Of course, the original ticker tape had long since been retired by the 2019 parade for the US women’s national soccer team. ___ shredded standard paper enriched the celebration.
+
+
+A. In other words,
+B. In addition,
+C. With this in mind,
+D. Then,
+Answer: D
+
+Question 23:
+[COE]
+Which option most logically completes the text?
+
+On April 12, 1981, NASA celebrated the first successful mission of the Space Shuttle program with a public ceremony in Washington, D.C. This event was only one among many celebrations recognizing achievements in space exploration. ____ from 1961 to 2020, Washington, D.C. hosted eighteen major public ceremonies honoring American astronauts.
+
+
+A. Hence,
+B. In other words,
+C. Nevertheless,
+D. In sum,
+Answer: D
+
+Question 24:
+[COE]
+Which option most logically completes the text?
+
+In 2018, astronomer Maria Lopez determined that the precise center of the Andromeda galaxy lies approximately 12,500 light-years northeast of its previously identified location. Lopez’s result proved significantly more precise than an earlier measurement conducted in 1950 by the International Astronomy Association. ____ that earlier measurement relied entirely upon basic telescopic observations and hand-drawn star charts.
+
+
+A. Of course,
+B. Ultimately,
+C. Likewise,
+D. To that end,
+Answer: A
+
+Question 25:
+[COE]
+The student wants to use a quotation from Petrova to explain a safety advantage of the mRNA technology used in the Coronavax vaccine. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+According to vaccine researcher Dr. Elena Petrova, "modern vaccines...[are] exceptionally effective at preventing severe disease outcomes compared to acquiring immunity through natural infection."
+Vaccine platforms typically employ live-attenuated viruses, inactivated viruses, or mRNA-based systems to stimulate an immune response.
+The recently approved 'Coronavax' vaccine for a novel virus utilizes an mRNA-based system.
+Petrova states that because mRNA systems contain no actual virus particles, they are "incapable of causing the disease they are designed to prevent, thus offering a superior safety profile."
+
+
+A. Compared with live-attenuated and inactivated vaccines, the mRNA system used in Coronavax is "exceptionally effective at preventing severe disease outcomes," Petrova notes.
+B. According to Petrova, because it uses genetic material to stimulate an immune response, the technology used in Coronavax is "incapable of causing the disease," making it a very safe option.
+C. Since they contain no actual virus particles, mRNA-based systems—such as the one used in Coronavax—are described by Petrova as "incapable of causing the disease they are designed to prevent."
+D. The Coronavax vaccine uses an mRNA-based system to stimulate an immune response; in this type of vaccine, the body is stimulated by a system that "contain[s] no actual virus particles," Petrova explains.
+Answer: C
+
+Question 26:
+[Synthesis]
+The student wants to provide an example of a position in Royal Academy of Dance ballet. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Body positions are an important part of dance.
+• In Royal Academy of Dance ballet, there is a position called demi-seconde position.
+• It is one of several positions for the dancer’s arms.
+
+
+A. Demi-seconde position is an example of a position in Royal Academy of Dance ballet.
+B. Royal Academy of Dance ballet includes several dance positions for the dancer’s arms.
+C. In dance, some positions are for the dancer’s arms.
+D. Body positions are an important part of dance, including Royal Academy of Dance ballet.
+Answer: A
+
+Question 27:
+[Synthesis]
+The student wants to synthesize the findings to compare the prevalence of different neuroplasticity mechanisms. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Neuroplasticity is the brain's fundamental capacity to reorganize itself by forming new neural connections.
+•Synaptic plasticity, the strengthening or weakening of synapses, is a ubiquitous mechanism underlying learning and memory across the entire nervous system.
+•A more profound form, structural plasticity, involves the physical growth or retraction of axons and dendrites.
+•This structural remodeling is most pronounced during critical developmental periods and remains highly active in specific brain regions like the hippocampus in adulthood.
+•Glial cells, particularly astrocytes and microglia, also play a crucial modulatory role in synaptic and structural remodeling.
+
+
+A. The physical remodeling of axons and dendrites, known as structural plasticity, is a universal feature of the brain's response to learning, enabling long-term circuit modifications.
+B. While synaptic plasticity is a fundamental and widespread process for neural adaptation, the more extensive process of structural plasticity is not uniformly expressed, being particularly active during development and in certain brain areas.
+C. The brain's ability to form new connections and modify its circuits through both synaptic and structural plasticity is essential for long-term adaptation and memory formation.
+D. In addition to the changes occurring in neurons, glial cells like astrocytes and microglia are key modulators of the brain's structural and synaptic remodeling.
+Answer: B

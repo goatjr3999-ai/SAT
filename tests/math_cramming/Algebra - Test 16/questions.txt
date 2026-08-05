@@ -1,0 +1,88 @@
+Question 1:
+A linear function g is defined by {{MATH_1}}, where a and b are constants. If {{MATH_2}} and {{MATH_3}}, what is the value of a?
+
+Answer: 4
+
+Question 2:
+{{MATH_5}}
+One solution to the given equation can be written as {{MATH_6}}, where h and k are integer constants. What is the value of {{MATH_7}}?
+
+A. {{MATH_8}}
+B. {{MATH_9}}
+C. {{MATH_10}}
+D. {{MATH_11}}
+Answer: D
+
+Question 3:
+{{MATH_12}}
+{{MATH_13}}
+For the given functions r and s, n is a constant. If {{MATH_14}} , what is the value of n?
+
+Answer: 3
+
+Question 4:
+At different times on a certain day, a manager at a theme park recorded the number of visitors. An exponential model gives the estimated number of visitors, V, at the theme park t hours after the theme park opened, where {{MATH_16}}. Based on the model, 85 visitors were estimated to be at the theme park when it opened, and every 30 minutes the estimated number of visitors increased by 140% of the estimated number of visitors 30 minutes earlier. Which of the following equations best represents this model?
+
+A. {{MATH_17}}
+B. {{MATH_18}}
+C. {{MATH_19}}
+D. {{MATH_20}}
+Answer: D
+
+Question 5:
+The function v is defined by the equation {{MATH_21}}, where b and c are constants. In the xy-plane, the graph of {{MATH_22}} passes through the points {{MATH_23}} and {{MATH_24}}. If {{MATH_25}}, which of the following could be the value of q?
+
+A. {{MATH_26}}
+B. {{MATH_27}}
+C. {{MATH_28}}
+D. {{MATH_29}}
+Answer: A
+
+Question 6:
+{{MATH_30}}
+An engineer connects resistors in series, where the resistors in the series have a total resistance of {{MATH_31}} ohms. In this series, there are x resistors of type A, which each have a resistance of a ohms, and y resistors of type B, which each have a resistance of b ohms. The given equation represents this situation. According to this equation, what is the positive difference between the value of a and the value of b?
+
+A. {{MATH_32}}
+B. {{MATH_33}}
+C. {{MATH_34}}
+D. {{MATH_35}}
+Answer: D
+
+Question 7:
+The functions {{MATH_36}} and g are defined by the given equations, where {{MATH_37}} and b are integer constants, {{MATH_38}}, and {{MATH_39}}. If {{MATH_40}} and {{MATH_42}} are graphed in the xy-plane, which of the following equations displays, as a constant or coefficient, the minimum value of the function it defines, where {{MATH_43}}?
+
+I. {{MATH_44}}
+II. {{MATH_45}}
+
+A. I only
+B. II only
+C. I and II
+D. Neither I nor II
+Answer: A
+
+Question 8:
+A giant panda is predicted to have a mass between {{MATH_46}}and {{MATH_47}} times its mother's mass when it is born. If its mother is predicted to have a mass of 95,950 grams when the giant panda is born, which inequality best represents the prediction of the giant panda's mass p, in grams, when it is born?
+
+A. {{MATH_48}}
+B. {{MATH_49}}
+C. {{MATH_50}}
+D. {{MATH_51}}
+Answer: B
+
+Question 9:
+Which expression is equivalent to {{MATH_52}}?
+
+A. {{MATH_53}}
+B. {{MATH_54}}
+C. {{MATH_55}}
+D. {{MATH_56}}
+Answer: A
+
+Question 10:
+A sum of 9,000 dollars was invested in a certificate of deposit (CD) that earns interest, and no other deposits or withdrawals were made after that. The function {{MATH_57}} gives the value of the CD, in dollars, x years after the investment was initially made, where {{MATH_58}}. Which of the following is the best interpretation of the statement “{{MATH_59}} is approximately equal to 9,474.08” in this context?
+
+A. The value of the CD would be approximately 9,474.08 dollars if invested at 2% interest.
+B. 9,474.08 days after the investment was made, the value of the CD was approximately 2 times greater than its initial value.
+C. 2 years after the investment was made, the value of the CD was approximately 9,474.08 dollars.
+D. 2 years after the investment was made, the value of the CD was approximately 9,474.08 dollars greater than its initial value.
+Answer: C

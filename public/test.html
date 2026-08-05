@@ -1,0 +1,243 @@
+
+  <!DOCTYPE html>
+  <html>
+  <head>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SAT Test</title>
+  <link rel="stylesheet" href="cipher.css">
+  <link rel="stylesheet" href="test.css">
+  <link rel="icon" type="image/png" href="/images/logo.webp" />
+</head>
+
+  <body>
+
+  <!-- 🔵 BLUEBOOK-STYLE TOP TIMER BAR -->
+  <div id="top-timer-bar">
+    <div class="top-bar-left">
+  <div class="section-stack">
+    <div id="timer-title">Section 1: Reading and Writing</div>
+
+    <button id="direction" class="direction-btn" aria-label="Directions">
+      <span class="direction-label">Directions</span>
+      <svg class="direction-icon" viewBox="0 0 24 24" aria-hidden="true">
+        <path d="M6 9l6 6 6-6" />
+      </svg>
+    </button>
+  </div>
+</div>
+    <div class="top-bar-right">
+      <div class="timer-stack">
+        <div id="timer-value">0:00</div>
+        <button id="timer-toggle" class="timer-toggle" type="button">Hide</button>
+      </div>
+      <div class="top-actions">
+        <button id="highlight-toggle-btn" class="calculator-btn highlight-toggle-btn" type="button" aria-pressed="false">
+        <img src="/images/pencil.svg" alt="Highlight Icon" class="calculator-icon">
+        <span>Highlight</span>
+      </button>
+      <button id="calculator-toggle-btn" class="calculator-btn" type="button">
+        <img src="/images/calculator.svg" alt="Calculator Icon" class="calculator-icon">
+        <span>Calculator</span>
+      </button>
+      <button id="save-exit-btn" class="save-exit-btn">
+        <img src="/images/save-exit.svg" alt="Save Exit Icon" class="save-exit-icon">
+        <span>Save & Exit</span>
+      </button>
+    </div>
+
+    </div>
+  </div>
+
+  <!-- MAIN 2-PANEL LAYOUT -->
+  <div id="container">
+
+    <!-- LEFT: PASSAGE -->
+    <div id="left-pane">
+      <!-- Ảnh câu hỏi (nếu có) -->
+      <div id="question-image-wrapper" class="question-image-wrapper hidden">
+        <img id="question-image" class="question-image" alt="Question illustration">
+      </div>
+      <div id="passage"></div>
+      <div id="math-grid-directions" class="math-grid-directions hidden">
+        <h2>Student-produced response directions</h2>
+        <ul>
+          <li>If you find <b>more than one correct answer</b>, enter only one answer.</li>
+          <li>You can enter up to 5 characters for a <b>positive answer</b> and up to 6 characters (including the negative sign) for a <b>negative answer</b>.</li>
+          <li>If your answer is a <b>fraction</b> that doesn’t fit in the provided space, enter the decimal equivalent.</li>
+          <li>If your answer is a <b>decimal</b> that doesn’t fit in the provided space, enter it by truncating or rounding at the fourth digit.</li>
+          <li>If your answer is a <b>mixed number</b>, enter it as an improper fraction (7/2) or its decimal equivalent (3.5).</li>
+          <li>Don’t enter <b>symbols</b> such as a percent sign, comma, or dollar sign.</li>
+        </ul>
+        <img src="/images/table_math.png" alt="Student-produced response table" class="math-grid-table">
+      </div>
+    </div>
+
+    <!-- RIGHT: QUESTION -->
+    <div id="right-pane">
+
+      <!-- QUESTION HEADER (NUMBER + REVIEW BUTTON) -->
+      <div id="question-header">
+        <div id="q-number-box">
+          <span id="q-number-text">1</span>
+        </div>
+
+        <button id="mark-review-btn" class="mark-btn">
+    <img id="bookmark-icon" src="/bookmark/bookmark-outline-gray.svg" width="20">
+    <span id="mark-text">Mark for Review</span>
+  </button>
+
+      </div>
+
+      <!-- DASH LINE UNDER HEADER -->
+      <div id="header-dash"></div>
+
+      <!-- QUESTION TEXT + CHOICES -->
+      <div id="question-content">
+        <div id="question-text"></div>
+
+        <div id="choices"></div>
+      </div>
+
+    </div>
+
+  </div>
+<div id="calculator-panel" class="calculator-panel hidden">
+    <div class="calculator-header" id="calculator-header">
+      <span class="calculator-title">Calculator</span>
+      <div class="calculator-controls">
+        <button id="calculator-extend-btn" class="calculator-control" type="button" aria-label="Extend calculator">
+          ⤢
+        </button>
+        <button id="calculator-close-btn" class="calculator-control" type="button" aria-label="Close calculator">
+          ✕
+        </button>
+      </div>
+    </div>
+    <div id="desmos-calculator" class="desmos-calculator" aria-label="Desmos Calculator"></div>
+  </div>
+  
+  <!-- BOTTOM NAVIGATION BAR -->
+  <div id="bottom-bar">
+    <div id="bottom-bar-user" class="bottom-bar-user" aria-live="polite"></div>
+
+    <button id="question-toggle-btn">
+      Question <span id="current-question">1</span> of 
+      <span id="total-question">0</span>
+      <span class="arrow">&#9662;</span>
+    </button>
+
+    <div id="question-progress"></div>
+
+    <div>
+      <button id="back-btn">Back</button>
+      <button id="next-btn">Next</button>
+    </div>
+
+  </div>
+
+  <!-- QUESTION POPUP GRID -->
+  <div id="question-popover" class="hidden">
+    <div class="popover-content">
+
+      <div class="popover-header">
+        <strong>Section 1: Reading and Writing Questions</strong>
+        <span id="close-popover">✕</span>
+      </div>
+
+      <div class="legend">
+        <div><span class="dot current"></span> Answered</div>
+        <div><span class="dot unanswered"></span> Unanswered</div>
+        <div><span class="dot review"></span> For Review</div>
+      </div>
+
+      <div id="question-grid"></div>
+
+      <button id="go-review-btn">Go to Review Page</button>
+
+      <div class="arrow-down"></div>
+    </div>
+  </div>
+
+  <div id="highlight-menu" class="highlight-menu hidden">
+    <div class="highlight-options">
+      <button
+        class="highlight-action color-option color-yellow"
+        data-highlight-color="yellow"
+        type="button"
+        aria-label="Highlight yellow"
+        title="Highlight yellow"
+      >
+      </button>
+      <button
+        class="highlight-action color-option color-blue"
+        data-highlight-color="blue"
+        type="button"
+        aria-label="Highlight blue"
+        title="Highlight blue"
+      >
+      </button>
+      <button
+        class="highlight-action color-option color-pink"
+        data-highlight-color="pink"
+        type="button"
+        aria-label="Highlight pink"
+        title="Highlight pink"
+      >
+      </button>
+    </div>
+    <button id="erase-action" class="highlight-action erase-action" type="button"></button>
+  </div>
+  <!-- DIRECTIONS OVERLAY -->
+<div id="directions-overlay" class="overlay hidden">
+  <div class="directions-panel" role="dialog" aria-modal="true">
+    <div class="directions-content">
+      <p>
+        The questions in this section address a number of important reading
+        and writing skills. Each question includes one or more passages,
+        which may include a table or graph. Read each passage and question
+        carefully, and then choose the best answer to the question based on
+        the passage(s).
+      </p>
+
+      <p>
+        All questions in this section are multiple-choice with four answer
+        choices. Each question has a single best answer.
+      </p>
+    </div>
+
+    <button id="close-directions" class="close-btn">Close</button>
+  </div>
+</div>
+
+  <script src="cipher.js"></script>
+  <script src="lockdown.js"></script>
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [["\\(", "\\)"]],
+      },
+      startup: {
+        typeset: false,
+        ready: () => {
+          MathJax.startup.defaultReady();
+          const pending = window.__mathJaxQueue || [];
+          if (pending.length) {
+            const targets = pending.flat();
+            window.__mathJaxQueue = [];
+            MathJax.typesetPromise(targets);
+          }
+        },
+      },
+    };
+  </script>
+  <script
+    id="MathJax-script"
+    async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"
+  ></script>
+  <script src="https://www.desmos.com/api/v1.6/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
+  <script src="test.js"></script>
+  </body>
+  </html>

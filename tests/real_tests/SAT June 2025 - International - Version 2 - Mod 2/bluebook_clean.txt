@@ -1,0 +1,349 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Scholars long thought that the initial spread of silk beyond China occurred in the second century CE, but this view has been ______ by new archaeological evidence from South Asia that reveals that the people of the Indus Civilization made use of silk at least 1,000 years earlier.
+
+A. investigated
+B. contradicted
+C. misinterpreted
+D. anticipated
+Answer: B
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In a 2022 study, Nicolás M. Morato and colleagues attempted to resolve a long-standing paradox: although water is critical to most reactions that enable life, during the earliest stages of Earth's history—when most of the planet's surface was covered by oceans—the presence of water likely ______ the formation of proteins and other biomolecules that are found in all living organisms.
+
+A. exploited
+B. imitated
+C. hampered
+D. reflected
+Answer: C
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+A team of microbiologists measured surface temperatures of various wild mushrooms, including *Amanita muscaria* and a species from the genus *Thelephora*. The temperatures ranged from 1.4 to 5.9°C lower than the temperature of the surrounding air, a difference the team ______ to water evaporating from the mushrooms and thus cooling them.
+
+A. conceded
+B. prescribed
+C. attributed
+D. amended
+Answer: C
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Despite stated claims of the ______ of the research, much analysis of income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later remedy this shortcoming after gaining new access to administrative records located in nations in Africa, such as Ivory Coast, and Eastern Europe, such as Poland.
+
+A. novelty
+B. immutability
+C. exhaustiveness
+D. pervasiveness
+Answer: C
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+The following text is from Yung Wing's 1909 memoir *My Life in China and America*. Yung Wing was the first person from China to graduate from a US university.
+
+__Little did I realize when in 1845 I wrote, while in the Morrison School, a composition on "An Imaginary Voyage to New York and up the Hudson," that I was to see New York in reality.__ This incident leads me to the reflection that sometimes our imagination foreshadows what lies uppermost in our minds and brings possibilities within the sphere of realities.
+
+A. It foreshadows Yung's eventual success as a writer.
+B. It indicates Yung's unwillingness to distinguish between reality and fantasy as a child.
+C. It illustrates the sense of adventure that Yung developed as a child.
+D. It describes an event in Yung's life that exemplifies a phenomenon.
+Answer: D
+
+Question 6:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+The following text is from Jerome K. Jerome's 1889 novel *Three Men in a Boat (To Say Nothing of the Dog)*. The narrator and two friends are taking a boat down the River Thames in England.
+
+In a boat, I have always noticed that it is the fixed idea of each member of the crew that he is doing everything. __Harris's notion was, that it was he alone who had been working, and that both George and I had been imposing upon him__. George, on the other hand, ridiculed the idea of Harris's having done anything more than eat and sleep, and had a cast-iron opinion that it was he—George himself—who had done all the labour worth speaking of.
+
+A. It establishes Harris's feelings about the narrator's idea of how boat trips usually proceed.
+B. It offers Harris's belief as a specific example of a trend the narrator has observed while boating.
+C. It suggests that Harris is focused on helping the group navigate a challenge.
+D. It demonstrates that Harris finds his experiences on the boat to be confusing.
+Answer: B
+
+Question 7:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Driven to sell as many paintings as possible, Alfred Hair, an influential figure among the landscape artists known as the Florida Highwaymen, pioneered "fast painting," a technique (which in part involved swift applications of paint) that many Highwaymen, including Livingston Roberts, adopted. __To conclude that this approach accounts for the ethereal qualities now synonymous with the Highwaymen aesthetic is tempting but inaccurate, as Hair's methods weren't universally practiced by his affiliates:__ George Buckner, for example, painted with greater deliberateness but achieved the same effects.
+
+A. It details evidence that contradicts a claim mentioned earlier in the text about a long-standing disagreement within a group of artists.
+B. It considers and rebuts an interpretation of the effect of a painting technique mentioned earlier in the text on the perception of work by a group of artists.
+C. It establishes a contrast between the aesthetic qualities of works by artists who were central to a movement introduced earlier in the text and those of an artist who was more peripheral to that movement.
+D. It explains how an artist mentioned earlier in the text developed a distinctive style by adapting a particular approach to painting originated by his colleagues.
+Answer: B
+
+Question 8:
+[Structure]
+Which choice best states the main idea of the text?
+
+Studies of ocean wave breaking have predominantly focused on traveling waves (those propagating along the horizontal plane), so Mark McAllister et al. utilized a circular wave tank to produce and study spike waves, axisymmetric standing waves that can erupt vertically when traveling waves propagating in opposing directions intersect. Traveling waves break when wave steepness (height-to-length ratio) passes a critical threshold; breaking thus constrains wave height. McAllister et al. found that spike waves can exceed that constraint, as other factors than just steepness (e.g., jet stability and cavity shape) mediate spike-wave breaking.
+
+A. McAllister et al. suggest that spike waves can form when traveling waves propagating in opposing directions intersect and that spike waves tend to be higher than traveling waves.
+B. The process of breaking limits the height of traveling waves, but the study by McAllister et al. suggests that spike waves can exceed those limits if their height-to-length ratio reaches a critical threshold.
+C. The study by McAllister et al. suggests that when traveling waves intersect in specific ways, the resulting wave may be higher than would be expected based on the properties of traveling waves.
+D. Previous studies have suggested that steepness mediates breaking in traveling waves, but the study by McAllister et al. shows that jet stability and cavity shape may also influence breaking in such waves.
+Answer: C
+
+Question 9:
+[COE]
+Which choice best describes the finding made by Wright, as presented in the text?
+
+Optimal foraging theory (OFT) holds that animals' foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Joel Brown and colleagues found to be negatively associated with foraging by Arizona pocket mice but Patricia C. Wright found to be positively associated with foraging by three-striped night monkeys. This discrepancy is explicable in terms of OFT: the monkeys' greater reliance on vision means that higher lunar intensity benefits them more than it benefits the mice.
+
+A. During periods of high lunar intensity, three-striped night monkeys increase their reliance on vision.
+B. As lunar intensity increases, Arizona pocket mice reduce their foraging activity.
+C. As lunar intensity increases, three-striped night monkeys increase their foraging activity.
+D. Increased lunar intensity is more beneficial for three-striped night monkeys than it is for Arizona pocket mice.
+Answer: C
+
+Question 10:
+[COE]
+Which finding, if true, would most directly weaken the researchers' conclusion?
+
+Nautilids are marine mollusks that begin growing their shells before emerging from their eggs and continue to add shell segments throughout their lifetimes. The walls between their shells' chambers are called septa, and the deeper the water in which a septum forms, the greater the concentration of the isotope oxygen-18 the septum will contain. Since temperature falls as depth increases, if the area of ocean a nautilid inhabits is known, this isotopic signature can reveal the temperature at which its septa formed. Paleontologist Amane Tajika and colleagues examined each of the septa in two nautilid shells and concluded that septum sample M23 formed at a temperature of 14.0°C whereas sample F02 formed at 20.8°C.
+
+A. At a depth of 140 meters in the nautilids' habitat, the water is 20.8°C and the concentration of oxygen-18 is equal to that in sample F02.
+B. The concentration of oxygen-18 in F02 is higher than that in M23.
+C. The concentration of oxygen-18 in F02 is lower than that in M23.
+D. At a depth of 385 meters in the nautilids' habitat, the water is 14.0°C and the concentration of oxygen-18 is equal to that in sample M23.
+Answer: B
+
+Question 11:
+[COE]
+Which quotation from an art historian would most directly support the claim made in the text?
+
+In Diné (Navajo) culture, *ikaah* (sandpaintings) are created and then erased as part of sacred healing ceremonies lasting no more than a few days, but Diné *hataalii* (chanter, healer, cultural guide) Fred Stevens developed fixatives to preserve desacralized sandpaintings. While on a US-sponsored cultural ambassadorial trip in Europe and the Americas in the 1960s, Stevens produced several such sandpaintings and gave them to cultural institutions. This may seem in tension with the role of cultural ambassador—how could static objects authentically represent an inherently ephemeral and dynamic practice?—but such a view is itself overly object-focused and neglects how Stevens strove to convey exactly those characteristics of *ikaah* as a cultural practice.
+
+A. "Stevens's ambassadorial sandpaintings are best understood not as self-contained objects but as reminders of the public creations of the sandpaintings, during which Stevens conducted appropriate *ikaah* rituals and encouraged viewers to closely track his movements and subtle shifts in the sand throughout the process."
+B. "While Stevens's ambassadorial sandpaintings are undoubtedly educative for audiences that have little exposure to Diné culture, they should not be confused with authentic *ikaah*, which cannot be extricated from a practice that is intentionally and necessarily transitory nor condensed into a single persistent object."
+C. "The most compelling way to reconcile the apparent tension between the temporary and performative nature of *ikaah* and the persistent and static nature of Stevens's ambassadorial sandpaintings is to recognize that Stevens was an ambassador not only of Diné culture but of a US art culture that tended to value permanent works over ephemeral ones."
+D. "It is important to recall Stevens's own actions as a gift-giver—a temporary and performative role—of the sandpaintings, for by taking those actions, Stevens publicly enacted the transmission of knowledge of both traditional *ikaah* practices and cutting-edge chemistry (in the form of the preservative additives), a hybrid that reflects the dynamism of Diné culture."
+Answer: D
+
+Question 12:
+[COE]
+Which choice best describes data from the table that support Taylor and team's conclusion?
+
+Some animals evade predation with the help of contrasting markings that signal toxicity. Lisa Taylor and team studied how jumping spiders behave toward termites (their regular prey) to which solid black, solid white, or black-and-white striped (i.e., contrasting) capes were affixed. Each spider was placed in a clear container in the center of a circular dish in which six termites, two with each of the three cape types, could be seen. Noting which termites the spiders first looked at and which termites they ultimately targeted, the researchers concluded that contrasting markings were a deterrent.
+
+A. Half of the spiders that first looked at a termite wearing a black-and-white striped cape attacked a termite wearing a solid white cape, and the other half of those spiders were just as likely to attack a termite wearing a black-and-white striped cape as they were to attack a termite wearing a solid black cape.
+B. For each type of cape, a majority of the spiders that first looked at a termite wearing that type of cape attacked a termite wearing that same type of cape.
+C. Regardless of the type of cape worn by termites the spiders first looked at, the large majority of spider attacks were on termites wearing solid-color capes.
+D. None of the spiders that first looked at a termite wearing a solid white cape attacked a termite wearing a black-and-white striped cape.
+Answer: C
+
+Question 13:
+[COE]
+Which finding, if true, would most directly support Núñez and colleagues’ claim?
+
+Rafael Núñez and colleagues studied how members of the Yupno, an Indigenous group in Papua New Guinea, conceptualize time in both spoken language and gestures. The researchers recorded Yupno speakers explaining certain temporal words and phrases, such as *ono-ropmo* bilak, a past-oriented expression that translates to “a couple of years ago,” and coded each speaker’s manual gestures. Previous research has found a tendency in many cultures to make temporal distinctions along imagined linear axes: for instance, English speakers often refer to the front/back axis to describe events in time. Some researchers believe this tendency is universal, but Núñez and colleagues claim this is not the case.&nbsp;____
+
+A. Yupno speakers typically use their left hand to make temporal gestures regardless of whether the gestures are past oriented or future oriented.
+B. Some Yupno grammatical structures used when talking about time are also used in English.
+C. Yupno speakers were observed making temporal gestures both indoors and outdoors, though with greater frequency when indoors.
+D. Future-oriented gestures used by Yupno speakers do not, on average, point in the opposite linear direction of past-oriented gestures.
+Answer: D
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Whistler waves are low-frequency plasma waves that on Earth are typically generated by lightning. Numerous recordings of whistler waves on Venus have led many scientists to suggest that the planet's atmosphere is host to extensive amounts of lightning, and, in fact, Venusian whistler waves have similar energy signatures to those of whistler waves generated by lightning on Earth. The majority of Venusian whistler wave data come from two spacecraft missions—the Pioneer Venus Orbiter (PVO) and the Venus Express (VEX)—which have included few observations of other phenomena consistent with lightning occurrences (such as flashes of light), leading other scientists to suggest that ______
+
+A. there are geophysical characteristics of Venus not shared with Earth that promote the generation of whistler waves.
+B. the purported Venusian whistler waves must actually be some other type of atmospheric activity than whistler waves.
+C. Venusian lightning has properties that make it unlikely to generate whistler waves.
+D. similarities in the energy signatures of Venusian and Earth whistler waves may reflect imprecisions in the PVO and VEX data.
+Answer: A
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+In the world's democracies, proportionally few elected representatives are young adults. While some philosophers argue that certain types of underrepresentation (of women, for example) are unfair in principle and should be remediated via quotas, there is broad agreement that youth underrepresentation is not inherently unfair since it is universal (all people are underrepresented when young), temporary (underrepresented young people become overrepresented older people), and reflective of a legitimate concern (lack of relevant experience). Accordingly, when philosopher Juliana Uhuru Bidadanure advocates for youth quotas for elected representatives, she does so on the basis of their instrumental value for promoting youth interests, arguing that ______
+
+A. young adults may lack certain kinds of experience but those experiences are not relevant to the question of whether youth underrepresentation is fair in principle.
+B. age-related quotas would alleviate the inherently unfair overrepresentation of older people that tends to occur in the world's democracies.
+C. youth underrepresentation may be fair in principle but leads to worse outcomes for young adults than could be achieved with more proportionate youth representation.
+D. it does not matter that youth underrepresentation is universal, temporary, and reflective of a legitimate concern since it is inherently unfair.
+Answer: C
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+"Paper Dragons" by James P. Blaylock, *The Ape's Wife and Other Stories* by Caitlin R. Kiernan, and "Confess the Seasons" by Charles L. Grant are all pieces of literature that have won the prestigious World Fantasy ______ the works received the honor in the categories of short story, collection, and novella, respectively.
+
+A. Award,
+B. Award;
+C. Award and
+D. Award
+Answer: B
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+All member nations of the North Atlantic Treaty Organization, or NATO—including Iceland, which joined in 1949; Hungary, which joined in 1999; and Bulgaria, which joined in ______ are committed to NATO's principle of collective defense, each member pledging to defend all others.
+
+A. 2004;
+B. 2004,
+C. 2004
+D. 2004—
+Answer: D
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Multidisciplinary at its core, ______
+
+A. Diné/Creek artist Anna Tsouhlarakis engages a range of art forms—primarily video, photography, and performance—in her body of work.
+B. video, photography, and performance are among the range of art forms that Diné/Creek artist Anna Tsouhlarakis primarily engages in her body of work.
+C. a range of art forms—primarily video, photography, and performance—are engaged by Diné/Creek artist Anna Tsouhlarakis in her body of work.
+D. Diné/Creek artist Anna Tsouhlarakis's body of work engages a range of art forms—primarily video, photography, and performance.
+Answer: D
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+At the Chicxulub asteroid impact crater in Mexico, the presence of many fossilized microbacteria, which seem to have thrived there despite the extreme heat that persisted after the Chicxulub impact, ______ claims that bacteria are among the planet's most resilient organisms.
+
+A. reinforce
+B. have reinforced
+C. reinforces
+D. are reinforcing
+Answer: C
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In Xu Bing's art installation *Book from the Sky*, each one of the thousands of faux Chinese characters—printed in precise columns on the trio of long scrolls that swoop across the ceiling, on the rows of open books that undulate along the floor, and on the paper walls that stand to the sides— ______ no meaning. Invented by Bing, the characters present plausibly and grandiosely, inviting yet punishing those who yearn to decode them.
+
+A. hold
+B. holds
+C. have held
+D. were holding
+Answer: B
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A loose confederation of cities from eleven modern-day countries, the Hanseatic League was a powerful mercantile alliance that dominated northern European trade between the 13th and 17th centuries. Hanseatic League member ______ was serendipitously located on the Warnow River in Germany, giving Rostock's merchants access to key maritime trade routes.
+
+A. city Rostock,
+B. city, Rostock,
+C. city, Rostock
+D. city Rostock
+Answer: D
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A staunch supporter of women's voting rights, Wilhelmina Kekelaokalaninui Widemann Dowsett sought to coordinate the efforts of suffragists in her native Hawai'i. ______ in 1912, she founded the National Women's Equal Suffrage Association of Hawai'i, an organization that lobbied for women's voting rights in the US territory.
+
+A. Conversely,
+B. To that end,
+C. Alternatively,
+D. In other words,
+Answer: B
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In quantum physics, Karen Barad's theory of agential realism—which emphasizes the entanglement, or "intra-action," of human and nonhuman actors—is a foundational rebuke to the dualistic subject-object divide that has undergirded scientific epistemology for centuries. ______ Barad's theory presents a paradigmatic shift in the scientific understanding of reality and the quantum world.
+
+A. For example,
+B. By contrast,
+C. As such,
+D. That said,
+Answer: C
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Upper-atmospheric jets—phenomena whereby electrical discharges cause narrow cones of blue light to briefly burst upward from the tops of thunderclouds—have been observed reaching the ionosphere. The extreme altitudes involved (the ionosphere begins about 80 km above Earth) mark these gigantic jets as outliers; ______ the majority of jets reach heights of only 20 to 50 km.
+
+A. consequently,
+B. indeed,
+C. in addition,
+D. nevertheless,
+Answer: B
+
+Question 25:
+[Synthesis]
+The student wants to compare how Schubart and Charpentier describe the mood of C minor. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• In music theory, the term "key" refers to the set of musical notes that forms the foundation of a piece of music.
+• In *Ideas Toward an Aesthetic of Music* (1806), German poet and composer Christian Schubart describes the moods of various musical keys.
+• He describes the key of C minor as expressing "longing."
+• In *Règles de Composition* (1682), French composer Marc-Antoine Charpentier undertakes the same task.
+• He describes the key of C minor as "obscure and sad."
+• "Don't Speak" by No Doubt (1996) is a song written in C minor.
+
+A. Schubart and Charpentier each undertook the task of describing the mood of various keys, including C minor.
+B. Schubart describes the mood of C minor as expressing "longing," while Charpentier describes it as "obscure and sad."
+C. The song "Don't Speak" by No Doubt is written in the key of C minor, the mood of which has been described as expressing "longing."
+D. The key of C minor is one of various keys, which are sets of musical notes that form the foundations of pieces of music.
+Answer: B
+
+Question 26:
+[COE]
+Which choice most effectively uses information from the given sentences to emphasize how long Hess's sport has been a Paralympic event?
+
+While researching a topic, a student has taken the following notes:
+
+• The Paralympic Games are a series of international sporting events involving athletes with an impairment.
+• A gold medal indicates that an athlete finished in first place.
+• Swimming has been an event at the Paralympics since 1960.
+• Béatrice Hess competed as a Paralympic swimmer from 1984 to 2004.
+• She won twenty-five medals.
+• Of these medals, twenty were gold.
+
+A. An accomplished Paralympian with multiple gold medal wins, Béatrice Hess competed as a swimmer from 1984 to 2004.
+B. Béatrice Hess competed at the Paralympic Games, a series of international sporting events.
+C. Swimming, a sport in which Béatrice Hess took home twenty gold medals, has been an event at the Paralympic Games since 1960.
+D. During her career in swimming, which started in 1984, Béatrice Hess took home a total of twenty-five medals, twenty of which were gold.
+Answer: C
+
+Question 27:
+[Synthesis]
+The student wants to make a generalization based on the study's findings. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• A 2022 study analyzed geotagged social media posts to assess the effect of parks on happiness in 25 US cities.
+• The happiness benefit of a city's parks was the numeric difference between the calculated happiness scores of posts made in parks and posts made elsewhere.
+• A benefit above 0 indicates a positive effect.
+• The park happiness benefit in San Francisco, California, was greater than 0.10.
+• The park happiness benefit in Washington, DC, was greater than 0 but less than 0.10.
+• The average happiness benefit of parks across all cities was 0.10.
+
+A. Geotagged social media posts were analyzed for expressed happiness in both San Francisco and Washington.
+B. Though it can vary from city to city, the overall effect of parks on happiness is a positive one.
+C. San Francisco's parks had a positive effect on happiness, but this was not true of Washington's parks, which had a below-average effect.
+D. By comparing the happiness scores of posts made in parks and posts made elsewhere, the study determined the effect of parks on happiness.
+Answer: B
+

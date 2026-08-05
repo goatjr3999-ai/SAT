@@ -1,0 +1,262 @@
+Question 278:
+[COE]
+Which choice completes the text with most logical and precise word or phrase?
+
+In 1891, design artist William Morris cofounded the Kelmscott Press, which printed editions of books using preindustrial methods. Historians argue that Morris's repudiation of industrialization is ______ the Kelmscott editions' use of handmade materials and intricate ornamentation reminiscent of medieval manuscripts; these meticulously handcrafted elements exemplify the artistry involved.
+
+
+A. insensible to
+B. manifest in
+C. scrutinized by
+D. complicated by
+Answer: B
+
+Question 208:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Though Dmitri Mendeleev’s 1871 periodic table of the elements remains the standard, issues including the placement of helium and hydrogen have inspired unconventional alternatives, such as James Franklin Hyde’s looping ribbon from 1974. These novel reconfigurations are not instances of ______ for its own sake; rather, they have sought to enhance the utility of the venerated original.
+
+
+A. emulation
+B. forbearance
+C. regression
+D. iconoclasm
+Answer: D
+
+Question 103:
+[WIC]
+As used in the text, what does the word “place” most nearly mean?
+
+The following text is from Lilliam Rivera’s 2020 novel Never Look Back. The text describes the narrator arriving at his father’s apartment.
+ “Pops, I’m here!” I drop my bag and set my guitar case against a wall. I __place__ my keys on the bowl right next to the ceramic elephant Pops got me on one of his trips to Santo Domingo when I was a little kid.
+
+
+A. Unlock
+B. Put
+C. Remove
+D. Rank
+Answer: B
+
+Question 81:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+City planners need accurate maps of their city's sidewalks to properly maintain them, but mapping manually is slow. Maryam Hosseini and her team addressed this by training a computer program to identify sidewalks in aerial images of Boston. When they used the program on aerial images of Brooklyn, it accurately _____ sidewalks and could even distinguish between concrete and brick.
+
+
+A. mistook
+B. approved
+C. detected
+D. neglected
+Answer: C
+
+Question 9:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The National Heritage Fellowship was created to honor exceptional folk and traditional artists in the United States. In 2006, the fellowship was given to the Puerto Rican stringed-instrument maker Donomedes Matos. Matos was ______ to receive it because of his lifetime contributions to the arts.
+
+
+A. chosen
+B. reluctant
+C. confused
+D. ineligible
+Answer: A
+
+Question 226:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Whether Carmen Lomas Garza is creating small paintings and illustrations or large public artworks-such as *Baile*, a copper cutout of traditional Mexican dance in the San Francisco International Airport-she is inspired by direct experience,______memories of her childhood in Texas or details of her current surroundings in California.
+
+
+A. complimented by
+B. supplemented by
+C. unbothered by
+D. drawing from
+Answer: D
+
+Question 15:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Despite stated claims of global relevance, much major research on income inequality performed in the 2010s suffered from a myopic focus on a few countries in North America and Western Europe, partly due to limited data availability. Researchers would later ____ this shortcoming after gaining new access to administrative records located in nations in South America, such as Brazil, and Eastern Europe, such as Russia.
+
+
+A. emulate
+B. espouse
+C. redress
+D. expunge
+Answer: C
+
+Question 84:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Béláné Mocsáry, who traveled solo to four continents in the early 1900s, undoubtedly accomplished much, but her place in our historical memory is perhaps more_____than that of a noteworthy “first” such as Adeline and Augusta Van Buren, who were the first women to ride solo motorcycles across the continental United States, a deed for which they will always be remembered.
+
+
+A. enduring
+B. conspicuous
+C. deserving
+D. uncertain
+Answer: D
+
+Question 176:
+[WIC]
+As used in the text, what does the word “tip” most nearly mean?
+
+The following text is from Jhumpa Lahiri's 2003 novel The Namesake. Gogol, a child, is at a beach in Massachusetts with his father.
+He watches his father raise a kite within minutes into the wind, so high that Gogol must tip his head back in order to see, a rippling speck against the sky. The wind whips around their ears, turning their faces cold.
+©2003 by Jhumpa Lahiri
+
+
+A. Invent
+B. Teach
+C. Lean
+D. Pay
+Answer: C
+
+Question 57:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Writer Lydia Davis observed that while traditional literary forms, such as the novel, are recognizable as such even as they evolve, there are rarer "intergeneric" forms that might, for example, use elements of both fiction and essays to create something ________. The late-period pieces of James Tate arguably fit this description, since they straddle the line between prose and poetry.
+
+
+A. orthodox
+B. unequivocal
+C. recurrent
+D. unclassifiable
+Answer: D
+
+Question 262:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+New and interesting research conducted by Suleiman A. Al-Sweedan and Moath Alhai is inspired by their observation that though there have been ____ studies of the effect of high altitude on blood chemistry, there is a paucity of studies of the effect on blood chemistry of living in locations below sea level, such as the California towns of Salton City and Seeley.
+
+
+A. copious
+B. preliminary
+C. equivocal
+D. sporadic
+Answer: A
+
+Question 177:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Radar and sonar can detect objects or people through walls, but they are too costly for consumer use. Researchers Fadel Adib and Dina Katabi have shown, however, that there may be a comparatively _________ alternative: small changes to the Wi-Fi technology used in smartphones can give users a cheap way to count people or even identify their gestures through walls.
+
+
+A. infrequent
+B. inexpensive
+C. impractical
+D. unmistakable
+Answer: B
+
+Question 164:
+[WIC]
+As used in the text, what does the word "display" most nearly mean?
+
+The following text is adapted from John Matheus's 1926 short story, "Mr. Bradford Teaches Sunday School." Mr. Bradford is driving through the countryside in Florida. The moss in the towering water oaks had become enlivened with a verdant sheen of silver and hung like festoons of carnival or like funereal decorations for the mourning of the dead. The pine green was resplendent. The bald cypresses spread themselves along the water courses while the willows wept as they always did. Mr. Bradford was conscious of this gorgeous display of nature.
+
+
+A. Exhibition
+B. Disguise
+C. Identity
+D. Pretentiousness
+Answer: A
+
+Question 70:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The minor planet 1095 Tulipa was named after the plant genus that includes tulips, but given the sheer number of minor planets that have been discovered (more than 500,000 so far), most are given only an identification number. Because any name given to a minor planet needs to be unique to that body, naming each would be ____.
+
+
+A. impractical
+B. presumptuous
+C. ambiguous
+D. customary
+Answer: A
+
+Question 222:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The fossil remains of the individual known as Misliya-1, discovered in Israel in 2002, can help paleoanthropologists not only ____ steps in the evolution of hominids but also illuminate the Pleistocene epoch generally, revealing important details about the time in which Misliya-1 lived.
+
+
+A. exploit
+B. yield
+C. prioritize
+D. discern
+Answer: D
+
+Question 119:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Sentient robots such as Kodomoroid (developed in 2014) and Yumemirai (developed in 2020) are designed to resemble humans so that people will find it easier to interact with them. To this end, certain features such as the ability to respond to voice commands can help to create the comforting semblance of humanity, but a robot that appears so similar to humans can make people feel more unsettled than ____
+
+
+A. placated
+B. reviled
+C. vindicated
+D. indifferent
+Answer: A
+
+Question 238:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+During the 2007–2010 financial crisis, the United States furnished billions of dollars to selected countries’ central banks via mechanisms called swap lines. Aditi Sahasrabuddhe found that countries’ policy environments seem to have been ____ swap line decisions: the probability that banks would be granted swap lines was 0.20 in countries open to foreign-capital inflows and 0.03 in countries with policies restricting such inflows.
+
+
+A. predicated on
+B. mediated by
+C. material to
+D. decoupled from
+Answer: C
+
+Question 63:
+[WIC]
+As used in the text, what does the word "undergone" most nearly mean?
+
+TROFIMOV: Believe me, Anya, believe me! I'm not thirty yet, I'm young, I'm still a student, but I have __undergone__ a great deal! I'm as hungry as the winter, I'm ill, I'm shaken... and where haven't I been—fate has tossed me everywhere!
+
+
+A. Uncovered
+B. Ignored
+C. Experienced
+D. Conveyed
+Answer: C
+
+Question 247:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Consumers usually ________ rising prices of nonessential products, such as video games or jewelry, by purchasing fewer of those products. When the prices fall, consumers usually react the opposite way, by purchasing more of those products.
+
+
+A. agree with
+B. respond to
+C. think of
+D. differ from
+Answer: B
+
+Question 137:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Many ancient sculptures of people's heads are missing their noses. This is because the noses are the most ________ part of a sculpture of a person's head. It is delicate and sticks out from the rest of the sculpture, making it especially easy to break.
+
+
+A. recognizable
+B. fragile
+C. common
+D. sophisticated
+Answer: B

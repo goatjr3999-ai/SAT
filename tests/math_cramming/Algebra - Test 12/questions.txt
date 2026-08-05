@@ -1,0 +1,92 @@
+Question 1:
+{{MATH_1}}
+In the given equation, r is a constant. The equation has no solution. What is the value of r?
+
+A. {{MATH_2}}
+B. {{MATH_3}}
+C. {{MATH_4}}
+D. {{MATH_5}}
+Answer: D
+
+Question 2:
+If {{MATH_6}} , what is the value of {{MATH_7}} ?
+
+A. {{MATH_8}}
+B. {{MATH_9}}
+C. {{MATH_10}}
+D. {{MATH_11}}
+Answer: B
+
+Question 3:
+If {{MATH_12}}% of n is {{MATH_13}}, what is the value of n?
+
+A. {{MATH_14}}
+B. {{MATH_15}}
+C. {{MATH_16}}
+D. {{MATH_17}}
+Answer: D
+
+Question 4:
+The table shows two values of x and their corresponding values of h(x) for the linear function h. Which equation defines h?
+
+A. {{MATH_18}}
+B. {{MATH_19}}
+C. {{MATH_20}}
+D. {{MATH_21}}
+Answer: B
+
+Question 5:
+{{MATH_22}}
+{{MATH_23}}
+The graphs of the equations in the given system intersect at the point {{MATH_24}} in the xy-plane. What is a possible value of x?
+
+A. {{MATH_25}}
+B. {{MATH_26}}
+C. {{MATH_27}}
+D. {{MATH_28}}
+Answer: A
+
+Question 6:
+A piece of string with a length of {{MATH_29}} inches is cut into two parts. One part has a length of x inches, and the other part has a length of y inches. The value of x is {{MATH_30}} more than {{MATH_31}} times the value of y. What is the value of x?
+
+A. {{MATH_32}}
+B. {{MATH_33}}
+C. {{MATH_34}}
+D. {{MATH_35}}
+Answer: D
+
+Question 7:
+A landscaper will plant two types of shrubs, hydrangeas and winter hazels, in a park. There will be no more than {{MATH_36}} total shrubs planted, and the number of hydrangeas planted will be at most three times the number of winter hazels planted. Which of the following systems of inequalities best represents this situation, where h is the number of hydrangeas that will be planted and w is the number of winter hazels that will be planted?
+
+A. {{MATH_37}} {{MATH_38}}
+B. {{MATH_39}} {{MATH_40}}
+C. {{MATH_41}} {{MATH_42}}
+D. {{MATH_43}} {{MATH_44}}
+Answer: A
+
+Question 8:
+{{MATH_45}}
+{{MATH_46}}
+Which point {{MATH_47}} is a solution to the given system of inequalities in the xy-plane?
+
+A. {{MATH_48}}
+B. {{MATH_49}}
+C. {{MATH_50}}
+D. {{MATH_51}}
+Answer: D
+
+Question 9:
+{{MATH_52}}
+What is the greatest solution to the given equation?
+
+A. {{MATH_53}}
+B. {{MATH_54}}
+C. {{MATH_55}}
+D. {{MATH_56}}
+Answer: B
+
+Question 10:
+{{MATH_57}}
+The model shown gives the predicted average Arctic sea ice area {{MATH_58}} , in millions of square kilometers, for September of each year x, where x represents a year and {{MATH_59}} . Based on the model, what is the positive difference, in millions of square kilometers, between the predicted average Arctic sea ice area for September of the year 1991 and the predicted average Arctic sea ice area for September of the year 1992? (Round your answer to the nearest thousandth.)
+(dien so thap phan)
+Answer: 0.059

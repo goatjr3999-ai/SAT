@@ -1,0 +1,69 @@
+Question 1:
+The 22 students in 3 health class conducted an experiment in which they each recorded their pulse rates, in beats per minute, before and after completing a light exercise routine. The dot plots below display the results.
+
+Beats per minute before exercise
+
+Beats per minute alter exercise
+Let {{MATH_1}}and {{MATH_2}}be the standard deviation and range, respectively, of the data before exercise, and let {{MATH_3}} and {{MATH_4}} be the standard deviation and range, respectively, of the data after exercise. Which of the following is true?
+
+A. s1 = s2 and r1 = r2
+B. s1 < s2 and r1 < r2
+C. s1 > s2 and r1 > r2
+D. s1 ≠ s2 and r1 = r2
+Answer: D
+
+Question 2:
+The box plots summarize the masses, in kilograms, of two groups of gazelles. Based on the box plots, which of the following statements must be true?
+
+A. The mean mass of group 1 is greater than the mean mass of group 2
+B. The mean mass of group 1 is less than the mean mass of group 2
+C. The median mass of group 1 is greater than the median mass of group 2
+D. The median mass of group 1 is less than the median mass of group 2
+Answer: C
+
+Question 3:
+The dot plots represent the distributions of values in data sets A and B.
+
+Which of the following statements must be true?
+I. The median of data set A is equal to the median of data set B.
+II. The standard deviation of data set A is equal to the standard deviation of data set B.
+
+A. I only
+B. II only
+C. I and II
+D. Neither I nor II
+Answer: A
+
+Question 4:
+The mean amount of time that the 20 employees of a construction company have worked for the company is 6.7 years. After one of the employees leaves the company, the mean amount of time that the remaining employees have worked for the company is reduced to 6.25 years. How many years did the employee who left the company work for the company?
+
+A. 0.45
+B. 2.30
+C. 9.00
+D. 15.25
+Answer: D
+
+Question 5:
+For a certain computer game, individuals receive an integer score that ranges from 2 through 10. The table below shows the frequency distribution of the scores of the 9 players in group A and the 11 players in group B.
+
+The median of the scores for group B is how much greater than the median of the scores for group A?
+
+Answer: 1
+
+Question 6:
+Data set A and data set B each consist of 27 values. The table shows the frequencies of the values for each data set. Which of the following statements best compares the means of the two data sets?
+
+A. The mean of data set A is greater than the mean of data set B
+B. The mean of data set A is less than the mean of data set B
+C. The mean of data set A is equal to the mean of data set B
+D. There is not enough information to compare the means of the data sets
+Answer: A
+
+Question 7:
+Data set D consists of the ages of 80 trees and has a mean age of 150 years. Data set E consists of the ages of 60 trees and has a mean age of 200 years. Data set F consists of the ages of all 140 trees from data sets D and E. What is the mean, in years, of data set F?
+
+A. 165
+B. 168
+C. 171
+D. 174
+Answer: C

@@ -1,0 +1,120 @@
+Question 1:
+[COE]
+Which finding, if true, would best support the linguist’s hypothesis?
+
+The Quechua language of the Andes in South America has 18 distinct vowel and consonant sounds, while the Xhosa language of southern Africa has 80. What might account for this variation in sound complexity across languages? One linguist proposes that when early humans originated in Africa, they communicated with a single language. As humans dispersed across Africa and eventually around the world, this language diversified. With each migration, new languages formed from the original, each retaining fewer sounds from humanity’s first language.
+
+A. Languages that developed in northern South America tend to have more sounds than languages that emerged in East Asia do, even though northern South America is farther from Africa than East Asia is.
+B. Languages that originated in southern Europe tend to have fewer sounds than languages that developed in East Asia do, and southern Europe is closer to Africa than East Asia is.
+C. Languages that emerged in Central Asia tend to have more sounds than languages that developed in East Asia do, and Central Asia is closer to Africa than East Asia is.
+D. Languages that emerged in Southeast Asia tend to have more sounds than languages that developed in East Asia do, even though the two regions are about the same distance from Africa.
+Answer: C
+
+Question 2:
+[COE]
+Which quotation from a study of irrigation best supports the student’s claim?
+
+A student is writing a research paper on the history of irrigation in the United States, situating the development of the Bear River Reservoir (created in Amador County, California, in 1900) in a larger historical context. The student claims that innovation in irrigation practices throughout the United States has led to designs with increased efficiency.
+
+A. “While the low humidity of Southern California’s desert areas makes irrigation a requirement if agriculture is to be a success there, the relatively high humidity in the northern parts of the state makes such practices less necessary.”
+B. “The importance of irrigation infrastructure in the United States today cannot be overstated, since it is the most widely utilized means of conveying water for food production. Accordingly, any increase in the efficiency of irrigation, however small, would be of significant economic and social value.”
+C. “The irrigation system developed by the Hohokam people in the 7th century CE in what is now Arizona was simple but applied hydraulic engineering design features that are still in use today.”
+D. “Competition for water as a scarce economic resource inspired the development of sprinkler irrigation systems, which have contributed to the reduction of water used for irrigation in the United States to 45% of the total water usage of its population. Comparatively, 70% of the world’s water usage is dedicated to irrigation.”
+Answer: D
+
+Question 3:
+[COE]
+Which detail, if true, would most directly support the team’s conclusion?
+
+Assessing the role of forests as sinks for airborne microplastics that would otherwise continue to disperse in the atmosphere, Akane Miyazaki and her team measured concentrations of plastic particulates on leaves from konara oak trees in Japan. The team used three separate extraction methods: an ultrapure water rinse, a rinse combined with ultrasonic waves, and an alkaline solution treatment that removes epicuticular wax (a surface coating on most land plants to which particles can adhere). The concentrations of particulates recovered were 7.6 percent for water extraction, 38.4 percent for ultrasonic extraction, and 53.8 percent for alkaline extraction, leading the team to conclude that previous assessments have likely underestimated forest canopies’ capacity as sinks.
+
+A. Most studies of microplastic accumulation on leaves have utilized extraction methods that do not have a substantial effect on epicuticular wax.
+B. Most studies of microplastic accumulation on leaves have focused on forests with diverse tree species that exhibit varying levels of epicuticular wax.
+C. Most studies of microplastic accumulation on leaves have found particulate concentrations that greatly exceeded 53.8 percent.
+D. Most studies of microplastic accumulation on leaves have involved the application of alkaline treatments before water and ultrasonic treatments rather than after them.
+Answer: A
+
+Question 4:
+[COE]
+Which finding, if true, would most directly support Núñez and colleagues’ claim?
+
+Rafael Núñez and colleagues studied how members of the Yupno, an Indigenous group in Papua New Guinea, conceptualize time in both spoken language and gestures. The researchers recorded Yupno speakers explaining certain temporal words and phrases, such as jare, a past-oriented expression that translates to “day before yesterday,” and coded each speaker’s manual gestures. Previous research has found a tendency in many cultures to make temporal distinctions along imagined linear axes: for instance, Hebrew speakers often refer to the right/left axis to describe events in time. Some researchers believe this tendency is universal, but Núñez and colleagues claim this is not the case.
+
+A. Yupno speakers typically use their left hand to make temporal gestures regardless of whether the gestures are past oriented or future oriented.
+B. Future-oriented gestures used by Yupno speakers do not, on average, point in the opposite linear direction of past-oriented gestures.
+C. Some Yupno grammatical structures used when talking about time are also used in Hebrew.
+D. Yupno speakers were observed making temporal gestures both indoors and outdoors, though with greater frequency when indoors.
+Answer: B
+
+Question 5:
+[COE]
+Which finding, if true, would most directly challenge the second team's claim?
+
+Michelle R. Sato, Henry P. Torres, and David L. Reagan explored the development and purpose of rapid color-shifting in freshwater cichlids. Their investigation revealed that during non-harmful mock threats, about a third of the cichlid species tested displayed color transformations, varying from slight hue shifts in Neolamprologus brichardi to intense bursts of color in Tropheus moorii. A separate group of researchers then proposed that these vivid displays are mainly intended to signal and interact with other members of the species.
+
+A. The color shifts prompted by the simulated threats lacked any visual characteristics that would render them noticeable to herons, larger predatory fish, or other common threats to cichlids.
+B. Many of the cichlid species that did not exhibit color changes when faced with simulated threats have been observed exhibiting color alterations while in the presence of conspecifics.
+C. Among the cichlid species that shifted color in response to mock threats, no individual showed any coloration change in the minute before the threat simulations, yet the majority displayed color shifts once the simulations were initiated.
+D. The cichlids known to shift color in response to simulated threats generally inhabit solitary territories and were evaluated under conditions without other fish present.
+Answer: D
+
+Question 6:
+[COE]
+Which finding, if true, would most directly illustrate the researchers’ finding?
+
+Adelaide, Australia, has installed engineered structures along 53% of its shoreline to protect infrastructure from wave erosion and other hazards, a practice known as shoreline hardening. To evaluate the responses of waterbirds to two types of hardening structures—riprap and bulkheads—Diann Prosser et al. surveyed waterbird communities consisting of the brown pelican, the red knot, and 62 other species at different sites in the Chesapeake Bay on the US East Coast. Utilizing the Index of Waterbird Community Integrity (IWCI), on which a high score corresponds to high community integrity, the researchers found that bulkheads are more strongly negatively correlated with waterbird community integrity than is riprap.
+
+A. The difference in average IWCI scores for waterbird communities at Stony and Old Road, two sites with a higher percentage of shoreline consisting of bulkheads than of riprap, was statistically insignificant.
+B. Waterbird communities at Curtis, a site with equal percentages of shoreline consisting of bulkheads and riprap, had higher average IWCI scores than did waterbird communities at Miles, a site with different percentages of shoreline consisting of bulkheads and riprap.
+C. Waterbird communities at Old Road, a site with a relatively high percentage of shoreline consisting of bulkheads, had lower average IWCI scores than did waterbird communities at Miles, a site with a relatively high percentage of shoreline consisting of riprap.
+D. Waterbird communities at Curtis, a site with a high percentage of shoreline consisting of bulkheads and riprap, had lower average IWCI scores than did waterbird communities at Onancock, a site with a low percentage of shoreline consisting of bulkheads and riprap.
+Answer: C
+
+Question 7:
+[COE]
+Which finding, if true, would most directly illustrate the researchers' finding?
+
+Vancouver, Canada, has installed engineered structures along 75% of its shoreline to protect infrastructure from storm surges and other hazards, a practice known as shoreline hardening. To evaluate the responses of waterbirds to two types of hardening structures—riprap and bulkheads—Diann Prosser et al. surveyed waterbird communities consisting of the mallard, the common loon, and 62 other species at different sites in the Chesapeake Bay on the US East Coast. Utilizing the Index of Waterbird Community Integrity (IWCI), on which a high score corresponds to high community integrity, the researchers found that bulkheads are more strongly negatively correlated with waterbird community integrity than is riprap.
+
+A. Waterbird communities at Curtis, a site with a high percentage of shoreline consisting of bulkheads and riprap, had lower average IWCI scores than did waterbird communities at Onancock, a site with a low percentage of shoreline consisting of bulkheads and riprap.
+B. The difference in average IWCI scores for waterbird communities at Stony and Old Road, two sites with a higher percentage of shoreline consisting of bulkheads than of riprap, was statistically insignificant.
+C. Waterbird communities at Old Road, a site with a relatively high percentage of shoreline consisting of bulkheads, had lower average IWCI scores than did waterbird communities at Miles, a site with a relatively high percentage of shoreline consisting of riprap.
+D. Waterbird communities at Curtis, a site with equal percentages of shoreline consisting of bulkheads and riprap, had higher average IWCI scores than did waterbird communities at Miles, a site with different percentages of shoreline consisting of bulkheads and riprap.
+Answer: C
+
+Question 8:
+[COE]
+Which finding, if true, would most directly support the researchers’ assertion?
+
+In an international collaboration, Elaine Ostrander, Alan K. Outram, and other researchers probed the evolutionary history of size variation in modern dogs. Scientific consensus held that early dogs had large body mass and that a genetic driver of smaller size in some breeds (e.g., bulldogs) developed only within the last 20,000 years as a result of selective breeding for characteristics favored by humans. Ostrander et al. assert that this explanation is flawed, having discovered that a mutation responsible for variants of IGF1, a gene found in many mammals that regulates production of insulin-like growth factor 1, is ubiquitous in domestic dog breeds.
+
+A. IGF1 has been isolated in genetic material from fossils more than 20,000 years old of the red wolf (Canis rufus) and certain other species related to dogs.
+B. An additional mutation related to IGF1 affects the development of characteristics other than body size in smaller dog breeds like bulldogs.
+C. The mutation related to IGF1 influences body size and is found in 53,000-year-old genetic material from fossils of Siberian wolves (Canis lupus campestris), an ancestor of dogs.
+D. One variant of IGF1 is found only in smaller dog breeds like bulldogs and appears to have emerged no more than 20,000 years ago.
+Answer: C
+
+Question 9:
+[COE]
+Which finding from the study, if true, would most directly support the team’s conclusion?
+
+Neurobiologists Laura Cuaya, Raul Hernández-Pérez, and colleagues investigated the language detection abilities of eighteen dogs raised in similar settings. The researchers monitored the brain activity of Barak (a golden retriever), Alma (a mixed breed), and other dogs while the animals listened to three recordings: one of The Little Prince being read in Spanish, the second in Hungarian, and a third made up of short, randomly selected fragments of the first two, scrambled so that they didn’t resemble human speech. Each dog was familiar with either Spanish or Hungarian, but not both. The team concluded that the amount of previous language exposure a dog has received may influence its ability to distinguish familiar languages from unfamiliar ones.
+
+A. Dogs showed a different pattern of brain activity when hearing the language they were accustomed to than when hearing the scrambled recording, and the difference in brain activity increased with the age of the dog scanned.
+B. Although the dogs’ general hearing sensitivity declined with age, dogs of all ages showed more brain activity in response to hearing the language they were accustomed to than in response to hearing the other language.
+C. The similarity between the pattern of brain activity a dog showed in response to hearing the scrambled recording and the pattern of brain activity it showed in response to hearing the language it was not accustomed to was greatest among older dogs.
+D. The difference between the pattern of brain activity a dog showed when hearing the language it was accustomed to and the pattern of brain activity it showed when hearing the language it was not accustomed to was greatest among older dogs.
+Answer: D
+
+Question 10:
+[COE]
+Which finding, if true, would most strongly support the researchers' conclusion?
+
+The utilization of deceptive antipredator displays is well documented in the little ringed plover (Charadrius dubius) and other species of the avian order Charadriiformes. An extensive literature review conducted by Léna le Fraonard et al. revealed that this trait has evolved across a surprisingly large phylogenetic distribution of 13 avian orders, including Caprimulgiformes and Gruiformes. Subsequent investigation of potential selection mechanisms prompted the researchers to conclude that independent of avian order, the prevalence of the trait is mediated by environmental variations associated with the absolute latitude of brooding sites.
+
+A. Across the orders in the study, approximately 54% of the bird species brood in ranges from 50° to 80° absolute latitude, but most of the birds that are known to use deceptive antipredator displays brood between 0° and 30° absolute latitude.
+B. Deceptive antipredator displays are documented in Charadriiformes species across the entire range of absolute latitudes for brooding sites within that order, but in species from other orders, deceptive antipredator displays are documented only when brooding sites are at absolute latitudes 10°–20° higher than what is typical for those species.
+C. The use of deceptive antipredator displays is widespread among Charadriiformes species independent of the absolute latitude of their brooding sites, but its prevalence in other avian orders is limited to species with brooding sites located in absolute latitudes of 0°–30°.
+D. Across the orders in the study, deceptive antipredator displays are observed in approximately 34% of species with brooding ranges of 0°–30° absolute latitude and approximately 60% of species with brooding ranges of 50°–80° absolute latitude.
+Answer: D
+

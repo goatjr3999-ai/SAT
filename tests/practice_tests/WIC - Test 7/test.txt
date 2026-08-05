@@ -1,0 +1,240 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+During a 2021 economic summit in Toronto, analyst Priya Desai warned executives that dealings between management and workers are inherently _____, because employers’ priorities routinely conflict with those of their employees.
+
+A. exploitative
+B. mercenary
+C. antagonistic
+D. variable
+Answer: C
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The familial structure of the black swan (Cygnus atratus) shows tremendous ____: breeding pairs with demonstrated success in rearing cygnets (young swans) have been observed to foster those of less successful pairs, and while rearing by female-male pairs is most common, male-male pairs sometimes rear cygnets too, achieving a significantly higher rate of survival to adulthood than female-male pairs.
+
+A. elasticity
+B. reciprocity
+C. cohesion
+D. affection
+Answer: A
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The reception of Mary Ly’s book Roots and Wings has been very good. Many reviewers, booksellers, and librarians have ___ the book, and it won the Asian/Pacific American Award for Literature.
+
+A. attacked
+B. recommended
+C. overlooked
+D. misunderstood
+Answer: B
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In some of his sculptures, Allan Houser uses abstract geometric shapes to depict his subjects, a departure from the style for which he was also known. For instance, his 1989 work Embrace is highly abstract and therefore lacks the striking ______ of his other pieces, which portray familiar objects with such lifelike precision that they seem almost real.
+
+A. rhetoric
+B. austerity
+C. idiosyncrasy
+D. verisimilitude
+Answer: D
+
+Question 5:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Though the Nobel Prize in Chemistry has gone to single individuals like Artturi Ilmari Virtanen in 1944, the Nobel Committee now seems less willing to exclusively ______ the archetype of the lone researcher. By also recognizing collaborative efforts, such as Frederick Sanger’s team for their analyses of DNA structure, the committee acknowledges that modern scientific success is usually achieved through direct cooperation.
+
+A. impugn
+B. palliate
+C. extirpate
+D. countenance
+Answer: D
+
+Question 6:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Before the Mariner 2 mission completed a successful flyby of Venus in 1962, astronomers’ ideas about the planet were little more than _____. Venus’s atmosphere is so thick that Earth-based observations had yielded very little information about the planet.
+
+A. conclusions
+B. summations
+C. conjectures
+D. exemplifications
+Answer: C
+
+Question 7:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Both sharks and crayfish can detect electrical fields around them, but the ____ of their sensitivities differs substantially. Whereas crayfish can detect fields emitted by household electronics, those are many times stronger than the fields created by water moving through Earth’s magnetic field, which sharks are sensitive enough to detect.
+
+A. magnitude
+B. firmness
+C. gathering
+D. orientation
+Answer: A
+
+Question 8:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Domesticated thousands of years ago by Indigenous people in South America, the tomatillo deviates structurally from the wild plant it is descended from. Maize (com), another crop domesticated by Indigenous Americans, shows so little ____to any wild plant that genetic research was necessary to confirm teosinte grass as its ancestor.
+
+A. resemblance
+B. disparity
+C. affinity
+D. demarcation
+Answer: A
+
+Question 9:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+A canned toy has raised its price, but contrary to expectations, the rising price _____ demand. The sales of canned toys has been increasing because traders buy them in bulk and sell them for a higher price.
+
+A. monetize
+B. elicit
+C. showcase
+D. manipulate
+Answer: B
+
+Question 10:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+When new chemical elements are synthesized, each is assigned a distinctive atomic number, and some are given a specific name, such as Moscovium, which was named to honor the Moscow region where it was first created. According to modern scientific protocols, it is _____ for researchers to propose names for the elements they discover, though they are under no obligation to do so; the decision to assign a name remains entirely at the discretion of the discoverer.
+
+A. allowable
+B. impracticable
+C. discretionary
+D. obligatory
+Answer: A
+
+Question 11:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Literary reviewers at the 2024 New York LitFest remarked that essayist Gabriel Ortiz writes in an ______ manner: his prose bursts with vivid, biting turns of phrase, takes bold risks with cultural allusions and startling metaphors, and often ends on irreverent punch lines meant to jolt the audience.
+
+A. effusive
+B. audacious
+C. lyrical
+D. ornate
+Answer: B
+
+Question 12:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Unlike the straightforward appeal of much popular music, the compositions of Rosa Guraieb can seem deliberately ______, their complex structures and dissonant harmonies baffling to many. Indeed, without a background in modernist composition, a listener might struggle to find any meaning at all, making the claim of misunderstanding the piece entirely justifiable.
+
+A. esoteric
+B. mellifluous
+C. steadfast
+D. gregarious
+Answer: A
+
+Question 13:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The work of Tobias Gerstenberg et al. on tracking eye movements supports a theory that people engage in ____ thinking when making causal judgments: when subjects were asked to look at two colliding billiard balls and judge whether one caused or prevented the other’s movement through a gate, their eyes looked at where the target ball would have gone if the ball that altered its path did not exist.
+
+A. ambivalent
+B. counterfactual
+C. analogical
+D. associative
+Answer: B
+
+Question 14:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Seemingly filmed with ______ purpose, the director's harrowing documentary on the 2008 financial crisis—a stark look at the personal ruin it caused—hopes to curb future reckless speculation by serving as a powerful testament to its devastating, and often-forgotten, consequences.
+
+A. an ambivalent
+B. a surreptitious
+C. a digressing
+D. an admonitory
+Answer: D
+
+Question 15:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Discussions surrounding the adoption of automated essay grading software typically center on its efficiency for instructors, but educational theorist Dr. Elara Vance has posited that over-reliance on this technology could ______ genuine critical thinking skills in students by incentivizing formulaic writing over nuanced argumentation.
+
+A. disparage
+B. galvanize
+C. eclipse
+D. impede
+Answer: D
+
+Question 16:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Some social scientists argue that for a democracy to function, the lessons drawn by its electorate from the past must be clear and actionable. While professional historians rightly delve into the complexities and ambiguities of events, the fundamental political takeaways for the public—the stark warnings against authoritarianism, for instance—cannot be mired in academic ambiguity. For the purpose of civic education, history's core message must be rendered too ______ to be left solely to the nuanced discourse of academics.
+
+A. salient
+B. erudite
+C. contentious
+D. unequivocal
+Answer: D
+
+Question 17:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The results of randomized clinical trials testing the efficacy of common medical interventions sometimes fail to _____ conclusions that practitioners reach based on their real-world observations of patients. While there are several possible reasons for this, one is that practitioners may overlook confounding variables that account for the results they attribute to the interventions in question.
+
+A. implement
+B. circumvent
+C. corroborate
+D. disseminate
+Answer: C
+
+Question 18:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Some pieces of music might have many meanings—the compositions of Charlotte Moorman can _____ as many different interpretations as there are people to listen to them—and so as long as a listener’s interpretation isn’t willfully absurd or the result of inattention, it is difficult to justify the claim that the listener has misunderstood the piece.
+
+A. refute
+B. omit
+C. support
+D. evade
+Answer: C
+
+Question 19:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Political analysts observe that, although citizens routinely claim to admire candidates who embrace complexity and show a readiness to bargain, when they are asked to weigh speeches presenting those nuanced positions against addresses advancing __________ convictions, respondents typically favor the latter’s uncompromising tone.
+
+A. doctrinaire
+B. irresolute
+C. trite
+D. duplicitous
+Answer: A
+
+Question 20:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Sarah Marquis, who walked 16,000 kilometers across Asia, Siberia, and Australia, undoubtedly accomplished much, but her place in our historical memory is perhaps more _____ than that of a noteworthy “first” such as Anésia Pinheiro Machado, who was the first female pilot in Brazil to carry passengers and the first to make stunt flights, a deed for which she will always be remembered.
+
+A. indefatigable
+B. conspicuous
+C. peripheral
+D. commendable
+Answer: C
+

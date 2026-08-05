@@ -1,0 +1,79 @@
+Question 22:
+Which choice best describes data from the table that most effectively strengthen Pereira and colleagues’ conclusion?
+
+Average Monetized Productivity Loss at Two Points After Programs Began, in Australian Dollars
+
+Michelle Pereira et al. hypothesized that introducing health improvements into workplaces would increase productivity by reducing absenteeism (sick employees not working) and presenteeism (sick workers working less productively due to illness). Pereira’s team enrolled groups of Australian workers in two programs: one that gave employees exercise training (EET) and one that enrolled employees in health promotion seminars (EHP). They then calculated the productivity loss of those groups at 12 weeks and 12 months after the programs began (based on the 28 days preceding each point). They concluded that exercise training was more effective at restraining productivity loss than health promotion seminars were, though this result took time to become apparent.
+
+
+A. Productivity loss for the EET group barely decreased between 12 weeks and 12 months after the program began, while productivity loss for the EHP group significantly increased during the same time period.
+B. Productivity loss was consistently higher for the EHP group than for the EET group over the twelve months that it was measured, though the size of the difference between the two decreased over that time.
+C. Productivity loss was fairly similar for the EET and EHP groups 12 weeks after each program began, but at 12 months afterward it had significantly increased for the EHP group and significantly decreased for the EET group.
+D. Productivity loss was largely due to absenteeism for the EHP group at 12 months after the program began, while productivity loss was largely due to presenteeism for the EET group at 12 months after the program began.
+Answer: C
+
+Question 23:
+Which choice best describes data from the table that most effectively weaken Pereira and colleagues' conclusion?
+
+Average Monetized Productivity Loss at Two Points After Programs Began, in Australian Dollars
+
+Michelle Pereira et al. hypothesized that introducing health improvements into workplaces would increase productivity by reducing absenteeism (sick employees not working) and presenteeism (sick workers working less productively due to illness). Pereira’s team enrolled groups of Australian workers in two programs: one that gave employees exercise training (EET) and one that enrolled employees in health promotion seminars (EHP). They then calculated the productivity loss of those groups at 12 weeks and 12 months after the programs began (based on the 28 days preceding each point). They concluded that exercise training was more effective at restraining productivity loss than health promotion seminars were, though this result took time to become apparent.
+
+
+A. Productivity loss for the EET group significantly increased between 12 weeks and 12 months after the program began, while productivity loss for the EHP group significantly decreased during the same time period.
+B. Productivity loss was consistently higher for the EHP group than for the EET group over the twelve months that it was measured, though the size of the difference between the two decreased over that time.
+C. Productivity loss was fairly similar for the EET and EHP groups 12 weeks after each program began, but at 12 months afterward it had significantly increased for the EHP group and significantly decreased for the EET group.
+D. Productivity loss was largely due to absenteeism for the EHP group at 12 months after the program began, while productivity loss was largely due to presenteeism for the EET group at 12 months after the program began.
+Answer: A
+
+Question 24:
+Which choice most effectively uses data from the table to complete the statement?
+
+Interested in how differences in the color of dogs’ irises affect human responses to dogs, Akitsugu Konno et al. showed close-up images of dogs’ faces to human participants and asked them to rate the dogs’ traits and their own attitudes toward the dogs. Konno et al. suggest that differences in iris color led participants to view some dogs as more vulnerable and in need of protection than others and that this phenomenon could help explain the association the researchers observed between iris color and participants’ inclinations to interact with or keep dogs, as illustrated by the finding that _____
+
+
+
+A. the more mature a dog was perceived to be, the more likely participants were to rate it as having light irises.
+B. participants favored the dogs in images 2 and 11, which they rated as less mature than the dogs in images 20 and 16.
+C. participants rated the dog in image 2 as less mature than the dog in image 11 and rated the dog in image 16 as less mature than the dog in image 20.
+D. dogs that participants rated as friendlier were also dogs that participants indicated a stronger willingness to interact with or keep.
+Answer: B
+
+Question 25:
+Which choice most effectively uses data from the table to complete the statement?
+
+Interested in how differences in the color of dogs' irises affect human responses to dogs, Akitsugu Konno et al. showed a series of close-up images of dogs' faces to human participants and asked them to rate the dogs' traits and their own attitudes toward the dogs. Konno et al. hypothesized that a primary factor influencing a participant's desire to interact with a dog would be its perceived friendliness. This hypothesis was supported by the finding that ______.
+
+
+
+A. the more mature a dog was perceived to be, the more likely participants were to rate it as having light irises.
+B. participants favored the dogs in images 2 and 11, which they rated as less mature than the dogs in images 20 and 16.
+C. participants rated the dog in image 2 as less mature than the dog in image 11 and rated the dog in image 16 as less mature than the dog in image 20.
+D. dogs that participants rated as friendlier were also dogs that participants indicated a stronger willingness to interact with or keep.
+Answer: D
+
+Question 26:
+Which choice best describes data from the graph that weaken the student's claim?
+
+To measure whether countries in free trade agreements (FTAs)—agreements among nations to reduce tariffs, duties, and other trade barriers—experience changes in total agricultural exports, economist Kayode Ajewole and colleagues calculated average export growth rates for several countries over the five years before and the five years after entering an FTA with the United States. The graph shows the results for three countries in the study. Consulting the graph, a student claims that joining an FTA increases the rate of growth of a country's total agricultural exports.
+
+
+
+A. Over the five years after Costa Rica joined CAFTA-DR, agricultural exports from Costa Rica grew at a rate of about 13.5 percent, which is higher than the rate over the five years before Costa Rica joined the agreement.
+B. All the countries shown had positive growth in agricultural exports over the five years after joining their respective FTAs, but their rates of export growth varied.
+C. Although agricultural exports from Jordan decreased over the five years before JOFTA, a reversal in this trend was observed over the five years after Jordan joined JOFTA.
+D. Although agricultural exports from Morocco grew over the five years after Morocco joined MAFTA, their growth rate was even higher in the five years before MAFTA.
+Answer: D
+
+Question 27:
+Which choice most effectively uses data from the table to complete the statement?
+
+A 2022 US Department of Agriculture report by Kayode Ajewole et al. calculated average annual growth rates of agricultural exports from countries over the five years before and the five years following the creation of a free trade agreement (FTA) with the US. The table shows data for five countries in the study. (Post-FTA calculations included some anticipatory effects preceding the agreements’ official start.) Ajewole et al. note that an increase in the rate of exports to the US in the post-FTA period does not necessarily indicate that a country produced more goods for export as a result of the FTA. Rather, FTAs sometimes incentivize countries to redirect existing trade from nonmember countries to FTA partners, as is most likely the case with _______.
+
+
+
+A. Jordan, because the post-FTA period coincided with increasing rates of both its agricultural exports to the US and its total agricultural exports to countries not participating in the FTA.
+B. Australia, because its rate of agricultural exports to the US and its rate of total agricultural exports both decreased in the post-FTA period relative to the pre-FTA period.
+C. Morocco, because its rate of agricultural exports to the US increased in the post-FTA period relative to the pre-FTA period, while its rate of total agricultural exports decreased during the same period.
+D. Panama, because the post-FTA period saw a decrease in its rate of agricultural exports to the US but not in its rate of total agricultural exports.
+Answer: C

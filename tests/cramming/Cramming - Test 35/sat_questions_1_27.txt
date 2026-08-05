@@ -1,0 +1,404 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+There are many famous examples of election pollsters making inaccurate predictions in presidential elections. But neuroscientist and election pollster Sam Wang has said that these prediction failures should not lead campaigns to _____ election polling entirely. Polling is about more than just predicting the winner; throughout campaigns, it helps strategists identify where their efforts are most likely to be effective.
+
+
+A. distort
+B. neglect
+C. enact
+D. supplement
+Answer: B
+
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The metal displayed in the structure of House in Kamiaraya by Kazuto Nishi Architects and the metal hardware in UE House by GENETO are representative aspects of a juxtaposition common in contemporary Japanese architecture: the _____ of sleek, contemporary elements and traditional organic materials in a single design is a trend with both aesthetic and highly practical purposes.
+
+
+A. designation
+B. analysis
+C. diffusion
+D. synthesis
+Answer: D
+
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Described in treatises mainly published between 1768 and 1950 (such as William Holdsworth and William Aldridge’s *Natural short-Hand*), musical stenography used quickly written squiggles and dots in an attempt to preserve, in print and in real time, the ______ features of live performances—those that result from impromptu deviations of performers when fidelity to an established musical score is not mandated.
+
+
+A. inevitable
+B. inconspicuous
+C. extemporaneous
+D. meticulous
+Answer: C
+
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The romantic style evident in many paintings by Jérôme-Martin Langlois tended to enhance subjects, exaggerating their beauty or heroism while hiding all imperfection, a practice that was seen as fundamentally dishonest by many painters. This led to the development of the realist style as a way to counteract this artificiality, resulting in works such as The Gleaners by Jean-François Millet, which gives us an accurate, rather than _____, portrayal of peasants picking stray wheat from a field after the harvest.
+
+
+A. an innovative
+B. a humble
+C. an idealized
+D. a subtle
+Answer: C
+
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+The Heege Manuscript (HM) is a collection of booklets of once-unbound paper sheets on which Richard Heege copied various texts at his fifteenth-century home between Derbyshire and Nottinghamshire in England. __Most other contemporaneous personal manuscripts like *the Findern Anthology* (FA) consist primarily of pieces by celebrated medieval authors like Chaucer and other readings favored by elites__, whereas the HM has a distinctive emphasis on the popular, including entertainments like scary stories, and the practical, with advice about hygiene.
+
+
+A. To provide context for the text’s suggestion that the HM is an outlier among collections of its time.
+B. To emphasize the ubiquity of hand-copied collections like the FA and the HM in medieval England.
+C. To suggest that the FA is a poor point of comparison for a collection like the HM.
+D. To illustrate how the discussion of the HM earlier in the text can improve historians’ understanding of the FA.
+Answer: A
+
+
+Question 6:
+[COE]
+Which statement about the meta-analysis conducted by Filazzola et al. is best supported by the text?
+
+Globally, the pastures and rangeland on which goats and other livestock graze account for about 25% of all land. In a meta-analysis of 109 previous studies, Alessandro Filazzola et al. concluded that such grazing is associated with reduced diversity for invertebrate pollinators. The researchers noted, however, that while the studies provided data for a wide variety of animal taxa and sites on all but one continent, nearly half of the studies examined grazing's effects on small wild mammals and nearly three-quarters of the studies were conducted in Europe, North America, or Australia.
+
+
+A. Although the body of research it was based on lacked data on many types of wild animals in certain continents, its conclusions about an effect of livestock grazing is adequately supported.
+B. It illustrates that researchers need robust data to replicate previous studies' findings about how livestock grazing affects specific wild animals and geographic locations.
+C. Because of data constraints, it was unable to identify clear distinctions among repercussions of livestock grazing on the spread of wild-animal type or continent.
+D. It relied on extant research on the impacts of livestock grazing that is disproportionately focused on certain geographic regions and types of wild animals.
+Answer: D
+
+
+Question 7:
+[Cross Text]
+Which choice best describes a notable difference in how the speaker of Text 1 and the speaker of Text 2 portray the moon?
+
+Text 1 is T.L. Hulme’s 1912 poem “Above the Dock.” Text 2 is from Amy Lowell’s 1912 poem “The Crescent Moon.”
+Text 1
+ Above the quiet dock in mid night,
+ Tangled in the tall mast’s corded height,
+ Hangs the moon. What seemed so far away
+ is but a child’s balloon, forgotten after play.
+Text 2
+ Slipping softly through the sky
+ Little horned, happy moon,
+ Can you hear me up so high?
+ Will you come down soon?
+
+
+A. While both speakers characterize the moon as an entrapped figure, only the speaker of Text 2 describes the moon as being content with this fate.
+B. While both speakers present the moon as a tangible object, only the speaker of Text 1 addresses the moon’s beauty.
+C. While the speaker of Text 1 presents the moon as an object of play, the speaker of Text 2 presents the moon as an object of serious study.
+D. While the speaker of Text 1 presents the moon as seeming to be very close, the speaker of Text 2 emphasizes the moon’s distance from the speaker.
+Answer: D
+
+
+Question 8:
+[Structure]
+Which choice best states the main idea of the text?
+
+Women like Minnie McNeal Kenny made important early contributions to the history of US cryptology, a field concerned with secure data communication and storage. Kenny worked for the National Security Agency (NSA) and received the NSA's two highest awards. She also held administrative positions at the National Cryptologic School. In this way, Kenny and others like her helped make it possible for more women—such as Anna Lysyanskaya, who currently works in and teaches digital cryptography—to enter the field of cryptology.
+
+
+A. Women such as Minnie McNeal Kenny and Anna Lysyanskaya have contributed to the field of cryptology.
+B. Cryptology is a field that focuses primarily on securely managing data.
+C. Minnie McNeal Kenny and Anna Lysyanskaya worked together on an important project in the field of cryptology.
+D. Cryptology should be taught more often in schools to encourage more women to enter the field.
+Answer: A
+
+
+Question 9:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+Celebrated for their cinematic works *Crimson Sky* and *Echo Chamber*, director Sofia Anwar frequently collaborated with screenwriter Kenji Tanaka. Their 2022 film adaptation of the classic novel *The Gilded Cage* bears little resemblance to the original text. Anwar and Tanaka showed no interest in satisfying purists who expected a literal translation of the book to the screen. __They changed the novel’s 19th-century setting to the present day, combined multiple side characters into a single composite figure, and fundamentally altered the protagonist’s motivations__. But Anwar and Tanaka's boldness in reimagining the novel's core elements resulted in one of the most thought-provoking films of the decade.
+
+
+A. It offers specific details to substantiate a claim made previously in the text.
+B. It introduces a point that challenges the conclusion drawn in the final sentence.
+C. It puts forward a justification for why the film is considered superior to the book.
+D. It describes how the creators profited from subverting traditional storytelling.
+Answer: A
+
+
+Question 10:
+[COE]
+Which statement, if true, would most directly undermine the claim in the underlined sentence?
+
+The creole language known as Hawaiian Pidgin is primarily an amalgam of English and ‘Ölelo Hawai’i (the language of the Native Hawaiian people) with further contributions from Okinawan and Spanish, among other East Asian and Romance languages. Hawaiian Pidgin grammar is distinguished by native structures in which verbs modify subjects and serve a descriptive function comparable to that of adjectives, as in the statement “nice da stew” (nice the stew). Here, “nice” functions as a verb whose subject is “da stew,” such that the statement translates to “the stew is nice.” __These structures suggest the influence of Okinawan and other East Asian languages that also abound in native structures in which verbs assume a descriptive function.__
+
+
+A. Verbs capable of modifying subjects by themselves are absent from most English dialects, which instead use copular verbs—forms of “to be” (the sky is cloudy) or other verbs that help express a state of existence (the sky looks cloudy)—to link subjects to the adjectives that modify them.
+B. Stative structures in ‘Ölelo Hawai’i often include an article equivalent to “the” in English, and their syntax corresponds to that of Hawaiian Pidgin native structures, while Okinawan and other East Asian languages lack articles altogether.
+C. In Hawaiian Pidgin, a native structure in which the verb precedes its subject is used for emphasis, while a structure in which the verb follows the subject (da stew nice) appears in unemphatic statements, and this sequence of verb and subject corresponds to that of native structures in Okinawan and other East Asian languages.
+D. African American Vernacular English (AAVE) is one of the few US-based dialects of English with native structures in which verbs modify subjects by themselves, but the syntax of those structures differs from that of Hawaiian Pidgin native structures.
+Answer: B
+
+
+Question 11:
+[COE]
+Which quotation from a translation of The Underdogs most effectively illustrates the claim?
+
+The Underdogs is a 1915 novel by Mariano Azuela, originally written in Spanish. In the novel, Azuela depicts a traveling group of soldiers as having a renewed sense of agency and authority as they set off on a new stage of their journey: ___
+
+
+A. “The sonorous, joyful bells rang again. From within the church, the honeyed voices of a female chorus rose melancholy and grave.”
+B. “All day long [the soldiers] rode through the canyon, up and down the steep, round hills, dirty and bald as a man’s head, half after hill in endless succession. At last, late in the afternoon, they described several stone church towers in the heart of a bluish ridge, and, beyond, the white road with its curling spirals of dust and its gray telegraph poles.”
+C. “The men threw out their chests as if to breathe the widening horizon, the immensity of the sky, the blue from the mountains and the fresh air, redolent with the various odors of the sierra. They spurred their horses to a gallop as if in that mad race they laid claims of possession to the earth.”
+D. “Before Juchipila was lost from sight, Valderrama got off his horse, bent down, kneeled, and gravely kissed the ground.”
+Answer: C
+
+
+Question 12:
+[Infer]
+Which choice most logically completes the text?
+
+Many French pastries, such as beignets and croquettes, achieve their signature flavor through deep frying in oil; some are prepared with a special starch-based coating. Food scientists Isabelle Fournier and Jacques Tremblay investigated the heat and mass transfer processes that occur when pastries are fried with coatings containing gel-forming compounds, which thicken or solidify in water. During frying, moisture inside the food evaporates, leaving pockets that oil, a pure fat, can occupy. As frying continues, water from the interior moves outward as long as the crust remains porous. However, gel-forming compounds in the coating can create barriers that slow the movement of moisture out of the food’s core. Therefore, a pastry fried without this type of coating will likely _____.
+
+
+A. develop a denser crust after frying compared to one fried with a coating containing gel-forming compounds.
+B. require shorter frying times at higher temperatures than it would with a coating containing gel-forming compounds.
+C. absorb more oil than it would if fried with a coating containing gel-forming compounds.
+D. need a different type of frying oil than it would if fried with a coating containing gel-forming compounds.
+Answer: C
+
+
+Question 13:
+[COE]
+Which finding from the study, if true, would most directly support the team’s conclusion?
+
+Neurobiologists Laura Cuaya, Raúl Hernández-Pérez, and colleagues investigated the language detection abilities of eighteen dogs raised in similar settings. The researchers monitored the brain activity of Pan (an Australian shepherd), Alma (a mixed breed), and other dogs while the animals listened to three recordings: one of The Little Prince being read in Spanish, the second in Hungarian, and a third made up of short, randomly selected fragments of the first two, scrambled so that they didn’t resemble human speech. Each dog was familiar with either Spanish or Hungarian, but not both. The team concluded that the amount of previous language exposure a dog has received may influence its ability to distinguish familiar languages from unfamiliar ones.
+
+
+A. The similarity between the pattern of brain activity a dog showed in response to hearing the scrambled recording and the pattern of brain activity it showed in response to hearing the language it was not accustomed to was greatest among older dogs.
+B. Although the dogs’ general hearing sensitivity declined with age, dogs of all ages showed more brain activity in response to hearing the language they were accustomed to than in response to hearing the other language.
+C. The difference between the pattern of brain activity a dog showed when hearing the language it was accustomed to and the pattern of brain activity it showed when hearing the language it was not accustomed to was greatest among older dogs.
+D. Dogs showed a different pattern of brain activity when hearing the language they were accustomed to than when hearing the scrambled recording, and the difference in brain activity increased with the age of the dog scanned.
+Answer: C
+
+
+Question 14:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In the periodic table, an element’s atomic number indicates how many protons there are in an atom of the element. For example, a xenon atom ______ 54 protons. Professor Raymond Chang explains this concept in more detail in the textbook Chemistry.
+
+
+A. had
+B. has had
+C. has
+D. is having
+Answer: C
+
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+The Clarion-Clipperton Zone (CCZ) is an expanse of abyssal plain and seamounts (underwater mountains) between Hawai‘i and Mexico in which mining is permitted, but the area's biodiversity is poorly understood. The vast majority of invertebrate species found in a recent survey of the CCZ were hitherto unknown to scientists, and sampling for animal life has been highly concentrated in the eastern part of the zone. Some species like Ledella knudseni were identified both morphologically and molecularly (using DNA analysis), whereas Prionospio branchilucida and other species for which molecular sampling was impracticable were identified solely based on physical morphology. Since molecular analysis does not require distinguishing subtle physiological differences, it is ______.
+
+
+A. more likely to properly distinguish between morphologically similar but distinct invertebrate species than is the method used to identify Prionospio branchilucida.
+B. more frequently used for identifying species with physiological characteristics like those of Ledella knudseni than morphological analysis is.
+C. better suited to distinguishing Prionospio branchilucida from morphologically similar species than to distinguishing Ledella knudseni from morphologically similar species.
+D. capable of providing greater physiological detail about a species than is the method used for Prionospio branchilucida.
+Answer: A
+
+
+Question 16:
+[COE]
+Which choice best describes data from the table that illustrate Wang et al.'s claim?
+
+Correlations between GPP and Four SIF Data Sets, by Ecosystem Type
+
+A small amount of solar radiation absorbed by plant chlorophyll is reemitted as solar-induced chlorophyll fluorescence (SIF), which is detectable by satellites and can serve as a proxy for photosynthetic activity. The Wang et al. evaluated the potential of several SIF data sets (which vary in accuracy because of factors including variances in spatial and temporal resolution) to estimate plants' gross primary productivity (GPP), the rate of carbon uptake during photosynthesis. Based on their calculations of correlation coefficients, with higher values indicating a stronger relationship between SIF and independently collected GPP data, Wang et al. claim that researchers should consider ecosystem type when selecting the most appropriate SIF data set for inferring GPP for a particular ecosystem.
+
+
+A. CSIF and GOSIF data consistently correlated more strongly with GPP than TROPOMI and MetOpA data did except for croplands.
+B. CSIF and GOSIF data correlated more strongly with GPP than any other SIF data set did for evergreen needleleaf forests but correlated more weakly than TROPOMI data did for closed shrublands.
+C. TROPOMI data indicated that closed shrublands had the highest GPP levels, whereas MetOpA data indicated that woody savannas had the lowest GPP levels.
+D. GPP levels estimated from GOSIF data for wetlands were substantially lower than GPP levels for evergreen needleleaf forests but only moderately lower than GPP levels for croplands.
+Answer: B
+
+
+Question 17:
+[Infer]
+Which choice most logically completes the text?
+
+Buried collections of Bronze Age metal items (called hoards) have been found all over Britain. For hoards discovered since the 1960s, such as the 2005 discovery of the Collette hoard, advancements like inexpensive metal detectors, ground-penetrating radar, and aerial surveys have made it much easier for searchers to locate hoards before putting the first shovel in the ground. Hoards found before the 1960s, however, such as the discovery of the Husbands Bosworth hoard around 1801, were not aided by such technologies and thus were much more likely to ______.
+
+
+A. include bronze tools and weapons and gold jewelry.
+B. result from artifacts being unearthed accidentally.
+C. occur before the ground was disturbed.
+D. include rare items from the 10th century BCE.
+Answer: B
+
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Water boils at around 212°F at sea level, but in Superior, Colorado (elevation: 5,495 feet above sea level), it boils at around 202°F. Food writer J. Kenji López-Alt, who explores the science behind cooking, ______ that lower boiling points at higher elevations "can wreak all sorts of havoc on recipes."
+
+
+A. explain
+B. explains
+C. have explained
+D. are explaining
+Answer: B
+
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The legacy of the Spanish Empire, which once controlled portions of five continents, is evident in Spanish-speaking Paraguay, one of many places that reveal their imperial history in their language. Contrast Paraguay with the Netherlands, which ceased to be part of the empire in ______ the latter's connection to the empire is so attenuated that Spanish is seldom spoken there today.
+
+
+A. 1648,
+B. 1648
+C. 1648:
+D. 1648 and
+Answer: C
+
+
+Question 20:
+[COE]
+Which choice completes the text so that it conforms to the conventions ofStandard English?
+
+Growing up to 300 feet tall, the Coast Redwood is an evergreen tree species native to the fog-shrouded coastal mountains of Northern California. Seeking to understand the tree's longevity, forest ecologist and conservation expert Steve Sillett ______ that while the bark is surprisingly resistant to fire, the shallow root system relies heavily on seasonal precipitation for stability.
+
+
+A. Sillett, emphasizing
+B. Sillett emphasized
+C. Sillett, emphasized
+D. Sillett, who emphasized
+Answer: B
+
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In February 1864, James Johnson joined the US Army. He went on to serve in the 18th New York Cavalry during the US Civil War and, ______ earned a place in US history as one of the war’s few Chinese-born American soldiers.
+
+
+A. usually,
+B. for instance,
+C. in any case,
+D. in doing so,
+Answer: D
+
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In September 1862, John Francis joined the US Army. He went on to serve in the 2nd Louisiana Infantry during the US Civil War and, ______ earned a place in US history as one of the war's few Chinese-born American soldiers.
+
+
+A. in doing so,
+B. for instance,
+C. in any case,
+D. usually,
+Answer: A
+
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In his painting At the Cycle-Race Track, Jean Metzinger aims to depict a bike race in four-dimensional space. Of course, Metzinger’s painting doesn’t technically represent a fourth dimension; humans can only see in three dimensions. ____ by depicting the race through multiple, simultaneous perspectives, Metzinger offers a fascinating glimpse at what this other universe might look like.
+
+
+A. For example,
+B. In other words,
+C. Moreover,
+D. That said,
+Answer: D
+
+
+Question 24:
+[Synthesis]
+The student wants to emphasize the order in which the supercontinents were formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• A supercontinent is a single landmass made up of most or all of Earth’s continents.
+• Over time, continents merge together to form supercontinents, which then break apart.
+• This process is believed to take hundreds of millions of years and is known as the supercontinent cycle.
+• Vaalbara was a supercontinent that formed about 3.6 billion years ago.
+• Euramerica was a supercontinent that formed about 300 million years ago.
+
+
+A. Vaalbara and Euramerica were both supercontinents, single landmasses made up of most or all of Earth’s continents.
+B. The supercontinent Euramerica formed long after the supercontinent Vaalbara.
+C. Forming and breaking apart over hundreds of millions of years, supercontinents are made up of most or all of Earth’s continents.
+D. Vaalbara formed about 3.6 billion years ago but eventually broke apart.
+Answer: B
+
+
+Question 25:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+At the Museum of Natural History in Washington, DC, a single specimen of the planktonic marine organism *B. pumilio* is preserved as the reference organism for the species. This specimen is a holotype, meaning it was the basis of the first formal scientific description of *B. pumilio*. _____ the reference organism for the planktonic *G. inflata*, preserved at the Natural History Museum in London, is a neotype, meaning it acts as a reference organism but is not the exact specimen originally described.
+
+
+A. By contrast,
+B. Moreover,
+C. Admittedly,
+D. For instance,
+Answer: A
+
+
+Question 26:
+[Synthesis]
+The student wants to emphasize the order in which the two films were released. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Merle Oberon (1911–1979) was an actress born in Mumbai (then known as Bombay), India.
+• She was of Indian, Maori, and Irish heritage.
+• She was the first Indian-born actress to be nominated for an Academy Award.
+• Early in her career, she played many nameless, uncredited roles, such as her role in Service for Ladies (1932).
+• Later, she played many named, credited roles, such as Katherine Beckmann in Of Love and Desire (1963).
+
+
+A. Service for Ladies (1932) was released early in Merle Oberon's career, whereas Of Love and Desire (1963) came out years later.
+B. In Service for Ladies (1932), actress Merle Oberon played a nameless, uncredited role; however, in Of Love and Desire (1963), she played a credited role—that of Katherine Beckmann.
+C. Merle Oberon was famous for her roles in films like Service for Ladies (1932) and Of Love and Desire (1963).
+D. Early in her career, Merle Oberon wasn't listed in some film credits, such as the credits for the film Service for Ladies, where she played a nameless, uncredited role.
+Answer: A
+
+
+Question 27:
+[Synthesis]
+The student wants to use a quotation from Calder to explain Banham's motivation for championing the Brutalist style. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching the evolution of post-war architectural theory, a student has taken the following notes:
+• 1955: The term "New Brutalism" was solidified by British critic Reyner Banham in his seminal essay.
+• Banham defined the ethos of Brutalism not merely as an aesthetic but as a moral obligation, demanding "ruthless honesty in structure and materials."
+• In a 2018 retrospective, architectural historian Barnabas Calder re-evaluated Banham's aggressive promotion of the style.
+• Calder: Banham championed Brutalism to "provoke a confrontation with the superficiality" of the prevailing post-war humanitarian architecture.
+• Calder: Banham's advocacy was "distinctly unconcerned with the comfort of the traditional occupant" or visual pleasantness.
+• The essay is often cited as the catalyst for the shift toward raw concrete in British civic buildings.
+
+
+A. According to Calder, Banham's advocacy for the style was "distinctly unconcerned with the comfort of the traditional occupant" in his definition of the "New Brutalism," a movement solidified by his 1955 essay.
+B. According to Calder, Banham's primary motivation for defining the ethos of Brutalism was to demand "ruthless honesty in structure and materials" from contemporary builders.
+C. According to Calder, Banham promoted the style in order to "provoke a confrontation with the superficiality" of post-war architecture, a stance driven by moral obligation rather than aesthetics.
+D. According to Calder, Banham wrote the 1955 essay as "a visual commentary on the Columbus quincentennial" of architectural superficiality, focusing on the "New Brutalism" as a moral stance.
+Answer: C

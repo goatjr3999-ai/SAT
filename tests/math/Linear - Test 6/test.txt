@@ -1,0 +1,40 @@
+Question 1:
+A certain product costs a company $65 to make. The product is sold by a salesperson who earns a commission that is equal to 20% of the sales price of the product. The profit the company makes for each unit is equal to the sales price minus the combined cost of making the product and the commission. If the sales price of the product is $100, which of the following equations gives the number of units, {{MATH_1}}, of the product the company sold to make a profit of $6,840?
+
+A. {{MATH_2}}
+B. {{MATH_3}}
+C. {{MATH_4}}
+D. {{MATH_5}}
+Answer: A
+
+Question 2:
+A landscaping company estimates the price of a job, in dollars, using the expression {{MATH_6}}, where n is the number of landscapers who will be working and h is the total number of hours the iob will take using n landscapers. Which of the following is the best interpretation of the number 12 in the expression?
+
+A. The company charges $12 per hour for each landscaper.
+B. A minimum of 12 landscapers will work on each job.
+C. The price of every job increases by $12 every hour.
+D. Each landscaper works 12 hours a day.
+Answer: A
+
+Question 3:
+A line in the xy-plane is defined by the equation {{MATH_7}}, where a and b are constants. The line passes through the points (0, -79) and (5, 91). What is the value of a + b?
+
+A. -12
+B. -32
+C. -45
+D. -60
+Answer: C
+
+Question 4:
+Salim wants to purchase tickets from a vendor to watch a tennis match. The vendor charges a one-time service fee for processing the purchase of thetickets. The equation {{MATH_8}} represents the total amount T, in dollars, Salim will pay for n tickets. What does 12 represent in the equation?
+
+A. The price of one ticket, in dollars
+B. The amount of the service fee, in dollars
+C. The total amount, in dollars, Salim will pay for one ticket
+D. The total amount, in dollars, Salim will pay for any number of tickets
+Answer: B
+
+Question 5:
+The graph of the linear equation passes through the points {{MATH_9}} and {{MATH_10}}. The graph also passes through the point {{MATH_11}}. What is the value of {{MATH_12}}? (dạng ph-n số)
+
+Answer: 79/3

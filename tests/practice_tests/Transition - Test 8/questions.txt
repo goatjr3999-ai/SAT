@@ -1,0 +1,259 @@
+Question 62:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Scientists studying asteroid deflection have focused on secondary objects such as S/2018 (2018 EB), a moonlet orbiting the near-Earth asteroid 2018 EB. In 2022 NASA intentionally crashed a probe into just such an object, the moonlet Dimorphos. ______ Dimorphos’s orbital period around the near-Earth asteroid Didymos was permanently altered.
+
+
+A. In addition,
+B. Specifically,
+C. Consequently,
+D. In comparison,
+Answer: C
+
+Question 90:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A blend of gabardine and wool, the material for Elvis Presley’s Red Ladder jumpsuit was flexible enough to allow the singer to perform his signature dance moves. ______ the added weight of the suit’s red leather trim likely limited Elvis’s mobility to some degree.
+
+
+A. In other words,
+B. However,
+C. Firstly,
+D. For this reason,
+Answer: B
+
+Question 105:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+John Rankin’s home in Ohio was one of dozens of stops on the Underground Railroad (the network of people and places that some enslaved people used to escape to freedom). The word “underground” may lead one to assume that Rankin kept his antislavery views a secret. ______ his views were quite well known.
+
+
+A. As a result,
+B. For example,
+C. On the contrary,
+D. Additionally,
+Answer: C
+
+Question 43:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In skateboarding, the 900—a trick in which the skateboarder spins two and a half times in midair—is so rare that every successful execution of it is a historic occasion. ______ ever since Mitchie Brusco and Tas Pappas performed their 900s (in 2011 and 2014, respectively), fans have revered them as titans of the sport.
+
+
+A. In conclusion,
+B. By comparison,
+C. For this reason,
+D. Regardless,
+Answer: C
+
+Question 144:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As anthropologist Cristina Grasseni explains, with the rise in demand for artisanal cheeses claiming to be typical of specific Italian regions, such as Pecorino Siciliano cheese from Sicily, came the need to guarantee the veracity of such claims to consumers. ________ the European Union established DOP status, a label certifying that the cheese was made according to the region's local traditions.
+
+
+A. Regardless,
+B. Conversely,
+C. Likewise,
+D. Therefore,
+Answer: D
+
+Question 86:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Ugandan American professor Peter Nazareth believed that Elvis Presley's music is best understood not as a homogeneous collection but as an anthology (because Elvis showcased the contributions of a wide range of gospel, blues, and rock artists). ____ Nazareth entitled his college course on Elvis and his music, which focused on Elvis's many musical influences, "Elvis as an Anthology."
+
+
+A. In addition,
+B. In sum,
+C. That is,
+D. To that end,
+Answer: D
+
+Question 134:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In eastern Mexico, Monument 5 and Monument 2 are the names given to two massive human head statues that were left behind by the ancient Olmec civilization. Both statues are made of stone and are extremely heavy. ____ they each weigh more than 5 tons!
+
+
+A. In fact,
+B. Earlier,
+C. In any case,
+D. Instead,
+Answer: A
+
+Question 12:
+[Infer]
+Which choice most logically completes the text?
+
+The prime meridian, the global indicator of zero degrees longitude established in 1884, was originally determined using astronomically derived coordinates. ____ as decades passed, new calculations would reveal increasingly precise coordinates, yet the prime meridian remained unchanged; it wasn't until the 1980s that, spurred by improved geodetic data, the prime meridian was officially moved—roughly one hundred meters east.
+
+
+A. Granted,
+B. Again and again,
+C. Specifically,
+D. To that end,
+Answer: B
+
+Question 137:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In the early 1920s, researchers at the US Geological Survey determined the geographic center of Texas using a simple method. First, they attached a string to the middle point of a cardboard cutout of the state and suspended it in the air. ______ they adjusted the suspension point until the cutout hung perfectly flat. Ultimately, this point was determined to be the center.
+
+
+A. Instead,
+B. In other words,
+C. First of all,
+D. Then,
+Answer: D
+
+Question 67:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As volcanologists like Tamsin Mather are apt to make clear, not all volcanoes are the same. Agua de Pau in the Azores Islands, for example, is a stratovolcano, a conical volcano built up by many layers of hardened lava and tephra. Methana in Greece, ____ is a lava dome, a circular mound-shaped protrusion resulting from the slow extrusion of viscous lava from a volcano.
+
+
+A. in any case,
+B. in conclusion,
+C. in contrast,
+D. in fact,
+Answer: C
+
+Question 31:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Biographer Michael Gorra notes that the novelist Henry James "lived in a world of second thoughts," frequently tinkering with his novels and stories after their initial publication. However, the differences between the 1881 first edition and the 1908 edition of his novel A Portrait of a Lady are extreme, even by James's standards; ______ some critics regard the two editions as two different novels altogether.
+
+
+A. by contrast,
+B. in fact,
+C. nevertheless,
+D. in other words,
+Answer: B
+
+Question 141:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The near-Earth asteroid Atira is orbited by the moonlet S/2017 (163693). In 2022 scientists studying asteroid deflection intentionally crashed a probe into a similar moonlet, Dimorphos, shortening its orbital period by 32 minutes. ______ it used to take Dimorphos 11 hours, 55 minutes to orbit the near-Earth asteroid Didymos; now it takes 11 hours, 23 minutes.
+
+
+A. That is,
+B. Furthermore,
+C. Meanwhile,
+D. For example,
+Answer: A
+
+Question 152:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In 1965, Morrie Turner's comic strip Wee Pals became the first serial comic by a Black cartoonist to be syndicated, appearing in papers nationwide. Comics by other Black cartoonists followed. ______ Robb Armstrong (Jump Start) and Keith Knight (The Knight Life) joined the ranks of syndicated Black cartoonists in 1989 and 2008, respectively.
+
+
+A. Previously,
+B. However,
+C. Alternatively,
+D. For instance,
+Answer: D
+
+Question 19:
+[Infer]
+Which choice most logically completes the text?
+
+In his painting At the Cycle-Race Track, Jean Metzinger aims to depict a bike race in four-dimensional space. Of course, Metzinger’s painting doesn’t technically represent a fourth dimension; humans can only see in three dimensions. ____ by depicting the race through multiple, simultaneous perspectives, Metzinger offers a fascinating glimpse at what this other universe might look like.
+
+
+A. For example,
+B. In other words,
+C. Moreover,
+D. That said,
+Answer: D
+
+Question 97:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Sociologist Robert Putnam’s studies of societies across various nations have conclusively shown that community resources, such as local civic organizations, can be effectively sustained through active citizen engagement (rather than solely relying on governmental policies or corporate funding). _____ Putnam’s findings directly challenge the concept of "social atomization," the idea that communities inevitably fragment when individuals prioritize personal interests over collective responsibilities.
+
+
+A. Conversely,
+B. For example,
+C. That said,
+D. As such,
+Answer: D
+
+Question 121:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A band might choose a name that is as unique and original as possible. _______ they might name themselves after a recognizable song by a favorite band. This is what the Scottish indie rock band Life Without Buildings did when they named themselves after the song “Life Without Buildings” by Japan.
+
+
+A. Alternatively,
+B. Thus,
+C. In other words,
+D. For instance,
+Answer: A
+
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+To guarantee the validity of experimental results, scientists rely on precise, unchanging standards of measurement. _______ metrologists (scientists who study measurement) developed the SI, or International System of Units. The SI's units of measurement are based on unchanging values in nature, such as the mass of an electron or the speed of light.
+
+
+A. In contrast,
+B. Regardless,
+C. In addition,
+D. For this reason,
+Answer: D
+
+Question 18:
+[Infer]
+Which choice most logically completes the text?
+
+Box modeling, used by digital artists to develop 3D assets for video games, yields objects with precise mathematical proportions. Granted, as they are formed from perfect geometric shapes, such 3D elements lack organic realism; ____ post-modeling processes such as UV surface mapping are needed to achieve the level of verisimilitude gamers expect.
+
+
+A. consequently,
+B. similarly,
+C. in sum,
+D. however,
+Answer: A
+
+Question 53:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Followers of the philosopher Hegel argue that sound reasoning must be forged by the tension of the dialectic, which is to say, each stage of a thought’s progression should contain within it the very seeds of its negation. ______ Hegelians resist the notion that logic is weakened by contradiction, believing the latter to be a necessary precursor to the former.
+
+
+A. However,
+B. Still,
+C. Finally,
+D. Accordingly,
+Answer: D
+
+Question 123:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Born in Port Gibson, Mississippi, in 1902, musician J.D. Short is best known as a key figure in the development of the Delta blues, a variant of blues that originated in the Mississippi Delta region. ______________ steeped in the fertile music scene that sprung up in the alluvial delta between the Mississippi and Yazoo Rivers, Short and his peers developed their distinctive stripped-down, guitar-driven style.
+
+
+A. Thus,
+B. Nevertheless,
+C. Moreover,
+D. There,
+Answer: D

@@ -1,0 +1,182 @@
+Question 1:
+A technology firm hosted a series of three online workshops.
+
+Exactly 1,500 people attended the first workshop. Of those who attended the first workshop, 60 % also attended the second workshop. Among the people who attended both the first and second workshops, 40 % went on to attend the third workshop.
+
+Of the people who attended the first workshop but did not attend the second workshop, 25 % attended the third workshop. How many people attended both the first and third workshops but did not attend the second workshop?
+
+Answer: 150
+
+Question 2:
+Two lines intersect at exactly one point, forming two acute angles and two obtuse angles. The measure of one of these angles is {{MATH_1}}. Which of the following could NOT be the sum of the measures of any two of these angles?
+
+A. {{MATH_2}}
+B. {{MATH_3}}
+C. {{MATH_4}}
+D. {{MATH_5}}
+Answer: A
+
+Question 3:
+In the figure BD and AC intersect at point D, {{MATH_6}}, and {{MATH_7}}. What is the value of {{MATH_8}}(điền đ-p -n dạng ph-n số)?
+
+Note: Figure not drawn to scale.
+
+Answer: 3/4
+
+Question 4:
+A right rectangular prism has a base area of 16t square centimeters (cm^{2}). The length of the base of the rectangular prism is {{MATH_9}} cm, and the height of the rectangular prism is 9 cm. Which expression represents the surface area, in cm^{2}, of the right rectangular prism?
+
+A. 32t + 96
+B. 140t + 48
+C. 800t + 48
+D. 144t
+Answer: B
+
+Question 5:
+For three positive numbers, X, Y, and Z, the value of X is 150% greater than the value of Y. The value of X is also 99.5% less than the value of Z. If the value of Z is k% of the value of Y, what is the value of k/100?
+
+Answer: 500
+
+Question 6:
+The table shows three values of x and their corresponding values of y. There is a linear relationship between x and y. What is the x-coordinate of the x-intercept of the graph that represents this linear relationship in the xy-plane? (điền đ-p -n dạng thập ph-n) (dùng desmos)
+
+Answer: 32.5
+
+Question 7:
+The line segment shown in the xy-plane represents one of the legs of a right triangle. The area of this triangle is {{MATH_10}} square units. What is the length, in units, of the other leg of this triangle?
+
+A. 16
+B. 32
+C. {{MATH_11}}
+D. {{MATH_12}}
+Answer: B
+
+Question 8:
+In the xy-plane, a parabola has a vertex (5,1) and intersects the x-axis at two points. If the equation of the parabola is written in the form y = -ax- + bx + c, where a, b, and c are constants and a > 0, which of the following could be a value of c?
+
+A. -5
+B. 2
+C. 3
+D. 9
+Answer: A
+
+Question 9:
+The cost of renting a power washer is $92 for the first day and $46 for each additional day. Which of the following functions gives the cost C(d), in dollars, of renting the power washer for d days, where d is a positive integer? (Dùng tự luận hoặc Desmos)s
+
+A. {{MATH_13}}
+B. {{MATH_14}}
+C. {{MATH_15}}
+D. {{MATH_16}}
+Answer: A
+
+Question 10:
+One of the equations in a system of two linear equations is given, where r is a nonzero constant.
+{{MATH_17}} x – {{MATH_18}} = 34
+The system has no solution. If the other equation in the system is graphed in the xy- plane, what is the slope of the graph?
+
+A. {{MATH_19}}
+B. {{MATH_20}}
+C. {{MATH_21}}
+D. {{MATH_22}}
+Answer: D
+
+Question 11:
+A right square pyramid has a total surface area of 36,864 square inches, and the combined surface area of the four lateral faces of this pyramid is 20,480 square inches. What is the height, in inches, of this pyramid?
+
+A. 48
+B. 64
+C. 80
+D. 128
+Answer: A
+
+Question 12:
+What value of {{MATH_23}} satisfies the equation above? (Dùng Desmos hoặc tự luận)
+{{MATH_24}}
+
+A. {{MATH_25}}
+B. {{MATH_26}}
+C. {{MATH_27}}
+D. {{MATH_28}}
+Answer: C
+
+Question 13:
+A right rectangular prism has a length of 26 centimeters (cm), a width of 16 cm, and a height of 14 cm. What is the surface area, in {{MATH_50}}, of the right rectangular prism?
+
+Answer: 2008
+
+Question 14:
+In the following expression, a and b are constants such that sin a = 0.60, cos b = 0.80, and 0 < b < 90. What is the value of the expression when y = 0? (điền đ-p -n dạng số thập ph-n)
+2 cos(90-a) – cos b + sin(a + y) - sin(90- b)
+
+Answer: 0.2
+
+Question 15:
+The functions {{MATH_29}} and {{MATH_30}} are defined by the given equations, where {{MATH_31}} {{MATH_32}} and {{MATH_33}}are integer constants,{{MATH_34}} and {{MATH_35}} If {{MATH_36}} and {{MATH_37}} are graphed in the {{MATH_38}}plane, which of the following equations displays, as a constant or coefficient, the minimum value of the function it defines, where {{MATH_39}}
+I.{{MATH_40}}
+II. {{MATH_41}}
+
+A. I only
+B. II only
+C. I and II
+D. Neither I nor II
+Answer: A
+
+Question 16:
+A cube has an edge length of 82 inches. A solid sphere with a radius of 41 inches is inside the cube, such that the sphere touches the center of each face of the cube. To the nearest cubic inch, what is the volume of the space in the cube not taken up by the sphere?
+
+A. 262,672
+B. 288,532
+C. 334,846
+D. 546,087
+Answer: A
+
+Question 17:
+In the given equation, c is a constant.
+{{MATH_42}}
+If the equation has exactly one solution, what is the value of c?
+
+Answer: -37
+
+Question 18:
+The figure shown is a right circular cylinder with a radius of r and height of h. A second right circular cylinder (not shown) has a volume that is 576 times as large as the volume of the cylinder shown. Which of the following could represent the radius R, in terms of r, and the height H, in terms of h, of the second cylinder?
+
+A. R = 9r and H = 8h
+B. R= 9r and H = 64h
+C. R = 8r and H = 9h
+D. R = 64r and H = 9h
+Answer: C
+
+Question 19:
+The study fluctuations in leaf water potential, samples of wood were taken from 24 trees and cut in the shape of a cube. The length of the edge of one of those cubes is 2.00 centimeters. If this cube has a mass of 3.04 grams, what is the density of this cube, in grams per {{MATH_51}}? (Use decimal, rounded to nearest hundredth)
+
+Answer: 0.38
+
+Question 20:
+A database administrator initiates a process to migrate 85,000 archived files to a new cloud server. Before the process begins, 4,200 files have already been manually migrated. For the first 3 hours of the automated process, files are migrated at a rate of 1,800 files per hour. After the first 3 hours, the system resources are reallocated, and the migration rate increases to 5,400 files per hour until the migration is complete. According to this model, which of the following functions {{MATH_43}} gives the number of files remaining to be migrated {{MATH_44}} hours after the process began, where {{MATH_45}}
+
+A. {{MATH_46}}
+B. {{MATH_47}}
+C. {{MATH_48}}
+D. {{MATH_49}}
+Answer: C
+
+Question 21:
+The perimeter of an obtuse triangle is 31 meters. The lengths of two sides of this triangle are 9 meters and 8 meters. What is the length, in meters, of the third side of this triangle?
+
+A. 14
+B. 17
+C. 22
+D. 23
+Answer: A
+
+Question 22:
+A data set of the orbital periods, rounded to the nearest whole number of Earth days, for 13 of Jupiter-s moons is represented in the dot plot. An additional moon with an orbital period of 621 days is added to the original data set to create a new data set of 14 orbital periods.
+
+Orbital period (days)
+Which statement best compares the mean and median of the new data set to the mean and median of the original data set?
+
+A. The mean of the new data set is equal to the mean of the original data set, and the median of the new data set is equal to the median of the original data set.
+B. The mean of the new data set is equal to the mean of the original data set, and the median of the new data set is less than the median of the original data set.
+C. The mean of the new data set is less than the mean of the original data set, and the median of the new data set is less than the median of the original data set.
+D. The mean of the new data set is less than the mean of the original data set, and the median of the new data set is equal to the median of the original data set.
+Answer: D

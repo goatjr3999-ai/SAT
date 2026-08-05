@@ -1,0 +1,327 @@
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+The Clarion-Clipperton Zone (CCZ) is an expanse of abyssal plain and seamounts (underwater mountains) between Hawai‘i and Mexico in which mining is permitted, but the area's biodiversity is poorly understood. The vast majority of invertebrate species found in a recent survey of the CCZ were hitherto unknown to scientists, and sampling for animal life has been highly concentrated in the eastern part of the zone. Some species like Ledella knudseni were identified both morphologically and molecularly (using DNA analysis), whereas Prionospio branchilucida and other species for which molecular sampling was impracticable were identified solely based on physical morphology. Since molecular analysis does not require distinguishing subtle physiological differences, it is ______.
+
+
+A. more likely to properly distinguish between morphologically similar but distinct invertebrate species than is the method used to identify Prionospio branchilucida.
+B. more frequently used for identifying species with physiological characteristics like those of Ledella knudseni than morphological analysis is.
+C. better suited to distinguishing Prionospio branchilucida from morphologically similar species than to distinguishing Ledella knudseni from morphologically similar species.
+D. capable of providing greater physiological detail about a species than is the method used for Prionospio branchilucida.
+Answer: A
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The invertebrates Haywardozoon pacificum and Trophomera marangi have recently been discovered inhabiting the Clarion-Clipperton Zone (CCZ), an area of abyssal plain between Hawai‘i and Mexico where mining is permitted. The number of other invertebrates that may inhabit the CCZ is currently _____, as the area’s biota is poorly sampled and the few samples that have been taken cannot be presumed to be representative.
+
+
+A. infinitesimal
+B. verifiable
+C. tenuous
+D. inestimable
+Answer: D
+
+Question 3:
+[Infer]
+Which choice most logically completes the text?
+
+The Clarion-Clipperton Zone is a huge section of the Pacific Ocean seabed situated between Hawaii and Mexico. The zone has drawn international interest in recent years for its rich deposits of minerals crucial for electric vehicle batteries and other renewable energy technologies. Efforts to establish mining operations in the region have faced stiff resistance from marine biologists and conservation groups who wish to protect the area’s diverse wildlife. Despite such concerns, international authorities have already begun issuing preliminary mining permits, suggesting that ______
+
+
+A. international authorities started providing permits before conservationists began to protest mining in the zone.
+B. the minerals found in the zone cannot reasonably be obtained from another source.
+C. the push for deep-sea mining is gaining momentum and may lead to significant ecological consequences.
+D. mining companies plan on conducting their operations in a way that will limit the negative impact on the environment.
+Answer: C
+
+Question 4:
+[COE]
+Which choice presents the most likely assumption underlying the approach the researchers used in identifying species in the samples from the CCZ, as presented in the text?
+
+The Clarion-Clipperton Zone (CCZ) is an expanse of abyssal seabed between Hawai'i and Mexico. Recently, researchers showed that the CCZ harbors immense biodiversity, including thousands of previously undescribed species of invertebrates. By necessity, the researchers identified *Prionospio branchilucida* and most other CCZ invertebrates solely through morphology, but for *Ledella laedoni* and some others the protocols for collecting samples for molecular analysis were easy to implement, so the researchers conducted both morphological and molecular analyses for these species.
+
+
+A. Both molecular and morphological analysis should be performed when it is practical to do so.
+B. Molecular analysis should be used for any species that can’t be identified using morphological analysis.
+C. Morphological analysis should be conducted on any samples before molecular analysis to ensure accurate identifications.
+D. Molecular analysis is both more difficult to conduct and more accurate than morphological analysis.
+Answer: A
+
+Question 5:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The recent discovery of invertebrates such as Haywardozoon pacificum and Trophomera marangi in the Clarion-Clipperton Zone (CCZ) offers a tantalizing glimpse into a poorly understood ecosystem. However, given that the abyssal plain’s biota is vastly undersampled, treating these few documented species as reliable ______ the region's complete invertebrate biodiversity would be a profound methodological error.
+
+
+A. impediments to
+B. precursors to
+C. abrogations of
+D. proxies for
+Answer: D
+
+Question 6:
+[Infer]
+Which choice most logically completes the text?
+
+Formed over millions of years, nodules of valuable minerals cover large areas of the Clarion-Clipperton Zone (CCZ), an expanse of abyssal seabed between Hawai‘i and Mexico. Advocates of nodule mining note that extracting these minerals from land-based sources would use about ten times the projected energy of comparable seabed operations. Opponents of nodule mining concede that point but counter that most invertebrate species found in the CCZ were previously unknown and that seabed nodule removal could affect areas’ habitability for sediment-dwelling _Trophomera mangani_ for many years after operations cease, and perhaps irrecoverably for nodule-obligate inhabitants like _Haywardozoon pacificum_. Opponents therefore suggest that ______
+
+
+A. advocates for nodule mining have underestimated the harms that seabed operations may cause to invertebrate communities and the amount of energy such operations require.
+B. the expected energy savings associated with seabed mining are insufficient to justify the risk of permanently displacing organisms like Haywardozoon pacificum from the mined area.
+C. nodule mining would be worth the potential downsides only if its energy costs could be brought in line with those of land-based mining operations.
+D. while Haywardozoon pacificum communities are likely to be resilient to seabed nodule mining in the long term, Trophomera mangani communities may not withstand the disturbances mining would cause.
+Answer: B
+
+Question 7:
+[Infer]
+Which choice most logically completes the text?
+
+In a study of the effects of music tempo (as measured in beats per minute, or bpm) during exercise, participants jogged outdoors for 30 minutes while listening to Vanessa Williams's "Colors of the Wind" (83 bpm) continuously. Researchers anticipated that when participants performed the same activity the following day while listening to Jimi Hendrix's "Fire" (172 bpm), they would jog more quickly. Participants' performance on the second day, however, may have been negatively affected by tiredness from the first day. Thus, ______
+
+
+A. participants' prior familiarity with the songs may have contributed to differences in performance over the two days.
+B. the researchers were unable to accurately measure how quickly participants jogged on the second day.
+C. participants demonstrated a preference for one song over the other.
+D. the results from the second day may lead to an underestimation of the effect of the faster song.
+Answer: D
+
+Question 8:
+[Infer]
+Which choice most logically completes the text?
+
+In a study of the effects of music tempo (as measured in beats per minute, or bpm) during exercise, participants rode a bicycle for 30 minutes while listening to Vanessa Williams’s “Colors of the Wind” (83 bpm) continuously. Researchers anticipated that when participants performed the same activity the following day while listening to the Rolling Stones’ “Paint It Black” (156 bpm), they would ride more quickly. Postexperiment surveys, however, indicated that many participants already associated the second song with exercise. Thus, _____
+
+
+A. the extent of participants’ skill at cycling likely affected the results of both days.
+B. the researchers’ selection of music may have been biased by previous studies on music and exercise.
+C. the higher bpm of the second song may not be the only factor involved in participants riding more quickly on the second day.
+D. participants were likely unable to ride for the full 30 minutes on the second day.
+Answer: C
+
+Question 9:
+[Infer]
+Which choice most logically completes the text?
+
+A few years ago, a study found that participants who climbed steps while listening to the Cranberries' "Zombie"—which, at 167 beats per minute, or bpm, is a high-tempo song—exhibited a faster pace and higher heart rate than did participants who listened to Ella Fitzgerald's "From This Moment On" (93 bpm). In a recent effort to replicate this study's findings, researchers played the same songs while two groups of participants similar to those from the earlier study jogged outdoors for 30 minutes. Average paces and heart rates were similar across the two groups in the new study, leading the researchers to suggest that
+
+
+A. participants' familiarity with the songs may have affected performance in both studies.
+B. some aspect of jogging may magnify the effect of high-tempo music on participants' pace.
+C. participants' prior experience with stair climbing and jogging may have improved their performance in each study.
+D. the effects of high-tempo music seen in the earlier study may be specific to stair climbing.
+Answer: D
+
+Question 10:
+[Infer]
+Which choice most logically completes the text?
+
+Antonia Olivia Dolan and colleagues conducted a study of participants' preferred listening volume, in decibels (dB), for various audio recordings, including heavy metal music, acoustic folk music, and nature sounds. The team found that participants listened to recordings they liked most at higher volumes (greater dB) than recordings they liked less and that musicians tended to listen at higher volumes than nonmusicians did. For example, if the favorite recording of both a participating musician and a participating nonmusician was Metallica's "Sad but True" and the musician played it at 85.5 dB, it was therefore likely that ______.
+
+
+A. the musician and nonmusician would both play other music by Metallica at approximately 85.5 dB
+B. the musician would not play music in the heavy metal genre at less than 85.5 dB
+C. the nonmusician would play "Sad but True" at greater than 85.5 dB
+D. the nonmusician would play "Sad but True" at less than 85.5 dB
+Answer: D
+
+Question 11:
+[Infer]
+Which choice most logically completes the text?
+
+Researchers have noted that people with clinically typical hearing perceive sounds they believe to be meaningful as quieter than sounds of the same volume that they believe to be noise (i.e., meaningless to the listener). In a recent study, Antonia Olivia Dolan and colleagues allowed participants to listen to (and adjust the volume of) recordings of music in popular genres like classic rock and pop, as well as recordings of nature sounds. The researchers noted that participants may have treated the nature sounds as noise, which suggests that if a participant was exposed to Led Zeppelin's "Whole Lotta Love" and the nature sounds at a volume of 60.8 decibels, the participant likely would have ______.
+
+
+A. believed that neither the nature sounds nor "Whole Lotta Love" were at a volume of 60.8 decibels.
+B. adjusted the volume of the nature sounds to be greater than 60.8 decibels.
+C. perceived the nature sounds and "Whole Lotta Love" to be comparably meaningful despite perceiving the music to be quieter.
+D. experienced the nature sounds as louder than "Whole Lotta Love" even though they were not.
+Answer: D
+
+Question 12:
+[Infer]
+Which choice most logically completes the text?
+
+Antonia Olivia Dolan and colleagues had musicians and nonmusicians with clinically average hearing listen to recordings of nature sounds and music in popular genres like heavy metal and acoustic folk and adjust the volume to optimize their listening enjoyment. The researchers found that for a given recording that a musician and nonmusician identified as their favorite among those included in the study, optimal volume tended to be higher for the musician than for the nonmusician. Thus, if a musician and nonmusician both identified Metallica’s “Sad but True” as their favorite recording and the musician preferred to listen to it at a volume of 85.5 decibels, the nonmusician would be expected to ______.
+
+
+A. enjoy listening to the nature sounds at 85.5 decibels more than listening to “Sad but True” at 85.5 decibels.
+B. prefer listening to other music at 85.5 decibels over listening to “Sad but True” at that volume.
+C. not find it enjoyable to listen to any recordings at a volume as low as 85.5 decibels.
+D. find listening to “Sad but True” at 85.5 decibels less enjoyable than listening to it at a lower volume.
+Answer: D
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+In a recent study, Antonia Olivia Dolan and colleagues investigated the relationship between people's music preferences and their preferred listening volume. Participants listened to recordings—Ludwig van Beethoven's *Symphony no. 5 in C Minor*, Beyoncé's "Crazy in Love," and others—at their preferred volume and indicated their most and least favorite among the recordings. The researchers found that participants listened to recordings they liked most at a higher volume than recordings they liked least. And given that the frequencies in all the recordings were within the audible range of these participants (all of whom had clinically typical hearing), it is therefore likely that for a given participant, the ______
+
+
+A. difference between the preferred volumes of the favorite and least favorite recordings cannot be attributed to one recording being inherently harder to hear than the other.
+B. relationship between the preferred volume of a recording and the participant's attitude toward that recording cannot be attributed to its genre.
+C. identification of one recording as the favorite and another recording as the least favorite cannot be attributed to the participant having prior familiarity with either recording.
+D. fact that the preferred volume differed by recording cannot be attributed to the participant wanting to hear the favorite recording at a higher volume than the least favorite recording.
+Answer: A
+
+Question 14:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Writer Lydia Davis observed that while traditional literary forms, such as the novel, are recognizable as such even as they evolve, there are rarer "intergeneric" forms that might, for example, use elements of both fiction and essays to create something ______. The late-period pieces of James Tate arguably fit this description, since they straddle the line between prose and poetry.
+
+
+A. orthodox
+B. unequivocal
+C. recurrent
+D. unclassifiable
+Answer: D
+
+Question 15:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Writer Lydia Davis observed that while traditional literary forms, such as the short story, are recognizable as such even as they evolve, there are more ______ forms that might, for example, borrow elements from both fables and realist narratives to make something unconventional. The late-period pieces of James Tate arguably fit in this category, since they straddle the line between prose and poetry.
+
+
+A. amorphous
+B. neutral
+C. customary
+D. dispersed
+Answer: A
+
+Question 16:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Writer Lydia Davis observed that while ______ literary forms, such as the short story, are recognizable as such even as they evolve, there are rarer "intergeneric" forms that might, for example, use elements of both fiction and essays to create something unclassifiable. Anne Carson's collection Float arguably fits in this category, since it straddles the line between prose and poetry.
+
+
+A. neutral
+B. equivocal
+C. intermediate
+D. orthodox
+Answer: D
+
+Question 17:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Writer Lydia Davis observed that while traditional literary forms, such as the novel, are recognizable as such even as they evolve, there are innovative "intergeneric" forms that might, for example, use elements of both fiction and essays to create something more ______. Anne Carson's collection Float arguably fits in this category, since it straddles the line between prose and poetry.
+
+
+A. customary
+B. radical
+C. unambiguous
+D. equitable
+Answer: B
+
+Question 18:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Writer Lydia Davis observed that while ______ literary forms, such as the poem, are recognizable as such even as they evolve, there are pathbreaking “intergeneric” forms that might, for example, use elements of both fables and realist narratives to create something unclassifiable. Davis's own very short literary pieces arguably fit in this category, since they straddle the line between prose and poetry.
+
+
+A. innovative
+B. elusive
+C. established
+D. ambiguous
+Answer: C
+
+Question 19:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Writer Lydia Davis observed that while traditional literary forms, such as the short story, are recognizable as such even as they evolve, there are more ______ forms that might, for example, borrow elements from both fables and realist narratives to make something unconventional. The late-period pieces of James Tate arguably fit in this category, since they straddle the line between prose and poetry.
+
+
+A. nebulous
+B. neutral
+C. customary
+D. dispersed
+Answer: A
+
+Question 20:
+[WIC]
+As used in the text, what does the word “suddenly” most nearly mean?
+
+The following text is adapted from Kenneth Grahame’s 1908 novel *The Wind in the Willows*. The Mole is dazed after briefly meeting a stranger while traveling with a friend.
+[The] Mole stood still a moment, held in thought. As one wakened suddenly from a beautiful dream, who struggles to recall it, and can recapture nothing but a dim sense of the beauty of it, the beauty! Till that, too, fades away in its turn.
+
+
+A. Abruptly
+B. Repeatedly
+C. Voluntarily
+D. Tenderly
+Answer: A
+
+Question 21:
+[WIC]
+As used in the text, what does the word “guiding” most nearly mean?
+
+The following text is from Kenneth Grahame’s 1908 novel *The Wind in the Willows*. The Rat is looking for the Mole, his friend, in the woods.
+[The Rat] had patiently hunted through the wood for an hour or more, when at last to his joy he heard a little answering cry. Guiding himself by the sound, he made his way through the gathering darkness to the foot of an old beech tree.
+
+
+A. Withdrawing
+B. Presenting
+C. Instructing
+D. Steering
+Answer: D
+
+Question 22:
+[WIC]
+As used in the text, what does the word “anticipating” most nearly mean?
+
+The following text is from Kenneth Grahame’s 1908 novel The Wind in the Willows. The Mole is returning home after a visit to Mr. Badger’s house.
+As he hurried along, eagerly anticipating the moment when he would be at home again among the things he knew and liked, the Mole saw clearly that he was an animal of tilted field and hedgerow, linked to the ploughed furrow, the frequented pasture, the lane of evening lingerings, the cultivated garden-plot.
+
+
+A. Managing
+B. Getting ahead of
+C. Revealing
+D. Looking forward to
+Answer: D
+
+Question 23:
+[Infer]
+Which choice most logically completes the text?
+
+Arthurian legends (tales related to the character of King Arthur) derive from many sources, such as *Annales Cambriae*, composed around 970, and the *Mabinogion* from the 12th and 13th centuries. One of the most significant sources, Geoffrey of Monmouth’s *History of the Kings of Britain*, was written in Latin in the 1130s; some material from it was later adapted by the Norman poet Wace into the *Roman de Brut* in 1155. But while no source before 1155 includes references to the famous Round Table at which Arthur’s knights assembled, both the *Roman de Brut* and Sir Thomas Malory’s 15th-century compilation of Arthurian legends, *Le Morte d’Arthur*, do. It can therefore be inferred that ______.
+
+
+A. Malory did not use Annales Cambriae as a source for information he presented about the Round Table.
+B. Geoffrey of Monmouth’s accounts of Arthurian legends in his History are more similar overall in content to the accounts in the Mabinogion than they are to the accounts in Roman de Brut.
+C. Geoffrey of Monmouth was unaware of stories of the Round Table when composing his History, though historians know that works containing such stories were available to him.
+D. Le Morte d’Arthur is more historically accurate than History because the Mabinogion had not been written when Geoffrey of Monmouth was writing his work.
+Answer: A
+
+Question 24:
+[Infer]
+Which choice most logically completes the text?
+
+Arthurian legends (tales related to the character of King Arthur) derive from many sources, such *as Pa gur yv y porthau*r, composed in the 10th century, and *Tom a Lincoln* from around 1607. One of the most significant sources, Geoffrey of Monmouth’s History of the Kings of Britain, was written in the 1130s; some material from it was later adapted by the Norman poet Wace into the Roman de Brut in 1155. But while the Roman de Brut includes references to the famous Round Table at which Arthur’s knights assembled, nothing written before 1155 does, which suggests that ___.
+
+
+A. Geoffrey of Monmouth’s accounts of Arthurian legends in his History are more similar overall in content to the accounts in Tom a Lincoln than they are to the accounts in Roman de Brut.
+B. Geoffrey of Monmouth was unaware of stories of the Round Table when composing his History, though historians know that works containing such stories were available to him.
+C. any Arthurian legend that mentions the Round Table likely has a lineage that connects it to Roman de Brut.
+D. Roman de Brut is more historically accurate than History, because Tom a Lincoln had not been written when Geoffrey of Monmouth was writing his History.
+Answer: C
+
+Question 25:
+[Infer]
+Which choice most logically completes the text?
+
+Arthurian legends (tales related to the character of King Arthur) derive from many often contradictory sources, such as *Preiddeu Annwfn*, composed around 900, and *Perceval, the Story of the Grail* from around 1181. Sir Thomas Malory’s 15th-century text *Le Morte d’Arthur* was an attempt to compile these stories into coherent narrative. Many of Malory’s sources derive from Geoffrey of Monmouth’s *History of the Kings of Britain*, written in the 1130s. While neither *History*nor any works that predate it mention Arthur’s famous Round Table at which his knights assembled, *Le Morte d’Arthur*does, suggesting that ______.
+
+
+A. Geoffrey of Monmouth’s accounts of Arthurian legends in History are more similar overall in content to the accounts in Perceval, the Story of the Grail than they are to the accounts in Le Morte d’Arthur.
+B. Malory encountered the Round Table in a source that Geoffrey of Monmouth was not familiar with when writing his History.
+C. Le Morte d’Arthur is more historically accurate than History, because Perceval, the Story of the Grail had not been written when Geoffrey of Monmouth was writing his work.
+D. when a version of an Arthurian legend contradicted the version in History, Malory preferred to include Geoffrey of Monmouth’s version in Le Morte d’Arthur.
+Answer: B

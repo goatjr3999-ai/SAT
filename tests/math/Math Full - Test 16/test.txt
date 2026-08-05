@@ -1,0 +1,185 @@
+Question 1:
+
+The figure shown consists of a rectangle and a semicircle, where the length of WX is 20 units and the length of WZ is 5 units. The diameter of the semicircle is WX. Which of the following expressions represents the area, in square units, of the figure?
+
+A. 20 × 5 + 10π
+B. 20 × 5 + 10πr
+C. 20 × 5 + 50π
+D. 20 × 5 + 100π
+Answer: C
+
+Question 2:
+For the exponential function f, the value of f(3) is k, where k is a constant. Which of the following equivalent forms of the function f shows the value of k as the coefficient or the base?
+
+A. f(x) = 3(4)(4)^{(x + 1)}
+B. f(x) = 3072(4)(4)^{(x - 4)}
+C. f(x) = 12(4)(4)^{x}
+D. f(x) = 768(4)(4)^{(x - 3)}
+Answer: B
+
+Question 3:
+In the given equation, c is a constant. If the equation has exactly one solution, what is the value of c?
+{{MATH_1}}
+
+Answer: -80
+
+Question 4:
+The solution to the given system of equations is (x, y) ={{MATH_2}}, where p and w are integers. What is the value of p?
+22x – 21y = 43
+5x + 14y = 59
+
+Answer: 263
+
+Question 5:
+Line {{MATH_3}}in the {{MATH_4}}plane passes through the points {{MATH_5}} and {{MATH_6}} where {{MATH_7}} is a non-zero constant. What is the {{MATH_8}}coordinate of the {{MATH_8}}intercept of line {{MATH_9}}
+
+A. {{MATH_10}}
+B. {{MATH_11}}
+C. {{MATH_12}}
+D. The coordinate cannot be determined as it depends on the value of {{MATH_13}}
+Answer: A
+
+Question 6:
+At an amusement park, visitors wait in line for a certain ride. People in this line get on the ride at a rate of 12 people per minute. At the end of a certain day, 201 people are in line for the ride when the line closes. If these 201 people will get on the ride and no additional people are allowed to get in line, which function {{MATH_14}}models the number of people who remain in line {{MATH_15}} minutes after it closes?
+
+A. {{MATH_16}}
+B. {{MATH_17}}
+C. {{MATH_18}}
+D. {{MATH_19}}
+Answer: A
+
+Question 7:
+For an online trivia game, 490 points are awarded for a correct answer if a question is answered in less than 5 seconds from the time the question is asked. Each 5 seconds after the question is asked, the number of points awarded for a correct answer decreases by 20% of the number of points awarded for a correct answer in the previous 5 seconds. Which function gives the number of points awarded for a correct answer x seconds from the time the question is asked, where x is a multiple of 5?
+
+A. {{MATH_20}}
+B. {{MATH_21}}
+C. {{MATH_22}}
+D. {{MATH_23}}
+Answer: A
+
+Question 8:
+A data set of the orbital periods, rounded to the nearest whole number of Earth days, for 13 of Jupiter-s moons is represented in the dot plot. An additional moon with an orbital period of 621 days is added to the original data set to create a new data set of 14 orbital periods. Which statement best compares the mean and median of the new data set to the mean and median of the original data set?
+
+A. The mean of the new data set is equal to the mean of the original data set, and the median of the new data set is equal to the median of the original data set.
+B. The mean of the new data set is equal to the mean of the original data set, and the median of the new data set is less than the median of the original data set.
+C. The mean of the new data set is less than the mean of the original data set, and the median of the new data set is less than the median of the original data set.
+D. The mean of the new data set is less than the mean of the original data set, and the median of the new data set is equal to the median of the original data set.
+Answer: D
+
+Question 9:
+
+Which expression is equivalent to {{MATH_58}} + {{MATH_59}}?
+
+A. {{MATH_60}}
+B. {{MATH_61}}
+C. {{MATH_62}}
+D. {{MATH_63}}
+Answer: C
+
+Question 10:
+In the figure shown, points A, B, C, and E lie on the circle, and AB < BC. Segment AC is perpendicular to segment BE at point D, and {{MATH_24}}. The diameter of the circle is 115. If {{MATH_25}}, what is the value of r? (Điền đ-p -n dạng số thập ph-n)
+
+Note: Figure not drawn to scale.
+
+Answer: 56.5
+
+Question 11:
+A company that produces only one type of item wants to estimate the percent of the items produced in a typical week that are defective. A random sample of 400 of the items produced in a certain week were tested. Based on the sample, it is estimated that 8.5% of all items produced by the company in this week are defective, with an associated margin of error of 2.73%. Based on the estimate and associated margin of error, which of the following is the most appropriate conclusion about all items produced by the company during this week?
+
+A. 2.73% of the items are defective.
+B. It is plausible that between 5.77% and 11.23% of the items are defective.
+C. 8.5% of the items are defective.
+D. It is plausible that more than 11.23% of the items are defective.
+Answer: B
+
+Question 12:
+
+For a certain circuit, its power P, in watts; current C, in amperes; voltage V, in volts; and resistance R, in ohms, are related as {{MATH_64}}, where P, C, V, and R are positive. When R = 18, which equation correctly expresses P in terms of C and V?
+
+A. {{MATH_65}}
+B. {{MATH_66}}
+C. {{MATH_67}}
+D. {{MATH_68}}
+Answer: C
+
+Question 13:
+In the figure shown, {{MATH_26}} is the diameter and {{MATH_27}} is a radius of semicircle L and point K is the midpoint of {{MATH_28}}. If the length of {{MATH_29}} is 13 units and the length of {{MATH_30}} is 14 units, which expression represents the area, in square units, of this figure?
+
+Note: Figure not drawn to scale.
+
+A. {{MATH_31}}
+B. {{MATH_32}}
+C. {{MATH_33}}
+D. {{MATH_34}}
+Answer: C
+
+Question 14:
+What is the value of {{MATH_35}}?
+{{MATH_36}}
+The given expression can be rewritten as {{MATH_37}} , where a, b, and c are constants (Sử dụng desmos giải b-i)
+
+A. 788
+B. 612
+C. 394
+D. 255
+Answer: A
+
+Question 15:
+A researcher surveyed undergraduate students, graduate students, and postdoctoral students. The number of undergraduate students surveyed was 7,150% of the number of postdoctoral students surveyed and the number of graduate students surveyed was 45% of the number of undergraduate students surveyed. If there were 6,435 graduate students surveyed, what was the sum of the number of undergraduate students and postdoctoral students surveyed?
+
+Answer: 14500
+
+Question 16:
+
+A chemist combines water and isopropanol to make a mixture with a volume of 52 milliliters (mL). The volume of isopropanol in the mixture is 10 mL. What is the volume of water, in mL, in the mixture? (Assume that the volume of the mixture is the sum of the volumes of water and isopropanol before they were mixed.)
+
+Answer: 42
+
+Question 17:
+For each real number {{MATH_38}}, which of the following points lies on the graph of each equation in the {{MATH_39}}-plane for the given system?
+{{MATH_40}}
+{{MATH_41}}
+
+A. {{MATH_42}}
+B. {{MATH_43}}
+C. {{MATH_44}}
+D. {{MATH_45}}
+Answer: A
+
+Question 18:
+
+The length of each side of a box is 94 centimeters. Each side of the box is in the shape of a square. The box does not have a lid. What is the exterior surface area, in square meters, of this box without a lid? (1 meter = 100 centimeters)
+
+Answer: 4.418
+
+Question 19:
+To cut a lawn, Antwan charges a fee of $10.00 for his equipment and $8.50 per hour spent cutting a lawn. Taylor charges a fee of $7.00 for her equipment and $9.50 per hour spent cutting a lawn. If x represents the number of hours spent cutting a lawn, what are all the values of x for which Taylor's total charge is greater than Antwan's total charge?
+
+A. 2 ≤ x ≤ 3
+B. 3 ≤ x ≤ 4
+C. x < 2
+D. x > 3
+Answer: D
+
+Question 20:
+Quadrilateral ABCD is a square with diagonal {{MATH_46}}, where {{MATH_47}}. Which of the following statements is true?
+
+A. {{MATH_48}} is congruent to {{MATH_49}}
+B. {{MATH_50}} is congruent to {{MATH_51}}
+C. {{MATH_52}}
+D. {{MATH_53}}
+Answer: B
+
+Question 21:
+The scatterplot shows 5 measurements of the body length, in centimeters (cm), of a New Zealand fur seal from an age of 1 year to 6 years old. A line of best fit is also shown. For a New Zealand fur seal at an age of 3 years old, what is the body length predicted by the line of best fit, to the nearest 10 cm?
+
+Answer: 100
+
+Question 22:
+What is the area of the triangle ABC below?
+
+A. {{MATH_54}}
+B. {{MATH_55}}
+C. {{MATH_56}}
+D. {{MATH_57}}
+Answer: C

@@ -1,0 +1,142 @@
+Question 1:
+[COE]
+Which choice most effectively relies on data from the graph to logically complete the text?
+
+Every year in Oregon, millions of dollars' worth of blueberry crops are lost because of bird damage: when crows and other pest birds peck blueberries and other kinds of fruit, they leave the fruit scarred or spoiled. Qing Chen et al. conducted an experiment in comparable areas of a pear orchard over a set period to see if an acoustic bird repeller would reduce damage. In one area, the repeller was connected to a webcam and neural network and was triggered to emit sound when the mechanism detected a nearby pest bird; in another area, the repeller emitted sound continuously; and in a control area, no repeller was installed. A comparison of the damage rates suggests that birds in the orchard likely ______.
+
+
+
+A. caused more damage to the flesh of fruit in the area with intermittent repeller noises and more damage to the skin of fruit in the area with continuous repeller noise.
+B. moved to areas where the sounds intended to repel them were continuous when they were driven out of areas where those sounds were intermittent.
+C. learned over time how to avoid triggering the mechanism of the webcam-based repeller so that they could reach fruits in the orchard.
+D. started to become accustomed to the sound intended to repel them more quickly when the sound was continuous than when the sound was intermittent.
+Answer: D
+
+Question 2:
+[COE]
+Which choice most effectively relies on data from the graph to logically complete the text?
+
+Robins and other pest birds damage fruit grown on farms by pecking it: in Oregon, millions of dollars' worth of blueberry crops are lost annually. To test whether a sonic repellent might reduce damage from bird activity, Qing Chen et al. installed sonic repellers in two areas of a pear orchard in China: in one the device emitted a constant sound, while in the other it emitted sound only when triggered by a connected webcam and neural network trained to recognize pest birds. A third area with no repeller present served as a control. The results for the three conditions most strongly suggest that ______
+
+
+
+A. both repellers were associated with reduced damage, but the reduction was greater in the area with the repeller and neural network than in the area with the continuous repeller.
+B. the neural network attached to one of the repellers failed to detect many of the birds that entered the orchard.
+C. the pears in the control area were of better quality than pears in the other areas and thus attracted more pest birds.
+D. the greatest damage occurred in the control area because more pears were available for pecking in that area than in the other areas.
+Answer: A
+
+Question 3:
+[COE]
+Which choice best describes data from the table that most effectively strengthen Pereira and colleagues’ conclusion?
+
+Average Monetized Productivity Loss at Two Points After Programs Began, in Australian Dollars
+
+Michelle Pereira et al. hypothesized that introducing health improvements into workplaces would increase productivity by reducing absenteeism (sick employees not working) and presenteeism (sick workers working less productively due to illness). Pereira’s team enrolled groups of Australian workers in two programs: one that gave employees exercise training (EET) and one that enrolled employees in health promotion seminars (EHP). They then calculated the productivity loss of those groups at 12 weeks and 12 months after the programs began (based on the 28 days preceding each point). They concluded that exercise training was more effective at restraining productivity loss than health promotion seminars were, though this result took time to become apparent.
+
+
+A. Productivity loss for the EET group barely decreased between 12 weeks and 12 months after the program began, while productivity loss for the EHP group significantly increased during the same time period.
+B. Productivity loss was consistently higher for the EHP group than for the EET group over the twelve months that it was measured, though the size of the difference between the two decreased over that time.
+C. Productivity loss was fairly similar for the EET and EHP groups 12 weeks after each program began, but at 12 months afterward it had significantly increased for the EHP group and significantly decreased for the EET group.
+D. Productivity loss was largely due to absenteeism for the EHP group at 12 months after the program began, while productivity loss was largely due to presenteeism for the EET group at 12 months after the program began.
+Answer: C
+
+Question 4:
+[COE]
+Which choice best describes data from the table that most effectively weaken Pereira and colleagues' conclusion?
+
+Average Monetized Productivity Loss at Two Points After Programs Began, in Australian Dollars
+
+Michelle Pereira et al. hypothesized that introducing health improvements into workplaces would increase productivity by reducing absenteeism (sick employees not working) and presenteeism (sick workers working less productively due to illness). Pereira’s team enrolled groups of Australian workers in two programs: one that gave employees exercise training (EET) and one that enrolled employees in health promotion seminars (EHP). They then calculated the productivity loss of those groups at 12 weeks and 12 months after the programs began (based on the 28 days preceding each point). They concluded that exercise training was more effective at restraining productivity loss than health promotion seminars were, though this result took time to become apparent.
+
+
+A. Productivity loss for the EET group significantly increased between 12 weeks and 12 months after the program began, while productivity loss for the EHP group significantly decreased during the same time period.
+B. Productivity loss was consistently higher for the EHP group than for the EET group over the twelve months that it was measured, though the size of the difference between the two decreased over that time.
+C. Productivity loss was fairly similar for the EET and EHP groups 12 weeks after each program began, but at 12 months afterward it had significantly increased for the EHP group and significantly decreased for the EET group.
+D. Productivity loss was largely due to absenteeism for the EHP group at 12 months after the program began, while productivity loss was largely due to presenteeism for the EET group at 12 months after the program began.
+Answer: A
+
+Question 5:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+Interested in how differences in the color of dogs’ irises affect human responses to dogs, Akitsugu Konno et al. showed close-up images of dogs’ faces to human participants and asked them to rate the dogs’ traits and their own attitudes toward the dogs. Konno et al. suggest that differences in iris color led participants to view some dogs as more vulnerable and in need of protection than others and that this phenomenon could help explain the association the researchers observed between iris color and participants’ inclinations to interact with or keep dogs, as illustrated by the finding that _____
+
+
+
+A. the more mature a dog was perceived to be, the more likely participants were to rate it as having light irises.
+B. participants favored the dogs in images 2 and 11, which they rated as less mature than the dogs in images 20 and 16.
+C. participants rated the dog in image 2 as less mature than the dog in image 11 and rated the dog in image 16 as less mature than the dog in image 20.
+D. dogs that participants rated as friendlier were also dogs that participants indicated a stronger willingness to interact with or keep.
+Answer: B
+
+Question 6:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+Interested in how differences in the color of dogs' irises affect human responses to dogs, Akitsugu Konno et al. showed a series of close-up images of dogs' faces to human participants and asked them to rate the dogs' traits and their own attitudes toward the dogs. Konno et al. hypothesized that a primary factor influencing a participant's desire to interact with a dog would be its perceived friendliness. This hypothesis was supported by the finding that ______.
+
+
+
+A. the more mature a dog was perceived to be, the more likely participants were to rate it as having light irises.
+B. participants favored the dogs in images 2 and 11, which they rated as less mature than the dogs in images 20 and 16.
+C. participants rated the dog in image 2 as less mature than the dog in image 11 and rated the dog in image 16 as less mature than the dog in image 20.
+D. dogs that participants rated as friendlier were also dogs that participants indicated a stronger willingness to interact with or keep.
+Answer: D
+
+Question 7:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+Average Ratings of Perceived Personality Traits of Dogs and Human Willingness to Keep or Interact with Them
+
+Studies have found that when looking at other people’s eyes, humans tend to perceive dilated pupils positively and constricted pupils negatively. Noting that a dark iris—the colored portion surrounding the pupil—is hard to distinguish from the black of the pupil (and thereby affects the pupil’s apparent size) and that many domestic dogs have dark irises, Akitsugu Konno et al. showed close-up images of dogs’ faces to human participants and asked them to rate the dogs’ traits and their own attitudes toward the dogs. Their findings suggest that _____
+
+
+A. iris color in domestic dogs may be an adaptation to elicit positive responses from humans, as participants responded more negatively to images of dogs whose iris colors can make pupils appear large than they did to images of dogs without such iris colors.
+B. humans may not be as sensitive to pupil size in dogs as they are to pupil size in other people, as participants’ responses to the images show no relationship to differences in the shade of dogs’ irises that could affect how large the dogs’ pupils appear to be.
+C. humans’ responses to pupil size in other people may extend to dogs, as participants responded more positively to images of dogs whose iris colors were likely to make their pupils appear large than they did to images of dogs whose iris colors were unlikely to have that effect.
+D. differences in dogs’ pupil size may elicit a stronger response in humans than differences in people’s pupil size do, as participants’ responses to the images when dogs’ pupils were actually large were indistinguishable from participants’ responses when dogs’ pupils only appeared to be large due to iris color.
+Answer: C
+
+Question 8:
+[COE]
+Which statement, if true, would account for data shown in the graph and would illustrate the point made by the researchers?
+
+Chesapeake Bay seagrass meadows constitute crucial habitats for many aquatic species. Historically, eelgrass has been predominant, but widgeon grass is proving better suited to recent increases in sea temperature, tolerating heat better and growing faster than eelgrass does. Although the increase in widgeon grass has been associated with a substantial increase in total seagrass coverage in the bay, researchers caution that the latter change does not necessarily make the seagrass ecosystem as a whole more resilient to environmental shocks.
+
+
+
+A. In early 2018, a fungal infection that affects widgeon grass and eelgrass but does not affect other types of seagrass spread through the bay.
+B. Water temperatures in the bay increased slowly from 2012 to 2018, but in early 2019 there was an unexpectedly large increase in temperatures, which reached levels that can be tolerated by few seagrass species other than widgeon grass.
+C. Between 2012 and 2017, the total area covered by widgeon grass and the total area covered by all types of seagrass increased as water temperatures in the bay increased.
+D. In early 2019, unusually heavy rains washed excessive nutrients into the bay, leading to algal blooms that prevented sunlight from reaching many seagrass species.
+Answer: D
+
+Question 9:
+[COE]
+Which statement, if true, would account for data shown in the graph and would illustrate the point made in the passage?
+
+Chesapeake Bay seagrass meadows constitute crucial habitats for many aquatic species. Historically, eelgrass has been predominant, but widgeon grass is proving better suited to recent increases in sea temperature, tolerating heat better and growing faster than eelgrass does. An analysis of seagrass populations from 2012 to 2018 suggests that the expansion of widgeon grass was the main driver of the corresponding growth in the bay's total seagrass coverage. The data supports this conclusion by showing that ______.
+
+
+
+A. In early 2018, a fungal infection that affects widgeon grass and eelgrass but does not affect other types of seagrass spread through the bay.
+B. Water temperatures in the bay increased slowly from 2012 to 2018, but in early 2019 there was an unexpectedly large increase in temperatures, which reached levels that can be tolerated by few seagrass species other than widgeon grass.
+C. Between 2012 and 2017, the total area covered by widgeon grass and the total area covered by all types of seagrass increased as water temperatures in the bay increased.
+D. In early 2019, unusually heavy rains washed excessive nutrients into the bay, leading to algal blooms that prevented sunlight from reaching many seagrass species.
+Answer: C
+
+Question 10:
+[COE]
+Which choice most effectively uses data from the table to complete the text?
+
+High-entropy alloys (HEAs) have been observed to have greater fracture toughness—greater resistance to crack propagation—than conventional alloys. It has been proposed that fracture toughness increases with the proportion of an HEA consisting of cobalt, but data on HEAs compiled by engineer Xuesong Fan show that this is not the case; for example, ______.
+
+
+A. cobalt constitutes the same proportion of HEA 7 as it does of HEA 95.
+B. cobalt constitutes a higher proportion of HEA 15 than it does of HEA 7.
+C. cobalt constitutes a substantial proportion of HEA 15 but does not constitute any of HEA 51.
+D. cobalt constitutes a different proportion of HEA 25 than it does of HEA 7.
+Answer: A
+

@@ -1,0 +1,245 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Text corpora such as the British National Corpus are large collections of electronically stored texts that can be used to determine the frequency of ______ words. (Words used mainly in specialized or academic publications, on the other hand, tend to be poorly represented.) A corpus could reveal, for example, that the word "world" is the eighth most commonly used noun in standard English.
+
+A. trivial
+B. conventional
+C. profound
+D. accidental
+Answer: B
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Studying menus from nineteenth-century restaurants, advertisements for defunct amusement parks, and posters promoting long-forgotten plays may seem like a frivolous pursuit, but ephemeral objects like these are useful as markers of cultural change: they can ___ shifts in norms, values, and concerns that traditional objects of historical inquiry may not.
+
+A. induce
+B. vindicate
+C. evince
+D. preclude
+Answer: C
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although Hawaiian literature is highly heterogeneous in many ways, it is also characterized by considerable thematic ______; scholars have drawn connections linking works by writers such as Mary Kawena Pukui and Gary Pak to the traditional stories of the Kanaka Maoli, the Native Hawaiian people.
+
+A. subtlety
+B. sophistication
+C. continuity
+D. innovation
+Answer: C
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+While the benefits of “agglomeration economies,” such as the large pool of skilled specialists available to the UK’s synthetic fiber industry, are well-documented, the phenomenon creates a ______ challenge for regional planners: balancing the economic advantages of industrial concentration with the significant strain it places on local infrastructure and housing.
+
+A. pernicious
+B. knotty
+C. salient
+D. quixotic
+Answer: B
+
+Question 5:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Proposals to raise the age at which retirees begin receiving government transfers of funds are generally discussed in terms of the effects on transfer recipients, but Andria Smythe has argued that delaying such transfers could ______ wealth creation among working adults by lengthening the period in which they are providing financial support to their nonworking parents.
+
+A. disparage
+B. compound
+C. outstrip
+D. stymie
+Answer: D
+
+Question 6:
+[WIC]
+As used in the text, what does the word "breathes" most nearly mean?
+
+The following text is adapted from the 1895 poem Ojistoh by Emily Pauline Johnson, a Kanienkahagen (Mohawk) writer also known as Tekahionwake.
+I am Ojistoh, I am she, the wife
+Of him whose name breathes bravery and life
+And courage to the tribe who calls him chief.
+I am Ojistoh, his white star, and he
+Is land, and lake, and sky—and soul to me.
+
+A. Imparts
+B. Renounces
+C. Assents
+D. Absorbs
+Answer: A
+
+Question 7:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Thousands of scientists working at the Large Hadron Collider in Switzerland were finally able to _______ the existence of the long-predicted Higgs boson particle, first theorized as necessary in explain the mass of a fundamental particle by Peter Higgs and Francois Englert in 1964. Scientists confirmed a pattern of decay products that could be explained only by the Higgs particle.
+
+A. substantiate
+B. absolve
+C. contextualize
+D. postulate
+Answer: A
+
+Question 8:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The initial proposal for a metropolitan rail line extending from New York City to Montauk was widely seen as a ______ of competing interests; it combined modern high-speed sections with outdated local service routes, making it difficult for urban planners to secure unified funding or public approval.
+
+A. harbinger
+B. panacea
+C. hodgepodge
+D. paragon
+Answer: C
+
+Question 9:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+*Hunting Expedition* is an important work of *Nihonga*, or classical Japanese painting. Unlike Wada Eisaku, who adopted traditional European methods such as painting with oil on canvas, Domoto Inshõ _____ traditional Japanese approaches. For instance, Domoto produced *Hunting Expedition* by applying color pigments to a silk screen.
+
+A. overlooked
+B. renounced
+C. espoused
+D. emancipated
+Answer: C
+
+Question 10:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Though the quantum experiments performed by Alain Aspect and Anton Zeilinger possess broad scientific relevance, they remain ____ the quantum mechanics lineage—one traceable back to early theoretical formulations developed by physicists of the early twentieth century.
+
+A. discordant with
+B. adumbrated by
+C. inextricable from
+D. vitiated by
+Answer: C
+
+Question 11:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The inventories of consonant sounds among the Polynesian languages of the Pacific tend toward the _____. Sikaina in the South Pacific has a total of nine consonants, and ʻŌlelo Hawaiʻi, the language of the Native Hawaiian people, has one fewer, while the global median per language is over twenty-two.
+
+A. minimal
+B. static
+C. replicable
+D. melodic
+Answer: A
+
+Question 12:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+There is _____ in the director’s most recent film that keeps the melodramatic possibilities latent in its script safely at bay. The restraint exercised in the storytelling allows for a more nuanced exploration of the characters' internal conflicts, maintaining a dignified tone throughout the narrative.
+
+A. a mawkishness
+B. a predictability
+C. an austerity
+D. an ostentatiousness
+Answer: C
+
+Question 13:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The recently observed gamma ray burst GRB 230307A lasted for 200 seconds, ___ for a burst generated by the merger of neutron stars. Bursts caused by neutron mergers typically last fewer than 2 seconds.
+
+A. an oddity
+B. a coincidence
+C. a reprieve
+D. an incident
+Answer: A
+
+Question 14:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+It is tempting to treat the clustering of textile manufacturing firms in Manchester, UK, as representative of industrial agglomeration generally, but Guilia Faggio et al. caution against ______ this one example: the potential for knowledge spillovers, a dominant driver of collocation in this industry, was largely absent from the leather clothing manufacturing industry.
+
+A. convening with
+B. corroborating
+C. scrutinizing
+D. extrapolating from
+Answer: D
+
+Question 15:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although our knowledge of the Pliocene epoch and the lives of hominids during this time was once ___, recent analyses of fossils like that of the individual known as LH 4, discovered in Tanzania in 1974, have sharpened our picture of what a day in the life of LH 4 may have looked like.
+
+A. unprecedented
+B. nebulous
+C. intricate
+D. concrete
+Answer: B
+
+Question 16:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Given that both bats and moths can perceive sound waves in their environments, the hypothesis that their auditory systems are functionally interchangeable is ultimately _____. While moths are adapted to detect the relatively loud ultrasonic clicks emitted by bats for predator avoidance, bats, in contrast, must be able to discern the far fainter echoes produced by their own calls bouncing off nearby prey for echolocation.
+
+A. untenable
+B. insuperable
+C. quotidian
+D. meritorious
+Answer: A
+
+Question 17:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although many will doubt a statement that comes from a speaker they see as self-serving, formal logic maintains that who delivers a statement is ______—the identity of the messenger has no direct impact on the statement’s truth-value.
+
+A. tacit
+B. incontrovertible
+C. nebulous
+D. immaterial
+Answer: D
+
+Question 18:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In an industry dominated by egotists, Bloomfield is _____, frequently offering praise to her competitors and infusing her correspondence with self-effacing comments. Her demeanor stands in stark contrast to the prevailing arrogance, showcasing her humility and genuine appreciation for others' contributions.
+
+A. unassuming
+B. complimentary
+C. acerbic
+D. ingenuous
+Answer: A
+
+Question 19:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+All interpretations of classical philosophical texts are inevitably ______, as translating the thoughts of ancient scholars into modern frameworks requires adapting their ideas to align with contemporary modes of understanding.
+
+A. retrospective
+B. irrelevant
+C. exhaustive
+D. meddlesome
+Answer: A
+
+Question 20:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The new hypothesis was first presented in a 2018 journal article, and—though the concept was far from ______, based more on theoretical modeling than on verifiable evidence—the idea has been debated fervently ever since.
+
+A. tenuous
+B. controversial
+C. irrefutable
+D. esoteric
+Answer: B
+

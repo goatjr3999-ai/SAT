@@ -1,0 +1,375 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+One reasonable way to evaluate the ______ of a scholar's research is to track how often other scholars refer to that research. For example, Massachusetts Institute of Technology economist Antoinette Schoar, who studies management and economic performance, is among the world's most frequently cited researchers in her specialty, indicating that her work has had a significant effect on the field.
+
+
+A. expense
+B. impact
+C. unity
+D. complexity
+Answer: B
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Zygomorphic (bilaterally symmetric) flowers remain open and functional on average 1.1 days longer than actinomorphic ( radially symmetric) flowers do. Ruby E. Stephens and colleagues claim that this extended period could be ______ the relatively small pool of potential pollinators available to zygomorphic flowers and the greater chance at successful pollination that remaining open affords them.
+
+
+A. analogous to
+B. converted by
+C. magnified by
+D. attributed to
+Answer: D
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The influence of William Shakespeare's writings is clear in a vast range of subsequent literary works and is similarly ______ in many works in other media, from fine art (such as Richard Kindersley's sculpture The Seven Ages of Man) to popular music (such as the band Supergrass's song "Richard II").
+
+
+A. unusual
+B. apparent
+C. excessive
+D. subtle
+Answer: B
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Apollo Moon landings (1969-1972) brought radiation detectors and seismic sensors to the Moon and produced large amounts of data, much of which was stored on technologies that are now obsolete. A data-transfer project is working to ______ these data so that the information is available to researcher Renee Weber, who is investigating tectonic activity on the Moon.
+
+
+A. simplify
+B. salvage
+C. amend
+D. improve
+Answer: B
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+In factories, humans and robots often work together. A research team ran an experiment to find out how working with robots affects relationships between human coworkers. __One type of team included only humans and the other type included both humans and robots.__ Participants were paid for their work and were asked about their willingness to share their earnings with their human teammates. Participants from teams with robots were more likely to share with each other than participants from teams with only humans were.
+
+
+A. It illustrates a problem that inspired the study discussed in the text.
+B. It explains an important part of the design of the experiment discussed in the text.
+C. It states the results of the experiment discussed in the text.
+D. It indicates the question that the study discussed in the text was meant to answer.
+Answer: B
+
+Question 6:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Despite potential independent confirmation, the apparent detection in 2020 of phosphine (PH3) - a gas that on Earth almost exclusively derives from biological sources - in Venus's cloud deck remains controversial, in part because Venus is thought to be uninhabitable. To evaluate such a finding's plausibility, William Bains et al. modeled multiple abiotic PH3 pathways, including geochemical, atmospheric, and photochemical reactions, but none adequately explain the observed levels of PH3​. If Venusian PH3​ does exist, it would indicate insufficiencies in the current consensus on Venus's chemistry.
+
+
+A. It compares the levels of a particular gas on Venus and Earth, sketches the chemical processes that account for differences in these levels, and then addresses some of the practical challenges of studying the presence of this gas on Venus more closely.
+B. It introduces an unexpected observation of a particular gas in Venus's atmosphere, presents an effort to investigate possible mechanisms that could explain that observation, and then notes an implication of that investigation's findings.
+C. It explains why the consensus view of a particular gas in Venus's atmosphere has recently become controversial, expands on a scientific team's reasons for questioning that consensus, and suggests that future observations of Venus's atmosphere will likely be needed to settle the controversy.
+D. It outlines recent efforts to confirm the presence of a particular gas in Venus's atmosphere, summarizes a research team's evaluations of those efforts' methodological shortcomings, and then explains why that team remains skeptical of the gas's future detection.
+Answer: B
+
+Question 7:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Guadalupe Romero Villanueva et al. conducted radiocarbon analysis of paint used in rock art at the Patagonian archaeological site Cueva Huenul 1, revealing that images of a comblike motif date to as early as 8,000 years ago, predating other paintings in the region by several millennia. The motif was subsequently reproduced multiple times at the site over the next 3,000 years, __a period coinciding with extremely arid conditions and slightly negative population growth.__ The motif may therefore have functioned to help preserve cultural knowledge during a time of ecological and demographic stress.
+
+
+A. It explains the environmental circumstances that account for the rarity of rock art dating to the same period as the motif discussed in the text.
+B. It emphasizes the historical conditions that explain why production of the painted motif described in the text abruptly ceased after 3,000 years of continued use.
+C. It identifies a consideration that factored into an interpretation of the rock art at Cueva Huenul 1 that is presented in the text.
+D. It provides context that informs the text's claim about why the peoples of Patagonia chose Cueva Huenul 1 as a culturally significant site.
+Answer: C
+
+Question 8:
+[Structure]
+Which choice best states the main topic of the text?
+
+What is a city? The answer depends on where you live! Many countries define an area as a city based on how many people live there. However, not every country uses the same numbers. Albania defines a city as an area with a population of at least 400, while Greece defines a city as having a minimum population of 10,000. Some countries even define cities using other factors, like the number of buildings in the area.
+
+
+A. What some people enjoy about cities
+B. The number of small towns in Albania
+C. How different countries define what a city is
+D. The country of Greece
+Answer: C
+
+Question 9:
+[COE]
+Based on the text, which research question was Manzoor's study most likely intended to answer?
+
+Stores often play background music to create a pleasant shopping experience. Based on a survey, Amir Manzoor found that such music was linked to reduced enjoyment among customers. Manzoor thinks that one explanation for this result is that the surveyed customers may have wanted to finish their shopping as quickly as possible. They therefore weren't focused on enjoying the experience. It's possible that background music could improve the experience of other customers whose main goal is to have a good time while they shop.
+
+
+A. What genres of music do customers prefer to listen to while they are shopping?
+B. Does the volume of a store's background music affect how much time customers spend in the store?
+C. Do customers spend more money when shopping for music in stores or online?
+D. How does the use of background music in stores affect customers shopping experience?
+Answer: D
+
+Question 10:
+[COE]
+Information in the text best supports which statement about Ptacek et al.'s findings?
+
+Quality assessments of concrete typically focus almost exclusively on compressive strength as a measure of durability, overlooking other potentially relevant factors. Lisa Ptacek et al. therefore investigated the potential of gas permeability (vulnerability to incursion by gases), which is caused in part by excessive porosity, as a durability indicator. Their measurements and observations revealed that quality of conditions during the concrete curing phase negatively correlates with gas permeability and that high gas permeability values are associated with increased deterioration as concrete surfaces age.
+
+
+A. They suggest that gas permeability testing presents a more reliable indication of concrete durability than compressive strength testing does.
+B. They bolster the clam that concrete's susceptibility to damage decreases as its gas permeability increases.
+C. They call into question the idea that quality or curing conditions directly affects concrete gas permeability but is unrelated to compressive strength.
+D. They indicate that evaluation of gas permeability is an appropriate addition to concrete quality assessment procedures.
+Answer: D
+
+Question 11:
+[COE]
+Which choice most effectively uses data from the table to complete the example?
+
+As the second-most populous continent in the world, Africa was home to an estimated 1.186 billion people in 2015. In a paper for a social studies class, a student nonetheless notes that countries with very large populations may be less densely populated than are countries with much smaller populations, as can be seen by comparing ______.
+Population and Population Density of African Countries in 2015
+
+
+
+A. Zambia, which has a low density, with Benin, which has a similar density despite both countries having different geographic sizes.
+B. the geographic size of Mali (1,240,000 square kilometers) with its relatively high population of 17,600,000 inhabitants.
+C. Mali, which has a high population of 17,600,000 inhabitants and a relatively low density of 14.2 inhabitants/square kilometer, with Lesotho, which has a much lower population and a higher density.
+D. the populations of both Lesotho and Benin in 2015 with their populations in 2010.
+Answer: C
+
+Question 12:
+[COE]
+Which quotation from Cane most effectively illustrates the claim?
+
+Cane is a 1923 novel by Jean Toomer. In the novel, Toomer mentions a road in rural Georgia called Dixie Pike and describes it as having a deep connection to a faraway place, writing, ______.
+
+
+A. "And when the wind is from the South, soil of my homeland falls like a fertile shower upon the lean streets of [Washington, DC]."
+B. "The Dixie Pike has grown from a goat path in Africa."
+C. "From down the railroad track, the chug-chug of a gas engine announces that the repair gang is coming home."
+D. "One evening I walked up the [Dixie] Pike on purpose, and stopped to say hello [to Fern]."
+Answer: B
+
+Question 13:
+[COE]
+Which choice most effectively uses data from the table to complete the assertion?
+
+Drosophila (fruit flies) have generation times of 10-12 days, so seasonal changes in humidity and other environmental conditions can drive seasonal fluctuations in chromosome rearrangements in species such as D. robusta and D. subobscura. Drosophila body size (for which wing centroid size serves as a proxy measure) correlates with lifespan. Banu Sebnem Onder and Cansu Fidan Aksoy measured the wing sizes of members of a D. melanogaster population in Yesilöz, Turkey, that were collected monthly between May and October over three years. Their research suggests that Drosophila collected in relatively cooler months should tend to have a shorter life span, as is illustrated by the finding that ______.
+Monthly Temperatures and Wing Centroid Sizes of Fruit Fly Specimens
+
+
+
+A. the average male wing centroid size was consistently smaller than the average female wing centroid size in all four months in the table.
+B. the average female wing centroid size was 2.02mm in July but was 2.29mm in October.
+C. the average male wing centroid size was smaller in May than in July.
+D. the average monthly low temperature was lower in May than in September.
+Answer: C
+
+Question 14:
+[COE]
+Which finding from the study, if true, would most directly challenge the student's conclusion?
+
+Andrea Sommėse, Ádám Miklósi, and team investigated head-tilting behavior in a group of forty dogs, which included thirty-four typical dogs from five different breeds (including Benhur, a kelpie) and six dogs that had previously demonstrated giftedness at learning words, all of which were border collies. The researchers recorded the dogs head-tilting behavior in response to requests to fetch a toy that had been introduced early in the study. They found that all six gifted dogs tilted their heads at least some of the time when asked to retrieve the toy by name, while the typical dogs almost never tilted their heads. After reviewing the study, a student almost concludes that a tendency to tilt their heads is a characteristic trait of all border collies.
+
+
+A. Most of the gifted dogs tilted their heads to the same side in each trial.
+B. The majority of dogs in the typical group were border collies.
+C. The border collies successfully fetched the toy more often than the dogs of other breeds did.
+D. The typical dogs that tilted their heads appeared to be processing the meaning of the requests.
+Answer: B
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+Coffee farming around the world has changed greatly overtime. Originally, coffee plants grew in the shade of tropical forests. Today coffee is often grown without shade cover. This is because full-sun coffee farms can produce more coffee beans. But the lack of trees on such farms means a lack of spaces for many species of birds to roost. Therefore, compared with full-sun coffee farms, shaded farms tend to ______.
+
+
+A. be home to a more diverse range of birds
+B. have better soil quality.
+C. have fewer problems with insects and other pests
+D. experience generally milder weather conditions
+Answer: A
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Cycads are palmlike plants with cones. ______ plants were abundant throughout the Mesozoic Era (66 to 252 million years ago).
+
+
+A. These
+B. That
+C. This
+D. Each
+Answer: A
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The theory of plate tectonics explains how large pieces of Earth's crust, called tectonic plates, move and interact. According to the theory, the movement of tectonic plates forms ______ creates volcanoes, and causes earthquakes.
+
+
+A. mountains;
+B. mountains,
+C. mountains
+D. mountains:
+Answer: B
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+At the Atlantic Acting School in New York, New York, students can learn the world-famous Meisner technique. ______ by acting teacher Sanford Meisner, this technique trains actors to react naturally to the other performers in a scene.
+
+
+A. Developing
+B. Developed
+C. Develops
+D. Develop
+Answer: B
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+While conducting an interview for her book Latina Authors and Their Muses, editor Mayra Calvani asked Iris Gomez, author of the poetry collection When Comets Rained, what ______ Gomez's response was Mona in the Promised Land by Gish Jen.
+
+
+A. her favorite book was.
+B. her favorite book was?
+C. was her favorite book!
+D. was her favorite book?
+Answer: A
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In the book A Theory of Harmony (1985), Swiss musicologist Ernst Levy argued that every chord has an opposite that can be substituted for it. For example, a pianist could replace the bii∘ chord for the VII∘ chord while ______ chord is a given chord and its opposite can be determined using a music visualization tool called the circle of fifths.
+
+
+A. improvising. Which
+B. improvising, which
+C. improvising which
+D. improvising and which
+Answer: A
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Cornelia Konrads is a German sculptor who creates art that seems to be part of its surroundings. Her sculpture entitled the match is built between statues at a park in France. ______ appearing as large vases being tossed between statues at the park, it is cleverly placed into its environment, serving as an example of Konrads's approach.
+
+
+A. For instance,
+B. Later,
+C. However,
+D. There,
+Answer: D
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+When it was completed in 1889, the Eiffel Tower in Paris, France, was criticized - even protested for - the novelty of its unique spire-like silhouette. ______ the design became accepted - even beloved - and can now be found in everything from the Eiffel Tower replica in Uman, Ukraine, to the Funkturm Berlin in Berlin, Germany.
+
+
+A. Over time,
+B. Indeed,
+C. Therefore,
+D. Furthermore,
+Answer: A
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Rose B. Simpson, a Santa Clara Pueblo mixed-media artist, makes intuition and imperfection important parts of her artistic process. ______ her "slap-slab" technique involves throwing slabs of clay onto the floor until they're very thin and then assembling them quickly and intuitively by hand before they dry. The resulting sculptures are marked by seams, fingerprints, and other signs of her process.
+
+
+A. Nevertheless,
+B. Similarly,
+C. For example,
+D. Meanwhile,
+Answer: C
+
+Question 24:
+[Synthesis]
+The student wants to emphasize the role the US Fish & Wildlife Service plays in safeguarding the habitat of the Indiana bat. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•The Pilot Knob National Wildlife Refuge (NWR) is a protected natural area in Missouri.
+•It encompasses 90 acres.
+•The Pilot Knob NWR was established to safeguard the habitat of the Indiana bat, an endangered species.
+•The Pilot Knob NWR is managed by the Us Fish &amp; Wildlife Service.
+•The US Fish &amp; Wildlife Service limits human activities in the area.
+
+
+A. Home to the Indiana bat, the Pilot Knob NWR is located in Missouri, where it encompasses 90 acres.
+B. Human activities are limited in the Pilot Knob NWR, a protected natural area in Missouri.
+C. By limiting human activities in the Pilot Knob NWR, the Us Fish & Wildlife Service safeguards the habitat of the Indiana bat.
+D. The 90-acre Pilot Knob NWR was established to safeguard the habitat of the Indiana bat, an endangered species.
+Answer: C
+
+Question 25:
+[Synthesis]
+The student wants to identify a language that was written using the cuneiform script. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•The cuneiform script is the earliest known set of symbols used for writing.
+•Sumerian was one of the first languages to be written using the cuneiform script.
+•Sumerian was a language in ancient Mesopotamia (present-day Iraq).
+•Clay tablets with Sumerian writing have been found there.
+•Some of these tablets are almost 5,000 years old.
+
+
+A. Clay tablets with cuneiform script have been found in present-day Iraq.
+B. A language in ancient Mesopotamia used the cuneiform script for writing.
+C. Sumerian, an ancient Mesopotamian language, was written using the cuneiform script.
+D. Examples of Mesopotamian writing that are nearly 5,000 years old have been found.
+Answer: C
+
+Question 26:
+[Synthesis]
+The student wants to provide an example of an epistolary novel. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Anne of Windy Poplars (1936) is an epistolary novel by Canadian author Lucy Maud Montgomery.
+•Epistolary novels are novels written primarily as a series of fictional documents.
+•These documents can be letters, journal entries, newspaper clippings, and more.
+•Anne of Windy Poplars consists primarily of letters.
+•The letters are sent between a young high school principal and her fiancé.
+
+
+A. In 1936, Canadian author Lucy Maud Montgomery published a novel of letters sent between a young high school principal and her fiancé.
+B. An epistolary novel is a novel written primarily as a series of fictional documents, such as letters, journal entries, or newspaper clippings.
+C. Consisting primarily of letters sent between a young high school principal and her fiancé, Lucy Maud Montgomery's Anne of Windy Poplars is an epistolary novel.
+D. It was Lucy Maud Montgomery who published the novel Anne of Windy Poplars in 1936.
+Answer: C
+
+Question 27:
+[Synthesis]
+The student wants to present the aim of the study. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Researchers Gwangsu Kim et al. sought to explore the relationship between the brain's ability to process natural sounds and its ability to process music.
+•They used an artificial deep neural network (DNN) that models how the brain processes auditory information.
+•The DNN had been trained to detect natural sounds (excluding music).
+•Finding: The DNN spontaneously developed neurons that responded to music but not to other auditory stimuli.
+•Conclusion: The brain’s ability to process music may arise as a by-product of natural sound processing.
+
+
+A. Using an artificial deep neural network, the researchers sought to explore the relationship between the brain's ability to process natural sounds and its ability to process music.
+B. In their study, the researchers evaluated whether an artificial deep neural network could model how the brain processes auditory information.
+C. The researchers used an artificial deep neural network, which spontaneously developed neurons that responded to music but not toother auditory stimuli.
+D. By training an artificial deep neural network, the researchers aimed to establish that the brain's ability to process natural sounds arises as a byproduct of processing music.
+Answer: A
+

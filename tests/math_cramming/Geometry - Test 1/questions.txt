@@ -1,0 +1,80 @@
+Question 1:
+The length of each side of triangle A is {{MATH_1}} millimeters. The length of each side of triangle B is double the length of each side of triangle A. What is the length, in millimeters, of each side of triangle B?
+
+A. {{MATH_2}}
+B. {{MATH_3}}
+C. {{MATH_4}}
+D. {{MATH_5}}
+Answer: C
+
+Question 2:
+A circle has a circumference of {{MATH_6}}π centimeters. What is the diameter, in centimeters, of the circle?
+
+Answer: 89
+
+Question 3:
+In the xy-plane, line s passes through the point {{MATH_8}} and is parallel to the line represented by the equation {{MATH_9}}. If line s also passes through the point {{MATH_10}}, what is the value of d?
+
+Answer: 324
+
+Question 4:
+Circles A and B are graphed in the xy-plane. Circle A is represented by the equation {{MATH_12}} and intersects the x-axis at the point (r, s). Circle B has its center at (r, s) and has a radius of the same length as circle A. Which equation represents circle B?
+
+A. {{MATH_13}}
+B. {{MATH_14}}
+C. {{MATH_15}}
+D. {{MATH_16}}
+Answer: C
+
+Question 5:
+{{MATH_17}}
+{{MATH_18}}
+{{MATH_19}}
+The side lengths of right triangle RST are given. Triangle RST is similar to triangle UVW, where S corresponds to V and T corresponds to W. What is the value of {{MATH_20}}?
+
+A. {{MATH_21}}
+B. {{MATH_22}}
+C. {{MATH_23}}
+D. {{MATH_24}}
+Answer: D
+
+Question 6:
+The measure of angle G is {{MATH_25}}radians. If the measure of angle G is {{MATH_26}} degrees, where n is a constant, what is the value of n?
+
+A. {{MATH_27}}
+B. {{MATH_28}}
+C. {{MATH_29}}
+D. {{MATH_30}}
+Answer: A
+
+Question 7:
+Rectangles ABCD and EFGH are similar. The length of each side of EFGH is {{MATH_31}} times the length of the corresponding side of ABCD. The area of ABCD is {{MATH_32}} square units. What is the area, in square units, of EFGH?
+
+A. {{MATH_33}}
+B. {{MATH_34}}
+C. {{MATH_35}}
+D. {{MATH_36}}
+Answer: D
+
+Question 8:
+A line intersects two parallel lines, forming four acute angles and four obtuse angles. The measure of one of the acute angles is {{MATH_37}}. The sum of the measures of one of the acute angles and three of the obtuse angles is {{MATH_38}}. What is the value of w?
+
+Answer: 1360
+
+Question 9:
+A circle in the xy-plane has its center at {{MATH_40}}. Line t is tangent to this circle at the point {{MATH_41}}, where a is a constant. The slope of line t is {{MATH_42}}. What is the value of a?
+
+A. {{MATH_43}}
+B. {{MATH_44}}
+C. {{MATH_45}}
+D. {{MATH_46}}
+Answer: D
+
+Question 10:
+Rectangles ABCD and EFGH are similar. The length of each side of EFGH is {{MATH_47}} times the length of the corresponding side of ABCD. The area of ABCD is {{MATH_48}} square units. What is the area, in square units, of EFGH?
+
+A. {{MATH_49}}
+B. {{MATH_50}}
+C. {{MATH_51}}
+D. {{MATH_52}}
+Answer: D

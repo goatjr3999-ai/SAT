@@ -1,0 +1,249 @@
+Question 1:
+[COE]
+Information in the text best supports which statement about OFT?
+
+Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Rodrigo A. Vásquez found to be negatively associated with foraging by olive grass mice but Deborah J. Curtis and colleagues found to be positively associated with foraging by mongoose lemurs. This discrepancy is explicable in terms of OFT: the lemurs’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the mice.
+
+
+A. It tends to allow for a better understanding of the benefits of ecological circumstances than the costs of those circumstances.
+B. It can account for observations of different species responding differently to similar ecological circumstances.
+C. It can explain why some species act in accordance with cost-benefit trade-offs and others do not.
+D. It may be weakened by the finding that the costs and benefits associated with a particular ecological circumstance vary by species.
+Answer: B
+
+Question 2:
+[COE]
+Which choice best describes the finding made by Fernández-Duque and colleagues, as presented in the text?
+
+Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Mary V. Price and colleagues found to be negatively associated with foraging by white-throated woodrats but Eduardo Fernández-Duque and colleagues found to be positively associated with foraging by Azara’s night monkeys. This discrepancy is explicable in terms of OFT: the monkeys’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the woodrats.
+
+
+A. Increased lunar intensity is more beneficial for Azara’s night monkeys than it is for white-throated woodrats.
+B. As lunar intensity increases, white-throated woodrats reduce their foraging activity.
+C. As lunar intensity increases, Azara’s night monkeys increase their foraging activity.
+D. During periods of high lunar intensity, Azara’s night monkeys increase their reliance on vision.
+Answer: C
+
+Question 3:
+[COE]
+According to the text, the difference between Lang and colleagues’ findings and Wright’s findings can be attributed to which difference between white-throated round-eared bats and three-striped night monkeys?
+
+Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Alexander Lang and colleagues found to be negatively associated with foraging by white-throated round-eared bats but Patricia C. Wright found to be positively associated with foraging by three-striped night monkeys. This discrepancy is explicable in terms of OFT: the monkeys’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the bats.
+
+
+A. The bats are less reliant on vision than the monkeys are.
+B. The bats decrease their foraging activity as lunar intensity increases, whereas the monkeys increase their foraging activity.
+C. The bats are more vulnerable to predators than the monkeys are.
+D. The bats encounter different levels of lunar intensity than the monkeys do.
+Answer: A
+
+Question 4:
+[COE]
+Information in the text best supports which statement about mongoose lemurs?
+
+Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Joel Brown and colleagues found to be negatively associated with foraging by Arizona pocket mice but Deborah J. Curtis and colleagues found to be positively associated with foraging by mongoose lemurs. This discrepancy is explicable in terms of OFT: the lemurs’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the mice.
+
+
+A. If increased lunar intensity imposed the same costs on the lemurs that it imposes on Arizona pocket mice, there would be no association between lunar intensity and the lemurs’ foraging.
+B. If increased lunar intensity creates any disadvantages for the lemurs, those disadvantages are more than compensated for by the advantages that the lemurs gain.
+C. If the advantages that the lemurs gain from increased lunar intensity explain the change in their foraging behavior, those advantages are likely shared by some other species that are not heavily reliant on vision.
+D. If the lemurs’ foraging behavior under increased lunar intensity actually reflects a cost-benefit trade-off, their behavior should be more similar to that of Arizona pocket mice than it is.
+Answer: B
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+The following text is from José Rizal’s 1891 novel The Reign of Greed (translated by Charles Derbyshire in 1912).
+A lady accompanied by her husband entered at the 1083 entrance and took her place in one of the two vacant boxes. __She had the air of a queen and gazed disdainfully at the whole house, as if to say, “I’ve come later than all of you, you crowd of upstarts and provincials, I’ve come later than you!”__ There are persons who go to the theater like the contestants in a mule-race: the last one in, wins, and we know very sensible men who would ascend the scaffold rather than enter a theater before the first act.
+
+A. It conveys the urgency some theater patrons feel to be the first ones to arrive at a performance.
+B. It emphasizes a character’s desire to be an actor.
+C. It helps explain why some people dislike attending theatrical performances.
+D. It illustrates the lady’s contemptuous attitude toward the other people in the theater.
+Answer: D
+
+
+Question 6:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+The following text is from José Rizal’s 1891 novel The Reign of Greed (translated by Charles Derbyshire in 1912).
+A lady accompanied by her husband entered at the 1083 entrance and took her place in one of the two vacant boxes. She had the air of a queen and gazed disdainfully at the whole house, as if to say, “I’ve come later than all of you, you crowd of upstarts and provincials, I’ve come later than you!” There are persons who go to the theater like the contestants in a mule-race: the last one in, wins, and we know very sensible men who would ascend the scaffold rather than enter a theater before the first act.
+
+A. The passage recounts a series of events in time order, builds to a turning point, and then states the lesson drawn from them.
+B. The passage presents a guideline, supports it with quantitative evidence, and closes by urging readers to adopt the guideline.
+C. The passage contrasts two equivalent viewpoints on the same behavior and resolves their opposition by proposing a middle course.
+D. The passage begins with one concrete instance, expands to a general observation, and ends with a contrasting example that reinforces the observation.
+Answer: D
+
+
+Question 7:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is from José Rizal’s 1891 novel The Reign of Greed (translated by Charles Derbyshire in 1912).
+A lady accompanied by her husband entered at the 1083 entrance and took her place in one of the two vacant boxes. She had the air of a queen and gazed disdainfully at the whole house, as if to say, “I’ve come later than all of you, you crowd of upstarts and provincials, I’ve come later than you!” There are persons who go to the theater like the contestants in a mule-race: the last one in, wins, and we know very sensible men who would ascend the scaffold rather than enter a theater before the first act.
+
+A. To satirize the practice of arriving late to the theater as a display of social standing.
+B. To outline the historical evolution of theater etiquette in the late nineteenth century.
+C. To set the scene for a narrative by detailing the entrance of two characters into a theater.
+D. To argue that punctual attendance at public events signals cultivated behavior.
+Answer: A
+
+Question 8:
+[Cross Text]
+Based on the texts, how would the author of Text 2 most likely respond to the claim in the underlined sentence of Text 1?
+
+Text 1
+__Attempts to automate classification of music into genres have not been very successful and we may be at the limit of what is technologically possible.__ But it’s not clear that this is a worthwhile pursuit in any case—as Jin Ha Lee and Anh Thu Nguyen argue in their study of the South Korean band BTS: relationships between pieces of music may be best understood with concepts other than genre.
+Text 2
+Tango is a genre of music originally from Argentina and Uruguay that shares some harmonic and rhythmic similarities with the pagode genre. Automated genre classification systems typically struggle to draw distinctions in situations like this, but Yandre Costa and colleagues solved that problem by converting sound to images and having computers compare features of those images, an approach that demonstrates how much innovation is possible in this field.
+
+
+A. By arguing that people tend to disagree when identifying genre classifications for music
+B. By suggesting that the concept of genre may become more useful for music listeners
+C. By criticizing previous research into automated music genre classification for favoring specific genre categories
+D. By asserting that it may be possible to improve automated classification systems
+Answer: D
+
+Question 9:
+[Cross Text]
+Based on the texts, how would the author of Text 1 most likely respond to the claim about the potential benefits of Costa and colleagues' research in Text 2?
+
+Text 1
+Attempts to automate classification of music into genres have not been very successful. It is also unclear whether categorizing music by genre is useful, since genre categories are ambiguous, subjective, and simplistic. As Ji Hna Lee and Anh Thu Nguyen argue in their study of the South Korean band BTS, relationships between pieces of music may be best understood with concepts other than genre.
+Text 2
+Forró is a genre of music originally from Brazil that shares some harmonic and rhythmic similarities with the bolero genre. Automated genre classification systems typically struggle to draw distinctions in situations like this, but Yandre Costa and colleagues solved that problem by converting sound to images and having computers compare features of those images. Their approach could improve genre classification, which could have many benefits for users.
+
+
+A. By suggesting that future research may provide substantial advancements in the field of automated genre classification
+B. By asserting that genre classifications may not be the most helpful way to think about music
+C. By arguing that some genres are more easily recognized by classification systems than others
+D. By emphasizing that humans do not necessarily enjoy every recording in a genre they claim to prefer
+Answer: B
+
+Question 10:
+[Cross Text]
+Based on the texts, both authors would most likely agree with which statement?
+
+Text 1
+According to a study by a conservation group representing 11 tribal nations in the Great Lakes region, the firefly (waawaatesi in the Ojibwe language) will have significantly worse outcomes over the next 50 years if temperatures increase as much as some models suggest. By contrast, the white-tailed deer (waawaashkeshi in Ojibwe) should be able to withstand the highest predicted warming without much harm and so likely won’t require the conservation efforts that the firefly will.
+Text 2
+US government agencies involved in conservation are unfortunately not able to address every possible threat to natural resources. They must use the best information available to decide which species are most threatened and therefore most in need of conservation efforts.
+
+
+A. A collaborative approach is necessary to keep temperatures in the Great Lakes region from increasing to the highest predicted levels.
+B. Agencies involved in natural-resource management in the Great Lakes region should focus their conservation efforts more on the firefly than on the white-tailed deer.
+C. Conservation efforts focused on the firefly are more likely to be successful if they incorporate state and federal agency resources with the knowledge of tribal groups in those efforts.
+D. State, federal, and tribal groups involved in natural-resource management in the Great Lakes region should immediately begin conservation programs for both the firefly and white-tailed deer.
+Answer: B
+
+Question 11:
+[Cross Text]
+Based on the texts, both authors would most likely agree with which statement?
+
+Text 1
+A conservation group representing 11 tribal nations in the Great Lakes region reported to various state and federal natural resources agencies operating in the region that the northern wild rice plant (manoomin in the Ojibwe language) will likely fare significantly worse than the American crow (aandeg in Ojibwe) due to rising temperatures over the next 50 years. This collaborative approach has helped build trust between government and tribal groups, which will likely improve the quality of any joint conservation projects.
+Text 2
+State and federal natural resources agencies are increasingly incorporating traditional ecological knowledge from tribal groups in the agencies’ plans to address threats to natural resources due to increasing temperatures. This approach has helped build positive relationships between tribal groups and these agencies and furthermore tends to lead to better conservation outcomes.
+
+
+A. A collaborative approach to conservation is likely to help reduce the predicted temperature increases in the Great Lakes region.
+B. In the Great Lakes region, conservation efforts focused on the northern wild rice plant are likely to be more effective than those focused on the American crow.
+C. Natural resources conservation projects are likely to benefit from collaboration between tribal and government groups.
+D. In the Great Lakes region, it is more important to focus conservation efforts on the northern wild rice plant than it is to focus on the American crow.
+Answer: C
+
+Question 12:
+[Cross Text]
+Based on the texts, the author of Text 2 would most likely agree with which statement about the study presented in Text 1?
+
+Text 1
+A conservation group representing 11 tribal nations in the Great Lakes region conducted a study collecting detailed observations and a survey of local knowledge among Ojibwe harvesters and elders. The study predicts that the region's northern pike (ginoozhe in the Ojibwe language) will have significantly worse outcomes over the next 50 years if temperatures increase. By contrast, the black bear (makwa in the Ojibwe language) should be able to withstand warming without much harm.
+Text 2
+Researchers must be careful when predicting how plants and animals will respond to future environmental changes. Ecosystems are complex and difficult to generalize about. Researchers should not assume that a species will respond the same way in every place and time. The best predictions are those based on close attention to local circumstances.
+
+
+A. The methods used in the study bolster the quality of the study's predictions about the northern pike and black bear.
+B. The study was conducted over a long enough period to be confident in its predictions about the northern pike and black bear.
+C. The predictions the study made about the northern pike and black bear can be generalized to other species in the same region.
+D. The study predicted different outcomes for the northern pike than for the black bear because the species inhabit different ecosystems.
+Answer: A
+
+Question 13:
+[COE]
+Which finding, if true, would most directly weaken Carter and Kilikoglou’s argument?
+
+Variously, researchers have closely examined obsidian artifacts to document the long-term exploitation of particular obsidian sources, as in Alyson Lighthart Ponomarenko’s 2004 study, or to glean aspects of cultural identity, as in Dennis Ogburn and colleagues’ 2009 study. Studies of the Malia archaeological site on the Mediterranean island of Crete have shown that significant changes to building styles—changes consistent with an influx of people from another culture elsewhere in the Mediterranean—occurred from the Middle Bronze Age to the Late Bronze Age. In a 2022 study, however, Tristan Carter and Vassilis Kilikoglou found that obsidian-object production methods at Malia stayed remarkably consistent during this architectural transition, which they interpret as indicative of local cultural continuity in the Middle and Late Bronze Ages.
+
+A. The methods used to produce obsidian objects at Malia during the Middle and Late Bronze Ages were also used by some other Mediterranean cultures in the period.
+B. Changes to buildings like those that occurred at Malia have not been linked to changes in obsidian-object production methods in other Mediterranean cultures during the Middle and Late Bronze Ages.
+C. The obsidian used to produce objects at Malia was transported to Crete from the same source elsewhere in the Mediterranean throughout the Middle and Late Bronze Ages.
+D. The obsidian-object production method that was most common among other Mediterranean cultures during the Middle and Late Bronze Ages was more efficient than the method used at Malia.
+Answer: A
+
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Tristan Carter and Vassilis Kilikoglou's 2022 study used the persistence of obsidian blade production methods on the island of Crete from the Middle to Late Bronze Age as a proxy for cultural continuity on the island. Also using information gleaned from obsidian artifacts, Theodora Moutsiou's 2012 study aimed to infer details about social development in prehuman hominins, and Dennis Ogburn and colleagues' 2009 study attempted, as Carter and Kilikoglou's study did, to reconstruct aspects of social and cultural identity. However, none of the obsidian-artifact studies before 2022 sought to ascertain the longevity and stability of a culture. Therefore, while all these studies are based on a detailed examination of obsidian artifacts, only ______
+
+A. Ogburn and colleagues' study considered how obsidian artifacts reflect the cultures that created them.
+B. Carter and Kilikoglou's study was able to use obsidian artifacts to discover hominin social development.
+C. Moutsiou's study acknowledged that obsidian artifacts could reveal information about hominin social development.
+D. Carter and Kilikoglou's study addressed how obsidian artifacts can reflect a culture's persistence.
+Answer: D
+
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+While some researchers have closely examined obsidian artifacts to understand ancient social and economic structures, as in Colin Renfrew’s 1975 study, others have done so to explore cultural identity, as in Marisa Lazzari and colleagues’ 2009 study. Sharing this cultural focus, Tristan Carter and Vassilis Kilikoglou noted a remarkable degree of consistency in the methods used to produce obsidian artifacts at sites on Crete from the Middle to Late Bronze Age, a finding they conclude is indicative of cultural continuity. Carter and Kilikoglou also found significant changes to building design and construction over the same period at those sites; if their conclusion about the artifacts is correct, this suggests that the changes to the buildings ______
+
+A. are broadly consistent with Carter and Kilikoglou’s assumption about cultural continuity.
+B. cannot be attributed to the replacement of one culture by another.
+C. should have been addressed by both Renfrew’s study and Lazzari and colleagues’ study.
+D. are likely due to interactions with cultures outside of Crete.
+Answer: B
+
+Question 16:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Elvis Presley’s iconic jumpsuit Red Pinwheel featured rhinestones arranged in pinwheel patterns. Historians note that adornments such as these added between twenty-five and fifty pounds to each of Elvis’s stage outfits. ______ the fabric used to make the outfits was light and flexible, enabling freedom of motion.
+
+
+A. On the other hand,
+B. That is,
+C. For instance,
+D. There,
+Answer: A
+
+Question 17:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A blend of gabardine and wool, the material for Elvis Presley's Peacock jumpsuit was flexible enough to allow the singer to perform his signature dance moves. ____ the added weight of the suit's embroidered feathers in shades of blue and green likely limited Elvis's mobility to some degree.
+
+
+A. However,
+B. Firstly,
+C. In other words,
+D. For this reason,
+Answer: A
+
+Question 18:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Bill Belew’s talent for intricately and expertly detailed costume design was on full display with the Blue Rain jumpsuit, created for musical icon Elvis Presley to wear onstage. _______ the suit’s blue rhinestones showcased Belew’s careful attention to detail.
+
+
+A. Next,
+B. In particular,
+C. Soon,
+D. Nevertheless,
+Answer: B

@@ -1,0 +1,77 @@
+Question 1:
+The triangle inequality theorem states that the sum of any two sides of a triangle must be greater than the length of the third side. If a triangle has side lengths of {{MATH_1}} and {{MATH_2}}, which inequality represents the possible lengths, x, of the third side of the triangle?
+
+A. {{MATH_3}}
+B. {{MATH_4}}
+C. {{MATH_5}}
+D. {{MATH_6}} or{{MATH_7}}
+Answer: C
+
+Question 2:
+In the figure, {{MATH_8}} intersects {{MATH_9}} at point {{MATH_10}}, and {{MATH_11}} is parallel to {{MATH_12}}. The lengths of {{MATH_13}} and {{MATH_14}} are {{MATH_15}} and {{MATH_16}} units, respectively. The area of {{MATH_17}} is {{MATH_18}} square units. What is the area of {{MATH_19}}, in square units?
+
+A. {{MATH_20}}
+B. {{MATH_21}}
+C. {{MATH_22}}
+D. {{MATH_23}}
+Answer: D
+
+Question 3:
+Right rectangular prism X is similar to right rectangular prism Y. The surface area of right rectangular prism X is 59 square centimeters (cm²), and the surface area of right rectangular prism Y is 1,475 cm². The volue of right rectangular prism Y is 1,500 cubic centimeters (cm³). What is the sum of the volumes, in cm³, of right rectangular prism X and right rectangular prism Y?
+
+Answer: 1512
+
+Question 4:
+In the figure, line l is parallel to line m. What is the value of x?
+
+A. {{MATH_25}}
+B. {{MATH_26}}
+C. {{MATH_27}}
+D. {{MATH_28}}
+Answer: D
+
+Question 5:
+In the xy-plane, line s is parallel to line t. Line s is defined by {{MATH_29}} . What is the slope of line t?
+
+A. {{MATH_30}}
+B. {{MATH_31}}
+C. {{MATH_32}}
+D. {{MATH_33}}
+Answer: C
+
+Question 6:
+The figure shown is a right rectangular pyramid, where {{MATH_34}} units, {{MATH_35}} units, and {{MATH_36}} units. What is the surface area, in square units, of the pyramid? (lam tron chu so dau tien sau dau phay)
+
+Answer: 527.7
+
+Question 7:
+In triangle {{MATH_38}} shown, {{MATH_39}} . Which expression represents the length of {{MATH_40}} ?
+
+A. {{MATH_41}}
+B. {{MATH_42}}
+C. {{MATH_43}}
+D. {{MATH_44}}
+Answer: D
+
+Question 8:
+A right rectangular prism has a base area of {{MATH_45}} square centimeters (cm²). The length of the base of the rectangular prism is {{MATH_46}} cm, and the height of the rectangular prism is {{MATH_47}} cm. Which expression represents the surface area, in cm², of the right rectangular prism?
+
+A. {{MATH_48}}
+B. {{MATH_49}}
+C. {{MATH_50}}
+D. {{MATH_51}}
+Answer: B
+
+Question 9:
+In the xy-plane, a unit circle with center at the origin O contains point A with coordinates {{MATH_52}} and point B with coordinates {{MATH_53}} . If the measure of angle AOB is p radians, what is the value of {{MATH_54}} ? (dien phan so)
+
+Answer: -5/3
+
+Question 10:
+In the figure shown, line l intersects lines j and k. Which additional piece of information is sufficient to prove that lines j and k are parallel?
+
+A. {{MATH_56}}
+B. {{MATH_57}}
+C. {{MATH_58}}
+D. {{MATH_59}}
+Answer: A

@@ -1,0 +1,396 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The visually arresting use of concrete in iconic Brutalist structures like London's Barbican Estate is often discussed in aesthetic terms. However, given the unprecedented expansion of public services in the United Kingdom during the 1950s-70s—a period requiring widescale, inexpensive construction—the architectural shift toward plentiful concrete was arguably _______.
+
+
+A. contentious
+B. salubrious
+C. ineluctable
+D. premeditated
+Answer: C
+
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Egyptian plover—a bird native to Africa—has a symbiotic relationship with the Nile crocodile. While a crocodile rests on land with its mouth open for extended periods of time, the plover eats the food that is stuck in the crocodile’s teeth. This ______ relationship provides a nutritious meal for the bird and removes potentially dangerous bacteria from the crocodile’s mouth.
+
+
+A. reciprocal
+B. interchangeable
+C. inefficient
+D. unequal
+Answer: A
+
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The pronghorn can run very fast—up to 89 kilometers per hour (km/hr)—but it is significantly slower than the frigatebird, which can fly at speeds up to 153 km/hr. The difference between these speeds is largely ____ of the fact that the features that make flight possible do less to limit top speeds than the features suitable for running on land.
+
+
+A. a consequence
+B. an objective
+C. a repudiation
+D. an explanation
+Answer: A
+
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The National Heritage Fellowship was created to honor the resilience of exceptional folk and traditional artists in the United States. One artist who received the fellowship is Navajo (Diné) basket weaver Mary Holiday Black. Black was chosen for her perseverance in advancing her art form despite a lifetime of ______ and cultural hardship.
+
+
+A. remuneration
+B. approbation
+C. apotheosis
+D. tribulation
+Answer: D
+
+
+Question 5:
+[Details]
+Which choice best states the function of the underlined sentence in the text as a whole?
+
+The following text is adapted from Akwaeke Emezi’s 2019 novel Pet. Jam is a teenager who lives with her father, Aloe, and her mother, Bitter, who is a painter.
+Bitter finished the painting in the dark morning of a day—it was well past midnight when Jam heard the studio door creak open. She stared into the velvet black of her room and listened to her mother’s footsteps walking in her (mother) and Aloe’s bedroom. There was a weight thrumming through the floorboards in a low song, and that was how Jam knew the painting was done. __Bitter’s feet were singing the news.__
+
+
+A. It describes Aloe’s reaction upon seeing the painting for the first time.
+B. It indicates that Jam is more interested in music than in art.
+C. It adds to the idea that Bitter’s footsteps reveal something to Jam.
+D. It indicates that Bitter always sings when working on a painting.
+Answer: C
+
+
+Question 6:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Adelaide is one of many cities that have installed pontoons or other hardening structures to protect their shorelines against coastal hazards. To assess how birds respond to shoreline hardening and other landscape alterations, Diann Proser et al. used a tool known as the Index of Waterbird Community Integrity to survey bird communities consisting of sixty-four species, including the tundra swan and the great blue heron, in the Chesapeake Bay on the US East Coast. The researchers concluded that shoreline hardening more negatively affects birds than does land development for uses such as housing.
+
+
+A. It introduces a certain technique, mentions the hypothesis of a study into an ecological consequence of that technique, and presents evidence in support of that study’s hypothesis.
+B. It provides an example of a location that has adopted a particular approach, explains the methodology of a study into an ecological effect of that approach, and describes a finding of that study.
+C. It makes a claim about the use of a specific strategy, describes field observations of a consequence of that strategy in a particular ecosystem, and makes a supposition based on those observations.
+D. It presents a solution to a commonly occurring problem, summarizes the procedures used by a group of researchers studying the environmental impact of that solution, and notes the significance of the researchers’ findings.
+Answer: B
+
+
+Question 7:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Can field mustard plants grow on Mars? Can pea plants? You might think the answer to these questions is obviously no, but researchers in the Netherlands recently showed that the seeds of many common plant species can germinate in soil designed to simulate Martian conditions, as long as water is supplied. In fact, some species actually did better in Martian soil than in Earth soil: 30 percent of field mustard seeds sprouted when planted in simulated Martian soil, compared with 4 percent that did when planted in soil from their home planet.
+
+
+A. To answer long-standing questions about how Martian soil conditions can be simulated on Earth
+B. To present a surprising finding about plants grown in soil intended to be similar to Martian soil
+C. To discuss an unexpected result about the role of water in plants grown in simulated Martian soil
+D. To explain an important study of differences in the composition of Martian soil and the composition of Earth soil
+Answer: B
+
+
+Question 8:
+[COE]
+Which choice most effectively uses data from the table to complete the example?
+
+Studies of the population density of cougars (Puma concolor) have yielded a range of results, which may in part reflect differences in the effectiveness of the methods that researchers have used in their studies. If, for example, the use of clustered camera trapping and GPS tracking of collars tends to lead to underestimates of cougar population density, that may explain why the study by ___.
+
+
+
+A. P. Ian Ross and Martin G. Jalkotzy reported a maximum density of 4.70 individuals per 100 square kilometers, while the study by Richard A. Beausoleil et al., which used biopsy darting, reported a lower maximum density.
+B. Sean M. Murphy et al. reported a maximum density of only 1.65 individuals per 100 square kilometers, lower than that reported by several other studies.
+C. Richard A. Beausoleil et al. required a study area of 7,939 square kilometers, while the study by Sean M. Murphy et al. required a study area of 4,329 square kilometers.
+D. Lindsey N. Rich et al. reported a maximum density of 6.50 individuals per 100 square kilometers, higher than that reported by several other studies.
+Answer: B
+
+
+Question 9:
+[COE]
+Which of the following findings, if true, would offer the most direct support for the conclusion made by the team?
+
+In traditional cultural transmission, skills are passed from one generation to the next within a society, but in cultural diffusion, a practice is adopted from a separate culture. A 2023 study by archeologist Dr. Ivan Petrov and his team examined cultural diffusion between ancient civilizations—specifically, a unique metal-folding technique used in sword-making, which was passed down for centuries within the Calradian Empire and has now been identified in artifacts from the remote Vlandian tribes. This discovery of the technique's transfer is perplexing, as the Vlandian tribes were geographically isolated and are not believed to have survived direct military encounters with the Calradian Empire, which would have been necessary for them to capture and replicate the technology. However, the team concluded that the metal-folding technique was indeed acquired by the Vlandians from the Calradian Empire, either directly or indirectly, through cultural diffusion.
+
+
+A. The metal-folding technique can be observed in artifacts from various tribes across the Vlandian territories.
+B. Mercenaries known to have served in the Calradian Imperial army and who also were later employed by Vlandian chieftains used swords that were made with the signature metal-folding technique.
+C. The specific iron ore required for the Calradian technique cannot be reliably sourced from the territories inhabited by the Vlandian tribes.
+D. Swords made by Vlandian tribes using the metal-folding technique show no significant improvement in durability when compared to their traditional swords.
+Answer: B
+
+
+Question 10:
+[COE]
+Which finding, if true, would provide evidence that the possibility Grasby et al.investigated does occur?
+
+The Virgin Group’s introduction of the Virgin Atlantic airline in 1984 is an instance of brand extension—the company leveraged its brand recognition as a music retailer to enter a product category where it had not previously competed. To determine if perceived category similarity predicts consumers’ likelihood of purchasing brand extensions, Alicia Grasby et al. identified 30 extended-brand pairs (e.g., the same brand of vacuum cleaner and microwave) in 52 weeks of purchases by approximately 60,000 households; for each pair, Grasby et al. had consumers rate the similarity of the product categories and calculated the change in probability of a brand in one category being purchased if the same brand was purchased in the other category.
+
+
+A. Items in categories that included extended-brand pairs were purchased more frequently than those in categories without such pairs.
+B. While consumer ratings showed considerable variation across different category pairs, the researchers found that the probability changes were relatively uniform across pairs.
+C. Researchers identified a strong linkage between consumer ratings and the probability changes they computed.
+D. The level of brand recognition had an impact on both consumer ratings and the probability changes determined by the researchers.
+Answer: C
+
+
+Question 11:
+[COE]
+Which choice best describes data from the table that most effectively strengthen Pereira and colleagues’ conclusion?
+
+Table: Average Monetized Productivity Loss at Two Points After Programs Began, in Australian Dollars
+
+Michelle Pereira et al. hypothesized that introducing health improvements into workplaces would increase productivity by reducing absenteeism (sick employees not working) and presenteeism (sick workers working less productively due to illness). Pereira’s team enrolled groups of Australian workers in two programs: one that gave employees exercise training (EET) and one that enrolled employees in health promotion seminars (EHP). They then calculated the productivity loss of those groups at 12 weeks and 12 months after the programs began (based on the 28 days preceding each point). They concluded that exercise training was more effective at restraining productivity loss than health promotion seminars were, though this result took time to become apparent.
+
+
+A. Productivity loss was largely due to absenteeism for the EHP group at 12 months after the program began, while productivity loss was largely due to presenteeism for the EET group at 12 months after the program began.
+B. Productivity loss for the EET group barely decreased between 12 weeks and 12 months after the program began, while productivity loss for the EHP group significantly increased during the same time period.
+C. Productivity loss was consistently higher for the EHP group than for the EET group over the twelve months that it was measured, though the size of the difference between the two decreased over time.
+D. Productivity loss was fairly similar for the EET and EHP groups 12 weeks after each program began, but at 12 months afterward it had significantly increased for the EHP group and significantly decreased for the EET group.
+Answer: D
+
+
+Question 12:
+[COE]
+Which quotation from The Wonderful Wizard of Oz most effectively illustrates the claim?
+
+The Wonderful Wizard of Oz is a 1900 novel by L. Frank Baum. In the novel, Dorothy lives in Kansas with her aunt and uncle, but she later finds herself in a land called Oz. The narrator indicates that her aunt and uncle's house in Kansas is remote and solitary, writing that ______.
+
+
+A. in Kansas, "When Dorothy stood in the doorway and looked around, she could see nothing but the great gray prairie on every side, not a tree nor a house broke the broad sweep of flat country."
+B. in Kansas, "Once the house had been painted, but the sun blistered the paint and the rains washed it away, and now the house was as dull and gray as everything else."
+C. in Oz, "Dorothy fell asleep only once, and then she dreamed she was in Kansas, where Aunt Em was telling her how glad she was to have her little girl at home again."
+D. in Oz, "Dorothy and her companions] walked along listening to the singing of the brightly colored birds and looking at the lovely flowers which now became so thick that the ground was carpeted with them."
+Answer: A
+
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+Certain songs of the Tlingit people in the extreme northwestern United States tell stories of encounters with wolves and other wildlife, and those of the Kaluli people in Papua New Guinea sometimes replicate rainforest sounds to evoke specific locations. Ethnomusicologists have long studied the cultural meaning of music within societies but have only recently begun to recognize the critical role —particularly for languages known by fewer and fewer contemporary speakers— of indigenous songs such as these as a unique repository of historical ecological knowledge. This shift in perspective is important because it enables ethnographers to ______.
+
+
+A. determine the frequency of unique linguistic patterns in the songs of the Tlingit people and the Kaluli people that describe natural environments.
+B. encourage researchers across a variety of fields to join efforts to determine which indigenous languages are at the highest risk of falling into disuse.
+C. bring greater scholarly attention to the idea that music has reinforced a sense of cultural identity among the Tlingit people and Kaluli people over time.
+D. develop and preserve a more complete understanding of how Indigenous peoples have traditionally perceived and interacted with their environments.
+Answer: D
+
+
+Question 14:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Louisiana resident P.B.S. Pinchback, one of the nearly two thousand African Americans elected to public office during the decade that followed the Civil War, ____ his term as a member of the state senate in 1868.
+
+
+A. to begin
+B. began
+C. beginning
+D. having begun
+Answer: B
+
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+Blue holes—large marine sinkholes, like Watling’s Blue Hole near San Salvador Island—can be hundreds of meters deep and are sometimes part of widespread subterranean networks of passageways. In 2021, researchers conducted the first formal study of the Taam ja’ Blue Hole (TJBH), located in a bay of fresh water and salt water on Mexico’s coast, and reported a maximum depth of 274 meters. Oscar F. Reyes-Mendoza and colleagues later reinvestigated the depth of the TJBH, determining that it exceeded 400 meters; additionally, they detected variations in characteristics across water layers. Layers more than 400 meters deep began to show density and salinity conditions akin to those of the nearby Caribbean Sea. Reyes-Mendoza and colleagues therefore suggest that ______.
+
+
+A. there may be tunnels and caves that connect the TJBH and the waters of the Caribbean deep underground
+B. in the TJBH, there are greater differences between water layers less than 275 meters deep than there are between water layers greater than 400 meters deep
+C. researchers should reevaluate existing measurements of the depths of Watling’s Blue Hole and other blue holes where the conditions in very deep waters are similar to those of waters in open seas
+D. the apparent relationship between depth and salinity level in the TJBH is the inverse of that found in the Caribbean Sea
+Answer: A
+
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Fatoumata Keïta is a novelist from Baguinéda, Mali, who has earned international acclaim in recent years. Writers of other literary forms, such as poetry and drama, are less likely to be recognized beyond their nations’ borders, but many are still well _____ Fama Diagne Sène, for example, is a celebrated playwright from Senegal.
+
+
+A. known:
+B. known and
+C. known,
+D. known
+Answer: A
+
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Occurring in the constellation Coma Berenices, 38 million light-years from Earth, SN 1940B was a ______ explosion of a massive star, which blasts large amounts of radiation, heavy elements, and debris into space—that was first detected by American astronomer Josef Johnson.
+
+
+A. supernova, the
+B. supernova. The
+C. supernova—the
+D. supernova: the
+Answer: C
+
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Contrasting a high saturation color palette against dark paper and stoneware, Atlanta-based artist Jiha Moon creates fused pieces, wherein Korean folk art, Western contemporary art, and global popular culture mix. New York’s Derek Eller Gallery ____ her work in a solo exhibition that ran in early 2022.
+
+
+A. features
+B. has been featured
+C. featured
+D. will feature
+Answer: C
+
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Proto-Cariban—a protolanguage, or ancestral language of a family of descendant (daughter) languages—is said to be the common ancestor of all Cariban languages. This designation is ______ Proto-Cariban is only postulated, its characteristics being inferred from the linguistic properties of its twenty-nine daughters.
+
+
+A. hypothetical. However,
+B. hypothetical, however:
+C. hypothetical: however,
+D. hypothetical, however,
+Answer: B
+
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The story of Chile’s electrification is perhaps most readily understood by studying developments in several key years: 1916, when engineer Arturo Salazar attended the Pan-American Scientific Conference; 1936, when the study entitled “Política eléctrica chilena” was ______ 1943, when the national electrical plan was finalized.
+
+
+A. released; and
+B. released and
+C. released. And
+D. released, and
+Answer: A
+
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In most of the continent’s woods, bears are a standard black or brown variety. The bear at Spirit Island in BC is an _____ bears take their color from genes for dark- and deep-toned fur and hair, genes for recessive white pigmentation and other genetic traits give the bear at Spirit Island a snowy white coat.
+
+
+A. outlier, though most
+B. outlier, though, most
+C. outlier: though most
+D. outlier, though. Most
+Answer: C
+
+
+Question 22:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Initially titled All’s Well That Ends Well, Leo Tolstoy’s novel about the lives of several Russian families was ultimately published as War and Peace in ______ the novel’s epic scope and historical themes, the new title reflected the evolution of Tolstoy’s original vision for the story over the course of the writing process.
+
+
+A. 1869; emphasizing
+B. 1869, emphasizing
+C. 1869 emphasizing
+D. 1869, which emphasized
+Answer: A
+
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Marcel Duchamp intended his 1917 so-called ready-made sculpture Fountain to challenge then-prevailing conceptions about the nature of art. _____ Duchamp’s Fountain did just that, raising the question of whether displaying any object in an art gallery could be said to transform the object—even, as Duchamp’s sculpture was, a urinal—into a legitimate work of art.
+
+
+A. Instead,
+B. In addition,
+C. Similarly,
+D. Indeed,
+Answer: D
+
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In 2015, geologist Peter Rogerson recalculated the geographic center of Nebraska, which had previously been determined in 1920 by the US Geological Survey (USGS). The USGS, Rogerson contended, had omitted important considerations, not least the curvature of the earth. ______ the state’s USGS-determined center—a point 10 miles northwest of the municipality of Broken Bow—was inaccurate.
+
+
+A. Next,
+B. That being said,
+C. Hence,
+D. However,
+Answer: C
+
+
+Question 25:
+[Synthesis]
+The student's goal is a comparison of the Big Crunch model with the Heat Death model. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching cosmology, a student has taken the following notes:
+• Cosmological models attempt to describe the ultimate fate of the universe.
+• One early model was the "Big Crunch," hypothesized by physicists like Alexander Friedmann.
+• In the Big Crunch model, gravity is strong enough to halt cosmic expansion and cause the universe to collapse.
+• The "Heat Death" (or "Big Freeze") is a more recent model based on late 20th-century observations.
+• The Heat Death model posits that accelerating expansion will continue indefinitely, leading to a cold, dark universe.
+
+
+A. The prediction of the Big Crunch model is a final collapse, which contrasts with the prediction of indefinite, accelerating expansion made by the Heat Death model.
+B. Following the early hypothesis of a Big Crunch, the Heat Death model was proposed to explain observations of the universe.
+C. The models of the Big Crunch and Heat Death differ on the premise that the universe is currently expanding.
+D. In the late 20th century, the Heat Death model was proposed, disagreeing with the Big Crunch model's foundational idea that gravity influences the structure of the universe.
+Answer: A
+
+
+Question 26:
+[Synthesis]
+The student wants to emphasize a similarity between the two NWRs. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The United States has designated more than 500 areas National Wildlife Refuges (NWRs).
+• Some NWRs were established specifically to protect endangered species.
+• The Crocodile Lake NWR is a 6,686-acre area in Florida.
+• It was established to protect the endangered American crocodile.
+• The Pearl Harbor NWR is a 61-acre area in Hawaii.
+• It was established to protect the endangered Hawaiian stilt.
+
+
+A. Both the Crocodile Lake NWR and the Pearl Harbor NWR were established to protect endangered species.
+B. Some NWRs, such as Hawaii’s Pearl Harbor, were established specifically to protect endangered species.
+C. While the Crocodile Lake NWR extends across a 6,686-acre area, the Pearl Harbor NWR encompasses only 61 acres.
+D. The US has designated more than 500 areas NWRs, including the Crocodile Lake NWR in Florida.
+Answer: A
+
+
+Question 27:
+[Synthesis]
+The student wants to provide a specific example of irrational juxtaposition in surrealist collage. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Felipe Posada (pseudonym The Invisible Realm) is a New York City–based artist who specializes in the form of art known as surrealist collage.
+• Manifestation of the unconscious mind is a central aspect of surrealist collage.
+• Irrational juxtaposition of disparate elements is a central aspect of surrealist collage.
+• Posada’s Synchronicity irrationally juxtaposes images of a well-dressed man, a clouded mountain range, and a doorway to the stars.
+• Posada: “My art is a journey through the invisible realm—a space where intuition, memories, visions, and dreams are free to take visual form.”
+
+
+A. Images of a well-dressed man, a clouded mountain range, and a doorway to the stars are juxtaposed irrationally in the surrealist collage piece Synchronicity by artist Felipe Posada.
+B. The irrational juxtaposition of disparate elements in Felipe Posada’s art invokes “a space where intuition, memories, visions, and dreams are free to take visual form.”
+C. Synchronicity by artist Felipe Posada is an example of surrealist collage, a form in which irrational juxtaposition is a central aspect.
+D. Surrealist collage, such as Felipe Posada’s Synchronicity, manifests the unconscious mind and irrationally juxtaposes disparate elements.
+Answer: A

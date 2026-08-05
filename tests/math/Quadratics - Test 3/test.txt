@@ -1,0 +1,119 @@
+Question 1:
+The function {{MATH_1}} gives a metal ball’s height above the ground f(x), in inches, x seconds after it started moving on a track, where {{MATH_2}}. Which of the following is the best interpretation of the vertex of the graph of y = f(x) in the xy-plane?
+
+A. The metal ball’s minimum height was {{MATH_3}} inches above the ground.
+B. The metal ball’s minimum height was {{MATH_4}} inches above the ground.
+C. The metal ball’s height was {{MATH_5}} inches above the ground when it started moving.
+D. The metal ball’s height was {{MATH_6}} inches above the ground when it started moving.
+Answer: A
+
+Question 2:
+The quadratic function f(x) has 2 solutions j and k, where j < k. The quadratic function g(x) has 2 solutions l and m, where l < m.
+f(x) = {{MATH_7}}
+g(x) = {{MATH_8}}
+The quadratic function h(x) = {{MATH_9}} has solutions of {{MATH_10}} and {{MATH_11}}, and can be rewritten as {{MATH_12}}. What is the value of c?
+Answer: 6
+
+Question 3:
+A quadratic function models the height, in feet, of an object above the ground in terms of time, in seconds, after the object is launched. The model indicates the object launched from the ground ({{MATH_14}} feet) and reaches its maximum height of {{MATH_15}} feet above the ground {{MATH_16}} seconds after being launched. Based on the model, what is the height, in feet, of the object above the ground {{MATH_17}} seconds after being launched?
+
+A. {{MATH_18}}
+B. {{MATH_19}}
+C. {{MATH_20}}
+D. {{MATH_21}}
+Answer: D
+Explain : Desmos
+
+Question 4:
+A quadratic function models the height, in feet, of an object above the ground in terms of time, in seconds, after the object is launched off an elevated surface. The model indicates that at a time of {{MATH_22}} seconds, the object is {{MATH_23}} feet above the ground. At a time of {{MATH_24}} seconds, the object is {{MATH_25}} feet above the ground. If the object was at a height of {{MATH_26}} feet when it was launched, what is the height, in feet, of the object above ground {{MATH_27}} seconds after being launched?
+
+A. {{MATH_28}}
+B. {{MATH_29}}
+C. {{MATH_30}}
+D. {{MATH_31}}
+Answer: D
+Explain : Desmos
+
+Question 5:
+The function f is defined by the given equation. Which of the following equivalent forms of the equation displays the minimum value of the function as a constant or coefficient?
+f(x) = {{MATH_32}}
+
+A. {{MATH_33}}
+B. {{MATH_34}}
+C. {{MATH_35}}
+D. {{MATH_36}}
+Answer: B
+
+Question 6:
+If the graph of given equation has exactly one intersection point, what is the x-coordinate of intersection point?
+{{MATH_37}}
+{{MATH_38}}
+Answer: -4
+Explain : Dùng delta
+
+Question 7:
+In the xy plane, a parabola has vertex {{MATH_39}} and intersects x-axis at two points. If the equation of the parabola is written in the form {{MATH_68}} where a, b, and c are constants. Which of the following could be the value of a + b + c?
+
+A. {{MATH_40}}
+B. {{MATH_41}}
+C. {{MATH_42}}
+D. {{MATH_43}}
+Answer: A
+Explain : Từ dữ kiện intersect x-axis 2 points tìm được giới hạn của a. Sau đó cho a(x-6)^2 + 8 = ax^2 + bx + c để biểu diễn b và c theo a. 
+
+Question 8:
+The function f is defined by {{MATH_69}}, where a, b, and c are constants. The graph of y = f(x) in the xy-plane passes through the points (10, 0) and (-5, 0). If a is an integer greater than 1, which of the following could be the value of a + b?
+
+A. {{MATH_44}}
+B. {{MATH_45}}
+C. {{MATH_46}}
+D. {{MATH_47}}
+Answer: A
+Explain : Sử dụng tính chất (x1 + x2) / 2 = -b/2a để biểu diễn b theo a. 
+
+Question 9:
+The function f is defined by {{MATH_69}}, where a, b, and c are constants. The graph of y = f(x) in the xy-plane passes through the points (9, 0) and (-2, 0). If a is an integer greater than 1, which of the following could be the value of a + b?
+
+A. {{MATH_48}}
+B. {{MATH_49}}
+C. {{MATH_50}}
+D. {{MATH_51}}
+Answer: D
+
+Question 10:
+In the given system of equations, a is a positive integer constant. The system has no real solutions. What is the least possible value of a?
+{{MATH_52}}
+{{MATH_53}}
+Answer: 25
+Explain : Dùng delta. 
+
+Question 11:
+The given expression can be rewritten as {{MATH_70}}, where a, b, and c are constants.
+{{MATH_54}}
+What is the value of a + b + c?
+
+A. {{MATH_55}}
+B. {{MATH_56}}
+C. {{MATH_57}}
+D. {{MATH_58}}
+Answer: A
+Explain : Desmos
+
+Question 12:
+In the given system of equations, q is a positive constant.
+{{MATH_59}}
+{{MATH_60}}
+The graphs of the equations in the given system intersect at exactly one point, (x, y), in the xy-plane. What is the value of x?
+
+A. {{MATH_61}}
+B. {{MATH_62}}
+C. {{MATH_63}}
+D. {{MATH_64}}
+Answer: D
+
+Question 13:
+The functions f and g are given. In function g, r is a constant. If f(x) · g(x) = {{MATH_67}}, what is the value of r?
+f(x) = {{MATH_65}}
+g(x) = {{MATH_66}}
+Answer: 12
+Explain : Desmos

@@ -1,0 +1,92 @@
+Question 1:
+What is an equation of the graph shown?
+
+A. {{MATH_1}}
+B. {{MATH_2}}
+C. {{MATH_3}}
+D. {{MATH_4}}
+Answer: B
+
+Question 2:
+{{MATH_5}}
+{{MATH_6}}
+The solution to the given system of equations is {{MATH_7}}. What is the value of {{MATH_8}}?
+
+A. {{MATH_9}}
+B. {{MATH_10}}
+C. {{MATH_11}}
+D. {{MATH_12}}
+Answer: D
+
+Question 3:
+The shaded region shown represents the solutions to which inequality?
+
+A. {{MATH_13}}
+B. {{MATH_14}}
+C. {{MATH_15}}
+D. {{MATH_16}}
+Answer: A
+
+Question 4:
+{{MATH_17}}
+Which point {{MATH_18}} is a solution to the given inequality in the xy-plane?
+
+A. {{MATH_19}}
+B. {{MATH_20}}
+C. {{MATH_21}}
+D. {{MATH_22}}
+Answer: C
+
+Question 5:
+{{MATH_23}}
+In the given equation, c is a constant. The equation has infinitely many solutions. What is the value of c?
+
+A. {{MATH_24}}
+B. {{MATH_25}}
+C. {{MATH_26}}
+D. {{MATH_27}}
+Answer: B
+
+Question 6:
+The table shows three values of x and their corresponding values of y. There is a quadratic relationship between x and y. An equation that represents this relationship can be written as {{MATH_28}}, where is a constant. What is the value of b?
+
+Answer: 196
+Question 7:
+Hannah and Wyatt are saving money to purchase a car. Hannah saves {{MATH_30}} of her salary each month, and Wyatt saves {{MATH_31}} of his salary each month. Together, they save a total of $3,270 from their monthly salaries each month. If h and w represent Hannah's and Wyatt's monthly salaries, in dollars, respectively, which equation shows the relationship between h and w ?
+
+A. {{MATH_32}}
+B. {{MATH_33}}
+C. {{MATH_34}}
+D. {{MATH_35}}
+Answer: D
+
+Question 8:
+The function h is defined by {{MATH_36}}, where p is a constant. In the xy-plane, the graph of {{MATH_37}} passes through the point {{MATH_38}}. What is the value of {{MATH_39}}?
+
+A. {{MATH_40}}
+B. {{MATH_41}}
+C. {{MATH_42}}
+D. {{MATH_43}}
+Answer: D
+
+Question 9:
+{{MATH_44}}
+Which of the following are solutions to the given equation, where {{MATH_45}} is a constant and {{MATH_46}}?
+I. {{MATH_47}}
+II. 24
+III. 25
+
+A. I and II only
+B. I and III only
+C. II and III only
+D. I, II, and III
+Answer: B
+
+Question 10:
+If {{MATH_48}} , what is the value of {{MATH_49}}?
+
+A. {{MATH_50}}
+B. {{MATH_51}}
+C. {{MATH_52}}
+D. {{MATH_53}}
+Answer: C

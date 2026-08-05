@@ -1,0 +1,370 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Emerging bioacoustics technologies have ______ long-standing challenges to wildlife research by enabling scientific observation without a human presence in the field. For example, these tools have been used for continuous, unattended monitoring of insect species and for tracking nocturnal birds when they move into inaccessible areas of wetlands where traditional observation methods fail.
+
+
+A. underpinned
+B. attributed
+C. subjugated
+D. surmounted
+Answer: D
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The traditional Puerto Rican dish mofongo, characterized broadly by its base of mashed plantains, is often ______ in its preparation and serving style. Coastal families typically serve it with fresh-caught octopus and shrimp, mountain families tend to prepare it with chicharrones, and restaurant chefs in San Juan explore innovations like topping the dish with guarapo (juice from sugarcane).
+
+
+A. proprietary
+B. meticulous
+C. localized
+D. seasonal
+Answer: C
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although more documentaries are being made than ever before, too many seem ______ offering stories without any depth. In a refreshing contrast, Ahmir "Questlove" Thompson's 2021 documentary Summer of Soul (…or, When the Revolution Could Not Be Televised) draws from present-day interviews to supply compelling historical and social context for footage of the 1969 Harlem Cultural Festival.
+
+
+A. perfunctory
+B. cryptic
+C. inaccessible
+D. haughty
+Answer: A
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Studying sales and price data for 325 brands of laundry detergents, shaving razors, cereal bars, and other consumer packaged goods, Koushyar Rajavi and colleagues found that pricing, though hardly ______ brand success, made a much less pronounced contribution to brand success than retail distribution breadth did.
+
+
+A. uncharacteristic of
+B. determinative of
+C. contingent on
+D. immaterial to
+Answer: D
+
+Question 5:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Globally, the pastures and rangeland on which cattle, donkeys, and other livestock graze account for about 25% of all land, spanning all but one continent. Analyzing data on wild-animal abundance in areas with and without livestock grazing in China and nineteen other countries, Alessandro Filazzola et al. calculated the effect size of excluding livestock, where positive values indicated greater abundance in livestock-excluded areas relative to livestock-included ones. They found that values were positive for all vertebrates and invertebrates except detritivores (e.g., worms).
+
+
+A. It provides context about a common agricultural land use, specifies the geographic scope of a study examining a potential advantage of restricting that use, and presents quantitative data disproving that advantage.
+B. It makes a claim about domestic animals’ reliance on two types of land, explains the aims of a study conducted in areas affected by that reliance, and indicates a favorable impact that reliance has on other animals.
+C. It establishes the importance of an ecological phenomenon, provides details about how a group of researchers designed a study of that phenomenon, and evaluates the empirical evidence reported in that study.
+D. It notes the extent of an agricultural practice, outlines the approach utilized by researchers investigating an outcome associated with that practice, and reports on a key finding made by the researchers.
+Answer: D
+
+Question 6:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Typically, synthetic leather is petroleum based, but materials scientists searching for an ecologically sustainable alternative have used various bacteria that secrete linear chains of glucose, forming a dense mesh of cellulose called a pellicle, which is leatherlike except in color. The standard process for dyeing leather generates substantial wastewater and other undesirable byproducts, so __adopting such a regimen would run counter to the ecological promise of the pellicle approach.__ To address this, Kenneth T. Walker and colleagues worked to modify _Komagataelbacter rhaeticus_ bacteria to produce a pellicle with embedded pigmentation cells, thereby allowing the pellicle to "dye" itself from the inside.
+
+
+A. To concede that the researchers' main goal as described in the text will be challenging to achieve due to the standard coloring approach being impractical for use on a pellicle
+B. To describe a consideration that led the researchers to employ an alternative approach to coloring a pellicle that allowed them to achieve their main goal as presented in the text
+C. To indicate the characteristic of conventional synthetic leathers that makes those leathers poorly suited to achieve the researchers' main goal as presented in the text
+D. To illustrate how the researchers adapted the pellicle approach to overcome a potential impediment to their main goal as presented in the text
+Answer: B
+
+Question 7:
+[COE]
+Which statement, if true, would best explain why Wade makes the concession described in the text?
+
+The Heege Manuscript (HM) comprises booklets of once-unbound paper sheets on which Richard Heege copied various texts at his home in fifteenth-century England. James Wade argues that a portion of the HM was copied from the repertoire books of a working medieval minstrel, as that portion includes a narrator politely addressing an audience, references to Jon Belly-Burst and other folk characters, jokes that could be modified to make fun of one town (e.g., Holbrooke) to residents of a nearby town (e.g., Radford), and other features that are presumed to be typical of minstrels' public performances. Wade concedes, however, that his argument is ultimately circumstantial.
+
+
+A. Although some other medieval manuscripts also contain portions apparently copied from minstrels' repertoire books, they contain much less of that material than the HM does.
+B. Although portions of the HM directly match some medieval minstrels' repertoire books, those books also include many elements that are not found in the HM.
+C. Although surviving firsthand accounts of medieval minstrels' public performances describe features like those seen in the HM, those accounts all predate the HM by many years.
+D. Although it is likely that medieval minstrels made use of repertoire books, no such book, let alone one with contents that match material in the HM, has been discovered.
+Answer: D
+
+Question 8:
+[Cross Text]
+Based on the texts, how would the author of Text 2 most likely respond to the statement in the underlined portion of Text 1?
+
+Text 1
+Economist Thomas Piketty’s book Capital in the Twenty-First Century has a more rigorous structure than its sequel, Capital and Ideology. While the first book’s chapters all contribute to bolstering a clear, coherent argument about income inequality, __the second book’s digressions on subjects such as an analysis of Hayao Miyazaki’s film The Wind Rises do not just unduly lengthen the book but also muddy its reasoning.__
+Text 2
+Capital and Ideology has different aims than Piketty’s earlier books. It should be judged not just in the context of Piketty’s previous work but placed next to books like William T. Vollmann’s Rising Up and Rising Down, in which the stated theme of justifications for violent acts is mainly an excuse for a polymath to map his own mind. Even when sections do not explicitly support the central thesis, they link to each other in intriguing ways. None of them should be considered extraneous.
+
+
+A. By stating that even if Piketty is an economist, there is no justifiable reason why Capital and Ideology should not be compared to the work of William T. Vollmann
+B. By arguing that the structure of Capital and Ideology is a principal reason why it is a superior book to Rising Up and Rising Down
+C. By claiming that it is a mistake that Capital and Ideology is intended to serve the same purpose as other works by Piketty that forcefully present a central argument
+D. By asserting that it is more important for a book like Capital and Ideology to continuously advance a central thesis than for sections of it to interact with each other in ways that do not support that thesis
+Answer: C
+
+Question 9:
+[COE]
+Which statement about hummingbird preferences is most strongly supported by the text?
+
+High-reward flowers that produce nectar with relatively high sugar concentrations are thought to be especially attractive to stripe-throated hermits and other hummingbird species. But when María A. Maglianesi and team monitored hummingbird visits to flowering plants, including Palicourea tormentosa, at Los Cusingos Bird Sanctuary and other sites in Costa Rica, they found that visit frequencies weren't influenced by nectar traits. Rather, physical compatibility of flower corollas (collections of petals) and hummingbird bills more strongly predicted hummingbird-plant interaction patterns.
+
+
+A. Physical compatibility between flower corollas and hummingbird bills becomes an important factor that influences hummingbird preferences when hummingbirds are uncertain about which plants produce high-reward nectar.
+B. Hummingbirds' preferences are primarily driven by trait-matching between their bills and flower corollas, though nectar qualities are a secondary factor driving their preferences.
+C. Hummingbirds consistently prefer plant species whose flowers have physical traits that are compatible with their bills but offer relatively low nectar rewards.
+D. The floral traits that most strongly influence which plant species hummingbirds prefer may result in certain hummingbird species visiting flowers with relatively low nectar rewards over those with higher nectar rewards.
+Answer: D
+
+Question 10:
+[COE]
+Based on the text and the table, is the student’s conclusion reasonable?
+
+In a 2013 study, Akihito Mochizuki et al. determined that aqueous concentration of the element uranium (U) in Lake Biwa, Japan, varies nearly threefold from season to season. Such fluctuations in lakes are driven primarily by variations in lakes’ pH levels. On the basis of the findings of Mochizuki et al., a student analyzing data on concentrations of U-238, an isotope that accounts for more than 99% of all naturally occurring U, in water samples from two Chinese lakes—Gabai Lake and Tuosu Lake—hypothesizes that relative to these two lakes, Lake Biwa experiences greater seasonal variation in pH levels.
+Seasonal Variation in U-238 Concentration in Gabai Lake and Tuosu Lake
+
+A. No, because the data show only U-238 concentrations and not pH levels in the Gabai Lake and Tuosu Lake samples, making it impossible to draw well-founded conclusions about variation in pH levels in those lakes.
+B. Yes, because the data show that the U-238 concentrations in the samples from Gabai Lake and Tuosu Lake remain relatively stable, increasing only from 16.2 µg/L to 18.3 µg/L and 34.4 µg/L to 35.5 µg/L, respectively, from summer to winter.
+C. No, because the data reveal different ranges of seasonal variation in U-238 concentrations between the sampled lakes, from Gabai Lake ranging from 16.2 µg/L to 18.3 µg/L and the samples from Tuosu Lake ranging from 34.4 µg/L to 35.5 µg/L.
+D. Yes, because the data indicate that the difference between the U-238 concentrations in the Gabai Lake samples and those in the Tuosu Lake samples remains nearly constant from summer to winter.
+Answer: B
+
+Question 11:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Visiting flowers that produce high volumes of nectar allows hummingbirds, including scaly-breasted hummingbirds, to maximize their foraging efficiency. But nectar can't be seen from outside the flower, and while __some studies have suggested that petal length may indicate nectar volume__, Marla A. Maglianesi and team found no such association among hummingbird-visited plants at Los Cusingos Bird Sanctuary and other sites in Costa Rica. The researchers hypothesize that by driving hummingbirds to visit more plants in search of high-reward flowers, plants' lack of reliable signaling may increase chances of pollination.
+
+
+A. It suggests that a hypothesis discussed later in the text regarding a potential visual cue that hummingbirds rely on to increase their foraging efficiency has little support from the broader scientific community.
+B. It summarizes contradictory study findings concerning a floral trait that influences hummingbird foraging patterns, which the study mentioned later in the text aimed to resolve.
+C. It attributes the inconclusive findings reported in the text regarding the influence of a particular floral trait on interactions between hummingbirds and plants to differences in study sites.
+D. It acknowledges research findings, which weren't replicated by the study discussed later in the text, positing a relationship between floral traits that potentially underlies hummingbird foraging decisions.
+Answer: D
+
+Question 12:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+Although beneficial for forestalling loss of vascular function when leaf veins are blocked, reticulate (net-like) leaf-vein topologies in plants are thought to reduce efficiency in water and sugar transport and to increase vein construction costs relative to branched topologies. __Charles A. Price and Joshua S. Weitz assessed these trade-offs by comparing vascular function in the reticulate patterns of Oncoba spinosa (fried egg tree) and other angiosperm leaf veins with that of analogous open branching patterns.__ Though reticulation did indeed have added costs, they were offset by its benefits.
+
+
+A. It suggests why researchers were surprised by the finding of the relative costs and benefits of two types of venation patterns.
+B. It introduces a novel method for evaluating the hypothesis advanced in the previous sentence regarding the causes of vascular impairment in branched vein topologies.
+C. It explains an approach that researchers took in a study to determine the impacts of reticulation on vascular function in plants.
+D. It indicates a research team’s skepticism about the claim stated in the previous sentence that vascular function in plants with reticulate veins is necessarily inferior to that of plants with branching veins.
+Answer: C
+
+Question 13:
+[COE]
+Which finding about Charadriformes and the 12 other orders identified in the recent study, if true, would best support the researchers' prediction?
+
+When a predator nears the nesting site of a pied oystercatcher (Haematopus longirostris), the bird will lead the predator away from the nest by pretending to be injured and unable to fly. This behavior is called "broken-wing display" and was long thought to be used only in the order Charadriformes (shorebirds). However, recent research has shown that species from Anseriformes (waterfowl), Cuculiformes (cuckoos), and 10 additional avian orders use the display—particularly those species that experience high levels of predation. Given that species with higher predation rates tend to have shorter incubation durations, some researchers have predicted that the defensive behavior is also associated with relatively short incubation periods.
+
+
+A. The mean incubation period is 22 days for species from those orders, regardless of the species' use of broken-wing display.
+B. Nearly 90% of species in the order Charadriformes have been observed using broken-wing display to deter predators during an incubation period, while only about 30% of species in the other 12 orders have been observed doing so.
+C. Across those orders, broken-wing display has been observed in approximately 80% of species with incubation periods under 20 days and approximately 58% of species with incubation periods over 30 days.
+D. The use of broken-wing display has been confirmed in 285 individual species from those orders, representing a range of incubation periods, from a minimum of 10 days to a maximum of 44 days.
+Answer: C
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+*Puck* and other mass-media periodicals that flourished in the US in the late nineteenth and early twentieth centuries have been criticized for homogenizing the varied styles and perspectives of the many writers who contributed to them into a monotone voice marketable to a general audience. Recent scholarship on mass media, though, has focused on periodicals that catered to specific rather than general audiences (such as Half Century Magazine, which was designed for Black women) and afforded professional opportunity to writers whose work was underrepresented in more established outlets. A shift in the characterization of the era’s mass media has therefore ensued, with previous critiques giving way to the recognition that_________
+
+
+A. the landscape of mass-media publications was not homogeneous, and the range of voices in specialized publications such as Half Century Magazine provided an alternative to the standardization evident in general-interest periodicals.
+B. mass-media publications deserve some credit for ensuring that cultural and artistic innovations reached general audiences, even if these publications featured only a narrow range of perspectives in doing so.
+C. both specialized mass-media publications like Half Century Magazine and general-interest publications like Puck were more diverse and sophisticated in their literary aims than scholars once thought.
+D. mass-media publications merit the attention of literary scholars, as such artifacts can reveal the cultural values and commercial interests that influenced writers of the period.
+Answer: A
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+Formed over millions of years, nodules of valuable minerals cover large areas of the Clarion-Clipperton Zone (CCZ), an expanse of abyssal seabed between Hawai‘i and Mexico. Advocates of nodule mining note that extracting these minerals from land-based sources would use about ten times the projected energy of comparable seabed operations. Opponents of nodule mining concede that point but counter that most invertebrate species found in the CCZ were previously unknown and that seabed nodule removal could affect areas’ habitability for sediment-dwelling _Trophomera mangani_ for many years after operations cease, and perhaps irrecoverably for nodule-obligate inhabitants like _Haywardozoon pacificum_. Opponents therefore suggest that ______
+
+
+A. advocates for nodule mining have underestimated the harms that seabed operations may cause to invertebrate communities and the amount of energy such operations require.
+B. the expected energy savings associated with seabed mining are insufficient to justify the risk of permanently displacing organisms like Haywardozoon pacificum from the mined area.
+C. nodule mining would be worth the potential downsides only if its energy costs could be brought in line with those of land-based mining operations.
+D. while Haywardozoon pacificum communities are likely to be resilient to seabed nodule mining in the long term, Trophomera mangani communities may not withstand the disturbances mining would cause.
+Answer: B
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In a 2018 study, Ceri Shipton et al. concluded that stone tools excavated from an archaeological site in Saudi Arabia date to between 197,000 and 276,000 years ago. The reliability of the dates that Shipton et al. have posited, which were obtained through processes that determined when buried mineral grains surrounding the tools were last exposed to sunlight, ______ in part upon the researchers’ exclusion of mineral grains that lacked adequate sun exposure before burial.
+
+
+A. depend
+B. having depended
+C. depending
+D. depends
+Answer: D
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+To British musician Jacob Collier, substituting the II chord for the bVII chord—its opposite in pitch and tone—adds expression to improvisation without creating dissonance. This conceptualization of harmonic opposites did not originate with ______ in 1985, the idea was first articulated in Swiss musicologist Ernst Levy’s posthumously published book A Theory of Harmony.
+
+
+A. Collier, though,
+B. Collier; though,
+C. Collier, though
+D. Collier, though;
+Answer: D
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+"The Bones Wizard" by Alan Ryan, She Walks in Shadows by Silvia Moreno-Garcia, and "The Unconquered Country" by Geoff Ryman are all pieces of literature that have won the prestigious World Fantasy ______ the works differ in length and type of content, they received the honor in the categories of short story, anthology, and novella, respectively.
+
+
+A. Award;
+B. Award. Because
+C. Award because
+D. Award, because
+Answer: B
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Replete with pedestrian-friendly promenades and ample seating_______Illinois indoor shopping mall designed by twentieth-century architect Victor Gruen—took European town centers as its inspiration, a fact that may surprise people today, given the quintessentially American legacy of indoor shopping malls.
+
+
+A. areas—Lakehurst Mall, an
+B. areas, Lakehurst Mall, was an
+C. areas, Lakehurst Mall, an
+D. areas, Lakehurst Mall—an
+Answer: D
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The radial velocity method, a means of indirect planetary discovery, has detected previously unknown exoplanets at vast distances from ______ the Neptune-like planet DMPP-1 b; at 296 light-years away, the gas giant 42 Draconis b; and, as of 2023, over 1,000 other exoplanets that are too far away and dim to be observed directly.
+
+
+A. Earth at 204 light-years away:
+B. Earth, at 204 light-years away,
+C. Earth at 204 light-years away,
+D. Earth: at 204 light-years away,
+Answer: D
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Karl Popper’s argument that scientific hypotheses must be theoretically refutable, termed the criterion of falsifiability, rejects the confirmationist ______ verifiability as the essential criterion for scientific hypotheses. To Popper, a statement like “all spiders have eight legs” is scientific not because it can be verified, or proved true, but because it can theoretically be proved false.
+
+
+A. argument, it posits
+B. argument positing
+C. argument and posits
+D. argument, positing
+Answer: B
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The early Australian railroad system of the 1800s was famously uncoordinated. Trains on the broad gauge Victorian Goldfields Railway line in Victoria couldn’t travel on the Hotham Valley Railway in Western Australia, which used narrow gauge tracks, without performing time-consuming conversions. ______ historians refer to this complicated system as the “mixed gauge muddle.”
+
+
+A. For example,
+B. Likewise,
+C. Rather,
+D. Hence,
+Answer: D
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As anthropologist Cristina Grasseni explains, many artisanal cheeses in Italy, such as Pecorino Siciliano from Sicily and Montasio from Veneto, are highly valued for their regional authenticity; ______ they are prized for being made using local ingredients and methods typical of their respective geographic regions.
+
+
+A. still,
+B. That is,
+C. then,
+D. rather,
+Answer: B
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+John Rankin’s home in Ohio was one of dozens of stops on the Underground Railroad (the network of people and places that some enslaved people used to escape to freedom). The word “underground” may lead one to assume that Rankin kept his antislavery views a secret. ______ his views were quite well known.
+
+
+A. As a result,
+B. For example,
+C. On the contrary,
+D. Additionally,
+Answer: C
+
+Question 25:
+[Synthesis]
+The student wants to explain how the radial velocity method is used to detect exoplanets. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The exoplanet 16 Cygni B b was discovered in 1996.
+• Astronomers used the radial velocity method to detect the exoplanet.
+• This method analyzes observable shifts in the color of the light of a distant star.
+• These shifts in color signal that the star is wobbling.
+• A wobble indicates that an unseen exoplanet is orbiting the star and influencing its movements through gravitational force.
+
+
+A. Employing the radial velocity method, astronomers analyze the light of stars for color shifts that signal a star is wobbling; a wobble indicates that an unseen exoplanet is orbiting the star.
+B. The radial velocity method is a method of planetary discovery that astronomers use to detect the presence of unseen exoplanets orbiting distant stars.
+C. The radial velocity method, an approach to planetary detection that astronomers used to discover the exoplanet 16 Cygni B b, involves analyzing shifts in the color of a star's light that cause the star to wobble.
+D. The gravitational forces of 16 Cygni B b, an exoplanet detected in 1996 by astronomers using the radial velocity method, can cause observable shifts in the color of the light of a distant star.
+Answer: A
+
+Question 26:
+[Synthesis]
+The student wants to place the independence of Togo in historical context, providing a quotation as support. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• In the year 1960 alone, 17 African nations became independent.
+• Togo gained its independence from France on April 27, 1960.
+• The Democratic Republic of the Congo (DRC) gained its independence from Belgium on June 30, 1960.
+• The president of Ghana, Kwame Nkrumah, gave a speech to the UN in 1960 in which he discussed Africa’s ongoing transformation.
+• Nkrumah: “For years, Africa has been the footstool of colonialism and imperialism.… Those days are gone and gone forever, and now I, an African, stand before this august Assembly of the United Nations and speak with a voice of peace and freedom, proclaiming to the world the dawn of a new era.”
+
+
+A. Reflecting on the independence of Togo and the DRC in a 1960 speech, President Nkrumah of Ghana asserted that “those days are gone and gone forever.”
+B. According to President Nkrumah of Ghana, when Togo gained its independence from France on April 27, 1960, Africa was transformed from “the footstool of colonialism and imperialism” to “a voice of peace and freedom”
+C. Togo gained its independence in 1960, a year in which the nation’s president gave a speech “before this august Assembly of the United Nations.”
+D. The year 1960 was transformative for Africa—“the dawn of a new era,” according to Ghana’s President Nkrumah—with 17 African nations, including Togo, gaining their independence in that year alone.
+Answer: D
+
+Question 27:
+[Synthesis]
+The student wants to use a quotation from an expert to recommend a specific painting at the NPG. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•The National Portrait Gallery in London (NPG) features thousands of portraits of historical figures.
+•One is a Tudor-era painting of King Henry VII, the king from 1485 to 1509.
+•The NPG also features contemporary self-portraits.
+•One is a 2021 painting of artist and musician Issy Wood.
+•In a 2023 article, art critic Jonathan Jones called the NPG "a collection of notable faces with no artistic depth."
+•Jones acknowledged the appeal of the NPG's older paintings: the "portraits of the Tudor, Stuart, and Georgian ages take you absorbingly into the past."
+
+
+A. According to art critic Jonathan Jones, the NPG’s 2021 self-portrait of Issy Wood stands out among the gallery's "collection of notable faces with no artistic depth."
+B. Like the NPG's thousands of portraits of historical figures, the portrait of artist and musician Issy Wood takes viewers "absorbingly into the past," writes art critic Jonathan Jones.
+C. In a 2023 article, art critic Jonathan Jones recommended the NPG's older paintings, including that of King Henry VII, for their "artistic depth."
+D. The Tudor-era portrait of King Henry VII is one of a number of NPG paintings that, art critic Jonathan Jones concedes, "take you absorbingly into the past."
+Answer: D
+

@@ -1,0 +1,1767 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Admin - Quản lý tài khoản & thiết bị</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <link rel="icon" type="image/png" href="/images/logo.webp" />
+    <style>
+      body {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+          sans-serif;
+        margin: 0;
+        padding: 20px;
+        background: #f5f5f7;
+      }
+
+      h1 {
+        margin-top: 0;
+      }
+
+      .container {
+        max-width: 1100px;
+        margin: 0 auto;
+        background: #fff;
+        padding: 20px 24px 32px;
+        border-radius: 8px;
+        box-shadow: none;
+      }
+
+      .top-bar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 24px;
+      }
+
+      .admin-tabs {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        margin-bottom: 24px;
+      }
+
+      .admin-tab {
+        border: 1px solid #e5e7eb;
+        background: #f9fafb;
+        padding: 8px 14px;
+        border-radius: 999px;
+        font-size: 14px;
+        cursor: pointer;
+        color: #374151;
+        transition: all 0.15s ease;
+      }
+
+      .admin-tab:hover {
+        border-color: #9ca3af;
+        color: #111827;
+      }
+
+      .admin-tab.active {
+        background: #111827;
+        color: #fff;
+        border-color: #111827;
+      }
+
+      .top-bar span {
+        font-size: 14px;
+        color: #555;
+      }
+
+      a {
+        color: #d62828;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      form {
+        margin-bottom: 16px;
+      }
+
+      label {
+        display: inline-block;
+        min-width: 100px;
+        font-size: 14px;
+      }
+
+      input[type="text"],
+      input[type="password"] {
+        padding: 6px 8px;
+        font-size: 14px;
+        border-radius: 4px;
+        border: 1px solid #ccc;
+      }
+
+      select {
+        padding: 6px 8px;
+        font-size: 14px;
+        border-radius: 4px;
+        border: 1px solid #ccc;
+        background: #fff;
+      }
+
+      button {
+        padding: 6px 12px;
+        font-size: 14px;
+        border-radius: 4px;
+        border: none;
+        cursor: pointer;
+      }
+
+      .btn-primary {
+        background: #d62828;
+        color: #fff;
+      }
+
+      .btn-secondary {
+        background: #eee;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 13px;
+        margin-top: 8px;
+      }
+
+      th,
+      td {
+        border: 1px solid #ddd;
+        padding: 6px 8px;
+        text-align: left;
+      }
+
+      th {
+        background: #fafafa;
+      }
+
+      .badge {
+        padding: 2px 6px;
+        border-radius: 10px;
+        font-size: 11px;
+      }
+
+      .badge-yes {
+        background: #d4f8d4;
+        color: #177a1a;
+      }
+
+      .badge-no {
+        background: #ffe2e2;
+        color: #a11a1a;
+      }
+
+      .section-desc {
+        color: #555;
+        font-size: 13px;
+        margin: 4px 0 12px;
+      }
+
+      .admin-section {
+        display: none;
+      }
+
+      .admin-section.active {
+        display: block;
+      }
+
+      #user-table {
+        margin-top: 12px;
+      }
+
+      .user-actions form {
+        display: inline-block;
+        margin-right: 6px;
+      }
+
+      .user-row-clickable {
+        cursor: pointer;
+        transition: background 0.15s ease;
+      }
+
+      .user-row-clickable:hover {
+        background: #f9fafb;
+      }
+
+      .badge-pro {
+        background: #e0e7ff;
+        color: #1e3a8a;
+      }
+
+      .class-badge {
+        display: inline-block;
+        padding: 3px 8px;
+        border-radius: 12px;
+        font-size: 12px;
+        background: #eef2ff;
+        color: #312e81;
+        margin-bottom: 6px;
+      }
+
+      .class-empty {
+        background: #fef2f2;
+        color: #991b1b;
+      }
+
+      .class-form {
+        display: flex;
+        gap: 8px;
+        align-items: center;
+        flex-wrap: wrap;
+      }
+
+      .class-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin: 8px 0 16px;
+      }
+
+      .class-pill {
+        padding: 6px 10px;
+        background: #f3f4f6;
+        border-radius: 12px;
+        font-size: 13px;
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        cursor: pointer;
+        border: 1px solid transparent;
+      }
+
+      .class-pill.active {
+        background: #e0e7ff;
+        color: #1e3a8a;
+        border-color: #c7d2fe;
+      }
+
+      .notification-form {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+        align-items: center;
+        margin-bottom: 12px;
+      }
+
+      .notification-form input[type="text"] {
+        min-width: 280px;
+        flex: 1 1 280px;
+      }
+
+      .notification-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+      }
+
+      .notification-item {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        align-items: center;
+        padding: 10px 12px;
+        border: 1px solid #e5e7eb;
+        border-radius: 8px;
+        background: #f9fafb;
+      }
+
+      .notification-item input[type="text"] {
+        flex: 1 1 320px;
+        min-width: 220px;
+      }
+
+      .class-pill-close {
+        background: transparent;
+        border: none;
+        font-size: 14px;
+        cursor: pointer;
+        padding: 0 2px;
+        color: #6b7280;
+      }
+
+      .class-pill-close:hover {
+        color: #ef4444;
+      }
+
+      .class-pill-name {
+        display: inline-block;
+      }
+
+      .class-pill-edit {
+        background: transparent;
+        border: none;
+        font-size: 13px;
+        cursor: pointer;
+        padding: 0 2px;
+        color: #6b7280;
+      }
+
+      .class-pill-edit:hover {
+        color: #2563eb;
+      }
+
+      .assignment-panel {
+        margin-top: 12px;
+        border: 1px solid #e5e7eb;
+        border-radius: 12px;
+        padding: 14px 16px;
+        background: #f8fafc;
+        display: none;
+      }
+
+      .assignment-panel.active {
+        display: block;
+      }
+
+      .assignment-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        flex-wrap: wrap;
+      }
+
+      .assignment-class-label {
+        padding: 6px 10px;
+        background: #1f2937;
+        color: #fff;
+        border-radius: 12px;
+        font-weight: 700;
+        font-size: 13px;
+      }
+
+      .assignment-content {
+        margin-top: 10px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+      }
+
+      .assignment-category {
+        background: #fff;
+        border: 1px solid #e5e7eb;
+        border-radius: 10px;
+        padding: 10px 12px;
+      }
+
+      .assignment-category h4 {
+        margin: 0 0 8px 0;
+        font-size: 14px;
+      }
+
+      .assignment-pills {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+      }
+
+      .assignment-pill {
+        padding: 6px 10px;
+        border-radius: 999px;
+        border: 1px solid #d1d5db;
+        background: #fff;
+        cursor: pointer;
+        font-size: 13px;
+        transition: all 0.15s ease;
+      }
+
+      .assignment-pill:hover {
+        border-color: #9ca3af;
+        background: #f9fafb;
+      }
+
+      .assignment-pill.assigned {
+        background: #dcfce7;
+        border-color: #16a34a;
+        color: #166534;
+        font-weight: 700;
+      }
+
+      .assignment-pill.loading {
+        opacity: 0.6;
+        pointer-events: none;
+      }
+
+      .assignment-empty {
+        color: #6b7280;
+        font-weight: 600;
+        font-size: 14px;
+      }
+
+      .pro-tests-list {
+        display: grid;
+        gap: 16px;
+      }
+
+      .pro-test-group {
+        border: 1px solid #e5e7eb;
+        border-radius: 12px;
+        padding: 12px 14px;
+        background: #f9fafb;
+      }
+
+      .pro-test-group h3 {
+        margin: 0 0 10px;
+        font-size: 15px;
+      }
+
+      .pro-test-items {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 8px;
+      }
+
+      .pro-test-item {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        font-size: 13px;
+        color: #111827;
+        background: #fff;
+        border: 1px solid #e5e7eb;
+        padding: 8px 10px;
+        border-radius: 8px;
+      }
+
+      .pro-test-item-name {
+        font-weight: 600;
+      }
+
+      .pro-test-item select {
+        border: 1px solid #d1d5db;
+        border-radius: 8px;
+        background: #fff;
+        padding: 6px 8px;
+        font-size: 12px;
+        color: #111827;
+      }
+
+      .pro-test-item.loading {
+        opacity: 0.6;
+        pointer-events: none;
+      }
+
+      .deadline-list {
+        display: grid;
+        gap: 16px;
+      }
+
+      .deadline-group {
+        border: 1px solid #e5e7eb;
+        border-radius: 12px;
+        padding: 12px 14px;
+        background: #f9fafb;
+      }
+
+      .deadline-group h3 {
+        margin: 0 0 10px;
+        font-size: 15px;
+      }
+
+      .deadline-items {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 8px;
+      }
+
+      .deadline-item {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        font-size: 13px;
+        color: #111827;
+        background: #fff;
+        border: 1px solid #e5e7eb;
+        padding: 8px 10px;
+        border-radius: 8px;
+      }
+
+      .deadline-item input[type="date"] {
+        border: 1px solid #d1d5db;
+        border-radius: 8px;
+        padding: 4px 6px;
+        font-size: 12px;
+        color: #111827;
+      }
+
+      .deadline-controls {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+      }
+
+      .deadline-clear {
+        background: #f3f4f6;
+        color: #6b7280;
+      }
+
+      .deadline-item.loading {
+        opacity: 0.6;
+        pointer-events: none;
+      }
+
+      .deadline-bulk {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 8px;
+        margin-bottom: 10px;
+      }
+
+      .deadline-bulk label {
+        min-width: auto;
+        font-size: 13px;
+        color: #4b5563;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="top-bar">
+        <h1>Admin - Quản lý tài khoản & thiết bị</h1>
+        <div>
+          <span>Đăng nhập với: <strong id="admin-username">...</strong></span>
+          &nbsp;|&nbsp;
+          <a href="/logout">Logout</a>
+        </div>
+      </div>
+
+      <nav class="admin-tabs" aria-label="Điều hướng quản trị">
+        <button class="admin-tab" type="button" data-target="classes">
+          Quản lí lớp
+        </button>
+        <button class="admin-tab" type="button" data-target="users">
+          Tài khoản đã đăng nhập
+        </button>
+        <button class="admin-tab" type="button" data-target="devices">
+          Thiết bị
+        </button>
+        <button class="admin-tab" type="button" data-target="submissions">
+          Bài nộp gần đây
+        </button>
+        <button class="admin-tab" type="button" data-target="notifications">
+          Thông báo
+        </button>
+        <button class="admin-tab" type="button" data-target="export">
+          Export câu sai
+        </button>
+        <button class="admin-tab" type="button" data-target="pro-tests">
+          Phân quyền đề
+        </button>
+        <button class="admin-tab" type="button" data-target="deadlines">
+          Set deadline
+        </button>
+      </nav>
+
+      <section class="admin-section" data-section="classes">
+        <h2>Quản lý lớp học</h2>
+        <p class="section-desc">
+          Tạo các lớp học và gán từng tài khoản vào lớp để dễ theo dõi.
+        </p>
+
+        <form class="class-form" method="POST" action="/admin/classes">
+          <label for="class-name">Tên lớp</label>
+          <input id="class-name" name="name" type="text" required placeholder="Ví dụ: 12A1" />
+          <button type="submit" class="btn-primary">Tạo lớp</button>
+        </form>
+
+        <div class="class-list" id="class-list"></div>
+
+        <div class="assignment-panel" id="assignment-panel">
+          <div class="assignment-header">
+            <div>
+              <h3>Giao bài tập tự động theo deadline</h3>
+              <p class="section-desc" id="assignment-desc">
+                Đã bỏ giao bài thủ công. Bài có deadline sẽ tự động được tính là đã giao cho lớp.
+              </p>
+            </div>
+            <span class="assignment-class-label" id="assignment-class-label"></span>
+          </div>
+          <div class="assignment-content" id="assignment-content">
+            <div class="assignment-empty">Hãy chọn một lớp để xem hướng dẫn đặt deadline.</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="admin-section" data-section="users">
+        <h2>Tài khoản đã đăng nhập</h2>
+        <p class="section-desc">
+          Chỉ cần một lần người dùng đăng nhập là tài khoản xuất hiện ở đây. Bạn có thể
+          cấp hoặc thu hồi quyền Pro để cho phép truy cập mục đề luyện.
+        </p>
+        <table id="user-table">
+          <thead>
+            <tr>
+              <th>ID</th>
+              <th>Username</th>
+              <th>Loại tài khoản</th>
+              <th>Lớp</th>
+              <th>Admin</th>
+              <th>Thao tác</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </section>
+
+      <section class="admin-section" data-section="devices">
+        <h2>Danh sách thiết bị</h2>
+        <table id="device-table">
+          <thead>
+            <tr>
+              <th>ID</th>
+              <th>User</th>
+              <th>Device Token</th>
+              <th>Approved</th>
+              <th>Created At</th>
+              <th>Action</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- JS sẽ fill dữ liệu vào đây -->
+          </tbody>
+        </table>
+      </section>
+
+      <section class="admin-section" data-section="submissions">
+        <h2>Bài nộp gần đây</h2>
+        <p class="section-desc">
+          Hiển thị email người dùng, bài test và số câu đúng trên tổng số câu cho các lần
+          nộp bài mới nhất.
+        </p>
+        <table id="submission-table">
+          <thead>
+            <tr>
+              <th>Email</th>
+              <th>Tên test</th>
+              <th>Kết quả</th>
+              <th>Thời gian nộp</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </section>
+
+      <section class="admin-section" data-section="notifications">
+        <h2>Thông báo trang chủ</h2>
+        <p class="section-desc">
+          Tạo và chỉnh sửa thông báo hiển thị ngay dưới chữ Trang chủ.
+        </p>
+        <form id="notification-form" class="notification-form">
+          <label for="notification-message">Nội dung</label>
+          <input
+            type="text"
+            id="notification-message"
+            name="message"
+            placeholder="Nhập nội dung thông báo..."
+            required
+          />
+          <button type="submit" class="btn-primary">Thêm thông báo</button>
+        </form>
+        <ul id="notification-list" class="notification-list"></ul>
+      </section>
+
+      <section class="admin-section" data-section="export">
+        <h2>Export câu sai của người dùng</h2>
+        <p class="section-desc">
+          Nhập username rồi bấm Export để tải file .txt chứa toàn bộ câu sai mới nhất của
+          từng bài test mà người dùng đó đã làm.
+        </p>
+        <form id="export-wrong-form">
+          <label for="export-username">Username</label>
+          <input type="text" id="export-username" name="username" required />
+          <button type="submit" class="btn-primary">Export</button>
+        </form>
+      </section>
+
+      <section class="admin-section" data-section="pro-tests">
+        <h2>Chọn đối tượng được dùng đề</h2>
+        <p class="section-desc">
+          Mặc định tất cả đề chỉ dành cho tài khoản Pro. Bạn có thể đổi từng đề sang
+          Admin hoặc Tất cả mọi người.
+        </p>
+        <div class="pro-tests-list" id="pro-test-list"></div>
+      </section>
+
+      <section class="admin-section" data-section="deadlines">
+        <h2>Đặt deadline cho đề</h2>
+        <p class="section-desc">
+          Mặc định đề không có deadline. Khi đặt deadline, đề sẽ tự khóa sau ngày đã chọn
+          (trừ tài khoản Admin). Nếu muốn gỡ deadline hãy xóa ngày và lưu.
+        </p>
+        <div class="class-form" style="margin-bottom: 12px;">
+          <label for="deadline-class-select">Chọn lớp</label>
+          <select id="deadline-class-select">
+            <option value="">(Chọn lớp)</option>
+          </select>
+        </div>
+        <div class="deadline-list" id="deadline-list"></div>
+      </section>
+    </div>
+
+    <script>
+      // Khi load trang, gọi API /admin/devices để lấy dữ liệu
+      document.addEventListener("DOMContentLoaded", async () => {
+        try {
+          const tabButtons = Array.from(document.querySelectorAll(".admin-tab"));
+          const sections = Array.from(document.querySelectorAll(".admin-section"));
+          const activateTab = (target) => {
+            tabButtons.forEach((btn) => {
+              btn.classList.toggle("active", btn.dataset.target === target);
+            });
+            sections.forEach((section) => {
+              section.classList.toggle(
+                "active",
+                section.dataset.section === target
+              );
+            });
+          };
+
+          const getInitialTab = () => {
+            const hash = window.location.hash.replace("#", "");
+            const exists = sections.some(
+              (section) => section.dataset.section === hash
+            );
+            return exists ? hash : sections[0]?.dataset.section;
+          };
+
+          tabButtons.forEach((btn) => {
+            btn.addEventListener("click", () => {
+              const target = btn.dataset.target;
+              if (!target) return;
+              activateTab(target);
+              window.history.replaceState(null, "", `#${target}`);
+            });
+          });
+
+          const initialTab = getInitialTab();
+          if (initialTab) {
+            activateTab(initialTab);
+          }
+
+          const res = await fetch("/admin/devices");
+          if (!res.ok) {
+            console.error("Lỗi tải danh sách thiết bị");
+            return;
+          }
+          const data = await res.json();
+          const adminNameEl = document.getElementById("admin-username");
+          const tbody = document.querySelector("#device-table tbody");
+          const userTbody = document.querySelector("#user-table tbody");
+          const submissionTbody = document.querySelector(
+            "#submission-table tbody"
+          );
+          const classListEl = document.getElementById("class-list");
+          const assignmentPanel = document.getElementById("assignment-panel");
+          const assignmentContent = document.getElementById("assignment-content");
+          const assignmentClassLabel = document.getElementById("assignment-class-label");
+          const assignmentDesc = document.getElementById("assignment-desc");
+          const notificationForm = document.getElementById("notification-form");
+          const notificationInput = document.getElementById("notification-message");
+          const notificationList = document.getElementById("notification-list");
+          const proTestList = document.getElementById("pro-test-list");
+          const deadlineList = document.getElementById("deadline-list");
+          const deadlineClassSelect = document.getElementById("deadline-class-select");
+          const formatTestName = (testFile = "") => {
+            if (!testFile) return "(Không rõ)";
+            const parts = testFile.split("/");
+            const name = parts[parts.length - 1] || testFile;
+            return name.replace(/[_-]+/g, " ");
+          };
+
+          const showMissingAssignments = async (user) => {
+            if (currentClassFilter === null) return;
+
+            try {
+              const res = await fetch(
+                `/admin/classes/${currentClassFilter}/users/${user.id}/missing-assignments`
+              );
+
+              if (!res.ok) {
+                const text = await res.text();
+                alert(text || "Không thể tải danh sách bài còn thiếu");
+                return;
+              }
+
+              const payload = await res.json();
+              const missing = payload.missingAssignments || [];
+
+              if (missing.length === 0) {
+                alert(`Học sinh ${payload.username} đã làm hết các bài được giao.`);
+                return;
+              }
+
+              const lines = missing.map((item, idx) => {
+                const assignedAt = item.assigned_at
+                  ? new Date(item.assigned_at).toLocaleString("vi-VN")
+                  : "";
+                const categoryLabel = categoryLabels[item.category] || item.category || "";
+                const timeText = assignedAt ? ` (giao: ${assignedAt})` : "";
+                const categoryText = categoryLabel ? `${categoryLabel} - ` : "";
+                return `${idx + 1}. ${categoryText}${formatTestName(item.test_file)}${timeText}`;
+              });
+
+              alert(
+                `Các đề ${payload.username} còn thiếu:\n\n${lines.join("\n")}`
+              );
+            } catch (error) {
+              console.error(error);
+              alert("Có lỗi khi tải bài còn thiếu của học sinh");
+            }
+          };
+
+          let currentClassFilter = null;
+          let currentClassName = "";
+          let currentAssignments = { assigned: new Set(), categories: {} };
+
+          const categoryLabels = {
+            starter: "Starter",
+            real_tests: "Đề thi thật",
+            practice_tests: "Đề luyện",
+            cramming: "Cramming",
+            math: "Math",
+            math_cramming: "Math Cramming",
+          };
+          
+          const renderProTests = (payload = {}) => {
+            if (!proTestList) return;
+            proTestList.innerHTML = "";
+
+            const entries = Object.entries(payload);
+            if (entries.length === 0) {
+              proTestList.innerHTML =
+                '<div class="assignment-empty">Chưa có đề nào.</div>';
+              return;
+            }
+
+            entries.forEach(([category, tests]) => {
+              const group = document.createElement("div");
+              group.className = "pro-test-group";
+
+              const title = document.createElement("h3");
+              title.textContent = categoryLabels[category] || category;
+              group.appendChild(title);
+
+              const items = document.createElement("div");
+              items.className = "pro-test-items";
+
+              if (!tests || tests.length === 0) {
+                const empty = document.createElement("div");
+                empty.className = "assignment-empty";
+                empty.textContent = "Không có đề trong mục này.";
+                items.appendChild(empty);
+              } else {
+                tests.forEach((test) => {
+                  const item = document.createElement("div");
+                  item.className = "pro-test-item";
+
+                  const name = document.createElement("span");
+                  name.className = "pro-test-item-name";
+                  name.textContent = formatTestName(test.name);
+
+                  const select = document.createElement("select");
+                  select.dataset.testFile = test.test_file;
+
+                  const options = [
+                    { value: "admin", label: "Chỉ Admin" },
+                    { value: "pro", label: "Tài khoản Pro" },
+                    { value: "all", label: "Tất cả" },
+                  ];
+
+                  options.forEach((optionData) => {
+                    const option = document.createElement("option");
+                    option.value = optionData.value;
+                    option.textContent = optionData.label;
+                    select.appendChild(option);
+                  });
+
+                  select.value = test.access_level || "pro";
+
+                  select.addEventListener("change", async () => {
+                    item.classList.add("loading");
+                    const previous = test.access_level || "pro";
+                    const desired = select.value;
+
+                    try {
+                      const response = await fetch("/admin/pro-tests", {
+                        method: "POST",
+                        headers: { "Content-Type": "application/json" },
+                        body: JSON.stringify({
+                          test_file: test.test_file,
+                          access_level: desired,
+                        }),
+                      });
+
+                      if (!response.ok) {
+                        const err = await response.json().catch(() => ({}));
+                        throw new Error(err.error || "Không thể cập nhật đề");
+                      }
+
+                      test.access_level = desired;
+                    } catch (error) {
+                      select.value = previous;
+                      alert(error.message || "Không thể cập nhật đề");
+                    } finally {
+                      item.classList.remove("loading");
+                    }
+                  });
+
+                  item.appendChild(name);
+                  item.appendChild(select);
+                  items.appendChild(item);
+                });
+              }
+
+              group.appendChild(items);
+              proTestList.appendChild(group);
+            });
+          };
+
+          const loadProTests = async () => {
+            if (!proTestList) return;
+            proTestList.innerHTML =
+              '<div class="assignment-empty">Đang tải danh sách đề...</div>';
+
+            try {
+              const res = await fetch("/admin/pro-tests");
+              if (!res.ok) {
+                throw new Error("Không thể tải danh sách đề");
+              }
+              const payload = await res.json();
+              renderProTests(payload.tests || {});
+            } catch (error) {
+              console.error(error);
+              proTestList.innerHTML =
+                '<div class="assignment-empty">Không thể tải danh sách đề.</div>';
+            }
+          };
+
+          const renderDeadlines = (payload = {}, classId) => {
+            if (!deadlineList) return;
+            deadlineList.innerHTML = "";
+
+            if (!classId) {
+              deadlineList.innerHTML =
+                '<div class="assignment-empty">Hãy chọn lớp để đặt deadline.</div>';
+              return;
+            }
+
+            const entries = Object.entries(payload);
+            if (entries.length === 0) {
+              deadlineList.innerHTML =
+                '<div class="assignment-empty">Chưa có đề nào.</div>';
+              return;
+            }
+
+            entries.forEach(([category, tests]) => {
+              const group = document.createElement("div");
+              group.className = "deadline-group";
+
+              const title = document.createElement("h3");
+              title.textContent = categoryLabels[category] || category;
+              group.appendChild(title);
+
+              const bulk = document.createElement("div");
+              bulk.className = "deadline-bulk";
+
+              const bulkLabel = document.createElement("label");
+              bulkLabel.textContent = "Set nhanh deadline cho cả mục:";
+
+              const bulkInput = document.createElement("input");
+              bulkInput.type = "date";
+
+              const bulkBtn = document.createElement("button");
+              bulkBtn.type = "button";
+              bulkBtn.className = "btn-secondary";
+              bulkBtn.textContent = "Áp dụng";
+
+              bulkBtn.addEventListener("click", async () => {
+                const desired = bulkInput.value || "";
+                bulkBtn.disabled = true;
+                try {
+                  const response = await fetch("/admin/test-deadlines", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({
+                      class_id: classId,
+                      category,
+                      deadline: desired || null,
+                    }),
+                  });
+
+                  if (!response.ok) {
+                    const err = await response.json().catch(() => ({}));
+                    throw new Error(err.error || "Không thể cập nhật deadline");
+                  }
+
+                  loadDeadlines();
+                } catch (error) {
+                  alert(error.message || "Không thể cập nhật deadline");
+                } finally {
+                  bulkBtn.disabled = false;
+                }
+              });
+
+              bulk.appendChild(bulkLabel);
+              bulk.appendChild(bulkInput);
+              bulk.appendChild(bulkBtn);
+              group.appendChild(bulk);
+
+              const items = document.createElement("div");
+              items.className = "deadline-items";
+
+              if (!tests || tests.length === 0) {
+                const empty = document.createElement("div");
+                empty.className = "assignment-empty";
+                empty.textContent = "Không có đề trong mục này.";
+                items.appendChild(empty);
+              } else {
+                tests.forEach((test) => {
+                  const item = document.createElement("div");
+                  item.className = "deadline-item";
+
+                  const name = document.createElement("span");
+                  name.className = "pro-test-item-name";
+                  name.textContent = formatTestName(test.name);
+
+                  const controls = document.createElement("div");
+                  controls.className = "deadline-controls";
+
+                  const input = document.createElement("input");
+                  input.type = "date";
+                  input.value = test.deadline || "";
+
+                  const clearBtn = document.createElement("button");
+                  clearBtn.type = "button";
+                  clearBtn.className = "btn-secondary deadline-clear";
+                  clearBtn.textContent = "Xóa";
+
+                  const updateDeadline = async (desired) => {
+                    item.classList.add("loading");
+                    const previous = test.deadline || "";
+
+                    try {
+                      const response = await fetch("/admin/test-deadlines", {
+                        method: "POST",
+                        headers: { "Content-Type": "application/json" },
+                        body: JSON.stringify({
+                          class_id: classId,
+                          test_file: test.test_file,
+                          deadline: desired || null,
+                        }),
+                      });
+
+                      if (!response.ok) {
+                        const err = await response.json().catch(() => ({}));
+                        throw new Error(err.error || "Không thể cập nhật deadline");
+                      }
+
+                      const payload = await response.json();
+                      test.deadline = payload.deadline || "";
+                      input.value = test.deadline || "";
+                    } catch (error) {
+                      input.value = previous;
+                      alert(error.message || "Không thể cập nhật deadline");
+                    } finally {
+                      item.classList.remove("loading");
+                    }
+                  };
+
+                  input.addEventListener("change", () => {
+                    updateDeadline(input.value);
+                  });
+
+                  clearBtn.addEventListener("click", () => {
+                    input.value = "";
+                    updateDeadline("");
+                  });
+
+                  controls.appendChild(input);
+                  controls.appendChild(clearBtn);
+                  item.appendChild(name);
+                  item.appendChild(controls);
+                  items.appendChild(item);
+                });
+              }
+
+              group.appendChild(items);
+              deadlineList.appendChild(group);
+            });
+          };
+
+          const loadDeadlines = async () => {
+            if (!deadlineList) return;
+            const selectedClassId = deadlineClassSelect?.value || "";
+            if (!selectedClassId) {
+              deadlineList.innerHTML =
+                '<div class="assignment-empty">Hãy chọn lớp để đặt deadline.</div>';
+              return;
+            }
+            deadlineList.innerHTML =
+              '<div class="assignment-empty">Đang tải deadline...</div>';
+
+            try {
+              const res = await fetch(
+                `/admin/test-deadlines?class_id=${encodeURIComponent(selectedClassId)}`
+              );
+              if (!res.ok) {
+                throw new Error("Không thể tải deadline");
+              }
+              const payload = await res.json();
+              renderDeadlines(payload.tests || {}, selectedClassId);
+            } catch (error) {
+              console.error(error);
+              deadlineList.innerHTML =
+                '<div class="assignment-empty">Không thể tải deadline.</div>';
+            }
+          };
+
+          const renderNotifications = (notifications = []) => {
+            if (!notificationList) return;
+            notificationList.innerHTML = "";
+
+            if (notifications.length === 0) {
+              const emptyItem = document.createElement("li");
+              emptyItem.className = "notification-item";
+              emptyItem.textContent = "Chưa có thông báo nào.";
+              notificationList.appendChild(emptyItem);
+              return;
+            }
+
+            notifications.forEach((notification) => {
+              const item = document.createElement("li");
+              item.className = "notification-item";
+              item.dataset.id = notification.id;
+
+              const input = document.createElement("input");
+              input.type = "text";
+              input.value = notification.message || "";
+
+              const saveBtn = document.createElement("button");
+              saveBtn.type = "button";
+              saveBtn.className = "btn-secondary";
+              saveBtn.textContent = "Lưu";
+
+              const deleteBtn = document.createElement("button");
+              deleteBtn.type = "button";
+              deleteBtn.className = "btn-secondary";
+              deleteBtn.textContent = "Xóa";
+
+              saveBtn.addEventListener("click", async () => {
+                const payload = { message: input.value };
+                const res = await fetch(`/admin/notifications/${notification.id}`, {
+                  method: "PUT",
+                  headers: { "Content-Type": "application/json" },
+                  body: JSON.stringify(payload),
+                });
+
+                if (!res.ok) {
+                  const err = await res.json().catch(() => ({}));
+                  alert(err.error || "Không thể cập nhật thông báo");
+                  return;
+                }
+
+                loadNotifications();
+              });
+
+              deleteBtn.addEventListener("click", async () => {
+                if (!confirm("Bạn chắc chắn muốn xóa thông báo này?")) return;
+
+                const res = await fetch(`/admin/notifications/${notification.id}`, {
+                  method: "DELETE",
+                });
+
+                if (!res.ok) {
+                  const err = await res.json().catch(() => ({}));
+                  alert(err.error || "Không thể xóa thông báo");
+                  return;
+                }
+
+                loadNotifications();
+              });
+
+              item.appendChild(input);
+              item.appendChild(saveBtn);
+              item.appendChild(deleteBtn);
+              notificationList.appendChild(item);
+            });
+          };
+
+          const loadNotifications = async () => {
+            if (!notificationList) return;
+
+            try {
+              const res = await fetch("/admin/notifications");
+              if (!res.ok) {
+                throw new Error("Không thể tải thông báo");
+              }
+              const payload = await res.json();
+              renderNotifications(payload.notifications || []);
+            } catch (error) {
+              console.error(error);
+              renderNotifications([]);
+            }
+          };
+
+          const setAssignmentPanelVisible = (show) => {
+            if (!assignmentPanel) return;
+            assignmentPanel.classList.toggle("active", !!show);
+          };
+
+          if (notificationForm && notificationInput) {
+            notificationForm.addEventListener("submit", async (event) => {
+              event.preventDefault();
+              const message = notificationInput.value.trim();
+
+              if (!message) {
+                alert("Vui lòng nhập nội dung thông báo");
+                return;
+              }
+
+              const res = await fetch("/admin/notifications", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ message }),
+              });
+
+              if (!res.ok) {
+                const err = await res.json().catch(() => ({}));
+                alert(err.error || "Không thể tạo thông báo");
+                return;
+              }
+
+              notificationInput.value = "";
+              loadNotifications();
+            });
+          }
+
+          const setAssignmentMessage = (message) => {
+            if (!assignmentContent) return;
+            assignmentContent.innerHTML = `<div class="assignment-empty">${message}</div>`;
+          };
+
+          const renderAssignmentCategories = (payload) => {
+            if (!assignmentContent) return;
+
+            const assignedSet = new Set(payload.assigned || []);
+            currentAssignments = {
+              assigned: assignedSet,
+              categories: payload.categories || {},
+            };
+
+            assignmentContent.innerHTML = "";
+
+            const entries = Object.entries(payload.categories || {});
+
+            if (entries.length === 0) {
+              setAssignmentMessage("Không tìm thấy đề để giao.");
+              return;
+            }
+
+            entries.forEach(([category, items]) => {
+              const wrapper = document.createElement("div");
+              wrapper.className = "assignment-category";
+
+              const title = document.createElement("h4");
+              title.textContent = categoryLabels[category] || category;
+              wrapper.appendChild(title);
+
+              const pillBox = document.createElement("div");
+              pillBox.className = "assignment-pills";
+
+              if (!items || items.length === 0) {
+                const empty = document.createElement("div");
+                empty.className = "assignment-empty";
+                empty.textContent = "Không có đề trong mục này.";
+                pillBox.appendChild(empty);
+              } else {
+                items.forEach((item) => {
+                  const pill = document.createElement("button");
+                  pill.type = "button";
+                  pill.className = "assignment-pill";
+                  pill.textContent = formatTestName(item.test_file);
+
+                  if (assignedSet.has(item.test_file)) {
+                    pill.classList.add("assigned");
+                  }
+
+                  pill.addEventListener("click", async () => {
+                    pill.classList.add("loading");
+                    const success = await toggleAssignment(
+                      currentClassFilter,
+                      item.test_file,
+                      category
+                    );
+                    pill.classList.remove("loading");
+                    if (!success) return;
+
+                    if (currentAssignments.assigned.has(item.test_file)) {
+                      currentAssignments.assigned.delete(item.test_file);
+                      pill.classList.remove("assigned");
+                    } else {
+                      currentAssignments.assigned.add(item.test_file);
+                      pill.classList.add("assigned");
+                    }
+                  });
+
+                  pillBox.appendChild(pill);
+                });
+              }
+
+              wrapper.appendChild(pillBox);
+              assignmentContent.appendChild(wrapper);
+            });
+          };
+
+          const loadAssignmentsForClass = async (classId) => {
+            if (!assignmentPanel) return;
+
+            if (!classId) {
+              setAssignmentPanelVisible(false);
+              return;
+            }
+
+            setAssignmentPanelVisible(true);
+            if (assignmentClassLabel) {
+              assignmentClassLabel.textContent =
+                currentClassName ? `Lớp ${currentClassName}` : "";
+            }
+
+              if (assignmentDesc) {
+              assignmentDesc.textContent =
+                "Đã bỏ giao bài thủ công. Hãy vào tab \"Set deadline\" để đặt hạn nộp, hệ thống sẽ tự tính bài được giao.";
+            }
+            setAssignmentMessage(
+              "Không cần giao thủ công nữa. Bài test có deadline sẽ tự động xuất hiện trong danh sách bài được giao của học sinh."
+            );
+          };
+
+          async function toggleAssignment(classId, testFile, category) {
+            try {
+              const res = await fetch(
+                `/admin/classes/${classId}/assignments/toggle`,
+                {
+                  method: "POST",
+                  headers: { "Content-Type": "application/json" },
+                  body: JSON.stringify({ test_file: testFile, category }),
+                }
+              );
+
+              if (!res.ok) {
+                const text = await res.text();
+                alert(text || "Không thể cập nhật giao bài");
+                return false;
+              }
+
+              return true;
+            } catch (error) {
+              console.error(error);
+              alert("Có lỗi khi cập nhật giao bài");
+              return false;
+            }
+          }
+
+          const setActiveClassPill = (classId) => {
+            [...classListEl.querySelectorAll(".class-pill")].forEach((pill) => {
+              const pillId = pill.dataset.classId || "";
+              if (classId === null && pillId === "all") {
+                pill.classList.add("active");
+              } else if (classId !== null && Number(pillId) === classId) {
+                pill.classList.add("active");
+              } else {
+                pill.classList.remove("active");
+              }
+            });
+          };
+
+          const renderUsers = (classes, users) => {
+            userTbody.innerHTML = "";
+
+            const filteredUsers =
+              currentClassFilter === null
+                ? users
+                : users.filter((u) =>
+                    Array.isArray(u.class_ids)
+                      ? u.class_ids.includes(currentClassFilter)
+                      : u.class_id === currentClassFilter
+                  );
+
+            filteredUsers.forEach((user) => {
+              const tr = document.createElement("tr");
+              
+              if (currentClassFilter !== null) {
+                tr.classList.add("user-row-clickable");
+                tr.title = "Bấm để xem học sinh còn thiếu đề nào";
+                tr.addEventListener("click", (event) => {
+                  const target = event.target;
+                  if (
+                    target.closest("form") ||
+                    target.closest("select") ||
+                    target.closest("button")
+                  ) {
+                    return;
+                  }
+                  showMissingAssignments(user);
+                });
+              }
+
+              const accountBadge =
+                user.is_pro === 1
+                  ? '<span class="badge badge-pro">Pro</span>'
+                  : '<span class="badge badge-no">Thường</span>';
+
+              const adminBadge =
+                user.is_admin === 1
+                  ? '<span class="badge badge-yes">Admin</span>'
+                  : '<span class="badge badge-no">User</span>';
+              const classOptions = [
+                '<option value="">(Chưa gán)</option>',
+                ...classes.map(
+                  (cls) =>
+                    `<option value="${cls.id}" ${
+                      (user.class_ids || []).includes(cls.id) ? "selected" : ""
+                    }>${cls.name}</option>`
+                ),
+              ].join("");
+
+              const classBadges =
+                (user.class_names || []).length > 0
+                  ? (user.class_names || [])
+                      .map((name) => `<span class="class-badge">${name}</span>`)
+                      .join(" ")
+                  : '<span class="class-badge class-empty">Chưa gán lớp</span>';
+              const actionButton =
+                user.is_pro === 1
+                  ? `
+                    <form method="POST" action="/admin/users/${user.id}/pro">
+                      <input type="hidden" name="action" value="revoke" />
+                      <button type="submit" class="btn-secondary">Hạ xuống thường</button>
+                    </form>
+                  `
+                  : `
+                    <form method="POST" action="/admin/users/${user.id}/pro">
+                      <input type="hidden" name="action" value="grant" />
+                      <button type="submit" class="btn-primary">Cấp Pro</button>
+                    </form>
+                  `;
+
+              tr.innerHTML = `
+                <td>${user.id}</td>
+                <td>${user.username}</td>
+                <td>${accountBadge}</td>
+                <td>
+                  ${classBadges}
+                  <form class="class-form" method="POST" action="/admin/users/${
+                    user.id
+                  }/class">
+                    <select name="class_ids" multiple size="${Math.min(
+                      Math.max(classes.length, 2),
+                      6
+                    )}">${classOptions}</select>
+                    <button type="submit" class="btn-secondary">Lưu</button>
+                  </form>
+                </td>
+                <td>${adminBadge}</td>
+                <td class="user-actions">${actionButton}</td>
+              `;
+              userTbody.appendChild(tr);
+            });
+          };
+
+          const renderSubmissions = (submissions) => {
+            submissionTbody.innerHTML = "";
+            const filteredSubmissions =
+              currentClassFilter === null
+                ? submissions
+                : submissions.filter((s) =>
+                    Array.isArray(s.class_ids)
+                      ? s.class_ids.includes(currentClassFilter)
+                      : s.class_id === currentClassFilter
+                  );
+            filteredSubmissions.forEach((s) => {
+              const tr = document.createElement("tr");
+              const testName = formatTestName(s.test_file);
+
+              tr.innerHTML = `
+                <td>${s.email || "(Chưa có email)"}</td>
+                <td>${testName}</td>
+                <td><strong>${s.score}</strong> / ${s.total_questions}</td>
+                <td>${s.taken_at || ""}</td>
+              `;
+
+              submissionTbody.appendChild(tr);
+            });
+          };
+
+          const renderClasses = (classes) => {
+            classListEl.innerHTML = "";
+
+            if (deadlineClassSelect) {
+              deadlineClassSelect.innerHTML =
+                '<option value="">(Chọn lớp)</option>';
+              classes.forEach((cls) => {
+                const option = document.createElement("option");
+                option.value = cls.id;
+                option.textContent = cls.name;
+                deadlineClassSelect.appendChild(option);
+              });
+            }
+
+            const allPill = document.createElement("span");
+            allPill.className = "class-pill";
+            allPill.dataset.classId = "all";
+            allPill.innerHTML = '<span class="class-pill-name">Tất cả</span>';
+            allPill.addEventListener("click", () => {
+              currentClassFilter = null;
+              currentClassName = "";
+              setActiveClassPill(null);
+              renderUsers(classes, data.users || []);
+              renderSubmissions(data.submissions || []);
+              if (assignmentClassLabel) assignmentClassLabel.textContent = "";
+              if (assignmentDesc)
+                assignmentDesc.textContent =
+                  "Chọn một lớp để hiện các đề thuộc từng mục luyện đề, bấm vào pill để giao hoặc thu hồi bài tập.";
+              setAssignmentPanelVisible(false);
+            });
+            classListEl.appendChild(allPill);
+
+            if ((classes || []).length === 0) {
+              const empty = document.createElement("span");
+              empty.className = "class-pill";
+              empty.textContent = "Chưa có lớp nào";
+              empty.style.cursor = "default";
+              classListEl.appendChild(empty);
+              setActiveClassPill(null);
+              return;
+            }
+
+          
+            classes.forEach((cls) => {
+              const pill = document.createElement("span");
+              pill.className = "class-pill";
+              pill.dataset.classId = cls.id;
+
+              const nameEl = document.createElement("span");
+              nameEl.className = "class-pill-name";
+              nameEl.textContent = cls.name;
+
+              const editBtn = document.createElement("button");
+              editBtn.type = "button";
+              editBtn.className = "class-pill-edit";
+              editBtn.textContent = "✎";
+              editBtn.title = "Đổi tên lớp";
+              editBtn.addEventListener("click", async (event) => {
+                event.stopPropagation();
+                const nextName = prompt("Nhập tên lớp mới", cls.name);
+                if (nextName === null) return;
+                const trimmedName = nextName.trim();
+                if (!trimmedName) {
+                  alert("Tên lớp không được để trống");
+                  return;
+                }
+                if (trimmedName === cls.name) {
+                  return;
+                }
+
+                try {
+                  const response = await fetch(
+                    `/admin/classes/${cls.id}/rename`,
+                    {
+                      method: "POST",
+                      headers: { "Content-Type": "application/json" },
+                      body: JSON.stringify({ name: trimmedName }),
+                    }
+                  );
+
+                  if (!response.ok) {
+                    const text = await response.text();
+                    alert(text || "Đổi tên lớp thất bại");
+                    return;
+                  }
+
+                  const payload = await response.json();
+                  cls.name = payload.name;
+                  nameEl.textContent = payload.name;
+
+                  if (currentClassFilter === Number(cls.id)) {
+                    currentClassName = payload.name;
+                    if (assignmentClassLabel) {
+                      assignmentClassLabel.textContent = `Lớp ${payload.name}`;
+                    }
+                  }
+
+                  (data.users || []).forEach((user) => {
+                    if ((user.class_ids || []).includes(Number(cls.id))) {
+                      user.class_names = (user.class_names || []).map((name) =>
+                        name === cls.name ? payload.name : name
+                      );
+                    }
+                  });
+                  renderUsers(classes, data.users || []);
+                } catch (error) {
+                  console.error(error);
+                  alert("Có lỗi khi đổi tên lớp");
+                }
+              });
+
+              const closeBtn = document.createElement("button");
+              closeBtn.type = "button";
+              closeBtn.className = "class-pill-close";
+              closeBtn.textContent = "×";
+              closeBtn.title = "Xóa lớp";
+              closeBtn.addEventListener("click", async (event) => {
+                event.stopPropagation();
+                const confirmed = confirm("Bạn có muốn xóa class không?");
+                if (!confirmed) return;
+
+                try {
+                  const response = await fetch(
+                    `/admin/classes/${cls.id}/delete`,
+                    { method: "POST" }
+                  );
+
+                  if (response.ok) {
+                    window.location.reload();
+                  } else {
+                    const text = await response.text();
+                    alert(text || "Xóa lớp thất bại");
+                  }
+                } catch (error) {
+                  console.error(error);
+                  alert("Có lỗi khi xóa lớp");
+                }
+              });
+
+              pill.appendChild(nameEl);
+              pill.appendChild(editBtn);
+              pill.appendChild(closeBtn);
+
+              pill.addEventListener("click", () => {
+                currentClassFilter = Number(cls.id);
+                currentClassName = cls.name;
+                setActiveClassPill(currentClassFilter);
+                renderUsers(classes, data.users || []);
+                renderSubmissions(data.submissions || []);
+                loadAssignmentsForClass(currentClassFilter);
+              });
+              classListEl.appendChild(pill);
+            });
+          setActiveClassPill(null);
+          };
+
+          if (deadlineClassSelect) {
+            deadlineClassSelect.addEventListener("change", () => {
+              loadDeadlines();
+            });
+          }
+
+          adminNameEl.textContent = data.adminUsername || "";
+
+          tbody.innerHTML = "";
+          userTbody.innerHTML = "";
+          submissionTbody.innerHTML = "";
+          classListEl.innerHTML = "";
+
+          const classes = data.classes || [];
+
+          renderClasses(classes);
+          renderUsers(classes, data.users || []);
+
+          (data.devices || []).forEach((d) => {
+            const tr = document.createElement("tr");
+
+            const approvedBadge =
+              d.approved === 1
+                ? '<span class="badge badge-yes">Đã duyệt</span>'
+                : '<span class="badge badge-no">Chờ duyệt</span>';
+
+            let actionHtml = "";
+
+            if (d.approved === 1) {
+              // Thiết bị đã được approve -> chỉ có nút Revoke
+              actionHtml = `
+                <form method="POST" action="/admin/revoke/${d.id}">
+                  <button type="submit" class="btn-secondary">Revoke</button>
+                </form>
+              `;
+            } else {
+              // Thiết bị mới, chưa approve -> có cả Approve & Revoke
+              actionHtml = `
+                <form method="POST" action="/admin/approve/${d.id}" style="display:inline-block; margin-right:4px;">
+                  <button type="submit" class="btn-primary">Approve</button>
+                </form>
+                <form method="POST" action="/admin/revoke/${d.id}" style="display:inline-block;">
+                  <button type="submit" class="btn-secondary">Revoke</button>
+                </form>
+              `;
+            }
+
+            tr.innerHTML = `
+              <td>${d.id}</td>
+              <td>${d.username}</td>
+              <td>${d.device_token}</td>
+              <td>${approvedBadge}</td>
+              <td>${d.created_at}</td>
+              <td>${actionHtml}</td>
+            `;
+            tbody.appendChild(tr);
+          });
+
+          renderSubmissions(data.submissions || []);
+          loadNotifications();
+          loadProTests();
+          loadDeadlines();
+        } catch (e) {
+          console.error(e);
+        }
+      });
+
+      const exportForm = document.getElementById("export-wrong-form");
+      const exportInput = document.getElementById("export-username");
+
+      exportForm?.addEventListener("submit", async (event) => {
+        event.preventDefault();
+        const username = exportInput?.value.trim();
+
+        if (!username) {
+          alert("Vui lòng nhập username");
+          return;
+        }
+
+        try {
+          const res = await fetch(
+            `/admin/export-wrong-answers?username=${encodeURIComponent(username)}`
+          );
+
+          if (!res.ok) {
+            const text = await res.text();
+            alert(text || "Xuất file thất bại");
+            return;
+          }
+
+          const blob = await res.blob();
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement("a");
+          a.href = url;
+          a.download = `${username}-wrong-answers.txt`;
+          document.body.appendChild(a);
+          a.click();
+          a.remove();
+          URL.revokeObjectURL(url);
+        } catch (error) {
+          console.error(error);
+          alert("Có lỗi khi xuất file câu sai");
+        }
+      });
+    </script>
+  </body>
+</html>

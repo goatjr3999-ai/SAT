@@ -1,0 +1,112 @@
+Question 1:
+[COE]
+Which choice best describes data from the table that support the journalist's claim?
+
+Highest-Grossing Films in a Language Other than English at US Box Office
+
+Many films in a language other than English grow to be financially successful over the course of their time in movie theaters in the United States, but some become immediate successes in their opening weekends. A journalist claims that a film's reception can greatly influence its long-term success. Indicators of the film's high quality, such as an Oscar nomination, can dramatically boost public interest in the film and thus its overall earnings, even with a relatively modest opening weekend performance.
+
+
+A. Cinema Paradiso was recognized by the Oscars, but Instructions Not Included, which was not recognized by the Oscars, had higher lifetime earnings.
+B. La Cage aux Folles, which was recognized by the Oscars, earned less money in its opening weekend but had higher lifetime earnings than Padmaavat, which was not recognized by the Oscars.
+C. Although La Cage aux Folles and Cinema Paradiso were both recognized by the Oscars, La Cage aux Folles had higher lifetime and opening weekend earnings.
+D. Although the opening weekend earnings were $7,846,426 for Instructions Not Included and $4,493,384 for Padmaavat, neither film was recognized by the Oscars.
+Answer: B
+
+Question 2:
+[COE]
+Which choice best describes data from the table that weaken the student's claim?
+
+Many films in a language other than English grow to be financially successful over the course of their time in movie theaters in the United States, but some become immediate successes in their opening weekends. Such success is driven by many factors like advertising, genre popularity, and the fame of the actors and directors. A student claims that opening weekend earnings can reliably predict whether a film will be nominated for an Oscar: films that draw large audiences at the beginning of their release are the most likely contenders to earn these coveted award nominations.
+
+
+A. The Girl Who Played with Fire was not recognized by the Oscars but had much higher opening weekend earnings than The Motorcycle Diaries, which was recognized by the Oscars.
+B. Although both The Motorcycle Diaries and All About My Mother were recognized by the Oscars, The Motorcycle Diaries had higher lifetime earnings.
+C. Iron Monkey had higher lifetime earnings than All About My Mother did, even though All About My Mother was recognized by the Oscars.
+D. Although both Iron Monkey and The Girl Who Played with Fire were directed by well-known figures, neither film was recognized by the Oscars.
+Answer: A
+
+Question 3:
+[COE]
+Which choice most effectively uses data from the graph to complete the assertion?
+
+To understand the extent of deforestation in the Chorotega Region of Costa Rica, Juan Pablo Arroyo-Mora and colleagues used aerial photography and remote sensing data to track changes in the forest cover area across different land use capability classes (categories that indicate possible uses of forest land.) Due to the Chorotega region’s accessibility, various types of forest areas were converted to cattle practices as rising international meat prices drove a cattle ranching boom in the 1960s and 1970s. By the mid 1980s, however, increased public awareness and environmental reforms, along with a decline in meat prices, engendered a natural forest regrowth, as evident by the ______
+
+
+
+A. difference between the forest cover area in Class I-V and in Class VI in 2000.
+B. increase in the forest cover area for all classes from 1979 to 2000.
+C. decrease in the forest cover area for all classes from 1960 to 1979.
+D. similarity in forest cover area in Class I-V and Class VII in 1986.
+Answer: B
+
+Question 4:
+[COE]
+Which choice most effectively uses data from the graph to complete the assertion?
+
+To understand the extent of deforestation in the Chorotega region of Costa Rica, Juan Pablo Arroyo-Mora and colleagues used historical aerial photography and remote sensing data to track changes in the annual mean size of forest patches across different land use capability classes (categories that indicate possible uses of forest land). Due to the Chorotega region's ________.
+
+
+
+A. difference between mean forest patch size in Class VIII and in Class VI in 2000.
+B. steady increase in mean forest patch size from 1960 to 1979, followed by a more sudden increase in 1986 for all classes.
+C. increase in mean forest patch size after 1986 in all classes.
+D. similarity in mean forest patch size in Class VIII and Class VII in 1986.
+Answer: C
+
+Question 5:
+[COE]
+Which choice most effectively uses data from the graph to complete the assertion?
+
+To understand the extent of deforestation in the Chorotega region of Costa Rica, Juan Pablo Arroyo Mora and colleagues used historical aerial photography and remote sensing data to track changes in the total number of forest patches in areas of different land use capability classes (categories that indicate possible uses of forest land). Due to the Chorotega region’s accessibility, various types of forested areas were converted to cattle pasture as rising international meat prices drove a cattle ranching boom in the 1960s and 1970s; this conversion is evident in the _____
+
+
+A. high number of patches in Class VII and Class VIII in 1986.
+B. difference between the number of patches in Class VII and in Class VI in 2000.
+C. increase in the number of patches for all classes from 1979 to 2000.
+D. decrease in the number of patches for all classes from 1960 to 1979.
+Answer: D
+
+Question 6:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+Interested in how differences in the color of dogs’ irises affect human responses to dogs, Akitsugu Konno et al. showed close-up images of dogs’ faces to human participants and asked them to rate the dogs’ traits and their own attitudes toward the dogs. Konno et al. suggest that differences in iris color led participants to view some dogs as more vulnerable and in need of protection than others and that this phenomenon could help explain the association the researchers observed between iris color and participants’ inclinations to interact with or keep dogs, as illustrated by the finding that _____
+
+
+
+A. the more mature a dog was perceived to be, the more likely participants were to rate it as having light irises.
+B. participants favored the dogs in images 2 and 11, which they rated as less mature than the dogs in images 20 and 16.
+C. participants rated the dog in image 2 as less mature than the dog in image 11 and rated the dog in image 16 as less mature than the dog in image 20.
+D. dogs that participants rated as friendlier were also dogs that participants indicated a stronger willingness to interact with or keep.
+Answer: B
+
+Question 7:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+Interested in how differences in the color of dogs' irises affect human responses to dogs, Akitsugu Konno et al. showed a series of close-up images of dogs' faces to human participants and asked them to rate the dogs' traits and their own attitudes toward the dogs. Konno et al. hypothesized that a primary factor influencing a participant's desire to interact with a dog would be its perceived friendliness. This hypothesis was supported by the finding that ______.
+
+
+
+A. the more mature a dog was perceived to be, the more likely participants were to rate it as having light irises.
+B. participants favored the dogs in images 2 and 11, which they rated as less mature than the dogs in images 20 and 16.
+C. participants rated the dog in image 2 as less mature than the dog in image 11 and rated the dog in image 16 as less mature than the dog in image 20.
+D. dogs that participants rated as friendlier were also dogs that participants indicated a stronger willingness to interact with or keep.
+Answer: D
+
+Question 8:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+Average Ratings of Perceived Personality Traits of Dogs and Human Willingness to Keep or Interact with Them
+
+Studies have found that when looking at other people’s eyes, humans tend to perceive dilated pupils positively and constricted pupils negatively. Noting that a dark iris—the colored portion surrounding the pupil—is hard to distinguish from the black of the pupil (and thereby affects the pupil’s apparent size) and that many domestic dogs have dark irises, Akitsugu Konno et al. showed close-up images of dogs’ faces to human participants and asked them to rate the dogs’ traits and their own attitudes toward the dogs. Their findings suggest that _____
+
+
+A. iris color in domestic dogs may be an adaptation to elicit positive responses from humans, as participants responded more negatively to images of dogs whose iris colors can make pupils appear large than they did to images of dogs without such iris colors.
+B. humans may not be as sensitive to pupil size in dogs as they are to pupil size in other people, as participants’ responses to the images show no relationship to differences in the shade of dogs’ irises that could affect how large the dogs’ pupils appear to be.
+C. humans’ responses to pupil size in other people may extend to dogs, as participants responded more positively to images of dogs whose iris colors were likely to make their pupils appear large than they did to images of dogs whose iris colors were unlikely to have that effect.
+D. differences in dogs’ pupil size may elicit a stronger response in humans than differences in people’s pupil size do, as participants’ responses to the images when dogs’ pupils were actually large were indistinguishable from participants’ responses when dogs’ pupils only appeared to be large due to iris color.
+Answer: C
+

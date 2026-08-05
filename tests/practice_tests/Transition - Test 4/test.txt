@@ -1,0 +1,240 @@
+Question 1:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Mountain climbing routes that incorporate metal rungs and cables are known as via ferratas, from the Italian phrase for "iron path." As climbing these routes has shifted from a mode of travel to a sporting activity, modern via ferratas are rarely designed to simply reach a summit. ________ new routes favor recreation over utility, aiming to provide a challenging climb or showcase dramatic scenery.
+
+A. Nonetheless,
+B. On the other hand,
+C. More often,
+D. Additionally,
+Answer: C
+
+Question 2:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+NPTV is a community-led television channel broadcasting from the Navajo Nation in Arizona. In 2007, Jordan Kee aimed to ensure the sustainability of platforms like NPTV. _____ he established Indigenous Broadcast Network, a supportive network for Indigenous television channels, which currently encompasses about fifty channels.
+
+A. Nevertheless,
+B. For instance,
+C. That is to say,
+D. To that end,
+Answer: D
+
+Question 3:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+One proposed boundary between Earth’s atmosphere and outer space is the Kármán line, 100 km above sea level. Based on the work of physicist Theodore von Kármán, this line marks the theoretical height at which an aircraft no longer remains aloft using the force of lift. _____ an aircraft sustains flight past this altitude primarily by its velocity, reaching a speed sufficient to maintain an orbit but not to generate enough lift from the thin air.
+
+A. Regardless,
+B. For instance,
+C. Granted,
+D. Instead,
+Answer: D
+
+Question 4:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The Beatrice, an offshore wind farm located off the coast of Scotland, produces about 588 megawatts (MW) of electricity per year. ____ England's Hornsea Project One offshore wind farm, which generates the most power of any single offshore farm, produces 1,218 MW of electricity.
+
+A. For instance,
+B. As a result,
+C. That is,
+D. By comparison,
+Answer: D
+
+Question 5:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The designations of astronomical constellations consistently reference figures from mythology (e.g., Orion refers to a legendary hunter). Titles assigned to individual stars, _____ originate from a variety of sources. The star Betelgeuse derives its name from Arabic, for instance, while Polaris has a Latin origin.
+
+A. in turn,
+B. furthermore,
+C. on the other hand,
+D. therefore,
+Answer: C
+
+Question 6:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In the early 1900s, sculptor and collector Gertrude Whitney was one of the foremost champions of avant-garde art, helping many US avant-garde artists gain publicity and exposure. ______ Whitney offered to donate more than 500 avant-garde works to be displayed at a leading New York museum, but the museum said no—so she opened her own, the Whitney Museum of American Art.
+
+A. To this end,
+B. In other words,
+C. In contrast,
+D. Granted,
+Answer: A
+
+Question 7:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In astrophysics, a ring of debris orbiting a larger object within the object’s Roche limit is expected to persist as a ring, whereas a ring of debris orbiting outside this limit would likely accrete into a satellite (e.g., a moon). Bruno Morgado and colleagues ____ detected a dense ring of material orbiting the trans-Neptunian object Quaoar at a distance of 2,500 miles, well outside the calculated Roche limit of 1,100 miles, that has remained intact.
+
+A. fittingly,
+B. for example,
+C. likewise,
+D. though,
+Answer: D
+
+Question 8:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Newer offshore wind turbines often outperform older models. For example, Denmark’s offshore wind farm, built in 1995, has wind turbines that generate about 1 megawatt (MW) of electricity each. ______ China’s Jiangsu Qidong offshore wind farm, built in 2021, has turbines that can generate about 6 MW of electricity each.
+
+A. Granted,
+B. In contrast,
+C. For this reason,
+D. Eventually,
+Answer: B
+
+Question 9:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Although most planetary bodies display maximum visibility at night, certain highly reflective celestial objects—such as Venus and Jupiter—are easily visible to observers during daylight hours. ____ their pronounced brightness in daylight acts as a natural signal to facilitate daytime astronomical observations, differentiating them clearly from less reflective objects.
+
+A. At that time,
+B. To illustrate,
+C. That is,
+D. Nevertheless,
+Answer: A
+
+Question 10:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Mountain climbing trails equipped with metal ladders and anchored chains are called "chemin d'acier," derived from the French term for "steel path." As the purpose of climbing these routes has evolved from practical use to recreational sport, contemporary chemin d'acier routes are seldom constructed purely for reaching a peak. ______ new trails are designed more for enjoyment than necessity, offering climbers either a physically demanding experience or breathtaking views.
+
+A. Nonetheless,
+B. On the other hand,
+C. Additionally,
+D. More often,
+Answer: D
+
+Question 11:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Beginning in her days at Vassar College in 1905, lawyer and activist Inez Milholland was an advocate for various social causes: worker's rights, racial justice, prison reform, and more. ______ her advocacy work would catapult her to national prominence, most notably when, astride a white horse and garbed in a flowing cape, she led the 1913 Women’s Suffrage Procession in Washington, DC, thereby becoming the face of the US suffrage movement.
+
+A. As such,
+B. Ultimately,
+C. For example,
+D. Similarly,
+Answer: B
+
+Question 12:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The title of "Of the Inequality amongst Us," an essay by French philosopher Michel de Montaigne, suggests a straightforward topic. However, Montaigne's expansive, curious mind meant that he never limited himself to one subject. ______ the essay is not just a discussion of inequality but a broad exploration of Montaigne's entire worldview.
+
+A. Lastly,
+B. That said,
+C. Predictably,
+D. Additionally.
+Answer: C
+
+Question 13:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The World Cup of men’s soccer, one of the biggest sporting events on the planet, brought 32 national teams from six continents to the host country, Brazil, in 2014. The event, which is held every four years, has expanded greatly since it was played in Italy in 1934. _____ the World Cup included only 16 teams, most from Europe and the Americas.
+
+A. On the other hand,
+B. As a result,
+C. Then,
+D. Similarly,
+Answer: C
+
+Question 14:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Using LiDAR (Light Detection and Ranging) technology, Tulane University archaeologists scanned and mapped the ancient Mayan city of Tikal, which lies deep in the Guatemalan rainforest. Some of Tikal’s old stones are intertwined with the roots of surrounding trees, rendering parts of the complex physically inaccessible to researchers. _____ the LiDAR’s penetrating light waves were the only way to reveal some previously unknown aspects of the Mayan city.
+
+A. Similarly,
+B. Afterward,
+C. Hence,
+D. Specifically,
+Answer: C
+
+Question 15:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Much like Tennessee designates a state flower, tree, and bird, it also has a state soil known as Dickson soil. Dickson is an apt selection for state soil, largely due to its widespread presence throughout the state. _____ Dickson soil holds significance in Tennessee’s agricultural sector as it plays a vital role in cultivating various crops, including com and soybeans.
+
+A. By contrast,
+B. At that time,
+C. Alternatively,
+D. Additionally,
+Answer: D
+
+Question 16:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Upon first approaching artist Kurt Wenner’s Dies Irae, a colorful scene painted on the surface of a cobblestone street in Mantua, Italy, one might assume a deep hole filled with life-sized, classically styled sculptures had opened up in the street. ___ by expertly applying the principles of perspective, Wenner created merely the illusion of depth.
+
+A. Additionally,
+B. Next,
+C. As a result,
+D. On the contrary,
+Answer: D
+
+Question 17:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Following the American Revolutionary War, North American foodways underwent a radical transformation, fueled in large part by spiking consumer demand for certain grains. The cultivation, trade, and transportation of maize and wheat,______ reconfigured the continent’s existing regional foodways into a globally oriented food system.
+
+A. by comparison,
+B. second of all,
+C. alternatively,
+D. in particular,
+Answer: D
+
+Question 18:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The London Array, an offshore wind farm located off the coast of England, produces about 630 megawatts (MW) of electricity per year. ____ England's Hornsea Project One offshore wind farm, which generates the most power of any single offshore farm, produces 1,218 MW of electricity.
+
+A. As a result,
+B. That is,
+C. By comparison,
+D. For instance,
+Answer: C
+
+Question 19:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Box modeling, used by digital artists to develop 3D assets for video games, yields objects with precise mathematical proportions. Granted, as they are formed from perfect geometric shapes, such 3D elements lack organic realism; ____ post-modeling processes such as UV surface mapping are needed to achieve the level of verisimilitude gamers expect.
+
+A. consequently,
+B. similarly,
+C. in sum,
+D. however,
+Answer: A
+
+Question 20:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A team led by Portuguese researcher Isabel C.F.R. Ferreira found that many species of mushrooms contain chemicals called phenolic compounds, such as 5-O-caffeoylquinic acid and kaempferol. _____ Ferreira detected 5-O-caffeoylquinic acid in Pleurotus ostreatus mushrooms and kaempferol in Sparassis crispa mushrooms.
+
+A. However,
+B. For this reason,
+C. For example,
+D. Nevertheless,
+Answer: C
+

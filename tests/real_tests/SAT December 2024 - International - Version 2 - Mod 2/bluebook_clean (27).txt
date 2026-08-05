@@ -1,0 +1,353 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Possessing an outstanding collection of public art, Chicago has everything from monumental sculptures like Pablo Picasso's Chicago Picasso at sites like Daley Plaza to innovative street art like Justus Roe's mural Standing Wave located on South State Street. The ______ public art on display in the city can thus satisfy any art lover.
+
+A. controversy over
+B. breadth of
+C. apathy toward
+D. confusion about
+Answer: B
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In a 2018 article about films depicting the experiences of Black Americans, critics for the New York Times praise Carl Franklin's 1995 film *Devil in a Blue Dress* as "picture-perfect" and Cheryl Dunye's 1996 film *The Watermelon Woman* as "heartbreaking and inspiring." Fans of the two films hope that such ______ will attract new audiences to these works.
+
+A. acclaim
+B. ambivalence
+C. foresight
+D. impartiality
+Answer: A
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The fossil remains of the individual known as Misliya-1, discovered in Israel in 2002, can help paleoanthropologists not only ______ steps in the evolution of hominids but also illuminate the Pleistocene epoch generally, revealing important details about the time in which Misliya-1 lived.
+
+A. yield
+B. discern
+C. prioritize
+D. exploit
+Answer: B
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Though few critics consider Vasily Grossman's novel *Stalingrad*—which focuses on the experience of the Soviet Union in the early years of World War II—to be as well written as his later book *Everything Flows*, some compliment it despite the damage ______ Soviet censors: Gary Saul Morson in *The New York Review of Books* called the novel "remarkably bold."
+
+A. bestowed on
+B. wrought by
+C. allocated to
+D. concealed from
+Answer: B
+
+Question 5:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Archaeologists studying the ancient city of Pompeii in Italy recently discovered a well-preserved food shop known as a *thermopolium*. The site contains food remains, artworks, and decorations. These items give researchers a better understanding of what daily life in Pompeii may have been like. For example, the archaeologists found a ceramic jar that they believe likely contained a meat and seafood stew.
+
+A. To discuss the political system of Italy
+B. To present a recent archaeological discovery
+C. To describe a region's climate
+D. To compare ancient artworks with modern ones
+Answer: B
+
+Question 6:
+[Cross Text]
+Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree on which point?
+
+**Text 1**
+In separate studies, Joanna Weremijewicz and colleagues and Xinhua He and colleagues examined whether plants transfer nutrients to one another using a common mycorrhizal in the soil. Weremijewicz and colleagues excluded all pathways other than the CMN by using barriers to keep the plants' root systems separate while allowing mycorrhizal strands through—a crucial step He and colleagues' study did not take.
+
+**Text 2**
+Weremijewicz and colleagues took the necessary precaution of separating the plants root systems (thereby excluding root-to-root transmission). However, any barrier used must allow the thread-like hyphae of a CMN to pass through, and this permeability would also allow liquids through. Thus, the researchers experimental design cannot ensure that any nutrient transfer observed can be attributed to a CMN and not to some other pathway.
+
+A. Excluding root-to-root transfer of nutrients between plants is sufficient to ensure that any observed nutrient transfer must involve a CMN.
+B. A barrier that is impervious to both roots and fungal strands is necessary to evaluate nutrient transfer via a CMN.
+C. He and colleagues' study did not find convincing evidence of nutrient transfer between individual plants.
+D. The barriers used in Weremijewicz and colleagues' study effectively excluded root-to-root transmission of nutrients.
+Answer: D
+
+Question 7:
+[Cross Text]
+Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree on which point?
+
+**Text 1**
+
+For thousands of years, O'odham farmers in the Sonoran desert of the southwestern US and northern Mexico have cultivated organ pipe fruit and beans, sometimes planting these species together so that the organ pipe cacti provide shade for tepary beans. Doing so helps protect tepary beans from the harshest heat and light and thereby helps prevent soil moisture from evaporating.
+
+**Text 2**
+
+Tepary beans are well adapted to growing in the desert but grow best when shaded. Inspired by O'odham farmers, who often strategically plant tepary beans in the shade of sun hardy species like organ pipe cacti for protection from the sun and heat, Gary Nabhan and colleagues planted tepary beans in the shade of solar panels in the Sonoran desert and found that the plants grew well, suggesting to Nabhan and colleagues that the panels provide a benefit similar to that provided by organ pipe cacti.
+
+A. Compared with Nabhan's approach, the O'odham approach has the advantage of producing beans.
+B. Nabhan's team's method could be refined to more actively prevent soil moisture from evaporating.
+C. Organ pipe cacti can provide shade that protects tepary beans from high-intensity heat and light.
+D. Organ pipe cacti grow best when planted in shaded areas, while tepary beans do not require shade to thrive.
+Answer: C
+
+Question 8:
+[COE]
+Which choice best describes the finding made by Colquhoun, as presented in the text?
+
+Optimal foraging theory (OFT) holds that animals' foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecologic circumstances. One such circumstance is lunar intensity, which Nathan Upham and John Hafner found to be negatively associated with foraging by desert kangaroo rats but Ian C. Colquhoun found to be positively associated with foraging by black lemurs. This discrepancy is explicable in terms of OFT: the lemurs' greater reliance on vision means that higher lunar intensity benefits them more than it benefits the kangaroo rats.
+
+A. As lunar intensity increases, black lemurs increase their foraging activity.
+B. Increased lunar intensity is more beneficial for black lemurs than it is for desert kangaroo rats.
+C. As lunar intensity increases, desert kangaroo rats reduce their foraging activity.
+D. During periods of high lunar intensity, black lemurs increase their reliance on vision.
+Answer: A
+
+Question 9:
+[COE]
+Which finding, if true, would most directly support Martinez and colleagues' conclusion?
+
+The bird species *Cercomacra cinerascens* (the gray antbird) shares some territory in French Guiana with *Thamnomanes caesius* (the cinereous antshrike), which emits a loud alarm call when it detects predators. Biologist Ari Martinez and colleagues recorded *T. caesius* alarm calls and played them in the vicinity of wild *C. cinerascens*. Finding that the birds often froze in place or scattered into vegetation upon hearing the calls, they concluded that *C. cinerascens* associates *T. caesius* alarm calls with danger.
+
+A. Martinez and colleagues played alarm calls from different *T. caesius* individuals and observed no significant variation in the responses of *C. cinerascens*.
+B. When Martinez and colleagues played control sounds of random noise in the vicinity of *C. cinerascens*, the birds displayed no reaction.
+C. In some instances *C. cinerascens* froze in place or scattered into vegetation when Martinez and colleagues approached but before they began playing sounds.
+D. Other bird species than *C. cinerascens* also showed a tendency to freeze in place or scatter into vegetation when Martinez and colleagues played *T. caesius* alarm calls.
+Answer: B
+
+Question 10:
+[COE]
+Which quotation from a translation of *The Underdogs* most effectively illustrates the claim?
+
+*The Underdogs* is a 1915 novel by Mariano Azuela, originally written in Spanish. In the novel, Azuela makes a comparison using natural imagery to convey the mental state of the protagonist, Demetrio: ______
+
+A. "The river crept along, murmuring as the waters rose and fell in small cascades."
+B. "Demetrio suppressed a sigh. Memories crowded and buzzed through his brain like bees about a hive."
+C. "When he reached the summit, he glanced down to see the sun steeping the valley in a lake of gold."
+D. "Demetrio laid a hand on his hair which covered his ears, and stretching himself out for a longtime, seemed to be lost in thought."
+Answer: B
+
+Question 11:
+[COE]
+Which choice most effectively uses data from the graph to complete the researcher's example?
+
+It is common for freshwater lakes near or above a latitude of 45° north of the equator, like Lake Stechlin in Germany, to accumulate surface ice in winter. A study from 1980 to 2006 showed that, in general, the number of days per winter that such lakes have measurable amounts of surface ice is declining. However, a researcher claimed that some lakes have instead seen an increase in the duration of ice, citing as an example ______
+
+A. both Lake Baikal and Oulujarvi, which had more than 100 days of ice in the winter of 2005-06.
+B. both Lake Baikal and Oulujarvi, which had fewer than 195 days of ice in the winter of 1980-81.
+C. Lake Baikal, which had more days of ice in the winter of 2005-06 than it did in the winter of 1980-81.
+D. both Lake Kegonsa and Oulujarvi, which had more days of ice in the winter of 2005-06 than they did in the winter of 1980-81.
+Answer: C
+
+Question 12:
+[COE]
+Which finding, if true, would most directly support Shcherbakova and colleagues' claim?
+
+The linguistic niche hypothesis (LNH) posits that the exotericity of languages (how prevalent non-native speakers are) and grammatical complexity are inversely related, which the LNH ascribes to attrition of complex grammatical rules as more non-native speakers adopt the language but fail to acquire those rules. Focusing on two characteristics that are positive indices of grammatical complexity, fusion (when new phonemes arise from the merger of previously distinct ones) and informativity (languages' capacity for meaningful variation), Olena Shcherbakova and colleagues conducted a quantitative analysis for more than 1,300 languages and claim the outcome is inconsistent with the LNH.
+
+A. Shcherbakova and colleagues' analysis showed a slightly positive correlation between grammatical complexity and fusion.
+B. Shcherbakova and colleagues' analysis showed a slightly negative correlation between grammatical complexity and exotericity.
+C. Shcherbakova and colleagues' analysis showed a slightly positive correlation between fusion and exotericity and between informativity and exotericity.
+D. Shcherbakova and colleagues' analysis showed a slightly negative correlation between grammatical complexity and fusion and between grammatical complexity and informativity.
+Answer: C
+
+Question 13:
+[COE]
+Which choice most effectively uses data from the graph to complete the example?
+
+Neuroscientist Kiyohito Ligaya and colleagues developed a computational model to predict how much a person will enjoy a particular work of art on a scale from 1 (not at all) to 4 (very much). They then recruited participants to use the same scale to rate several sets of paintings in various styles and calculated the correlation between the ratings predicted by the model and those reported by the participants. Assuming participant P6 gave equal ratings to the abstract and cubist paintings, the data in the graph indicate the model predicted that ______
+
+A. P6's ratings for abstract and cubist paintings would differ from one another.
+B. P6 would derive less aesthetic pleasure from abstract paintings than from cubist paintings.
+C. P6's rating for abstract and cubist paintings would equal one another.
+D. P6 would derive more aesthetic pleasure from abstract paintings than from cubist paintings.
+Answer: A
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Arthurian legends (tales related to the character of King Arthur) derive from many often contradictory sources, such as *Y Goroddin*, composed between the 7th and 11th centuries and the *Mabinogion* from the 12th and 13th centuries. Sir Thomas Malory's 15th-century text *Le Morte d'Arthur* was an attempt to compile these stories into a coherent narrative. Many of Malory's sources derive from Geoffrey of Monmouth's *History of the Kings of Britain*, written in the 1130s. While neither *History* nor any works that predate it mention Arthur's famous Round Table at which his knights assembled, *Le Morte d'Arthur* does, suggesting that ______
+
+A. *Le Morte d'Arthur* is more historically accurate than *History* because the *Mabinogion* had not been written when Geoffrey of Monmouth was writing his work.
+B. when a version of an Arthurian legend contradicted the version in *History*, Malory preferred to include Geoffrey of Monmouth's version in *Le Morte d'Arthur*.
+C. Malory encountered the Round Table in a source that Geoffrey of Monmouth was not familiar with when writing his *History*.
+D. Geoffrey of Monmouth's accounts of Arthurian legends in *History* are more similar overall in content to the accounts in the *Mabinogion* than they are to the accounts in *Le Morte d'Arthur*.
+Answer: C
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+Prolonged exposure to anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Erin P. Walsh and colleagues found in a 2017 study of hermit crabs. Researchers conducted a meta-analysis of studies of how such noise affects animals and found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group. Although, on average, studies of arthropods showed larger differences than studies of birds did, for every class of animals examined, there were individual studies showing differences well above the average for arthropods. Therefore, the results of the meta-analysis suggest that ______
+
+A. the studies in the meta analysis that examined arthropods were more likely than those that examined birds to specify whether the observed effects were detrimental.
+B. the difference found in the study conducted by Erin P Walsh and colleagues was likely larger than the average difference for studies of hermit crabs included in the meta-analysis.
+C. some studies of birds found larger effects of exposure to anthropogenic noise than some studies of arthropods did.
+D. the differences that studies attribute to exposure to anthropogenic noise are likely to be more pronounced for birds than they are for arthropods.
+Answer: C
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The term "retroflex" derives from Latin and means "bent back," an apt description for the branch of consonants—retroflex consonants—pronounced with the tongue curling up and back in the mouth. In many languages, including English, these consonants are ______ in some dialects of Mandarin, however, four such consonants ("ch," "sh," "zh," and "r") are relatively common.
+
+A. rare and
+B. rare;
+C. rare
+D. rare,
+Answer: B
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Along with carbon dioxide concentration and temperature, light intensity affects the chemical reaction rate of ______ as light intensity increases, so does the rate at which the reactants (water and carbon dioxide) are converted into their products (glucose and oxygen).
+
+A. photosynthesis:
+B. photosynthesis,
+C. photosynthesis
+D. photosynthesis and
+Answer: A
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The fungus *Tricholoma matsutake*, commonly referred to as matsutake, is known to establish ectomycorrhizal bonds with certain pine tree species; in many cases, such symbiotic relationships, wherein fungal hyphae make contact with the pine's root system, ______ extensive networks, which can be used to transport nutrients between trees.
+
+A. having formed
+B. form
+C. to form
+D. forming
+Answer: B
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Though he would go on to work with many respected bands, including John McLaughlin and the Free Spirits on their album *Tokyo Lie*, American ______ may be best known for his time with Sugar Hill Records, where he helped craft the sound of early hip-hop music.
+
+A. drummer Dennis Chambers,
+B. drummer Dennis Chambers
+C. drummer, Dennis Chambers,
+D. drummer, Dennis Chambers
+Answer: B
+
+Question 20:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In his painting *At the Cycle Race Track*, Jean Metzinger aims to depict a bike race in four-dimensional space. Of course, Metzinger's painting doesn't technically represent a fourth dimension, humans can only see in three dimensions. ______ by depicting the race through multiple, simultaneous perspectives, Metzinger offers a fascinating glimpse at what this other universe might look like.
+
+A. For example,
+B. In other words,
+C. Moreover,
+D. That said,
+Answer: D
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Organisation for Economic Co-operation and Development (OECD) tracks comparative price list data for its thirty-eight member countries. According to this data, in July 2021, a "basket" of goods and services priced at 100 US dollars (USD) in the United States would have cost 59 USD in fellow OECD member ______
+
+A. nation, Lithuania.
+B. nation; Lithuania.
+C. nation—Lithuania.
+D. nation Lithuania.
+Answer: D
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+If you could travel in a spaceship to Elara, one of Jupiter's many moons, you'd find a moon with a prograde orbit. This means that Elara orbits Jupiter in the same direction that Jupiter rotates on its axis. ______ at Harpalyke, another Jovian moon, you'd find an example of a retrograde orbit, with the moon revolving around Jupiter in the opposite direction.
+
+A. Specifically,
+B. In other words,
+C. For example,
+D. Elsewhere,
+Answer: D
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In 2015, geologist Peter Rogerson recalculated the geographic center of Illinois, which had previously been determined in 1920 by the US Geological Survey (USGS). The USGS, Rogerson contended, had omitted important considerations, not least the curvature of the earth. ______ the state's USGS-determined center--a point 1.5 miles southeast of the municipality of Rochester--was inaccurate.
+
+A. However,
+B. That being said,
+C. Hence,
+D. Next,
+Answer: C
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+On June 20, 1932, aviator Amelia Earhart received a ticker-tape parade in New York City in recognition of her transatlantic flight. Of the 206 ticker-tape parades held between 1886 and 2022, a number were for achievements in aviation. ______ Earhart's parade was just one of 16 honoring pilots.
+
+A. In addition,
+B. Indeed,
+C. Nevertheless,
+D. Therefore,
+Answer: B
+
+Question 25:
+[Synthesis]
+The student wants to emphasize the order in which the two students attended the Bauhaus. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• The Bauhaus was an influential German art and design school founded in 1919 by Walter Gropius.
+• Gropius was the school's director from 1919 to 1928.
+• Hannes Meyer was its director from 1928 to 1930.
+• Ludwig Mies van der Rohe was its director from 1930 to 1933.
+• Benita Koch-Otte was a textile artist who began attending the Bauhaus in 1920.
+• Grete Stern was a photographer who began attending the Bauhaus in 1930.
+
+A. Founded in 1919, the Bauhaus was a German art and design school whose past students include Benita Koch-Otte and Grete Stern.
+B. Walter Gropius founded the Bauhaus in 1919 and acted as its director until 1928, at which point Hannes Meyer succeeded him in the role.
+C. Benita Koch-Otte and Grete Stern were both Bauhaus students, but Koch-Otte, who began attending in 1920, preceded Stern.
+D. The Bauhaus was founded in 1919, and Grete Stern began attending in 1930.
+Answer: C
+
+Question 26:
+[Synthesis]
+The student wants to contrast the two samples. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Generally an object will heat up when twisted.
+• The twisting of an object is known as torsion.
+• A 2019 study led by Zunfeng Liu and Kay Baughman tested the torsional heating of various fibers.
+• When a 0.7 millimeter thick sample of single ply nickel titanium (NiTi) wire was twisted, its average surface temperature increased by 21.3°C.
+• When a 2.2 millimeter thick sample of natural rubber fiber was twisted, its average surface temperature increased by 15.3°C.
+
+A. The natural rubber sample used in the 2019 study was thicker than the single ply NiTi wire sample.
+B. In 2019, researchers studied the effect of torsional heating on various fibers, including samples of natural rubber and single ply NiTi wire.
+C. When the fibers were twisted as part of the 2019 study, the surface temperature of both samples increased.
+D. Twisting an object will generally cause its temperature to increase, a process known as torsional heating.
+Answer: A
+
+Question 27:
+[Synthesis]
+The student wants to specify the total mass of Earth's oxygen relative to that of all elements. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Element abundance is a relative measure of the amount of a chemical element in a given environment.
+• Abundance can be expressed as a mass fraction.
+• A mass fraction is the ratio of the total mass of an element to the combined mass of all elements in a given environment.
+• The mass fraction of oxygen (O) on Earth is 297,000 parts per million (ppm).
+• The mass fraction of vanadium (V) on Earth is 105 ppm.
+
+A. Oxygen's abundance on Earth is greater than vanadium's, as reflected by oxygen's higher mass fraction.
+B. Oxygen's abundance can be expressed by a mass fraction, a measure of the element's mass relative to that of all elements on Earth.
+C. The mass fraction of oxygen on Earth is 297,000 ppm.
+D. Oxygen's mass relative to the combined mass of all elements on Earth is 105 ppm.
+Answer: C
+

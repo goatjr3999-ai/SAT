@@ -1,0 +1,312 @@
+Question 40:
+The student wants to explain why nautical miles are used to measure distances in seafaring navigation. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•The nautical mile (6,076 feet) is the measure of distance used in seafaring navigation.
+•A nautical mile directly correlates to one minute (1/60th of a degree) of latitude.
+•The curvature of Earth affects the accurate measurement of long distances when using flat maps.
+•Measuring distances with latitude and longitude coordinates takes into account Earth’s curvature.
+•Mariners use nautical charts marked with latitude and longitude to quickly calculate distances and positions.
+
+
+A. Nautical miles are a measure of distance equal to one minute of latitude, which is a feature nautical charts use to calculate distances and positions.
+B. Nautical charts use latitude and longitude to measure long distances; these charts are more accurate than flat maps for measuring distances in seafaring navigation because they account for Earth’s curvature.
+C. Since they directly correlate to the coordinates on nautical charts, which take into account Earth’s curvature, nautical miles are an efficient way to calculate distances at sea.
+D. Using nautical miles for navigation at sea takes Earth’s curvature into account, whereas measuring distances with latitude and longitude coordinates does not.
+Answer: C
+
+Question 22:
+The student wants to make a generalization about circumnavigations. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• A sailing trip that goes in a complete circle around the world is called a circumnavigation.
+• Most circumnavigations include stops on land.
+• Anne Liardet is a French sailor.
+• Liardet sailed the boat Roxy on a nonstop, 119-day circumnavigation.
+• Asia Pajkowska is a Polish sailor.
+• Pajkowska sailed the boat FanFan on a nonstop, 216-day circumnavigation.
+
+
+A. Pajkowska sailed FanFan around the world, while Liardet sailed Roxy.
+B. Pajkowska and Liardet have both embarked on sailing journeys around the world, also called circumnavigations.
+C. Most circumnavigations include stops on land, but some circumnavigations are nonstop.
+D. A circumnavigation is defined as a sailing trip that goes in a complete circle around the world.
+Answer: C
+
+Question 45:
+The student wants to contrast the type of neurotechnology EMOTIV develops with the type of neurotechnology Saluda Medical develops. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Founded in 2011, EMOTIV is a neurotechnology company that develops brain-computer interfaces (BCIs).
+•BCIs interpret and execute brain signals to allow users to control external software or hardware with their thoughts.
+•Founded in 2013, Saluda Medical is a neurotechnology company that develops neuromodulation technologies.
+•Neuromodulation technologies use neural interfaces to stimulate nervous system structures and influence neural activity.
+•Founded in 2009, BrainGate is a neurotechnology company that develops neuroprostheses.
+•Neuroprostheses act as replacement brain functions to restore the user’s lost sensory, motor, or neural functions.
+
+
+A. Unlike Saluda Medical, which develops neurotechnology, EMOTIV develops BCIs.
+B. BCIs interpret and execute brain signals to allow users to control external software or hardware with their thoughts, whereas neuromodulation technologies restore sensory, motor, or neural functions.
+C. BCIs allow users to control external software or hardware with their thoughts, but they don’t influence neural activity as neuromodulation technologies do.
+D. Founded in 2011, EMOTIV develops technology for interpreting and executing brain signals, which, unlike Saluda Medical and BrainGate, is categorized as a neuromodulation technology.
+Answer: C
+
+Question 31:
+The student wants to describe how DLS cures 3D objects. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Digital Light Synthesis (DLS) is a form of additive manufacturing that utilizes light to rapidly cure liquid resin into high-quality, 3D objects.
+• Step 1: Ultraviolet (UV) light images are projected up into a pool of liquid resin, where the object’s first layer takes shape.
+• Step 2: The partially cured resin object is raised, leaving a thin space (a “dead zone”) beneath it for oxygen and liquid resin to flow through.
+• Step 3: The UV light passes through the dead zone—maintaining the flow of resin—and partially cures additional layers of the object.
+• Step 4: When the resin object is complete, it is baked in an oven to complete the curing.
+
+
+A. DLS cures 3D objects by passing through a “dead zone,” adding layers to the object, then curing the object in an oven.
+B. In DLS, UV light is projected into layers of liquid resin until the resin solidifies and passes through a “dead zone,” wherein the curing is completed.
+C. In DLS, UV light images are projected into a liquid resin pool to cure a 3D object layer by layer; once solidified, the object is baked in an oven.
+D. DLS is a form of additive manufacturing that creates a “dead zone” in which UV light solidifies layer by layer before being baked in an oven, creating a high-quality, 3D object.
+Answer: C
+
+Question 20:
+The student wants to make a generalization about minerals. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.
+• Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.
+• Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.
+• The mineral calcite has a Mohs scale number of 3.
+• The mineral apatite has a Mohs scale number of 5.
+• The mineral corundum has a Mohs scale number of 9.
+
+
+A. Based on their Mohs scale numbers, corundum (9) is harder than apatite (5), and apatite is harder than calcite (3).
+B. Corundum can leave visible scratches on calcite, which is why corundum has a higher number than calcite on the Mohs scale of mineral hardness.
+C. Any mineral with a Mohs number of 9, like corundum, can scratch a mineral with a Mohs number of 5, like apatite.
+D. The Mohs scale can be used to order calcite, corundum, and apatite by their ability to scratch other minerals.
+Answer: C
+
+Question 49:
+The student wants to compare how Charpentier and Helmholtz describe the mood of E minor. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• In music theory, the term "key" refers to the set of musical notes that forms the foundation of a piece of music.
+• In *Règles de Composition* (1682), French composer Marc-Antoine Charpentier describes the moods of various musical keys.
+• He describes the key of E minor as "amorous."
+• In *On the Sensations of Tone* (1863), German physicist Hermann von Helmholtz undertakes the same task.
+• He describes the key of E minor as "restlessness."
+• "Eleanor Rigby" by the Beatles (1966) is a song written in E minor.
+
+
+A. The song “Eleanor Rigby” by the Beatles is written in the key of E minor, the mood of which has been described as "amorous."
+B. The key of E minor is one of various keys, which are sets of musical notes that form the foundations of pieces of music.
+C. Charpentier describes the mood of E minor as “amorous,” while Helmholtz describes it as “restlessness.”
+D. Charpentier and Helmholtz each undertook the task of describing the mood of various keys, including E minor.
+Answer: C
+
+Question 17:
+The student wants to specify the total mass of Earth’s magnesium relative to that of all elements. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Element abundance is a relative measure of the amount of a chemical element in a given environment.
+• Abundance can be expressed as a mass fraction.
+• A mass fraction is the ratio of the total mass of an element to the combined mass of all elements in a given environment.
+• The mass fraction of magnesium (Mg) on Earth is 154,000 parts per million (ppm).
+• The mass fraction of zinc (Zn) on Earth is 40 ppm.
+
+
+A. Magnesium’s abundance on Earth is greater than zinc’s, as reflected by magnesium’s higher mass fraction.
+B. Magnesium’s abundance can be expressed by a mass fraction, a measure of the element’s mass relative to that of all elements on Earth.
+C. The mass fraction of magnesium on Earth is 154,000 ppm.
+D. Magnesium’s mass relative to the combined mass of all elements on Earth is 40 ppm.
+Answer: C
+
+Question 32:
+The student wants to present cultural analysis to an audience unfamiliar with the concept. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Emphasis analysis and cultural analysis are two approaches to art criticism.
+• Emphasis analysis examines how visual elements are weighted in an artwork’s composition.
+• Such an analysis of Anne Vallayer-Coster’s Still Life with Lobster might consider how the painting’s sharply contrasting colors place primary emphasis on the lobster in the foreground.
+• Cultural analysis considers the cultural trends, beliefs, and values of an artwork’s time.
+• Such an analysis of Pablo Picasso’s Les Demoiselles d’Avignon might consider how the painting’s portrayal of fragmented human figures challenged conventions of beauty during a time of cultural upheaval (early twentieth century).
+
+
+A. An approach to art criticism, cultural analysis considers the cultural trends, beliefs, and values of an artwork’s time.
+B. An emphasis analysis of Still Life with Lobster might consider how the painting’s sharply contrasting colors place primary emphasis on the lobster in the foreground.
+C. Les Demoiselles d’Avignon's portrayal of fragmented human figures challenged conventions of beauty during a time of cultural upheaval (early twentieth century).
+D. Emphasis analysis differs from cultural analysis in that emphasis analysis examines how visual elements are weighted in an artwork’s composition.
+Answer: A
+
+Question 29:
+The student wants to make a generalization about the germination of seeds ingested by bats. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•R. Oleksy, L. Giuggioli, and T. J. McKetterick published a study in 2017.
+•In it, the researchers found that ingestion by bats had a **positive effect** on the germination of *Ficus gloveri*plant seeds.
+•Jorge E. López and C. Vaughan published a study in 2004.
+•In it, the researchers found that ingestion by bats had a **neutral effect** on the germination of *Senna fruticose* plant seeds.
+•J. M. Palmeirim, D. L. Gorchov, and S. Stoleson published a study in 1989.
+•In it, the researchers found that ingestion by bats had a **negative effect** on the germination of *Piper friedrichsthalii* plant seeds.
+
+
+A. Seed ingestion by bats can have varying effects on seed germination.
+B. Over the years, researchers have studied the effect that seed germination has had on ingestion by bats.
+C. As was found in the 2017 study, ingestion by bats has a negative effect on the germination of plant seeds.
+D. Bat ingestion has consistently been found to have a positive effect on seed germination.
+Answer: A
+
+Question 10:
+Which choice most effectively uses information from the given sentences to present the study’s findings to an audience already familiar with the concept of seedling emergence?
+
+While researching a topic, a student has taken the following notes:
+• In a 2012 study, Eckstein et al. tested the effect of plant litter on seedling emergence in a grassland setting.
+• The test site was a dry grassland in a temperate midlatitude climate in Germany.
+• The researchers found that in these environmental conditions the presence of plant litter had a positive effect on seedling emergence.
+• Seedling emergence is when a seedling sprouts above ground and begins photosynthesis.
+
+
+A. The findings of Eckstein et al.’s study were published in 2012.
+B. The effect of plant litter, which includes dead leaves and other plant matter, on seedling emergence has been the subject of scientific study.
+C. Eckstein et al. found that in a dry grassland and a temperate midlatitude climate the presence of plant litter had a positive effect on seedling emergence.
+D. In a 2012 study by Eckstein et al., plant litter was found to have a positive effect on seedling emergence, which is when a seedling sprouts and begins photosynthesis.
+Answer: C
+
+Question 12:
+The student wants to provide a specific example of a fantastical element being presented matter-of-factly in magical realism. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a literary genre, a student has taken the following notes:
+• Gabriel García Márquez was a Colombian author who pioneered a literary style known as magical realism.
+• A key characteristic of magical realism is the blending of realistic, everyday settings with supernatural or fantastical elements.
+• The presentation of fantastical elements in a straightforward, matter-of-fact tone is a central technique of the genre.
+• In García Márquez's novel One Hundred Years of Solitude, the character Remedios the Beauty inexplicably ascends to heaven while folding laundry.
+• García Márquez stated his aim was to create a "poetic transposition of reality" where the line between the mundane and the miraculous is blurred.
+
+
+A. Magical realism, a style pioneered by Gabriel García Márquez in works like One Hundred Years of Solitude, is characterized by the blending of realistic settings and supernatural elements.
+B. In Gabriel García Márquez's magical realist novel One Hundred Years of Solitude, the fantastical event of Remedios the Beauty ascending to heaven is presented in a straightforward manner, occurring as she folds laundry.
+C. One Hundred Years of Solitude by Gabriel García Márquez is an example of magical realism, a genre for which the matter-of-fact presentation of the supernatural is a central technique.
+D. The presentation of fantastical elements in the works of García Márquez serves to create a "poetic transposition of reality" where the mundane and the miraculous are blurred.
+Answer: B
+
+Question 24:
+The student wants to compare Fodor’s hypothesis with Carruthers’s. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Modularity of mind is the notion that the mind is at least partly composed of innate neural structures (modules) that perform fast, necessary tasks.
+• 1983: cognitive scientist Jerry A. Fodor hypothesized that low-level cognitive systems (e.g., perception, language) are modular.
+• In Fodorian modularity, high-level systems (e.g., reasoning) are not modular.
+2003: cognitive scientist Peter Carruthers proposed the massive modularity hypothesis (MMH).
+• MMH expands modularity to include all cognitive systems.
+
+
+A. In considering some but not all cognitive systems modular, Fodorian modularity is not as expansive in its definition of modularity as MMH is.
+B. Following Fodor’s 1983 hypothesis, Carruthers proposed that modularity of mind includes all cognitive systems.
+C. The hypotheses of Fodor and Carruthers differ in whether they consider low-level cognitive systems, such as perception and language, modular.
+D. In 2003, Carruthers proposed the massive modularity hypothesis, disagreeing with Fodor’s earlier hypothesis that the mind is composed of innate neural structures.
+Answer: A
+
+Question 30:
+The student wants to present biographical analysis to an audience unfamiliar with the concept. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+ 
+• Stylistic analysis and biographical analysis are two approaches to art criticism.
+• Stylistic analysis examines how an artwork's visual features contribute to its overall style.
+• Such an analysis of Claude Monet's Water Lilies might consider how the painting's loose brushwork represents an impressionist style.
+• Biographical analysis considers the personal experiences of the artist.
+• Such an analysis of Claude Monet's Women in the Garden might consider how the painting's portrayal of a figure holding red and white roses alludes to Monet's romantic difficulties.
+
+
+A. An approach to art criticism, biographical analysis considers the personal experiences of the artist.
+B. A stylistic analysis of Water Lilies might consider how the painting's loose brushwork represents an impressionist style.
+C. Stylistic analysis differs from biographical analysis in that stylistic analysis examines how an artwork's visual features contribute to its overall style.
+D. Women in the Garden's portrayal of a figure holding red and white roses alludes to Monet's romantic difficulties.
+Answer: A
+
+Question 50:
+The student wants to connect the quotation from Sherman to the increase in the UK's urban population during the Industrial Revolution. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes.
+•During the Industrial Revolution (from the mid-1700s to the mid-1800s), the number of people living in urban areas of the UK grew substantially (30%).
+•Urbanization occurred as large segments of the country's rural population relocated to cities to support the burgeoning manufacturing industry.
+•The industrial city of Manchester, England, experienced the most population growth (2,000%).
+•A comparison of a 1746 map of Manchester with maps of the city from the late 1800s reflects the city's expansion.
+•According to historian Donna Sherman, these maps present "a powerful visual representation of the transformation of Manchester's landscape."
+
+
+A. Sherman claims that maps of Industrial Revolution-era Manchester, England, present "a powerful visual representation of the transformation of Manchester's landscape" during a time period in which the UK experienced a substantial (2,000%) increase in population.
+B. Rural populations relocating to cities like Manchester created a phenomenon that Sherman describes as "a powerful visual representation" of how the UK transformed during the Industrial Revolution.
+C. Sherman claims that period maps of the UK present "a powerful visual representation" of how the country's rural landscape was transformed by population shifts during the Industrial Revolution.
+D. The sizeable growth in the UK's urban population during the Industrial Revolution is reflected in before-and-after maps that present, in Sherman's view, "a powerful visual representation" of how the increase transformed Manchester.
+Answer: D
+
+Question 34:
+The student wants to make a generalization based on the study’s findings. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•A 2022 study analyzed geotagged social media posts to assess the effect of parks on happiness in 25 US cities.
+•The happiness benefit of a city’s parks was the numeric difference between the calculated happiness scores of posts made in parks and posts made elsewhere.
+•A benefit above 0 indicates a positive effect.
+•The park happiness benefit in San Francisco, California, was greater than 0.10.
+•The park happiness benefit in Washington, DC, was greater than 0 but less than 0.10.
+•The average happiness benefit of parks across all cities was 0.10.
+
+
+A. Geotagged social media posts were analyzed for expressed happiness in both San Francisco and Washington.
+B. Though it can vary from city to city, the overall effect of parks on happiness is a positive one.
+C. San Francisco’s parks had a positive effect on happiness, but this was not true of Washington’s parks, which had a below-average effect.
+D. By comparing the happiness scores of posts made in parks and posts made elsewhere, the study determined the effect of parks on happiness.
+Answer: B
+
+Question 4:
+The student wants to explain an advantage of the Oak Tree House dwelling site. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Oak Tree House is an Ancestral Puebloan dwelling site located in southwestern Colorado.
+• It was built under a rock overhang and inhabited from approximately 1180–1210 CE.
+• The overhanging rock ledges offered protection from heavy rain and snow.
+• Yucca House is an Ancestral Puebloan dwelling site located in southwestern Colorado.
+• It was built on relatively flat terrain and inhabited from approximately 1080–1275 CE.
+• This level surface allowed for the construction of large terraced buildings.
+
+
+A. The location of Oak Tree House, an Ancestral Puebloan dwelling site in southwestern Colorado, provided an advantage to its inhabitants.
+B. Located in southwestern Colorado, Oak Tree House is an Ancestral Puebloan dwelling site that was inhabited from approximately 1180–1210 CE.
+C. The relatively flat terrain on which Oak Tree House was built allowed for the construction of large terraced buildings.
+D. Since it was built under a rock overhang, Oak Tree House was naturally protected from heavy rain and snow.
+Answer: D
+
+Question 21:
+The student wants to contrast the subject matter of the two prints. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•*Hyde Park* is a 1931 color linocut print by Canadian artist Sybil Andrews.
+•It depicts a tranquil, everyday scene (a spring day in a city park).
+•*Amanzi Amakhulu* (*The cold water takes him*) is a 2001 black-and-white linocut print by South African artist Nontombana Tana.
+•It features a scene with an explicitly political point of view (of a Xhosa warrior fighting British colonial rule).
+•Relief printing is a technique in which an image is carved onto a printing block, covered in ink or paint, and stamped onto paper.
+•Lino cutting is a type of relief printing that uses linoleum tile as the printing block.
+
+
+A. The print by Tana is a black-and-white linocut; by contrast, Andrews’s is a relief print.
+B. Tana’s print expresses an explicitly political point of view, while Andrews’s depicts a tranquil, everyday scene.
+C. Andrews made Hyde Park in 1931, while Tana made Amanzi Amakhulu (The cold water takes him) later, in 2001.
+D. The scenes depicted in both works were first carved onto a printing block, then stamped onto paper; however, one work is a linocut, while the other is a relief print.
+Answer: B
+
+Question 46:
+The student wants to emphasize the aesthetic qualities of SMA by quoting Knight. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Stop motion animation (SMA) is a filmmaking technique that involves manipulating characters (puppets, clay figures, etc.) by hand in minute increments.
+•Each change in position is meticulously captured in a series of images that, when played back, give the illusion of motion.
+•Producer Travis Knight: "It's a process that dates back to the dawn of cinema, with a charm and a warmth and a beauty that other forms of animation...do not have. And because you effectively get one opportunity to get it right, every shot is a high-wire act."
+•Knight: SMA is "raw and it's imperfect. It's also undeniably human."
+
+
+A. As Knight says, "you effectively get one opportunity to get it right" when meticulously capturing the series of images that, when played back, give it the illusion of motion.
+B. With its puppets and clay figures, stop motion animation, Knight says, "dates back to the dawn of cinema."
+C. The handmade, "imperfect" look of stop motion animation, says Knight, lends this "undeniably human" technique a "charm and a warmth and a beauty."
+D. Stop motion animation is imperfect, making every shot "a high-wire act," Knight says.
+Answer: C

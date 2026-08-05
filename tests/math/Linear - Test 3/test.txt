@@ -1,0 +1,42 @@
+Question 1:
+{{MATH_1}}
+In the equation above, {{MATH_2}} and {{MATH_3}} are constants and {{MATH_4}}. Which of the following could represent the graph of the equation in the {{MATH_5}}-plane?
+
+A.
+B.
+C.
+D.
+Answer: C
+
+Question 2:
+The average number of students per classroom at Central High School from 2000 to 2010 can be modeled by the equation {{MATH_6}}, where x represents the number of years since 2000, and y represents the average number of students per classroom. Which of the following best describes the meaning of the number 0.56 in the equation?
+
+A. The total number of students at the school in 2000
+B. The average number of students per classroom in 2000
+C. The estimated increase in the average number of students per classroom each year
+D. The estimated difference between the average number of students per classroom in 2010 and in 2000
+Answer: C
+
+Question 3:
+The cost of renting a power washer is $92 for the first day and $46 for each additional day. Which of the following functions gives the cost C(d), in dollars, of renting the power washer for d days, where d is a positive integer?
+
+A. {{MATH_7}}
+B. {{MATH_8}}
+C. {{MATH_9}}
+D. {{MATH_10}}
+Answer: A
+
+Question 4:
+Each side of a 30-sided polygon has one of three lengths. The number of sides with length 8 centimeters (cm) is 5 times the number of sides {{MATH_11}} with length 3 cm. There are 6 sides with length 4 cm. Which equation must be true for the value of {{MATH_11}}?
+
+A. {{MATH_12}}
+B. {{MATH_13}}
+C. {{MATH_14}}
+D. {{MATH_15}}
+Answer: B
+
+Question 5:
+In the given equation, p > 1 and t > 1. If t = {{MATH_16}}, where n is a constant, what is the value of n? (điền đ-p -n dạng ph-n số)
+{{MATH_17}}
+
+Answer: 13/12

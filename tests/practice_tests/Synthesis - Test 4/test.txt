@@ -1,0 +1,255 @@
+Question 1:
+[Synthesis]
+The student wants to paraphrase a quotation from Kuhn to explain the non-cumulative, revolutionary nature of scientific progress. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching the philosophy of science, a student has taken the following notes:
+• The traditional view of scientific progress is that it is a linear, cumulative enterprise where new knowledge is continuously added to existing knowledge.
+• In his 1962 book, *The Structure of Scientific Revolutions*, philosopher Thomas Kuhn challenged this view.
+• Kuhn introduced the concept of a "paradigm"—a dominant theoretical framework and set of practices within which "normal science" operates.
+• According to Kuhn, scientific advancement is not cumulative; rather, it's a "series of peaceful interludes punctuated by intellectually violent revolutions," where an "existing paradigm is found to have failed in the task of solving a problem...and is replaced by a new one."
+• Kuhn also argued that successive paradigms are often "incommensurable," meaning they are so fundamentally different that they lack a common standard for direct comparison.
+
+A. Kuhn argues that scientific progress is a linear, cumulative process, punctuated by occasional anomalies that are resolved within the existing paradigm, leading to intellectually violent revolutions.
+B. According to Kuhn, the progression of science is characterized not by a steady accumulation of knowledge but by revolutionary moments in which an established theoretical framework is supplanted by a new one due to its inability to resolve critical anomalies.
+C. Thomas Kuhn's concept of a paradigm shift, as outlined in The Structure of Scientific Revolutions, has become a foundational idea in the philosophy of science, explaining how scientific theories evolve over time.
+D. In Kuhn's view, the failure of a paradigm is demonstrated when new and old theories become incommensurable, meaning that scientists operating under different frameworks can no longer effectively communicate about their work.
+Answer: B
+
+Question 2:
+[COE]
+Which choice most effectively uses information from the given sentences to describe a color that was popular at 2019 New York Fashion Week?
+
+While researching a topic, a student has taken the following notes:
+• At London and New York Fashion Weeks, fashion designers debut new clothing collections.
+• Color consultants create trend reports on the popular colors at a given Fashion Week.
+• A report on 2018 London Fashion Week noted the popularity of a light green-yellow shade that was cool in tone and soft in intensity.
+• A report on 2019 New York Fashion Week noted the popularity of a deep brown shade that was warm in tone and rich in intensity.
+
+A. Shades of light green-yellow and deep brown have both been featured in Fashion Week reports prepared by color consultants.
+B. The shade favored by designers at 2019 New York Fashion Week was a departure from the cool, soft shade of light green-yellow that had proved popular at 2018 London Fashion Week.
+C. Each Fashion Week, color consultants compile reports on the colors that have been popular among designers.
+D. At 2019 New York Fashion Week, many designer collections featured a warm, rich shade of deep brown.
+Answer: D
+
+Question 3:
+[Synthesis]
+The student wants to emphasize the order in which the supercontinents were formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+• A supercontinent is a single landmass made up of most or all of Earth's continents.
+• Over time, continents merge together to form supercontinents, which then break apart.
+• This process is believed to take hundreds of millions of years and is known as the supercontinent cycle.
+• Ur was a supercontinent that formed about 3.1 billion years ago.
+• Pangaea was a supercontinent that formed about 300 million years ago.
+
+A. Ur formed about 3.1 billion years ago but eventually broke apart.
+B. Ur and Pangaea were both supercontinents, single landmasses made up of most or all of Earth's continents.
+C. The supercontinent Pangaea formed long after the supercontinent Ur.
+D. Forming and breaking apart over hundreds of millions of years, supercontinents are made up of most or all of Earth’s continents.
+Answer: C
+
+Question 4:
+[Synthesis]
+The student wants to provide a specific example of a fantastical element being presented matter-of-factly in magical realism. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a literary genre, a student has taken the following notes:
+• Gabriel García Márquez was a Colombian author who pioneered a literary style known as magical realism.
+• A key characteristic of magical realism is the blending of realistic, everyday settings with supernatural or fantastical elements.
+• The presentation of fantastical elements in a straightforward, matter-of-fact tone is a central technique of the genre.
+• In García Márquez's novel *One Hundred Years of Solitude*, the character Remedios the Beauty inexplicably ascends to heaven while folding laundry.
+• García Márquez stated his aim was to create a "poetic transposition of reality" where the line between the mundane and the miraculous is blurred.
+
+A. Magical realism, a style pioneered by Gabriel García Márquez in works like One Hundred Years of Solitude, is characterized by the blending of realistic settings and supernatural elements.
+B. In Gabriel García Márquez's magical realist novel One Hundred Years of Solitude, the fantastical event of Remedios the Beauty ascending to heaven is presented in a straightforward manner, occurring as she folds laundry.
+C. One Hundred Years of Solitude by Gabriel García Márquez is an example of magical realism, a genre for which the matter-of-fact presentation of the supernatural is a central technique.
+D. The presentation of fantastical elements in the works of García Márquez serves to create a "poetic transposition of reality" where the mundane and the miraculous are blurred.
+Answer: B
+
+Question 5:
+[Synthesis]
+The student wants to provide an explanation and example of Kepler's first law of planetary motion. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Kepler's first law of planetary motion states that the orbit of a planet around the Sun is an ellipse.
+• The law also states that, in an elliptical orbit, the object being orbited is one of the ellipse’s foci.
+• Kepler’s laws of planetary motion also apply to natural satellites (e.g., moons).
+• Tethys is a moon of Saturn that orbits the planet in 1.89 Earth days on average.
+• Tethys’s orbit is elliptical.
+
+A. Saturn’s moon Tethys completes an orbit in 1.89 Earth days on average, a clear example of Kepler’s first law of planetary motion, which describes the elliptical orbit of planets.
+B. Tethys’s orbit of Saturn is elliptical, demonstrating Kepler’s first law of planetary motion, which describes the elliptical orbits of planets but applies to moons as well.
+C. Kepler’s first law of planetary motion, which describes the orbits of Saturn and other planets in the solar system, states that the object being orbited is one of the ellipse’s foci.
+D. Kepler's first law of planetary motion states that the orbit of a planet around the Sun is an ellipse; for example, planetary orbits. ​​
+Answer: B
+
+Question 6:
+[Synthesis]
+The student wants to contrast the two samples. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Generally, an object will heat up when twisted.
+• The twisting of an object is known as torsion.
+• A 2019 study led by Zunfeng Liu and Ray Baughman tested the torsional heating of various fibers.
+• When a 3-millimeter-thick sample of thermoplastic polyurethane (TPU) fiber was twisted, its average surface temperature increased by 6°C.
+• When a 4-millimeter-thick sample of styrene-ethylene-butylene-styrene (SEBS) rubber fiber was twisted, its average surface temperature increased by 3.5°C.
+
+A. Twisting an object will generally cause its temperature to increase, a process known as torsional heating.
+B. In 2019, researchers studied the effect of torsional heating on various fibers, including samples of SEBS rubber and TPU.
+C. When the fibers were twisted as part of the 2019 study, the surface temperature of both samples increased.
+D. The SEBS rubber sample used in the 2019 study was thicker than the TPU sample.
+Answer: D
+
+Question 7:
+[Synthesis]
+The student wants to compare Fodor’s hypothesis with Carruthers’s. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Modularity of mind is the notion that the mind is at least partly composed of innate neural structures (modules) that perform fast, necessary tasks.
+• 1983: cognitive scientist Jerry A. Fodor hypothesized that low-level cognitive systems (e.g., perception, language) are modular.
+• In Fodorian modularity, high-level systems (e.g., reasoning) are not modular.
+2003: cognitive scientist Peter Carruthers proposed the massive modularity hypothesis (MMH).
+• MMH expands modularity to include all cognitive systems.
+
+A. In considering some but not all cognitive systems modular, Fodorian modularity is not as expansive in its definition of modularity as MMH is.
+B. Following Fodor’s 1983 hypothesis, Carruthers proposed that modularity of mind includes all cognitive systems.
+C. The hypotheses of Fodor and Carruthers differ in whether they consider low-level cognitive systems, such as perception and language, modular.
+D. In 2003, Carruthers proposed the massive modularity hypothesis, disagreeing with Fodor’s earlier hypothesis that the mind is composed of innate neural structures.
+Answer: A
+
+Question 8:
+[Synthesis]
+The student wants to emphasize the size of Atitalaquia. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Atitalaquia is a municipality in the state of Hidalgo, Mexico.
+• Municipalities are governmental regions responsible for providing many public services to their residents.
+• One service they provide is street lighting.
+• Atitalaquia covers an area of roughly 63 km².
+• Hidalgo is divided into 84 municipalities.
+
+A. Providing street lighting is just one example of the public services that municipalities provide.
+B. Atitalaquia is one of 84 governmental regions, known as municipalities, across Hidalgo.
+C. Atitalaquia—a governmental region in the state of Hidalgo, Mexico—provides many public services to its residents.
+D. The municipality of Atitalaquia in Hidalgo, Mexico, covers an area of roughly 63 km².
+Answer: D
+
+Question 9:
+[Synthesis]
+The student wants to contrast two words that represent the same sound. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Onomatopoeias are words that imitate the sounds they represent.
+• Words that represent the same sound are often written and pronounced very differently from language to language.
+• This variation is due in part to differences in how the languages are structured.
+• Korrr is a Batak onomatopoeia that represents the sound of snoring.
+• Hu lu is a Mandarin Chinese onomatopoeia that represents the sound of snoring.
+
+A. Though they both represent the sound of snoring, the onomatopoeias korrr (Batak) and hu lu (Mandarin Chinese) are written and pronounced very differently.
+B. Onomatopoeias, words that imitate the sounds they represent, are often written and pronounced very differently from language to language.
+C. The Batak word korrr and the Mandarin Chinese word hu lu are onomatopoeias that represent the sound of snoring.
+D. The Batak word korrr, which represents the sound of snoring, is an onomatopoeia.
+Answer: A
+
+Question 10:
+[Synthesis]
+The student seeks to compare Lawson's theory of organizational leadership with Davison's. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While investigating a topic, a student compiled the following observations:
+• The concept of "visionary leadership" is a perspective in organizational management that identifies the CEO as the principal architect of a company's success.
+• This now widely accepted perspective was introduced by business analyst John Davison.
+• In a 1998 critique, management theorist Sarah Green contended that organizational leadership should be attributed collectively to CEOs, department heads, and other key contributors.
+• In a 2015 publication, business strategist Michael Lawson advanced the "architect theory," which repositions the chief strategist as the primary designer of a company's vision.
+
+A. Both John Davison and Michael Lawson advocate for a shared approach to leadership, attributing success to multiple contributors within an organization.
+B. In repositioning the chief strategist (not the CEO) as the principal architect of a company's vision, architect theory provides an alternative to the widely accepted visionary leadership concept.
+C. In a 1998 critique of Davison's theory that a CEO is the chief architect of a company's success, Green proposed that department heads should instead be recognized as primary contributors.
+D. Lawson’s theory of organizational leadership stands in contrast to Green's, who famously challenged Davison's visionary leadership theory in 1998.
+Answer: B
+
+Question 11:
+[Synthesis]
+The student wants to emphasize a difference between the two plants. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+• Most of the plant and bird species in Oahu, Hawaii, are non-native.
+• In a 2019 study, researchers wanted to know what role non-native birds play in dispersing plant seeds in Oahu.
+• Researchers catalogued plant seeds found in fecal samples from non-native birds.
+• Psydrax odorata, a flowering shrub, was one of fifteen native species catalogued.
+• Cestrum nocturnum, a nightshade, was one of twenty-nine non-native species catalogued.
+• Researchers concluded that non-native birds play a vital role in dispersing the seeds of native and non-native plants.
+
+A. Most plant species found in Oahu, Hawaii, like Cestrum nocturnum, are non-native.
+B. Though Psydrax odorata and Cestrum nocturnum can both be found in Oahu, Hawaii, only the former plant is native.
+C. A 2019 study catalogued plant seeds found in bird fecal samples in Oahu, Hawaii, to determine what role non-native birds play in seed dispersal.
+D. Seeds from Psydrax odorata and Cestrum nocturnum plants were found in the fecal samples of non-native Hawaiian birds, according to a 2019 study.
+Answer: B
+
+Question 12:
+[Synthesis]
+The student wants to refute a claim that malapportionment in the Storting favors small urban districts. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Malapportionment is the over- or underrepresentation (relative to population size) of electoral districts in a governing body.
+• It is a common feature of representative governments.
+• There are 169 seats in Norway’s supreme legislature (the Storting).
+• Seats are distributed by a formula that awards 1 point per resident and 1.8 points per unit of land.
+• Less populated rural districts with large tracts of land receive a disproportionate number of seats compared to smaller but more populated urban districts.
+
+A. Awarding more points per unit of land than points per resident, the formula for distributing Storting seats overrepresents less populated rural districts with large tracts of land.
+B. A common feature of representative governments, malapportionment occurs when electoral districts are over- or underrepresented.
+C. Less populated rural districts are disproportionally underrepresented in the Storting, creating an unfair advantage for smaller but more populated urban districts.
+D. It’s untrue that malapportionment in the 169-seat Storting favors small urban districts; rather, the formula for distributing seats overrepresents more populated district
+Answer: A
+
+Question 13:
+[Synthesis]
+The student wants to emphasize a difference between the two seaweeds. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The human tongue contains taste receptors for a rich, savory flavor called umami.
+• Umami is triggered by the compounds in a variety of foods, including tuna and blue cheese.
+• Participants in a study tasted a sample of sea palm, a type of brown seaweed.
+• They rated its umami intensity as moderate.
+• The participants tasted a sample of bull kelp, another type of brown seaweed.
+• They rated its umami intensity as high.
+
+A. Some types of brown seaweed, like sea palm and bull kelp, trigger umami flavor in human taste buds.
+B. Sea palm is a type of brown seaweed, but so is bull kelp.
+C. While sea palm and bull kelp contain umami flavor, umami can also be found in tuna and blue cheese.
+D. After tasting two types of brown seaweed, sea palm and bull kelp, participants in a study found bull kelp’s umami flavor to be more intense of the two.
+Answer: D
+
+Question 14:
+[COE]
+Which choice most effectively uses information from the given sentences to emphasize a difference between the two birds?
+
+While researching a topic, a student has taken the following notes:
+• Birds of Northern South America is an identification guidebook by ornithologists Robin Restall, Clemencia Rodner, and Miguel Lentino.
+• It lists the thirty-five hummingbird species found in Suriname.
+• The long-billed starthroat is a large hummingbird found in Suriname.
+• It is identifiable by its turquoise crown and its very long, black, straight bill.
+• The ruby-topaz hummingbird is a small hummingbird found in Suriname.
+• It is identifiable by its crimson crown and its short, black, curved bill.
+
+A. Though they share several traits in common, the long-billed starthroat is larger than the ruby-topaz hummingbird.
+B. Identifiable by its very long, black, straight bill and its turquoise crown, the long-billed starthroat is a large hummingbird found in Suriname.
+C. The long-billed starthroat and the ruby-topaz hummingbird are two of the thirty-five hummingbird species found in Suriname.
+D. The ruby-topaz hummingbird is a small hummingbird identifiable by its crimson crown and its short, black, curved bill.
+Answer: A
+
+Question 15:
+[Synthesis]
+The student wants to contrast how the igneous rock at the two national parks formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Igneous rock is one of the three main types of rock.
+• It is formed when molten rock, known as magma or lava, cools.
+• Intrusive igneous rock forms when molten rock cools deep within Earth’s crust.
+• Extrusive igneous rock forms when molten rock exits Earth’s crust and cools on the surface.
+• Acadia National Park in Maine contains examples of intrusive igneous rock.
+• Crater Lake National Park in Oregon contains examples of extrusive igneous rock.
+
+A. Acadia National Park contains examples of intrusive igneous rock; the other type of igneous rock is called extrusive igneous rock.
+B. Acadia National Park’s igneous rock formed from molten rock that cooled deep within Earth’s crust, whereas Crater Lake National Park’s igneous rock formed from molten rock that cooled after it exited Earth’s crust.
+C. Acadia National Park and Crater Lake National Park both contain igneous rock, which is formed when molten rock cools.
+D. Two types of igneous rock, which is formed when molten rock cools, are intrusive igneous rock and extrusive igneous rock, both of which can be found in national parks.
+Answer: B
+

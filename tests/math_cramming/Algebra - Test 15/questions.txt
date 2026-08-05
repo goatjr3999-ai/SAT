@@ -1,0 +1,81 @@
+Question 1:
+{{MATH_1}}
+In the given equation, n is a constant. The equation has exactly one solution. What is the value of {{MATH_2}}?
+
+Answer: 36
+
+Question 2:
+The mass of object A is 444% of the mass of object B, and the mass of object A is 0.740% of the mass of object C. If the mass of object C is p% of the mass of object B, what is the value of p?
+
+Answer: 60000
+
+Question 3:
+Which expression is a factor of {{MATH_5}} ?
+
+A. {{MATH_6}}
+B. {{MATH_7}}
+C. {{MATH_8}}
+D. {{MATH_9}}
+Answer: D
+
+Question 4:
+The equation {{MATH_10}} gives the total amount of money d, in dollars, that Janna plans to save w weeks after she starts to save. What is the total amount of money, in dollars, she plans to save in 10 weeks?
+
+A. {{MATH_11}}
+B. {{MATH_12}}
+C. {{MATH_13}}
+D. {{MATH_14}}
+Answer: B
+
+Question 5:
+{{MATH_15}}
+{{MATH_16}}
+The solution to the given system of equations is {{MATH_17}}. What is the value of x?
+
+Answer: 13
+
+Question 6:
+{{MATH_19}}
+The given equation relates the real numbers b, c, and d and, where {{MATH_20}} . Which equation correctly expresses b in terms of c and d ?
+
+A. {{MATH_21}}
+B. {{MATH_22}}
+C. {{MATH_23}}
+D. {{MATH_24}}
+Answer: C
+
+Question 7:
+{{MATH_25}}
+What is the y-coordinate of the y-intercept of the graph of {{MATH_26}} in the xy-plane?
+
+A. {{MATH_27}}
+B. {{MATH_28}}
+C. {{MATH_29}}
+D. {{MATH_30}}
+Answer: A
+
+Question 8:
+{{MATH_31}}
+The function h estimates an object's height, in feet, above the ground t seconds after the object is dropped, where b is a constant. The function estimates that the object is 23.04 feet above the ground when it is dropped at {{MATH_32}}. How many seconds after being dropped does the function estimate the object will hit the ground? (dien so thap phan) (desmos)
+
+Answer: 1.2
+
+Question 9:
+{{MATH_34}}
+In the given equation, a is a constant. The equation has exactly one solution. Which of the following CANNOT be the value of a?
+
+A. {{MATH_35}}
+B. {{MATH_36}}
+C. {{MATH_37}}
+D. {{MATH_38}}
+Answer: B
+
+Question 10:
+{{MATH_39}}
+How many times does the graph of the given equation in the xy-plane cross the x-axis, where a, b, and c are positive constants such that {{MATH_40}} and {{MATH_41}}?
+
+A. Zero
+B. One
+C. Two
+D. Three
+Answer: B

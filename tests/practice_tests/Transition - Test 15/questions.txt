@@ -1,0 +1,259 @@
+Question 108:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Feeding from aquifers in Alaska’s Susitna Glacier, the Skwentna River, a tributary of the Susitna River, courses 160 km downstream before flowing into another tributary, the Yentna River. The Yentna then flows into the main stem of the river system, the Susitna River, which, ______ empties into the Gulf of Alaska.
+
+
+A. nevertheless,
+B. in turn,
+C. on the other hand,
+D. for instance,
+Answer: B
+
+Question 153:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The English experimental rock band Radiohead chose their name in tribute to another band. ______ they named themselves after the song "Radio Head" by the American art pop band Talking Heads.
+
+
+A. Last of all,
+B. Regardless,
+C. Instead,
+D. Specifically,
+Answer: D
+
+Question 51:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Formerly part of the Northwest Territory, Ohio was granted statehood by a vote of the US Congress on March 1, 1803, making Ohio the 17th US state. By comparison, as one of the nation’s original thirteen colonies, Connecticut became a state when it ratified the US Constitution on January 9, 1788. ______ North Carolina attained statehood by ratifying the Constitution, becoming the 12th US state on November 21, 1789.
+
+
+A. Nevertheless,
+B. Therefore,
+C. For example,
+D. Likewise,
+Answer: D
+
+Question 159:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+During the last Ice Age, glaciers covered what is now Finnmark, Norway. As these massive ice forms moved across the region, they bore down on Earth’s crust and, _____ left a deep, narrow 70 km inlet, or fjord, carved into the coastal landscape. Today, this spectacular cliff-sided body of water is known as Tanafjord.
+
+
+A. in general,
+B. for example,
+C. as a result,
+D. in contrast,
+Answer: C
+
+Question 130:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+At 13 meters high, the Selfoss waterfall in Iceland would be well over the head of anyone standing near its base. Kaieteur Falls in Guyana, ________ is a towering colossus of a waterfall, with a dramatic 226-meter drop.
+
+
+A. by comparison,
+B. in other words,
+C. as a result,
+D. second of all,
+Answer: A
+
+Question 60:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Famous for its four-degree tilt, the leaning Garisenda Tower is a popular attraction in Bologna’s city center. However, measurements taken in 2023 showed that the tower was rotating in a concerning way. ______ city officials closed the area around the tower so experts could explore solutions to stabilize the historical twelfth-century structure.
+
+
+A. In comparison,
+B. Similarly,
+C. As a result,
+D. For example,
+Answer: C
+
+Question 56:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In eastern Mexico, Monument 61 and Monument 1 are the names given to two massive human head statues that were left behind by the ancient Olmec civilization. Both statues are made of stone and are extremely heavy. _____ they each weigh more than 5 tons!
+
+
+A. In any case,
+B. Earlier,
+C. In fact,
+D. Instead,
+Answer: C
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Author Ursula K. Le Guin's Planet of Exile is a science fiction story set in an era of intergalactic travel, whereas her The Tombs of Atuan is a work of fantasy set in a land of heroes and dragons. ___ both fans of science fiction and fans of fantasy are among her many readers.
+
+
+A. Alternatively,
+B. Accordingly,
+C. Nevertheless,
+D. At that time,
+Answer: B
+
+Question 8:
+[Infer]
+Which choice most logically completes the text?
+
+After appropriate permissions are granted, a typical archaeological dig begins with a surveyor marking a detailed grid of the excavation site. Then, the site is carefully dug, and any artifacts found are recorded and mapped onto the site grid. ______ the artifacts are removed, cataloged, and analyzed in a laboratory.
+
+
+A. For instance,
+B. On the contrary,
+C. Earlier,
+D. Finally,
+Answer: D
+
+Question 9:
+[Infer]
+Which choice most logically completes the text?
+
+The world’s first airplane, the 1903 Wright Flyer, was not very aerodynamic, as evidenced by its low lift-to-drag ratio of just 8.3:1. The Comac ARJ21 Xiangfeng jet, like most modern aircraft, is far more aerodynamic. _____ its lift-to-drag ratio is more than twice that of the Wright Flyer.
+
+
+A. In fact,
+B. Nevertheless,
+C. However,
+D. In conclusion,
+Answer: A
+
+Question 109:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Blair L.M. Kelley, a historian specializing in the history of segregation in the US, conducted extensive research while writing a book about the landmark Brown v. Board of Education court case. _____ when the book was released, colleagues in her field regarded it as a reliable source of information on the subject.
+
+
+A. Likewise,
+B. Consequently,
+C. Next,
+D. Nevertheless,
+Answer: B
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Humans inherit specific physical traits (like having brown or green eyes) from their parents. ___ dogs inherit specific physical traits (like having long or short tails) from their parents.
+
+
+A. Similarly,
+B. In other words,
+C. As a result,
+D. In conclusion,
+Answer: A
+
+Question 140:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In popular song culture since at least the Middle Ages, contrafacta—compositions featuring original lyrics set to existing song structures—have been frequent tools for promoting religious and political causes. ______ parodic songs like “Spam” by “Weird AI” Yankovic (a contrafactum of R.E.M.’s 1989 hit “Stand”) demonstrate the parallel yet equally potent role that humor and satire have played in the contrafactum tradition.
+
+
+A. By contrast,
+B. For example,
+C. Specifically,
+D. Fittingly,
+Answer: A
+
+Question 27:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+During the 1924 New York ticker-tape parade for US Olympic champions, the ribbonlike swirls descending on the scene were paper spools from "tickers," telegraph machines used to transmit stock prices. Of course, the original ticker tape had long since been retired by the 2019 parade for the US women's national soccer team. _____ shredded standard paper enriched the celebration.
+
+
+A. In other words,
+B. With this in mind,
+C. In addition,
+D. Then,
+Answer: D
+
+Question 36:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+One might assume that Germany's Amrumbank West offshore wind farm produces the same amount of energy as land-based wind farms of a similar size. ______ because wind speeds over open water are generally higher than those over land, Amrumbank West's turbines turn faster and produce more energy than do most land farms' turbines.
+
+
+A. Actually,
+B. For example,
+C. Therefore,
+D. Finally,
+Answer: A
+
+Question 58:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In his essay "Of Friendship," French philosopher Michel de Montaigne explores a relatively light subject, but he addresses heavier fare in "Of the Uncertainty of Our Judgment." Regardless of subject matter, Montaigne works to question his own perspective throughout his essays. _____ his personal motto was "What do I know?"
+
+
+A. Fittingly,
+B. Conversely,
+C. Nowadays,
+D. Still,
+Answer: A
+
+Question 63:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The Madison is a type of line dance that involves neat rows of dancers performing a repeated sequence of steps in unison. ____ many other dances are also defined by order, repetition, and synchronicity, but the Madison is distinguished by its extreme uniformity; when an auditorium full of dancers performs the Madison, one almost gets the impression of a military march.
+
+
+A. Of course,
+B. However,
+C. Specifically,
+D. Moreover,
+Answer: A
+
+Question 71:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+From mountains to monuments, deserts to rainforests, and isolated islands to teeming cities, the sites on UNESCO’s World Heritage List are chosen because they hold cultural or natural value that the organization wishes to preserve for future generations. ______ in 2008, UNESCO recognized the importance of France’s Lagoons of New Caledonia, making up one of the largest reef systems in the world, by adding them to the list as a natural heritage site.
+
+
+A. By contrast,
+B. Next,
+C. Accordingly,
+D. In other words,
+Answer: C
+
+Question 7:
+[Infer]
+Which choice most logically completes the text?
+
+Ursula K. Le Guin's Planet of Exile, a novel about a colony of humans stranded on a harsh planet, is classified as science fiction. ______ the novel The Tombs of Atuan, which is about a priestess seeking control over her destiny, is classified as fantasy.
+
+
+A. Afterwards,
+B. In other words,
+C. For example,
+D. On the other hand,
+Answer: D
+
+Question 29:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Just as the state of Hawaii has a designated state flower, tree, and bird, it also has a state soil: Hilo soil. Hilo is a fitting choice for state soil, in large part because it can be found in abundance across the state. ______ it plays an important role in Hawaii's agricultural industry and is used to grow a variety of crops, like ginger and taro.
+
+
+A. Alternatively,
+B. By contrast,
+C. At that time,
+D. Additionally,
+Answer: D

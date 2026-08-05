@@ -1,0 +1,145 @@
+Question 1:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+A student is writing a paper on the global rise of the home video game industry during the 1980s. The student is researching the relative popularity of various genres of console and computer games. Looking at the information in the table, the student finds that the games in the genres of ______.
+Home Console and Computer Games of the 1980s
+
+
+
+A. platformer and action sold nearly the same number of units.
+B. puzzle and sports sold nearly the same number of units.
+C. platformer and sports outsold the games in the other genres.
+D. puzzle and platformer outsold the games in the other genres.
+Answer: D
+
+Question 2:
+[COE]
+Which choice most effectively uses data from the table that weaken the student’s prediction?
+
+One antipredator defense that the pied oystercatcher uses to protect its nest and young chicks is called “broken-wing display”; this form of deceptive defense involves an adult bird pretending to be injured and unable to fly in order to distract an approaching predator. Broken-wing display has been documented in 285 bird species from 13 different avian orders. A student predicts that bird species with mean body masses greater than 150 grams do not use deceptive defenses because larger birds tend to be more effective than smaller birds at using aggressive defenses to protect nests from predators, making deceptive defenses unnecessary.
+
+
+A. The horned grebe has a mean body mass of 385 grams and is known to perform broken-wing display.
+B. The ruddy turnstone and the common ringed plover both have a mean body mass under 150 grams and use broken-wing display.
+C. The ruddy turnstone uses broken-wing display even though it is larger than the common ringed plover.
+D. The common ringed plover uses broken-wing display, but the horned grebe does not.
+Answer: A
+
+Question 3:
+[COE]
+Which choice most effectively uses data from the table to complete the conclusion?
+
+In an extensive review of existing literature, Léna de Framond and team cataloged the prevalence of broken-wing display—a defensive behavior observed in Haematopus longirostris (pied oystercatcher) and many other species—throughout the Aves class. Documentation of the display in 285 species across 52 families suggests the behavior likely evolved independently multiple times, prompting the team to consider ecological and life-history characteristics with hypothesized associations to the behavior’s emergence, including traits related to reproduction investment and future reproduction potential.
+
+
+A. Capacity for multiple broods, number of parental incubators, and incubation duration are equally associated with the use of broken-wing display.
+B. Incubation duration and capacity for multiple broods are more strongly associated with the use of broken-wing display than the number of parental incubators is.
+C. Broken-wing display is most often observed in species with less opportunity to reproduce in a year due to longer incubation periods.
+D. Among species with more than one parental incubator, the use of broken-wing display is associated with greater incubation duration.
+Answer: B
+
+Question 4:
+[COE]
+Which choice best describes data from the table that weaken the students’ claim?
+
+**Broken-Wing Display in Various Bird Species**
+
+While observing birds for a biology class, a group of students noticed a semipalmated plover (*Charadrius semipalmatus*), a bird of the order Charadriiformes (shorebirds), slowly move away, make loud noises, and feign an injured wing as the group approached the bird’s ground nest. Researching this behavior, the students learned that this phenomenon is commonly referred to as “broken-wing display” and is meant to lure predators away from the nesting site and toward a seemingly vulnerable adult bird. Upon learning of other birds that also exhibit the behavior they had observed, the students hypothesized that the phenomenon is exclusive to shorebirds.
+
+
+A. Neither the West Peruvian dove nor the South American snipe is known to perform broken-wing display.
+B. Both the mourning dove and the ringed teal are known to perform broken-wing display.
+C. Unlike the common sandpiper, the South American snipe is not known to perform broken-wing display, even though both are in the order Charadriiformes.
+D. The common sandpiper, in the order Charadriiformes, is known to perform broken-wing display, and the West Peruvian dove, in the order Columbiformes, is not.
+Answer: B
+
+Question 5:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+Growth Rates of Fungal and Bacterial Microbes in One ISS Dust Sample, by Relative Humidity and Exposure Duration
+
+Dust on the International Space Station (ISS) harbors common fungal taxa like *Aspergillus sydowii* and common bacterial taxa like *Acinetobacter rhizosphaerae*. Relative humidity (RH) aboard the ISS is maintained in the range of 25%-75%. Researchers collected dust from ISS vacuum bags and found that fungal growth rates (cumulative across taxa) increased when humidity exposure exceeded that range, but that growth was greatest among a few taxa, including *A. sydowii*. The table shows increasing total exposure to humidity (in RH or duration or both), and although microbial growth rates differed at different exposures, compared to the bacterial rates, the fungal growth rates __________.
+
+
+A. are more representative of how microbes behave on the ISS.
+B. clearly show a positive pattern of increase.
+C. peak at a lower level of total humidity exposure.
+D. are less concentrated in a few taxa.
+Answer: B
+
+Question 6:
+[COE]
+Which statement about fungal spores in ISS dust is best supported by the information in the text and the table?
+
+Fungal Spore Concentrations in One ISS Dust Sample, by Experimental Treatment
+
+The International Space Station (ISS) is configured to maintain 25%–75% relative humidity (RH), a range within which fungal growth in the environment is generally innocuous. However, pockets of elevated moisture can occur from crew activities such as daily exercise, thereby locally creating favorable conditions for faster, potentially harmful fungal growth. To investigate how elevated RH conditions affect fungal spores found in dust aboard the ISS, researchers used a single sample’s initial spore concentration (spore count per mg of dust) as a control and compared it to the counts after the sample’s exposure to elevated RH of 85% and 100%, finding concerningly high amounts of growth at elevated humidity conditions.
+
+
+A. A spore count of 35,860,000,000/mg of dust aboard the ISS is cause for concern, but a spore count of 4,202,000,000/mg of dust is not.
+B. A spore count of 4,202,000,000/mg of dust aboard the ISS is cause for concern, but a spore count of 7,722,000/mg of dust is not.
+C. Spore counts of 4,202,000,000/mg of dust and 35,860,000,000/mg of dust aboard the ISS are cause for concern only if they persist for long periods of time.
+D. A spore count of 7,722,000/mg of dust aboard the ISS is cause for concern only if it persists for a long period of time.
+Answer: B
+
+Question 7:
+[COE]
+Which statement about microbes aboard the ISS is best supported by the information in the text and the table?
+
+Fungal Concentrations in One Dust Sample, by Experimental Treatment
+
+The International Space Station (ISS) is meant to maintain 25%–75% relative humidity (RH) on board. However, routine crew activities such as handwashing can create localized areas of elevated RH. These increases create conditions under which microbial growth can be a concern. Researchers collected dust samples from four ISS vacuum bags, creating three samples from each bag for twelve samples in total. For each sample, fungal concentrations (spore count per mg of dust) were measured for its original condition to be used as a control for comparison with the counts after exposure to 85% and 100% RH.
+
+
+A. In areas of the ISS where crew activities like handwashing frequently occur, fungal spore counts may be difficult to measure.
+B. In areas of the ISS where crew activities like handwashing frequently occur, fungal spore counts in dust might exceed 6,171,000/mg of dust.
+C. Fungal spore counts above 542,300/mg of dust aboard the ISS create problems for crew members.
+D. Fungal growth in dust could be almost entirely prevented aboard the ISS if relative humidity were kept below 50%.
+Answer: B
+
+Question 8:
+[COE]
+"Which choice most effectively uses data from the table to complete the assertion?"
+
+Laila Nazir and colleagues found that tilling—the practice of turning soil with hoes, plows, or other machines before planting crops—was associated with an increased yield of rice. But some studies of other crops have found the opposite effect, raising the question of whether the increase in yield found by Nazir and colleagues is specific to their study crop. However, this doesn't seem to be the case: ______
+
+
+
+A. Salem Alhajj Ali and colleagues reported an even larger positive effect of tilling on the yield of winter wheat.
+B. A study using rice yielded 4,370 kilograms per hectare with tilling and only 2,450 kilograms per hectare without tilling.
+C. Crop yields with tilling have ranged from 3,078 kilograms per hectare for maize to 4,370 kilograms per hectare for rice.
+D. G.F. Botta and colleagues found a similar association in a study using soybeans.
+Answer: D
+
+Question 9:
+[COE]
+Which choice best describes data from the table that weaken the student’s claim?
+
+**Studies of the Effects of Tilling vs. No Tilling on Crop Yields**
+
+Onesmus Kitonyo and colleagues conducted a study in Kenya to investigate whether tilling—the practice of turning soil with hoes, plows, or other machines before planting crops—increases or decreases the yield of maize. Citing the results of the study by Kitonyo and colleagues, a student claims that tilling will help farmers increase crop yields generally.
+
+
+A. There are some studies, such as the study by R.K. Jat and colleagues, that have found crop yields to be lower with tilling than without it.
+B. The study by Kitonyo and colleagues actually found that tilling was associated with a decrease in crop yield rather than an increase.
+C. Waqas Ahmed and colleagues reported a crop yield of 7,225 kilograms per hectare when no tilling was used but a yield of only 6,749 kilograms per hectare when tilling was used.
+D. The finding that tilling is associated with an increase in crop yield has not been replicated outside of Kenya.
+Answer: A
+
+Question 10:
+[COE]
+Which choice most effectively uses data from the table to complete the assertion?
+
+**Studies of the Effects of Tilling vs. No Tilling on Crop Yields**
+
+Danijel Jug and colleagues found that tilling—the practice of turning soil with hoes, plows, or other machines before planting crops—was associated with an increased yield of winter wheat. But some studies of other crops have found the opposite effect, for example ______
+
+
+A. Min Huang and colleagues reported an even larger positive effect of no tilling on the yield of rice.
+B. Bharat Sharma Acharya and colleagues found a similar association in a study using soybeans.
+C. crop yields with tilling have ranged from 2,420 kilograms per hectare for maize to 4,860 kilograms per hectare for winter wheat.
+D. a study using winter wheat yielded 4,860 kilograms per hectare with tilling and only 3,910 kilograms per hectare without tilling.
+Answer: A
+

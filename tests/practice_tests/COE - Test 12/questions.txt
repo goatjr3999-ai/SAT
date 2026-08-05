@@ -1,0 +1,129 @@
+Question 43:
+[COE]
+Which finding, if true, would most directly support the US transportation experts’ claim?
+
+As of 2023, Turkey has 1,015 kilometers of high-speed rail lines in operation and 614 kilometers under construction; in Germany, 1,630 kilometers are in operation with 3,262 kilometers under construction. In contrast, the United States has a relatively low amount of high-speed rail for its size: only 735 kilometers of high-speed rail in operation and 1,789 kilometers under construction. Many US transportation experts argue that this should change, claiming that high-speed rail is more cost-effective than highway systems are.
+
+
+A. In most locations in the United States, increasing highway capacity is more expensive relative to the volume of traffic that can be accommodated than increasing high-speed rail capacity is.
+B. In much of the United States, the existing rail infrastructure is so old that it would have to be replaced entirely in order to accommodate high-speed trains.
+C. Building successful high-speed rail infrastructure would require that the US government establish a fund to maintain the rail lines long-term.
+D. Unlike people in the United States, people in Turkey and Germany are less interested in traveling by highway than they are in traveling by high-speed rail.
+Answer: A
+
+Question 19:
+[COE]
+Which finding, if true, would most directly support the student’s claim?
+
+A film studies student is researching early 20th-century film serials, which consisted of individual episodes of a single long story that were shown weekly in theaters. Clancy of the Mounted is a 1933 serial that, over its 12 episodes, kept its audience interested with the suspense and drama that are typical of the northern adventure genre. The student, however, claims that ultimately audiences of the time preferred resolution and closure over ongoing tension.
+
+
+A. The 12th episode of Clancy of the Mounted was the most expensive episode of the series to produce.
+B. The 12th episode of Clancy of the Mounted was viewed by more people than was any previous episode in the series.
+C. Modern critics generally regard the first episode as the best installment of Clancy of the Mounted.
+D. Audiences of the time considered Clancy of the Mounted to belong to a genre other than the northern adventure genre.
+Answer: B
+
+Question 33:
+[COE]
+Which finding, if true, would most directly weaken the student's claim?
+
+Raúl Núñez and colleagues studied how members of the Yupno, an Indigenous group in Papua New Guinea, conceptualize time. The researchers recorded Yupno speakers explaining certain temporal words and phrases, such as rormpo billak, a post-oriented expression that translates to "a couple of years ago," and coded each speaker's manual gestures. Previous research has found a tendency in many cultures to make temporal distinctions using spatial concepts and gestures, particularly along egocentric axes (ie., relative to the orientation of the speaker); for instance, English speakers often refer to the "front/back axis to describe events in time. In an anthropology paper, a student claims that the tendency toward ego-based conceptualizations of time is universal.
+
+
+A. When Yupno speakers who are outdoors use gestures to refer to the past, they point downhill from their current location regardless of which way they are facing.
+B. Some Yupno grammatical structures used when talking about time are also used in English.
+C. A Yupno speaker points in opposite directions when indicating a past event versus a future event.
+D. Although Yupno speakers and English speakers both use gestures to indicate orientation in time, Yupno speakers tend to use fewer gestures overall when speaking than English speakers do.
+Answer: A
+
+Question 48:
+[COE]
+Which finding from the study, if true, would most directly challenge the student’s conclusion?
+
+Andrea Sommese, Åkos Pogány, and team investigated head-tilting behavior in a group of forty dogs, which included thirty-four typical dogs from five different breeds (including Enzo, a whippet) and six dogs that had previously demonstrated giftedness at learning words, all of which were border collies. The researchers recorded the dogs’ head-tilting behavior in response to requests to fetch a toy that had been introduced early in the study. They found that all six gifted dogs tilted their heads at least some of the time when asked to retrieve the toy by name, while the typical dogs almost never tilted their heads. After reviewing the study, a student concludes that a tendency to tilt their heads is a characteristic trait of all border collies.
+
+
+A. The typical dogs that tilted their heads appeared to be processing the meaning of the requests.
+B. Most of the gifted dogs tilted their heads to the same side in each trial.
+C. The majority of dogs in the typical group were border collies.
+D. The border collies successfully fetched the toy more often than the dogs of other breeds did.
+Answer: C
+
+Question 34:
+[COE]
+Which finding, if true, would most directly weaken the researcher’s claim?
+
+The Umpila language of Australia has 21 vowel and consonant sounds. In contrast, the Taa language of southern Africa has over 100. Why would languages differ in this way? One researcher has claimed that when modern humans arose in Africa, they spoke a single language, but as humans gradually spread throughout Africa and then around the globe, that language developed into new languages. Those developed into still more languages as small bands of humans spread even farther, with each new language retaining fewer sounds from humanity’s original language.
+
+
+A. Languages that emerged in Central America tend to have fewer sounds than languages that emerged in Western Europe do, and Central America is farther away from Africa than Western Europe is.
+B. Languages that emerged in Europe and Western Asia tend to have more sounds than languages that emerged in Africa do.
+C. The number of sounds is fairly consistent across the various languages that emerged in the last parts of Africa to be settled by humans.
+D. A wider range of sounds is found across the languages of Africa as a whole than across the languages of South America as a whole.
+Answer: B
+
+Question 31:
+[COE]
+Which finding, if true, would most directly weaken the text’s implication about the potential of the newly designed harvesters to power wireless communication devices?
+
+Piezoelectric harvesters convert kinetic energy (resonance) to electrical energy, precluding the need for external electrical sources. The vibration of a spacecraft, for example, can provide sufficient energy to power many of its sensors piezoelectrically. A newly designed piezoelectric harvester incorporating a highly conductive carbon-fiber-reinforced polymer (CFRP) electrode has been shown to provide steady energy loads during resonance, an absolute prerequisite for wireless communication devices to be powered piezoelectrically.
+
+
+A. Wireless communication devices require a continuous power supply to function, as even brief interruptions can cause data loss.
+B. The highly conductive nature of CFRP electrodes generates electromagnetic interference that blocks the signals transmitted by wireless communication devices.
+C. Standard piezoelectric harvesters without CFRP electrodes are capable of powering simple sensors but fail to generate the steady current needed for complex electronics.
+D. The resonance required to activate the CFRP harvester occurs more frequently in spacecraft than in terrestrial vehicles.
+Answer: B
+
+Question 29:
+[COE]
+Which finding from Maglianesi et al.'s study, if true, would most directly undermine Tavares et al.'s conclusion?
+
+Flowers that produce relatively high volumes of nectar are more rewarding for pollinators, including snowy-bellied hummingbirds (Saucerottia edward) and other hummingbird species, but nectar stores are typically obscured by the corolla (collection of petals); the means by which flowers signal high-nectar reward are unclear. A 2016 study by Davi Castro Tavares et al., which found that corolla length positively correlates with nectar volume, concluded that flower morphology reliably indicates nectar reward. As part of a subsequent study, María A. Maglianesi et al. measured variations in floral phenotypic traits (including corolla length and nectar characteristics) of hummingbird-visited plants across a range of elevations in Costa Rica.
+
+
+A. Plant species at high-elevation sites showed greater variation in both corolla length and nectar volume per flower than plant species at both mid- and low-elevation sites did.
+B. At all elevations, hummingbirds visited plant species with longer corollas more frequently than species with shorter corollas, regardless of the hummingbirds' ability to reach the nectar stores.
+C. As elevation increased, frequencies of hummingbird visits increased among plant species with relatively low volumes of nectar per flower but remained constant among plant species with relatively high volumes of nectar per flower.
+D. Mean corolla length of plant species decreased as elevation increased, but mean nectar volume per flower was highest among plant species found at mid-elevation sites.
+Answer: D
+
+Question 21:
+[COE]
+Based on the text, which choice best explains why it is challenging to confidently assign authorship of the essay “The Senate”?
+
+The Federalist Papers are a collection of essays written by Alexander Hamilton, John Jay, and James Madison and published pseudonymously in The Independent Journal and other New York newspapers in 1787–88. Though the authorship of most of the essays is certain, that of some is obscure: for instance, while No. 12, “The Utility of the Union in Respect to Revenue,” was surely penned by Hamilton, No. 62, “The Senate,” may have been written by either Hamilton or Madison. The difficulty of determining No. 62’s author arises not from a lack of evidence but from too much contradictory evidence.
+
+
+A. Support can be found for a strong case that either Hamilton or Madison was the sole author of “The Senate.”
+B. Evidence shows that two versions of “The Senate,” one authored by Hamilton and another authored by Madison, appeared in different New York newspapers.
+C. The evidence that would indisputably prove that either Hamilton or Madison was the sole author of “The Senate” has been lost.
+D. It is most likely that “The Senate” was the product of a collaborative effort between Hamilton and Madison.
+Answer: A
+
+Question 23:
+[COE]
+Which finding, if true, would most directly challenge the second research team's conclusion?
+
+Callie W. Babbitt, Hema Madaka, and colleagues assembled a database of materials used in consumer electronics by studying products in the lab and by gathering data from similar product studies. The team gave each of these studies a rating for level of traceability (with a higher rating for clearer descriptions of procedures) and for level of consistency (for greater consistency with other literature citing sources of materials categories more closely aligned with the categories in the team's database). Based on these ratings, a second research team concluded that the methodology was better explained in a study by Greg L. Kozak and Greogary A. Keoleian than it was in a study by Perrine Chancerel and Susanne Rotter.
+
+
+A. The study by Chancerel and Rotter had a medium consistency rating and a medium traceability rating.
+B. The study by Kozak and Keoleian had a lower consistency rating than the study by Chancerel and Rotter did.
+C. The study by Kozak and Keoleian had a high consistency rating and a high traceability rating.
+D. The study by Kozak and Keoleian had a lower traceability rating than the study by Chancerel and Rotter did.
+Answer: D
+
+Question 42:
+[COE]
+Which finding, if true, would most directly support the research’s suggestion?
+
+In a series of experiments, Julio Sevilla and Claudia Townsend showed that manipulating the space between products in store displays can influence consumers’ views of those products. Participants in several of the experiments regarded the same products in the same (generic) retail settings as significantly more valuable when the product-to-space ratio was low than when it was high. But in one of the experiments, Sevilla and Townsend arranged the same jewelry with different levels of intervening space at an upscale retailer (Tiffany &amp; Co.) and a relatively inexpensive retailer (Forever 21). The result of this experiment suggests that a store context associated with inexpensive products may moderate the effect Sevilla and Townsend observed in their other experiments.
+
+
+A. At both Tiffany & Co. and Forever 21, participants judged jewelry spaced far apart to be less valuable than jewelry spaced close together, but the difference in perceived value was significantly greater at Tiffany & Co. than at Forever 21.
+B. When jewelry was spaced far apart, participants judged the jewelry at Tiffany & Co. to be more valuable than the jewelry at Forever 21, but when jewelry was spaced close together, participants judged the jewelry at Tiffany & Co. to be less valuable than the jewelry at Forever 21.
+C. Participants judged jewelry spaced far apart at Tiffany & Co. to be similar in value to jewelry spaced far apart at Forever 21, but participants judged jewelry spaced close together at Tiffany & Co. to be more valuable than jewelry spaced close together at Forever 21.
+D. At Tiffany & Co., participants judged jewelry spaced far apart to be substantially more valuable than jewelry spaced close together; but at Forever 21, participants judged jewelry spaced far apart to be only slightly more valuable than jewelry spaced close together.
+Answer: D

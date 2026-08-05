@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <!-- Mask to cut out the pause bars -->
+    <mask id="pause-cut">
+      <!-- White = visible -->
+      <rect width="16" height="16" fill="white"/>
+      <!-- Black = transparent holes -->
+      <rect x="5.6" y="4.6" width="1.8" height="6.8" rx="0.9" fill="black"/>
+      <rect x="8.6" y="4.6" width="1.8" height="6.8" rx="0.9" fill="black"/>
+    </mask>
+  </defs>
+
+  <!-- White filled circle with transparent pause bars -->
+  <circle cx="8" cy="8" r="7" fill="#FFFFFF" mask="url(#pause-cut)"/>
+</svg>

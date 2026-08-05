@@ -1,0 +1,240 @@
+Question 1:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Nineteenth-century poet Elizabeth Browning initially composed an early draft of her collection Sonnets from the Portuguese in 1850. In 1855, she performed a major revision, cutting 32 lines in total. ______ it originally comprised 388 lines, whereas the final published version contained only 356.
+
+A. Furthermore,
+B. For example,
+C. Meanwhile,
+D. That is,
+Answer: D
+
+Question 2:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Pluto, a celestial body discovered in 1930, was not officially classified as the solar system's ninth major planet by the International Astronomical Union (IAU) in 2006. ______ Pluto was reclassified by the IAU as a dwarf planet. The dwarf planet category was created to accommodate celestial bodies that are massive enough to be rounded by their own gravity but have not cleared their neighboring region of other objects.
+
+A. For example,
+B. Rather,
+C. Thus,
+D. Additionally,
+Answer: B
+
+Question 3:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+With many elements, like osmium, scientists were able to isolate a relatively pure sample of the substance shortly after discovering its existence. ______ this wasn’t the case with all elements. The process of isolating magnesium, for example, took years—53, to be precise.
+
+A. Likewise,
+B. Granted,
+C. In other words,
+D. For this reason,
+Answer: B
+
+Question 4:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In an ekphrastic poem, a poet explores a work of visual art, such as a drawing, sculpture, or painting. Robert Hayden’s 1994 poem Monet’s Waterlilies, for example, meditates on Claude Monet’s 1899 painting Water Lilies; Sasha Pimentel’s 2017 poem The Kiss, ____ takes a painting as its subject: Gustav Klimt’s 1908 work The Kiss.
+
+A. nevertheless,
+B. likewise,
+C. hence,
+D. conversely.
+Answer: B
+
+Question 5:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In Annie Dillard’s Pilgrim at Tinker Creek—where, early on, the author marvels at a single goldfish’s delicate fins but later winces when imagining a horde of goldfish laying and eating their own eggs—Dillard struggles to reconcile the complicated juxtapositions of the natural world. ____ nature’s mesmerizing intricacy and pitiless harshness prove inextricably linked for Dillard, like “two branches of the same creek.”
+
+A. Ultimately,
+B. To that end,
+C. Hence,
+D. Moreover,
+Answer: A
+
+Question 6:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The work of contemporary Asian American poet John Yau often incorporates references to other poems and works of visual art. Typically, these allusive gestures are subtle, recognized by only the most attentive of Yau’s readers. In his 2013 poem “Further Adventures in Monochrome,” _____ Yau explicitly identifies a particular artwork—Yves Klein’s 1960 painting Silence is Golden—as the poem’s inspiration.
+
+A. though,
+B. fittingly,
+C. similarly,
+D. for example,
+Answer: A
+
+Question 7:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+John Thomson utilized the pen name “Gracchus”—borrowed from a prominent Roman statesman—in the political treatises he composed in 1795, a decision that achieved much more than merely hiding his identity. ____ it was not an arbitrary alias; rather, it served as a carefully crafted rhetorical method by which Thomson associated his political ideas with the esteemed republican values of antiquity, thus heightening the credibility of his writings.
+
+A. Conversely,
+B. In addition,
+C. Indeed,
+D. However,
+Answer: C
+
+Question 8:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The total solar eclipse of June 16, 345 CE, was the ninth-longest total eclipse before the Dark Ages—7 minutes, 17 seconds long. Another memorable solar eclipse occurred on October 2, 480 BCE, but unlike the 345 CE eclipse, the 480 BCE eclipse was annular. ______ the Moon didn’t cover the Sun completely, instead creating an annulus, or “ring of fire.”
+
+A. That is
+B. Nonetheless
+C. Meanwhile
+D. For example
+Answer: A
+
+Question 9:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In the West African country of Sierra Leone, the percentage of the population living in cities rose from 40.8 percent to 42.9 percent between 2015 and 2020. ______ urbanization rates climbed across West Africa as a whole, rising 3.2 percentage points in that five-year period.
+
+A. Concurrently,
+B. For example,
+C. In other words,
+D. Eventually,
+Answer: A
+
+Question 10:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As gene-editing technology has become more accessible, many researchers have considered its potential to cure genetic diseases, or even enhance human traits. ______ it is the broad ethical consensus—supported by international scientific committees—that currently limits these applications and ensures that the technology is used responsibly.
+
+A. Consequently,
+B. Specifically,
+C. Alternatively,
+D. Ultimately,
+Answer: D
+
+Question 11:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Despite its great distance from Earth—it is 570 light-years away—the star Shaula is one of the brightest stars in the sky, ranking 23rd. Although not as bright as Shaula, the star Alsephina also ranks among the 50 brightest stars (45th, to be exact). ____ Alsephina’s brightness is likely due to the star’s relative proximity: Alsephina is only 80 light-years from Earth.
+
+A. Indeed,
+B. As a result,
+C. Granted,
+D. Similarly,
+Answer: C
+
+Question 12:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In March 1862, John Ahoy joined the US Navy, where he went on to serve aboard the USS Pinola during the US Civil War. ____ he earned a place in US history as one of the war's few Chinese-born American soldiers.
+
+A. In any case,
+B. Finally,
+C. For instance,
+D. In doing so,
+Answer: D
+
+Question 13:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Australia ratified the Outer Space Treaty, an international agreement with over 100 signing nations that acts as the foundation for the laws of space, on January 27, 1967. Colombia signed the treaty; _____ it has yet to officially ratify it.
+
+A. however,
+B. similarly,
+C. specifically,
+D. for example,
+Answer: A
+
+Question 14:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In the Southeast Asian country of Indonesia, the percentage of the population living in cities increased from 53.3% to 56.6% between 2015 and 2020; this upward trend in urbanization was seen throughout that part of the continent. ____ from 2015 to 2020, the overall percentage of the Southeast Asian population living in cities rose from 47.2% to 50%.
+
+A. In reality,
+B. Later,
+C. Nevertheless,
+D. Indeed,
+Answer: D
+
+Question 15:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As can be seen in the case of “Publius”—a pseudonym adopted by a trio of writers that included Alexander Hamilton—historians have deduced the likely authorship of many pseudonymous political essays published in the years following the American Revolutionary War; pen names such as “Democritus” and “Obadiah Spriggins,” _____ remain as elusive as they once were to eighteenth-century audiences.
+
+A. indeed,
+B. though,
+C. likewise,
+D. for example,
+Answer: B
+
+Question 16:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Nineteenth-century Modernista architects championed nature in their designs. Granted, the dramatic archways and botanical glasswork of Palau Mornau, a Modernista private home designed by Manuel Raspall, couldn’t exactly grow in a forest. ____ one sees natural influences in Raspall’s penchant for curves (rather than right angles) and plant- and animal-inspired flourishes.
+
+A. Furthermore,
+B. Still,
+C. Similarly,
+D. In other words,
+Answer: B
+
+Question 17:
+[Transition]
+Which option best completes the text with the most logical transition?
+
+When Stanford University researchers Emily Tran and Michael Huang began collaborating on a video game in 2020, one of their intentions was to ensure significant representation of scientists from diverse backgrounds. ___ they designed BioQuest, a game centered around the lives of groundbreaking female biologists, with each researcher featured prominently.
+
+A. To that end,
+B. In summation,
+C. For instance,
+D. To clarify,
+Answer: A
+
+Question 18:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+When, in 2017, Cambridge University students Lucy Moss and Toby Marlow decided they wanted to develop a musical together, one of their goals was for their female actor friends to have good parts to play. ____ they created the show Six, a retelling of the history of King Henry VIII's wives in which each of the six queens has a starring role.
+
+A. In summary,
+B. In other words,
+C. For example,
+D. To that end,
+Answer: D
+
+Question 19:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Modernista architects championed nature in their designs. _____ the wavy exterior wall and botanical window dressings of Torre Cortés, a Modernista private home designed by Salvador Valeri i Pupurull, couldn’t exactly grow in a forest. Still, one sees natural influences in Valeri i Pupurull’s penchant for curves (rather than right angles) and plant- and animal-inspired flourishes.
+
+A. Granted,
+B. Similarly,
+C. Furthermore,
+D. Thus,
+Answer: A
+
+Question 20:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Cornelia Konrads is a German sculptor who creates art that seems to be part of its surroundings. Her sculpture entitled Knotty Knots is built on the wall of a university building in the United States. ___ appearing as two support beams knotted together against the wall, it is cleverly placed into its environment, serving as an example of Konrads’s approach.
+
+A. There,
+B. Later,
+C. For instance,
+D. However,
+Answer: A
+

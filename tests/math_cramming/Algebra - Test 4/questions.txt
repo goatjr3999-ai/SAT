@@ -1,0 +1,88 @@
+Question 1:
+The function g is defined by {{MATH_1}}. What is the value of {{MATH_2}}?
+
+A. {{MATH_3}}
+B. {{MATH_4}}
+C. {{MATH_5}}
+D. {{MATH_6}}
+Answer: D
+
+Question 2:
+Ellie deposited a total of ${{MATH_7}} into two retirement accounts last year by depositing x dollars once each month into one account and y dollars twice each month into the other account. Which equation represents this situation?
+
+A. {{MATH_8}}
+B. {{MATH_9}}
+C. {{MATH_10}}
+D. {{MATH_11}}
+Answer: B
+
+Question 3:
+The ratio {{MATH_12}} to {{MATH_13}} is equivalent to the ratio {{MATH_14}} to {{MATH_15}}, where k is a constant. What is the value of k ?
+
+A. {{MATH_16}}
+B. {{MATH_17}}
+C. {{MATH_18}}
+D. {{MATH_19}}
+Answer: B
+
+Question 4:
+Which expression is equivalent to {{MATH_20}} ?
+
+A. {{MATH_21}}
+B. {{MATH_22}}
+C. {{MATH_23}}
+D. {{MATH_24}}
+Answer: D
+
+Question 5:
+{{MATH_25}}
+The given equation relates the resistance R, in ohms, of a wire to its length {{MATH_26}}, in meters, and its cross-sectional area A, in square meters. Which equation correctly expresses the length, in meters, of the wire in terms of its resistance, in ohms, and its cross-sectional area, in square meters?
+
+A. {{MATH_27}}
+B. {{MATH_28}}
+C. {{MATH_29}}
+D. {{MATH_30}}
+Answer: D
+
+Question 6:
+The graphs of {{MATH_31}} and {{MATH_32}} are shown. Point P (not shown) has coordinates {{MATH_33}} and lies in the shaded region. The coordinates of P satisfy which of the following inequalities?
+I. {{MATH_34}}
+II.{{MATH_35}}
+
+A. I only
+B. II only
+C. I and II
+D. Neither I nor II
+Answer: A
+
+Question 7:
+There is a linear relationship between x and y. The table shows three values of x and their corresponding values of y in terms of a constant n. What is the slope of the line that represents this relationship in the xy-plane?
+
+Answer: 7/4
+
+Question 8:
+If {{MATH_37}}, what is the value of {{MATH_38}} ?
+
+A. {{MATH_39}}
+B. {{MATH_40}}
+C. {{MATH_41}}
+D. {{MATH_42}}
+Answer: A
+
+Question 9:
+One of the factors of {{MATH_43}} is {{MATH_44}} , where a and b are positive constants. Which of the following is a possible value of ab?
+
+A. {{MATH_45}}
+B. {{MATH_46}}
+C. {{MATH_47}}
+D. {{MATH_48}}
+Answer: D
+
+Question 10:
+For the linear function g, {{MATH_49}} and {{MATH_50}}. Which equation defines g?
+
+A. {{MATH_51}}
+B. {{MATH_52}}
+C. {{MATH_53}}
+D. {{MATH_54}}
+Answer: C

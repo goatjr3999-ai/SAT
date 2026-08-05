@@ -1,0 +1,259 @@
+Question 54:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The moon Carpo orbits Jupiter in the same direction that the planet rotates. ______ Carpo’s orbit is described as prograde. Erinome, another of Jupiter’s moons, orbits in the opposite direction, so its orbit is described with the opposite term: retrograde.
+
+
+A. In reality,
+B. Hence,
+C. Next,
+D. Nevertheless,
+Answer: B
+
+Question 44:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Visually distinguishing the common raven (Corvus corax) from the Chihuahuan raven (Corvus cryptoleucus) can confound even seasoned bird watchers. ______ the two species share similarities that—at times—make the birds appear virtually identical. Size, though, remains a differentiating feature: the common raven tends to be larger.
+
+
+A. Instead,
+B. Moreover,
+C. Indeed,
+D. Thus,
+Answer: C
+
+Question 64:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In certain genetic inheritance patterns, inherited traits can skip a generation in a family tree. _____ it is entirely possible for an individual to share a trait, such as square nails, with a grandparent but not with either biological parent.
+
+
+A. Thus,
+B. Still,
+C. On the contrary,
+D. In addition,
+Answer: A
+
+Question 98:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Following the Industrial Revolution, European transportation networks experienced a dramatic evolution, driven primarily by rising industrial demand for specific raw materials. The construction, expansion, and management of railway systems, _____ transformed Europe’s previously localized transportation networks into a cohesive, continent-wide infrastructure.
+
+
+A. in particular,
+B. alternatively,
+C. by comparison,
+D. second of all,
+Answer: A
+
+Question 50:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+According to Portuguese researcher Isabel C.F.R. Ferreira, the veratric acid found in cauliflower mushrooms can protect human cells from damage. ______ the acid combats free radicals, a type of unstable molecule that can harm healthy cells in the human body.
+
+
+A. Specifically,
+B. As a result,
+C. On the contrary,
+D. Nevertheless,
+Answer: A
+
+Question 66:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Elara, one of the eighty known moons of Jupiter, is designated as Jupiter VII (“VII” means “7”). Roman numerals typically indicate the order in which the moons were named rather than the order of their proximity to Jupiter. It is incorrect to assume, ____ that Elara is the seventh moon from Jupiter in terms of proximity.
+
+
+A. however,
+B. then,
+C. moreover,
+D. finally,
+Answer: B
+
+Question 93:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In her 2015 poem Migration, Lyrae Van Clief-Stefanon contemplates Jacob Lawrence's painting The Migration Series, presenting a nuanced imaginative response to Lawrence's piece that goes beyond mere description. ___ rather than simply presenting the painting's elements in a straightforward way, Van Clief-Stefanon uses the painting's bold colors and exaggerated shapes as a vehicle for exploring themes of community and cultural identity.
+
+
+A. Nevertheless,
+B. However,
+C. Specifically,
+D. In addition,
+Answer: C
+
+Question 139:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Upper-atmospheric jets—phenomena whereby electrical discharges cause narrow cones of blue light to briefly burst upward from the tops of thunderstorms—have been observed reaching to the ionosphere. The extreme altitudes involved (the ionosphere begins about 80 km above Earth) mark these gigantic jets as outliers; ______ the majority of jets reach heights of only 20 to 50 km.
+
+
+A. consequently,
+B. in addition,
+C. nevertheless,
+D. indeed,
+Answer: D
+
+Question 65:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Guard cells are specialized cells that are part of a plant’s pores. These cells help regulate the amount of carbon dioxide a plant takes in. ____ they help regulate a plant’s water loss.
+
+
+A. In conclusion,
+B. Additionally,
+C. Instead,
+D. Previously,
+Answer: B
+
+Question 17:
+[Infer]
+Which choice most logically completes the text?
+
+Residents of Cairo, Egypt, rely on its rapid transit system, the Cairo Metro, for millions of trips each year. ____ city officials strive to maintain the system’s 71 stations to ensure each of these journeys is as smooth as possible.
+
+
+A. For this reason,
+B. However,
+C. For example,
+D. Alternatively,
+Answer: A
+
+Question 84:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Monument 3 is the name given to a 12.8-ton stone statue of a human head that was created during the ancient Olmec civilization. It was discovered in Tabasco, Mexico, at the La Venta archaeological site. ____ at the San Lorenzo site in the state of Veracruz, another colossal head statue called Monument 53 was discovered.
+
+
+A. As a result,
+B. Specifically,
+C. For example,
+D. Elsewhere,
+Answer: D
+
+Question 70:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Formerly known as the Indiana Territory, Indiana was granted statehood by a vote of the US Congress on December 11, 1816, making Indiana the 19th US state. By comparison, as one of the nation’s original thirteen colonies, Connecticut became a state when it ratified the US Constitution on January 9, 1788. ______ New York attained statehood by ratifying the Constitution, becoming the 11th US state on July 26, 1788.
+
+
+A. Nevertheless,
+B. For example,
+C. Likewise,
+D. Therefore,
+Answer: C
+
+Question 131:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Around the world, the minimum voting age varies. ________ citizens in Ireland must be at least 18 years old to vote, whereas in Brazil, they can do so at the age of 16.
+
+
+A. Next,
+B. For example,
+C. Eventually,
+D. Instead,
+Answer: B
+
+Question 26:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Scientists studying asteroid deflection have focused on secondary objects such as S/2006 (311066), a moonlet orbiting the near-Earth asteroid 2004 DC. In 2022 NASA intentionally crashed a probe into just such an object, successfully altering its orbit. Scientists have yet to demonstrate, _____, that 2004 DC and other primary objects would be similarly affected.
+
+
+A. though,
+B. for example,
+C. likewise,
+D. moreover,
+Answer: A
+
+Question 79:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Charles Demuth's 1931 painting *Chimney and Water Tower* is a classic Precisionist work. The Precisionists strove for cold, machine-like perfection, with crisp lines, geometric shapes, and smooth, brushstroke-free surfaces. ______Precisionist works often feature skyscrapers, bridges, and factories, highlighting these angular structures' engineered symmetry.
+
+
+A. That said,
+B. In the end,
+C. However,
+D. Accordingly,
+Answer: D
+
+Question 106:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Researchers have sequenced the genomes of several species of archaea (a group of single-celled organisms that lack a cell nucleus). One strain of the archaeal species Thermoplasma acidophilum was found to have 1,478 genes in its genome. ______ the number of genes is not consistent across species: a strain of Pyrococcus furiosus, for example, had 2,065 genes.
+
+
+A. Indeed,
+B. Specifically,
+C. Consequently,
+D. However,
+Answer: D
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Marcel Duchamp intended his 1917 so-called ready-made sculpture Fountain to challenge then-prevailing conceptions about the nature of art. _____ Duchamp’s Fountain did just that, raising the question of whether displaying any object in an art gallery could be said to transform the object—even, as Duchamp’s sculpture was, a urinal—into a legitimate work of art.
+
+
+A. Instead,
+B. In addition,
+C. Similarly,
+D. Indeed,
+Answer: D
+
+Question 120:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In hindsight, given the ideas about the natural world circulating among British scientists in the 1800s, the theory of natural selection was an obvious next step. It may not have been a coincidence, _______, that Charles Darwin and Alfred Wallace arrived at the concept independently. Indeed, contrary to the popular myth of the lone genius, theirs is not the first paradigm-shifting theory to have emerged from multiple scholars working in parallel.
+
+
+A. however,
+B. then,
+C. moreover,
+D. for example,
+Answer: B
+
+Question 145:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Broadcasting from the Cheyenne River Sioux Tribe's lands in South Dakota, the Native-run radio station KIPI 93.5 FM serves its local Lakota-speaking community in several ways. ________ it broadcasts local news and music and also hosts programming in the Lakota language.
+
+
+A. As a result,
+B. In the end,
+C. For instance,
+D. By contrast,
+Answer: C
+
+Question 142:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In his 2020 poem “This Town,” Saad Ali contemplates Ivan Aivazovsky’s 1859 painting Lunar Night on the Black Sea.Translating the painting's depiction of a seascape into vivid figurative phrases—such as “a dozen sea shells converse”—Ali suggests the fluid interplay of poetry and painting. ______ Ali’s poem highlights fundamental tensions between these modes of representation.
+
+
+A. At the same time,
+B. Therefore,
+C. Specifically,
+D. In other words,
+Answer: A

@@ -1,0 +1,120 @@
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+Paleontologist Amelia Drake and her colleagues analyzed a fossilized bird skeleton unearthed in 1995 at an ancient settlement site in northern Australia, where tools like stone blades were also found. The team identified the bird as *Corvus antiquus*, an extinct species similar to a crow, and radiocarbon dating revealed that the bird coexisted with human inhabitants of the site. Interestingly, while wild crows typically consume only meat, isotopic analysis of the fossil’s beak showed that its diet included plant-based foods, much like the diet of the humans. As a result, Drake and her team concluded that _____.
+
+A. the humans who lived alongside the bird likely consumed more animal protein than the bird did.
+B. the bird's diet was closer to that of domesticated birds than to that of wild crows.
+C. the bird might have been a domesticated or companion animal for the humans living at the site.
+D. the humans who lived alongside the bird likely used the stone blades found at the site for hunting.
+Answer: C
+
+Question 2:
+[Infer]
+Which choice most logically completes the text?
+
+In May of 1986, the Philippines liberalized its stock market, meaning that it began allowing foreign individuals and businesses to invest money in Filipino companies. This was part of a wave of stock market liberalizations around the world—South Korea in 1987, Colombia in 1991, and so on. The standard view among economists at the time was that liberalization would make it easier for companies to raise money from investors. Economist Peter Blair Henry examined the economies of 11 countries that were part of the liberalization wave and found that, on average, companies based in those countries received significant increases in investment in the three years following liberalization, suggesting that ______.
+
+A. companies did not benefit from liberalization until at least three years after liberalization occurred.
+B. companies in South Korea experienced a greater increase in investment following liberalization than did companies in the Philippines.
+C. empirical evidence was consistent with the scholarly consensus about the consequences of liberalization.
+D. economists who held the standard view of liberalization failed to anticipate some serious negative effects of liberalization.
+Answer: C
+
+Question 3:
+[Infer]
+Which choice most logically completes the text?
+
+During their larval phase, numerous species of coral reef fish are drawn toward areas where light is present. To better understand how artificial light at night (ALAN) might affect some coral reef fish, researchers explored the effect of exposure to low levels of ALAN on the reproductive success of the common clownfish (Amphiprion ocellaris). While exposure to low levels of ALAN had no significant effect on spawning frequency and egg fertilization in A. ocellaris, incubation in the presence of ALAN completely inhibited hatching. These findings suggest that ______
+
+A. ocellaris that settle in areas with low levels of ALAN have significantly higher rates of successful egg fertilization than A. ocellaris that settle in areas without ALAN do.
+B. he reproductive success of A. ocellaris would be at risk if they were to selectively settle in regions that are regularly exposed to low levels of ALAN.
+C. the reproductive success of A. ocellaris is more greatly affected by the presence of low levels of ALAN during incubation than the reproductive success of other species of coral reef fish is.
+D. the spawning frequency of A. ocellaris was more strongly affected by the presence of low levels of ALAN than egg fertilization was, though both were less affected than incubation.
+Answer: B
+
+Question 4:
+[Infer]
+Which choice most logically completes the text?
+
+Norway, which, according to international indices, has relatively strong democratic institutions and low intranational income inequality, experienced an inflation rate of 3.55% in 2016, whereas Cameroon, which shows the opposite pattern on such indices, had an inflation rate of only 0.86% that year. Such comparisons have engendered speculation that by diluting control over the economy, democratic institutions inhibit states’ ability to counteract inflationary pressures. To test this possibility systematically, Raj Desai et al. examined democratic strength, intranational inequality, and inflation in more than 100 countries, finding that democratic strength, if associated with inequality, restrains inflationary pressures, suggesting that ____
+
+A. the factors that contributed to Norway’s elevated inflation rate relative to Cameroon’s have less to do with the countries’ political institutions than with the countries’ levels of income inequality.
+B. speculations about the relative inability of democratic institutions to counteract inflation are based on measures that tend to exaggerate the levels of inflation in strongly democratic countries such as Norway.
+C. it would be a mistake to treat the relative inflation rates of Norway and Cameroon as indicative of an inherent shortcoming in democratic institutions with regard to control over inflation.
+D. the difference between Norway and Cameroon with regard to democratic institution strength may have been greater in 2016 than was represented by international indices.
+Answer: C
+
+Question 5:
+[Infer]
+Which choice most logically completes the text?
+
+Omar Asensio and colleagues used machine-learning algorithms to examine consumer reviews of 12,720 electric-vehicle (EV) charging stations in the US. They found that privately owned or managed charging stations at or near restaurants and convenience stores had relatively low proportions of negative reviews, while stations at or near car rental companies had significantly higher proportions of negative reviews. Additionally, stations at or near car rental companies tend to require consumers to pay full price to use them, while stations elsewhere often offered subsidized or even complimentary charging. Assuming that stations at different sites provide roughly equivalent levels of service, these results suggest that _____
+
+A. EV owners are usually unaware of the fees for using charging stations.
+B. EV drivers are more likely to visit areas with many restaurants and convenience stores than they are to visit areas with fewer such businesses.
+C. charging stations located near car rental companies are more frequently visited than charging stations located near restaurants and convenience stores.
+D. users who are offered a discount have lower expectations of the quality of charging stations than users who are not offered a discount do.
+Answer: D
+
+Question 6:
+[Infer]
+Which choice most logically completes the text?
+
+The Study on Global Ageing and Adult Health (SAGE) is a longitudinal study surveying approximately 66,000 individuals in multiple countries to glean extended trends in aging. To carry out the necessary sampling of the population over many years, SAGE needs extensive financial support, but this method provides valuable insights into causal relationships. However, when questions of causation are irrelevant, as with a sociology study seeking only to reveal the average age at which people in a given city first become parents, longitudinal methods are unnecessary, and so ______.
+
+A. the expense of SAGE is likely greater than the cost of longitudinal studies of sociology.
+B. the success of the sociology study likely requires significantly less financial outlay than that needed for SAGE.
+C. conclusions drawn from SAGE are likely to be more authoritative than those from the sociology study.
+D. longitudinal methods are unsuitable for studies of aging but ought to be avoided for those of sociology.
+Answer: B
+
+Question 7:
+[Infer]
+Which choice most logically completes the text?
+
+Designed by Young Projects, Six Square House demonstrates the increasing focus among architects on developing eco-conscious and sustainable buildings. One way to accomplish this goal is through biophilic design, which incorporates elements that establish a coherent physical and emotional relationship among nature, human biology, and the building. Architects dedicated to this approach carefully contemplate every aspect of their projects from location characteristics and initial materials selection to ultimate interior design choices and building installation. Thus, _____.
+
+A. biophilic design considerations are exercised during both the conception and execution of a new project.
+B. architecture firms like Young Projects typically work with large crews in order to expedite the time it takes to build a new project.
+C. architecture firms like Young Projects aim to use unique building materials for each project that they design.
+D. biophilic design prioritizes the emotional effects on inhabitants rather than the physical state of the natural surroundings.
+Answer: A
+
+Question 8:
+[Infer]
+Which choice most logically completes the text?
+
+In September of 1989, Indonesia liberalized its stock market, meaning that it began allowing foreign individuals and businesses to invest money in Indonesian companies. This was part of a wave of stock market liberalizations around the world—Jamaica in 1991, Nigeria in 1995, and so on. The standard view among economists at the time was that liberalization would make it easier for companies to raise money from investors. Economist Peter Blair Henry examined the economies of 11 countries that were part of the liberalization wave and found that, on average, companies based in those countries received significant increases in investment in the three years following liberalization, suggesting that _____.
+
+A. Companies in Jamaica experienced a greater increase in investment following liberalization than did companies in Indonesia.
+B. Companies in the countries Henry studied did not benefit from liberalization until at least three years after liberalization occurred.
+C. Economists who held the standard view of liberalization failed to anticipate some serious negative effects of liberalization.
+D. Economists’ expectations about the effect of liberalization on investment were largely correct for the countries Henry studied.
+Answer: D
+
+Question 9:
+[Infer]
+Which choice most logically completes the text?
+
+The many editions of James Joyce's 1922 novel Ulysses are not textually identical, and scholars debate which versions reflect Joyce's authorial intent. One no longer widely read edition is the 1984 “critical and synoptic edition” edited by Hans Walter Gabler, which followed French and German editorial theories rather than editorial traditions of the United States and United Kingdom and which was later found to have introduced errors due to Gabler's choice to consult facsimile manuscripts rather than using only originals. However, few Joyce scholars worldwide had expertise in such textual issues, and most of those who did worked on the edition with Gabler. So, it is unsurprising that initial scholarly reviews of the 1984 edition were mostly ______.
+
+A. negative, since those Joyce scholars with the necessary expertise to write a review of the 1984 edition would be aware that facsimile manuscripts cannot be produced with a high enough fidelity to the original to ensure that relying on them will not introduce editorial errors.
+B. positive, since scholars who reviewed the 1984 edition were unfamiliar with its production and were mostly either Joyce specialists who were largely unfamiliar with editorial theories and practices or specialists in such theories and practices who were insufficiently familiar with Joyce.
+C. negative, since any scholar with expertise in editorial theories of the United States and United Kingdom as well as French and German editorial practices likely worked with Gabler on the 1984 edition and would therefore not review it.
+D. positive, since Ulysses is a novel in English and the 1984 edition would therefore be more widely reviewed in United States and United Kingdom publications than in French and German.
+Answer: B
+
+Question 10:
+[Infer]
+Which choice most logically completes the text?
+
+All stainless steel contains varying amounts of iron, carbon, and corrosion-inhibiting chromium. However, ferritic stainless steel, often used for cooking utensils, contains a higher percentage of chromium (at least 10.5%) than does austenitic stainless steel and a higher concentration of iron, which is responsible for its magnetic properties. Unlike ferritic stainless steel, austenitic stainless steel has a face-centered cubic crystalline structure resulting from the addition of nickel to the alloy. Austenitic stainless steel has two subtypes: the 200 series, often used for washing machines, and the 300 series, which has more nickel than the 200 series and is often used for mining and chemical equipment or compensators. Thus, stainless steel used to manufacture __________.
+
+A. cooking utensils will have greater magnetic properties than stainless steel used to manufacture mining and chemical equipment will.
+B. mining and chemical equipment will have a concentration of chromium lower than 10.5%, while stainless steel used for washing machines will not.
+C. cooking utensils will have a face-centered cubic crystalline structure.
+D. compensators will likely have a similar crystalline structure to stainless steel used to manufacture cooking utensils.
+Answer: A
+

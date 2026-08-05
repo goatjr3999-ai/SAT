@@ -1,0 +1,140 @@
+Question 1:
+[COE]
+Which choice most effectively uses data from the graph to complete the example?
+
+Electric companies that use wind turbines rely on weather forecasts to predict the maximum amount of power, in megawatt-hours (MWh), they can generate using wind so that they can determine how much they’ll need to generate from other sources. When winds are stronger than they were forecast to be, however, the predicted maximum amount of electricity wind turbines could generate will be too low. For example, the graph shows that for the West region, the winds were _____
+
+
+
+A. strong enough to generate about 150 thousand more MWh of electricity from wind turbines.
+B. so weak that the electricity from wind turbines was about 175 thousand MWh less than predicted.
+C. so weak that the electricity from wind turbines was about 150 thousand MWh less than predicted.
+D. strong enough to generate about 175 thousand more MWh of electricity from wind turbines.
+Answer: A
+
+Question 2:
+[COE]
+Which choice most effectively uses data from the table to complete the claim?
+
+The table shows data from paleontologist Angélica Torres and colleagues’ 2021 study of two sets of dinosaur tracks preserved in a fossilized lake bed in Spain. The tracks, referred to as La Torre 6A and La Torre 6B, were left by two individual theropods (dinosaurs that walked on two legs). The team’s findings suggest that of the two theropods, the one that left the La Torre 6B tracks had a higher maximum mean speed, _______
+
+
+
+A. a longer footprint and a longer average stride.
+B. a longer footprint and a shorter average stride.
+C. a shorter footprint and a longer average stride.
+D. a shorter footprint and a shorter average stride.
+Answer: C
+
+Question 3:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+The Navajo Nation has the largest land area of any tribal nation in the United States: over 27,000 square miles in the Southwest. Because this area is so huge and its communities are located at various elevations, the people of the Navajo Nation can experience different climate conditions depending on where they live. For example, in July, ________
+
+
+
+A. The lowest temperature for both Cameron and Tec Nos Pos was 65°.
+B. Tuba City’s average highest temperature was 94°, while Tec Nos Pos’s was 93°.
+C. Ramah’s average highest temperature was 83°, while Cameron’s was 99°.
+D. The lowest temperature for both Ramah and Tuba City was 50°.
+Answer: C
+
+Question 4:
+[COE]
+Which choice most effectively uses the data in the graph to complete the example?
+
+Copper had been mined in the US for thousands of years, but large-scale commercial mining of copper took off starting in the late 1800s. This was due to several factors. Technological advancements in the mining industry led to improvements in the production of copper. This helped the country keep up with the growing number of people wanting to buy copper starting in the 1890s. At the same time, the growth of the railroad system made the transportation of copper in large batches much easier. Several states saw rapid growth in the production of this resource, for example: _____
+
+
+
+A. The rise in copper production in Michigan slowed from 1902 to 1909.
+B. Montana and Arizona produced more copper than Michigan did in 1909.
+C. Fewer than 100 million pounds of copper were produced in Arizona in 1889.
+D. Copper production rose significantly from 1889 to 1909 for Arizona, Michigan, and Montana.
+Answer: D
+
+Question 5:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+Nan Gao and her team conducted multiple surveys to determine participants’ levels of comfort in a room where the temperature was regulated by a commercial climate control system. Participants filled out surveys several times a day to indicate their level of comfort on a scale from -3 (very cold) to +3 (very hot), with 0 indicating neutral (neither warm nor cool), and to indicate how they would prefer the temperature to be adjusted. The table shows three participants’ responses in one of the surveys. According to the table, all three participants wanted the room to be cooler, _____
+
+
+
+A. and they each reported the same level of comfort.
+B. even though each participant’s ratings varied throughout the day.
+C. but participant 20 reported feeling significantly colder than the other two participants did.
+D. but participant 1 reported feeling warmer than the other two participants did.
+Answer: C
+
+Question 6:
+[COE]
+Which choice most effectively uses data from the graph to complete the example?
+
+To monitor changes to glaciers in Switzerland, the government periodically measures them for features like total area of ice and mean ice thickness, which are then reported in the Swiss Glacier Inventory. These measurements can be used to compare the glaciers. For example, the Gorner glacier had _____
+
+
+
+A. a larger area than either the Fiescher glacier or the Unteraar glacier.
+B. a smaller area than the Fiescher glacier but a larger area than the Unteraar glacier.
+C. a smaller area than either the Fiescher glacier or the Unteraar glacier.
+D. a larger area than the Fiescher glacier but a smaller area than the Unteraar glacier.
+Answer: A
+
+Question 7:
+[COE]
+Which choice most effectively uses data from the graph to complete the example?
+
+By the early 1900s, the Singer Corporation, a US sewing machine manufacturer founded in 1851, began to see rapidly increasing sales abroad, particularly in Russia, Germany, and the United Kingdom. These markets were responsible for the bulk of Singer’s overseas sales, but demand for the company’s machines in other countries also grew significantly in the early twentieth century. For instance, sales of their sewing machines in _____
+
+
+
+A. the Philippines increased dramatically from 1908 to 1918.
+B. New Zealand were largely consistent from 1903 to 1918.
+C. Australia increased steadily from 1903 to 1918.
+D. Turkey declined substantially from 1913 to 1918.
+Answer: A
+
+Question 8:
+[COE]
+Which choice most effectively uses data from the graph to complete the statement?
+
+A student is presenting average monthly rainfall totals in various Puerto Rican cities for a science class. During the presentation, the student notes that in September _____
+
+
+
+A. Rincón’s average rainfall is greater than that of Isabela, San Sebastián, and Ponce.
+B. Rincón and Ponce have an average rainfall of about 5 inches, and Isabela and San Sebastián have an average rainfall of about 10 inches.
+C. Rincón, Ponce, and Isabela each have an average rainfall below 8 inches, but San Sebastián’s average rainfall that month is greater than 8 inches.
+D. Rincón has a similar average rainfall to Isabela, and Ponce has a similar average rainfall to San Sebastián.
+Answer: C
+
+Question 9:
+[COE]
+Which choice most effectively uses data from the graph to complete the text?
+
+In 2021, four of the United States national parks that were among the most visited were Grand Canyon National Park, Rocky Mountain National Park, Yellowstone National Park, and Zion National Park. The graph shows the number of visits for recreation to each of these parks during the three-month period with the highest number of visitors. A student notes that among the parks shown in the graph, the park with the highest monthly recreation visits in all three months was _____
+
+
+
+A. Zion National Park.
+B. Rocky Mountain National Park.
+C. Yellowstone National Park.
+D. Grand Canyon National Park.
+Answer: C
+
+Question 10:
+[COE]
+Which choice most effectively uses data from the graph to justify the underlined claim?
+
+Investigative journalists research and report about fraud, corruption, public hazards, and more. The graph shows the number of investigative articles published in the *Albuquerque Journal* newspaper from 2010 to 2019. According to an analyst, although the number of investigative articles published in this newspaper has varied significantly over the period shown, **__the number overall has fallen since 2010.__**
+
+
+
+A. The newspaper published approximately 1,000 investigative articles in 2010 and approximately 500 in 2019.
+B. The smallest annual number of investigative articles published in the newspaper during the period shown is approximately 1,600 in 2013.
+C. The greatest annual number of investigative articles published in the newspaper during the period shown is approximately 1,000 in 2017.
+D. The newspaper published approximately 1,000 investigative articles in 2010 and approximately 1,600 in 2013.
+Answer: A
+

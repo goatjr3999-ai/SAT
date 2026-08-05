@@ -1,0 +1,382 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+It is hardly an exaggeration to characterize modern Hawaiian literature as having _______ the traditional stories of the Kanaka Maoli, the Native Hawaiian people. In a variety of ways, Samuel Kamakau, Kristiana Kahakauwila, and other acclaimed writers have drawn on these stories to craft a rich portrait of the Hawaiian Islands and their people.
+
+
+A. brooded on
+B. supplanted
+C. envisaged
+D. emanated from
+Answer: D
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+An influential hypothesis about the origins of ancient Greek drama suggests that theatrical performances evolved from choral songs performed at religious festivals dedicated to Dionysus. Until recent discoveries, however, direct historical evidence for these early festivals was ____, yet historian Elena Karalis and her team now argue they have discovered tangible artifacts linked directly to such performances at archaeological sites in northern Greece.
+
+
+A. discursive
+B. conjectural
+C. indubitable
+D. fallacious
+Answer: B
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Research on *Chaenocephalus aceratus* and other icefishes of the Telcostei class has shown that their hearts are pale due to low levels of myoglobin expression, which was once thought to be related to their polar habitats. Recently, researchers have found that some tropical teleost species (such as _Amblyeleotris wheeleri_) also have pale hearts, raising the possibility that myoglobin deficiency in teleosts could be ______ habitat.
+
+
+A. predictive of
+B. obscured by
+C. mediated by
+D. irrespective of
+Answer: D
+
+Question 4:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is adapted from Armando Palacio Valdés’s short story “The Love of Clotilde,” originally published in Spanish in 1884. In the text, Don Jerónimo, a financial supporter of theatrical artists, is speaking to a group of people backstage at a theater.
+“Today, in the drama, everything is so much dried leaves, a lot of [moonlight], which, they let filter down through the foliage of the trees, a lot of description of dawn and twilight, and a lot of other similar pastry-shop stuff. That’s all there is to it! When any fledgling author comes to me with nonsense of that sort, I say to him: ‘Get down to the facts! Get down to the facts!’ The facts are the drama, which doesn’t exist in the great part of the above-mentioned.”
+
+
+A. It conveys a character’s dislike for financially supporting playwrights.
+B. It emphasizes a character’s preference for sophisticated dialogue in plays.
+C. It explains why a character no longer writes plays.
+D. It illustrates a character’s view of the quality of plays of the time.
+Answer: D
+
+Question 5:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In their study of caterpillars in fragmented forests (formerly contiguous forests that have been broken into isolated patches by roads or other interruptions), Nicole M. Dallar et al. stress that although fragmentation inevitably ______ alterations to local ecological processes, the changes will likely have a greater impact on _Nola triguetrana_, a specialist feeding on a limited number of plant species, than on a species like _Himella intractata_ that feeds on several.
+
+
+A. preempts
+B. engenders
+C. subsumes
+D. attenuates
+Answer: B
+
+Question 6:
+[COE]
+Which choice best describes data from the table that support the journalist's claim?
+
+Highest-Grossing Films in a Language Other than English at US Box Office
+
+Many films in a language other than English grow to be financially successful over the course of their time in movie theaters in the United States, but some become immediate successes in their opening weekends. A journalist claims that a film's reception can greatly influence its long-term success. Indicators of the film's high quality, such as an Oscar nomination, can dramatically boost public interest in the film and thus its overall earnings, even with a relatively modest opening weekend performance.
+
+
+A. Cinema Paradiso was recognized by the Oscars, but Instructions Not Included, which was not recognized by the Oscars, had higher lifetime earnings.
+B. La Cage aux Folles, which was recognized by the Oscars, earned less money in its opening weekend but had higher lifetime earnings than Padmaavat, which was not recognized by the Oscars.
+C. Although La Cage aux Folles and Cinema Paradiso were both recognized by the Oscars, La Cage aux Folles had higher lifetime and opening weekend earnings.
+D. Although the opening weekend earnings were $7,846,426 for Instructions Not Included and $4,493,384 for Padmaavat, neither film was recognized by the Oscars.
+Answer: B
+
+Question 7:
+[Structure]
+Which choice best states the main idea of the text?
+
+Animals use many objects as tools to achieve goals more easily. Such goals include grooming, finding food, and protecting themselves. For a long time, people thought tool use was unique to primates. Octopuses and other animals, though, have busted the myth that tool use requires hands. Inventively, octopuses use two halves of a seashell to provide protection or a place to hide. Striated herons also get creative. They use breadcrumbs and other lures to attract fish to the water’s surface, making it easier for the herons to catch them.
+
+
+A. Unlike primates, octopuses are exceptionally skillful at using different tools.
+B. There are many myths about tool use that researchers are starting to challenge.
+C. Contrary to long-held beliefs, primates aren’t the only animals to use tools.
+D. Animals find it difficult to use objects as tools.
+Answer: C
+
+Question 8:
+[Cross Text]
+Based on the texts, how would the author of Text 2 mostly likely respond to the argument presented in Text 1?
+
+Text 1
+Sir Geoffrey Luttrell commissioned the Luttrell Psalter, a celebrated document of religious songs and images of life in medieval England. Not all of Luttrell’s actions were admirable, however. Most infamously, he participated in what was essentially a private war against Sempringham Priory, a monastery near his manor, even making off with 500 pounds’ worth of monastery property during a violent raid. So Luttrell’s reputation should be regarded as questionable at best.
+Text 2
+Some historians claim that an assessment of Luttrell’s life must mention both his support of the Luttrell Psalter and his behavior toward his neighbors. But contemporary descriptions of Luttrell’s “raid” on Sempringham Priory contain what appear to be exaggerated claims characteristic of complaints by those whose property has been legally seized as compensation for money owed, which is likely the case here.
+
+
+A. By arguing that when considering Luttrell’s character, one should take into account that primary sources for his interaction with Sempringham Priory may not be objective
+B. By pointing out that scholars evaluating Luttrell’s behavior should bear in mind that many details in firsthand descriptions of his conflict with Sempringham Priory have been shown to be false
+C. By suggesting that judging Luttrell’s actions regarding Sempringham Priory is difficult because contemporary depictions disagree about important details
+D. By claiming that a proper analysis of Luttrell’s dispute with Sempringham Priory needs to acknowledge that Priory sources concede that Luttrell was owed money
+Answer: A
+
+Question 9:
+[COE]
+Which choice most effectively uses data from the table to complete the example?
+
+As the second-most populous continent in the world, Africa was home to an estimated 1.186 billion people in 2015. In a paper for a social studies class, a student nonetheless notes that countries with very large populations may be less densely populated than countries with much smaller populations, as can be seen by comparing ____.
+
+
+
+A. Zambia, which has a low density, with Benin, which has a similar density despite both countries having different geographic sizes.
+B. The geographic size of Mali (1,240,000 square kilometers) with Lesotho, which has a much lower population and a higher density.
+C. Mali, which has a high population of 17,600,000 inhabitants and a relatively low density of 14.2 inhabitants/square kilometer, with Lesotho, which has a much lower population and a higher density.
+D. The populations of both Lesotho and Benin in 2015 with their populations in 2010.
+Answer: C
+
+Question 10:
+[COE]
+Which quotation from There Is Confusion most effectively illustrates the claim?
+
+There Is Confusion is a 1924 novel by Jessie Redmon Fauset. In the novel, the narrator portrays the character Joanna as someone who admires ambition in other people to the exclusion of all other qualities: ______.
+
+
+A. “Joanna was mightily interested in people who had a ‘purpose’ in life. Otherwise not at all.”
+B. “Joanna was like her father not only so far as ambition was concerned but also in her willingness to work.”
+C. “She had a good sense of logic, a strong power of concentration, and a remarkably retentive and visualizing memory.”
+D. “Indeed from the very beginning Joanna showed her preference for her father.”
+Answer: A
+
+Question 11:
+[COE]
+Which finding, if true, would most directly support Jones and colleagues’ conclusion?
+
+Marine ecologist Adrienne Jones believes we may uncover how complex coral colonies originated from single-celled forebears by examining why the solitary microorganism Draconis alveolus—suspected to be an ancient coral precursor—occasionally forms microscopic reef clusters. Jones and her team reviewed multiple investigations on how D. alveolus reacts when it encounters another single-celled group, algae, including Markus Stein’s research with Tetraselmis marina algae and Elena Prior’s work with Chaetoceros conicus algae. Jones and her colleagues concluded that neither T. marina nor C. conicus likely played a decisive role in the progression toward reef-building life forms.
+
+
+A. Stein found that D. alveolus typically formed micro-reefs after contact with the algae, but Prior did not.
+B. Both Stein and Prior found that D. alveolus generally did not form micro-reefs following the algae exposure.
+C. Prior found that D. alveolus tended to assemble micro-reefs after the algae exposure, but Stein did not.
+D. Both Stein and Prior discovered that existing D. alveolus micro-reefs halted their growth after contact with algae, though they also observed that algae exposure was linked to D. alveolus initiating reef formation.
+Answer: B
+
+Question 12:
+[Infer]
+Which choice most logically completes the text?
+
+Over 600 languages are spoken in New York City in addition to English—one can find Bambara spoken in the neighborhood of Kingsbridge, for example, or Ghale in Jackson Heights. English is the most common, with 65% of New Yorkers speaking it at home; Spanish is second, at 20%. A linguist hypothesizes that a Spanish dialect—a variation differing from the parent language in some of its vocabulary, pronunciation, and grammar—has developed in New York City, partly due to its linguistic interaction with English. Previous research shows that younger speakers of intermarriage languages are more likely to borrow words from the majority language of a region than are older speakers. If the linguist's hypothesis is correct, it is therefore likely to be the case that ____
+
+
+A. the proportion of younger speakers who use a Spanish dialect specific to New York City is higher in neighborhoods where many languages are spoken than in neighborhoods where Spanish and English predominate.
+B. both the number of languages spoken in New York City and the number of dialects of each of those languages will increase over time.
+C. Spanish used by younger speakers in New York City tends to have more words borrowed from other nonmajority languages than borrowed from English.
+D. younger speakers of Spanish in New York City would be more likely to use a dialect specific to New York City than older speakers living in the same neighborhood would be.
+Answer: D
+
+Question 13:
+[COE]
+Which statement, if true, would most strongly support Wade’s argument?
+
+In medieval England, harpers and minstrels made livings as traveling performers, but the pieces they performed have been a mystery thought to be lost or never committed to paper at all. Recently, however, James Wade has argued that a manuscript collection compiled in the fifteenth century by Richard Heege contains three pieces likely copied from a repertoire book belonging to a minstrel working in the area around Heege’s home. Wade cites features of the texts indicative of live performance, such as directly appealing to the audience, extensive use of repetition (allowing for easy memorization), and requests for tips (payment) from listeners.
+
+
+A. Traveling minstrels are thought to have performed mainly for elite audiences, and other parts of Heege’s collection reflect his interest in works with popular appeal.
+B. Features like repetition also occur in other texts from the period that were widely read but are not known to have been performed for live audiences.
+C. Heege’s collection contains the earliest examples of the three pieces in question, but each of those pieces occurs in other manuscript collections compiled after Heege’s.
+D. The three pieces in question contain references that presume that the audience is familiar with Holbrooke and other small villages near where Heege lived.
+Answer: D
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Although the language of the Olmec civilization, which flourished in southern Mexico circa 1500 BCE–400 BCE, hasn’t been identified, it likely belonged to the Mixe-Zoquean family, a group of related languages whose present-day representatives are spoken in an area corresponding to ancient Olmec sites. The family can be subdivided into a Zoque branch, which includes the modern language Chiapaneco Zoque, and a Mixe branch, which includes the modern language North Central Mixe. Many words in the Mayan languages—languages spoken in the region but otherwise unrelated to the Mixe-Zoquean family—are Mixe-Zoquean in origin and were likely borrowed during the period when the Olmecs dominated the entire region. Tellingly, these words derive from the Zoque branch, suggesting that ___.
+
+
+A. the language of the Olmec civilization was likely the founding language of the family that includes Chiapaneco Zoque and North Central Mixe.
+B. Chiapaneco Zoque and other languages in the Zoque branch weren’t supplanted by languages in the Mixe branch until after 400 BCE.
+C. Chiapaneco Zoque is more likely to have evolved from the language of the Olmec civilization than North Central Mixe is.
+D. the language of the Olmec civilization made contributions not only to the vocabulary of the Mayan languages but also to the vocabulary of North Central Mixe and other languages in the Mixe branch.
+Answer: C
+
+Question 15:
+[COE]
+What does the text most strongly suggest about Poe's work and American readers?
+
+The following text is from William Carlos Williams's 1925 creative nonfiction book *In the American Grain*. Williams is discussing how works by nineteenth-century US poet and fiction writer Edgar Allan Poe were received by American readers.
+Poe must suffer by his originality. Invent that which is new, even if it be made of pine from your own yard, and there's none to know what you have done. It is because there's no *name*. This is the cause of Poe's lack of recognition. He was American. He was the astounding, inconceivable growth of his locality. Gape at him they did, and he at them in amazement. Afterward with mutual hatred; he in disgust, they in mistrust. It is only that which is under your nose which seems inexplicable.
+
+
+A. Poe's work had few enthusiasts among American readers because it tended to present a negative image of American life and institutions.
+B. American readers largely dismissed Poe's work because its tone and subject matter were out of keeping with mainstream literature.
+C. Poe's work was so innovative that there was not even terminology to describe it, which led American readers to regard both the work and Poe himself as strange but quintessentially American.
+D. American readers failed to appreciate Poe's work because of its novelty and the fact that it reflected aspects of the American character too ingrained in those readers for them to comprehend.
+Answer: D
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Tanzania's constitution, enacted in 1977, contains just two of the six constitutional features that enhance judicial independence, as identified by legal scholars James Melton and Tom Ginsburg. After 1985, such de jure judicial independence became more prevalent, as exemplified in Kyrgyzstan's constitution, enacted in 2010 and ______ three of these features.
+
+
+A. had contained
+B. contained
+C. containing
+D. contains
+Answer: C
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In the transformative era of agrarian England, identified as the precursor to the Industrial Revolution, a controversial policy of land enclosure ______ back to the 15th century—one that consolidated small communal landholdings into larger, privately held farms—altered the socioeconomic landscape irrevocably, forcing the migration of the peasantry to urban centers.
+
+
+A. dates
+B. date
+C. has dated
+D. dating
+Answer: D
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Released in 1998, the Alpha 21264 microchip contained a single CPU, or core, to execute commands. As processing speeds of single-core chips increased over time, so too did the heat the chips generated. _______ a “power wall” in which more heat was produced than could be efficiently dissipated led developers to invent the dual-core chip in the early 2000s.
+
+
+A. Upon hitting
+B. When they hit
+C. Hitting
+D. They hit
+Answer: C
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+To the layperson, the heliocentric model—relegating Earth to a mere orbital body—is arguably the defining intellectual contribution of the Renaissance astronomer Nicolaus Copernicus. This cosmological reorientation did not originate with _____ in the third century BCE, the hypothesis was essentially formulated by the Greek mathematician Aristarchus of Samos.
+
+
+A. Copernicus, though,
+B. Copernicus; though,
+C. Copernicus, though
+D. Copernicus, though;
+Answer: D
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Was the Greek mythological figure Chronos, god of time, based on a real person? That was the question posed by the writer Euhemerus (fourth century BCE). Euhemerus claimed that Chronos and the other Greek deities were based on real-life heroes or leaders, tales of whose exploits, told and retold over time, _______ myths—a position later known as euhemerism.
+
+
+A. having eventually become
+B. eventually became
+C. eventually becoming
+D. to eventually become
+Answer: B
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Susana Wadgymar is a biologist at Davidson ______ conducts research on plants.
+
+
+A. College. Where she
+B. College. She
+C. College, she
+D. College she
+Answer: B
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In a transdisciplinary study, a scholar examines a concept from another academic field, such as economics, anthropology, or psychology. Elena Rodriguez’s 2012 research paper Keynesian Perspectives, for instance, analyzes John Keynes’s 1936 economic theory General Theory of Employment; Mark Tanaka’s 2020 paper Human Rituals, ____ engages with a theory from another discipline: Victor Turner’s 1969 anthropological work The Ritual Process.
+
+
+A. nevertheless,
+B. likewise,
+C. hence,
+D. conversely.
+Answer: B
+
+Question 23:
+[Synthesis]
+The student wants to emphasize a similarity between the two locations. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Sandvikens Gymnasieskola is in Sandviken, Sweden.
+• It is home to a Foucault pendulum.
+• The University of Oradea is in Oradea, Romania.
+• It is home to a Foucault pendulum.
+• A Foucault pendulum dangles from a fixed point that ensures the swing path of the pendulum doesn’t change.
+• To an observer, the swing path of a Foucault pendulum appears to change over time because Earth rotates beneath it.
+
+
+A. Sandvikens Gymnasieskola in Sandviken, Sweden, and the University of Oradea in Oradea, Romania, both house Foucault pendulums.
+B. Sandvikens Gymnasieskola, which is home to a Foucault pendulum, is in Sweden, not Romania.
+C. One Foucault pendulum is in Sweden, and the other is in Romania.
+D. Because Earth rotates beneath it, the swing path of the Foucault pendulum at Sandvikens Gymnasieskola appears to change over time.
+Answer: A
+
+Question 24:
+[COE]
+Which choice most effectively uses information from the given sentences to emphasize the number of medals won by Kenny?
+
+While researching a topic, a student has taken the following notes:
+• The Paralympic Games are a series of international sporting events involving athletes with an impairment.
+• Swimming has been an event at the Paralympics since 1960.
+• Mike Kenny competed as a Paralympic swimmer from 1976 to 1988.
+• He won eighteen medals.
+• Of these, sixteen were gold medals, which indicate a first-place finish.
+
+
+A. An accomplished Paralympian with multiple gold medal wins, Mike Kenny competed as a swimmer from 1976 to 1988.
+B. During his career as a Paralympic swimmer, Mike Kenny earned a total of eighteen medals, sixteen of which were gold.
+C. Swimming, a sport in which Mike Kenny took home sixteen gold medals, has been an event at the Paralympic Games since 1960.
+D. Mike Kenny competed at the Paralympic Games, a series of international sporting events.
+Answer: B
+
+Question 25:
+[Synthesis]
+The student wants to emphasize a similarity between the two national union federations. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•National union federations aim to improve conditions for workers in their respective nations.
+•The Trade Union Congress of Namibia is a national union federation for Namibia.
+•The Trade Union Confederation of Burundi is a national union federation for Burundi.
+
+
+A. The Trade Union Confederation of Burundi aims to improve conditions for workers in Burundi.
+B. Both the Trade Union Congress of Namibia and the Trade Union Confederation of Burundi aim to improve conditions for workers in their respective nations.
+C. Namibia and Burundi each have national union federations.
+D. The Trade Union Congress of Namibia and the Trade Union Confederation of Burundi represent workers in different countries.
+Answer: B
+
+Question 26:
+[Synthesis]
+The student aims to write a comprehensive summary explaining the mechanism by which CRISPR-Cas9 is utilized for targeted gene correction. Which choice most effectively synthesizes the relevant information from the notes to achieve this goal?
+
+While conducting research for a dissertation on genetic engineering, a graduate student has compiled the following notes:
+• The CRISPR-Cas9 system, originally identified as an adaptive immune mechanism in prokaryotes, has been repurposed by scientists as a versatile tool for precision genome engineering.
+• The Cas9 protein functions as a molecular scissor, specifically a nuclease, that is capable of inducing a double-strand break (DSB) at a targeted locus within a DNA sequence.
+• The specificity of the Cas9-induced cleavage is dictated by a synthetic single-guide RNA (sgRNA), which contains a ~20-nucleotide sequence complementary to the target DNA.
+• The sgRNA directs the Cas9 protein to the precise genomic location; following the DNA cleavage, the cell's innate DNA repair mechanisms are activated.
+• These repair pathways can be manipulated: Non-homologous end joining (NHEJ) often results in gene knockout, while homology-directed repair (HDR), when a donor template is supplied, can be used for precise gene insertion or correction.
+
+
+A. Guided by a synthetic single-guide RNA (sgRNA) to a specific DNA locus, the Cas9 nuclease creates a double-strand break, which, in the presence of a donor template, can be resolved by the homology-directed repair (HDR) pathway to achieve precise gene correction.
+B. The CRISPR-Cas9 system achieves precise gene insertion by employing the Cas9 protein to make a cut, which is then repaired by the non-homologous end joining (NHEJ) pathway, a process guided by a complementary DNA template.
+C. Originally an adaptive immune system in prokaryotes, CRISPR-Cas9 involves a Cas9 protein and a single-guide RNA that work together to identify and cleave a target DNA sequence.
+D. The specificity of CRISPR-Cas9 genome engineering is determined by the Cas9 protein, which functions as a molecular scissor that, when complexed with an sgRNA, activates the cell's innate knockout mechanisms for repair.
+Answer: A
+
+Question 27:
+[Synthesis]
+The student wants to contrast the song 'Poor Miner's Farewell' with the song 'Bring Him Back Home. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Musicians around the world have used protest songs to raise awareness about human rights violations.
+• US folk singer Aunt Molly Jackson released the protest song "Poor Miner's Farewell" in 1932.
+• It exposed the unlivable wages and dangerous working conditions coal miners faced in Kentucky during the 1920s and 1930s.
+• South African singer-songwriter Hugh Masekela released the protest song "Bring Him Back Home" in 1987.
+• It called on the South African government to free Nelson Mandela, an anti-apartheid leader who’d been unjustly imprisoned.
+
+
+A. While both are protest songs, "Poor Miner's Farewell" is about coal miners in Kentucky, whereas "Bring Him Back Home" is about the anti-apartheid leader Nelson Mandela.
+B. Hugh Masekela’s song “Bring Him Back Home,” released in 1987, called on the South African government to free Nelson Mandela.
+C. The songs “Poor Miner's Farewell” and “Bring Him Back Home” both raised awareness about human rights violations.
+D. Released in 1932 by Aunt Molly Jackson, the song “Poor Miner’s Farewell” exposed the unlivable wages and dangerous working conditions faced by Kentucky coal miners.
+Answer: A

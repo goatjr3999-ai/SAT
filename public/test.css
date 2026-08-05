@@ -1,0 +1,2243 @@
+/* FONT */
+@import url('https://fonts.googleapis.com/css2?family=Droid+Serif:wght@400;700&family=IBM+Plex+Sans:wght@300;400;500;600;700&family=Noto+Sans:wght@300;400;500;600;700&display=swap');
+
+/* BASE */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Noto Sans", system-ui, sans-serif;
+  
+  font-weight: 300;       /* hoặc 300 cho đoạn text dài */
+  line-height: 1.6;
+  background: #f9fafb;
+  overflow: hidden;
+}
+
+body {
+  position: relative; /* giữ pseudo các pane xếp lớp đúng */
+}
+
+/* WATERMARK KHI LÀM BÀI THI (đè lên mọi nội dung, vẫn click được) */
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0 0 58px 0; /* chừa thanh bottom bar cao 58px */
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260' viewBox='0 0 260 260'%3E%3Ctext x='20' y='150' fill='%23000000' fill-opacity='0.08' font-family='Noto Sans, sans-serif' font-size='28' font-weight='700' transform='rotate(-30 130 130)'%3Eglorysat.vn%3C/text%3E%3C/svg%3E");
+  background-size: 240px 240px;
+  background-repeat: repeat;
+  pointer-events: none; /* không chặn thao tác */
+  z-index: 2000;        /* cao hơn mọi layer khác */
+}
+
+/* LAYOUT 2 PANEL */
+#container {
+  display: flex;
+  height: calc(100% - 48px);
+}
+
+.math-mc #container {
+  display: block;
+  height: auto;
+  min-height: calc(100vh - 58px);
+}
+
+.math-mc #left-pane {
+  display: none;
+}
+
+.math-mc #right-pane {
+  width: 95%;
+  height: auto;
+  min-height: calc(100vh - 58px);
+  overflow-y: visible;
+}
+
+.math-mc #right-pane::after {
+  height: 80px;
+}
+
+body.math-mc {
+  overflow: auto;
+}
+
+.math-mc #question-header,
+.math-mc #header-dash {
+  max-width: 714px;
+  margin: 0 auto;
+}
+
+.math-mc #question-text {
+  margin-left : 0px;
+}
+
+.math-mc #question-header {
+  margin: 30px auto 0;
+}
+
+
+
+body.math-grid {
+  overflow: hidden;
+}
+
+body.math-grid #container {
+  height: calc(100% - 48px);
+}
+
+body.math-grid #left-pane,
+body.math-grid #right-pane {
+  height: 100%;
+  min-height : 0;
+}
+
+body.math-grid #left-pane {
+  overflow-y: auto;
+  padding-bottom: 40px; 
+
+}
+
+.pro-locked {
+  padding: 40px;
+  font-size: 18px;
+  background: #fff7ed;
+  border: 1px solid #fdba74;
+  border-radius: 12px;
+  color: #9a3412;
+  margin: 60px auto;
+  max-width: 640px;
+  line-height: 1.6;
+  font-weight: 600;
+}
+
+/* LEFT PANE */
+#left-pane {
+  width: 50%;
+  padding: 30px;
+  background: white;
+  border-right: 2px solid #d4d4d8;
+  overflow-y: auto;
+}
+
+/* RIGHT PANE */
+#right-pane {
+  width: 50%;
+  padding: 30px;
+  background: white;
+  overflow-y: auto;
+}
+
+#right-pane::after {
+  content: "";
+  display: block;
+  height: 110px;   /* khoảng trống tránh footer – chỉnh tùy ý */
+}
+
+/* QUESTION HEADER */
+#question-header,
+#header-dash {
+  background: #f3f4f6;
+  margin-left : 30px;
+  margin-right : 30px;
+  margin-top : 0.4px;
+}
+
+#question-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding-bottom: 1.2px;
+  margin-top : 30px;
+  margin-left : 30px;
+  margin-right : 30px;
+}
+
+.highlight-menu {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.12);
+  border-radius: 12px;
+  padding: 8px 10px;
+  z-index: 10000;
+  transform: translateX(-50%);
+}
+
+.highlight-action {
+  border: 1.5px solid #d4d4d8;
+  background: #f9fafb;
+  color: #111827;
+  border-radius: 999px;
+  min-width: 42px;
+  height: 42px;
+  padding: 0 12px;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 13px;
+  transition: transform 0.15s, background 0.15s, border-color 0.15s, color 0.15s;
+}
+
+.highlight-options {
+  display: flex;
+  gap: 8px;
+}
+
+.highlight-action.color-option {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-color: transparent;
+  color: #111827;
+}
+
+.highlight-action.color-yellow {
+  background: #fef3c7;
+  border-color: #f59e0b;
+}
+
+.highlight-action.color-blue {
+  background: #dbeafe;
+  border-color: #3b82f6;
+}
+
+.highlight-action.color-pink {
+  background: #fce7f3;
+  border-color: #f472b6;
+}
+
+.highlight-action.erase-action {
+  text-align: center;
+  min-width: 110px;
+  height: 42px;
+  border-radius: 10px;
+  border-color: #fecaca;
+  background: #fff1f2;
+  color: #be123c;
+}
+
+.highlight-action:hover {
+  border-color: #f59e0b;
+  background: #fff7ed;
+  transform: translateY(-1px);
+}
+
+#header-dash {
+  padding-top: 1px;
+  border-top: 1.5px solid transparent;
+  border-image: repeating-linear-gradient(
+      to right,
+      #000000 0,
+      #000000 24px,
+      transparent 20px,
+      transparent 26px
+  ) 1;
+}
+
+
+/* QUESTION TEXT */
+
+
+#question-text {
+  font-size: 17px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  line-height: 1.5;
+  margin-left : 30px;
+  margin-right : 30px;
+}
+
+body.math-grid #question-content {
+  margin: 0 30px;
+  padding-left: 0px;
+}
+
+body.math-grid #question-text {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+body.math-grid .question-image-wrapper {
+  text-align: center;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0px !important;
+}
+
+
+
+#passage,
+#question-text,
+.choice span {
+  font-family: "Noto Serif", system-ui, serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+}
+
+
+
+.math-section #question-content {
+  max-width: 714px;
+  margin: 0px auto;
+}
+
+
+.math-section #choices {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.math-section .choice {
+  width: 100%;
+  max-width: 630px;
+}
+
+.math-section .grid-answer-wrapper {
+  width: 100%;
+  max-width: 680px;
+}
+
+/* NUMBER BOX */
+#q-number-box {
+  background: #000;
+  color: white;
+  font-weight: 700;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 30px;
+  min-width: 15px;
+  padding: 0 6px;
+}
+
+/* MARK FOR REVIEW */
+#mark-review-btn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-top : 3px;
+  font-weight: 500;
+  cursor: pointer;
+  font-family: "Noto Sans", system-ui, sans-serif !important;
+}
+#mark-review-btn #mark-text {
+  font-weight: 500;
+}
+#bookmark-icon {
+  width: 18px;
+  height: 18px;
+  background: white;
+  border: 2px solid #000;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+}
+
+/* CHOICES */
+.choice {
+  display: flex;
+  align-items: center;
+  padding: 14px 16px;
+  background: #fff;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  transition: 0.15s;
+  gap: 10px;
+  margin-left : 30px;
+  margin-right : 84px;
+  position: relative;
+  overflow: visible;
+}
+
+.choice:not(.selected):hover {
+  background-color: #f2f2f2;
+}
+.choice.selected {
+  border-color: transparent;   /* 👈 tắt border */
+  outline: 2.5px solid #1648b5;  /* 👈 bật outline */
+  outline-offset: -2px;        /* 👈 ôm vào trong */
+}
+
+.choice.selected .choice-label {
+  background: #1648b5;
+  border-color: #000;
+  color: #ffffff;
+}
+
+.choice-text {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.choice-text > span {
+  margin-left: 0;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.choice-label {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  border-radius: 999px;
+  border: 1px solid #000000;
+  color: #000000;
+  font-weight: 700;
+  font-size: 13px;
+  flex: 0 0 auto;
+}
+
+
+.choice.eliminated {
+  opacity: 0.7;
+  border-style: dashed;
+}
+
+.choice.eliminated b,
+.choice.eliminated span {
+  text-decoration: line-through;
+  color: #6b7280;
+}
+
+.eliminate-btn {
+  margin-left: 0;
+  width: 22px;
+  height: 22px;
+  border-radius: 999px;
+  border: 1px solid #000000;
+  background: #ffffff;
+  color: #000000;
+  font-family: inherit;
+  font-size: 13px;
+  line-height: 1;
+  font-weight: 700;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  position: absolute;
+  right: -40px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+
+.eliminate-btn::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: calc(100% + 6px);
+  height: 1px;
+  background: #000000;
+  transform: translate(-50%, -50%) scaleX(0);
+  transform-origin: center;
+  transition: transform 0.15s ease;
+}
+
+.eliminate-btn.active::after {
+  transform: translate(-50%, -50%) scaleX(1);
+}
+
+.eliminate-btn:hover {
+  background: #f2f2f2;
+}
+
+.grid-answer-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.grid-answer-input {
+  width: 100px;
+  height: 8px;
+  border-radius: 14px;
+  border: 1.1px solid #000000;
+  padding: 10px 18px 28px;
+  padding-top : 22px;
+  font-size: 15px;
+  font-family: "Noto Sans", system-ui, sans-serif !important;
+  background-image: linear-gradient(#000000, #000000);
+  background-repeat: no-repeat;
+  background-size: 70% 1px;
+  background-position: center 46px;
+}
+
+.grid-answer-input:focus {
+  outline: none;
+}
+
+/* BOTTOM BAR */
+#bottom-bar {
+  height: 58px;
+  background: #eef2ff;
+  box-shadow :10px 0px 15px rgba(0,0,0,0.15);
+  
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  padding: 0 40px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.bottom-bar-user {
+  position: absolute;
+  left: 40px;
+  font-size: 13px;
+  font-weight: 600;
+  color: #111827;
+  max-width: 240px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-family: "Noto Sans", system-ui, sans-serif !important;
+}
+
+/* XÓA QUESTION-PROGRESS */
+#question-progress {
+  display: none;
+}
+
+/* BACK / NEXT BUTTON GROUP */
+#bottom-bar > div {
+  position: absolute;
+  right: 40px;
+  display: flex;
+  gap: 10px;
+}
+
+/* NAV BUTTONS */
+#back-btn,
+#next-btn {
+  padding: 11px 22px;
+  font-size: 12px;
+  border-radius: 999px;
+  border: none;
+  cursor: pointer;
+  background: #334dc8;
+  color: #fff;
+  font-weight: 600;
+  font-family: "Noto Sans", system-ui, sans-serif !important;
+}
+
+/* ======================================================
+   BLUEBOOK POPUP BUTTON (ĐEN)
+====================================================== */
+
+#question-toggle-btn {
+  background: #111;
+  color: #fff;
+  border: none;
+  border-radius: 7px;
+  padding: 7px 12px 7px 15px; /* left 17px, right 14px → cân hơn */
+  font-size: 13px;          /* sửa lỗi */
+  font-weight: 730;         /* chữ đậm */
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  width: fit-content;       /* nút dài theo text */
+  /* hoặc width: 200px; để fix kích thước nếu bạn muốn */
+  margin: 0 1px; /* ép spacing sát hơn */
+  font-family: "Noto Sans", system-ui, sans-serif !important;
+}
+
+
+#question-toggle-btn .arrow {
+  color: #fff;
+  font-size: 14px;
+  transform: translateY(1px);
+}
+
+#question-toggle-btn:hover {
+  background: #000;
+}
+
+/* ======================================================
+   POPUP PANEL
+====================================================== */
+
+.hidden {
+  display: none;
+}
+
+#question-popover {
+  position: fixed;
+  bottom: 95px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 9999;
+  font-family: "Noto Sans", system-ui, sans-serif !important;
+}
+
+.popover-content {
+  background: #fff;
+  width: 480px;
+  padding: 22px;
+  border-radius: 12px;
+  border: 1px solid #d4d4d8;
+  box-shadow: none;
+  position: relative;
+  font-family: "Noto Sans", system-ui, sans-serif !important;
+}
+
+/* Arrow */
+.arrow-down {
+  position: absolute;
+  bottom: -14px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 0;
+  border-left: 14px solid transparent;
+  border-right: 14px solid transparent;
+  border-top: 14px solid white;
+  filter: drop-shadow(0 -2px 2px rgba(0,0,0,0.08));
+}
+
+/* Popup header */
+.popover-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 17px;
+  font-weight: 600;
+  padding-bottom: 12px;
+}
+
+#close-popover {
+  cursor: pointer;
+  font-size: 18px;
+  opacity: 0.7;
+}
+
+/* Legend */
+.legend {
+  display: flex;
+  gap: 25px;
+  margin-bottom: 16px;
+  font-size: 13.5px;
+  align-items: center;
+  font-family: "Noto Sans", system-ui, sans-serif !important;
+}
+
+.dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 6px;
+}
+
+.dot.current { background: #2563eb; }
+.dot.unanswered { background: #d1d5db; }
+.dot.review { background: #f43f5e; }
+
+/* GRID */
+#question-grid {
+  display: flex;
+  flex-wrap: wrap; 
+  gap: 8px;
+  margin-bottom: 18px;
+}
+
+.q-item,
+.q-item.answered,
+.q-item.current {
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.q-item {
+  width: 36px;
+  height: 36px;
+  border: 1.5px dashed #c4c4c4;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.q-item.current {
+  border: 2px solid #2563eb;
+  background: #eff6ff;
+}
+
+.q-item.answered {
+  background: #2563eb;
+  color: white;
+  border: 2px solid #2563eb;
+  box-sizing: border-box;
+} 
+
+.q-item.review {
+  background: #fee2e2;
+  border: 2px solid #b91c1c;
+  color: #b91c1c;
+  font-weight: 600;
+}
+
+
+#go-review-btn {
+  width: 100%;
+  padding: 10px 0;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  font-family: "Noto Sans", system-ui, sans-serif !important;
+}
+
+/* =========================
+   REVIEW PAGE LAYOUT
+========================= */
+
+#review-wrapper {
+  padding-top: 60px;
+  padding-bottom: 80px;
+  min-height: calc(100% - 58px); /* chừa chỗ cho bottom-bar */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#review-title {
+  font-size: 32px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+#review-desc {
+  max-width: 720px;
+  text-align: center;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #374151;
+  margin-bottom: 32px;
+}
+
+#review-card {
+  background: #ffffff;
+  border-radius: 18px;
+  padding: 24px 32px 28px;
+  box-shadow: none;
+  width: 720px;
+}
+
+#review-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.review-section-title {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.review-legend {
+  display: flex;
+  gap: 24px;
+  font-size: 14px;
+  align-items: center;
+}
+
+.legend-item {
+  display: inline-flex;
+  align-items: center;
+}
+
+.legend-square {
+  width: 14px;
+  height: 14px;
+  border-radius: 3px;
+  margin-right: 6px;
+}
+
+.legend-square.unanswered {
+  border: 1.5px solid #9ca3af;
+  background: transparent;
+}
+
+.legend-square.review {
+  background: #ef4444;
+}
+
+.review-divider {
+  border: none;
+  border-top: 1px solid #e5e7eb;
+  margin: 8px 0 18px;
+}
+
+/* dãy số câu hỏi trong review */
+#review-grid {
+  display: flex;
+  flex-wrap: wrap;        /* QUAN TRỌNG: cho phép xuống dòng */
+  justify-content: flex-start;
+  gap: 10px;               /* khoảng cách giữa các ô số */
+  max-width: 100%;
+  /* nhớ bỏ các dòng kiểu: white-space: nowrap; nếu đang dùng */
+}
+
+/* ============================
+   TOP TIMER BAR GIỐNG BLUEBOOK
+===============================*/
+#top-timer-bar {  
+  width: 100%;
+  height: 65px;
+  background: #eef2ff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+  box-sizing: border-box;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+
+  position: fixed;        /* giữ cố định */
+  /* thêm dòng này để có relative mà không phá fixed */
+  transform: translateZ(0);   /* trick giúp absolute hoạt động */
+}
+
+.top-bar-left,
+.top-bar-center,
+.top-bar-right {
+  display: flex;
+  align-items: center;
+}
+
+.top-bar-left,
+.top-bar-right {
+  flex: 1;
+}
+
+
+.top-bar-center {
+  flex: 0 1 auto;
+  justify-content: center;
+}
+
+.top-bar-right {
+  justify-content: flex-end;
+  gap: 12px;
+}
+
+
+#timer-title {
+  font-size: 15px;
+  font-weight: 700;
+  color: #000000;
+  font-family: "Noto Sans", system-ui, sans-serif !important;
+}
+
+#timer-value {
+  font-size: 20px;
+  font-weight: 600;
+  color: #000000;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.top-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.top-bar-left {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+/* Directions button */
+.direction-btn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+
+  background: none;
+  border: none;
+  padding: 0;
+  margin : 0;
+
+  font-size: 13px;
+  font-weight: 500;
+  color: #000000;
+
+  cursor: pointer;
+  margin-top : 4px;
+}
+
+/* Text */
+.direction-text {
+  line-height: 1;
+  font-family: "Noto Sans", system-ui, sans-serif !important;
+  margin-top : -3px;
+  font-size : 12px;
+}
+
+/* Icon */
+.direction-icon {
+  width: 14px;
+  height: 14px;
+  stroke: #000000;
+  stroke-width: 2;
+  fill: none;
+  margin-top : -3px;
+}
+
+
+/* ĐẨY GIAO DIỆN XUỐNG DƯỚI THANH TIMER */
+body {
+  padding-top: 48px !important;
+}
+
+/*bookmark*/
+#mark-review-btn {
+  background: none;
+  border: none;
+  padding: 0;
+  font-weight : 100px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+}
+
+#mark-review-btn:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+#bookmark-icon {
+  border: none;
+  outline: none;
+  box-shadow: none;
+  display: inline-block;
+  background: none;
+}
+
+/* ===============================
+   BLUEBOOK MARK FOR REVIEW FIX
+   Giữ nguyên màu ô, chỉ thêm icon
+================================*/
+
+/* Tắt đổi màu ô khi mark */
+.highlight-toggle-btn.active {
+  border-radius: 10px;
+}
+.q-item.review {
+  background: inherit !important;
+  border: inherit !important;
+  color: inherit !important;
+  font-weight: inherit !important;
+}
+
+/* Cho phép overlay icon */
+.q-item {
+  position: relative;
+}
+
+/* Icon bookmark đỏ ở góc phải trên */
+.q-item.marked::after {
+  content: "";
+  position: absolute;
+  top: -4px;
+  right: -4px;
+  width: 16px;
+  height: 20px;
+  background-image: url("/bookmark/bookmark-outline-red.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+
+/* ===============================
+   REVIEW PAGE (các ô số câu)
+================================*/
+
+.review-box {
+  position: relative;
+}
+
+.review-box.marked::after {
+  content: "";
+  position: absolute;
+  top: -4px;
+  right: -4px;
+  width: 16px;
+  height: 20px;
+  background-image: url("/bookmark/bookmark-outline-red.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+/* Không đổi màu ô trong review page */
+.review-box.review {
+  background: inherit !important;
+  border: inherit !important;
+  color: inherit !important;
+}
+
+/* CUT ROUNDED CORNER FOR ANSWERED + MARKED */
+.q-item.answered.marked::before,
+.review-box.answered.marked::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+
+  width: 13px;   /* kích thước vùng bo cong */
+  height: 13px;
+
+  /* bo cong góc */
+  background: #f9fafb;         /* màu nền popup */
+  border-top-right-radius: 8px;
+  border-bottom-left-radius: 22px;
+
+  z-index: 0; /* nằm dưới icon bookmark */
+}
+
+.q-item.current,
+.q-item.answered,
+.q-item.unanswered,
+.review-box,
+.review-box.answered,
+.review-box.unanswered {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.question-image-wrapper {
+  margin: 16px 0;
+  text-align: center;
+}
+
+.question-image-wrapper.hidden {
+  display: none;
+}
+
+.question-image {
+  max-width: 100%;
+  height: auto;
+  /* nếu muốn hạn chế chiều cao: */
+  /* max-height: 350px; */
+}
+
+mark.highlight {
+  color: inherit;
+  border-radius: 0.22em;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+mark.highlight-yellow {
+  background: #fef08a;
+}
+
+mark.highlight-blue {
+  background: #bfdbfe;
+}
+
+mark.highlight-pink {
+  background: #fbcfe8;
+}
+
+/* Đảm bảo nội dung passage không bị thanh footer che mất */
+#passage {
+  padding-top : 30px;
+  padding-left : 40px;
+  padding-right : 40px;
+  padding-bottom: 100px;  /* số px ≈ chiều cao thanh footer (có thể chỉnh 80/90/110 tuỳ thực tế) */
+  box-sizing: border-box;
+}
+
+.choice b {
+  font-family: "Noto Sans", system-ui, sans-serif;
+}
+
+
+/* Cho ảnh và text tách nhau một chút */
+.question-image-wrapper {
+  margin-bottom: 12px;
+}
+
+/* ===========================
+   SAVE & EXIT BUTTON (NEW)
+=========================== */
+
+.save-exit {
+  background: #3b5bdb;        /* màu xanh giống hình */
+  color: white;
+  border: none;
+  padding: 9px 22px;          /* chỉnh cho nút gọn và cân */
+  font-size: 14px;
+  font-weight: 600;
+  border-radius: 999px;       /* bo tròn kiểu pill */
+  cursor: pointer;
+
+}
+
+.save-exit:hover {
+  background: #364fc7;        /* đậm hơn nhẹ khi hover */
+}
+
+/* BUTTON ICON + TEXT VERTICAL */
+.save-exit-btn {
+  background: none;
+  border: none;
+  padding: 6px 8px;
+  cursor: pointer;
+
+  display: flex;
+  flex-direction: column;      /* icon trên – text dưới */
+  align-items: center;
+  gap: 4px;
+
+  font-family: "Noto Sans", system-ui, sans-serif;
+  color: #000000;
+  font-size: 12.5px;
+  font-weight: 600;
+
+}
+
+.save-exit-btn {
+  background: none;
+  border: none;
+  padding: 4px 6px;
+  cursor: pointer;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1px;              /* ⭐ khoảng cách icon – text (sát nhất) */
+
+  font-family: "Noto Sans", system-ui, sans-serif;
+  color: #111;
+  font-size: 11.5px;
+  font-weight: 500;
+}
+
+.save-exit-icon {
+  width: 26px;           /* bạn có thể chỉnh kích thước icon */
+  height: 26px;
+  object-fit: contain;
+}
+
+.save-exit-btn:active {
+  opacity: 0.6;
+  transform: translateY(0);
+}
+
+/* ===== Directions Overlay ===== */
+.overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+  z-index: 9999;
+
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.overlay.hidden {
+  display: none;
+}
+
+.directions-panel {
+  background: #fff;
+  width: 680px;
+  max-width: 90vw;
+  height: 420px;
+
+  margin-top: 72px;
+  margin-left: 32px;
+
+  padding: 24px 28px;
+  border-radius: 6px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.directions-content {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #222;
+}
+
+.close-btn {
+  align-self: flex-end;
+  background: #ffcc00;
+  border: none;
+  border-radius: 999px;
+  padding: 8px 18px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+
+
+
+/* Wrapper giữ trục trái DUY NHẤT */
+.section-stack {
+  display: grid;
+  grid-template-columns: 1fr;   /* 🔑 1 cột duy nhất */
+}
+
+/* Title */
+#timer-title {
+  margin: 0;
+  padding: 0;
+
+  font-size: 16px;
+  font-weight: 600;
+  color: #000000;
+}
+
+/* Directions button */
+.direction-btn {
+  all: unset;                  /* 🔥 reset toàn bộ style button */
+  cursor: pointer;
+
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-content: start;       /* 🔑 neo trái tuyệt đối */
+  align-items: center;
+  column-gap: 4px;
+}
+
+/* Text luôn là cột 1 → mép trái giống title */
+.direction-label {
+  font-size: 13px;
+  font-weight: 500;
+  color: #000000;
+}
+
+/* Icon nằm cột 2, KHÔNG ảnh hưởng mép trái */
+.direction-icon {
+  width: 14px;
+  height: 14px;
+  margin-top : 2px;
+  stroke: #000000;
+  stroke-width: 2;
+  fill: none;
+}
+
+.top-bar-left {
+  flex: 0 0 500px;
+}
+
+.timer-stack {
+  position: absolute;        /* 🔑 cùng anchor với timer */
+  left: 50%;
+  top: 7px;                 /* chỉnh theo top bar của bạn */
+  transform: translateX(-50%);
+  text-align: center;
+}
+
+/* GIỮ NGUYÊN */
+#timer-value {
+  font-size: 19px;
+  font-weight: 600;
+  color: #000;
+}
+
+/* Nút nằm dưới */
+.timer-toggle {
+  margin-top: 30px;
+  background: none;
+  border: none;
+  padding: 0;
+
+  font-size: 12px;
+  color: #1a73e8; 
+  cursor: pointer;
+}
+
+.timer-toggle {
+  font-family: "Noto Sans", system-ui, sans-serif !important;
+  box-sizing: border-box;   /* 🔑 QUAN TRỌNG */
+  font-size: 12px;
+  font-weight: 500;
+  padding: 1px 10px;
+  border-radius: 999px;
+
+  background: transparent;
+  border: 1px solid #000;
+  color: #000;
+
+  cursor: pointer;
+  line-height: 1.2;
+}
+
+#timer-value {
+  white-space: nowrap;   /* 🔥 QUAN TRỌNG */
+}
+
+.top-bar-left {
+  flex: 0 0 500px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding-left: 16px;   /* ⭐ chỉnh số này */
+  font-family: "Noto Sans", system-ui, sans-serif;
+}
+
+.section-stack {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.calculator-btn {
+  background: none;
+  border: none;
+  padding: 4px 6px;
+  cursor: pointer;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1px;
+
+  font-family: "Noto Sans", system-ui, sans-serif !important;
+  color: #000000;
+  font-size: 11.5px;
+  font-weight: 500;
+
+}
+
+.calculator-btn:active {
+  opacity: 0.6;
+  transform: translateY(0);
+}
+
+.calculator-icon {
+  width: 26px;
+  height: 26px;
+  object-fit: contain;
+}
+
+.calculator-panel {
+  position: fixed;
+  top: 82px;
+  right: 24px;
+  width: 400px;
+  height: 640px;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.12);
+  z-index: 3000;
+  padding: 10px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.calculator-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 12px;
+  font-weight: 600;
+  color: #f9fafb;
+  background: #111827;
+  border-radius: 10px;
+  padding: 6px 8px;
+  margin-bottom: 6px;
+  cursor: move;
+  user-select: none;
+}
+
+.calculator-title {
+  font-weight: 600;
+}
+
+.calculator-controls {
+  display: flex;
+  gap: 6px;
+}
+
+.calculator-control {
+  background: #1f2937;
+  border: none;
+  color: #f9fafb;
+  width: 26px;
+  height: 26px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.15s ease, transform 0.15s ease;
+}
+
+.calculator-control:hover {
+  background: #374151;
+  transform: translateY(-1px);
+}
+
+.calculator-control:active {
+  transform: translateY(0);
+}
+
+.desmos-calculator {
+  width: 100%;
+  height: calc(100% - 22px);
+}
+
+.math-grid-directions {
+  font-family: "Noto Serif", system-ui, serif;
+  color: #111827;
+}
+
+.math-grid-directions h2 {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 10px 0 16px;
+}
+
+.math-grid-directions ul {
+  padding-left: 22px;
+  margin: 0 0 20px;
+}
+
+.math-grid-directions li {
+  margin-bottom: 5px;
+  margin-left: 20px;
+  font-size : 14px; 
+}
+
+.math-grid-table {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom : 50px;
+}
+
+body.math-grid {
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  body.mobile-single-pane {
+    font-size: 18px;
+  }
+
+  body.mobile-single-pane #container {
+    display: block;
+    height: calc(100% - 48px);
+  }
+
+  body.mobile-single-pane #left-pane {
+    display: none;
+  }
+
+  body.mobile-single-pane #right-pane {
+    width: 100%;
+    padding: 24px 20px 120px;
+  }
+
+  .math-grid-table {
+    display: none;
+  }
+
+  #mobile-merged-pane {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #d4d4d8;
+    padding-bottom: 16px;
+  }
+
+  body.mobile-single-pane #passage,
+  body.mobile-single-pane #question-text,
+  body.mobile-single-pane .choice span,
+  body.mobile-single-pane .math-grid-directions li {
+    font-size: 18px;
+    line-height: 1.7;
+  }
+
+  body.mobile-single-pane #passage {
+    padding: 8px 0 24px;
+  }
+
+  body.mobile-single-pane #question-header,
+  body.mobile-single-pane #header-dash,
+  body.mobile-single-pane #question-text,
+  body.mobile-single-pane .choice {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  body.mobile-single-pane .choice {
+    padding: 18px;
+    gap: 12px;
+  }
+
+  body.mobile-single-pane .choice-label {
+    width: 30px;
+    height: 30px;
+    font-size: 17px;
+  }
+
+  body.mobile-single-pane .eliminate-btn {
+    display : none;
+  }
+
+  body.mobile-single-pane #q-number-box {
+    height: 40px;
+    min-width: 28px;
+    font-size: 19px;
+  }
+
+  body.mobile-single-pane #mark-review-btn #mark-text {
+    font-size: 16px;
+  }
+
+  body.mobile-single-pane #top-timer-bar {
+    height: 78px;
+    padding: 0 14px;
+  }
+
+  body.mobile-single-pane .top-bar-left {
+    flex: 1 1 auto;
+    padding-left: 0;
+  }
+
+  body.mobile-single-pane #timer-title {
+    font-size: 14px;
+  }
+
+  body.mobile-single-pane #timer-value {
+    font-size: 24px;
+  }
+
+  body.mobile-single-pane .timer-toggle {
+    margin-top: 34px;
+    font-size: 13px;
+  }
+
+  body.mobile-single-pane .calculator-btn span,
+  body.mobile-single-pane .save-exit-btn span {
+    font-size: 13px;
+  }
+
+  body.mobile-single-pane #bottom-bar {
+    height: 72px;
+    padding: 0 14px;
+  }
+
+  body.mobile-single-pane #question-toggle-btn {
+    font-size: 15px;
+    padding: 10px 14px;
+  }
+
+  body.mobile-single-pane #back-btn,
+  body.mobile-single-pane #next-btn {
+    padding: 12px 20px;
+    font-size: 16px;
+  }
+
+  body.mobile-single-pane #bottom-bar > div {
+    right: 14px;
+  }
+
+  body.mobile-single-pane .calculator-panel {
+    top: 86px;
+    right: 12px;
+    left: 12px;
+    width: auto;
+    height: min(66vh, 560px);
+  }
+}
+
+@media (max-width: 768px) {
+
+  /* TOP BAR = 3 cột */
+  body.mobile-single-pane #top-timer-bar{
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    height: 70px;
+    padding: 0 12px;
+    box-sizing: border-box;
+    column-gap: 10px;
+  }
+
+  /* Bỏ tên test/section */
+  body.mobile-single-pane #timer-title{
+    display: none !important;
+  }
+
+  /* LEFT: Directions chỉ còn icon (mũi tên) */
+  body.mobile-single-pane .top-bar-left{
+    padding-left: 0 !important;
+    min-width: 0;
+  }
+
+  body.mobile-single-pane .direction-label{
+    display: none !important; /* ✅ bỏ chữ Directions */
+  }
+
+  body.mobile-single-pane .direction-btn{
+    width: 34px;
+    height: 34px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    display : none !important;
+  }
+
+  body.mobile-single-pane .direction-icon{
+    width: 18px !important;
+    height: 18px !important;
+    margin-top: 0 !important;
+    display : none !important;
+  }
+
+  /* TIMER giữa */
+  body.mobile-single-pane .top-bar-right{
+    display: contents; /* tách timer khỏi actions */
+  }
+
+  body.mobile-single-pane .timer-stack{
+    grid-column: 2;
+    justify-self: center;
+    position: static !important;
+    transform: none !important;
+    margin: 0 !important;
+    text-align: center;
+  }
+
+  body.mobile-single-pane #timer-value{
+    position: static !important;
+    transform: none !important;
+    font-size: 17px !important;
+    font-weight: 700;
+    line-height: 1;
+    white-space: nowrap;
+  }
+
+  body.mobile-single-pane .timer-toggle{
+    margin-top: 6px !important;
+    font-size: 11px !important;
+    padding: 2px 8px !important;
+    line-height: 1.1;
+  }
+
+  /* ACTIONS bên phải: đổi thứ tự Save&Exit sang trái */
+  body.mobile-single-pane .top-actions{
+    grid-column: 3;
+    justify-self: end;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  /* ✅ Save & Exit sang trái */
+  body.mobile-single-pane #save-exit-btn{ order: 1; }
+  body.mobile-single-pane #highlight-toggle-btn{ order: 2; }
+  body.mobile-single-pane #calculator-toggle-btn{ order: 3; }
+
+  /* icon-only: ẩn chữ */
+  body.mobile-single-pane .calculator-btn span,
+  body.mobile-single-pane .save-exit-btn span{
+    display: none !important;
+  }
+
+  body.mobile-single-pane .calculator-btn,
+  body.mobile-single-pane .save-exit-btn{
+    padding: 2px 4px !important;
+    gap: 0 !important;
+  }
+
+  body.mobile-single-pane .calculator-icon,
+  body.mobile-single-pane .save-exit-icon{
+    width: 24px !important;
+    height: 24px !important;
+  }
+}
+
+@media (max-width: 360px){
+  body.mobile-single-pane #timer-value{
+    font-size: 16px !important;
+  }
+}
+
+
+@media (max-width: 768px) {
+
+  /* =========================
+     1) GLOBAL: chống tràn ngang
+  ========================== */
+  body.mobile-single-pane{
+    overflow-x: hidden;
+  }
+
+  body.mobile-single-pane #passage,
+  body.mobile-single-pane #question-text,
+  body.mobile-single-pane .choice,
+  body.mobile-single-pane .choice span,
+  body.mobile-single-pane .math-grid-directions,
+  body.mobile-single-pane #mark-review-btn,
+  body.mobile-single-pane #question-header,
+  body.mobile-single-pane #question-content{
+    max-width: 100%;
+    box-sizing: border-box;
+    overflow-wrap: anywhere;  /* bẻ dòng với chuỗi dài */
+    word-break: break-word;
+  }
+
+  /* ảnh cũng không vượt khung */
+  body.mobile-single-pane .question-image{
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* =========================
+     2) SPACING: margin trái phải
+  ========================== */
+  /* dùng padding “an toàn” thay vì margin để không ảnh hưởng width */
+  body.mobile-single-pane #right-pane{
+    width: 100%;
+    padding: 18px 14px 120px !important;
+  }
+
+  body.mobile-single-pane #left-pane{
+    padding: 18px 14px 120px !important;
+  }
+
+  /* Passage và Question text có “lề” rõ hơn */
+  body.mobile-single-pane #passage{
+    padding: 14px 14px 120px !important; /* có lề trái phải */
+    margin: 0 !important;
+  }
+
+  body.mobile-single-pane #question-content{
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  body.mobile-single-pane #question-text{
+    margin: 14px 0 14px !important;
+    padding: 0 !important;
+  }
+
+  /* Header (ô số + mark review) không sát mép */
+  body.mobile-single-pane #question-header,
+  body.mobile-single-pane #header-dash{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  /* =========================
+     3) FONT: nhỏ lại đồng bộ
+  ========================== */
+  /* Base reading text */
+  body.mobile-single-pane #passage,
+  body.mobile-single-pane #question-text,
+  body.mobile-single-pane .choice span,
+  body.mobile-single-pane .math-grid-directions li{
+    font-size: clamp(14px, 3.6vw, 15.5px) !important;
+    line-height: 1.65 !important;
+  }
+
+  /* Choice label (A/B/C/D) + number box nhỏ vừa */
+  body.mobile-single-pane .choice-label{
+    width: 26px !important;
+    height: 26px !important;
+    font-size: 13px !important;
+  }
+
+  body.mobile-single-pane #q-number-box{
+    height: 34px !important;
+    min-width: 22px !important;
+    font-size: 15px !important;
+  }
+
+  body.mobile-single-pane #mark-review-btn #mark-text{
+    font-size: 13px !important;
+  }
+
+  /* =========================
+     4) MULTIPLE CHOICE: không tràn + dễ đọc
+  ========================== */
+  body.mobile-single-pane .choice{
+    margin: 0 0 12px 0 !important;   /* bỏ margin 30px cũ */
+    padding: 14px 14px !important;
+    gap: 10px !important;
+    border-radius: 12px;
+  }
+
+  /* text trong choice co giãn tốt, không đè nút */
+  body.mobile-single-pane .choice-text{
+    min-width: 0;               /* quan trọng để ellipsis/wrap hoạt động */
+    flex: 1 1 auto;
+  }
+
+  body.mobile-single-pane .choice-text > span{
+    min-width: 0;
+  }
+
+  /* nút eliminate (nếu có) không làm tràn */
+  body.mobile-single-pane .eliminate-btn{
+    flex: 0 0 auto;
+    width: 30px;
+    height: 30px;
+    padding: 0;
+  }
+
+  /* =========================
+     5) Mark for Review panel / popup grid (nếu dùng trên mobile)
+  ========================== */
+  body.mobile-single-pane #question-popover{
+    left: 50%;
+    transform: translateX(-50%);
+    width: calc(100vw - 24px);
+    max-width: 420px;
+  }
+
+  body.mobile-single-pane .popover-content{
+    width: 100% !important;
+    padding: 16px !important;
+    box-sizing: border-box;
+  }
+
+  body.mobile-single-pane .popover-header{
+    font-size: 14px !important;
+  }
+
+  body.mobile-single-pane .legend{
+    font-size: 12px !important;
+    gap: 14px !important;
+  }
+
+  body.mobile-single-pane #question-grid{
+    gap: 6px !important;
+  }
+
+  body.mobile-single-pane .q-item{
+    width: 34px;
+    height: 34px;
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 768px) {
+
+  /* 0) Khóa tràn ngang toàn trang */
+  html, body{
+    overflow-x: hidden !important;
+  }
+
+  /* 1) Gutter chuẩn 2 bên */
+  body.mobile-single-pane{
+    --gutter: 14px;
+  }
+
+  /* 2) Ép toàn bộ pane có padding 2 bên, và mọi con không được vượt */
+  body.mobile-single-pane #left-pane,
+  body.mobile-single-pane #right-pane{
+    width: 100% !important;
+    padding-left: var(--gutter) !important;
+    padding-right: var(--gutter) !important;
+    box-sizing: border-box !important;
+  }
+
+  /* 3) Các khối nội dung chính: KHÔNG được tự margin/padding làm tràn */
+  body.mobile-single-pane #passage,
+  body.mobile-single-pane #question-content,
+  body.mobile-single-pane #question-text,
+  body.mobile-single-pane #choices,
+  body.mobile-single-pane #question-header,
+  body.mobile-single-pane #header-dash{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  /* passage trước đó bạn set padding lớn -> giờ dùng gutter đồng nhất */
+  body.mobile-single-pane #passage{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  /* 4) Choices: tránh 100% + border/padding gây vượt */
+  body.mobile-single-pane .choice{
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    box-sizing: border-box !important;
+  }
+
+  /* 5) Mọi phần tử con: không vượt viewport */
+  body.mobile-single-pane *{
+    box-sizing: border-box !important;
+    max-width: 100%;
+  }
+
+  /* 6) Chuỗi dài vẫn bẻ dòng */
+  body.mobile-single-pane #passage,
+  body.mobile-single-pane #question-text,
+  body.mobile-single-pane .choice span{
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+
+  /* 7) Ảnh / SVG không tràn */
+  body.mobile-single-pane img,
+  body.mobile-single-pane svg{
+    max-width: 100% !important;
+    height: auto;
+  }
+}
+
+
+@media (max-width: 768px) {
+
+  /* =========================
+     1) BỎ horizontal line
+  ========================== */
+
+  /* line ngăn cách passage / question (thường là border-bottom của #mobile-merged-pane) */
+  body.mobile-single-pane #mobile-merged-pane{
+    border-bottom: none !important;
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+  }
+
+  /* nếu line là <hr> */
+  body.mobile-single-pane hr{
+    display: none !important;
+  }
+
+  /* =========================
+     2) BỎ khoảng trắng thừa giữa passage và question
+  ========================== */
+
+  /* passage của bạn đang có padding-bottom:100px (desktop) -> mobile giảm mạnh */
+  body.mobile-single-pane #passage{
+    padding-bottom: 12px !important;  /* ✅ đừng để 100px */
+    margin-bottom: 0 !important;
+  }
+
+  /* nếu left-pane có padding-bottom lớn */
+  body.mobile-single-pane #left-pane{
+    padding-bottom: 12px !important;
+  }
+
+  /* question header & content không tự tạo khoảng trắng */
+  body.mobile-single-pane #question-header{
+    margin-top: 10px !important;
+  }
+
+  body.mobile-single-pane #question-text{
+    margin-top: 10px !important;
+  }
+
+  /* right-pane đang có ::after height 110px để tránh footer -> mobile giảm */
+  body.mobile-single-pane #right-pane::after{
+    height: 70px !important; /* ✅ đủ tránh bottom bar nhưng không tạo khoảng trắng quá nhiều */
+  }
+}
+
+@media (max-width: 768px) {
+
+  /* Right pane thành 1 cột và cho phép reorder */
+  body.mobile-single-pane #right-pane{
+    display: flex !important;
+    flex-direction: column !important;
+  }
+
+  /* Header lên đầu */
+  body.mobile-single-pane #question-header{ order: 1; }
+  body.mobile-single-pane #header-dash{ order: 2; }
+
+  /* Nếu bạn có "pane merge" (passage/ảnh được append vào đây) */
+  body.mobile-single-pane #mobile-merged-pane{ order: 3; }
+
+  /* Question text + choices xuống sau */
+  body.mobile-single-pane #question-content{ order: 4; }
+
+  /* Nếu ảnh được render dạng wrapper (ở đâu cũng không tràn) */
+  body.mobile-single-pane .question-image-wrapper{
+    order: 2; /* đảm bảo ảnh nằm ngay sau header nếu nó là con trực tiếp trong flex */
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+
+  /* 1) Mobile: body không scroll, scroll nằm trong right-pane */
+  body.mobile-single-pane{
+    overflow: hidden !important;
+    height: 100dvh;
+  }
+
+  /* 2) Container cao đúng: trừ top bar (70px) + bottom bar (72px) */
+  body.mobile-single-pane #container{
+    height: calc(100dvh - 70px - 72px) !important;
+    margin-top: 70px; /* nếu bạn đang dùng padding-top kiểu khác thì bỏ dòng này */
+  }
+
+  /* Nếu bạn vẫn dùng body padding-top:48px ở global, ép lại cho mobile */
+  body.mobile-single-pane{
+    padding-top: 0 !important;
+  }
+
+  /* 3) Right pane là nơi scroll duy nhất */
+  body.mobile-single-pane #right-pane{
+    height: 100% !important;
+    overflow-y: auto !important;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 110px !important; /* chừa để choice cuối không bị bottom bar che */
+  }
+
+  /* 4) Tắt khoảng đệm “fake” gây tính sai chiều cao */
+  body.mobile-single-pane #right-pane::after{
+    display: none !important;
+  }
+}
+
+@media (max-width: 768px){
+
+  /* Bottom bar responsive, KHÔNG absolute */
+  body.mobile-single-pane #bottom-bar{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    gap: 10px;
+
+    height: 72px !important;
+    padding: 0 12px !important;
+    box-sizing: border-box;
+  }
+
+  /* Tắt absolute cũ gây chồng */
+  body.mobile-single-pane #bottom-bar > div{
+    position: static !important;
+    right: auto !important;
+    display: flex !important;
+    gap: 10px;
+    align-items: center;
+  }
+
+  /* Nút đen: co giãn, không tràn */
+  body.mobile-single-pane #question-toggle-btn{
+    flex: 1 1 auto !important;
+    min-width: 0 !important;               /* 🔑 để ellipsis hoạt động */
+    max-width: 100% !important;
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    height: 44px;                          /* thẳng hàng */
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* Back/Next: không bị co, luôn nằm bên phải */
+  body.mobile-single-pane #back-btn,
+  body.mobile-single-pane #next-btn{
+    flex: 0 0 auto !important;
+    height: 44px;
+    padding: 0 16px;
+    font-size: 13px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+/* máy rất nhỏ: thu padding để không chật */
+@media (max-width: 360px){
+  body.mobile-single-pane #bottom-bar{ gap: 8px; padding: 0 10px !important; }
+  body.mobile-single-pane #back-btn,
+  body.mobile-single-pane #next-btn{ padding: 0 12px; font-size: 12px; }
+  body.mobile-single-pane #question-toggle-btn{ font-size: 12px; padding: 0 12px; }
+}
+
+.highlight-menu{ gap: 5px; padding: 5px 7px; border-radius: 30px; }
+.highlight-action{ min-width: 30px; height: 30px; padding: 0 8px; font-size: 11px; border-width: 1px; }
+.highlight-options{ gap: 5px; }
+.highlight-action.erase-action{ min-width: 30px; height: 30px; border-radius: 30px; }
+
+
+/* Hover: làm highlight đậm hơn */
+mark.highlight-yellow:hover { background: #fde047; } /* đậm hơn #fef08a */
+mark.highlight-blue:hover   { background: #93c5fd; } /* đậm hơn #bfdbfe */
+mark.highlight-pink:hover   { background: #f9a8d4; } /* đậm hơn #fbcfe8 */
+
+/* (tuỳ chọn) mượt hơn khi hover */
+mark.highlight{
+  transition: background-color 0.12s ease;
+}
+
+/* 1) Tắt hiệu ứng “nhảy lên” + đổi màu chung */
+.highlight-action:hover{
+  transform: none !important;
+  border-color: inherit !important;
+  background: inherit !important;
+}
+
+/* 2) Hover theo từng màu: chỉ đậm hơn */
+.highlight-action.color-yellow:hover{
+  background: #fde68a !important;   /* đậm hơn #fef3c7 */
+  border-color: #d97706 !important; /* đậm hơn #f59e0b */
+}
+
+.highlight-action.color-blue:hover{
+  background: #bfdbfe !important;   /* đậm hơn #dbeafe */
+  border-color: #2563eb !important; /* đậm hơn #3b82f6 */
+}
+
+.highlight-action.color-pink:hover{
+  background: #fbcfe8 !important;   /* đậm hơn #fce7f3 */
+  border-color: #db2777 !important; /* đậm hơn #f472b6 */
+}
+
+/* 3) Hover nút Erase: chỉ đậm hơn */
+.highlight-action.erase-action:hover{
+  background: #ffe4e6 !important;   /* đậm hơn #fff1f2 */
+  border-color: #fb7185 !important; /* đậm hơn #fecaca */
+  color: #be123c !important;        /* giữ nguyên */
+}
+
+/* ERASE button = circle like icon-only buttons */
+.highlight-action.erase-action{
+  width: 30px !important;
+  height: 30px !important;
+  min-width: 30px !important;
+
+  padding: 0 !important;          /* 🔑 bỏ padding để không thành pill */
+  border-radius: 999px !important;/* 🔑 tròn tuyệt đối */
+
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+
+  background: #fff !important;
+  border: 1.5px solid #d4d4d8 !important;
+}
+
+/* Icon trong nút */
+.highlight-action.erase-action::before{
+  content: "";
+  width: 18px;
+  height: 18px;
+  display: inline-block;
+
+  background-image: url("/images/trash.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+/* Hover: chỉ đậm hơn nhẹ, không nhảy, không đổi màu khác */
+.highlight-action.erase-action:hover{
+  transform: none !important;
+  background: #f3f4f6 !important;
+  border-color: #9ca3af !important;
+}
+
+/* =========================
+   TOP BAR RIGHT ACTIONS: nhỏ hơn + đậm hơn chút
+========================= */
+.top-actions .save-exit-btn,
+.top-actions .calculator-btn,
+.top-actions #highlight-toggle-btn{
+  padding: 3px 4px;        /* nhỏ lại */
+  gap: 1px;
+  font-size: 10.5px;         /* nhỏ lại */
+  font-weight: 500;        /* đậm hơn chút */
+}
+
+/* icon nhỏ lại */
+.top-actions .save-exit-icon,
+.top-actions .calculator-icon,
+.top-actions #highlight-toggle-btn img,
+.top-actions #highlight-toggle-btn svg{
+  width: 18px;
+  height: 18px;
+}
+
+/* nếu highlight button của bạn là button có text/icon */
+.top-actions #highlight-toggle-btn{
+  font-weight: 500;
+}
+
+.top-actions #highlight-toggle-btn{
+  margin-right : 4px;
+}
+
+/* mobile: nhỏ hơn nữa một chút */
+@media (max-width: 768px){
+  body.mobile-single-pane .top-actions .save-exit-btn,
+  body.mobile-single-pane .top-actions .calculator-btn,
+  body.mobile-single-pane .top-actions #highlight-toggle-btn{
+    padding: 2px 3px !important;
+    font-weight: 500 !important;
+  }
+
+  body.mobile-single-pane .top-actions .save-exit-icon,
+  body.mobile-single-pane .top-actions .calculator-icon,
+  body.mobile-single-pane .top-actions #highlight-toggle-btn img,
+  body.mobile-single-pane .top-actions #highlight-toggle-btn svg{
+    width: 20px !important;
+    height: 20px !important;
+  }
+}
+
+#mark-review-btn #mark-text{
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.1px;
+}
+
+
+
+
+
+
+
+

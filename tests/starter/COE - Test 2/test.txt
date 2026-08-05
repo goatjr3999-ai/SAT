@@ -1,0 +1,130 @@
+Question 1:
+[COE]
+Which finding from Granito and Alvarez’s research, if true, would most directly support their claim?
+
+Black beans (*Phaseolus vulgaris*) are a nutritionally dense food, but they are difficult to digest in part because of their high levels of soluble fiber and compounds like raffinose. They also contain antinutrients like tannins and trypsin inhibitors, which interfere with the body’s ability to extract nutrients from foods. In a research article, Marisela Granito and Glenda Alvarez from Simón Bolívar University in Venezuela claim that inducing fermentation of black beans using lactic acid bacteria improves the digestibility of the beans and makes them more nutritious.
+
+
+A. When cooked, fermented beans contained significantly more trypsin inhibitors and tannins but significantly less soluble fiber and raffinose than nonfermented beans.
+B. Fermented beans contained significantly less soluble fiber and raffinose than nonfermented beans, and when cooked, the fermented beans also displayed a significant reduction in trypsin inhibitors and tannins.
+C. When the fermented beans were analyzed, they were found to contain two microorganisms, Lactobacillus casei and Lactobacillus plantarum, that are theorized to increase the amount of nitrogen absorbed by the gut after eating beans.
+D. Both fermented and nonfermented black beans contained significantly fewer trypsin inhibitors and tannins after being cooked at high pressure.
+Answer: B
+
+Question 2:
+[COE]
+Which finding, if true, would most directly support Paredes’s argument?
+
+In the twentieth century, ethnographers made a concerted effort to collect Mexican American folklore, but they did not always agree about that folklore’s origins. Scholars such as Aurelio Espinosa claimed that Mexican American folklore derived largely from the folklore of Spain, which ruled Mexico and what is now the southwestern United States from the sixteenth to early nineteenth centuries. Scholars such as Américo Paredes, by contrast, argued that while some Spanish influence is undeniable, Mexican American folklore is mainly the product of the ongoing interactions of various cultures in Mexico and the United States.
+
+
+A. The folklore that the ethnographers collected included several songs written in the form of a décima, a type of poem originating in late sixteenth-century Spain.
+B. Much of the folklore that the ethnographers collected had similar elements from region to region.
+C. Most of the folklore that the ethnographers collected was previously unknown to scholars.
+D. Most of the folklore that the ethnographers collected consisted of corridos—ballads about history and social life—of a clearly recent origin.
+Answer: D
+
+Question 3:
+[COE]
+Which finding from the study, if true, would most directly weaken the potential explanation?
+
+Many governments that regularly transfer money to individuals—to provide supplemental incomes for senior citizens, for example—have long done so electronically, but other countries typically have distributed physical money and have only recently developed electronic transfer infrastructure. Researchers studied the introduction of an electronic transfer system in one such location and found that recipients of electronic transfers consumed a different array of foods than recipients of physical transfers of the same amount did. One potential explanation for this result is that individuals conceive of and allocate funds in physical money differently than they conceive of and allocate funds in electronic form.
+
+
+A. Recipients of electronic transfers typically spent their funds at a slower rate than recipients of physical transfers did.
+B. Nearly every recipient of an electronic transfer withdrew the entire amount in physical money shortly after receiving the transfer.
+C. Recipients of physical transfers tended to purchase food about as frequently as recipients of electronic transfers did.
+D. Some recipients of physical transfers received small amounts of money relatively frequently, while others received large amounts relatively infrequently.
+Answer: B
+
+Question 4:
+[COE]
+Which finding, if true, would most directly challenge the second research team's conclusion?
+
+Callie W. Babbitt, Hema Madaka, and colleagues assembled a database of materials used in consumer electronics by studying products in the lab and by gathering data from similar product studies. The team gave each of these studies a rating for level of traceability (with a higher rating for clearer descriptions of procedures) and for level of consistency (for greater consistency with other literature citing sources of materials categories more closely aligned with the categories in the team's database). Based on these ratings, a second research team concluded that the methodology was better explained in a study by Greg L. Kozak and Greogary A. Keoleian than it was in a study by Perrine Chancerel and Susanne Rotter.
+
+
+A. The study by Chancerel and Rotter had a medium consistency rating and a medium traceability rating.
+B. The study by Kozak and Keoleian had a lower consistency rating than the study by Chancerel and Rotter did.
+C. The study by Kozak and Keoleian had a high consistency rating and a high traceability rating.
+D. The study by Kozak and Keoleian had a lower traceability rating than the study by Chancerel and Rotter did.
+Answer: D
+
+Question 5:
+[COE]
+Which quotation from the interviews best illustrates the journalist’s claim?
+
+Art collectives, like the United States- and Vietnam-based collective The Propeller Group or Cuba’s Los Carpinteros, are groups of artists who agree to work together—perhaps for stylistic reasons, or to advance certain shared political ideals, or to help mitigate the costs of supplies and studio space. Regardless of the reasons, art collectives usually involve some collaboration among the artists. Based on a recent series of interviews with various art collectives, an arts journalist claims that this can be difficult for artists who are often used to having sole control over their work.
+
+
+A. “The first collective I joined included many amazingly talented artists, and we enjoyed each other’s company, but because we had a hard time sharing credit and responsibility for our work, the collective didn’t last.”
+B. “We work together, but that doesn’t mean that individual projects are equally the work of all of us. Many of our projects are primarily the responsibility of whoever originally proposed the work to the group.”
+C. “Having worked as a member of a collective for several years, it’s sometimes hard to recall what it was like to work alone without the collective’s support. But that support encourages my individual expression rather than limits it.”
+D. “Sometimes an artist from outside the collective will choose to collaborate with us on a project, but all of those projects fit within the larger themes of the work the collective does on its own.”
+Answer: A
+
+Question 6:
+[COE]
+Which finding about the remote-sensing images, if true, would most directly support Prümers and colleagues’ conclusion?
+
+Archaeologists have held that the Casarabe culture, which emerged in the southwestern Amazon basin in the first millennium CE, was characterized by a sparse, widely distributed population and little intervention in the surrounding wilderness. Recently, however, archaeologist Heiko Prümers and colleagues conducted a study of the region using remote-sensing technology that enabled them to create three-dimensional images of the jungle-covered landscape from above, and the researchers concluded that the Casarabe people developed a form of urbanism in the Amazon basin.
+
+
+A. They show shapes consistent with widely separated settlements of roughly equal small size surrounded by uncultivated jungle.
+B. They show shapes consistent with long-distance footpaths running from Casarabe territories to large cities outside the region inhabited by the Casarabe people.
+C. They show shapes consistent with scattered small farms created by clearing jungle areas near sources of fresh water.
+D. They show shapes consistent with monumental platforms and dense central settlements linked to smaller settlements by a system of canals and roadways.
+Answer: D
+
+Question 7:
+[COE]
+Which quotation from a translation of The Poet Walt Whitman most effectively illustrates the claim?
+
+*"The Poet Walt Whitman"* is an 1887 essay by José Martí, a Cuban author and political activist, originally written in Spanish. In the essay, Martí explores the value of literature, arguing that a society’s spiritual well-being depends on the character of its literary culture.
+
+
+A. “Poetry, which brings together or separates, which fortifies or brings anguish, which shores up or demolishes souls, which gives or robs men of faith and vigor, is more necessary to a people than industry itself, for industry provides them with a means of subsistence, while literature gives them the desire and strength for life.”
+B. “Every society brings to literature its own form of expression, and the history of the nations can be told with greater truth by the stages of literature than by chronicles and decades.”
+C. “Where will a race of men go when they have lost the habit of thinking with faith about the scope and meaning of their actions? The best among them, those who consecrate Nature with their sacred desire for the future, will lose, in a sordid and painful annihilation, all stimulus to alleviate the ugliness of humanity.”
+D. “Listen to the song of this hardworking and satisfied nation; listen to Walt Whitman. The exercise of himself exalts him to majesty, tolerance exalts him to justice, and order to joy.”
+Answer: A
+
+Question 8:
+[COE]
+Which finding, if true, would most strongly support the scholar’s claim?
+
+The novelist Toni Morrison was the first Black woman to work as an editor at the publishing company Random House, from 1967 to 1983. A scholar asserts that one of Morrison’s likely aims during her time as an editor was to strengthen the presence of Black writers on the list of Random House’s published authors.
+
+
+A. The percentage of authors published by Random House who were Black rose in the early 1970s and stabilized throughout the decade.
+B. Black authors who were interviewed in the 1980s and 1990s were highly likely to cite Toni Morrison’s novels as a principal influence on their work.
+C. The novels written by Toni Morrison that were published after 1983 sold significantly more copies and received wider critical acclaim than the novels she wrote that were published before 1983.
+D. Works that were edited by Toni Morrison during her time at Random House displayed stylistic characteristics that distinguished them from works that were not edited by Morrison.
+Answer: A
+
+Question 9:
+[COE]
+Which quotation from a historian best supports the student's claim?
+
+A student is writing a research paper on the history of irrigation in the southwestern United States, situating the development of Lake Sherwood (a man-made body of water created in Ventura County, California, in 1904) in a larger historical context. The student claims that some modern-day irrigation methods used in southwestern States, such as California, Arizona, and New Mexico, have a lineage that long predates the completion of Lake Sherwood.
+
+
+A. The irrigation system developed by the Hohokam people in what is now central Arizona in the 7th century CE was simple but made use of hydraulic engineering design principles that are still utilized by today's engineers.”
+B. "In the decades following the Second World War, irrigation of arid areas for agriculture increased to such a degree that it now accounts for roughly 70% of the world's water usage.”
+C. “Sprinkler irrigation systems, which were developed in the late 20th century, are currently irrigated by this method.
+D. The importance of the development of irrigation infrastructure in the American Southwest today cannot be overstated, since it is the most common means of conveying water for food production.”
+Answer: A
+
+Question 10:
+[COE]
+Which finding, if true, would most directly support the researchers’ hypothesis?
+
+In the mountains of Brazil, *Barbacenia tomentosa* and *Barbacenia macrantha*—two plants in the Velloziaceae family—establish themselves on soilless, nutrient-poor patches of quartzite rock. Plant ecologists Anna Abrahão and Patricia de Britto Costa used microscopic analysis to determine that the roots of *B. tomentosa* and *B. macrantha*, which grow directly into the quartzite, have clusters of fine hairs near the root tip; further analysis indicated that these hairs secrete both malic and citric acids. The researchers hypothesize that the plants depend on dissolving underlying rock with these acids, as the process not only creates channels for continued growth but also releases phosphates that provide the vital nutrient phosphorus.
+
+
+A. Other species in the Velloziaceae family are found in terrains with more soil but have root structures similar to those of B. tomentosa and B. macrantha.
+B. Though B. tomentosa and B. macrantha both secrete citric and malic acids, each species produces the acids in different proportions.
+C. The roots of B. tomentosa and B. macrantha carve new entry points into rocks even when cracks in the surface are readily available.
+D. B. tomentosa and B. macrantha thrive even when transferred to the surfaces of rocks that do not contain phosphates.
+Answer: C
+

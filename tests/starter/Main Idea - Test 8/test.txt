@@ -1,0 +1,148 @@
+Question 1:
+[Structure]
+Which choice best states the main idea of the text?
+
+NASA’s Aspera mission, led by Carlos Vargas, will investigate the circumgalactic medium (CGM), the huge swaths of low-density gas that fill and surround galaxies. Specifically, the team will focus on portions of the gas that exist in a “warm-hot” phase: these portions haven’t previously been observable but are thought to fuel new star formation and hold most of the mass that makes up a galaxy. Using a telescope capable of revealing these parts of the CGM, the Aspera mission should help answer long-standing questions about how galaxies emerge, change, and even interact.
+
+
+A. As the leader of NASA’s Aspera mission, Vargas will be the first person to investigate the makeup of the CGM.
+B. Although galaxies that are surrounded by the CGM have been studied, researchers have been unable to directly observe low-density gas in the CGM in the “warm-hot” phase.
+C. Researchers don’t yet have a complete understanding of the process of galaxy evolution but have raised the possibility that galaxies interact with each other at times.
+D. The Aspera mission is expected to produce the first direct observations of CGM gas in the “warm-hot” phase, which likely has an important role in the evolution of galaxies.
+Answer: D
+
+Question 2:
+[Structure]
+Which choice best states the main idea of the text?
+
+The rocky surface of Mars, the fourth planet from the Sun, is marked by distinctive branching channels, a topic of much scientific debate. It is now claimed by researchers that the formation mechanism for these channels is mirrored by an astonishingly similar system in the Atacama Desert in Chile. In that location, ancient groundwater seeped up through faults in the rock and created underground rivers that subsequently eroded the overlying terrain, carving the surface downward into canyons as the subterranean flow continued. While Mars currently lacks significant atmospheric water, a comparable process could have been powered by the planet's vast, ancient aquifers.
+
+
+A. The channels on Mars and the canyons in the Atacama are thought by researchers to have been formed by a similar process, even though Mars, unlike the Atacama, lacks a significant water-based atmosphere.
+B. The key dissimilarity between the channels on Mars and the canyons in the Atacama is that, unlike the Martian channels, the Atacama canyons are branching.
+C. The canyon system discovered in the Atacama seems to predate the formation of the more recently studied channels on Mars.
+D. The reason Mars is marked by so many branching channels is not understood by researchers, given that the planet lacks surface water that could have seeped and eroded the terrain.
+Answer: A
+
+Question 3:
+[Structure]
+Which choice best states the main idea of the text?
+
+In many of his sculptures, artist Richard Hunt uses broad forms rather than extreme accuracy to hint at specific people or ideas. In his first major work, *Arachne* (1956), Hunt constructed the mythical character Arachne, a weaver who was changed into a spider, by welding bits of steel together into something that, although vaguely human, is strange and machine-like. And his large bronze sculpture *The Light of Truth* (2021) commemorates activist and journalist Ida B. Wells using mainly flowing, curved pieces of metal that create stylized flame.
+
+
+A. He often depicts the subjects of his sculptures using an unrealistic style.
+B. He uses different kinds of materials depending on what kind of sculpture he plans to create.
+C. He tends to base his art on important historical figures rather than on fictional characters.
+D. He has altered his approach to sculpture over time, and his works have become increasingly abstract.
+Answer: A
+
+Question 4:
+[Structure]
+Which choice best states the main idea of the text?
+
+To dye wool, Navajo (Dinē) weaver Lillie Taylor uses plants and vegetables from Arizona, where she lives. For example, she achieved the deep reds and browns featured in her 2003 rug *In the Path of the Four Seasons* by using Arizona food crops, drying and grinding them before mixing the powder with water to create a dye bath. To intensify the appearance of certain colors, Taylor also sometimes mixes in clay obtained from nearby soil.
+
+
+A. Reds and browns are not commonly featured in most of Taylor’s rugs.
+B. Taylor draws on local resources in the approach she uses to dye wool.
+C. Taylor finds it difficult to locate Arizona dock root in the desert.
+D. In the Path of the Four Seasons is widely acclaimed for its many colors and innovative weaving techniques.
+Answer: B
+
+Question 5:
+[COE]
+According to the text, what was an unexpected finding for the biologists analyzing the data from the Triton probe?
+
+New insights into bioluminescence in the Mariana Trench were recently gained from data collected by the Triton deep-sea probe. The data revealed the concentration of bioluminescent organisms into specific "hotspots," a finding that was surprising to marine biologists. A more uniform distribution of these organisms had been expected by the scientists due to the consistent darkness and immense pressure of the environment. It is now hypothesized that the creation of these localized ecosystems is due to nutrient-rich plumes emanating from hydrothermal vents on the seafloor.
+
+
+A. The water temperature near the hydrothermal vents was much higher than predicted.
+B. There were several undiscovered types of bioluminescent bacteria.
+C. The Triton probe collected more data than the scientists had anticipated.
+D. The bioluminescent life was concentrated in specific areas instead of being spread out evenly.
+Answer: D
+
+Question 6:
+[Structure]
+Which choice best states the main idea of the text?
+
+Plants use many complex strategies to achieve goals more effectively. Such goals include defending against herbivores, competing for sunlight, and supporting kin. For a long time, people thought complex communication was unique to animals. Research on acacia trees and other flora, though, has busted the myth that communication requires a brain or nervous system. Cleverly, acacia trees emit airborne chemicals to warn their neighbors of threats. Fungal networks in the soil also play a role. They can relay distress signals between trees, even those of different species.
+
+
+A. Unlike animals, acacia trees are exceptionally good at communicating with each other.
+B. There are many myths about plant communication that are being challenged by new research.
+C. Plants have difficulty communicating with one another.
+D. Contrary to long-held beliefs, complex communication isn't unique to animals.
+Answer: D
+
+Question 7:
+[COE]
+According to the text, what was surprising about the researchers' survey of the Cerberus Vent ecosystem?
+
+Using the deep-sea submersible Triton, a team of marine biologists surveyed the microbial ecosystem of ‘Cerberus Vent,’ one of the Mid-Atlantic Ridge’s hydrothermal fields (areas of intense geothermal activity). Surprisingly, the survey showed a microbial distribution with no discernible zonation or structure. The team had anticipated the ecosystem would be similar to the more structured communities found at other hydrothermal fields along the ridge.
+
+
+A. It showed less biodiversity than expected.
+B. It proved that previous biological surveys of the area were mistaken.
+C. It recorded microbial population densities similar to those of other hydrothermal fields.
+D. It revealed a microbial community that lacked a clear structure.
+Answer: D
+
+Question 8:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is adapted from Louise Erdrich’s 2020 novel *The Night Watchman.* Louis Pipestone is collecting signatures for a petition from fellow members of the Turtle Mountain Band of Chippewa on the tribe’s reservation in North Dakota.
+
+
+
+
+*"Louis Pipestone tended the petition like a garden. He kept it with him at all times. In town, his eyes sharpened when he noticed a tribal member who hadn’t yet signed. Wherever they were—at the gas pump, mercantile [general store], at Henry’s [Café], on the road, or outside the clinic and hospital—Louis cornered them. If they were waiting for a baby to be born, he’d have them sign. If they were laughing, if they were arguing. If they were taking a child home from school, they signed."*
+
+
+A. To suggest that some tribal members refuse to sign the petition because they dislike Louis Pipestone.
+B. To show that attitudes toward the petition within the tribal community change over time.
+C. To demonstrate that most tribal members are enthusiastic about signing the petition.
+D. To portray Louis Pipestone’s strong commitment to collecting signatures for the petition.
+Answer: D
+
+Question 9:
+[Structure]
+Which choice best states the main idea of the text?
+
+In present‐day Chiapas, Mexico, archaeologist Robert Rosenswig, remote‐sensing specialist Ricardo López‐Torrijos, and colleagues have located 41 smaller settlements surrounding the ancient Mesoamerican city of Izapa. The researchers have concluded that these settlements were culturally linked to Izapa because each of the settlements is the same age and configured in the same manner as Izapa, with a pyramid to the north and a plaza to the south. Their shared structural orientation suggests that residents of the settlements likely performed some of the same cultural ceremonies as residents in Izapa did.
+
+
+A. Researchers have determined that the arrangement of Izapa’s structures was based on those of other nearby settlements.
+B. Cultural ceremonies in Izapa seem to have played a more important role for its residents than those in smaller, surrounding settlements did.
+C. Although archaeologists have learned much about Izapa over years of research, they have only recently found the smaller settlements that surrounded it.
+D. Researchers have inferred that Izapa was related to the smaller settlements that surrounded it based in part on the similarity of their construction.
+Answer: D
+
+Question 10:
+[Structure]
+Which choice best states the main idea of the text?
+
+In West Africa, jalis have traditionally been keepers of information about family histories and records of important events. They have often served as teachers and advisers, too. New technologies may have changed some aspects of the role today, but jalis continue to be valued for knowing and protecting their peoples’ stories.
+
+
+A. Even though there have been some changes in their role, jalis continue to preserve their communities’ histories.
+B. Although jalis have many roles, many of them like teaching best.
+C. Jalis have been entertaining the people within their communities for centuries.
+D. Technology can now do some of the things jalis used to be responsible for.
+Answer: A
+
+Question 11:
+[Structure]
+Which choice best states the main idea of the text?
+
+Spanning nearly two thousand pages, The World at War, produced by Jeremy Isaacs, is presented as the "definitive, firsthand account" of the Second World War as experienced by those who lived it. The work's aim is comprehensiveness, for instance, by including testimony from soldiers, civilians, and political leaders from all major participating nations. Yet, while The World at War is undoubtedly an essential and powerful resource, it exhibits a weakness typical of such multi-voiced historical projects: the absence of a single, unifying authorial perspective that could connect the disparate memories into a cohesive narrative.
+
+
+A. The producers of The World at War had ambitious goals for their history, but the final version neglects to cover several major battles of the war.
+B. The World at War gives more attention to the experiences of military personnel than it does to the experiences of civilians.
+C. The massive scope of The World at War is impressive, especially because many key historical figures were unwilling to contribute their accounts to the project.
+D. The World at War is a laudable effort to comprehensively document the history of the Second World War, but its method has a notable drawback.
+Answer: D
+

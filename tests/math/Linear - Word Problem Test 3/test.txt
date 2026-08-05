@@ -1,0 +1,156 @@
+Question 1:
+An airplane descends from an altitude of {{MATH_1}} feet to {{MATH_2}} feet at a constant rate of {{MATH_3}} feet per minute. What type of function best models the relationship between the descending airplane’s altitude and time?
+
+A. Decreasing exponential
+B. Decreasing linear
+C. Increasing exponential
+D. Increasing linear
+Answer: B
+
+Question 2:
+Each year, the value of an investment increases by {{MATH_4}} of its value the previous year. Which of the following functions best models how the value of the investment changes over time?
+
+A. Decreasing exponential
+B. Decreasing linear
+C. Increasing exponential
+D. Increasing linear
+Answer: C
+
+Question 3:
+For the function {{MATH_5}}, the value of {{MATH_6}} decreases by {{MATH_7}} for every increase in the value of {{MATH_8}} by {{MATH_9}}. If {{MATH_10}}, which equation defines {{MATH_6}}?
+
+A. {{MATH_11}}
+B. {{MATH_12}}
+C. {{MATH_13}}
+D. {{MATH_14}}
+Answer: C
+
+Question 4:
+The number of bacteria in a liquid medium doubles every {{MATH_15}} day. There are {{MATH_16}} bacteria in the liquid medium at the start of an observation. Which represents the number of bacteria, {{MATH_17}}, in the liquid medium {{MATH_18}} days after the start of the observation?
+
+A. {{MATH_19}}
+B. {{MATH_20}}
+C. {{MATH_21}}
+D. {{MATH_22}}
+Answer: D
+
+Question 5:
+A model predicts that the population of Springfield was {{MATH_23}} in {{MATH_24}}. The model also predicts that each year for the next {{MATH_25}} years, the population {{MATH_26}} by {{MATH_27}} of the previous year’s population. Which equation best represents this model, where {{MATH_28}} is the number of years after {{MATH_24}}, for {{MATH_29}}?
+
+A. {{MATH_30}}
+B. {{MATH_31}}
+C. {{MATH_32}}
+D. {{MATH_33}}
+Answer: D
+
+Question 6:
+A biologist grows a culture of bacteria as part of an experiment. At the start of the experiment, there are {{MATH_34}} bacteria in the culture. The biologist observes that the population of bacteria doubles every {{MATH_35}} minutes. Which of the following equations best models the number, {{MATH_36}}, of bacteria {{MATH_37}} hours after the start of the experiment?
+
+A. {{MATH_38}}
+B. {{MATH_39}}
+C. {{MATH_40}}
+D. {{MATH_41}}
+Answer: C
+
+Question 7:
+A photocopy machine is initially loaded with {{MATH_42}} sheets of paper. The machine starts a large job and copies at a constant rate. After {{MATH_43}} minutes, it has used {{MATH_44}} of the paper. Which of the following equations models the number of sheets of paper, {{MATH_45}}, remaining in the machine {{MATH_46}} minutes after the machine started printing?
+
+A. {{MATH_47}}
+B. {{MATH_48}}
+C. {{MATH_49}}
+D. {{MATH_50}}
+Answer: B
+
+Question 8:
+For the event, Takeda meets each of her {{MATH_51}} fans one at a time at a constant rate. After {{MATH_52}} minutes, she has met {{MATH_53}} of her fans. Which of the following equations models the number of fans, {{MATH_54}}, remaining for Takeda to meet {{MATH_55}} minutes after the event started?
+
+A. {{MATH_56}}
+B. {{MATH_57}}
+C. {{MATH_58}}
+D. {{MATH_59}}
+Answer: A
+
+Question 9:
+Kudzu covered approximately {{MATH_60}} million acres of land in the Southeast in {{MATH_61}}. Sixty years later, about {{MATH_62}} million acres were covered by kudzu. Which of the following functions best models the amount of kudzu, in millions of acres, {{MATH_63}} years after {{MATH_61}}?
+
+A. {{MATH_64}}
+B. {{MATH_65}}
+C. {{MATH_66}}
+D. {{MATH_67}}
+Answer: A
+
+Question 10:
+The population of City Z was {{MATH_68}} in {{MATH_69}}. From {{MATH_69}} to {{MATH_70}}, the population of City Z doubled every {{MATH_71}} years. Which of the following best models {{MATH_72}}, the population of City Z from {{MATH_69}} to {{MATH_70}}, {{MATH_73}} years after {{MATH_69}}?
+
+A. {{MATH_74}}
+B. {{MATH_75}}
+C. {{MATH_76}}
+D. {{MATH_77}}
+Answer: A
+
+Question 11:
+The function {{MATH_78}} gives the number of bacteria in a population {{MATH_79}} minutes after an initial observation. How much time, in minutes, does it take for the number of bacteria in the population to double?
+Answer: 410
+
+Question 12:
+The equation {{MATH_80}} can be used to model the population, in thousands, of a certain city {{MATH_81}} years after {{MATH_82}}. According to the model, the population is predicted to increase by {{MATH_83}} every {{MATH_84}} months. What is the value of {{MATH_84}}?
+
+A. {{MATH_85}}
+B. {{MATH_86}}
+C. {{MATH_87}}
+D. {{MATH_88}}
+Answer: D
+
+Question 13:
+A scientist initially measures {{MATH_89}} bacteria in a growth medium. {{MATH_90}} hours later, the scientist measures {{MATH_91}} bacteria. Assuming exponential growth, the formula {{MATH_92}} gives the number of bacteria in the growth medium, where {{MATH_93}} and {{MATH_94}} are constants and {{MATH_95}} is the number of bacteria {{MATH_96}} hours after the initial measurement. What is the value of {{MATH_93}}?
+
+A. {{MATH_97}}
+B. {{MATH_98}}
+C. {{MATH_99}}
+D. {{MATH_100}}
+Answer: B
+
+Question 14:
+The function {{MATH_101}} gives the value, in dollars, of a certain piece of equipment after {{MATH_102}} months of use. If the value of the equipment decreases each year by {{MATH_103}} of its value the preceding year, what is the value of {{MATH_104}}?
+
+A. {{MATH_105}}
+B. {{MATH_106}}
+C. {{MATH_107}}
+D. {{MATH_108}}
+Answer: C
+
+Question 15:
+A subway train descends from an elevation of {{MATH_109}} feet to {{MATH_110}} feet at a constant rate of {{MATH_111}} feet per minute. What type of function best models the relationship between the train’s elevation and time?
+
+A. Decreasing exponential
+B. Decreasing linear
+C. Increasing exponential
+D. Increasing linear
+Answer: B
+
+Question 16:
+Each year, the value of a savings account increases by {{MATH_112}} of its value the previous year. Which of the following best describes the function modeling the account value over time?
+
+A. Decreasing exponential
+B. Decreasing linear
+C. Increasing exponential
+D. Increasing linear
+Answer: C
+
+Question 17:
+A radioactive sample decreases by {{MATH_113}} of its value every hour. Which of the following best describes the function modeling the amount of the sample over time?
+
+A. Decreasing exponential
+B. Decreasing linear
+C. Increasing exponential
+D. Increasing linear
+Answer: A
+
+Question 18:
+A company has {{MATH_114}} subscribers and loses {{MATH_115}} subscribers each month. Which equation models the number of subscribers, {{MATH_116}}, after {{MATH_117}} months?
+
+A. {{MATH_118}}
+B. {{MATH_119}}
+C. {{MATH_120}}
+D. {{MATH_121}}
+Answer: A

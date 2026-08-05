@@ -1,0 +1,273 @@
+Question 1:
+Which choice completes the text with the most logical transition?
+
+The London Array, an offshore wind farm located off the coast of England, produces about 630 megawatts (MW) of electricity per year. ____ England's Hornsea Project One offshore wind farm, which generates the most power of any single offshore farm, produces 1,218 MW of electricity.
+
+
+A. As a result,
+B. That is,
+C. By comparison,
+D. For instance,
+Answer: C
+
+Question 2:
+Which choice completes the text with the most logical transition?
+
+Newer offshore wind turbines often outperform older models. For example, Denmark’s offshore wind farm, built in 1995, has wind turbines that generate about 1 megawatt (MW) of electricity each. ______ China’s Jiangsu Qidong offshore wind farm, built in 2021, has turbines that can generate about 6 MW of electricity each.
+
+
+A. Granted,
+B. In contrast,
+C. For this reason,
+D. Eventually,
+Answer: B
+
+Question 3:
+Which choice completes the text with the most logical transition?
+
+The Coastal Virginia Offshore Wind project is anticipated to generate 2.6 gigawatts of energy, enough to power almost one million homes. As its name indicates, the project—currently in development—consists of wind turbines located off the Virginia coast. _____ the project plan calls for 176 large turbines to be placed at a site 27 miles east of Virginia Beach.
+
+
+A. In conclusion,
+B. In contrast,
+C. As a result,
+D. To be exact,
+Answer: D
+
+Question 4:
+Which choice completes the text with the most logical transition?
+
+One might assume that Germany's Amrumbank West offshore wind farm produces the same amount of energy as land-based wind farms of a similar size. _____ because wind speeds over open water are generally higher than those over land, Amrumbank West's turbines turn faster and produce more energy than do most land farms' turbines.
+
+
+A. Actually,
+B. For example,
+C. Therefore,
+D. Finally,
+Answer: A
+
+Question 5:
+Which choice completes the text with the most logical transition?
+
+When it was built in 1998, the Bockstigen offshore wind farm could generate about 2.75 megawatts (MW) of electricity. _____ advances in technology have enabled newer farms to generate many times this amount. For example, Germany's Merkur offshore wind farm built in 2019 generates about 396 MW of electricity.
+
+
+A. In recent years,
+B. in other words,
+C. Therefore,
+D. Similarly,
+Answer: A
+
+Question 6:
+Which choice completes the text with the most logical and precise word or phrase?
+
+According to environmental policy researcher Carl Dalhammer, the design trend for portable video game consoles and other small electronics, which favors internal batteries that cannot be easily swapped, is a significant environmental concern. He posits that this practice will inevitably ______ the already critical problem of harmful electronic waste, given that entire devices are usually discarded when these internal batteries cease to function.
+  
+
+
+A. ameliorate
+B. mollify
+C. exacerbate
+D. venerate
+Answer: C
+
+Question 7:
+Which choice best states the main idea of the text?
+
+The following text is adapted from Adib Khorram’s 2018 novel *Darius the Great Is Not Okay*. The narrator Darius, is a teenager visiting family in Iran. He and his friend Sohrab are at the entrance of the ruins of the ancient city of Persepolis.
+“The Gate of All Nations,” Sohrab said. He gestured to the lamassus [sculptures] and pillars surrounding us. “That’s the name in English.”
+“It wasn’t much of a gate anymore, since anyone of any nation could have easily stepped around it instead of walking through. But it was still amazing.
+Behind the lamassu, more columns sprouted from the ground like ancient trees in a petrified forest, forty feet tall, spindly but still miraculously upright. Giant stone slabs formed the remains of what must once have been a breathtaking structure.”
+
+
+A. Darius has seen the columns before.
+B. Darius is surprised that Sohrab knows so much about the ruins.
+C. Darius wants to learn about the people who built Persepolis.
+D. Darius is impressed by the overall sight of the ruins.
+Answer: D
+
+Question 8:
+Which choice best describes the function of the underlined portion of the text?
+
+The following text is adapted from Adib Khorram’s 2018 novel "Darius the Great Is Not Okay." The narrator, Darius, is a teenager visiting family in Iran. He and his friend Sohrab are at the entrance of the ruins of the ancient city of Persepolis.
+“The Gate of All Nations,” Sohrab said. He gestured to the lamassus [sculptures] and pillars surrounding us. “That’s the name in English.”
+It wasn’t much of a gate anymore, since anyone of any nation could have easily stepped around it instead of walking through. But it was still amazing.
+Behind the lamassu, more __columns sprouted from the ground like ancient trees in a petrified forest__, forty feet tall, spindly but still miraculously upright. Giant stone slabs formed the remains of what must once have been a breathtaking structure.
+
+
+A. It presents an image to illustrate what one part of the ruins looks like.
+B. It emphasizes that the narrator already knows a lot about the city.
+C. It suggests that the narrator had expected to visit a forest.
+D. It indicates the specific time in the past when the buildings became ruins.
+Answer: A
+
+Question 9:
+Which choice completes the text with the most logical transition?
+
+Those who looked up at the right time on July 9, 1926, would have witnessed an annular solar eclipse, during which the Moon blocks most of the Sun and causes it to look like a ring of light. ______ stargazers on December 24, 1927, would have seen a partial solar eclipse, during which the Moon only blocks a portion of the Sun and causes it to look like a crescent.
+
+
+A. As a result,
+B. On the other hand,
+C. Simultaneously,
+D. Indeed,
+Answer: B
+
+Question 10:
+Which choice completes the text with the most logical transition?
+
+The total solar eclipse of June 5, 762 BCE, was the second-longest total eclipse before the Dark Ages—7 minutes, 25 seconds long. Another memorable solar eclipse occurred on March 21, 424 BCE, but unlike the 762 BCE eclipse, the 424 BCE eclipse was annular. ______ the Moon didn’t cover the Sun completely, instead creating an annulus, or “ring of fire.”
+
+
+A. Meanwhile,
+B. That is,
+C. For example,
+D. Nonetheless,
+Answer: B
+
+Question 11:
+Which choice completes the text with the most logical transition?
+
+Most solar eclipses from long ago have been forgotten, but not all. _____ scholars still discuss an eclipse that occurred on May 17, 2231 BCE. That's because it was the fifth-longest total eclipse before the Dark Ages—7 minutes, 21 seconds long.
+
+
+A. Next,
+B. Regardless,
+C. For example,
+D. In summary,
+Answer: C
+
+Question 12:
+What claim does the text make about the demand for petroleum?
+
+Companies involved in petroleum extraction include drilling equipment among their assets. But petroleum extraction is a very carbon-intensive industry, so as social attitudes increasingly favor using less carbon-intensive sources of energy, demand for petroleum falls and the drilling equipment will eventually, or even suddenly, become a liability as reduced petroleum prices make it more difficult to recover the expense of maintaining such equipment.
+
+
+A. Companies involved in petroleum extraction are not affected by the demand for petroleum.
+B. The societal preference for low-carbon energy sources is a factor in the demand for petroleum.
+C. The demand for petroleum follows a predictable annual cycle.
+D. Companies involved in petroleum extraction can benefit from a decline in the demand for petroleum.
+Answer: B
+
+Question 13:
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Companies involved in petroleum distribution hold petroleum stockpiles among their assets, which a social attitudes increasingly favor using less carbon-intensive sources of energy, could become liabilities if their market value falls below what companies have invested to acquire and maintain them. This phenomenon is known as “asset stranding” and poses an existential threat to these companies. The significance to investors of the potential for stranding is evident, and companies ought to disclose such risks to them, __but it is no less important to ensure that when unsustainable companies involved in petroleum distribution cease operations, those companies’ employees are assisted in their transitions to other jobs.__
+
+
+A. It expands on an earlier discussion about one group with interests in companies involved in petroleum distribution by introducing another group whose interests the text implies may be less apparent than the first group’s are.
+B. It describes one group’s interest in companies involved in petroleum distribution as obvious in contrast to another group’s less obvious interest mentioned earlier in the text.
+C. It discusses how companies involved in petroleum distribution failed to disclose certain liabilities and how that failure affects two groups introduced earlier in the text.
+D. It provides general background information on a phenomenon that is discussed in relation to each of two different groups mentioned earlier in the text.
+Answer: A
+
+Question 14:
+What claim does the text make about the demand for petroleum?
+
+Companies involved in petroleum extraction include storage facilities among their assets. But petroleum extraction is a very carbon-intensive industry, so as renewable energy becomes more economically competitive, demand for petroleum falls and the storage facilities will eventually, or even suddenly, become liabilities as reduced petroleum prices make it more difficult to recover the expense of maintaining such facilities.
+
+
+A. The competition from renewable energy is a factor in the demand for petroleum.
+B. Companies involved in petroleum extraction can benefit from a decline in the demand for petroleum.
+C. The demand for petroleum follows a predictable annual cycle.
+D. Companies involved in petroleum extraction are not affected by the demand for petroleum.
+Answer: A
+
+Question 15:
+Which choice most logically completes the text?
+
+To understand consumer loyalty to specific online retailers, Vijoleta Vrhovac and colleagues conducted a survey using 58 statements as proxy indicators of customer experience with receiving online purchases. The statements were categorized by topic—e. g., statement 13, “I am eagerly awaiting the delivery of the ordered items,” was categorized as joyful anticipation—and respondents, all of whom were from Serbia (which is characterized as having a developing economy), rated the importance of each statement to their experience. Researchers found that participants placed low importance on package aesthetics and high importance on speedy delivery and package tracking, but the researchers cautioned against applying the findings to customers generally, suggesting that ________
+
+
+A. customers in countries with higher levels of economic development than that of Serbia are likely to regard package design as relatively more important than delivery time and transparency.
+B. the greater importance assigned to delivery time and tracking than to package design may not be observed if the survey were to be given to a larger group of Serbian participants.
+C. online retailers that operate in a variety of countries are more likely to increase customer loyalty if they make their deliveries in less time and allow customers to track those deliveries than if they improve their packaging.
+D. additional research is needed with participants from countries of varying levels of economic development to determine whether delivery time and tracking are more important than package design to customers broadly.
+Answer: D
+
+Question 16:
+As used in the text, what does the underlined figurative phrase most nearly mean?
+
+The following text is from William Carlos Williams’s 1925 creative nonfiction book *In the American Grain*. Williams is discussing how works by nineteenth-century US poet and fiction writer Edgar Allan Poe were received by American readers.
+Poe must suffer by his originality, invent that which is new, even if it be made of __pine from your own yard__, and there’s none to know what you have done. It is because there’s no name. This is the cause of Poe’s lack of recognition. He was American. He was the astounding, inconceivable growth of his locality.
+
+
+A. Personal experiences that are hard for others to comprehend
+B. Ideas you have never previously expressed
+C. Elements of the culture in which you live
+D. Inspiration you received while reading independently
+Answer: C
+
+Question 17:
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+The following text is from William Carlos Williams’s 1925 creative nonfiction book *In the American Grain*.
+History follows governments and never men. It portrays us in generic patterns, like effigies or the carvings on sarcophagi, which say nothing save, of such and such a man, that he is dead. That’s history. It is concerned only with the one thing: to say everything is dead. Then it fixes up the effigy: there that’s finished. Not at all. History must stay open; it is all humanity. __Are lives to be twisted forcibly about events, the mere accidents of geography and climate__?
+
+
+A. It highlights a debate among historians that Williams criticizes.
+B. It emphasizes a characteristic of the discipline of history that Williams condemns.
+C. It identifies a problem in human nature that historians have overlooked.
+D. It raises a question about the practice of history that Williams regards as unresolved.
+Answer: B
+
+Question 18:
+What does the text most strongly suggest about Poe's work and American readers?
+
+The following text is from William Carlos Williams's 1925 creative nonfiction book *In the American Grain*. Williams is discussing how works by nineteenth-century US poet and fiction writer Edgar Allan Poe were received by American readers.
+Poe must suffer by his originality. Invent that which is new, even if it be made of pine from your own yard, and there's none to know what you have done. It is because there's no *name*. This is the cause of Poe's lack of recognition. He was American. He was the astounding, inconceivable growth of his locality. Gape at him they did, and he at them in amazement. Afterward with mutual hatred; he in disgust, they in mistrust. It is only that which is under your nose which seems inexplicable.
+
+
+A. Poe's work had few enthusiasts among American readers because it tended to present a negative image of American life and institutions.
+B. American readers largely dismissed Poe's work because its tone and subject matter were out of keeping with mainstream literature.
+C. Poe's work was so innovative that there was not even terminology to describe it, which led American readers to regard both the work and Poe himself as strange but quintessentially American.
+D. American readers failed to appreciate Poe's work because of its novelty and the fact that it reflected aspects of the American character too ingrained in those readers for them to comprehend.
+Answer: D
+
+Question 19:
+Which choice best describes the overall structure of the text?
+
+The establishment of urban green spaces for the abatement of fine particulate matter and other major air-pollutant concentrations is gaining public support, but urban planners must proceed with caution given subtleties in the body of evidence for the strategy’s efficacy. High-level reports have attributed pollutant reductions to cities’ inclusion of green spaces; however, one study found that while trees are negatively associated with air pollutants when considered on a citywide scale, at the street level, this association is minimal and at times positive. Because research tends to focus on large-scale effects in cities, decision-makers may be unaware that those outcomes are not always generalizable across spatial scales.
+
+
+A. It outlines a problem that is of growing public concern, explains why an innovative solution to that problem is challenging to implement, and then suggests the importance of researching alternative solutions.
+B. It addresses an appealing approach to a prevalent problem, illustrates that the approach is not as uniformly successful as it may seem, and then further emphasizes the importance of recognizing nuances in the research on that approach.
+C. It details an initiative implemented in response to certain research findings, identifies an apparent inconsistency within those findings, and then explains how that inconsistency has typically been accounted for.
+D. It establishes the growing intensity of a public concern, details the most common method of mitigating that concern, and then refers to evidence that the method is broadly ineffective.
+Answer: B
+
+Question 20:
+Which choice best states the main idea of the text?
+
+At local and national levels, there is increasing interest in implementing urban green spaces to abate high concentrations of coarse particulate matter and other air pollutants. Examinations of this strategy suggest its efficacy is nuanced, however, some research broadly suggests that green spaces promote pollutant reduction, but, for example, an analysis of 19 street designs that incorporate vegetation identified that the effects on air quality of each design were variable, with only one design quantifiably improving air quality. Further, green space research tends to focus on large-scale effects in cities, and decision-makers may be unaware that those outcomes are not always generalizable across spatial scales.
+
+
+A. Without sufficient investigation and careful planning, the use of urban green spaces for air pollution mitigation purposes may be less effective than expected in certain areas.
+B. There is evidence suggesting that urban green spaces are associated with measurable reductions in concentrations of major air pollutants such as coarse particulate matter.
+C. Given the lack of replicable empirical support for urban green spaces as a means of mitigating air pollution, interest in the implementation of such spaces is misguided.
+D. Although the capacity of urban green spaces to reduce concentrations of coarse particulate matter and other major air pollutants is inconsistent across spatial scales, such spaces should be more widely implemented.
+Answer: A
+
+Question 21:
+Which finding from the study, if true, would most directly account for the recommendation by Venter et al.?
+
+Vegetation has two primary mechanisms by which it reduces air pollution: deposition (absorption of pollutants) and, the more effective, dispersion (dilution of pollutants by ventilation). Accordingly, establishment of green space to reduce major air pollutants such as coarse particulate matter in urban areas receives considerable attention. Research by Zander S. Venter et al. comprised data from air-quality monitoring stations in Belgium, the US state of West Virginia, and thousands of other global locations over a ten-year span, coupled with aerial imagery of those locations from the same period. The researchers ultimately recommended that reducing anthropogenic emissions remain the primary focus of urban air-quality improvement efforts.
+
+
+A. The association between levels of coarse particulate matter and green space is strongly negative for locations containing or in close proximity to major cities but becomes insignificant for more rural locations.
+B. The association between green space and coarse particulate matter levels is moderately negative overall but becomes slightly negative and sometimes positive when consideration is limited to busy streets with tree cover heavy enough to hinder ventilation.
+C. Ambient levels of coarse particulate matter are comparable across locations with comparable local infrastructure (e.g., typical building shape) but vary considerably depending on the predominant type of vegetation present.
+D. There is a predictable relationship between a location’s typical climate conditions and the efficacy of green space in that location, but anomalous local weather events have an outsized effect on deposition and dispersion of coarse particulate matter.
+Answer: B
+
+Question 22:
+Which finding from the study by Venter et al., if true, would most directly support the underlined claim?
+
+In public and political discourse, the implementation of green space in urban planning is generally treated as an obvious strategy for effective local abatement of major air pollutants (such as NO₂, O₃, and particulate matter). __Research indicates that the role of such spaces is nuanced, however__. Zander S. Venter et al. analyzed data at three spatial scales (street, neighborhood, and city) from 2010 to 2019 at air-quality monitoring stations in Albania, the US state of West Virginia, and thousands of other locations. When coupled with images from aerial surveys of vegetation patterns at those locations in the same time period, the data reveal several factors mediating the relationship between vegetation and air quality.
+
+
+A. The association between total green space and pollutant levels is much more variable at the smallest spatial scale than at the largest, and the association is more strongly negative in areas situated in coniferous forest biomes, especially when considering particulate matter.
+B. Regardless of total green space, locations with policies targeting the reduction of anthropogenic emissions have experienced larger improvements in air quality than locations with policies targeting the abatement of emitted pollutants have.
+C. The effect size of total green space on ambient air quality remained consistent by location despite localized deviations from typical weather patterns, such as heat waves, that are known to cause spikes in ambient air pollution.
+D. There is a moderately positive association between total green space and air quality across all locations, and the association persists even when the data are disaggregated by spatial scale.
+Answer: A

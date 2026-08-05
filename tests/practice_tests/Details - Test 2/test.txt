@@ -1,0 +1,128 @@
+Question 1:
+[COE]
+The primary purpose of the passage is to discuss which of the following?
+
+The constant threat posed by environmental pathogens makes a robust immune system a necessary biological feature of vertebrates. For organisms to defend against infection, the defense may be mediated by either innate immunity or adaptive immunity. Adaptive immunity is acquired and highly specific, developing only after the body encounters a particular pathogen, for example, through infection or vaccination. Potent immunological memory is a feature of this system, but this defense is only available after a primary exposure, a process that can take days or weeks to become fully effective. Moreover, the high specificity of the adaptive response means it is ineffective against novel pathogens that the body has not previously encountered. Innate immunity, by contrast, offers a broad and immediate line of defense against pathogens. Furthermore, it relies on readily available and general mechanisms, such as physical barriers and phagocytic cells, which have broad defensive capabilities.
+
+A. reasons for the importance of developing a strong immune system
+B. a comparison of two distinct types of immune responses
+C. new discoveries in the field of vaccine development
+D. differences between the capabilities of physical and cellular barriers to infection
+Answer: B
+
+Question 2:
+[COE]
+The main purpose of the passage is to
+
+A persistent belief among many art historians is that Giorgio Vasari’s *Lives of the Most Excellent Painters, Sculptors, and Architects* (published 1550) is primarily an exercise in Florentine boosterism, aggrandizing artists from his home region at the expense of objective art-historical analysis. However, a nuanced reading reveals the work's multifaceted value. Modern scholarship has benefited from the vast repository of information Vasari provides, such as his detailed accounts of artistic techniques, and from his candid assessments of celebrated figures like Raphael. The work’s engaging anecdotes—as seen in his description of Brunelleschi’s cunning scheme to win the Florence Cathedral dome commission—are often dismissed by those who charge Vasari with presenting his subjects as flawless geniuses. This charge also obscures Vasari's concern with the practical, not just the aesthetic, dimensions of art, including artists' financial success and social standing. Furthermore, this reductive view undervalues the *Lives* as a foundational art-historical narrative; Vasari synthesized a vast array of sources, and his shaping of this material into a narrative of artistic progress shows a profound understanding of the Renaissance's cultural evolution.
+
+A. challenge a methodology widely embraced by art historians
+B. highlight an unconventional method for writing biographical history
+C. provide a summary of scholarly work on a particular Renaissance artist
+D. refute a common critique of the work of an art historian
+Answer: D
+
+Question 3:
+[Details]
+Which choice best states the function of the underlined sentence in the text as a whole?
+
+In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Quito, Ecuador, and Buenos Aires, Argentina, were surveyed about parks in their cities. Of the 618 respondents from Quito, 82.9% indicated that they use the city’s parks, and of the 683 respondents from Buenos Aires, 69.9% indicated using city parks. Given that the __percentage of Quito respondents who reported having access to other desired amenities near parks was much lower than that reported by Buenos Aires respondents__, the difference in park use can’t be explained by Quito residents having more access to desired nonpark amenities near parks.
+
+A. They introduce the result that park use is higher in one city than in the other.
+B. They point out a methodological weakness that might limit the study’s conclusions.
+C. They restate the assumption that residents of one city have greater access to amenities near parks.
+D. They supply evidence used to dismiss a proposed explanation for the difference in park use.
+Answer: D
+
+Question 4:
+[COE]
+It can be inferred that the term “permeable boundaries” is used to refer to
+
+Business analysts study how different corporate cultures function, rather than attempt to analyze the entire global economy at once; they typically concentrate on a single organization, be it a tech startup, a large manufacturing firm, or a family-owned business. Even within these confines, they are challenged by permeable boundaries. Consequently, analysts have conducted some of their most insightful research within siloed organizations, the business world's own insulated environments, which may only hire externally a few times over the course of many years. In these companies, analysts have discerned how the scale of a given department can dictate the diversity of viewpoints it can accommodate. This knowledge has then been extrapolated to the wider market, illustrating how industries with high employee mobility become like interconnected hubs, where established corporate cultures can easily erode.
+
+A. a trend of a company’s influence to diminish
+B. market-driven forces that reshape a company’s identity
+C. the movement of employees into a company from external environments
+D. inconsistency in how the term “corporate culture” is interpreted
+Answer: C
+
+Question 5:
+[COE]
+According to the text, the difference between Upham and Hafner’s findings and Fernández-Duque and colleagues’ findings can be attributed to which difference between desert kangaroo rats and Azara’s night monkeys?
+
+Optimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Nathan Upham and John Hafner found to be negatively associated with foraging by desert kangaroo rats but Eduardo Fernández-Duque and colleagues found to be positively associated with foraging by Azara’s night monkeys. This discrepancy is explicable in terms of OFT: the monkeys’ greater reliance on vision means that higher lunar intensity benefits them more than it benefits the kangaroo rats.
+
+A. The kangaroo rats decrease their foraging activity as lunar intensity increases, whereas the monkeys increase their foraging activity.
+B. The kangaroo rats are more vulnerable to predators than the monkeys are.
+C. The kangaroo rats are less reliant on vision than the monkeys are.
+D. The kangaroo rats encounter different levels of lunar intensity than the monkeys do.
+Answer: C
+
+Question 6:
+[Details]
+Which choice best describes the function of the underlined phrase in the text as a whole?
+
+Dubautia raillardioides is a species in a family of plants __known collectively as the silversword alliance__, all of which grow only on the Hawaiian Islands. Members of this alliance exhibit an extraordinary range of phenotypes, with some species maturing into vines and others into shrubs and trees. All species in the alliance descended from a single ancestral tarweed plant that arrived on the islands around 5 million years ago. The tarweed’s descendants diversified into distinct species as they adapted to live in the wide variety of habitats found on the Hawaiian Islands.
+
+A. It lists species from a family of plants found only on the Hawaiian Islands.
+B. It explains why Dubautia raillardioides is unique among members of the silversword alliance.
+C. It supplies the name used to refer to a group of related plant species.
+D. It provides the common name for the Dubautia raillardioides plant.
+Answer: C
+
+Question 7:
+[Details]
+Which of the following best describes the function of the highlighted sentence in the text as a whole?
+
+Only in recent decades has biodiversity been approached from an ecosystem-wide perspective, and most conservation funding has been narrowly allocated. There are few comprehensive programs for entire habitats; some conservation efforts fund only charismatic megafauna like pandas, while other programs focus on specific threats like deforestation in a single region. __Such narrowly focused conservation plans can promote a fragmented understanding of ecological health__**.** In contrast, Dr. Lena Reed’s ambitious research agenda—one that encompasses keystone predators, unglamorous invertebrates, and foundational plant life—studies ecosystems in their totality to show how species function interdependently, not as isolated icons but as integral parts of a complex biological web.
+
+A. It presents a criticism of the conservation strategies mentioned in the previous sentence.
+B. It questions the funding sources for Dr. Reed's research.
+C. It illustrates why holistic ecosystem studies were uncommon before recent decades.
+D. It identifies a conservation philosophy that shaped Dr. Reed's early work.
+Answer: A
+
+Question 8:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+The following text is from Sara Teasdale’s 1922 poem Two Songs for Solitude.
+"My heart has grown rich with the passing of years,
+I have less need now than when I was young
+__to share myself with every comer.
+Or shape my thoughts into words with my tongue__."
+
+A. It explains the speaker’s views about proper conduct toward new acquaintances.
+B. It provides examples of behaviors the speaker is less inclined toward than she once was.
+C. It presents an episode from the speaker’s youth that she remembers fondly.
+D. It emphasizes the social habits the speaker has developed over her lifetime.
+Answer: B
+
+Question 9:
+[Details]
+Which choice best describes the function of the two underlined portions in the text as a whole?
+
+The following text is from Sarojini Naidu’s 1896 poem “Alabaster.”
+Like __this alabaster__ box whose art
+Is frail as a cassia-flower, is __my heart__,
+Carven with delicate dreams and wrought
+With many a subtle and exquisite thought.
+
+A. They indicate potential reactions, one hoped for and one feared, to a decision the speaker considers throughout the text.
+B. They provide examples, one literal and one figurative, of a change that the speaker describes throughout the text.
+C. They describe the subjects, one physical and one abstract, of a comparison that extends throughout the text.
+D. They symbolize two viewpoints, one cautious and one impulsive, that are contrasted throughout the text.
+Answer: C
+
+Question 10:
+[COE]
+Which quotation from 'A Pair of Silk Stockings' most effectively illustrates the claim?
+
+"A Pair of Silk Stockings" is an 1897 short story written by Kate Chopin. In the story, Mrs. Sommers is depicted as sometimes making decisions without conscious deliberation:____
+
+A. "She handed the girl a five-dollar bill and waited for her change and for her parcel. What a very small parcel it was!"
+B. "She had no time—no second of time to devote to the past. The needs of the present absorbed her every faculty."
+C. "She was not thinking at all. She seemed for the time to be taking a rest from that laborious and fatiguing function and to have abandoned herself to some mechanical impulse that directed her actions and freed her of responsibility."
+D. "Mrs. Sommers selected a black pair and looked at them very long and closely. She pretended to be examining their texture, which the clerk assured her was excellent."
+Answer: C
+

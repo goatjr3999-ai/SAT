@@ -1,0 +1,362 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Traditionally, certain features of mosque architecture are nearly ______, such as the mihrab (or niche), which almost all mosques include. But mosques can also be built to reflect a multitude of different architectural styles, as in the case of the Great Mosque of Central Java, which includes elements from the Javanese and Greek revival styles.
+
+A. universal
+B. elaborate
+C. illusory
+D. idealized
+Answer: A
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The dates that archaeologists assign to most of the colossal sculptures of human heads produced by the Olmec civilization of Mesoamerica are necessarily ______. The majority of the sculptures have been moved from their original context, making precise dating impossible.
+
+A. uncontroversial
+B. irrelevant
+C. applicable
+D. approximate
+Answer: D
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+______ traditional descriptions of pollination syndromes (suites of floral traits, such as nectar composition and symmetry, hypothesized to have independently evolved as a result of selection pressure exerted by pollinators) and recent empirical observations of floral-trait combinations have led some ecologists to express reservations about the utility of those descriptions.
+
+A. Discrepancies between
+B. Proclamations of
+C. Recurrences of
+D. Affinities between
+Answer: A
+
+Question 4:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+Scientists discovered a 390-million-year-old fossilized forest of *Calamophyton* trees in modern-day England. The scientists believe the emergence of these *Calamophyton* forests changed the land significantly. __For example, the tree roots would have greatly reduced soil erosion, and the accumulated twigs the trees shed likely created new habitats for animal life.__
+
+A. It suggests that there are likely fossilized *Calamophyton* forests from before 390 million years ago.
+B. It provides two competing views of when the *Calamophyton* forest likely merged.
+C. It illustrates how *Calamophyton* forests likely changed conditions on the land.
+D. It indicates how fast the *Calamophyton* forest spread.
+Answer: C
+
+Question 5:
+[COE]
+Which choice best describes the main purpose of the text?
+
+The following text is from Louise Erdrich's 1986 novel *The Beet Queen*. The narrator discusses her relationship with her young niece, Dot. Celestine, the narrator's sister-in-law, is Dot’s mother.
+
+Dot and I had a mental connection, I was sure of it. I understood things about the baby that her mother could not accept.
+
+For instance, she was never meant to be a baby.
+
+Dot was as impatient with babyhood as I. She tried at once to grow out of it. Celestine never saw that, because she, and only she, took pleasure in Dot’s helpless softness. Only Celestine was saddened by her daughter’s fierce progress. Day by day, Dot grew stronger. In her shopping-cart stroller she exercised to exhaustion, bouncing for hours to develop her leg muscles.
+
+©1986 by Louise Erdrich
+
+A. To present the narrator’s belief that she understands Dot better than Celestine does.
+B. To speculate that when Dot is older, her personality will be like Celestine’s.
+C. To discuss what the narrator and Celestine do to amuse Dot.
+D. To compare the narrator’s physical appearance to the physical appearance of Celestine.
+Answer: A
+
+Question 6:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Adelaide is one of many cities that have installed pontoons or other hardening structures to protect their shorelines against coastal hazards. To assess how birds respond to shoreline hardening and other landscape alterations, Diann Prosser et al. used a tool known as the Index of Waterbird Community Integrity to survey bird communities consisting of sixty-four species, including the tundra swan and the great blue heron, in the Chesapeake Bay on the US East Coast. The researchers concluded that shoreline hardening more negatively affects birds than does land development for uses such as housing.
+
+A. It introduces a certain technique, mentions the hypothesis of a study into an ecological consequence of that technique, and presents evidence in support of that study's hypothesis.
+B. It provides an example of a location that has adopted a particular approach, explains the methodology of a study into an ecological effect of that approach, and describes a finding of that study.
+C. It makes a claim about the use of a specific strategy, describes field observations of a consequence of that strategy in a particular ecosystem, and makes a supposition based on those observations.
+D. It presents a solution to a commonly occurring problem, summarizes the procedures used by a group of researchers studying the environmental impact of that solution, and notes the significance of the researchers’ findings.
+Answer: B
+
+Question 7:
+[Structure]
+Which choice best states the main idea of the text?
+
+Women like Dorothy T. Blum made important early contributions to the history of US cryptology, a field concerned with secure data communication and storage. Blum provided cryptological services for the US Army in the 1940s and then joined the National Security Agency (NSA). She was a pioneer in transitioning the NSA to using computers for cryptanalysis. In this way, Blum and others like her helped make it possible for more women—such as Maureen Baginski, who currently works in intelligence and supports the FBI—to enter the field of cryptology.
+
+A. Cryptology is a field that focuses primarily on securely managing data.
+B. Women such as Dorothy T. Blum and Maureen Baginski have contributed to the field of cryptology.
+C. Dorothy T. Blum and Maureen Baginski worked together on an important project in the field of cryptology.
+D. Cryptology should be taught more often in schools to encourage more women to enter the field.
+Answer: B
+
+Question 8:
+[COE]
+What does the text most strongly suggest about southern sea otters in environments where snails, mussels, and clams are present?
+
+Researchers who examined data from radio-tagged southern sea otters (*Enhydra lutris nereis*) identified fitness benefits gained by otters that used tools. By using fixed stones as anvils, tool-using otters gained access to high-quality, hard-shelled prey (e.g., mussels and clams) that they could usually not access through biting alone. Non-tool-using otters foraged abundant, energy-poor, easily extractable prey instead (e.g., snails). Even when easily processed prey were depleted, tool-using otters that processed mussels and clams were thus able to obtain their needed energy resources and to do so without incurring tooth damage.
+
+A. Those otters whose diet consists mainly of snails will likely exhibit less tooth damage than will those otters that use tools to consume mussels and clams.
+B. Those otters that do not use tools will likely have more robust health than those otters that do use tools.
+C. Those otters that do not use tools will likely need to process larger amounts of prey to meet their energy requirements than will those otters that use tools.
+D. Those otters that consume mussels and clams without the use of tools will likely spend less time foraging than will those otters that use tools to access the same prey resources.
+Answer: C
+
+Question 9:
+[COE]
+Which statement, if true, would most directly support the underlined claim?
+
+Over the course of the 1900s, more and more Native Hawaiians spoke English instead of the Hawaiian language. To preserve their language, Native Hawaiian teachers founded the ‘Aha Pūnana Leo preschool in 1984. They spoke Hawaiian while teaching, and their Native Hawaiian students were soon able to understand and speak it themselves. The school was a huge success. Eventually it opened locations around Hawai‘i and started teaching Hawaiian to elementary and high school students too. __Thanks to ‘Aha Pūnana Leo, the number of young people who speak the language has increased.__
+
+A. Besides Native Hawaiians, tens of thousands of people from other Pacific Islander communities live in Hawai‘i today, including over 37,000 Samoans.
+B. Fewer than fifty children could speak Hawaiian when ‘Aha Pūnana Leo was founded, but now more than 2,000 students at ‘Aha Pūnana Leo speak it.
+C. Hawaiian is very similar to other languages that are spoken on the Polynesian Islands of the Pacific Ocean, including Tahitian, Samoan, and Maori.
+D. Roughly 680,000 Native Hawaiian people lived in the United States in 2020, and a little less than half of them lived in Hawai‘i.
+Answer: B
+
+Question 10:
+[COE]
+Which choice most effectively uses data from the table to complete the assertion?
+
+Lin-Tai Ho and colleagues tracked fish populations in three tide pool-monitoring stations in Taiwan from 1999 to 2018. Although a total of only 31 blackspotted rockskippers were observed at station 3, that was not the lowest count at any station: ______
+
+A. there were 16 streaky rockskippers observed at station 1.
+B. there were 610 streaky rockskippers observed at station 3.
+C. there were 16 barred flagtails observed at station 3.
+D. there were 50 Cocos frillgobies observed at station 1.
+Answer: C
+
+Question 11:
+[COE]
+Which choice best describes data from the table that support Pötzelsberger and colleagues’ conclusion?
+
+Elisabeth Pötzelsberger and colleagues gathered data on 23 non-native tree species grown in Europe. They analyzed reports from Austria, Bulgaria, and Belgium about the number of these species grown in those countries as well as the numbers of insect and fungus species that damage those trees. The researchers concluded that Austria had a greater number of damaging fungus species than either of the other countries did.
+
+A. Belgium reported 13 damaging fungus species but only 11 damaging insect species.
+B. Austria reported 51 damaging fungus species, whereas Bulgaria reported 16 damaging insect species.
+C. Bulgaria and Belgium reported 9 and 4 damaging fungus species, respectively, which is far fewer than Austria reported.
+D. Austria reported 51 damaging fungus species, which is more than either Bulgaria or Belgium reported.
+Answer: D
+
+Question 12:
+[COE]
+Which quotation from *The Wonderful Wizard of Oz* most effectively illustrates the claim?
+
+*The Wonderful Wizard of Oz* is a 1900 novel by L. Frank Baum. In the novel, Dorothy lives in Kansas with her aunt and uncle, but she later finds herself in a land called Oz. The narrator indicates that her aunt and uncle’s house in Kansas is remote and solitary, writing that ______
+
+A. in Oz, “[Dorothy and her companions] passed through the rest of the forest in safety, and when they came out from its gloom saw before them a steep hill, covered from top to bottom with great pieces of rock.”
+B. in Oz, “Dorothy fell asleep only once, and then she dreamed she was in Kansas, where Aunt Em was telling her how glad she was to have her little girl at home again.”
+C. in Kansas, “Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer’s wife.”
+D. in Kansas, “When Dorothy stood in the doorway and looked around, she could see nothing but the great gray prairie on every side. Not a tree nor a house broke the broad sweep of flat country.”
+Answer: D
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+Carcinization, or the evolution of a crablike body form, has taken place in crustaceans many times over the last 250 million years. Decarcinization has occurred several times as well, even though it involves the loss of traits such as sideways walking that seem to have helped carcinized groups persist in a variety of ecosystems. In a 2021 paper, Joanna Wolfe and team note that many decarcinized groups are extinct and have very few living relatives—signs that decarcinization might be an “evolutionary dead-end.” But the team also discusses frog crabs, a living decarcinized group with traits suited to dwelling in sediment; fossils show that the group had decarcinized members as far back as the Early Cretaceous. This example suggests that ______
+
+A. the evolutionary benefits of a crablike body form are less certain than many studies of carcinization had previously implied.
+B. despite having many living relatives, some decarcinized groups did not benefit from decarcinization.
+C. representation of practical applications of ecological knowledge is the defining characteristic of the music of certain Indigenous peoples.
+D. a crablike body form may not be optimal in all cases, with ecological conditions sometimes favoring the persistence of decarcinization.
+Answer: D
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+A group of primate conservationists recently began a long-term study of the effects of different conservation strategies on the northern muriqui (*Brachyteles hypoxanthus*). The species population is currently estimated to be around 1,000. It is challenging to accurately count these primates, however, which makes it difficult to tell whether the population is increasing, decreasing, or staying stable. The study may thus ______
+
+A. cause other conservationists to adopt a new methodology for counting populations.
+B. risk making inaccurate conclusions about the effectiveness of different conservation strategies.
+C. benefit from including species beyond the northern muriqui.
+D. fail to consider less-well-known conservation approaches for the northern muriqui.
+Answer: B
+
+Question 15:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Mountain goats were made to climb. In addition to having hard hooves that can dig into nearly any groove or ______ mountain goats have slender bodies ideal for scaling nearly ninety-degree cliffs.
+
+A. crack, or
+B. crack or
+C. crack
+D. crack,
+Answer: D
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+As an object-oriented computer programming language, Perl is used by coders like Black Girls Code founder Kimberly Bryant to create computer programs by manipulating “objects” (that is, specifically defined variables or combinations of variables) into interacting with each other. Conversely, languages like Scheme, used in software development, ______ object oriented.
+
+A. is not
+B. are not
+C. was not
+D. has not been
+Answer: B
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In premodern Europe, one could sail from the east coast of England to the Netherlands or France faster than one could travel by land to England's capital, London. In that era, historian Michael Pye argues in his 2015 book *The Edge of the World: A Cultural History of the North Sea and the Transformation of Europe*, the North Sea did more to link the various peoples, cultures, and economies on ______ shores than to divide them.
+
+A. it's
+B. its
+C. their
+D. they're
+Answer: B
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Creating personas—brief profiles of imaginary characters that represent key segments of a customer base—can help user experience (UX) designers think like and empathize with those using their products. Fictional yet realistic, ______
+
+A. these personas include specific details (demographics, browsing habits, etc.) that UX designers draw from actual users.
+B. specific details that UX designers draw from actual users (demographics, browsing habits, etc.) are included in these personas.
+C. UX designers include specific details (demographics, browsing habits, etc.) drawn from actual users in these personas.
+D. actual users are the source of the specific details (demographics, browsing habits, etc.) that UX designers include in these personas.
+Answer: A
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+As the exoplanet 17 Scorpii b orbits a star 408 light-years from Earth, the gas giant’s gravity causes the star to wobble. In 2020, astronomers observing the wobble—indicated by redshifts and blueshifts in the star’s spectral wavelengths—eventually attributed ______ to the gravitational influence of the previously undetected exoplanet.
+
+A. each
+B. these
+C. it
+D. them
+Answer: C
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Although the term “balloonomania”—referring to the hot-air balloon fad in England and France in the late 1700s—might suggest that the public as a whole was captivated by the technology, it was not universally ______ whereas many flocked to balloon launches and purchased balloon-themed items ranging from dinnerware to accessories, others dismissed the hot-air balloon as an impractical and dangerous extravagance.
+
+A. embraced:
+B. embraced
+C. embraced,
+D. embraced and
+Answer: A
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In February 1864, James Johnson joined the US Army. He went on to serve in the 18th New York Cavalry during the US Civil War and, ______ earned a place in US history as one of the war’s few Chinese-born American soldiers.
+
+A. usually,
+B. for instance,
+C. in any case,
+D. in doing so,
+Answer: D
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The lack of accessible written sources is a common challenge faced by biographers of pre-nineteenth-century subjects. ______ when writing his biography of Alexander Hamilton (1755-1804), historian Ron Chernow had at his disposal Harold Syrett’s 26-volume, 19,000-document *Papers of Alexander Hamilton*.
+
+A. To take one well-known example,
+B. In accordance with this premise,
+C. It thus came as no surprise that,
+D. On the other end of the spectrum,
+Answer: D
+
+Question 23:
+[Synthesis]
+The student wants to emphasize a difference between Judeth Insel and Ricky Quiñones. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• India Arie is an African American singer and songwriter.
+• The media outlet BBC Music has described her music as a “blend of hip hop, soul and folk [that is] as subtle as it [is] inspired.”
+• Her acclaimed albums feature many talented musicians.
+• Judeth Insel played viola on her first studio album, *Acoustic Soul* (2001).
+• Ricky Quiñones played guitar on her second studio album, *Voyage to India* (2002).
+
+A. Judeth Insel played on India Arie’s first studio album, *Acoustic Soul*, which was released one year before her album *Voyage to India*.
+B. Both musicians have played on India Arie albums, but Judeth Insel played viola, whereas Ricky Quiñones played guitar.
+C. *Acoustic Soul* and *Voyage to India*, released in 2001 and 2002, respectively, are albums by singer and songwriter India Arie.
+D. Judeth Insel and Ricky Quiñones have both lent their musical talents to albums by India Arie.
+Answer: B
+
+Question 24:
+[Synthesis]
+The student wants to emphasize the order in which the supercontinents were formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• A supercontinent is a single landmass made up of most or all of Earth’s continents.
+• Over time, continents merge together to form supercontinents, which then break apart.
+• This process is believed to take hundreds of millions of years and is known as the supercontinent cycle.
+• Vaalbara was a supercontinent that formed about 3.6 billion years ago.
+• Euramerica was a supercontinent that formed about 300 million years ago.
+
+A. Vaalbara and Euramerica were both supercontinents, single landmasses made up of most or all of Earth’s continents.
+B. The supercontinent Euramerica formed long after the supercontinent Vaalbara.
+C. Forming and breaking apart over hundreds of millions of years, supercontinents are made up of most or all of Earth’s continents.
+D. Vaalbara formed about 3.6 billion years ago but eventually broke apart.
+Answer: B
+
+Question 25:
+[Synthesis]
+The student wants to emphasize a difference between *Uros Island* and *Golden Connection*. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Grimanesa Amoros is a Peruvian American artist well known for her LED light sculptures.
+• *Uros Island* (2011) is from her *Uros* series of works.
+• It is made of smooth multicolored LED domes.
+• *Golden Connection* (2013) is from her *Huanchaco* series of works.
+• It is made of entangled blue and white LED tubes.
+
+A. Grimanesa Amoros often employs LED lights in her work, but the smooth LED domes of *Uros Island* stand in contrast to the tangled LED tubes of *Golden Connection*.
+B. *Uros Island* and *Golden Connection* are two LED light sculptures by well-known artist Grimanesa Amoros.
+C. In 2011, Grimanesa Amoros debuted *Uros Island*, a part of her *Uros* series.
+D. Many of Grimanesa Amoros’s sculptures, like *Uros Island* and *Golden Connection*, incorporate LED lights in the form of domes or tubes.
+Answer: A
+
+Question 26:
+[Synthesis]
+The student wants to contrast dichloromethane and tetradecafluorohexane. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Refrigerants are chemical compounds used in cooling technologies, such as air conditioners.
+• Air conditioners can use refrigerants to absorb heat and release cold air.
+• The refrigerant dichloromethane is a hydrochlorocarbon (HCC).
+• HCCs are composed of the elements hydrogen, chlorine, and carbon.
+• The refrigerant tetradecafluorohexane is a perfluorocarbon (PFC).
+• PFCs are composed of fluorine and carbon.
+
+A. Dichloromethane, a hydrochlorocarbon, is composed of hydrogen, chlorine, and carbon; tetradecafluorohexane, a perfluorocarbon, is composed of fluorine and carbon.
+B. Dichloromethane and tetradecafluorohexane are chemical compounds used in cooling technologies; the compounds are known as refrigerants.
+C. The hydrochlorocarbon dichloromethane and the perfluorocarbon tetradecafluorohexane are both refrigerants that can be used in cooling technologies like air conditioners.
+D. Tetradecafluorohexane, a refrigerant, can be used in cooling technologies to absorb heat and release cold air.
+Answer: A
+
+Question 27:
+[Synthesis]
+The student wants to explain whom the award is named for. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• The A.M. Turing Award is a prestigious award given by the Association for Computing Machinery (ACM).
+• The ACM gives the award for “major contributions of lasting importance to computing.”
+• It is named after groundbreaking British mathematician Alan Turing.
+• Raj Reddy won the award in 1994 for pioneering the development of large-scale artificial intelligence systems.
+
+A. In 1994, Raj Reddy won the A.M. Turing Award for pioneering the development of large-scale artificial intelligence systems.
+B. The A.M. Turing Award is given for “major contributions of lasting importance to computing.”
+C. The A.M. Turing Award is named for groundbreaking British mathematician Alan Turing.
+D. It was in 1994 that Raj Reddy won the A.M. Turing Award.
+Answer: C
+

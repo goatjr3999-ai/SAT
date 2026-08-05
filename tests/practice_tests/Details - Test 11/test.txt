@@ -1,0 +1,122 @@
+Question 1:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+In 2023 literary scholar Jeremy Douglass cautioned technology investors and enthusiasts who predict conventional books’ ultimate displacement by newer forms of media. Douglass observed that __the concept of an “interactive” text is much older than technologists assume, extending back to the first time readers scratched notes into a text’s margins__. In addition, newer media, such as video games, haven’t replaced older forms of entertainment, such as comic books, but rather exist alongside them. Douglass believes that rather than supplanting books, technology is simply making new forms of expression possible.
+
+A. It explains the basis for the claim made by the technologists mentioned in the text.
+B. It suggests that academics are better suited than investors to see the potential uses of contemporary interactive texts.
+C. It challenges the stance of the investors and enthusiasts who are mentioned earlier in the text.
+D. It provides a historical anecdote about the technological challenges involved in reading the earliest interactive texts.
+Answer: C
+
+Question 2:
+[COE]
+Which quotation most effectively illustrates the claim?
+
+The Choice is a poem written by Emily Frost in 1910. In this poem, the author conveys the idea that the outcome individuals receive is positively correlated to the decisions they make: _____
+
+A. “With wisdom’s light, we navigate, / The endless sea of choice and fate.”
+B. “The outcome dances with our will, / In harmony or discordant thrill.”
+C. “You reap what you sow;/ What you plant, is what / will grow at length.”
+D. “For those who choose to walk with grace, / Shall lose their dreams in tender embrace.”
+Answer: C
+
+Question 3:
+[COE]
+Which choice most effectively uses a quotation from a translation of The Clouds to illustrate the claim?
+
+The Clouds is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught paying customers a variety of subjects and sometimes engaged in what would now be described as research. Aristophanes satirizes sophists’ practices and views as foolish, as seen when the character_____
+
+A. Strepsiades, after taking lessons from a sophist, says to his son, “Approach, that you may know more; and I will tell you a thing, by learning which you will be a man. But see that you do not teach this to any one.”
+B. Socrates, a sophist, says to a potential customer, “I wish to briefly learn from you if you are possessed of a good memory.”
+C. Strepsiades encourages his son to learn to be a sophist, saying, “If you have any concern for your father’s patrimony, become one of them.”
+D. Socrates, a sophist, explains why he studies astronomy while sitting in a basket hanging a few feet off the ground, saying, “I should not have rightly discovered things celestial if I had not suspended the intellect, and mixed the thought in a subtle form with its kindred air.”
+Answer: D
+
+Question 4:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+The following text is from Mary Shelley's 1818 novel Frankenstein. Victor Frankenstein, who is narrating this portion of text, describes the state of scientific knowledge as he began his own study of the natural world.
+The untaught peasant beheld the elements around him and was acquainted with their practical uses. The most learned philosopher knew little more. He had partially unveiled the face of Nature, but her highest immortal lineaments were still a wonder and a mystery. __He might dissect, anatomise, and give names; but, not to speak of a final cause, causes in their secondary and tertiary grades were utterly unknown to him__. I had gazed upon the fortifications and impediments that seemed to keep human beings from entering the citadel of nature, and rashly and ignorantly I had repined.
+
+A. It explains what can be gained from a scientific approach to understanding natural phenomena.
+B. It describes an intensely debated scientific controversy that Victor dedicated his life to resolving.
+C. It undermines the idea that a practical approach to understanding natural phenomena is inferior to a scientific approach.
+D. It suggests that Victor did not discover what he wanted to know from the scientific research available to him.
+Answer: D
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Companies involved in petroleum distribution hold petroleum stockpiles among their assets, which a social attitudes increasingly favor using less carbon-intensive sources of energy, could become liabilities if their market value falls below what companies have invested to acquire and maintain them. This phenomenon is known as “asset stranding” and poses an existential threat to these companies. The significance to investors of the potential for stranding is evident, and companies ought to disclose such risks to them, __but it is no less important to ensure that when unsustainable companies involved in petroleum distribution cease operations, those companies’ employees are assisted in their transitions to other jobs.__
+
+A. It describes one group’s interest in companies involved in petroleum distribution as obvious in contrast to another group’s less obvious interest mentioned earlier in the text.
+B. It discusses how companies involved in petroleum distribution failed to disclose certain liabilities and how that failure affects two groups introduced earlier in the text.
+C. It expands on an earlier discussion about one group with interests in companies involved in petroleum distribution by introducing another group whose interests the text implies may be less obvious than the first group’s are.
+D. It provides general background information on a phenomenon that is discussed in relation to each of two different groups mentioned earlier in the text.
+Answer: C
+
+Question 6:
+[COE]
+The reference to Simmons and Fischer is included by the author primarily to achieve which of the following?
+
+Biologists investigating aposematism (warning coloration) in poison dart frogs from the Amazon basin have observed that many populations exhibit significant pattern variation. These variations can manifest as entirely new arrangements of spots or stripes. In some instances, the underlying hue is altered. However, the idea that these alterations are primarily for improving camouflage is doubted by researchers Simmons and Fischer. A large number of populations with varied patterns are found in homogenous environments, a fact they highlight. Moreover, when adaptations to background do occur, they are typically the result of gradual genetic selection, which is a far more protracted evolutionary process than individual color changes, suggesting other selective pressures are at play.
+
+A. Distinguish between the multiple evolutionary pressures that might have caused pattern variations in poison dart frogs.
+B. Introduce new evidence about why poison dart frogs exhibit pattern variation.
+C. Show how one potential explanation for the frogs' pattern variation has been challenged.
+D. Present a hypothesis about why poison dart frogs have pattern variations.
+Answer: C
+
+Question 7:
+[COE]
+Based on the text, which choice best expresses the narrator's characterization of the Seine?
+
+The following text is adapted from Guy de Maupassant's 1884 short story "A Recollection," from the collection Guy de Maupassant Short Stories (translated by Albert M.C. McMaster et al. in 1903). The narrator is taking a boat down the Seine river from Paris, France, to the surrounding countryside.
+I took up a position in the bows , standing up and looking at the quays, the trees, the houses and the bridges disappearing behind us. And suddenly I perceived the great viaduct of Point du Jour which blocked the river. It was the end of Paris, the beginning of the countryside, and behind the double row of arches the Seine, suddenly spreading out as though it had regained space and liberty, became all at once the peaceful river which flows through the plains, alongside the wooded hills, amid the meadows, along the edge of the forests...
+
+A. As the journey progressed from Paris to the countryside, the waters of the Seine gradually cleared.
+B. The journey along the Seine is mostly peaceful, but the current intensifies briefly under the Point du Jour.
+C. The waters of the Seine are more confined and rough in Paris than they are in the countryside.
+D. The Seine's loveliness is surpassed only by that of Paris.
+Answer: C
+
+Question 8:
+[COE]
+Based on the text, what can be concluded about the declining use of phage therapy in the mid-twentieth century?
+
+A widely held belief among medical historians is that the introduction of antibiotics in the mid-twentieth century displaced bacteriophage therapy in mainstream medicine. The declining use of phage treatments, which coincided with the rise of antibiotics, seems to lend credence to this view. However, the impact of antibiotics on phage therapy might be overstated. Even though hospital records from 1920 to 1940 indicate a decrease in the administration of both topical and systemic phage treatments, this pattern was already in place before antibiotics gained widespread popularity.
+
+A. Factors aside from the introduction of antibiotics may be more directly accountable for the waning popularity of phage therapy.
+B. Despite phage treatments becoming less prevalent than antibiotic therapies, they were commonly acknowledged as possessing greater therapeutic merit.
+C. It’s probable that the popularity of phage therapy endured for a more extended period than medical historians have assumed.
+D. With the diminishing demand for phage therapy, researchers likely redirected their investigative focus towards antibiotics.
+Answer: A
+
+Question 9:
+[COE]
+Which option most logically completes the text?
+
+On April 12, 1981, NASA celebrated the first successful mission of the Space Shuttle program with a public ceremony in Washington, D.C. This event was only one among many celebrations recognizing achievements in space exploration. ____ from 1961 to 2020, Washington, D.C. hosted eighteen major public ceremonies honoring American astronauts.
+
+A. Hence,
+B. In other words,
+C. Nevertheless,
+D. In sum,
+Answer: D
+
+Question 10:
+[COE]
+Which quotation from most effectively illustrates the claim?
+
+The Grand Canyon, which geological processes have shaped over millions of years, was described by geologists as having significantly eroded due to natural weathering forces over extensive periods: ____.
+
+A. "The region is primarily characterized by vibrant sedimentary layers that form steep cliffs with distinct hues, such as reds, yellows, and oranges, offering a vivid geological display."
+B. "Sedimentary strata, formed by ancient rivers and seas, exhibit structures containing fossilized plants, marine organisms, and animal remains, clearly indicating past environmental conditions."
+C. "When viewed from the canyon's rim, the landscape is primarily flat and uniform, broken infrequently by isolated geological features and sparse vegetation."
+D. "Though originally colorful, prolonged exposure to wind and water erosion gradually stripped away surface minerals, leaving the canyon walls predominantly muted and earth-toned."
+Answer: D
+

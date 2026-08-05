@@ -1,0 +1,91 @@
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+Mice were studied in an experiment focused on the relationship between room temperature and cancer growth. Cooler room temperatures were found to stimulate fat cells that eradicate the sugar molecules that sustain cancer cells. ______ the cancer cells started to die off in the mice exposed to cooler room temperatures.
+
+
+A. Consequently,
+B. For example,
+C. However,
+D. In comparison,
+Answer: A
+
+Question 2:
+[Infer]
+Which choice most logically completes the text?
+
+Empress Maria Theresa oversaw sweeping reforms throughout the Habsburg monarchy, centralizing authority and spurring economic growth. She also championed educational initiatives, particularly for young women. Presently, ______ she is most famously remembered for establishing compulsory schooling that laid the foundation for modern education in Austria.
+
+
+A. Consequently,
+B. Similarly,
+C. Nonetheless,
+D. For example,
+Answer: C
+
+Question 3:
+[Infer]
+Which choice most logically completes the text?
+
+Riley Black—the author of critically acclaimed books such as My Beloved Brontosaurus (2013)—is best known for writing about dinosaurs, but she has also conducted hands-on fieldwork._____ her fieldwork has included paleontological digs in Utah, Montana, and Wyoming, and her dinosaur fossil discoveries can be seen at places such as the Carnegie Museum of Natural History.
+
+
+A. Specifically,
+B. Conversely,
+C. Subsequently,
+D. Regardless,
+Answer: A
+
+Question 4:
+[Infer]
+Which choice most logically completes the text?
+
+President Franklin Roosevelt faced significant opposition to his New Deal policies: one 1934 poll showed that only 44 percent of Americans supported his economic recovery plan. _____ Roosevelt was re-elected in 1936 by one of the largest margins in U.S. history, winning 60.8 percent of the popular vote and all but two states in the electoral college.
+
+
+A. Consequently,
+B. Nonetheless,
+C. In other words,
+D. Likewise,
+Answer: B
+
+Question 5:
+[Infer]
+Which choice most logically completes the text?
+
+With darkness falling, a mother elephant loses sight of her calf and wants to make sure it is safe, ______ she releases an infrasonic call for the calf to hear. Infrasonic sound is below the range of human hearing, but many animals can hear these sounds from several miles away.
+
+
+A. Nowadays,
+B. For example,
+C. Similarly,
+D. For this reason,
+Answer: D
+
+Question 6:
+[Infer]
+Which choice most logically completes the text?
+
+In 1785, while residing in Paris, Spanish diplomat Elena Sanchez composed a treatise praising France’s constitutional reforms and expressing hope that Spanish provinces might adopt similar measures. The treatise was addressed to a minor official, Mateo Ruiz; ______ though, Sanchez’s real objective was to sway influential members of the French court to back Spain’s internal reforms.
+
+
+A. Moreover,
+B. Ultimately,
+C. Thus,
+D. As a result,
+Answer: B
+
+Question 7:
+[Infer]
+Which choice most logically completes the text?
+
+Some bacteria have developed mechanisms for resisting antibiotics. *Klebsiella pneumoniae* bacteria, ______ produce an enzyme called beta-lactamase, which can cleave the beta-lactam ring in certain antibiotics (such as penicillin and cephalosporins) and deactivate them.
+
+
+A. however,
+B. for example,
+C. meanwhile,
+D. consequently,
+Answer: B
+

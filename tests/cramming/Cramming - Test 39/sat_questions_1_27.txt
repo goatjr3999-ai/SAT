@@ -1,0 +1,395 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Though iconic Brutalist structures, like the Barbican Estate (1976) in London, UK, are known for their visually arresting use of concrete, the choice of the material was also ______. The unprecedented expansion of public services and civic institutions in the United Kingdom during the 1950s–70s required widescale construction, and concrete was inexpensive and plentiful.
+
+
+A. anomalous
+B. polarizing
+C. onerous
+D. pragmatic
+Answer: D
+
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Pacific halibut is an ectothermic (cold-blooded) fish, whereas the yellowfin tuna is a regional endotherm; unlike that of ectotherms, its body temperature remains above the ambient water temperature. The basking shark had been classified as a full ectotherm, but researchers Haley R. Dolton et al. found that its body temperature remains 1.0 to 1.5°C above ambient, which is ____ that classification.
+
+
+A. incongruous with
+B. subordinate to
+C. opportune for
+D. indicative of
+Answer: A
+
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Historical Dictionary of Science Fiction, a crowdsourced project started by lexicographer Jesse Sheidlower, is a dynamic resource. Because volunteers are constantly sharing digitized excerpts from personal sci-fi magazines, a new discovery can sometimes ______ the dictionary’s previously recorded "earliest use" of a term, such as when a 1950 citation for "warp speed" was found, replacing the older 1952 entry.
+
+
+A. corroborate
+B. galvanize
+C. interpolate
+D. annul
+Answer: D
+
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+While today's theater stages are often filled with props and scenery designed to immerse audiences, this emphasis on visual spectacle is a relatively recent development. Before the 1600s, the dramatic experience was centered on language and performance. The simple, unadorned stages of the era were thus a ______ spirit to the poetic, text-driven plays, as both elements prioritized the spoken word over elaborate visual aids.
+
+
+A. profligate
+B. taciturn
+C. trenchant
+D. kindred
+Answer: D
+
+
+Question 5:
+[COE]
+Which choice best states the purpose of the text?
+
+The *Lartington* is just one of approximately three million known historical shipwrecks spread throughout the world’s oceans, and their impact on sea life and underwater ecosystems is of great interest to researchers. Rachel Mugge and colleagues were particularly curious about the effects of wooden shipwrecks on seafloor microbial communities. The researchers studied two wooden shipwrecks in the Gulf of Mexico by placing pieces of pine and oak between zero and 200 meters away from each shipwreck to collect samples of three kinds of microbes: bacteria, archaea, and fungi. They found that across the three microbial communities, peak diversity and richness was observed on pine and oak samples placed approximately 125 meters from the shipwrecks.
+
+
+A. To outline an experiment comparing microbial growth on different types of wood placed in the ocean.
+B. To argue that historic shipwrecks are harmful to marine ecosystems and ought to be removed.
+C. To present a study investigating influence of a particular phenomenon and summarize its key finding.
+D. To claim that microbial diversity inevitably decreases as the distance from any shipwreck increases.
+Answer: C
+
+
+Question 6:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+One of the peculiar traits of humans is that we irrationally gravitate towards the predictable and shun risk, and whatever the reasons for this _____, it is hardly a sound basis for addressing complex, long-term challenges. This inherent tendency often impedes our ability to effectively navigate uncertainty and make innovative decisions.
+
+
+A. eccentricity
+B. predilection
+C. vacillation
+D. wavering
+Answer: B
+
+
+Question 7:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+The following text is from Mary Shelley's 1818 novel Frankenstein. Victor Frankenstein, who is narrating this portion of text, describes the state of scientific knowledge as he began his own study of the natural world.
+The untaught peasant beheld the elements around him and was acquainted with their practical uses. The most learned philosopher knew little more. He had partially unveiled the face of Nature, but her highest immortal lineaments were still a wonder and a mystery. __He might dissect, anatomise, and give names; but, not to speak of a final cause, causes in their secondary and tertiary grades were utterly unknown to him__. I had gazed upon the fortifications and impediments that seemed to keep human beings from entering the citadel of nature, and rashly and ignorantly I had repined.
+
+
+A. It explains what can be gained from a scientific approach to understanding natural phenomena.
+B. It describes an intensely debated scientific controversy that Victor dedicated his life to resolving.
+C. It undermines the idea that a practical approach to understanding natural phenomena is inferior to a scientific approach.
+D. It suggests that Victor did not discover what he wanted to know from the scientific research available to him.
+Answer: D
+
+
+Question 8:
+[COE]
+Which choice most effectively uses a quotation from a translation of The Clouds to illustrate the claim?
+
+The Clouds is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught customers rhetorical techniques to use in public speaking, along with providing instruction in other subjects. The play suggests that a sophist education fosters a sense of arrogant superiority over societal norms, as seen when the character ____.
+
+
+A. Strepsiades encourages his son to learn to be a sophist, saying, “If you have any concern for your father’s patrimony, become one of them.”
+B. Pheidippides says, after taking lessons from a sophist, “How pleasant it is to be acquainted with new and clever things, and to be able to despise the established laws!”
+C. Strepsiades, taking lessons from a sophist, says he wants to become “a fabricator of falsehoods, inventive of words, a practiced knave in lawsuits…a fox, a sharper, a slippery knave, a dissembler, a slippery fellow, an impostor.”
+D. Socrates, a sophist, says to a potential customer, “I wish to briefly learn from you if you are possessed of a good memory.”
+Answer: B
+
+
+Question 9:
+[COE]
+Which choice most effectively uses data from the table to complete the example?
+
+Studies of the population density of cougars (Puma concolor) have yielded a range of results, which may in part reflect differences in the effectiveness of the methods that researchers have used in their studies. If, for example, the use of clustered camera trapping and GPS tracking of collars tends to lead to underestimates of cougar population density, that may explain why the study by ___.
+
+
+
+A. P. Ian Ross and Martin G. Jalkotzy reported a maximum density of 4.70 individuals per 100 square kilometers, while the study by Richard A. Beausoleil et al., which used biopsy darting, reported a lower maximum density.
+B. Sean M. Murphy et al. reported a maximum density of only 1.65 individuals per 100 square kilometers, lower than that reported by several other studies.
+C. Richard A. Beausoleil et al. required a study area of 7,939 square kilometers, while the study by Sean M. Murphy et al. required a study area of 4,329 square kilometers.
+D. Lindsey N. Rich et al. reported a maximum density of 6.50 individuals per 100 square kilometers, higher than that reported by several other studies.
+Answer: B
+
+
+Question 10:
+[Structure]
+Which choice best states the main idea of the text?
+
+Postcranial skeletal pneumaticity (PSP), a system of skeletal air sacs, occurred in three Cretaceous clades, including pterosaurs (e.g., *Pteranodon*); past studies have hypothesized that the trait was homologous (originating from a shared ancestor). With this in mind, Tito Aureliano et al. examined fossils of common ancestors of the clades using microtomography, finding openings in bones—a possible indicator of PSP—but of sizes inconsistent with PSP. The team reported other findings contradicting the homology hypothesis as well, concluding that PSP likely evolved independently in each clade.
+
+
+A. Aureliano et al. found openings in bones in fossils of common ancestors of pterosaurs and two other Cretaceous clades, but the team determined that the sizes of the openings were too varied to be indicative of PSP, thereby weakening the homology hypothesis.
+B. Although past studies by paleontologists concluded that PSP in pterosaurs and two other Cretaceous clades was likely attributable to a common ancestor, those paleontologists lacked access to technology that led Aureliano et al. to reach a different conclusion.
+C. Previous studies hypothesized that PSP originated in a shared ancestor of pterosaurs and two other clades, but the findings of Aureliano et al. suggest that PSP evolved independently in pterosaurs and was subsequently inherited by the other two clades.
+D. Aureliano et al. found that pterosaurs and two other Cretaceous clades with PSP likely lacked a common ancestor with the trait, leading the team to posit a different evolutionary origin for PSP than that posited in earlier studies.
+Answer: D
+
+
+Question 11:
+[Infer]
+Which choice most logically completes the text?
+
+Quasars—such as 3C 279, located in the Virgo constellation—are extremely luminous galactic nuclei powered by supermassive black holes, some of which are known to have developed within the first billion years of the formation of the universe. Based on simulations they conducted, astrophysicists Daniel Whalen, Muhammad Latif, and colleagues concluded that these early quasars developed partly as a result of rare convergences of gases in space without the need for ultraviolet backgrounds or other extreme and implausible environmental conditions that models of the early universe have included to account for the presence of these quasars. If this conclusion is correct, it suggests that ___.
+
+
+A. it may be possible to develop models of the early universe that rest on more credible assumptions than previous models have.
+B. future models of the early universe may not need to include conditions that explain early quasars since those quasars may not have actually existed at the time.
+C. previous models of the early universe may have underemphasized the importance of ultraviolet backgrounds to quasar formation.
+D. factors that previous models of the early universe assumed were necessary for the formation of quasars may have actually been consequences of the formation of quasars.
+Answer: A
+
+
+Question 12:
+[COE]
+Which finding, if true, would most directly support Mulder and Spellman’s conclusion?
+
+Creeping dogwood (Cornus canadensis) plants are native to Alaska, where harsh conditions have historically impeded potential invasive species. As the boreal climate has warmed in recent decades, however, common knotgrass (Polygonum aviculare) plants have established themselves in Alaska. It has been suggested that warming-induced delays in the onset of subfreezing temperatures in autumn can benefit invasives more than native species; to evaluate this possibility, biologists Christa Mulder and Katie Spellman tracked C. canadensis and P. aviculare, along with other native and invasive species, over several years, concluding that invasives are advantaged by delays in subfreezing temperature onset in Alaska.
+
+
+A. Although C. canadensis and P. aviculare both tended to produce leaves later into autumn in years with late subfreezing temperature onset, the extension was much greater for P. aviculare than for C. canadensis.
+B. Although C. canadensis and P. aviculare both tended to produce more leaves overall in years with late subfreezing temperature onset than they did in years with historically typical temperature patterns, the years with late subfreezing temperature onset also had early growing season onset in spring.
+C. Although C. canadensis and P. aviculare tended to stop producing leaves at about the same time in years with historically typical temperature patterns, P. aviculare stopped producing leaves sooner than C. canadensis did in years with late subfreezing temperature onset.
+D. Although significant interannual variations in subfreezing temperature onset were observed during the study, neither P. aviculare nor C. canadensis showed any significant interannual variation in the cessation of leaf production.
+Answer: A
+
+
+Question 13:
+[Cross Text]
+Based on the texts, both authors would most likely agree with which statement?
+
+Text 1
+According to a study by a conservation group representing 11 tribal nations in the Great Lakes region, the northern wild rice (manoomin in the Ojibwe language) will have significantly worse outcomes over the next 50 years if temperatures increase as much as some models suggest. By contrast, the white-tailed deer (waawaashkeshi in Ojibwe) should be able to withstand the highest predicted warming without much harm and so likely won’t require the conservation efforts that the northern wild rice will.
+Text 2
+US government agencies involved in conservation are unfortunately not able to address every possible threat to natural resources. They must use the best information available to decide which species are most threatened and therefore most in need of conservation efforts.
+
+
+A. State, federal, and tribal groups involved in natural-resource management in the Great Lakes region should immediately begin conservation programs for both the northern wild rice and white-tailed deer.
+B. Agencies involved in natural-resource management in the Great Lakes region should focus their conservation efforts more on the northern wild rice than on the white-tailed deer.
+C. A collaborative approach is necessary to keep temperatures in the Great Lakes region from increasing to the highest predicted levels.
+D. Conservation efforts focused on the northern wild rice are more likely to be successful if they incorporate state and federal agency resources with the knowledge of tribal groups in those efforts.
+Answer: B
+
+
+Question 14:
+[COE]
+Which finding, if true, would most directly support the conclusion put forward by Grasby et al.?
+
+Ultra-pasteurized milk and raw mild are substitutable products, meaning that one product can be used for the same purpose as the other, whereas tortilla chips and salsa are complementary products, meaning that they serve different purposes but are typically used together. Alicia Grasby et al. investigated whether substitutability and complementarity influence consumers’ purchasing of extended brands—products of different types sold under the same brand name—by comparing purchases of extended-brand products that are substitutable with those that are complementary. They concluded that although complementarity appears to benefit extended brands more than substitutability does on average, this may be due to an outlier in the complementary product data.
+
+
+A. Although consumers purchased complementary extended brands more frequently than substitutable extended brands, removing ultra-pasteurized milk and raw milk from the data led to an equal purchasing frequency of complementary and substitutable products.
+B. Although consumers were more likely to purchase complementary extended brands than substitutable extended brands, the difference in purchasing probability reduced to zero when tortilla chips and salsa were removed from consideration.
+C. Although consumers were about equally likely to purchase complementary extended brands and substitutable extended brands, removing tortilla chips and salsa from the data increased the likelihood that consumers would purchase complementary extended brands.
+D. Missing (không có đáp án D)
+Answer: B
+
+
+Question 15:
+[COE]
+Which quotation from a music streaming platform user would best illustrate Walsh’s finding?
+
+Many music streaming services also function as social media platforms: by giving users the option to follow friends and share curated playlists or information about their listening history, these platforms allow people to convey their music preferences and listening activities directly to their social networks. In a 2023 study, researcher Michael James Walsh interviewed frequent users of a popular music streaming platform to investigate how its social media dimensions shape their listening habits. Walsh found that these dimensions tended to make study participants feel more mindful of how their listening activities may be perceived, which in turn influenced how they managed those activities.
+
+
+A. “Listening to music through a streaming platform feels a lot more passive, since I don’t need to make any deliberate choices about what music I’m going to consume, like I do when buying digital downloads or records and CDs.”
+B. “When I create playlists or choose songs to listen to, I often pick songs that I think the friends who are following me might be interested in listening to, rather than what I might actually prefer listening to in that moment.”
+C. “Because the predictions the platform makes about what new songs I might like depend on my past listening habits, at times its recommendations can feel overly repetitive and unvarying.”
+D. “The social aspects of music streaming make it really easy to create a sense of a shared listening experience with my friends, even if we aren’t in the same room.”
+Answer: B
+
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+“Paper Dragons” by James P. Blaylock, *The Ape’s Wife and Other Stories* by Caitlin R. Kiernan, and “Confess the Seasons” by Charles L. Grant are all pieces of literature that have won the prestigious World Fantasy ______ the works received the honor in the categories of short story, collection, and novella, respectively.
+
+
+A. Award,
+B. Award;
+C. Award and
+D. Award
+Answer: B
+
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Before the Spanish arrived in the 1400s, the people of La Gomera, one of the Canary Islands, used a whistled version of their native language to “speak” to each other from far away. Amazingly, under Spanish rule, the _______ adapted their whistling skills to whistle to each other in Spanish.
+
+
+A. island’s residents
+B. islands resident’s
+C. island’s resident’s
+D. islands residents’
+Answer: A
+
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of standard English?
+
+The foxtail pine (Pinus ballouriana) known as RCR 1, located in the United States, is one of the oldest known trees in the world, at 1,666 years old. With almost two millennia of climate data in its tree ____ single tree like this, claims dendrochronologist Valerie Trouet, can tell the history of the world.
+
+
+A. rings and a
+B. rings, a
+C. rings. A
+D. rings; a
+Answer: B
+
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+For the past 20 million years, Earth’s magnetic poles in the far north and far south have remained roughly where they are today. This has not always been the ____ throughout geologic history, Earth’s magnetic poles have swapped places several times through a process called polar wandering.
+
+
+A. case; though,
+B. case, though.
+C. case, though:
+D. case, though
+Answer: C
+
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The story of Chile’s electrification is perhaps most readily understood by studying developments in several key years: 1916, when engineer Arturo Salazar attended the Pan-American Scientific Conference; 1936, when the study entitled “Política eléctrica chilena” was ______ 1943, when the national electrical plan was finalized.
+
+
+A. released; and
+B. released and
+C. released. And
+D. released, and
+Answer: A
+
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+It was in 1995 when Swiss astronomers Michel Mayor and Didier Queloz confirmed the existence of ______ of many to be found in the following decades, orbits the star 51 Pegasi.
+
+
+A. 51 Pegasi b, the exoplanet, one
+B. 51 Pegasi b; the first exoplanet, one
+C. 51 Pegasi b, the exoplanet, One
+D. 51 Pegasi b the exoplanet. One
+Answer: B
+
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Box modeling, used by digital artists to develop 3D assets for video games, yields objects with precise mathematical proportions. Granted, as they are formed from perfect geometric shapes, such 3D elements lack organic realism; ____ post-modeling processes such as UV surface mapping are needed to achieve the level of verisimilitude gamers expect.
+
+
+A. consequently,
+B. similarly,
+C. in sum,
+D. however,
+Answer: A
+
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In a 2003 study by Mellado et al., the researchers’ aim was to analyze the diet composition of cattle in Coahuila, Mexico. ______ they aimed to analyze the ratio of three different plant subtypes within these animals’ diet: graminoids, forbs, and browses.
+
+
+A. Instead,
+B. All the same,
+C. Therefore,
+D. Specifically,
+Answer: D
+
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The title of "Of the Inequality amongst Us," an essay by French philosopher Michel de Montaigne, suggests a straightforward topic. However, Montaigne's expansive, curious mind meant that he never limited himself to one subject. ______ the essay is not just a discussion of inequality but a broad exploration of Montaigne's entire worldview.
+
+
+A. Lastly,
+B. That said,
+C. Predictably,
+D. Additionally.
+Answer: C
+
+
+Question 25:
+[Synthesis]
+The student wants to place Einstein’s argument within its historical context. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The fifth Solvay Conference on Physics was held in 1927.
+• It brought together twenty-nine of the era’s preeminent scientists to discuss the emerging field of quantum theory.
+• The conference famously featured a debate between physicists Albert Einstein and Niels Bohr.
+• Bohr proposed that subatomic entities like electrons had only probable realities until they were observed.
+• Einstein argued that subatomic entities like electrons had a reality independent of observation.
+• Bohr’s position, later called the Copenhagen interpretation, remains the most widely accepted theory of quantum mechanics.
+
+
+A. In 1927, Einstein and Bohr engaged in a famous debate; Bohr’s argument, later called the Copenhagen interpretation, would remain popular decades after.
+B. The attendees of the 1927 Solvay Conference were among the preeminent scientists of their era, including Einstein, who opposed Bohr’s proposal.
+C. At the 1927 Solvay Conference on Physics, Einstein disagreed with Bohr’s argument that subatomic entities like electrons had a reality independent of observation.
+D. During the dawn of quantum theory, Einstein maintained the independent reality of some subatomic entities, although Bohr’s opposing interpretation would become the widely accepted view.
+Answer: D
+
+
+Question 26:
+[Synthesis]
+The student wants to present a key distinction in the international regulatory landscape for gene editing. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• International scientific bodies like the WHO and UNESCO provide overarching ethical frameworks for human gene editing.
+ • A broad international consensus, reflected in the national policies of over 70 countries, permits somatic gene editing for therapeutic applications.
+ • Somatic editing modifies the genes of a patient's non-reproductive cells to treat disease; these changes are not heritable.
+ • A much smaller subset of nations, roughly a dozen, have established explicit legal pathways for basic research on germline gene editing.
+ • Germline editing, which alters reproductive cells, results in changes that can be passed down to subsequent generations and is subject to stringent moratoriums on clinical use even where research is permitted.
+
+
+A. Somatic gene editing is a non-heritable genetic modification technique used for therapeutic purposes, and its regulation is managed by national agencies.
+B. In most of the 70 countries with policies on the matter, the clinical use of germline gene editing is explicitly permitted for basic research.
+C. While a broad international consensus supports the therapeutic use of somatic gene editing, the legal allowance for research on heritable germline editing is substantially less common.
+D. International bodies like the WHO and UNESCO have established that heritable changes resulting from germline editing are a primary ethical concern.
+Answer: C
+
+
+Question 27:
+[Synthesis]
+The student wants to provide an example of a position in ballroom dance. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Body positions are an important part of dance.
+•In ballroom dance, there is a position called closed facing position.
+•It is one of several positions for partner dancing.
+
+
+A. Closed facing position is an example of a position in ballroom dance.
+B. In dance, some positions are for partner dancing.
+C. Body positions are an important part of dance, including ballroom dance.
+D. Ballroom dance includes several dance positions for partner dancing.
+Answer: A

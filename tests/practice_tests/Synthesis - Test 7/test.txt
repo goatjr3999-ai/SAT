@@ -1,0 +1,261 @@
+Question 1:
+[Synthesis]
+The student wants to emphasize the order in which the two films were released. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Merle Oberon (1911–1979) was an actress born in Mumbai (then known as Bombay), India.
+• She was of Indian, Maori, and Irish heritage.
+• She was the first Indian-born actress to be nominated for an Academy Award.
+• Early in her career, she played many nameless, uncredited roles, such as her role in Strange Evidence (1933).
+• Later, she played many named, credited roles, such as Jessica Warren in The Price of Fear (1956).
+
+A. Merle Oberon was famous for her roles in films like Strange Evidence (1933) and The Price of Fear (1956).
+B. Strange Evidence (1933) was released early in Merle Oberon’s career, whereas The Price of Fear (1956) came out years later.
+C. In Strange Evidence (1933), actress Merle Oberon played a nameless, uncredited role; however, in The Price of Fear (1956), she played a credited role—that of Jessica Warren.
+D. Early in her career, Merle Oberon wasn’t listed in some film credits, such as the credits for the film Strange Evidence, where she played a nameless, uncredited role.
+Answer: B
+
+Question 2:
+[Synthesis]
+The student wants to place Einstein’s argument within its historical context. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The fifth Solvay Conference on Physics was held in 1927.
+• It brought together twenty-nine of the era’s preeminent scientists to discuss the emerging field of quantum theory.
+• The conference famously featured a debate between physicists Albert Einstein and Niels Bohr.
+• Bohr proposed that subatomic entities like electrons had only probable realities until they were observed.
+• Einstein argued that subatomic entities like electrons had a reality independent of observation.
+• Bohr’s position, later called the Copenhagen interpretation, remains the most widely accepted theory of quantum mechanics.
+
+A. During the dawn of quantum theory, Einstein maintained the independent reality of some subatomic entities, although Bohr’s opposing interpretation would become the widely accepted view.
+B. In 1927, Einstein and Bohr engaged in a famous debate; Bohr’s argument, later called the Copenhagen interpretation, would remain popular decades after.
+C. The attendees of the 1927 Solvay Conference were among the preeminent scientists of their era, including Einstein, who opposed Bohr’s proposal.
+D. At the 1927 Solvay Conference on Physics, Einstein disagreed with Bohr’s argument that subatomic entities like electrons had a reality independent of observation.
+Answer: A
+
+Question 3:
+[Synthesis]
+The student's goal is a comparison of the Big Crunch model with the Heat Death model. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching cosmology, a student has taken the following notes:
+• Cosmological models attempt to describe the ultimate fate of the universe.
+• One early model was the "Big Crunch," hypothesized by physicists like Alexander Friedmann.
+• In the Big Crunch model, gravity is strong enough to halt cosmic expansion and cause the universe to collapse.
+• The "Heat Death" (or "Big Freeze") is a more recent model based on late 20th-century observations.
+• The Heat Death model posits that accelerating expansion will continue indefinitely, leading to a cold, dark universe.
+
+A. The prediction of the Big Crunch model is a final collapse, which contrasts with the prediction of indefinite, accelerating expansion made by the Heat Death model.
+B. Following the early hypothesis of a Big Crunch, the Heat Death model was proposed to explain observations of the universe.
+C. The models of the Big Crunch and Heat Death differ on the premise that the universe is currently expanding.
+D. In the late 20th century, the Heat Death model was proposed, disagreeing with the Big Crunch model's foundational idea that gravity influences the structure of the universe.
+Answer: A
+
+Question 4:
+[Synthesis]
+The student wants to explain how a Foucault pendulum provides evidence of Earth's rotation. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Czech Technical University in Prague, the Czech Republic, is home to a Foucault pendulum
+• The pendulum consists of a weighted ball that swings at the end of a roughly 21-meter-long cable.
+• Like all Foucault pendulums, it dangles from a fixed point that ensures the swing path of the pendulum doesn't change.
+• To an observer, the swing path of a Foucault pendulum appears to change over time because Earth rotates beneath it.
+• Foucault pendulums are used as a simple way to provide evidence of Earth's rotation.
+
+A. In Prague, the Czech Republic, a Foucault pendulum at Czech Technical University provides evidence of Earth's rotation
+B. Though it swings on an unchanging path, a Foucault pendulum appears to change its swing path over time because Earth rotates beneath it.
+C. A Foucault pendulum, which consists of a weighted ball at the end of a long cable, provides evidence of Earth's rotation.
+D. The Foucault pendulum at Czech Technical University in Prague, the Czech Republic, swings on an unchanging path, but Earth rotates beneath it.
+Answer: B
+
+Question 5:
+[Synthesis]
+The student wants to make a generalization about how word order is employed across languages. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Linguistic typologists classify and compare languages according to their structural features.
+• One such structure is word order, or the way subjects (S), verbs (V), and objects (O) are typically arranged in a sentence.
+• English employs an SVO word order (e.g., Cows eat grass).
+• Bengali employs an SOV word order (e.g., Cows grass eat).
+• Filipino employs VSO word order (e.g., Eat cows grass).
+• 87% of the world’s languages are classified as either SVO or SOV.
+
+A. Word order is one of the structural features by which linguistic typologists classify and compare the world’s languages.
+B. Linguistic typologists analyze and compare how word order is employed across languages.
+C. The way in which subjects, verbs, and objects are typically arranged in a sentence is also called word order.
+D. The majority of languages place the subject of a sentence before the verb and object.
+Answer: D
+
+Question 6:
+[Synthesis]
+The student wants to explain an advantage of the Antelope House dwelling site. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Antelope House is an Ancestral Puebloan dwelling site located in northeastern Arizona.
+• It was built under a rock overhang and inhabited from approximately 1050–1270 CE.
+• The overhanging rock ledges offered protection from heavy rain and snow.
+• Mud Springs Pueblo is an Ancestral Puebloan dwelling site located in southwestern Colorado.
+• It was built on relatively flat terrain and inhabited from approximately 1200–1250 CE.
+• This level surface allowed for the construction of large terraced buildings.
+
+A. The relatively flat terrain on which Antelope House was built allowed for the construction of large terraced buildings.
+B. Located in northeastern Arizona, Antelope House is an Ancestral Puebloan dwelling site that was inhabited from approximately 1050–1270 CE.
+C. The location of Antelope House, an Ancestral Puebloan dwelling site in northeastern Arizona, provided an advantage to its inhabitants.
+D. Since it was built under a rock overhang, Antelope House was naturally protected from heavy rain and snow.
+Answer: D
+
+Question 7:
+[Synthesis]
+The student wants to make a generalization about minerals. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.
+• Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.
+• Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.
+• The mineral calcite has a Mohs scale number of 3.
+• The mineral apatite has a Mohs scale number of 5.
+• The mineral corundum has a Mohs scale number of 9.
+
+A. Based on their Mohs scale numbers, corundum (9) is harder than apatite (5), and apatite is harder than calcite (3).
+B. Corundum can leave visible scratches on calcite, which is why corundum has a higher number than calcite on the Mohs scale of mineral hardness.
+C. Any mineral with a Mohs number of 9, like corundum, can scratch a mineral with a Mohs number of 5, like apatite.
+D. The Mohs scale can be used to order calcite, corundum, and apatite by their ability to scratch other minerals.
+Answer: C
+
+Question 8:
+[Synthesis]
+The student wants to synthesize the information to distinguish between the two fundamental cellular processes. Which choice most effectively accomplishes this goal?
+
+While researching cellular biology, a student has compiled the following notes on two fundamental processes:
+• Transcription is the nuclear process in eukaryotes where the genetic information encoded in a DNA segment is used as a template for the synthesis of a complementary messenger RNA (mRNA) molecule.
+• This synthesis is catalyzed by the enzyme RNA polymerase, which unwinds the DNA double helix to read the nucleotide sequence.
+• The subsequent process, translation, occurs in the cytoplasm on cellular structures called ribosomes.
+• During translation, the ribosome reads the mRNA's sequence in three-nucleotide units called codons, and with the help of transfer RNA (tRNA), assembles a specific sequence of amino acids into a polypeptide chain, which then folds into a functional protein.
+
+A. Transcription is the process by which a sequence of amino acids is assembled in the cytoplasm, while translation involves the synthesis of an mRNA molecule from a DNA template within the cell’s nucleus.
+B. Whereas transcription involves synthesizing an mRNA molecule from a DNA template within the nucleus, translation is the cytoplasmic process of using that mRNA to assemble a polypeptide chain on a ribosome.
+C. Both transcription, which is catalyzed by RNA polymerase, and translation, which occurs on ribosomes, are essential cellular mechanisms for expressing genetic information encoded in DNA.
+D. The synthesis of a polypeptide chain during translation relies on transfer RNA (tRNA) to read codons, just as the unwinding of the DNA double helix is a critical step for synthesizing genetic material during transcription.
+Answer: B
+
+Question 9:
+[Synthesis]
+The student wants to provide an example of a particle physicist whose research focuses on neutrinos. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Yoji Totsuka is a Japanese particle physicist.
+• Particle physicists study subatomic particles.
+• Neutrinos are some of the least understood subatomic particles.
+• Neutrinos were first discovered in the mid-twentieth century.
+• Totsuka is known for his discovery of atmospheric muon-neutrino oscillations.
+
+A. Particle physicist Yoji Totsuka is known for his discovery of atmospheric muon-neutrino oscillations.
+B. Neutrinos are a type of subatomic particle that particle physicists are still trying to understand.
+C. By studying atmospheric muon-neutrino oscillations—to name just one example—particle physicists can learn more about neutrinos.
+D. The research done on atmospheric muon-neutrino oscillations exemplifies the work particle physicists do to advance our understanding of subatomic particles.
+Answer: A
+
+Question 10:
+[Synthesis]
+The student wants to contrast first-class levers and second-class levers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• A lever is a simple machine consisting of a rigid beam and a fulcrum.
+• The fulcrum is the point about which the beam pivots.
+• The input force (effort) is the force applied to the lever.
+• The output force (load) is the force that the lever exerts on another object.
+In first-class levers, the fulcrum is located between the effort and the load.
+• In second-class levers, the load is located between the effort and the fulcrum.
+
+A. In levers, the effort is the force applied to the lever; the load, in contrast, is the force that the lever exerts on another object.
+B. In first-class and second-class levers, the fulcrum and the load are in different locations.
+C. First-class levers are simple machines consisting of a rigid beam and a fulcrum, but then again, the same is true of second-class levers.
+D. In first-class levers, the fulcrum is located between the effort and the load, but in second-class levers, the load is located between the effort and the fulcrum.
+Answer: D
+
+Question 11:
+[Synthesis]
+The student wants to make a generalization about circumnavigations. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• A sailing trip that goes in a complete circle around the world is called a circumnavigation.
+• Most circumnavigations include stops on land.
+• Anne Liardet is a French sailor.
+• Liardet sailed the boat Roxy on a nonstop, 119-day circumnavigation.
+• Asia Pajkowska is a Polish sailor.
+• Pajkowska sailed the boat FanFan on a nonstop, 216-day circumnavigation.
+
+A. Pajkowska sailed FanFan around the world, while Liardet sailed Roxy.
+B. Pajkowska and Liardet have both embarked on sailing journeys around the world, also called circumnavigations.
+C. Most circumnavigations include stops on land, but some circumnavigations are nonstop.
+D. A circumnavigation is defined as a sailing trip that goes in a complete circle around the world.
+Answer: C
+
+Question 12:
+[COE]
+The student wants to use a quotation from Petrova to explain a safety advantage of the mRNA technology used in the Coronavax vaccine. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+According to vaccine researcher Dr. Elena Petrova, "modern vaccines... exceptionally effective at preventing severe disease outcomes compared to acquiring immunity through natural infection."
+Vaccine platforms typically employ live-attenuated viruses, inactivated viruses, or mRNA-based systems to stimulate an immune response.
+The recently approved 'Coronavax' vaccine for a novel virus utilizes an mRNA-based system.
+Petrova states that because mRNA systems contain no actual virus particles, they are "incapable of causing the disease they are designed to prevent, thus offering a superior safety profile."
+
+A. Compared with live-attenuated and inactivated vaccines, the mRNA system used in Coronavax is "exceptionally effective at preventing severe disease outcomes," Petrova notes.
+B. According to Petrova, because it uses genetic material to stimulate an immune response, the technology used in Coronavax is "incapable of causing the disease," making it a very safe option.
+C. Since they contain no actual virus particles, mRNA-based systems—such as the one used in Coronavax—are described by Petrova as "incapable of causing the disease they are designed to prevent."
+D. The Coronavax vaccine uses an mRNA-based system to stimulate an immune response; in this type of vaccine, the body is stimulated by a system that "contain[s] no actual virus particles," Petrova explains.
+Answer: C
+
+Question 13:
+[Synthesis]
+The student wants to place Einstein’s argument within its historical context. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The fifth Solvay Conference on Physics was held in 1927.
+• It brought together twenty-nine of the era’s preeminent scientists to discuss the emerging field of quantum theory.
+• The conference famously featured a debate between physicists Albert Einstein and Niels Bohr.
+• Bohr proposed that subatomic entities like electrons had only probable realities until they were observed.
+• Einstein argued that subatomic entities like electrons had a reality independent of observation.
+• Bohr’s position, later called the Copenhagen interpretation, remains the most widely accepted theory of quantum mechanics.
+
+A. In 1927, Einstein and Bohr engaged in a famous debate; Bohr’s argument, later called the Copenhagen interpretation, would remain popular decades after.
+B. The attendees of the 1927 Solvay Conference were among the preeminent scientists of their era, including Einstein, who opposed Bohr’s proposal.
+C. At the 1927 Solvay Conference on Physics, Einstein disagreed with Bohr’s argument that subatomic entities like electrons had a reality independent of observation.
+D. During the dawn of quantum theory, Einstein maintained the independent reality of some subatomic entities, although Bohr’s opposing interpretation would become the widely accepted view.
+Answer: D
+
+Question 14:
+[Synthesis]
+The student wants to emphasize a difference between the two sculptures. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Use the Future is a 1992 sculpture by Italian artist Maurizio Nannucci.
+• It consists of a yellow neon sign that spells out the title phrase.
+• Ginger is a 2023 sculpture by Japanese artist Rikako Kawauchi.
+• It consists of a pink neon sign that forms an abstract squiggle shape.
+• Neon signs became popular with advertisers in the 1920s and began to decline in popularity in the 1960s.
+• Neon signs became popular with artists in the 1960s and continue to be popular today.
+
+A. Molded into an evocative phrase in Use the Future (1992), an abstract form in Ginger (2023), and an advertising tool in decades past, neon lighting has a number of different applications.
+B. Italian artist Maurizio Nannucci’s and Japanese artist Rikako Kawauchi’s sculptures have employed neon signs in different ways, demonstrating the versatility of the popular material.
+C. Nannucci’s sculpture was made in 1992 and Kawauchi’s in 2023, both well after the advertising heyday of neon signs had passed.
+D. While the sculptures share a common material, one spells out a phrase while the other is decidedly more abstract.
+Answer: D
+
+Question 15:
+[Synthesis]
+The student wants to write a sentence that emphasizes a key distinction in the scale at which the strong nuclear and electromagnetic forces operate. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic a student has compiled the following notes:
+• Modern physics recognizes four fundamental forces: the strong nuclear force, the weak nuclear force, electromagnetism, and gravity.
+• The strong nuclear force, mediated by particles called gluons, is responsible for binding quarks into protons and neutrons, and subsequently, for holding the atomic nucleus together.
+• The operational range of the strong nuclear force is extremely limited, extending only to the approximate diameter of an atomic nucleus.
+• The electromagnetic force acts between electrically charged particles and is mediated by the photon. It is responsible for nearly all phenomena encountered in daily life, from the structure of atoms and molecules to the forces of friction and tension.
+• In contrast to the strong force, the range of the electromagnetic force is theoretically infinite, though its strength diminishes with distance.
+
+A. Both the strong nuclear force, mediated by gluons, and the electromagnetic force, mediated by photons, are fundamental interactions that govern the structure of matter.
+B. The strong nuclear force is responsible for binding quarks and holding the atomic nucleus together, while the electromagnetic force is responsible for the structure of atoms and molecules.
+C. Whereas the strong nuclear force's influence is confined to the subatomic scale, the electromagnetic force's reach between charged particles is effectively limitless.
+D. The primary difference between the two forces is that the strong nuclear force is mediated by gluons, while the electromagnetic force, which is weaker, operates over an infinite range.
+Answer: C
+

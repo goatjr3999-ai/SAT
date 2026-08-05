@@ -1,0 +1,385 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The education specialist’s long-standing success using illustrator Ashley Bryan’s *Beat the Story-Drum, Pum-Pum* in her classroom gave her an ______ air regarding the children's literature conference; she was unconcerned about its broad theme, knowing her authoritative command of specific, impactful works would be more than sufficient.
+
+
+A. obsequious
+B. trenchant
+C. soporific
+D. insouciant
+Answer: D
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+While the benefits of “agglomeration economies,” such as the large pool of skilled specialists available to the UK’s synthetic fiber industry, are well-documented, the phenomenon creates a ______ challenge for regional planners: balancing the economic advantages of industrial concentration with the significant strain it places on local infrastructure and housing.
+
+
+A. pernicious
+B. knotty
+C. salient
+D. quixotic
+Answer: B
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+While Mukherjee et al. posit that loss aversion is diminished when financial risks are minimal, Kellen Mryka et al. designed an experiment to determine if loss aversion becomes more ______ when participants are faced with substantial financial consequences, thereby challenging the assumption that the phenomenon is consistent regardless of the stakes involved.  
+
+
+A. ephemeral
+B. pronounced
+C. negligible
+D. precarious
+Answer: B
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+______ traditional descriptions of pollination syndromes (suites of floral traits, such as nectar volume and flower orientation, hypothesized to have independently evolved as a result of selection pressure exerted by pollinators) and recent empirical observations of floral-trait combinations have led some ecologists to express reservations about the utility of those descriptions.
+
+
+A. Proclamations of
+B. Recurrences of
+C. Discrepancies between
+D. Affinities between
+Answer: C
+
+Question 5:
+[Cross Text]
+Based on the texts, the author of Text 2 would most likely agree with which statement regarding the findings of Torres and colleagues (Text 1)?
+
+Text 1:
+In several coastal regions, the lionfish significantly preys upon juvenile reef fish. Marine biologist Elena M. Torres and her research team observed that when lionfish populations were briefly controlled, juvenile reef fish populations noticeably expanded. This outcome demonstrates a basic ecological concept: predator presence directly influences prey abundance.
+Text 2:
+Samuel Griffiths and Jessica Lowell discovered that removing sharks from specific marine habitats off the coast of South Africa, where sharks predominantly prey on seals, did not substantially alter seal populations. Although numerous predation-focused studies indicate a rise in prey populations following predator removal, these studies usually examine small marine organisms with high reproductive rates, such as small reef fish and shrimp, rather than large, slowly reproducing mammals like seals. Such distinctions in prey characteristics likely clarify the difference between Griffiths and Lowell’s findings and other studies.
+
+
+A. These findings might be partly influenced by biological traits of juvenile reef fish not shared by seals.
+B. These findings could differ if the size ratio between lionfish and juvenile reef fish was larger.
+C. These findings might partly result from the smaller size and rapid reproduction of lionfish compared to sharks.
+D. These findings may represent a phenomenon unique to juvenile reef fish rather than other marine species
+Answer: A
+
+Question 6:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+In his work, aesthetic theorist Alistair Finch posits that the efficacy of conventional narrative art stems from its mimetic correspondence to the phenomenal world. This effect is explicable as a function of cognitive processing: the successful reflection of a recognizable reality provides a stable interpretive framework for the audience. This principle of mimetic fidelity is considered a governing tenet in most aesthetic traditions. However, a departure from this paradigm is exhibited by many works of literary modernism, which often prioritize formal experimentation over realistic depiction. This inversion of priorities is attributable to a different artistic calculus, one in which the exploration of the medium's intrinsic properties yields a greater intellectual reward than mere verisimilitude.
+
+
+A. It presents a theory about art, explains the reason for it, and then discusses an exception that casts doubt on that reason.
+B. It describes a theory about art and gives a reason for it, states that this theory represents a general trend, and then describes and gives a reason for an exception to that trend.
+C. It discusses two different artistic approaches, explains why the first one works, and then suggests that the reason for the second approach is not yet understood.
+D. It presents a theory about art, indicates that the theory is widely accepted by many critics, and then attributes a conflicting artistic style to a difference in historical periods.
+Answer: B
+
+Question 7:
+[COE]
+Which choice most effectively uses data from the table to complete the text?
+
+**Physical Properties of Talc, Quartz, and Diamond**
+
+The hardness of minerals, a key identification characteristic measured on the Mohs scale, varies widely. At one end of the spectrum is a mineral like talc, renowned for its extreme softness. At the opposite end is diamond, the hardest known natural material. Many industrially significant minerals, such as quartz, possess an intermediate hardness. This specific property makes quartz exceptionally useful for applications ranging from watchmaking to abrasives, where a balance between durability and workability is essential. While talc is valued for its low hardness and diamond for its maximum hardness, the utility of quartz is defined by its specific position on the scale. An analysis of the physical properties of all three minerals demonstrates that __________.
+
+
+A. the industrial applications of quartz are a result of it having the lowest specific gravity of the three minerals.
+B. diamond's value comes from being both the hardest and the densest material listed in the table.
+C. despite its significant difference in hardness from talc, quartz shares a very similar specific gravity with it, while diamond is distinct in both properties.
+D. quartz is approximately seven times harder than talc but is only marginally denser than diamond.
+Answer: C
+
+Question 8:
+[Cross Text]
+Based on the texts, how would Rubayet Bin Mostafiz and colleagues (Text 2) most likely respond to the information presented in Text 1?
+
+Text 1:
+In northern and western Nebraska, many buildings and other structures rest on soil that is expansive, meaning that it swells or shrinks as its moisture level changes. Civil engineer Jay X. Wang has noted that the effects of expansive soil appear slowly in the form of gradually growing cracks in foundations, walls, and pavements. Because these effects are incremental and can generally be repaired (though at some cost), structures in northern and western Nebraska are typically not built to resist them.
+Text 2:
+In a 2021 study, Rubayet Bin Mostafiz and colleagues calculated that in the state of Louisiana alone, the annual cost of damage caused by expansive soils reaches nearly $90 million. But they note that this damage can be mitigated: building structures on pile supports can significantly reduce the effects of soil swelling and shrinking.
+
+
+A. They would recommend that engineers in northern and western Nebraska measure the moisture level in the soil beneath proposed structures before beginning construction.
+B. They would argue that engineers in northern and western Nebraska have misjudged the effectiveness of the techniques they use to reduce the effects of expansive soil.
+C. They would encourage engineers in northern and western Nebraska to use pile supports when building new structures.
+D. They would suggest that engineers in northern and western Nebraska consider the cost of replacing the pile supports on which existing structures rest.
+Answer: C
+
+Question 9:
+[COE]
+Which quotation from a literary scholar would most directly illustrate the text’s claim about East African poets?
+
+In addition to drawing on regional dialects and other local markers, contemporary East African literature is distinguished by the way it adapts well-known storytelling frameworks to indigenous circumstances. For instance, some authors draw on episodic narrative forms and mischievous protagonists originally seen in medieval sagas, while others reimagine the once-aristocratic or endangered heroines of the old romance tradition as more grounded East African figures shaped by social ties and historical forces. Certain poets of the region—such as Mulewa—have demonstrated even greater agility by transforming these borrowed elements into a distinctly different poetic mode.
+
+
+A. “The medieval romance, originating in Europe as early as the twelfth century, was eventually absorbed into African literary circles, as one can see in Mulewa’s likely familiarity with early colonial texts.”
+B. “What is the troubled, unsettling persona within Mulewa’s finest poems if not a classic trope of medieval romance, refracted through local East African speech and informed by the conventions of lyrical verse?”
+C. “With the pastoral scenery and humble figures populating Mulewa’s compositions, one might detect the influence of pastoral fiction, though these features may actually stem from older poetic traditions predating pastoral literature.”
+D. “When Mulewa engages one poetic genre only to abandon it a few lines later for an entirely different style, we must wonder whether this abrupt shift points to a deep fascination with genre itself or a deeper ambivalence toward it.”
+Answer: B
+
+Question 10:
+[COE]
+Which choice most effectively uses data from the graph to complete the statement?
+
+Neuroscientist Kiyohito Iijaya and colleagues developed a computational model to predict how much a person will enjoy a particular work of art on a scale from 1 (not at all) to 4 (very much). They then recruited participants to use the same scale to rate several sets of paintings in various styles and calculated the correlation between the ratings predicted by the model and those reported by the participants. Assuming participant P1 gave equal ratings to the impressionist and color-field paintings, the data in the graph suggest that the model predicted that ___.
+
+
+
+A. P1 would derive more aesthetic pleasure from impressionist paintings than from color-field paintings.
+B. P1’s ratings for impressionist and color-field paintings would differ from one another.
+C. P1 would derive less aesthetic pleasure from impressionist paintings than from color-field paintings.
+D. P1’s ratings for impressionist and color-field paintings would equal one another.
+Answer: B
+
+Question 11:
+[COE]
+Which finding from the researchers' study, if true, would most directly support the researchers' conclusion?
+
+Periods of subfreezing temperatures in Alaska have been growing shorter, potentially enabling increased carbon dioxide (CO2) absorption through greater productivity of goosefoot (*Chenopodium album*) plants and other vegetation, but also potentially elevating the activity of soil microorganisms. Jingfeng Xiao and her colleagues modeled seasonal changes in net CO2 in Alaska in a landscape grid of 1 square kilometer (km²) cells and again in a grid of 10 km² cells, which are finer resolutions than most models of net CO2 have achieved. The researchers concluded that variations in the landscape affect net CO2 in ways that most models are too coarse to capture.
+
+
+A. Higher average heterotrophic respiration rates were found for summer months than for winter months when modeled using either a grid of 1 km² cells or a grid of 10 km² cells.
+B. No correlations between seasonal variations in average heterotrophic respiration and CO2 absorption by C. album and other plant species were found when modeled using either a grid of 1 km² cells or a grid of 10 km² cells.
+C. Lower average heterotrophic respiration rates were found for autumn months when modeled using a grid of 1 km² cells than when modeled using a grid of 10 km² cells.
+D. When seasonal fluxes in average CO2 absorption and heterotrophic respiration were modeled using a grid of 1 km² cells, much more data were generated than when seasonal fluxes were modeled using a grid of 10 km² cells, though the two models reported identical net CO2.
+Answer: C
+
+Question 12:
+[COE]
+Which description of vocal manipulation in hyperpop is best supported by the text?
+
+A number of artists associated with hyperpop, a movement in electronic music that emerged in the 2010s, aggressively manipulate their recorded voice. The singer Dorian Electra, for example, shifts the pitch of their vocals to be much deeper than that of Electra's natural range. And even the hyperpop artists who don't rely on pitch-shifting, such as Rina Sawayama, often distort their vocals using digital tools. By persistently modifying the voice, hyperpop invites the listener to reflect on the extent to which digital technology mediates the human experience today.
+
+
+A. It serves as an example of digital technology's negative influence on daily life.
+B. It represents the continuity of human experience despite social and historical change.
+C. It functions as a commentary on contemporary social conditions.
+D. It symbolizes the power of contemporary music to influence listeners' sense of self.
+Answer: C
+
+Question 13:
+[Cross Text]
+Based on the texts, how would the author of Text 2 most likely respond to the underlined claim in Text 1?
+
+Text 1
+In 1995, James Cameron directed *Titanic*, a movie depicting the tragic sinking of the RMS Titanic. Since its release, *Titanic* has become a staple of film history and is frequently re-released in theaters. __However, the movie feels outdated, with an old-fashioned narrative and themes that no longer resonate with modern audiences__. For cinema to maintain its relevance, filmmakers need to create new classics instead of relying on dated productions.
+Text 2
+ While *Titanic* may seem antiquated, it remains a beloved film that continues to attract audiences and generate significant revenue for theaters. Even if the movie’s story feels dated, there are innovative ways to revitalize its appeal. For instance, Baz Luhrmann successfully reimagined classic narratives in his unique style. A modern adaptation of *Titanic*, incorporating updated perspectives and cinematic techniques, could similarly appeal to contemporary viewers.
+
+
+A. By challenging the notion that Titanic is outdated and disagreeing with the claim that reimagined versions wouldn’t appeal to today’s viewers.
+B. By agreeing that modern audiences have mostly lost interest in Titanic because it is too old-fashioned.
+C. By arguing that modernized versions of Titanic could help theaters increase their revenue while maintaining the film’s appeal.
+D. By suggesting that filmmakers should focus on reimagining Titanic for current audiences rather than discarding the film entirely.
+Answer: D
+
+Question 14:
+[COE]
+Which choice best describes data in the table that support the journalist’s claim?
+
+Population figures for a city can vary significantly depending on what areas are included in the count. Often, governments will report a value for the city proper (including only residents within the city limits) and another for the larger metropolitan area (including residents from nearby places beyond the city limits). Citing the data in the table, a journalist claims the population estimates from the United Nations (UN) most likely included people outside the cities proper.
+
+
+
+A. The reported city-proper population of Lima is significantly larger than the reported city-proper population of Atlanta.
+B. The UN estimated Lima’s population to be 10,391,000, which is significantly larger than the reported population for the city proper.
+C. The metropolitan area of Kuala Lumpur is significantly larger than 243 square kilometers.
+D. All the city-proper areas are below 3,000 square kilometers.
+Answer: B
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+In May of 1986, the Philippines liberalized its stock market, meaning that it began allowing foreign individuals and businesses to invest money in Filipino companies. This was part of a wave of stock market liberalizations around the world—Malaysia in 1987, Morocco in 1988, and so on. The standard view among economists at the time was that liberalization would make it easier for companies to raise money from investors. Economist Peter Blair Henry examined the economies of 11 countries that were part of the liberalization wave and found that, on average, companies based in those countries received significant increases in investment in the three years following liberalization, suggesting that ____.
+
+
+A. companies in Malaysia experienced a greater increase in investment following liberalization than did companies in the Philippines.
+B. economists who held the standard view of liberalization failed to anticipate some serious negative effects of liberalization.
+C. companies did not benefit from liberalization until at least three years after liberalization occurred.
+D. empirical evidence was consistent with the scholarly consensus about the consequences of liberalization.
+Answer: D
+
+Question 16:
+[COE]
+Which option most logically completes the text?
+
+The sea-grass Posidonia oceanica is among various marine plant species native to the Mediterranean Sea that face the threat of extinction. The long-term survival of many such species primarily relies on fish consuming their seeds and dispersing them across different marine regions. Although many native seed-eating fish populations in the Mediterranean have drastically declined, introduced fish species such as the rabbitfish have become widespread in these waters. Recent research confirms that these non-native fish are actively dispersing seeds in the Mediterranean, implying that the fish ______.
+
+
+A. disperse more marine plant seeds throughout the Mediterranean Sea than native fish historically did.
+B. have a considerably stronger preference for seeds from native marine plants compared to those of introduced plant species.
+C. may play a crucial role in sustaining endangered marine plant species, including Posidonia oceanica.
+D. could also partake in additional behaviors influencing the dispersal potential of Posidonia oceanica and other at-risk marine plants.
+Answer: C
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Focusing on Sideria ignescens—or ______ 2023 study by scientists Dr. Aurelio Montoya, Dr. Marianne Hutton, and Gavin Rutherford concluded that the plant successfully deters certain leaf-chewing insects by releasing volatile chemical exudates along its outer stems.
+
+
+A. ember lilies, as they’re more commonly identified, a
+B. ember lilies, as they’re more commonly identified—a
+C. ember lilies as they’re more commonly identified, a
+D. ember lilies, as they’re more commonly identified. A
+Answer: B
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Each year, the Nobel Prize in Literature is given to an author who has, in the words of its founder Alfred Nobel, "produced the most outstanding work in an idealistic ____ in 1912, for instance, judges recognized Gerhart Johann Robert Hauptmann "for his fruitful, varied and outstanding production in the realm of dramatic art."
+
+
+A. direction"
+B. direction" and,
+C. direction";
+D. direction,"
+Answer: C
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The small volcanic island known as Lō‘ihi is expected to have a relatively short lifetime in the central Pacific. Within just a few million years, Lō‘ihi is likely to emerge above sea level or be subsumed, according to _____ trajectory.
+
+
+A. geologists modeling of the seamounts
+B. geologist’s modeling of the seamount’s
+C. geologists’ modeling of the seamount’s
+D. geologists modeling of the seamount’s
+Answer: C
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A primary transcript of *C. pulsaris*, recovered from a layer of 10th-century sediment (900s AD) in the Nordic region, and a primary transcript of *V. scriptera*, recovered from a layer of 12th-century sediment (1100s AD) in the British Isles have been celebrated as relics of their respective ______ former in a collection at Copenhagen, Denmark's National Museum and the latter in a collection at London's British Library.
+
+
+A. traditions. The
+B. traditions; the
+C. traditions, and the
+D. traditions, the
+Answer: D
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Observing its vibrant colors, the poison dart frog seems conspicuously vulnerable to predators. As biologists have argued, however, the frog's bright coloration is an evolutionary adaptation—and explicit warning signal—of its high toxicity to would-be attackers. ______ despite its seemingly risky appearance, the coloration serves as a crucial defense mechanism.
+
+
+A. Nevertheless,
+B. For example,
+C. Moreover,
+D. As such,
+Answer: D
+
+Question 22:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The editors of *Home Ground: A Guide to the American Landscape* turned to Arturo Longoria, a nonfiction writer, to craft the entry for “arroyo,” a term referring to the bed of an intermittently dry stream or creek. For “lek,” however, the editors chose the ____ author of *The Very Rich Hours.*
+
+
+A. poet, Emily Hiestand,
+B. poet, Emily Hiestand
+C. poet Emily Hiestand
+D. poet Emily Hiestand,
+Answer: D
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Guard cells are specialized cells that are part of a plant’s pores. These cells help regulate the amount of carbon dioxide a plant takes in. ____ they help regulate a plant’s water loss.
+
+
+A. In conclusion,
+B. Additionally,
+C. Instead,
+D. Previously,
+Answer: B
+
+Question 24:
+[Synthesis]
+The student wants to explain how a Foucault pendulum provides evidence of Earth's rotation. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Czech Technical University in Prague, the Czech Republic, is home to a Foucault pendulum
+•The pendulum consists of a weighted ball that swings at the end of a roughly 21-meter-long cable.
+•Like all Foucault pendulums, it dangles from a fixed point that ensures the swing path of the pendulum doesn't change.
+•To an observer, the swing path of a Foucault pendulum appears to change over time because Earth rotates beneath it.
+•Foucault pendulums are used as a simple way to provide evidence of Earth's rotation.
+
+
+A. In Prague, the Czech Republic, a Foucault pendulum at Czech Technical University provides evidence of Earth's rotation
+B. Though it swings on an unchanging path, a Foucault pendulum appears to change its swing path over time because Earth rotates beneath it.
+C. A Foucault pendulum, which consists of a weighted ball at the end of a long cable, provides evidence of Earth's rotation.
+D. The Foucault pendulum at Czech Technical University in Prague, the Czech Republic, swings on an unchanging path, but Earth rotates beneath it.
+Answer: B
+
+Question 25:
+[Synthesis]
+The student wants to explain why the modern scientific consensus rejects the concept of linguistic determinism. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching cognitive linguistics, a student has taken the following notes:
+• The principle of linguistic relativity posits that the structure of a language affects its speakers' cognition and worldview.
+ • This principle is often associated with the Sapir-Whorf hypothesis, which has two main interpretations.
+ • The "strong" version, known as linguistic determinism, asserts that language *determines* thought; an individual's cognitive categories are limited and defined by their linguistic categories.
+ • The "weak" version, linguistic relativity, proposes that language merely *influences* thought and certain non-linguistic behaviors, creating biases or tendencies but not insurmountable constraints.
+ • Most contemporary research has largely discredited linguistic determinism as being too absolute.
+ • Evidence for the weak version exists; for example, studies show that speakers of languages with grammatical gender may subconsciously attribute stereotypically masculine or feminine properties to inanimate objects.
+ • The modern consensus is that while language can shape certain cognitive habits, it does not imprison the mind within a fixed framework.
+
+
+A. According to the modern view, linguistic determinism is untenable because it suggests that thought is merely influenced by language, a position that fails to account for how grammatical gender can shape perceptions of objects.
+B. Linguistic determinism is rejected because while language has been shown to influence cognitive tendencies—creating perceptual biases—it does not determine thought by imposing rigid, inescapable boundaries on what a person can conceive.
+C. The Sapir-Whorf hypothesis, which encompasses both linguistic determinism and linguistic relativity, has been a foundational concept in exploring the intricate relationship between language and human cognition.
+D. Because the weak version of the hypothesis has been supported by evidence, the strong version, linguistic determinism, has been largely discredited by most contemporary researchers.
+Answer: B
+
+Question 26:
+[COE]
+Which choice most effectively uses information from the given sentences to begin a narrative about Merle Oberon’s life?
+
+While researching a topic, a student has taken the following notes:
+• Merle Oberon (1911–1979) was an actress born in Mumbai (then known as Bombay), India.
+• She was of Indian, Maori, and Irish heritage.
+• She was the first Indian-born actress to be nominated for an Academy Award.
+• Early in her career, she played many nameless, uncredited roles, such as her role in The Three Passions (1928).
+• Later, she played many named, credited roles, such as Empress Josephine in Désirée (1954).
+
+
+A. In 1954, Merle Oberon played the role of Empress Josephine in the film Désirée.
+B. Merle Oberon appeared in many films, including The Three Passions (1928) and Désirée (1954), and was the first Indian-born actress to be nominated for an Academy Award.
+C. Though she would go on to receive credit in many films, Merle Oberon also played nameless, uncredited roles in many films, such as in the movie The Three Passions (1928).
+D. Merle Oberon’s story begins in Mumbai (then known as Bombay), India, in 1911.
+Answer: D
+
+Question 27:
+[Synthesis]
+The student wants to explain the significance of New Jersey's NPVIC adoption. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•In the Electoral College system that determines the outcome of US presidential elections, the winner of New Jersey's popular vote receives all 14 of New Jersey's electoral votes.
+•A 2001 article written by law professors Akhil and Vikram Amar proposed that states could instead agree to award their electoral votes to the winner of the national popular vote.
+•The Amars' idea is the basis of the National Popular Vote Interstate Compact (NPVIC).
+•If states holding a majority of electoral college votes (270) adopt the NPVIC, the compact will take effect and adopters will award their electoral votes accordingly.
+•New Jersey adopted the NPVIC in 2008.
+
+
+A. According to the idea proposed by the Amars, the winner of New Jersey's popular vote will receive all of the state's electoral votes if the NPVIC takes effect.
+B. An agreement among US states to award their electoral votes to the presidential candidate who wins the national popular vote was adopted by New Jersey in 2008.
+C. If the NPVIC takes effect, adopter New Jersey will award all 14 of its electoral votes to the winner of the national, rather than the state's, popular vote.
+D. Because it has adopted the NPVIC, New Jersey will award its electoral votes to the winner of the state's popular vote—once states holding a majority of electoral college votes (270) do the same.
+Answer: C

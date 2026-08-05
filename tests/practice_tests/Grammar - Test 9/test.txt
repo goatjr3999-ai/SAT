@@ -1,0 +1,240 @@
+Question 1:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A worker cooperative is a business that is owned and operated by its workers. This model stands in contrast to traditional models in which a smaller group of owners controls a company. Because the profits made by a cooperative are shared by all workers—who are also owners—the workers ____ directly from its success.
+
+A. benefit
+B. had benefited
+C. benefited
+D. were benefiting
+Answer: A
+
+Question 2:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Recent ice core studies from the Arctic regions have led some climatologists to suggest that the currently frozen landscapes were once home to diverse flora. This hypothesis ______ that certain plant species, such as Salix arctica, thrived without significant human disturbance or drastic environmental changes throughout the Last Glacial Maximum, cannot stand, argue researchers Dr. Anne Keller and Dr. Luis Morales, unless other plausible explanations are first examined.
+
+A. proposes
+B. proposed
+C. proposing
+D. has proposed
+Answer: C
+
+Question 3:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The dietary habits of deep-sea creatures are often a mystery to marine biologists. In 2023, a research team, comprising experts from multiple marine science disciplines, ______ to identify the primary food source for the colossal squid examined the stomach contents of a specimen found in the Southern Ocean. The team discovered that the squid’s diet consisted of more fish than was previously believed.
+
+A. were attempting
+B. was attempting
+C. attempted
+D. attempting
+Answer: D
+
+Question 4:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Reena Esmail, an Indian American classical composer, incorporates Indian musical elements into her work. Esmail’s 2013 violin-and-piano composition *Jhula-Jhule* intertwines the melodies of two Indian folk ___ in *TaReKiTa*, a 2016 choral composition, Esmail features onomatopoeic notes imitating the sounds of the *tabla*, a type of Indian drum.
+
+A. songs, for instance,
+B. songs. For instance, while
+C. songs; for instance,
+D. songs, for instance, while
+Answer: D
+
+Question 5:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In her recent paper, ecologist Dr. Anya Sharma details the dietary habits of urban coyotes in Chicago. Sharma's comprehensive study ______ over 500 scat samples collected from a wide range of urban and suburban zones, including parks, industrial lots, and residential backyards reveals not only a heavy reliance on rodents and human refuse but also an unexpected consumption of fruit from ornamental trees.
+
+A. analyzed
+B. analyzing
+C. analyzes
+D. had analyzed
+Answer: B
+
+Question 6:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The length of bird eggs varies widely across species, and an ecological _____ compared the lengths of eggs produced by different bird species found Haliastur indus eggs to be longer, on average, than Calidris alpina eggs.
+
+A. study, that
+B. study
+C. study that
+D. study, which
+Answer: C
+
+Question 7:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+During the decades-long movement to codify the rights of Latinos in the US, certain events were pivotal: the founding of labor rights group El Teatro Campesino in ________ Serna v. Portales Schools court decision in 1974, which affirmed the rights of Latino students, is another such event.
+
+A. 1965, for one, the
+B. 1965, for one. The
+C. 1965 for one, the
+D. 1965. For one, the
+Answer: B
+
+Question 8:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In the early days of cinema, films were often called "photoplays" after the stage productions they initially emulated. Known as the silent era, this period in filmmaking is celebrated for its visual storytelling and dramatic expression, its movies ______ by cinephiles for their innovative techniques and emotive performances.
+
+A. deeply admired
+B. had been deeply admired
+C. are deeply admired
+D. were deeply admired
+Answer: A
+
+Question 9:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The parks of Austin, Texas, seem to be making people happier. In 2022, a team of researchers ______ to find connections between the physical location in which a social media post was created and the content of that post analyzed geotagged social media posts from various sites in Austin. The team found that posts from the city’s parks contained more words associated with happiness than did the other posts.
+
+A. were hoping
+B. hoped
+C. was hoping
+D. hoping
+Answer: D
+
+Question 10:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Despite the fact that what is now known as the Carmichael number was first posited by Václav Šimerka, the number is named after the twentieth-century American mathematician Robert Carmichael. One might assume cases like this, where a discovery or concept is not named after the first person who discovered it, to be ____ they are counted among a litany of examples of Stigler's law.
+
+A. rare on the contrary,
+B. rare, on the contrary;
+C. rare, on the contrary,
+D. rare; on the contrary,
+Answer: D
+
+Question 11:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A colossal structure of gas, dust, and dark matter, ______
+
+A. Fritz Zwicky, a Swiss astrophysicist, first inferred the existence of unseen mass by studying the Coma Cluster.
+B. cosmological simulations are used by researchers to model the formation and evolution of the Coma Cluster.
+C. the Coma Cluster, a supercluster containing over a thousand identified galaxies, is one of the first places where anomalies pointing to dark matter were observed.
+D. the observation of the Coma Cluster by Swiss astrophysicist Fritz Zwicky led to the first inference of unseen mass.
+Answer: C
+
+Question 12:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+While the greater adjutant can be found in places like the Inner Gulf of Thailand and the Chhep Wildlife Sanctuary in Cambodia, more than 80 percent of this endangered stork species is found in Assam, India. There, wildlife biologist Dr. Purnima Devi Barman is on the front lines of conservation efforts that—through community involvement and scientific ____ aim to bring adjutants back from near extinction.
+
+A. study,
+B. study—
+C. study:
+D. study
+Answer: B
+
+Question 13:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Consider the mechanics of quantum entanglement: particles become intertwined, resulting in their states being dependent on one another. A theoretical framework reveals how this ________ the particles’ connection remains intact regardless of distance, all changes to one particle are instantly reflected in the other, eliminating any need for local interaction and ensuring quantum coherence.
+
+A. operates because
+B. operates. Because
+C. operates, it's because
+D. operates: it's because
+Answer: B
+
+Question 14:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Researchers studying how agricultural fertilizers impact grassland arthropod populations have employed several collection methods. A team led by researcher Maria K. Hartley collected arthropods with _____ another research team, led by Kimberly J. La Pierre, gathered them with bug vacuums.
+
+A. sweep nets, for instance;
+B. sweep nets; for instance,
+C. sweep nets, for instance,
+D. sweep nets for instance
+Answer: A
+
+Question 15:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+As a behavioral economist, Ai Hisano of Kyoto University recognizes that people sometimes make irrational economic decisions. Hisano’s research can thus address anomalies that neoclassical economic ___ assume that people are consistently rational decision-makers—cannot explain.
+
+A. models which—
+B. models which
+C. models—which
+D. models, which
+Answer: C
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+While the greater adjutant (Leptoptilos dubius) can be found in places like the Inner Gulf of Thailand and Manchar Lake in _____ than 80 percent of this endangered stork species is found in Assam, India. There, wildlife biologist Dr. Purnima Devi Barman is on the front lines of conservation efforts to bring adjutants back from near extinction.
+
+A. Pakistan, more
+B. Pakistan; more
+C. Pakistan. More
+D. Pakistan more
+Answer: A
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The 2001 album *Gorillaz* was created by Damon Albarn. At the time the album was first released, many listeners didn’t know Albarn was the ______ musician that appeared on the album’s cover—the animated character 2-D—obscured the artist’s true identity.
+
+A. musician, though. The
+B. musician, though, the
+C. musician; though, the
+D. musician though, the
+Answer: A
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Arundhati Rao’s 2004 novel *Echoes of the Banyan Tree*, a fictionalized narrative about the lives of the Joshi _______ provides an entry point for readers seeking to understand how the complexities of colonial legacies have been portrayed in Indian diasporic literature.
+
+A. family, and
+B. family and
+C. family,
+D. family
+Answer: C
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In her work, Bay of Quinte Mohawk artist Hannah Claus uses suspended sculptural installations to explore themes such as time, place, and nature. The Eiteljorg Museum counts pieces by Claus in _____ impressive collection of Native artworks.
+
+A. her
+B. it’s
+C. its
+D. their
+Answer: C
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A foundational text drafted primarily by Thomas Jefferson during the Second Continental ___ the Declaration of Independence stands as a seminal document in American history.
+
+A. Congress
+B. Congress:
+C. Congress;
+D. Congress,
+Answer: D
+

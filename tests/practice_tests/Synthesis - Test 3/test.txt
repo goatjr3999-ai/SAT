@@ -1,0 +1,251 @@
+Question 1:
+[Synthesis]
+The student wants to connect the quotation from Browner with information about Ballard’s composition. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Louis Ballard was a classical composer and citizen of the Quapaw Tribe.
+• He sought to synthesize Western classical music with elements of various Native musical traditions.
+• Ballard’s composition Pan Indian Rhythms incorporates Ute notched sticks, a traditional Native instrument.
+• Ethnomusicologist Tara Browner writes that Ballard’s classical music “relies on Indigenous instruments, rhythms, forms,...and other musical elements.”
+
+A. Discussing Ballard’s body of works, Browner observes that it relies on elements of various Native musical traditions.
+B. Browner notes that Ballard’s music “relies on Indigenous instruments, rhythms, forms,...and other musical elements,” further indicating that it synthesizes Western classical music with elements of various Native music traditions.
+C. Consistent with Browner’s observation that Ballard’s music “relies on Indigenous instruments, rhythms, forms,...and other musical elements,” Pan Indian Rhythms incorporates Ute notched sticks.
+D. Browner’s writing discusses Ballard, the classical music composer responsible for Pan Indian Rhythms.
+Answer: C
+
+Question 2:
+[COE]
+Which choice most effectively uses information from the given sentences to emphasize the discovery of (15836) 1995 DA2 to an audience already familiar with Jane Luu?
+
+While researching a topic, a student has taken the following notes:
+• Minor planets are astronomical objects that orbit the Sun but are neither planets nor comets.
+• Astronomer Jane Luu has discovered many minor planets in her career.
+• Alongside colleague David C. Jewitt, she discovered the minor planet (15836) 1995 DA2 on February 24, 1995.
+• Alongside colleagues David C. Jewitt, Chadwick Trujillo, and K. Berney, she discovered the minor planet (24952) 1997 QJ4 on August 28, 1997.
+
+A. First there was the discovery of (15836) 1995 DA2 on February 24, 1995, and then on August 28, 1997, Jane Luu discovered yet another minor planet with the help of her colleagues David C. Jewitt, Chadwick Trujillo, and K. Berney.
+B. Astronomer Jane Luu helped discover not only the minor planet (15836) 1995 DA2 on February 24, 1995, but also (24952) 1997 QJ4 on August 28, 1997.
+C. Jane Luu is an astronomer famous for her discovery of many minor planets in our solar system, including (15836) 1995 DA2.
+D. On February 24, 1995, Jane Luu and her colleague David C. Jewitt made the exciting discovery of the minor planet (15836) 1995 DA2.
+Answer: D
+
+Question 3:
+[Synthesis]
+The student wants to present an overview of the study’s findings. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Researchers in a 2021 study wanted to determine the rate at which 17 languages conveyed both information and syllables.
+• They calculated the bits of information conveyed per second (the IR, or information rate).
+• The IR was found to be approximately consistent across the 17 languages (an average of 39 bits per second).
+• They calculated the number of syllables spoken per second (the SR, or syllable rate).
+• Spanish had the second-fastest SR (7.7 syllables per second).
+• Vietnamese had the sixteenth-fastest SR (5.3 syllables per second).
+
+A. Though some of the languages differed in number of syllables spoken per second, all 17 conveyed information at roughly the same rate.
+B. The 2021 study determined the information rate (IR) of 17 languages in bits of information conveyed per second.
+C. Vietnamese had the sixteenth-fastest syllable rate, lower than that of Spanish, which had the second-fastest; however, Spanish had the lower information rate of the two.
+D. Researchers found that information was conveyed more quickly in Spanish, at 7.7 syllables per second, than in Vietnamese, at 5.3 syllables per second.
+Answer: A
+
+Question 4:
+[Synthesis]
+The student wants to identify the sculpture for which Arp won a Carnegie Prize gold medal. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Artist Jean Arp of Germany won a Carnegie Prize gold medal in 1964.
+• The Carnegie Prize is an international art competition.
+• It is administered by the Carnegie Museum of Art in Pittsburgh, Pennsylvania.
+• Arp’s winning artwork was a sculpture entitled Sculpture Classique.
+
+A. In 1964, an artist from Germany won a Carnegie Prize gold medal for a sculpture.
+B. The Carnegie Museum of Art awarded Arp a gold medal in 1964.
+C. Arp won a Carnegie Prize gold medal for the sculpture Sculpture Classique.
+D. The Carnegie Prize is an international art competition administered by the Carnegie Museum of Art in Pittsburgh, Pennsylvania.
+Answer: C
+
+Question 5:
+[COE]
+Which choice most effectively uses information from the given sentences to specify what type of neutrino research Kim is known for?
+
+While researching a topic, a student has taken the following notes:
+• Soo-Bong Kim is a South Korean particle physicist.
+• Particle physicists study subatomic particles.
+• Neutrinos are some of the least understood subatomic particles.
+• Kim is known for his research on neutrino oscillations.
+
+A. Neutrinos are a type of subatomic particle that particle physicists are still trying to understand.
+B. Soo-Bong Kim, whose research involves particle physics, is from South Korea.
+C. In the ongoing pursuit to better understand these subatomic particles, particle physicist Soo-Bong Kim is known for his research on neutrino oscillations.
+D. One scientist who has worked to advance our understanding of neutrinos is the South Korean particle physicist Soo-Bong Kim.
+Answer: C
+
+Question 6:
+[COE]
+Which choice most effectively uses information from the given sentences to begin a narrative about one of the athletes?
+
+While researching a topic, a student has taken the following notes:
+• Curtis Martin and Jim Brown had historic careers as running backs in the National Football League (NFL).
+• The running back position entails running, or rushing, down the field with the football to gain yards for the team.
+• Curtis Martin gained a total of 14,101 rushing yards in his career.
+• He played for the New England Patriots and the New York Jets.
+• Jim Brown gained a total of 12,312 rushing yards in his career.
+• He played for the Cleveland Browns.
+
+A. Martin began his career with the New England Patriots; Brown started with Cleveland Browns.
+B. When Martin put on his New England Patriots uniform for his first NFL game, he began what would become a legendary professional career.
+C. While Martin finished his career with more rushing yards, both Martin and Brown reached the career milestone of rushing for over 10,000 yards total.
+D. Martin’s blend of speed, power, and agility helped him accrue 14,101 rushing yards by the end of his career, etching his name into the NFL’s record books.
+Answer: B
+
+Question 7:
+[COE]
+Which choice most effectively uses information from the given sentences to present the study’s findings to an audience already familiar with the concept of seedling emergence?
+
+• In a 2003 study, Alexander and Schrag tested the effect of plant litter on seedling emergence in a grassland setting.
+• The test site was a mesic grassland in a dry midlatitude climate in the United States.
+• The researchers found that in these environmental conditions the presence of plant litter had a positive effect on seedling emergence.
+• Seedling emergence is when a seedling sprouts above ground and begins photosynthesis.
+
+A. The findings of Alexander and Schrag’s study were published in 2003.
+B. In a 2003 study by Alexander and Schrag, plant litter was found to have a positive effect on seedling emergence, which is when a seedling sprouts and begins photosynthesis.
+C. The effect of plant litter, which includes dead leaves and other plant matter, on seedling emergence has been the subject of scientific study.
+D. Alexander and Schrag found that in a mesic grassland and a dry midlatitude climate the presence of plant litter had a positive effect on seedling emergence.
+Answer: D
+
+Question 8:
+[Synthesis]
+The student wants to emphasize a difference between the two compositions. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Louis Ballard was a classical composer and citizen of the Quapaw Tribe.
+• His compositions synthesize Western classical music with elements of various Native musical traditions.
+• Ballard’s classical piece Live On, Heart of My Nation features a Choctaw hymn.
+• Ballard’s classical piece Caçoća Áyaqsʉ incorporates a Haida gourd rattle, a traditional Native instrument.
+
+A. While both compositions integrate various Native musical traditions, Live On, Heart of My Nation does so by featuring a Choctaw hymn and Caçoća Áyaqsʉ does so by incorporating a Haida gourd rattle.
+B. Live On, Heart of My Nation and Caçoća Áyaqsʉ are two compositions written by Ballard, a classical music composer.
+C. In his two compositions Live On, Heart of My Nation and Caçoća Áyaqsʉ, Ballard blends elements of various Native musical traditions, such as Indigenous hymns or instruments, with Western classical music.
+D. Ballard has different approaches to blending Western classical music with elements of various Native musical traditions, such as using Indigenous hymns and instruments in his compositions.
+Answer: A
+
+Question 9:
+[Synthesis]
+The student wants to emphasize the relative scale of the two planets' masses in proportion to their host stars. Which choice most effectively uses information from the given sentences to emphasize this relationship?
+
+While researching a topic, a student has taken the following notes:
+• Jupiter is the largest planet in Earth's solar system.
+• Its mass is approximately 318 Earth masses.
+• Jupiter's mass constitutes about 0.095% of the Sun's mass.
+• Exoplanet HD 100546 b orbits a star outside the solar system.
+• Its mass is approximately 2,300 Earth masses.
+• HD 100546 b's mass constitutes about 0.036% of its host star's mass.
+
+A. Jupiter's mass is 318 Earth masses and it is the largest planet in our solar system, while exoplanet HD 100546 b has a mass of 2,300 Earth masses.
+B. When comparing the planets, 318 Earth masses is 0.095% of the Sun's mass, and 2,300 Earth masses is 0.036% of the exoplanet's host star's mass.
+C. Despite exoplanet HD 100546 b having a significantly larger absolute mass (2,300 Earth masses) than Jupiter (318 Earth masses), Jupiter's mass accounts for a larger percentage of its host star's mass.
+D. The masses of Jupiter and exoplanet HD 100546 b are approximately 318 and 2,300 Earth masses, respectively.
+Answer: C
+
+Question 10:
+[Synthesis]
+The student wants to synthesize information from the notes to emphasize a key functional similarity between the roles of the CREB and Arc proteins in memory formation. Which choice most effectively uses relevant information to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Long-Term Potentiation (LTP) is a persistent strengthening of synapses, widely considered a key cellular mechanism underlying the consolidation of memory.
+• A 2015 study by neurobiologist Anya Sharma demonstrated that activating the transcription factor CREB is indispensable for the late phase of LTP (L-LTP), which occurs several hours after the initial synaptic stimulation.
+• Sharma’s work revealed that CREB-initiated gene transcription leads to the synthesis of new proteins that structurally reinforce and maintain the altered synapse for long periods.
+• A 2018 study from Ben Carter’s lab focused on the immediate-early gene Arc, showing its protein product is rapidly synthesized locally at the synapse and is critical for stabilizing synaptic changes within the first hour by regulating actin filaments.
+• In a prominent review, neuroscientist Evelyn Reed characterized memory consolidation as a “protracted and multi-phasic process,” arguing that its permanence relies on “an orchestrated cascade of both rapid, local modifications and slower, nucleus-dependent changes.”
+
+A. Research by Sharma and Carter has shown that the synthesis of proteins, whether through CREB-initiated transcription or local Arc production, is a critical feature of Long-Term Potentiation.
+B. Sharma's research into the CREB protein and Carter's work on the Arc protein both identified molecules that are essential for the initial, early phase of LTP that occurs within the first hour of stimulation.
+C. Although their mechanisms and timelines differ, both the CREB protein investigated by Sharma and the Arc protein studied by Carter function as key components in the “protracted and multi-phasic process” of consolidating synaptic changes (Reed).
+D. The roles of the CREB and Arc proteins differ, in that Sharma’s work shows CREB is involved in nucleus-dependent changes while Carter’s work shows Arc is involved in rapid, local modifications at the synapse.
+Answer: C
+
+Question 11:
+[COE]
+Which choice most effectively uses information from the given sentences to emphasize how Wilkerson documents the Great Migration?
+
+While researching a topic, a student has taken the following notes:
+• Historian Isabel Wilkerson’s book The Warmth of Other Suns is about the Great Migration.
+• The Great Migration was a period in twentieth-century US history when over six million African Americans moved from the rural South to cities such as Detroit, Michigan.
+• To document this period, Wilkerson narrates the personal journeys of George Swanson Starling and Robert Pershing Foster, among others.
+• The book won the Mark Lynton History Prize in 2011.
+• It also won the National Book Critics Circle Award in 2011.
+
+A. Detroit, Michigan, is one of the cities whose African American populations grew during the Great Migration.
+B. Isabel Wilkerson chronicles the complex history of the Great Migration in such riveting, personal detail by narrating the journeys of individuals, such as George Swanson Starling and Robert Pershing Foster.
+C. In 2011, Isabel Wilkerson’s book The Warmth of Other Suns won not only the Mark Lynton History Prize but also the National Book Critics Circle Award.
+D. The personal journey of George Swanson Starling is featured in the award-winning book The Warmth of Other Suns.
+Answer: B
+
+Question 12:
+[Synthesis]
+The student wants to emphasize a difference between the two sculptures. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Need Money for Cars is a 2023 sculpture by American artist Beau Dunn. It consists of a white neon sign that spells out the title phrase.
+• Pyramid (Yellow) is a 2011 sculpture by Mexican-Swiss artist Ana Roldán. It consists of a yellow neon sign that forms an abstract triangle shape.
+• Neon signs became popular with advertisers in the 1920s and began to decline in popularity in the 1960s.
+• Neon signs became popular with artists in the 1960s and continue to be popular today.
+
+A. While the sculptures share a common material, one spells out a phrase while the other is decidedly more abstract.
+B. Molded into an evocative phrase in Need Money for Cars (2023), an abstract form in Pyramid (Yellow) (2011), and an advertising tool in decades past, neon lighting has a number of different applications.
+C. Roldán’s sculpture was made in 2011 and Dunn’s in 2023, both well after the advertising heyday of neon signs had passed.
+D. American artist Beau Dunn’s and Mexican-Swiss artist Ana Roldán’s sculptures have employed neon signs in different ways, demonstrating the versatility of the popular material.
+Answer: A
+
+Question 13:
+[Synthesis]
+The student wants to compare McClintock's discovery with Lederberg's. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• In the 1940s, geneticist Barbara McClintock discovered mobile segments of DNA.
+• McClintock called these segments "controlling elements," but they are now commonly known as transposable elements (TEs).
+• TEs are capable of altering gene expression as they change position within a cell's genome.
+• In 1950, geneticist Esther Lederberg discovered a process (the lysogenic cycle) by which bacteria-infecting viruses (phages) pass their genetic material to a host cell's descendants.
+• Phage DNA will enter a bacterial host cell and incorporate itself into the host cell's genome.
+• When the host cell divides, the phage DNA replicates along with the host's DNA.
+
+A. Like McClintock's discovery, which revealed moving DNA segments within a cell's genome, Lederberg's discovery also involved DNA mobility, showing how phage DNA will enter a bacterial host cell and incorporate itself into the cell's genome.
+B. Both McClintock and Lederberg were geneticists: McClintock found that phage DNA could be passed to bacterial host cells, and Lederberg identified DNA segments that can change position within genomes.
+C. McClintock's and Lederberg's discoveries provided insight into how phage DNA uses the lysogenic cycle to change position within the genome of a bacterial host cell.
+D. While McClintock first discovered DNA segments capable of altering gene expression, Lederberg's discovery provided geneticists with a better understanding of how TEs move within host cells.
+Answer: A
+
+Question 14:
+[Synthesis]
+The student wants to emphasize a similarity between EPDM rubber and single-ply NiTi wire fibers. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Generally, an object will heat up when twisted.
+• The twisting of an object is known as torsion.
+• A 2019 study led by Zunfeng Liu and Ray Baughman tested the torsional heating of various fibers.
+• When a sample of ethylene propylene diene monomer (EPDM) rubber fiber was twisted, its average surface temperature increased by 12°C.
+• When a sample of single-ply nickel-titanium (NiTi) wire was twisted, its average surface temperature increased by 21.3°C.
+
+A. Both EPDM rubber and single-ply NiTi wire fibers heat up when twisted, according to a 2019 study.
+B. Researchers determined that when the fibers were twisted, the average surface temperature of single-ply NiTi wire increased more than that of EPDM rubber.
+C. In 2019, two research teams observed the effects of torsional heating on various fibers, including EPDM rubber and single-ply NiTi wire.
+D. Twisting an object will generally cause its temperature to increase, a process known as torsional heating.
+Answer: A
+
+Question 15:
+[Synthesis]
+The student wants to specify the proportion of the total smartphone market sales that belongs to Innovate Inc. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Market share is a measure of a company's sales relative to the size of a specific market.
+• A company's market share can be expressed as a percentage.
+• The percentage is calculated as the company's total sales divided by the total sales of all companies in that market.
+• In the global smartphone market, Innovate Inc.'s market share is 35%.
+• In the same market, Connect Corp.'s market share is 12%.
+
+A. Innovate Inc.'s share of the global smartphone market is larger than Connect Corp.'s, a fact reflected in their respective market share percentages.
+B. The market share of Innovate Inc. can be expressed as a percentage, a figure representing its sales relative to the entire market.
+C. The market share held by Innovate Inc. in the global smartphone market is 35%.
+D. Innovate Inc.'s sales as a proportion of total sales in the global smartphone market is 12%.
+Answer: C
+

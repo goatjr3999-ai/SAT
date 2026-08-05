@@ -1,0 +1,362 @@
+Question 1:
+[WIC]
+As used in the text, what does the word "place" most nearly mean?
+
+The following text is from Lilliam Rivera's 2020 novel *Never Look Back*. The text describes the narrator arriving at his father's apartment.
+
+"Pops, I'm here!" I drop my bag and set my guitar case against a wall. I __place__ my keys on the bowl right next to the ceramic elephant Pops got me on one of his trips to Santo Domingo when I was a little kid.©2020 by Lilliam Rivera
+
+A. Put
+B. Remove
+C. Rank
+D. Unfold
+Answer: A
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+One way to ______ the importance of a scholar's research is to track how often other scholars refer to that research. For example, Federal Reserve Bank of Cleveland economist Loretta J. Mester, who studies central banking, is among the world's most frequently cited researchers in her field, indicating that her work has been quite significant.
+
+A. diminish
+B. increase
+C. vary
+D. measure
+Answer: D
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Though most hoaxes perpetrated as jokes by mischievous users of Wikipedia, an online encyclopedia that almost anyone can freely edit, have quickly been detected and removed, a few fictitious entries, such as those for the American punk rock band The Deadweights and the 17th-century legislator Nicholas Burkhart, persisted on the site for many years before they were finally recognized as ______ and deleted.
+
+A. enhancements
+B. pranks
+C. revelations
+D. analyses
+Answer: B
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+There are many famous examples of election pollsters making inaccurate predictions in presidential elections. But neuroscientist and election pollster Sam Wang has said that these prediction failures should not lead campaigns to ______ election polling entirely. Polling is about more than just predicting the winner; throughout campaigns, it helps strategists identify where their efforts are most likely to be effective.
+
+A. distort
+B. neglect
+C. supplement
+D. enact
+Answer: B
+
+Question 5:
+[WIC]
+As used in the text, what does the word "manifest" most nearly mean?
+
+The following text is adapted from Virginia Woolf's 1919 novel *Night and Day*. Katharine is the granddaughter of a celebrated poet.
+
+[Katharine's] descent from [a celebrated poet] was no surprise to her, but matter for satisfaction, until, as the years wore on, certain drawbacks made themselves very __manifest__. Perhaps it is a little depressing to inherit not lands but an example of intellectual virtue, perhaps the conclusiveness of a great ancestor is a little discouraging to those who run the risk of comparison with him.
+
+A. Particular
+B. Involved
+C. Expected
+D. Evident
+Answer: D
+
+Question 6:
+[Cross Text]
+What is a city? The answer depends on where you live! Many countries define an area as a city based on how many people live there. However, not every country uses the same numbers. Albania defines a city as an area with a population of at least 400, while Greece defines a city as having a minimum population of 10,000. Some countries even define cities using other factors, like the number of buildings in the area.
+
+Text 1
+undefined
+
+Text 2
+undefined
+
+A. It lists the number of cities in one country, then compares that number to the number of cities in another country.
+B. It poses a question, then explains why the question has many answers.
+C. It describes two locations, then explains why only one of the locations is considered a city.
+D. It offers a recommendation, then provides reasons for that recommendation.
+Answer: B
+
+Question 7:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is from Bram Stoker's 1911 novel *The Lair of the White Worm*. Adam is meeting his great-uncle Richard at a port.
+
+The meeting, so auspiciously begun, proceeded well. Adam, seeing that the old man was interested in the novelty of the ship, suggested that he should stay the night on board, and that he would himself be ready to start at any hour and go anywhere that the other suggested. This affectionate willingness to fall in with his own plans quite won the old man's heart, he warmly accepted the invitation, and at once they became not only on terms of affectionate relationship, but almost like old friends.
+
+A. It describes why Adam and his great-uncle Richard are excited for their upcoming journey on the ship.
+B. It contrasts great-uncle Richard's wary first impressions of Adam with his ultimate affection toward him.
+C. It showcases how Adam's flexibility and consideration strengthen his relationship with his great-uncle Richard.
+D. It states the reasons why Adam and his great-uncle Richard decide to sleep on the ship rather than finding lodging on land.
+Answer: C
+
+Question 8:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+A team of researchers discovered that Matabele ants can identify an infected wound in a member of the colony and then treat the infection by covering the wound with antimicrobial secretions that the ants produce. The team found that the mortality rate for Matabele ants with infected injuries was reduced by 90% with this treatment, and they are hopeful that this discovery could aid in the development of new antibiotics for human use.
+
+A. It identifies an issue concerning Matabele ants and then proposes a solution to address the issue.
+B. It summarizes research findings on Matabele ants and then identifies an area for further research.
+C. It describes unique properties of Matabele ants and then speculates on how those properties evolved.
+D. It introduces a study of Matabele ants and then explains the research methods used in the study.
+Answer: B
+
+Question 9:
+[COE]
+Information in the text best supports which statement about the finding made by Altınışık et al.?
+
+Archaeologists have observed similarities in the tools, such as bidirectional blades, uncovered at the Neolithic-period Mesopotamian settlement of Cayönü Tepesi and those uncovered at roughly contemporaneous settlements elsewhere in Southwest Asia, including those in the South Levant, Central Anatolia, and Central Zagros. Although similarities in tools could be attributed to imitative behavior or trade, Nefize Ezgi Altınışık et al. found evidence of genetic affinity among the populations of Cayönü Tepesi, Central Anatolia, the South Levant, and—to a lesser extent—Central Zagros.
+
+A. It suggests that in the Neolithic period, people in the South Levant and Central Anatolia imitated tool designs originating in Cayönü Tepesi more frequently than people in Central Zagros did.
+B. It helps explain why contemporaneous Neolithic peoples in Southwest Asia had similar tools but lacked other obvious cultural similarities.
+C. It raises the possibility that similarities in the design of tools found at Neolithic settlements in Southwest Asia emerged due to population blending between those settlements.
+D. It implies that people and tools likely arrived in Cayönü Tepesi from settlements Central Anatolia and the South Levant at an earlier time than they did from settlements in Central Zagros.
+Answer: C
+
+Question 10:
+[COE]
+Based on the text, what is notable about Schmidt's behavior?
+
+The following text is from Mark Haber's 2022 novel *Saint Sebastian's Abyss*. The narrator and Schmidt are both art critics.
+
+When my first wife admitted to Schmidt over dinner that she didn't find art, painting in particular, especially compelling, Schmidt winced, set down his fork, and sighed dramatically; he then excused himself, explaining an appointment he'd forgotten about had suddenly and inexplicably been remembered, while making it abundantly clear there was no appointment at all.©2022 by Mark Haber
+
+A. Schmidt is only given to theatrical behavior when in the company of the narrator and his first wife.
+B. Schmidt conveys his feelings about one of his dining companions without explicitly stating them.
+C. Schmidt's absentmindedness regarding his schedule is uncharacteristic of him.
+D. Schmidt's departure is occasioned by the resumption of a previous disagreement with the narrator's first wife about a particular painting.
+Answer: B
+
+Question 11:
+[COE]
+Which finding, if true, would most directly support the underlined claim?
+
+*Dos Mujeres (Salvadora y Herminia)* is a painting by Frida Kahlo, dated 1928. It's part of the full collection of the Museum of Fine Arts, Boston, in Boston, Massachusetts. A digital image of it can also be found in an online collection. In a paper, a student claims that __people usually spend more time viewing a work of art in a museum than they do online.__
+
+A. Most people spend about three minutes viewing *Dos Mujeres (Salvadora y Herminia)* at the museum and only about one minute viewing it online.
+B. *Dos Mujeres (Salvadora y Herminia)* isn't the only work of art by Frida Kahlo that has been put online.
+C. Most people who go to museums in Boston are visiting from other places.
+D. More than one museum has works of art by Frida Kahlo in its full collection.
+Answer: A
+
+Question 12:
+[COE]
+Which finding, if true, would most directly support Núñez and colleagues' claim?
+
+Rafael Núñez and colleagues studied how members of the Yupno, an Indigenous group in Papua New Guinea, conceptualize time in both spoken language and gestures. The researchers recorded Yupno speakers explaining certain temporal words and phrases, such as *jare*, a past-oriented expression that translates to "day before yesterday," and coded each speaker's manual gestures. Previous research has found a tendency in many cultures to make temporal distinctions along imagined linear axes: for instance, Hebrew speakers often refer to the right/left axis to describe events in time. Some researchers believe this tendency is universal, but Núñez and colleagues claim this is not the case.
+
+A. Yupno speakers typically use their left hand to make temporal gestures regardless of whether the gestures are past oriented or future oriented.
+B. Future-oriented gestures used by Yupno speakers do not, on average, point in the opposite linear direction of past-oriented gestures.
+C. Some Yupno grammatical structures used when talking about time are also used in Hebrew.
+D. Yupno speakers were observed making temporal gestures both indoors and outdoors, though with greater frequency when indoors.
+Answer: B
+
+Question 13:
+[COE]
+Which quotation from Poems most effectively illustrates the claim?
+
+*Poems* is an 1895 collection of poetry by Frances E.W. Harper. In one of Harper's poems, the speaker suggests that those who mistreat people with less privilege will eventually receive divine judgment for it, saying, ______
+
+A. "Men may tread down the poor and lowly, / May crush them in anger and hate, / But surely the mills of God's justice / Will grind out the grist of their fate." (from "An Appeal to My Countrywomen")
+B. "When ye plead for the wrecked and fallen, / The exile from far-distant shores, / Remember that men are still wasting / Life's crimson around your own doors." (from "An Appeal to My Countrywomen")
+C. "Say not the age is hard and cold— / I think it brave and grand; / When men of diverse sects and creeds / Are clasping hand in hand." (from "The Present Age")
+D. "God help our native land, / Bring surcease to her strife, / And shower from thy hand / A more abundant life." (from "God Bless Our Native Land")
+Answer: A
+
+Question 14:
+[COE]
+Which choice best describes data from the graph that weaken the student's claim?
+
+To measure whether countries in free trade agreements (FTAs)—agreements among nations to reduce tariffs, duties, and other trade barriers—experience changes in total agricultural exports, economist Kayode Ajewole and colleagues calculated average export growth rates for several countries over the five years before and the five years after entering an FTA with the United States. The graph shows the results for three countries in the study. Consulting the graph, a student claims that joining an FTA increases the rate of growth of a country's total agricultural exports.
+
+A. All the countries shown had positive growth in agricultural exports over the five years after joining their respective FTAs, but their rates of export growth varied.
+B. Although agricultural exports from Jordan decreased over the five years before JOFTA, a reversal in this trend was observed over the five years after Jordan joined JOFTA.
+C. Over the five years after Costa Rica joined CAFTA-DR, agricultural exports from Costa Rica grew at a rate of about 13.5 percent, which is higher than the rate over the five years before Costa Rica joined the agreement.
+D. Although agricultural exports from Morocco grew over the five years after Morocco joined MAFTA, their growth rate was even higher in the five years before MAFTA.
+Answer: D
+
+Question 15:
+[COE]
+Which detail about songs associated with nueva canción, if true, would best illustrate the underlined claim?
+
+Born in Chile in 1917, artist and ethnomusicologist Violeta Parra was a pioneer in the *nueva canción chilena* (Chilean New Song) movement that emerged in the late 1950s and then spread throughout Latin America, Portugal, and Spain as *nueva canción*. Parra traveled all over Chile compiling extensive records of authentic folk music as well as recipes, proverbs, and other facets of cultural history. These records formed the foundation for the early movement's revival of traditional Chilean folk forms in new songs that represented modern realities of the working class and strongly advocated for social change. __As the movement spread beyond Chile, the breadth of musical traditions incorporated into its foundation also expanded.__
+
+A. Many feature political commentary addressing contemporary issues that stemmed from shared experiences of European colonization in Latin American countries.
+B. Many demonstrate the stylistic influence of *corrido*, a genre of narrative songs from Mexico that had come to be characterized by political themes in the early 1800s.
+C. Many were produced by Argentinian artists in the late 1950s, with others by artists in additional Latin American countries first emerging soon after.
+D. Many were written with parts meant to be played on the *quena*, a traditional flute used across Andean countries, including Chile.
+Answer: B
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Mathematician Grigori Perelman, sometimes in conjunction with mathematicians Richard S. Hamilton and Shing-Tung Yau, ______ credited with proving the Poincaré conjecture. Having built on Hamilton's previous work to solve the proof, Perelman has insisted that Hamilton receive credit. Yau later found and closed gaps in Perelman's proof, persuading some mathematicians that he deserves credit as well.
+
+A. is
+B. have been
+C. are
+D. are being
+Answer: A
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Cy Twombly, a US painter and sculptor, created many large-scale abstract works, such as his 10-painting series *Fifty Days at Iliam*. In these works, Twombly's artistic style is exemplified by his use of graffiti-like ______ often incorporate words or phrases from poetry and mythology.
+
+A. scribbles; that
+B. scribbles. That
+C. scribbles that
+D. scribbles: that
+Answer: C
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Kizomba, a genre of dance that originated in Angola, has become an international ______ 2022, the Indian dance duo known as Elvis and Namrata defeated performers from around the world to win the annual Olympiads of Kizomba competition held in Paris, France, becoming the first ever Asian winners.
+
+A. phenomenon and in
+B. phenomenon. In
+C. phenomenon, in
+D. phenomenon in
+Answer: B
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+While some computer scientists, such as Michael Running Wolf, are optimistic about the use of large language models (LLMs) to preserve endangered indigenous languages, researchers like Aliya Bhatia of the Center for Democracy and Technology ______ that from an archival standpoint, English-based LLMs may do more harm than good, given their propensity for error.
+
+A. fears
+B. has feared
+C. fear
+D. is fearful
+Answer: C
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+As a leader of the National Woman Suffrage Association in the late 1800s, Olympia Brown of ______ an important role in the campaign to secure voting rights for US women.
+
+A. Connecticut. Played
+B. Connecticut played
+C. Connecticut; played
+D. Connecticut: played
+Answer: B
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+On most of the world's beaches, sand is a predictable cream or beige color. The sand at Vermelha Beach in Brazil is a strikingly different ______ sand gets its shade from deposits of gray- and tan-hued quartz and feldspar, deposits of iron oxide and other organic matter lend the sand at Vermelha Beach a colorful red tint.
+
+A. shade, though most
+B. shade, though, most
+C. shade: though most
+D. shade, though. Most
+Answer: C
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In astrophysics, a ring of debris orbiting a larger object within the object's Roche limit is expected to persist as a ring, whereas a ring of debris orbiting outside this limit would likely accrete into a satellite (e.g., a moon). Bruno Morgado and colleagues, ______ detected a dense ring of material orbiting the trans-Neptunian object Quaoar at a distance of 2,500 miles, well outside the calculated Roche limit of 1,100 miles, that has remained intact.
+
+A. likewise,
+B. for example,
+C. fittingly,
+D. though,
+Answer: D
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A team led by Portuguese researcher Isabel C.F.R. Ferreira found that many species of mushrooms contain chemicals called phenolic compounds, such as protocatechuic acid and biochanin. ______ Ferreira detected protocatechuic acid in *Agaricus bisporus* mushrooms and biochanin in *Ganoderma lucidum* mushrooms.
+
+A. Nevertheless,
+B. However,
+C. For this reason,
+D. For example,
+Answer: D
+
+Question 24:
+[Synthesis]
+The student wants to make a generalization about the Hina Hanta archive. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Hina Hanta is an online archive curated by the Choctaw Nation of Oklahoma.
+• It features images of cultural artifacts relevant to the history of the Choctaw people.
+• It features household items, including a cup (*isht ishko* in Choctaw) made from clay.
+• The cup was made in 1891.
+• Hina Hanta features sports apparel, including a stickball collar (*innuchi*) made from horsehair.
+• The stickball collar was made in 2016.
+
+A. The Choctaw name for the clay cup is *isht ishko*.
+B. Included in the Hina Hanta online archive is a clay cup.
+C. The horsehair stickball collar (*innuchi*) was made in 2016.
+D. Not all artifacts in the Hina Hanta archive are from the 1800s.
+Answer: D
+
+Question 25:
+[Synthesis]
+The student wants to emphasize a difference between the two plants. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Most of the plant and bird species in Oahu, Hawaii, are non-native.
+• In a 2019 study, researchers wanted to know what role non-native birds play in dispersing plant seeds in Oahu.
+• Researchers catalogued plant seeds found in fecal samples from non-native birds.
+• *Clermontia kakeana*, a flowering shrub, was one of fifteen native species catalogued.
+• *Ardisia elliptica*, a tree, was one of twenty-nine non-native species catalogued.
+• Researchers concluded that non-native birds play a vital role in dispersing the seeds of native and non-native plants.
+
+A. Seeds from *Clermontia kakeana* and *Ardisia elliptica* plants were found in the fecal samples of non-native Hawaiian birds, according to a 2019 study.
+B. A 2019 study catalogued plant seeds found in bird fecal samples in Oahu, Hawaii to determine what role non-native birds play in seed dispersal.
+C. Most plant species found in Oahu, Hawaii, like *Ardisia elliptica*, are non-native.
+D. Though *Clermontia kakeana* and *Ardisia elliptica* can both be found in Oahu, Hawaii, only the former plant is native.
+Answer: D
+
+Question 26:
+[Synthesis]
+The student wants to provide an example of a particle physicist whose research focuses on neutrinos. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Gianpaolo Bellini is an Italian particle physicist.
+• Particle physicists study subatomic particles.
+• Neutrinos are some of the least understood subatomic particles.
+• Neutrinos were first discovered in the mid-twentieth century.
+• Bellini is known for his research on solar and geoneutrinos.
+
+A. Neutrinos are a type of subatomic particle that particle physicists are still trying to understand.
+B. By studying solar and geoneutrinos—to name just one example—particle physicists can learn more about neutrinos.
+C. Particle physicist Gianpaolo Bellini is known for his research on solar and geoneutrinos.
+D. The research done on solar and geoneutrinos exemplifies the work particle physicists do to advance our understanding of subatomic particles.
+Answer: C
+
+Question 27:
+[Synthesis]
+The student wants to provide a specific example of irrational juxtaposition in surrealist collage. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Felipe Posada (pseudonym The Invisible Realm) is a New York City-based artist who specializes in the form of art known as surrealist collage.
+• Manifestation of the unconscious mind is a central aspect of surrealist collage.
+• Irrational juxtaposition of disparate elements is a central aspect of surrealist collage.
+• Posada's *Vagabonds* irrationally juxtaposes images of a young couple, a boat made of leaves, and a vast celestial space.
+• Posada: "My art is a journey through the invisible realm a space where intuition, memories, visions, and dreams are free to take visual form."
+
+A. Images of a young couple, a boat made of leaves, and a vast celestial space are juxtaposed irrationally in the surrealist collage piece *Vagabonds* by artist Felipe Posada.
+B. The irrational juxtaposition of disparate elements in Felipe Posada's art invokes "a space where intuition, memories, visions, and dreams are free to take *Vagabonds*."
+C. Surrealist collage, such as Felipe Posada's *Vagabonds*, manifests the unconscious mind and irrationally juxtaposes disparate elements.
+D. *Vagabonds* by artist Felipe Posada is an example of surrealist collage, a form in which irrational juxtaposition is a central aspect.
+Answer: A
+

@@ -1,0 +1,175 @@
+Question 1:
+A rectangular banner has an area of {{MATH_33}} square inches. A copy of the banner is made in which the length and width of the original banner are each increased by {{MATH_34}}. What is the area of the copy, in square inches?
+
+A. {{MATH_35}}
+B. {{MATH_36}}
+C. {{MATH_37}}
+D. {{MATH_38}}
+Answer: D
+
+Question 2:
+For a study, a group of gophers will be selected from a habitat consisting of {{MATH_39}} gophers, and a group of groundhogs will be selected from a habitat consisting of {{MATH_40}} groundhogs. Some of the gophers and groundhogs will be in a treatment group, and some of the gophers and groundhogs will be in a control group. Which of the following is necessary for this study to attempt to establish a cause-and-effect relationship between two variables?
+
+A. The number of gophers in the treatment group is equal to the number of groundhogs in the treatment group, and the number of gophers in the control group is equal to the number of groundhogs in the control group.
+B. The gophers and the groundhogs are randomly selected from their respective habitats.
+C. The gophers and the groundhogs are randomly assigned to the treatment and control groups.
+D. The average age of the gophers in the treatment group is equal to the average age of the groundhogs in the treatment group, and the average age of the gophers in the control group is equal to the average age of the groundhogs in the control group.
+Answer: C
+
+Question 3:
+The concentration of calcium, in milligrams per liter (mg/L), is found for three samples of water: bottled, tap, and mineral. The concentration of calcium in the sample of bottled water is {{MATH_41}} of the concentration of calcium in the sample of tap water and {{MATH_42}} of the concentration of calcium in the sample of mineral water. If the concentration of calcium in the sample of tap water is {{MATH_43}} mg/L, what is the concentration of calcium, in mg/L, in the sample of mineral water?
+
+Answer: 72
+
+Question 4:
+As the size of a firework-s shell increases, the height above the ground when the firework bursts increases. For a firework to burst {{MATH_44}} feet above the ground, a firework's shell in the shape of a sphere with a volume of {{MATH_45}} cubic inches could be used. To the nearest whole number, what is the volume of this firework's shell in cubic centimeters? ({{MATH_46}})
+
+Answer: 8893
+
+Question 5:
+In the {{MATH_1}} plane, the graph of the equation below is a circle, where {{MATH_2}} is a positive constant.
+{{MATH_3}}
+If the radius of the circle is {{MATH_47}}, what is the value of {{MATH_4}}?
+
+A. 16
+B. 32
+C. 48
+D. 64
+Answer: A
+
+Question 6:
+The function t gives the estimated melting temperature, in degrees Celsius, of a DNA molecule as a function of the percent of guanine-cytosine (GC) content, x, in the DNA molecule. The graph of {{MATH_5}} is shown. According to the graph, which of the following statements is NOT true?
+
+A. For each increase of x by {{MATH_48}}, {{MATH_6}} increases by approximately {{MATH_7}}.
+B. A DNA molecule with a GC content of {{MATH_49}} has an estimated melting temperature between {{MATH_50}}{{MATH_8}}C and {{MATH_51}}{{MATH_8}}C.
+C. A DNA molecule with a GC content of {{MATH_52}} has an estimated melting temperature between {{MATH_53}}{{MATH_8}}C and {{MATH_54}}{{MATH_8}}C.
+D. A DNA molecule with a GC content of {{MATH_55}} has an estimated melting temperature between {{MATH_56}}{{MATH_8}}C and {{MATH_57}}{{MATH_8}}C.
+Answer: D
+
+Question 7:
+The figure shown is a right circular cylinder with a radius {{MATH_58}} and a height of {{MATH_59}}. A second right circular cylinder (not shown) has a volume that is {{MATH_60}} times as large as the volume of the cylinder shown. Which of the following could represent the radius {{MATH_61}}, in terms of {{MATH_58}}, and the height {{MATH_62}}, in terms of {{MATH_59}}, of the second cylinder?
+
+A. {{MATH_61}} = {{MATH_63}} and {{MATH_62}} = {{MATH_64}}
+B. {{MATH_61}} = {{MATH_63}} and {{MATH_62}} = {{MATH_65}}
+C. {{MATH_61}} = {{MATH_66}} and {{MATH_62}} = {{MATH_67}}
+D. {{MATH_61}} = {{MATH_68}} and {{MATH_62}} = {{MATH_67}}
+Answer: C
+
+Question 8:
+A company developed a pricing plan for a new product. The company determined that at a selling price of {{MATH_69}}, no units would be sold. For every {{MATH_70}} decrease in the selling price, exactly one more unit would be sold. If the company wants to earn a revenue of {{MATH_71}}, which of the following could be the number of units sold? (Revenue = price - number of units sold)
+
+A. {{MATH_72}}
+B. {{MATH_73}}
+C. {{MATH_74}}
+D. {{MATH_75}}
+Answer: D
+
+Question 9:
+The function f is defined by {{MATH_9}}, where a and b are constants. In the x y plane, the graph of {{MATH_10}} has an x-intercept at {{MATH_76}} and a y-intercept at {{MATH_77}}. What is the value of b? (Dùng Desmos)
+
+Answer: -256
+
+Question 10:
+Circle A shown is defined by the equation {{MATH_11}}. Circle B (not shown) has the same radius but is translated {{MATH_78}} units to the right. If the equation of circle B is {{MATH_12}}, where h, k, and a are constants, what is the value of {{MATH_79}}?
+
+Answer: 28
+
+Question 11:
+The functions f and g are defined by the given equations below, where {{MATH_13}}. Which of the following equations displays, as a constant or coefficient, the minimum value of the function it defines, where {{MATH_13}}?
+I. {{MATH_14}}
+II. {{MATH_15}}
+
+A. II only
+B. I and II
+C. I only
+D. Neither I nor II
+Answer: D
+
+Question 12:
+A hollow steel pipe is in the shape of a right circular cylinder. The pipe has a height of {{MATH_16}} inches, an outer radius of {{MATH_17}} inches, and a wall thickness of {{MATH_18}} inches. If the height of the pipe is equal to {{MATH_80}} times the inner radius, which of the following expressions represents the volume, in cubic inches, of the steel material used to make the pipe?
+
+A. {{MATH_19}}
+B. {{MATH_20}}
+C. {{MATH_21}}
+D. {{MATH_22}}
+Answer: C
+
+Question 13:
+Rectangles ABCD and EFGH are similar. The length of each side of EFGH is {{MATH_104}} times the length of the corresponding side of ABCD. The area of ABCD is {{MATH_105}} square units. What is the area, in square units, of EFGH?
+
+A. {{MATH_106}}
+B. {{MATH_107}}
+C. {{MATH_108}}
+D. {{MATH_109}}
+Answer: D
+
+Question 14:
+One solution to the given equation can be written as
+{{MATH_82}}, where h and k are integer constants. What is the value of h + k? (ấn Casio l- nhanh nhất)
+{{MATH_81}}
+
+A. 13
+B. 14
+C. 31
+D. 65
+Answer: D
+
+Question 15:
+A cylinder has a diameter of {{MATH_110}} inches and a height of {{MATH_111}} inches. What is the volume, in cubic inches, of the cylinder?
+
+A. {{MATH_112}}
+B. {{MATH_113}}
+C. {{MATH_114}}
+D. {{MATH_115}}
+Answer: C
+
+Question 16:
+A beaker containing a liquid is placed on a table. The function {{MATH_24}} gives the approximate temperature, in kelvins, of the liquid t minutes after the beaker was placed on the table. According to this function, what was the approximate temperature, in kelvins, of the liquid when the beaker was placed on the table?
+
+Answer: 363
+
+Question 17:
+The dot plots shown summarize the daily sales of brownies from a bakery for the {{MATH_83}} days the store was open in October and November, respectively. Which of the following was(were) the same for daily sales in October and November?
+
+I. Median
+II. Standard Deviation
+
+A. I only
+B. II only
+C. Both I and II
+D. Neither I nor II
+Answer: B
+
+Question 18:
+The manager of a gym selected a sample of {{MATH_84}} members at random to estimate the percentage of the gym-s members that would continue to pay for a membership if the price increased. From the survey, the manager estimates that {{MATH_85}} of the gym-s members would continue to pay for a membership if the price increased, with an associated margin of error of {{MATH_86}}. If the survey is repeated with a random sample of {{MATH_87}} members and the results are calculated in the same way, which of the following will be the most likely effect of using the larger random sample compared to the smaller random sample?
+
+A. The margin of error will be lower.
+B. The margin of error will be higher.
+C. The estimate of the percentage of the gym's members that would continue to pay for a membership if the price increased will be lower.
+D. The estimate of the percentage of the gym's members that would continue to pay for a membership if the price increased will be higher.
+Answer: A
+
+Question 20:
+Right rectangular prism X is similar to right rectangular prism Y. The surface area of right rectangular prism X is {{MATH_91}} square centimeters (cm^{2}), and the surface area of right rectangular prism Y is {{MATH_92}} cm^{2}. The volume of right rectangular prism Y is {{MATH_93}} cubic centimeters (cm^{3}). What is the sum of the volumes, in cm^{3}, of right rectangular prism X and right rectangular prism Y?
+
+Answer: 1560
+
+Question 21:
+A circle is inscribed in a square such that the circumference of the circle touches the midpoint of each side of the square. The length of the diagonal of the square is {{MATH_94}} units. What is the area, in square units, of the circle?
+
+A. {{MATH_96}}
+B. {{MATH_97}}
+C. {{MATH_98}}
+D. {{MATH_99}}
+Answer: A
+
+Question 22:
+Data set F consists of {{MATH_100}} integers, where the value of each integer is between {{MATH_101}} and {{MATH_102}}. Data set G consists of the same {{MATH_100}} integers in data set F as well as the integer {{MATH_103}}. Which of the following must be less for data set G than for data set F?
+I. The mean
+II. The median
+
+A. I only
+B. II only
+C. I and II
+D. Neither I nor II
+Answer: A

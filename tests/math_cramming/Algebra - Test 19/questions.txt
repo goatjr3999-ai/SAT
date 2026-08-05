@@ -1,0 +1,60 @@
+Question 1:
+{{MATH_1}}{{MATH_2}}
+In the given equation, p is a constant. The equation has exactly one real solution. What is the value of p?
+
+A. {{MATH_3}}
+B. {{MATH_4}}
+C. {{MATH_5}}
+D. {{MATH_6}}
+Answer: D
+
+Question 2:
+{{MATH_7}}
+The function f gives the value, in dollars, of a certain piece of equipment after x months of use. If the value of the equipment decreases each year by p% of its value
+the preceding year, what is the value of p?
+
+A. {{MATH_8}}
+B. {{MATH_9}}
+C. {{MATH_10}}
+D. {{MATH_11}}
+Answer: D
+
+Question 3:
+Which expression is NOT a factor of {{MATH_12}}?
+
+A. {{MATH_13}}
+B. {{MATH_14}}
+C. {{MATH_15}}
+D. {{MATH_16}}
+Answer: B
+
+Question 4:
+2,590x=5,180x
+How many solutions does the given equation have?
+
+A. Zero
+B. Exactly one
+C. Exactly two
+D. Infinitely many
+Answer: B
+
+Question 5:
+If x-2=3, what is the value of 3(x-2)?
+
+A. {{MATH_17}}
+B. {{MATH_18}}
+C. {{MATH_19}}
+D. {{MATH_20}}
+Answer: C
+
+Question 6:
+5x+3y=6
+The given equation is one equation in a system of two linear equations. If the system of equations has at least one solution, which of the following equations could be the other equation in the system?
+I. 7.5x+4.5y=9
+II. 7.5x-4.5y=9
+
+A. I only
+B. II only
+C. I and II
+D. Neither I nor II
+Answer: C

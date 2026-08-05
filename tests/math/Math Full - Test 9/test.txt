@@ -1,0 +1,205 @@
+Question 1:
+The function {{MATH_86}} is defined by {{MATH_87}}. Which of the following equivalent forms of function {{MATH_86}} displays the maximum value of {{MATH_88}} as a constant or coefficient?
+
+{{MATH_89}}
+
+A. {{MATH_90}}
+B. {{MATH_91}}
+C. {{MATH_92}}
+D. {{MATH_93}}
+Answer: D
+
+Question 2:
+In the given pair of equations below, 𝑎 and 𝑏 are constants. The graph of this pair of equations in the 𝑥𝑦-plane is a pair of perpendicular lines. Which of the following pairs of equations represents a pair of parallel lines?
+7𝑥 + 11𝑦 = 100
+𝑎𝑥 + 𝑏𝑦 = 10𝑏
+
+A. 7𝑥 − 11𝑦 = 10 | 𝑎𝑥 + 𝑏𝑦 = 10𝑏
+B. 7𝑥 + 33𝑦 = 100 | 2𝑎𝑥 − 3𝑏𝑦 = 50𝑏
+C. 33𝑥 − 7𝑦 = 100 | 3𝑎𝑥 + 𝑏𝑦 = 𝑏
+D. 11𝑥 + 7𝑦 = 100 | 𝑎𝑥 + 𝑏𝑦 = 10𝑏
+Answer: C
+
+Question 3:
+The perimeter of an equilateral triangle is 876 centimeters. The three vertices of the triangle lie on a circle. The radius of the circle is {{MATH_1}} centimeters. What is the value of {{MATH_2}}? (phân số)
+
+Answer: 292/3
+
+Question 4:
+The solutions to {{MATH_3}}are r and s, where {{MATH_4}}. The solutions to {{MATH_5}} are t and u, where t<u. The solutions to {{MATH_6}}, where c is a constant, are {{MATH_7}}and {{MATH_8}}. What is the value of c?
+
+Answer: 34
+
+Question 5:
+The cost, in dollars, of renting a piece of equipment is {{MATH_9}} for the first day and {{MATH_10}} for each additional day, where {{MATH_11}} is a positive integer. Which of the following functions gives the cost {{MATH_12}}, in dollars, of renting this equipment for {{MATH_13}} days, where {{MATH_13}} is a positive integer?
+
+A. {{MATH_14}}
+B. {{MATH_15}}
+C. {{MATH_16}}
+D. {{MATH_17}}
+Answer: A
+
+Question 6:
+The function {{MATH_18}} is defined by the equation {{MATH_19}}. What is the value of {{MATH_20}}when {{MATH_21}}
+
+Answer: 4
+
+Question 7:
+A district school board in a certain state is proposing a change to the time school starts for all high schools in the district. A sample of 353 high school students was selected at random from all high school students in the district. The selected students were asked whether they approved of the proposed change, and 300 students responded that they did not approve.
+Which of the following is the largest population to which the results of the survey can be generalized?
+
+A. All high school students in the district
+B. The 353 students who were surveyed
+C. The 300 students who responded that they did not approve of the proposed change
+D. All high school students in the state
+Answer: A
+
+Question 8:
+The maximum temperature on April 1, in degrees Fahrenheit (-F), was recorded each year at a certain weather station for 11 years. The histogram summarizes the recorded data set.
+
+The temperature of 42.2-F is removed from this data set to create a new data set of 10 temperatures. Which of the following statements must be true?
+I. The mean of the new data set is less than the mean of the original data set.
+II. The median of the new data set is less than the median of the original data set.
+
+A. I only
+B. II only
+C. I and II
+D. Neither I and II
+Answer: D
+
+Question 9:
+At a convention center, there are a total of 375 visitors. Each visitor is located in either room A, room B, or room C. If one of these visitors is selected random, probability of selecting a visitor who is located in room A is 0.48, and the probability of selecting a visitor who is located in room B is 0.16. How many visitors are located in room C?
+
+A. 29
+B. 36
+C. 120
+D. 135
+Answer: D
+
+Question 10:
+The given expression can be rewritten as {{MATH_22}}, where a, b, and c are constants.
+{{MATH_23}}
+What is the value of {{MATH_24}}?
+
+A. - 480
+B. - 240
+C. - 120
+D. - 30
+Answer: A
+
+Question 11:
+In the given equation, {{MATH_25}} and {{MATH_26}} are constants. The equation has infinity many solutions. What is the value of {{MATH_27}}
+{{MATH_28}}
+
+A. 39
+B. -11
+C. -26
+D. -81
+Answer: D
+
+Question 12:
+In the given equation, {{MATH_25}} is a constant. The equation has no real solution. Which of the following could be the value of {{MATH_29}}
+{{MATH_30}}
+
+A. -92
+B. 0
+C. 46
+D. 55
+Answer: A
+
+Question 13:
+The function {{MATH_31}} is defined by {{MATH_32}}
+I. {{MATH_33}}
+II. {{MATH_34}}
+Which of the statements above must be true?
+
+A. I only
+B. II only
+C. Neither I nor II
+D. I and II
+Answer: A
+
+Question 14:
+In the given pair of equations {{MATH_35}} and {{MATH_36}} are constants. The graph of this pair of equations in the {{MATH_37}}-plane is a pair of perpendicular lines. Which of the following pairs of equations also represents a pair of perpendicular lines?
+{{MATH_38}}
+{{MATH_39}}
+
+A. {{MATH_40}} | {{MATH_39}}
+B. {{MATH_41}} | {{MATH_42}}
+C. {{MATH_43}} | {{MATH_44}}
+D. {{MATH_45}} | {{MATH_46}}
+Answer: B
+
+Question 15:
+In the {{MATH_47}}-plane, the graph of the given equation is a circle.
+{{MATH_48}}
+Which point lies on this circle?
+
+A. {{MATH_49}}
+B. {{MATH_50}}
+C. {{MATH_51}}
+D. {{MATH_52}}
+Answer: D
+
+Question 16:
+Lines {{MATH_53}} and {{MATH_54}} are perpendicular. If the point {{MATH_55}} and {{MATH_56}} lies on line {{MATH_53}} and lines {{MATH_53}} and {{MATH_54}} intersect at ({{MATH_57}}, which of the following can lie on line {{MATH_54}}?
+
+A. {{MATH_58}}
+B. {{MATH_59}}
+C. {{MATH_60}}
+D. {{MATH_61}}
+Answer: C
+
+Question 17:
+The function {{MATH_94}} is defined by {{MATH_95}}, where a and b are constants. In the xy-plane, the graph of y = {{MATH_94}} passes through the point {{MATH_96}}, and {{MATH_97}}.
+
+Which of the following must be true?
+
+A. {{MATH_98}}
+B. {{MATH_99}}
+C. {{MATH_100}}
+D. {{MATH_101}}
+Answer: D
+
+Question 18:
+The function{{MATH_62}}is defined by the equation {{MATH_63}}. For every increase of {{MATH_64}} in the value of {{MATH_65}}the value of {{MATH_66}} increases by a factor of {{MATH_67}}, where {{MATH_67}} is a constant. Which of the following equivalent forms of function {{MATH_62}} displays the value of {{MATH_67}} as the base or the coefficient?
+I. {{MATH_68}}
+II. {{MATH_69}}
+
+A. I only
+B. II only
+C. I and II
+D. Neither I nor II
+Answer: A
+
+Question 19:
+The function {{MATH_70}} is defined by {{MATH_71}}, where b and c are constants. In the xy-plane, the graph of {{MATH_72}}contains the points (2,0) and {{MATH_73}} . If {{MATH_74}}what is the greatest possible value of {{MATH_75}}?
+
+Answer: 179
+
+Question 20:
+If a customer order is selected at random, what is the probability of selecting an order with sprinkles, given the flavor of ice cream is vanilla?
+
+A. 0.08
+B. 0.13
+C. 0.25
+D. 0.40
+Answer: D
+
+Question 21:
+For 100 neurons, the table summarizes the distribution of classification and cell body diameter.
+
+One of these neurons will be selected at random. What is the probability of selecting a neuron with a cell body diameter that is less than or equal to 30 micrometers, given that it is not classified as a motor neuron? (phân số)
+
+Answer: 64/67
+
+Question 22:
+For the polynomial function {{MATH_76}} the table below shows selected values of {{MATH_77}} and {{MATH_78}}
+
+The function {{MATH_79}} is defined by {{MATH_80}} Which of the following statements must be true?
+
+A. {{MATH_81}} is divisible by {{MATH_82}}
+B. {{MATH_81}} is divisible by {{MATH_83}}
+C. When {{MATH_81}} is divided by {{MATH_84}} the remainder is 0.
+D. When {{MATH_81}} is divided by {{MATH_85}}the remainder is 5.
+Answer: A

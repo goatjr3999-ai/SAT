@@ -1,0 +1,87 @@
+Question 1:
+What is the y-intercept of the graph of {{MATH_1}} in the xy-plane?
+
+A. {{MATH_2}}
+B. {{MATH_3}}
+C. {{MATH_4}}
+D. {{MATH_5}}
+Answer: D
+
+Question 2:
+{{MATH_6}}
+The function {{MATH_7}} is defined by the given equation. Which of the following equivalent forms of the equation displays the minimum value of the function as a constant or coefficient?
+
+A. {{MATH_8}}
+B. {{MATH_9}}
+C. {{MATH_10}}
+D. {{MATH_11}}
+Answer: B
+
+Question 3:
+{{MATH_12}}
+The function g is defined by the given equation, where a, b, and c are integer constants. The zeros of the function are {{MATH_13}}{{MATH_14}} , and {{MATH_15}} . What is the value of a?
+
+A. {{MATH_16}}
+B. {{MATH_17}}
+C. {{MATH_18}}
+D. {{MATH_19}}
+Answer: C
+
+Question 4:
+A carpenter charges a flat rate of {{MATH_20}} for the first {{MATH_21}} hours of work and {{MATH_22}} for each additional hour of work. Which equation gives the total amount y, in dollars, that the carpenter charges for x hours of work, where {{MATH_23}} ?
+
+A. {{MATH_24}}
+B. {{MATH_25}}
+C. {{MATH_26}}
+D. {{MATH_27}}
+Answer: C
+
+Question 5:
+{{MATH_28}}
+The given equation relates the positive variables p, q, r, and s. Which of the following is equivalent to q?
+
+A. {{MATH_29}}
+B. {{MATH_30}}
+C. {{MATH_31}}
+D. {{MATH_32}}
+Answer: A
+
+Question 6:
+{{MATH_33}}
+In the given equation, c is a constant. If the equation has exactly one solution, what is the value of c?
+
+Answer: -24
+
+Question 7:
+Zuri has a goal to run at least 16 miles per week while training for a race. This week, she has run 4 miles. If x represents the additional number of miles Zuri needs to run this week to meet her goal, which inequality represents this situation?
+
+A. {{MATH_35}}
+B. {{MATH_36}}
+C. {{MATH_37}}
+D. {{MATH_38}}
+Answer: D
+
+Question 8:
+At a fundraiser, a family pays a fixed entrance fee. They then purchase food tickets, which each have the same cost. The table shows the relationship between the number of food tickets, x, that are purchased and the total amount paid y, in dollars, for both the entrance fee and the food tickets. Which equation represents the relationship between x and y?
+
+A. {{MATH_39}}
+B. {{MATH_40}}
+C. {{MATH_41}}
+D. {{MATH_42}}
+Answer: A
+
+Question 9:
+The graph of {{MATH_43}} in the xy-plane is a line. What is the slope of the line?
+
+Answer: -2
+Question 10:
+{{MATH_45}}
+{{MATH_46}}
+{{MATH_47}}
+The functions {{MATH_48}}, g , and h are defined as shown. If {{MATH_49}} , where a, b , and c are constants, what is the value of b?
+
+A. {{MATH_50}}
+B. {{MATH_51}}
+C. {{MATH_52}}
+D. {{MATH_53}}
+Answer: B

@@ -1,0 +1,192 @@
+Question 1:
+Which of the following equivalent forms of the given function {{MATH_1}}displays, as the base or the coefficient, the {{MATH_2}}-coordinate of the {{MATH_3}}intercept of the graph of{{MATH_4}} in the {{MATH_5}}-plane?
+{{MATH_6}}
+
+A. {{MATH_7}}
+B. {{MATH_8}}
+C. {{MATH_9}}
+D. {{MATH_10}}
+Answer: B
+
+Question 2:
+An acceptable noise criterion rating for the background noise in a school classroom is 30. For a noise criterion rating of 30, the equation {{MATH_11}} gives the estimated sound pressure level, {{MATH_2}} in decibels, as a function of the octave band center frequency, {{MATH_12}}, in hertz, where {{MATH_13}}. Which of the following is the best interpretation of 37 in this context?
+
+A. 37 is 19 less than the estimated sound pressure level, in decibels, at an octave band frequency of 50.
+B. 37 is 19 less than the estimated sound pressure level, in decibels, at an octave band frequency of 0.
+C. 37 is the estimated sound pressure level, in decibels, at an octave band frequency of 50.
+D. 37 is the estimated sound pressure level, in decibels, at an octave band frequency of 0.
+Answer: A
+
+Question 3:
+The area of a rectangular region is increasing at a rate of 90 square feet per hour. Which of the following is closest to this rate in square meters per minute? (Use 1 meter =3.28 feet.)
+
+A. 0.14
+B. 0.46
+C. 4.92
+D. 8.37
+Answer: A
+
+Question 4:
+If {{MATH_14}} what is the value of {{MATH_15}}
+
+A. 5
+B. 10
+C. 45
+D. 54
+Answer: C
+
+Question 5:
+The function f is defined by {{MATH_16}}. The function g is a decreasing linear function. In the x y-plane, the graphs of {{MATH_17}} and {{MATH_18}} intersect at two points, (h, j) and (k, m), where {{MATH_19}}. When {{MATH_20}}, which of the following must also be true?
+
+A. {{MATH_21}}
+B. {{MATH_22}}
+C. {{MATH_21}} or {{MATH_22}}
+D. {{MATH_23}}
+Answer: D
+
+Question 6:
+The table gives two values of {{MATH_12}} and their corresponding values of {{MATH_24}}, where {{MATH_25}} and {{MATH_1}} is a linear function. What is the {{MATH_2}}-coordinate of the {{MATH_2}}-intercept of the graph {{MATH_4}} in the {{MATH_5}}-plane?
+
+Answer: -113
+
+Question 7:
+In the given equation, c is a constant. The equation has no real solutions if {{MATH_26}}. What is the least possible value of n?
+{{MATH_27}}
+
+A. -49
+B. -14
+C. 14
+D. 49
+Answer: D
+
+Question 8:
+An object-s speed is increasing at a rate of 10.5 meters per second squared. What is this rate, in miles per minute squared, rounded to the nearest tenth? (Use 1 mile = 1,609 meters.)
+
+A. 0.4
+B. 23.5
+C. 153.2
+D. 281.6
+Answer: B
+
+Question 9:
+A bookstore is giving away free books every day. The equation {{MATH_28}} gives the number of free books,{{MATH_29}}, that remain to be given away after {{MATH_30}}days. Which of the following is the best interpretation of {{MATH_31}}in this context?
+
+A. The bookstore has 18 free books to give away.
+B. The bookstore will give away 18 free books in 9 days.
+C. It will take 18 days to give away all the free books.
+D. It will take 162 days to give away 18 free books.
+Answer: C
+
+Question 10:
+
+In the given pair of equations a and b are constants. The graph of this pair of equations in the xy-plane is a pair of perpendicular lines. Which of the following pairs of equations also represents a pair of perpendicular lines?
+
+{{MATH_77}}
+{{MATH_78}}
+
+A. {{MATH_79}} | {{MATH_80}}
+B. {{MATH_81}} | {{MATH_82}}
+C. {{MATH_83}} | {{MATH_84}}
+D. {{MATH_85}} | {{MATH_78}}
+
+Answer: B
+
+Question 11:
+A machine makes 8-inch, 9-inch, and 3-inch parts. During a certain day, the number of 8-inch parts that the machine makes is 4 times the number n of 9-inch parts, and the number of 3-inch parts is 30. During this day, the machine makes 100 parts total. Which equation represents this situation?
+
+A. 8(4n) + 9n + 3(30) = 100
+B. 8n + 9n + 3n = 100
+C. 4n + 30 = 100
+D. 5n + 30 = 100
+Answer: D
+
+Question 12:
+For the linear function p, p{{MATH_36}}, where c is a constant, p{{MATH_37}}, and the slope of the graph of {{MATH_38}}in the xy-plane is 8. For the linear function t, t{{MATH_39}} and t{{MATH_40}}. What is the slope of the graph of {{MATH_41}} in the xy-plane?
+
+A. {{MATH_42}}
+B. 2
+C. 8
+D. 9
+Answer: D
+
+Question 13:
+The graph of the quadratic function y = f(x) in the xy-plane intersects the x-axis when x = 39 and when x = p, where p is a constant. The maximum value of y = f(x) occurs at the point (14,m), where m is a constant. What is the value of p?
+
+Answer: -11
+
+Question 14:
+The functions {{MATH_43}} and {{MATH_44}} are defined by the given equations.
+{{MATH_45}}
+{{MATH_46}}
+If {{MATH_47}} where {{MATH_48}} is a constant, what is the value of {{MATH_49}} ?
+Điền số thập phân
+
+Answer: -4.9
+
+Question 15:
+The areas of similar rectangles A and B are 104 and 650, respectively. If the width of rectangle A is 8 cm, what is the perimeter of rectangle B?
+
+Answer: 105
+
+Question 16:
+
+The given equation
+{{MATH_86}}
+
+is one equation in a system of two linear equations. If the system of equations has at least one solution, which of the following equations could be the other equation in the system?
+
+I. {{MATH_87}}
+II. {{MATH_88}}
+
+A. I only
+B. II only
+C. I and II
+D. Neither I nor II
+
+Answer: C
+
+Question 17:
+The table shows three values of x and their corresponding values of y, where {{MATH_50}} and f is a quadratic function. What is the y-coordinate of the y intercept of the graph of {{MATH_51}} in the xy-plane?
+
+Answer: -1151
+
+Question 18:
+A software corporation hosts a three-part developer conference. All registered participants attended the first session. Of those who attended the first session, {{MATH_52}}percent attended the second session. Of those who attended both the first and second sessions, {{MATH_53}}attended the third session. Of those who attended the first but did not attend the second session{{MATH_54}} attended the third session. If the total number of participants who attended the third session represents exactly {{MATH_55}} of the original group of registered participants, what is the value of {{MATH_56}}
+
+A. 30
+B. 40
+C. 50
+D. 60
+Answer: B
+
+Question 19:
+In the given equation, {{MATH_57}} and {{MATH_58}} are positive constants.
+{{MATH_59}}
+The product of the solutions to the given equation is {{MATH_60}} and the sum of the solutions is {{MATH_61}}What is the value of {{MATH_62}}
+
+Answer: 2
+
+Question 20:
+In triangle {{MATH_63}} the measure of angle {{MATH_64}}is {{MATH_65}} Point {{MATH_66}}lies on segment {{MATH_67}} and segment {{MATH_68}}is perpendicular to segment {{MATH_69}} The length of segment {{MATH_70}}is 684, and the length of segment {{MATH_68}} is 513. What is the value of {{MATH_71}}
+
+A. {{MATH_72}}
+B. {{MATH_73}}
+C. {{MATH_74}}
+D. {{MATH_75}}
+Answer: A
+
+Question 21:
+According to a US law, ramps for use by the general public must form an angle with level ground such that {{MATH_76}}. If the ramp in the figure conforms to this law and has a height of 29.1 inches, what is the least possible value of x, in inches? (điền số thập phân)
+
+Answer: 349.2
+
+Question 22:
+In the xy-plane, the graph of the given equation is a circle.
+x^{2} – 16x + y^{2} – 10y – 55 = 0
+If this circle is inscribed in a square, what is the perimeter of the square?
+
+A. 24
+B. 48
+C. 96
+D. 220
+Answer: C

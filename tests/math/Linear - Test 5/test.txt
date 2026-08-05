@@ -1,0 +1,44 @@
+Question 1:
+For a certain circuit, its power P, in watts; current C, in amperes; voltage V, in volts; and resistance R, in ohms, are related as {{MATH_1}} where P, C, V, and Rare positive. When R = 24, which equation correctly expresses P in terms of Cand V?
+
+A. P = {{MATH_2}}
+B. P = {{MATH_2}}
+C. P = {{MATH_3}}
+D. P = {{MATH_4}}
+Answer: C
+
+Question 2:
+To purchase a used car at a total price of {{MATH_5}} dollars, a onetime down payment is required, and then fixed monthly payments are made for the remaining amount owed for the car. The equation {{MATH_6}} represents this situation, where t is the number of fixed monthly payments that are made. Which of the following is the best interpretation of {{MATH_7}} in this context?
+
+A. The amount, in dollars, of the down payment
+B. The amount, in dollars, of each fixed monthly payment
+C. The total amount, in dollars, paid for the car after t fixed monthly payments
+D. The total number of fixed monthly payments
+Answer: B
+
+Question 3:
+In the {{MATH_8}}-plane, line {{MATH_9}} intersects the {{MATH_10}}-axis at the point {{MATH_11}} and passes through the point {{MATH_12}}. If the point {{MATH_13}} lies on line {{MATH_9}}, what is the value of {{MATH_14}}?
+
+A. 68
+B. 74
+C. 80
+D. 86
+Answer: B
+
+Question 4:
+The graph of the equation {{MATH_15}}, where k is a constant, is a line in the xy-plane. The line has an x-intercept at (m, 0) and a y-intercept at (0, n), where m and n are constants. What is the value of {{MATH_16}}?
+
+A. − 8/5
+B. − 5/8
+C. 5/8
+D. 8/5
+Answer: A
+
+Question 5:
+The graph of the equation {{MATH_17}} is a line in the {{MATH_18}}-plane, where {{MATH_19}} and {{MATH_20}} are constants. If the line contains the points {{MATH_21}} and {{MATH_22}}, what is the value of {{MATH_20}}?
+
+A. − 2
+B. − 1
+C. 2
+D. 3
+Answer: A

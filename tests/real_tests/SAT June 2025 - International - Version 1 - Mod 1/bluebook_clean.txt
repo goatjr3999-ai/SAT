@@ -1,0 +1,368 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Portable video game consoles and other small electronic devices tend to ______ batteries that can't be easily taken out and swapped for new ones. Environmental policy researcher Carl Dalhammar warns that when these internal batteries stop working, the devices are usually thrown away, becoming harmful waste.
+
+A. contain
+B. prepare
+C. imagine
+D. discover
+Answer: A
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+A team of archaeologists examined 150 spherically shaped limestone rocks called spheroids that date back about 1.4 million years, concluding that early hominins intentionally chipped away at rocks to form these spheroids over time. The fact that their attempt to make the stones as round as possible was ______ suggests that early hominins may have been more cognitively sophisticated than previously thought.
+
+A. concerning
+B. comparable
+C. sympathetic
+D. deliberate
+Answer: D
+
+Question 3:
+[WIC]
+As used in the text, what does the word "assume" most nearly mean?
+
+The following text is adapted from George Bernard Shaw's 1905 play *Major Barbara*.
+
+LADY BRITOMART: You must learn to face life seriously, Stephen. I really cannot bear the whole burden of our family affairs any longer. You must advise me: you must assume the responsibility.
+
+STEPHEN: I!
+
+LADY BRITOMART: Yes, you, of course. You were 24 last June.
+
+A. Infer
+B. Mimic
+C. Undertake
+D. Presuppose
+Answer: C
+
+Question 4:
+[COE]
+Which choice best describes the main purpose of the text?
+
+The following text is from Jerome K. Jerome's 1889 novel *Three Men in a Boat (To Say Nothing of the Dog)*. The narrator and two friends are taking a boat down the River Thames in England.
+
+In a boat, I have always noticed that it is the fixed idea of each member of the crew that he is doing everything. Harris's notion was, that it was he alone who had been working, and that both George and I had been imposing upon him. George, on the other hand, ridiculed the idea of Harris's having done anything more than eat and sleep, and had a cast-iron opinion that it was he—George himself—who had done all the labour worth speaking of.
+
+A. To give an overview of a particular situation that the narrator finds startling.
+B. To examine how the narrator and his friends each contributed to navigating a challenge.
+C. To present the narrator's generalization along with supporting examples from a specific situation.
+D. To convey the narrator's confidence that he understands the role expected of him in a group.
+Answer: C
+
+Question 5:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Saturn is the first planet in our solar system to be discovered to have more than 100 moons orbiting around it. A team of astronomers using the Canada-France-Hawaii Telescope (CFHT) in Hawaii detected 62 undiscovered moons that were previously too small or too dim to see. Saturn now outranks Jupiter as the planet in our solar system with the most observed moons.
+
+A. To note a new finding about the number of Saturn's moons.
+B. To explain how the CFHT works.
+C. To describe the atmospheric conditions of Jupiter.
+D. To discuss the history of Hawaii.
+Answer: A
+
+Question 6:
+[COE]
+Which choice best states the overall structure of the text?
+
+The following text is from George Eliot's 1857 short story "The Sad Fortunes of the Rev. Amos Barton." In the text, the narrator addresses the reader directly and alludes to a discussion among Rev. Amos Barton's neighbors.
+
+It was happy for the Rev. Amos Barton that he did not, like us, overhear the conversation recorded in the last chapter. Indeed, what mortal is there of us, who would find his satisfaction enhanced by an opportunity of comparing the picture he presents to himself of his own doings, with the picture they make on the mental retina of his neighbours? We are poor plants buoyed up by the air-vessels of our own conceit: alas for us, if we get a few pinches that empty us of that windy self-subsistence! The very capacity for good would go out of us.
+
+A. The narrator expresses relief that a disagreement was resolved more expediently than expected and then indicates how the situation might have gone differently.
+B. The narrator comments on the fact that a character remains unaware of how he is viewed by others and then generalizes about the problem of learning others' opinions of one's own actions.
+C. The narrator summarizes an earlier event involving a specific character and then anticipates the later significance it will have for that character.
+D. The narrator implies that a character is not well liked by his neighbors and then uses an extended comparison to demonstrate why their negative opinion of him is largely justified.
+Answer: B
+
+Question 7:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Allison Q. Byrne and colleagues relied on historical DNA (hDNA)—genomic data incidentally preserved in specimens housed in collections such as those at the Smithsonian National Museum of Natural History—to investigate the evolutionary origins of a pathogen affecting amphibians. Although this approach can yield many insights about the biological past, it remains a relatively underutilized resource in part because hDNA is often to some extent degraded, a situation not easily remediable under current methodological paradigms and with extant DNA extraction and analysis technologies.
+
+A. It presents a scientific study that relied on a particular approach, then describes a barrier to the widespread adoption of that approach.
+B. It evaluates a research methodology used in a particular study, then explains how scientists may overcome difficulties inherent to that methodology.
+C. It summarizes the findings of a scientific study, then discusses the possibility of other researchers replicating those findings in future studies.
+D. It exemplifies a common method of genomic data analysis, then details the difficulties in adapting that method to new circumstances.
+Answer: A
+
+Question 8:
+[Cross Text]
+Based on the texts, how would the author of Text 2 most likely answer the underlined question in Text 1?
+
+**Text 1**
+Yale University and the investment bank JPMorgan Chase are two of the many institutions offering training programs in entrepreneurship. __But what results do such programs produce?__ In a study of college students in Sweden, researcher Ove Hansemark addressed this question and found that participants showed strong belief in their entrepreneurial capabilities after receiving entrepreneurial training.
+
+**Text 2**
+While studies of entrepreneurial training typically report positive results, a close look at these studies reveals widespread methodological shortcomings. For instance, a 1998 study by Ove Hansemark found benefits of entrepreneurial education for Swedish college students, but the study used a very small sample of only 19 students, making it difficult to say whether the training actually had an effect.
+
+A. Although the programs may seem to produce positive results, close analysis of studies of the programs shows that they produce negative results just as frequently.
+B. It is unknown what results the programs produce because studies of them are often designed in ways that do not allow for definitive conclusions.
+C. Most of the programs do not actually produce positive results even though program participants tend to regard them as beneficial.
+D. The programs tend to produce inconsistent results because they vary substantially in their methods and aims.
+Answer: B
+
+Question 9:
+[COE]
+According to the text, Stephen Graham Jones and Cherie Dimaline are similar in what way?
+
+The 2020 novel *The Only Good Indians* confirmed that Stephen Graham Jones is one of the most talented writers of horror fiction today. By featuring main characters who are Blackfeet, like Jones himself, the novel also helped to ensure that Indigenous people have a place within the horror genre. But Jones is hardly the only Indigenous voice in horror. Métis author Cherie Dimaline has also written in the genre. Her acclaimed 2019 novel *Empire of Wild* is set in a Métis community in southern Canada.
+
+A. Both have published fictional works featuring main characters who are Blackfeet.
+B. Both are citizens of the Blackfeet Nation.
+C. Both are Indigenous authors who have written horror fiction.
+D. Both have said that they don't like reading horror fiction even though they write it.
+Answer: C
+
+Question 10:
+[Structure]
+Which choice best states the main idea of the text?
+
+Spanning the 1920s to the 1980s, Mexican architect Luis Barragán's prolific career evolved through distinct phases. After traveling to the United States and Europe in the early 1930s and immersing himself in an international architectural discourse, Barragán began incorporating principles derived from functionalism and modernism in his work, as seen in the Chávez Peón de Ochoa House, whose unadorned geometric forms contrast with the historically inspired architecture found in the Aguila House, one of Barragán's early projects in Guadalajara.
+
+A. Barragán's designs of the Chávez Peón de Ochoa House and the Aguilar House are considered paragons of a functionalist and modernist aesthetic.
+B. A notable shift in Barragán's design aesthetic reflects the influence of his time abroad.
+C. Barragán's early work shows an initial dedication to a modernist aesthetic that he later abandoned.
+D. Barragán's design of the Aguilar House is considered more experimental than his design for the Chávez Peón de Ochoa House.
+Answer: B
+
+Question 11:
+[COE]
+Which choice most effectively uses data from the table to complete the assertion?
+
+In 2021, Rocío Uría-Martínez, Megan M. Johnson, and Rul Shan published a report on hydroelectric power plants operating in the US as recently as 2019, and data from their report are shown in the table. Of the plants in the table, the plant with the lowest average power generated per year in 2019 was located in the state of ______
+
+A. Wisconsin.
+B. Michigan.
+C. Florida.
+D. Indiana.
+Answer: A
+
+Question 12:
+[COE]
+Which finding, if true, would most directly support the underlined claim?
+
+When a company has a new product, it has to decide when to tell people about it. Companies usually announce a new product before it is released and available for purchase. Those announcements can increase consumer excitement, which can mean that more people will buy the product. But __the effect fades quickly, so companies need to be careful in timing the announcement and the release of a new product.__
+
+A. Consumers tend to prefer new products over older products.
+B. Consumers are more likely to buy a new product when they already use products from the company making the new product.
+C. Consumer surveys show low excitement for new products that were announced a long time before they were released.
+D. The kind of information a company provides about a new product helps determine how likely consumers are to buy the product.
+Answer: C
+
+Question 13:
+[COE]
+Which choice best describes data from the table that support Ehmann and colleagues' hypothesis?
+
+One way that young orangutans acquire foraging skills is through a behavior scientists call peering—closely watching older orangutans as they engage in an activity that the young have not yet mastered. Since female orangutans typically remain in the same area from youth through adulthood and males do not, Beatrice Ehmann and her colleagues hypothesized that it is more advantageous for immature females than males to devote attention to orangutans who are permanent residents of the immature individual's home region, and this should be reflected in sex-specific differences in peering behavior.
+
+A. Individual 6 and individual 1 directed a higher proportion of peering events at permanent residents of their home regions than did individual 13 and individual 15.
+B. The proportion of peering events directed at permanent residents of the immature orangutans' home regions ranged from a low of 0.00 to a high of 0.67.
+C. Individual 6 directed a higher proportion of peering events at permanent residents of its home region than did individual 1, and individual 13 directed a higher proportion of peering events at permanent residents of its home region than did individual 15.
+D. Individual 13 engaged in 27 peering events, more than either individual 6 or individual 1.
+Answer: A
+
+Question 14:
+[COE]
+Which quotation from the article would best illustrate the theater historian's claim?
+
+Founded in 1965 and originally established as a cultural extension of the United Farm Workers—a union representing many Mexican American agricultural workers at the time—the theater troupe El Teatro Campesino has achieved recognition as a source of inspiration for subsequent Chicano theater companies and as a contributor to the dramatic arts. In an article about the company, a theater historian posits that a significant stylistic influence on El Teatro's early performances was the audience-mediated slapstick comedy of carpa theater, vaudeville style shows popular in Mexico and the US Southwest in the 1920s and '30s.
+
+A. "The members of the company, which in addition to founder Luis Valdez consisted entirely of nonprofessional actors, traveled into farm fields, where they, with minimal props and costumes, performed comedy in the form of brief humorous vignettes."
+B. "The company was focused on the reality of the present situation and discovered that humor was often found in that reality; consequently, comedy became a tool to convey social critique while entertaining and inspiring audiences."
+C. "The company relied heavily on satire, humor and references to contemporary popular culture as well as make-do aesthetic—often referred to as rasquache—that reflected not only the troupe's limited financial resources but also its sociopolitical message."
+D. "The company presented actos, short comedy sketches, that often relied on exaggerated physical humor to groups of agricultural workers, whose reactions—enthusiastic cheers of appreciation and, occasionally, loud boos of disapproval—promoted audience participation."
+Answer: D
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+In Switzerland, the white fuzzy mountain flowers known as edelweiss are widely treated as a symbol of strength and courage. Although edelweiss can thrive in extreme conditions, they aren't notably tougher or harder to reach than other mountain flowers growing in the Swiss Alps. Historian Tobias Scheidegger has shown that the popular view of the flowers originated in the mid-1800s when mountain climbing became popular in Switzerland. Mountain climbers spread the idea that the flowers grew only in steep, icy terrains that were dangerous to climb to. Scheidegger says that these claims were self-interested. He suggests that mountain climbers presented edelweiss in this way in order to ______
+
+A. share their observations about the unusual characteristics of edelweiss with scientists.
+B. encourage more flower enthusiasts to explore the Swiss Alps.
+C. make themselves appear brave and strong for being able to climb to difficult places where edelweiss supposedly grew.
+D. prove that edelweiss were more common in the Swiss Alps than in other mountain regions in Europe.
+Answer: C
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A number of scientific phenomena have been named after nineteenth-century Czech physiologist Jan Evangelist Purkinje, including the Purkinje effect, which ______ the eye's tendency to perceive objects as blue tinted in low-light conditions.
+
+A. has been
+B. will have been
+C. was
+D. is
+Answer: D
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The fibularis longus and the ______ move the fibula and humerus, respectively.
+
+A. brachialis are cylindrical in shape, which are skeletal muscles, and help
+B. brachialis are cylindrical in shape and help, which are skeletal muscles,
+C. brachialis, which are skeletal muscles, are cylindrical in shape and help
+D. brachialis are cylindrical, which are skeletal muscles, in shape and help
+Answer: C
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+It was April of 1885 when Vincent van Gogh completed ______ of dozens to be featured in the upcoming exhibition, is an important part of Van Gogh's body of work.
+
+A. *Study of Two Peasants*, the drawing, one
+B. *Study of Two Peasants*. The drawing, one
+C. *Study of Two Peasants*, the drawing. One
+D. *Study of Two Peasants* the drawing. One
+Answer: B
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Fernando Palma Rodriguez creates robotic sculptures that combine mechanical elements with materials like feathers, soil, and seeds. The artist is from a rural farming community outside Mexico City, and he studied engineering in college. The natural and mechanical ______ highlight these two aspects of his background.
+
+A. materials, that Palma Rodriguez uses in his art
+B. materials that Palma Rodriguez uses in his art
+C. materials that Palma Rodriguez uses in his art,
+D. materials, that Palma Rodriguez uses in his art,
+Answer: B
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Exemplars of Stigler's law ______ there is the Argand diagram; in astronomy, the Cassegrain reflector; and in physics, the Fermi paradox. All the aforementioned share the trait of being named after individuals who were not their initial discoverers or inventors.
+
+A. abound, in mathematics,
+B. abound in mathematics:
+C. abound: in mathematics,
+D. abound in mathematics;
+Answer: C
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The eruption of Rusty Geyser in Yellowstone National Park is caused by a sequence of events. First, water seeps down through narrow channels in the bedrock. ______ magma heats the water and turns it into steam. Finally, that steam builds up enough pressure in the narrow channels to force the water above it to burst out of the ground.
+
+A. Similarly,
+B. On the contrary,
+C. First of all,
+D. Next,
+Answer: D
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In the West African country of Sierra Leone, the percentage of the population living in cities rose from 40.8% to 42.9% between 2015 and 2020. ______ urbanization rates climbed across West Africa as a whole, rising 3.2 percentage points in that five-year period.
+
+A. Concurrently,
+B. For example,
+C. In other words,
+D. Eventually,
+Answer: A
+
+Question 23:
+[Synthesis]
+The student wants to contrast how the igneous rock at the two national parks formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Igneous rock is one of the three main types of rock.
+• It is formed when molten rock, known as magma or lava, cools.
+• Intrusive igneous rock forms when molten rock cools deep within Earth's crust.
+• Extrusive igneous rock forms when molten rock exits Earth's crust and cools on the surface.
+• Acadia National Park in Maine contains examples of intrusive igneous rock.
+• Crater Lake National Park in Oregon contains examples of extrusive igneous rock.
+
+A. Acadia National Park contains examples of intrusive igneous rock; the other type of igneous rock is called extrusive igneous rock.
+B. Acadia National Park's igneous rock formed from molten rock that cooled deep within Earth's crust, whereas Crater Lake National Park's igneous rock formed from molten rock that cooled after it exited Earth's crust.
+C. Acadia National Park and Crater Lake National Park both contain igneous rock, which is formed when molten rock cools.
+D. Two types of igneous rock, which is formed when molten rock cools, are intrusive igneous rock and extrusive igneous rock, both of which can be found in national parks.
+Answer: B
+
+Question 24:
+[Synthesis]
+The student wants to contrast the number of haiku in each poem. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• *Morning Haiku* (2010) is a book of poetry by African American poet Sonia Sanchez.
+• Each poem in the book is a sequence of haiku.
+• According to the book's publisher, Penguin Random House, the book "celebrates the gifts of life and mourns the deaths of revered African American figures."
+• The poem "15 haiku (for Toni Morrison)" is written as a sequence of fifteen haiku.
+• The poem "7 haiku (for Ray Brown)" is written as a sequence of seven haiku.
+
+A. The poem "15 haiku (for Toni Morrison)" consists of fifteen haiku, whereas the poem "7 haiku (for Ray Brown)" consists of seven.
+B. Both "15 haiku (for Toni Morrison)" and "7 haiku (for Ray Brown)" can be found in Sanchez's 2010 collection *Morning Haiku*.
+C. While "15 haiku (for Toni Morrison)" is about writer Toni Morrison, "7 haiku (for Ray Brown)" is about bassist Ray Brown.
+D. The poems in *Morning Haiku* celebrate the lives or mourn the deaths of "revered African American figures," according to the book's publisher, Penguin Random House.
+Answer: A
+
+Question 25:
+[Synthesis]
+The student wants to indicate that both soundscapes are on the list. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• The Japanese Ministry of the Environment made a list of 100 soundscapes of Japan.
+• Each soundscape on the list was selected for its cultural significance to Japan.
+• The sound of crickets on the banks of the Yodo River is on the list.
+• The sound of water flowing over Nachi Falls is on the list.
+
+A. Both the sound of crickets on the banks of the Yodo River and the sound of water flowing over Nachi Falls are on the list.
+B. The sound of water flowing over Nachi Falls is on the list.
+C. The Japanese Ministry of the Environment made a list of 100 culturally significant soundscapes of Japan.
+D. Each soundscape on the list, including the sound of crickets on the banks of the Yodo River, was selected for its cultural significance to Japan.
+Answer: A
+
+Question 26:
+[Synthesis]
+The student wants to describe Untitled (Topographic Landscape) to a new audience. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Maya Lin is an American artist known for her memorials and works of installation art.
+• She completed the Vietnam Veterans Memorial in 1982.
+• It is a memorial sculpture consisting of two 246-foot granite walls, and it is designed to commemorate veterans of the Vietnam War.
+• She completed *Untitled (Topographic Landscape)* in 1997.
+• It is an installation composed of wood that fills an entire gallery room.
+
+A. Artist Maya Lin is well known for her installation art, such as *Untitled (Topographic Landscape)* (1997), and for her memorials.
+B. Though Maya Lin's *Untitled (Topographic Landscape)* (1997) is not a memorial, its gallery-filling scale may call to mind the imposing Vietnam Veterans Memorial, which consists of two 246-foot granite walls.
+C. Maya Lin's Vietnam Veterans Memorial is a granite memorial sculpture that commemorates veterans of the Vietnam War, while *Untitled (Topographic Landscape)* is an installation artwork.
+D. Completed in 1997, Maya Lin's *Untitled (Topographic Landscape)* is a large-scale installation artwork composed of wood that fills an entire gallery room.
+Answer: D
+
+Question 27:
+[Synthesis]
+The student wants to explain Cummings and Knapp's contribution to Lullfitz's study. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Australian ecologist Alison Lullfitz studied the distribution of *Platysace deflexa* (youlk), a small shrub with edible tubers.
+• Lullfitz found that youlk plants gathered at sites across southwest Australia had very similar DNA despite differences in soil conditions.
+• Lullfitz hypothesized that humans had transported the plant throughout the region.
+• Lullfitz consulted Shandell Cummings and Lynette Knapp, members of the area's Noongar Aboriginal group.
+• Cummings and Knapp confirmed that their ancestors carried youlk when traveling across the region.
+
+A. Lullfitz found that Cummings and Knapp had information relevant to her study of *Platysace deflexa*'s distribution.
+B. Cummings and Knapp confirmed that DNA sequences from the *Platysace deflexa* plants Lullfitz had gathered were in fact very similar.
+C. Lullfitz consulted Cummings and Knapp, members of the Noongar Aboriginal group, who assisted with her study of *Platysace deflexa*, a small shrub with edible tubers.
+D. By indicating that their ancestors transported *Platysace deflexa*, Cummings and Knapp provided information that supported Lullfitz's hypothesis.
+Answer: D
+

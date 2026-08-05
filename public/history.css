@@ -1,0 +1,204 @@
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+body {
+  font-family:   "Noto Sans", system-ui, sans-serif !important
+;
+  background: #ffffff;
+  color: #111827;
+  display: flex;
+}
+
+/* Sidebar styles are provided by `style.css` to keep layout consistent across pages. */
+
+/* ========== MAIN CONTENT ========== */
+.main-content {
+  margin-left: 250px;
+  padding: 40px;
+  width: calc(100% - 250px);
+}
+
+.page-title {
+  font-size: 30px;
+  font-weight: 800;
+  margin-bottom: 28px;
+  color: #0f172a;
+  letter-spacing: -0.5px;
+}
+
+/* ========== HISTORY CARD ========== */
+.history-card {
+  background: white;
+  border-radius: 20px;
+  padding: 26px;
+  border: 1px solid #e5e7eb;
+  box-shadow: none;
+}
+
+/* Một dòng history */
+.history-row {
+  padding: 18px 6px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #eceef1;
+}
+
+.history-row:last-child {
+  border-bottom: none;
+}
+
+.history-info {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.history-time {
+  font-size: 15px;
+  color: #374151;
+}
+
+.history-score {
+  font-size: 15px;
+  color: #111827;
+}
+
+/* Nếu không có history */
+.history-empty {
+  padding: 30px 0;
+  text-align: center;
+  font-size: 15px;
+  color: #6b7280;
+}
+
+/* ========== BUTTONS ========== */
+.btn {
+  padding: 8px 18px;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 700;
+  border: none;
+  transition: background 0.18s ease;
+}
+
+/* Review button (giống History-btn của bạn) */
+.review-btn {
+  background: #dbeafe;
+  color: #1d4ed8;
+}
+.review-btn:hover {
+  background: #bfdbfe;
+}
+
+/* Back button */
+.back-btn {
+  margin-top: 25px;
+  background: #2563eb;
+  color: white;
+  padding: 6px 14px;
+  font-size: 13px;
+}
+.back-btn:hover {
+  background: #1d4ed8;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.page-title {
+  font-size: 30px;
+  font-weight: 800;
+  margin-bottom: 28px;
+  color: #0f172a;
+  letter-spacing: -0.5px;
+
+  /* Giúp nó không đẩy các phần khác sang phải */
+  width: fit-content;
+}
+.page-title {
+  width: 100%;
+}
+
+.sidebar-footer {
+  margin-top: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.account-status {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+  font-size: 14px;
+  font-weight: 500;
+  color: #475569;
+  background: #f8fafc;
+}
+
+.account-status.pro {
+  border-color: #fbbf24;
+  background: #fffbeb;
+  color: #92400e;
+}
+
+.status-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #94a3b8;
+  display: inline-block;
+}
+
+.status-dot.pro {
+  background: #fbbf24;
+  box-shadow: none;
+}
+
+@media (max-width: 900px) {
+  .main-content {
+    margin-left: 0;
+    width: 100%;
+    padding: 20px 16px 28px;
+  }
+
+  .page-title {
+    font-size: 28px;
+    margin-bottom: 16px;
+    line-height: 1.2;
+  }
+
+  .history-card {
+    border-radius: 16px;
+    padding: 14px;
+  }
+
+  .history-row {
+    padding: 14px 2px;
+    gap: 12px;
+    align-items: center;
+  }
+
+  .history-time,
+  .history-score {
+    font-size: 14px;
+  }
+
+  .btn {
+    padding: 8px 14px;
+    font-size: 13px;
+  }
+}

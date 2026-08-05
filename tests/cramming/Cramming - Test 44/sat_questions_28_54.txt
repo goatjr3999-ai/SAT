@@ -1,0 +1,402 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The way in which individual elements are balanced within a photographic image tends to affect how viewers perceive it: symmetry tends to give the elements equal importance, asymmetry emphasizes differences, and radial balance (organizing the elements around a central point) emphasizes the center over the periphery. What a photograph conveys is therefore largely ___ how it is balanced.
+
+
+A. contingent on
+B. reserved for
+C. obligated to
+D. inhibited by
+Answer: A
+
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+As with other river deltas, the Krishna River delta is ____: it is a constantly evolving network of channels and strips of land that change in size and shape as the river deposits new sedimentary particles where the river meets the waters of the Bay of Bengal.
+
+
+A. sustainable
+B. unrivaled
+C. immutable
+D. protean
+Answer: D
+
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+At a conference for aspiring children’s book illustrators, Will Clay, illustrator of such lauded works as Little Eight John, was the subject of a presentation that was intended specifically to foster ______ the techniques of successful illustrators so
+that attendees could use that understanding to improve their own work.
+
+
+A. hesitancy about
+B. exceptions to
+C. insight into
+D. obliviousness about
+Answer: C
+
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The dinosaur displays at museums such as the Naturmuseum Senckenberg in Frankfurt (which has a life-sized Diplodocus longus statue among its holdings) are notable for the ______ of the research behind them—the museum staff consulted numerous sources to ensure the accuracy of the displays.
+
+
+A. novelty
+B. rigor
+C. obscurity
+D. shallowness
+Answer: B
+
+
+Question 5:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is adapted from Eugene O’Neill’s 1920 play *Beyond the Horizon*. Andrew and Robert Mayo are brothers who grew up on their family’s farm.
+ANDREW: Farming ain’t your nature. There’s all the difference shown in just the way us two feel about the farm. You—well, you like the home part of it, I expect; but as a place to work and grow things, you hate it. Ain’t that right?
+ROBERT: Yes, I suppose it is. For you it’s different. You’re a Mayo through and through. You’re wedded to the soil. You’re as much a product of it as an ear of corn is, or a tree. Father is the same. This farm is his life-work.
+
+
+A. It illustrates that two characters share a goal.
+B. It shows how two characters solved a mystery.
+C. It describes a place two characters visited on vacation.
+D. It emphasizes a difference between two characters.
+Answer: D
+
+
+Question 6:
+[Structure]
+Which choice best states the main purpose of the text?
+
+The following text is adapted from Matthew Arnold’s 1869 nonfiction book Culture and Anarchy.
+The Times [a British newspaper], replying to some foreign strictures on the dress, looks, and behaviour of the English abroad, urges that the English ideal is that every one should be free to do and to look just as he likes. But culture indefatigably tries, not to make what each raw person may like, the rule by which he fashions himself; but to draw ever nearer to a sense of what is indeed beautiful, graceful, and becoming, and to get the raw person to like that.
+
+
+A. It makes a claim about one of the principal effects of culture.
+B. It asserts that what is beautiful is a matter of objective truth rather than subjective perception.
+C. It implies that opinions regarding culture evolve over time.
+D. It explains differences in matters of taste between the English and others.
+Answer: A
+
+
+Question 7:
+[Cross Text]
+Based on the texts, how would Tsai et al. (Text 2) most likely respond to Madhusudhan et al.’s research, as presented in Text 1?
+
+Text 1
+Hycean planets are a class of exoplanets (planets outside our solar system) with oceans of liquid water—critical to supporting life—and atmospheres rich in hydrogen. Computer models have determined that for potential hycean planets, the range of the habitable zone (HZ), the distance from a star that allows a planet to retain liquid water on its surface, begins at about 1 astronomical unit (AU). In 2021, Nikku Madhusudhan et al. identified K2-18 b as a hycean candidate, noting that the planet is located right on the inner edge of the HZ.
+Text 2
+ In a 2023 paper, Shang-Min Tsai et al. claimed that the hydrogen-rich atmospheres of K2-18 b and other hycean candidates admit wavelengths of light that cause elevated surface temperatures and increased water evaporation. Unlike earlier assessments, Tsai et al.’s calculations therefore placed the inner edge for these planets’ HZ as far out as 3.85 AU.
+
+
+A. By arguing that K2-18 b and other hycean candidates are unlikely to support life because these planets are located too far from the stars they orbit.
+B. By stating that the chemical composition of the atmosphere of the hycean candidate Madhusudhan et al. identified suggests that this planet’s surface is unlikely to harbor liquid water.
+C. By maintaining that Madhusudhan et al. relied on a model whose estimates of surface temperatures on hycean candidates are likely too high.
+D. By observing that unlike the hycean candidate Madhusudhan et al. discovered, most other types of planets with hydrogen-rich atmospheres are likely located within the HZ.
+Answer: B
+
+
+Question 8:
+[Structure]
+Which choice best states the main idea of the text?
+
+The following text is adapted from Daniel Defoe’s 1704 nonfiction book The Storm.
+If I judge right, ‘tis the duty of an historian to set everything in its own light, and to convey matter of fact upon its legitimate authority, and no other: I mean thus, (for I would be as explicit as I can) that where a story is vouched to him with sufficient authority, he ought to give the world the special testimonial of its proper voucher, or else he is not just to the story: and where it comes without such sufficient authority, he ought to say so; otherwise he is not just to himself.
+
+
+A. The only figures that a historian should quote are those who are widely viewed as credible.
+B. It is difficult for historians to be completely accurate, and eventually they will feel remorse for some of their work.
+C. Historians should clearly indicate the extent to which each of their sources is trustworthy.
+D. Because no memories can be trusted, all historians are forced to admit that some records of events may be, in part, false.
+Answer: C
+
+
+Question 9:
+[COE]
+Which choice most effectively uses data from the graph to complete the assertion?
+
+While US public charities, like Kaiser Foundation Hospitals, must file Form 990 yearly with the IRS, private foundations, such as the Gordon and Betty Moore Foundation, must file a different form, 990–PF. In addition, foundations that engage in certain prohibited activities must also file Form 4720 and pay a penalty tax on the money involved. Private foundations are prohibited from holding excess interests in a business enterprise, “self-dealing” (conducting activities that benefit foundation insiders), making taxable expenditures such as outlays for lobbying, and failing to cross a required threshold in making charitable distributions from income. Out of the organizations that filed Form 990–PF in the years 2003–2005, ______
+
+
+A. a smaller percentage of those that also filed Form 4720 did so because they held excess interests in a business enterprise than the percentage of those that filed Form 4720 because they did not meet the minimum charitable distribution requirement.
+B. those that also filed Form 4720 collectively paid larger penalties for failing to meet the minimum charitable distribution requirement than for other reasons.
+C. those that were also required to file Form 4720 because they had excess holdings in a business enterprise paid, on average, a larger penalty than those organizations that filed Form 4720 because they made taxable expenditures.
+D. those that also filed Form 4720 paid a larger penalty for failing to meet a minimum charitable distribution requirement than those organizations that filed Form 990 but also filed Form 4720 for the same reason.
+Answer: B
+
+
+Question 10:
+[COE]
+Which finding, if true, would most directly illustrate the researchers’ finding?
+
+Adelaide, Australia, has installed engineered structures along 53% of its shoreline to protect infrastructure from wave erosion and other hazards, a practice known as shoreline hardening. To evaluate the responses of waterbirds to two types of hardening structures—riprap and bulkheads—Diann Prosser et al. surveyed waterbird communities consisting of the brown pelican, the red knot, and 62 other species at different sites in the Chesapeake Bay on the US East Coast. Utilizing the Index of Waterbird Community Integrity (IWCI), on which a high score corresponds to high community integrity, the researchers found that bulkheads are more strongly negatively correlated with waterbird community integrity than is riprap.
+
+
+A. The difference in average IWCI scores for waterbird communities at Stony and Old Road, two sites with a higher percentage of shoreline consisting of bulkheads than of riprap, was statistically insignificant.
+B. Waterbird communities at Curtis, a site with equal percentages of shoreline consisting of bulkheads and riprap, had higher average IWCI scores than did waterbird communities at Miles, a site with different percentages of shoreline consisting of bulkheads and riprap.
+C. Waterbird communities at Old Road, a site with a relatively high percentage of shoreline consisting of bulkheads, had lower average IWCI scores than did waterbird communities at Miles, a site with a relatively high percentage of shoreline consisting of riprap.
+D. Waterbird communities at Curtis, a site with a high percentage of shoreline consisting of bulkheads and riprap, had lower average IWCI scores than did waterbird communities at Onancock, a site with a low percentage of shoreline consisting of bulkheads and riprap.
+Answer: C
+
+
+Question 11:
+[Structure]
+Which choice best states the main idea of the text?
+
+The following text is from George Eliot’s 1857 short story “The Sad Fortunes of the Rev. Amos Barton.” In the text, the narrator addresses the reader directly and alludes to a discussion among Rev. Amos Barton’s neighbors.
+It was happy for the Rev. Amos Barton that he did not, like us, overhear the conversation recorded in the last chapter. Indeed, what mortal is there of us, who would find his satisfaction enhanced by an opportunity of comparing the picture he presents to himself of his own doings, with the picture they make on the mental retina of his neighbours? We are poor plants buoyed up by the air-vessels of our own conceit: alas for us, if we get a few pinches that empty us of that windy self-subsistence! The very capacity for good would go out of us.
+
+
+A. People tend to fixate more often than they should on whether their acquaintances think highly of them.
+B. Although people wish to be thought of as generous, the smallest impediments will often deter them from being so.
+C. Although people recognize why being direct is important, they usually avoid openly criticizing others for their shortcomings.
+D. People are better off not knowing about the discrepancy between their own self-image and what others think of them.
+Answer: D
+
+
+Question 12:
+[COE]
+Which choice most effectively uses data from the graph to complete the researcher's example?
+
+It is common for freshwater lakes near or above a latitude of 45∘north of the equator, like Lej da San Murezzan in Switzerland, to accumulate surface ice in winter. The amount and duration of ice depends on many factors, including local weather conditions as well as the lake's depth, volume, and surface area, but a climate researcher claims that some lakes in these latitudes have seen a decline in the duration of ice between the early 1980s and the mid-2000s. She cites as a typical example _____
+
+
+
+A. both Spirit Lake and Kitusjärvi, which had more than 120 days of ice in the winter of 2005-06.
+B. Kitusjärvi, which had fewer days of ice in the winter of 2005-06 than it did in the winter of 1980-81.
+C. Spirit Lake, which had more days of ice in the winter of 2005-06 than it did in the winter of 1980-81.
+D. both Spirit Lake and Kitusjärvi, which had fewer than 170 days of ice in the winter of 1980-81.
+Answer: B
+
+
+Question 13:
+[COE]
+Which statement, if true, would best illustrate the challenge described in the text?
+
+A creole language is an amalgam of a lexifier, or primary contributor of grammar and vocabulary, with one or more substrates, or secondary contributors. English–lexifying creoles in North America, such as Afro-Seminole Creole, rely on West African substrates, while Hawaiian Pidgin relies on ‘Ölelo Hawaii’, the Polynesian language of the Native Hawaiian people, with further contributions from Korean and other East Asian languages, Portuguese, and Spanish. This is a heterogeneous history, even for a creole language. Moreover, numerous similarities are found among the East Asian substrates, as well as between Portuguese and Spanish. Thus, it can be challenging to credit certain words or features of grammar or pronunciation to any one substrate.
+
+
+A. Stative structures in which verbs modify subjects and serve a descriptive function comparable to that of adjectives are hallmarks of Hawaiian Pidgin as well as of East Asian languages such as Korean, yet the syntax of Hawaiian Pidgin’s native structures confirms their origin in ‘Ölelo Hawaii’.
+B. Hawaiian Pidgin’s substitution of “d” for the voiced “th” consonant (as used in “that”) and of “t” for the unvoiced “th” consonant (as used in “thick”) can be credited to the absence of “th” consonants in ‘Ölelo Hawai’i, though most other Polynesian languages lack “th” consonants too.
+C. The usage of the Hawaiian Pidgin verb “ste” to convey a temporary state, as in the statement “da watah ste cold” (the water is cold), most nearly resembles that of the ‘Ölelo Hawaii’ verb noho, though the Portuguese verb ficar and the Spanish verb estar have similar usages and may also exert an influence on “ste.”
+D. As is also the case with some first-language speakers of Afro-Seminole Creole, many first-language speakers of Hawaiian Pidgin align their pronunciation, word choice, and syntax more closely with English in certain conversational contexts than in others.
+Answer: C
+
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Antonia Olivia Dolan and colleagues had musicians and nonmusicians with clinically average hearing listen to recordings of nature sounds and music in popular genres like heavy metal and acoustic folk and adjust the volume to optimize their listening enjoyment. The researchers found that for a given recording that a musician and nonmusician identified as their favorite among those included in the study, optimal volume tended to be higher for the musician than for the nonmusician. Thus, if a musician and nonmusician both identified Metallica’s “Sad but True” as their favorite recording and the musician preferred to listen to it at a volume of 85.5 decibels, the nonmusician would be expected to ______.
+
+
+A. enjoy listening to the nature sounds at 85.5 decibels more than listening to “Sad but True” at 85.5 decibels.
+B. prefer listening to other music at 85.5 decibels over listening to “Sad but True” at that volume.
+C. not find it enjoyable to listen to any recordings at a volume as low as 85.5 decibels.
+D. find listening to “Sad but True” at 85.5 decibels less enjoyable than listening to it at a lower volume.
+Answer: D
+
+
+Question 15:
+[COE]
+Which finding about the Cairo site, if true, would most directly support Khudadad’s conclusion?
+
+Based on findings from fossil sites, paleobotanists had developed the so-called partition hypothesis, which holds that there were two distinctly different kinds of biomes during the Devonian period (circa 360 to 420 million years ago). One was a tropical deltaic forest biome home to plants such as the fernlike Eospermatopteris, and the other was an arid floodplain forest biome home to plants such as the coniferlike Archaeopteris. Recently, however, evolutionary ecologist Khudadad Khudadad examined the remnants of a Devonian forest in what is now Cairo, New York, and concluded that evidence from the Cairo site is inconsistent with the partition hypothesis.
+
+
+A. Although the site appears to have been a tropical deltaic forest during the Devonian period, fossil evidence suggests that Eospermatopteris was present at that time.
+B. The site appears to have been a tropical deltaic forest early in the Devonian period but transitioned to an arid floodplain forest after the end of the Devonian period.
+C. The site appears to have been an arid floodplain forest during the Devonian period and contains fossil evidence of contemporaneous Eospermatopteris and Archaeopteris.
+D. Fossil evidence from the site suggests that several forest plant species other than Eospermatopteris and Archaeopteris lived there during the Devonian period.
+Answer: C
+
+
+Question 16:
+[Infer]
+Which choice most logically completes the text?
+
+Medieval Genoa was among the societies that enacted sumptuary laws regulating consumption related to goods or practices indicative of status, such as processions and clothing, in an effort to reinforce the existing social order. Such laws were easily circumvented, inviting the conclusion that they were failures. Historian Laurel Ann Wilson instead suggests that their purpose is misunderstood, noting two persistent trends: sumptuary laws were constantly revised and reissued; and even in revised laws, whose preambles often lamented public noncompliance and the ensuing erasure of class distinctions, enforcement mechanisms remained weak or absent. The recurrence of these patterns throughout preindustrial societies suggests that ______
+
+
+A. observance of sumptuary laws in medieval Genoa and other societies was complicated by the constant reissuance and revision of the laws, as citizens struggled to navigate conflicting edicts.
+B. the practical value of sumptuary laws was secondary to the laws’ symbolic function as official reassertions of the social order.
+C. sumptuary laws in societies such as medieval Genoa originally served a practical purpose but this intent was lost as the laws became more circuitous in subsequent revisions.
+D. lawmakers gradually realized that sumptuary laws were inherently challenging to enforce and lowered their expectations of compliance over time.
+Answer: B
+
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+For her installation The Last Cruze, photographer LaToya Ruby Frazier traveled to Lordstown, Ohio, where she documented the lives of workers at the local automobile plant. In the installation, text culled from a series of in-depth interviews with employees and their families ______ sixty-seven gelatin silver prints, highlighting the collaborative documentary nature of Frazier’s work.
+
+
+A. are punctuated by
+B. punctuate
+C. punctuating
+D. punctuates
+Answer: D
+
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Drummer Dennis Chambers’s distinguished career includes many memorable achievements, such as working on the Brecker Brothers’ album Return of the Brecker Brothers. However, as house drummer at Sugar Hill Records, a record label that was a pioneer of early hip hop _____ Chambers joined too late to play drums on the label’s classic song “Rapper’s Delight.”
+
+
+A. music,
+B. music;
+C. music, which
+D. music
+Answer: A
+
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Many ranching terms come from Spanish. The word "hackamore" (a halter) comes from the Spanish word jáquima, and "stockade" (a ______ comes from estacada. This is because the first Anglo, African, and Native American cattle ranchers in the southwestern US learned the trade from Spanish-speaking Mexican vaqueros, or cowboys.
+
+
+A. fence—
+B. fence,
+C. fence;
+D. fence)
+Answer: D
+
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+When, in 2018, scientists in Germany discovered a fossilized brittle star with three thick, spine-studded arms positioned opposite three thin, undeveloped ones, they found something never before seen in the fossil ______ clonal fragmentation, a type of asexual reproduction, an animal splits itself in two, each half then regrowing its missing limbs—just what the brittle star was doing.
+
+
+A. record: evidence of cloning. In
+B. record—evidence of cloning in
+C. record. Evidence of cloning in
+D. record, evidence of cloning, in
+Answer: A
+
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Mitochondrial genomes reproduce asexually, which should over time result in an accumulation of harmful mutations and a decline in mitochondrial functionality. However, nuclear genes are hypothesized to coevolve with the rate of mitochondrial decline, eliminating mutational erosion. Such a compensatory measure ____ the organelle’s decline, unlike enzyme-stabilizing accessory proteins, offers an evolutionary explanation of mitochondrial reproduction.
+
+
+A. counteracting
+B. counteracted
+C. had counteracted
+D. counteracts
+Answer: A
+
+
+Question 22:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Located on the Elbe River in Germany, the city of Hamburg was a member of a powerful mercantile alliance that dominated northern European trade between the 13th and 17th ______ Hanseatic League, a loose confederation of cities from eleven modern-day countries that has been described as a precursor to today's European Union.
+
+
+A. centuries. The
+B. centuries; the
+C. centuries the
+D. centuries: the
+Answer: D
+
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Researchers in France claim that leopards and brown bears are among the twenty most “charismatic” animals (defined as “attractive, fascinating, or appealing”). To create their top-twenty list, researchers used survey data from Western Europe. European attitudes toward leopards and brown bears might not be shared around the world, _____
+
+
+A. of course.
+B. in other words.
+C. for example.
+D. in particular.
+Answer: A
+
+
+Question 24:
+[COE]
+Which choice most effectively uses information from the given sentences to explain the relationship between ITUC-Africa and the OTM?
+
+While researching a topic, a student has taken the following notes:
+•The Mozambique Workers’ Organization (OTM) is a national union federation for the African nation of Mozambique.
+•It helps improve conditions for workers in that nation.
+•ITUC-Africa is a regional union federation that represents national union federations across Africa.
+•It represents the OTM.
+
+
+A. The OTM is a national union federation.
+B. National union federations, such as the OTM, work to improve conditions for workers in their member nations.
+C. ITUC-Africa represents many national union federations, including the OTM.
+D. ITUC-Africa is a regional union federation.
+Answer: C
+
+
+Question 25:
+[COE]
+Which choice most effectively uses information from the given sentences to explain the purpose of national union federations?
+
+The South Sudan Workers Trade Union Federation (SSWTUF) is a national union federation for the African nation of South Sudan.
+• It helps improve conditions for workers in that nation.
+• ITUC-Africa is a regional union federation that represents national union federations across Africa.
+• It represents the SSWTUF.
+
+
+A. The SSWTUF is one of the national union federations represented by ITUC-Africa.
+B. Regional union federations like ITUC-Africa represent the national union federations in a specific area.
+C. National union federations, such as the SSWTUF, work to improve conditions for workers in their member nations.
+D. The SSWTUF is a national union federation in Africa.
+Answer: C
+
+
+Question 26:
+[Synthesis]
+The student wants to explain the significance of New Jersey's NPVIC adoption. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•In the Electoral College system that determines the outcome of US presidential elections, the winner of New Jersey's popular vote receives all 14 of New Jersey's electoral votes.
+•A 2001 article written by law professors Akhil and Vikram Amar proposed that states could instead agree to award their electoral votes to the winner of the national popular vote.
+•The Amars' idea is the basis of the National Popular Vote Interstate Compact (NPVIC).
+•If states holding a majority of electoral college votes (270) adopt the NPVIC, the compact will take effect and adopters will award their electoral votes accordingly.
+•New Jersey adopted the NPVIC in 2008.
+
+
+A. According to the idea proposed by the Amars, the winner of New Jersey's popular vote will receive all of the state's electoral votes if the NPVIC takes effect.
+B. An agreement among US states to award their electoral votes to the presidential candidate who wins the national popular vote was adopted by New Jersey in 2008.
+C. If the NPVIC takes effect, adopter New Jersey will award all 14 of its electoral votes to the winner of the national, rather than the state's, popular vote.
+D. Because it has adopted the NPVIC, New Jersey will award its electoral votes to the winner of the state's popular vote—once states holding a majority of electoral college votes (270) do the same.
+Answer: C
+
+
+Question 27:
+[COE]
+Which choice most effectively uses information from the given sentences to emphasize a difference between the two movies?
+
+Silent films can be valuable historical documents of their time.
+•Ninety percent of silent films made before 1930 are now lost.
+•A film is considered lost when no remaining copies are known to exist.
+•Director Richard Thorpe’s 1929 silent film The Fatal Warning is lost.
+•Director Oscar Micheaux’s 1920 silent film Within Our Gates is archived at the UCLA Film &amp; Television Archive in Los Angeles, California.
+
+
+A. While Richard Thorpe’s The Fatal Warning is considered lost to history, Oscar Micheaux’s film Within Our Gates is archived at the UCLA Film & Television Archive in Los Angeles, California.
+B. Oscar Micheaux’s film Within Our Gates can be found at the UCLA Film & Television Archive in Los Angeles, California.
+C. Richard Thorpe’s 1929 film The Fatal Warning is among the many lost films of the era.
+D. Richard Thorpe’s The Fatal Warning (1929) and Oscar Micheaux’s Within Our Gates (1920) are just two examples of silent films from the 1920s.
+Answer: A

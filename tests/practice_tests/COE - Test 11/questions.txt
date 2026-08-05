@@ -1,0 +1,129 @@
+Question 32:
+[COE]
+Which finding, if true, would most directly support the team's claim?
+
+Elaine Ostrander led an international study of domestic dogs with Andrew N. Hogan and other researchers to explore what causes very small breeds, such as toy poodles, to be so small. Scientists once thought that smaller dogs came about only after humans started deliberately breeding dogs within the last 12,000 years. But Ostrander's team claims that a certain genetic mutation strongly affects dog size and that the mutation existed long before humans started breeding dogs.
+
+
+A. Some domestic dog breeds that do not have the genetic mutation are very large.
+B. Wolves are related to domestic dogs but are much bigger than toy poodles.
+C. The genetic mutation exists in an ancestor of domestic dogs dating to 53,000 years ago.
+D. Dogs vary in size more than any other type of land mammal does.
+Answer: C
+
+Question 22:
+[COE]
+Which finding, if true, would most directly support Bura and colleagues' claim?
+
+Veronica L. Bura, Akito Y. Kawahara, and Jayne E. Yack investigated the evolution and function of sound production in silk moth and hawk moth caterpillars. They found that during harmless simulated attacks on isolated caterpillars, 33% of the tested species produced sound, which ranged from clicks in Actias luna to whistles in Phyllosphingia dissimilis. Although some insects use sound to communicate with members of the same species, the researchers claim that the caterpillar sounds recorded in their study are directed primarily at predators.
+
+
+A. In most cases, the sound that a caterpillar species produced during simulated attacks was not produced by other caterpillar species during simulated attacks.
+B. Caterpillar clicks were emitted in a frequency detectable by birds that prey on caterpillars, but caterpillar whistles were not.
+C. Each caterpillar species tended to produce one sound during simulated attacks, although individuals occasionally made a variety of other sounds during simulated attacks as well.
+D. None of the species that emitted sounds did so before the simulated attacks, and nearly all stopped emitting sounds within ten seconds after the attacks.
+Answer: D
+
+Question 13:
+[COE]
+Which finding, if true, would most directly support Bainbridge and colleagues' claim?
+
+Many believe that lullabies, characterized by their less steady beat, contain some features that are universally calming to infants. In a study, Constanze and colleagues played both a lullaby sung in the Western Nahuatl language and a non-lullaby sung in the Serbian language to a group of infants. The researchers also measured the infants' heart rates, as a reduced heart rate is considered a measure of relaxation. They claim that the lullaby did indeed relax the infants.
+
+
+A. The heart rates of infants in the study were more irregular during the lullabies than during non-lullabies.
+B. Parents of infants in the study chose the lullaby over the non-lullaby when asked which song they would use to calm their child.
+C. Infants' heart rates were substantially lower during the lullaby than during the non-lullaby.
+D. Both the song in Western Nahuatl and the song in Serbian were sung by a female singer.
+Answer: C
+
+Question 4:
+[COE]
+Which finding from Maglianesi et al.'s study, if true, would most directly support Tavares et al.'s conclusion?
+
+Flowers that produce relatively high volumes of nectar are more rewarding for pollinators, including snowy-bellied hummingbirds (*Saucerottia edward*) and other hummingbird species, but nectar stores are typically obscured by the corolla (collection of petals); the means by which flowers signal high-nectar reward are unclear. A 2016 study by Davi Castro Tavares et al., which found that corolla length positively correlates with nectar volume, concluded that flower morphology reliably indicates nectar reward. As part of a subsequent study, María A. Maglianesi et al. measured variations in floral phenotypic traits (including corolla length and nectar characteristics) of hummingbird-visited plants across a range of elevations in Costa Rica.
+
+
+A. Mean corolla length of plant species decreased as elevation increased, but mean nectar volume per flower was highest among plant species found at mid-elevation sites.
+B. Hummingbirds were observed visiting flowers with longer corollas more frequently than flowers with shorter corollas, even in instances where the nectar volume in the longer flowers had been experimentally depleted.
+C. Across all elevations studied, plant species with longer mean corolla lengths consistently exhibited higher mean per-flower nectar volumes than did species with shorter mean corolla lengths.
+D. The variability in corolla length among plant species at high-elevation sites was significantly greater than the variability in nectar volume among the same species.
+Answer: C
+
+Question 37:
+[COE]
+Which statement, if true, would most strongly support the claim made by Bergner and colleagues about the cause of ‘Oumuamua’s acceleration?
+
+Initially observed in 2017, the interstellar object ‘Oumuamua is the first object of its kind to be seen in our solar system. Researchers have been puzzled because its acceleration cannot be entirely explained by the gravitational pull of nearby bodies: there must be a nongravitational influence on its velocity and trajectory. Some previously suggested explanations for this nongravitational acceleration involve mechanisms that are unlikely or unrealistic, such as geometric effects from ‘Oumuamua being potentially composed of several spatially separated bodies. Now, Jennifer Bergner and colleagues propose that the nongravitational acceleration is due to the gaseous expulsion of entrapped hydrogen from ‘Oumuamua’s water-rich icy body.
+
+
+A. Existing proposed models of outgassing from ‘Oumuamua include the direct conversion of nitrogen or carbon monoxide from a solid to a gaseous state without becoming liquid, but these models have theoretical or observational inconsistencies.
+B. ‘Oumuamua’s trajectory is inconsistent with a nongravitational acceleration that would be caused by the release of hydrogen gas resulting from the processing of water ice (H2O), but the interstellar object’s observable properties can be explained if it has a significant component of molecular hydrogen ice (H2).
+C. Since nongravitational accelerations of interstellar objects are several orders of magnitude weaker than gravitational accelerations, deviation from behavior that could be fully attributed to gravitational pull has been detected on a limited number of objects similar to ‘Oumuamua.
+D. Exposure to interstellar cosmic radiation can result in the formation of embedded pockets of hydrogen gas in water ice; moreover, when traveling through the solar system, ‘Oumuamua experienced warming sufficient to alter its icy structure and allow for outgassing.
+Answer: D
+
+Question 39:
+[COE]
+Which finding, if true, would most directly weaken the critic's claim?
+
+Hypothesizing that lullabies, characterized by their slow tempos, are universally calming to infants, Constance M. Bainbridge and colleagues played a lullaby sung in the Western Nahuatl language and a non-lullaby sung in the Serbian language to a group of infants. The team found that the infants’ heart rates and pupil size both decreased more during the lullaby than during the non-lullaby. Since a decrease in heart rate is associated with relaxation, the team concluded that the lullaby relaxed the infants. However, noting that reduced heart rate can also be associated with increased attention, one critic argues that instead, the lullaby simply attracted the infants’ attention.
+
+
+A. Parents of infants in the study preferred the Western Nahuatl lullaby over the Serbian non-lullaby.
+B. Infants in the study had never heard the Western Nahuatl lullaby before.
+C. More frequent blinking has also been found to be a reliable indication of attention.
+D. Pupil size typically increases when a stimulus captures a person's attention.
+Answer: D
+
+Question 11:
+[COE]
+Which statement, if true, would most directly support the administrators’ claim?
+
+Among the most visited art museums in the world, the Museo Reina Sofia in Madrid had approximately 4.4 million visitors in 2019. The Museo Reina Sofia also offers virtual tours that art lovers can view online for free. Although there were initial concerns that people who viewed the virtual tours would then consider an in-person visit unnecessary, museum administrators claim that their surveys of in-person visitors show that those concerns were unjustified.
+
+
+A. Most surveyed visitors to the Museo Reina Sofia indicated that they lived somewhere other than Madrid.
+B. Many surveyed visitors to the Museo Reina Sofia indicated that the virtual tours convinced them to plan an in-person visit.
+C. Many surveyed visitors to the Museo Reina Sofia indicated that they would likely view the virtual tours in order to reminisce about their in-person visit.
+D. Most surveyed visitors to the Museo Reina Sofia indicated that they were unaware of the virtual tours before their first in-person visit.
+Answer: B
+
+Question 25:
+[COE]
+Which finding from the simulation, if true, would most directly support the researchers’ conclusion?
+
+In modern flowering plants, such as the snakebark maple, hierarchical reticulate (netlike) venation, which consists of small veins extending from larger central veins, is common, but the earliest vascular plants had nonhierarchical venation. Researchers conducted a simulation using images of Betula alba (a modern flowering plant) leaves and fossil leaves of Reticulopteris muensteri and Rhacopteris lindsaformis, extinct pteridosperms (seed ferns) with nonhierarchical reticulate and nonhierarchical branching venation, respectively, to assess the impact of insect folivory (leaf-eating) on vascular function in plants with different venation patterns. They concluded that when experiencing folivory, plants may benefit from hierarchical venation.
+
+
+A. Removing central veins in B. alba was much more likely to result in the sudden collapse of vascular function than removing smaller veins in any of the three plant species was.
+B. In B. alba, decline in vascular function was directly proportional to the extent of vein network damage, but in R. muensteri and R. lindsaformis, vascular function declined disproportionately rapidly as loss of vein network increased.
+C. Vascular function was negatively correlated with the extent of damage to the vein network in B. alba but was positively correlated with the extent of damage in both R. muensteri and R. lindsaformis.
+D. At a given percentage of leaf vein loss, vascular function in B. alba and R. muensteri was much more likely to remain unimpeded than it was in R. lindsaformis.
+Answer: B
+
+Question 49:
+[COE]
+Which finding about the Across County Lines exhibition, if true, would most directly support the underlined claim?
+
+The Reckoning and Resilience (2022) exhibition at Duke University’s Nasher Museum of Art was the first to focus entirely on North Carolina artists since the exhibition Across County Lines four years earlier. The curators of the 2022 exhibition included painters like Beverly McIver, photographers like Kenneth Carter, and printmakers like Ayla Gizlice. __But whereas the work by Carter would have fit the theme for Across County Lines, works by McIver and Gizlice would not have.__
+
+
+A. It consisted mostly of works by printmakers.
+B. It consisted entirely of works by photographers.
+C. It was curated specifically to emphasize works that are not owned by the Nasher Museum.
+D. It included a greater number of artists than Reckoning and Resilience.
+Answer: B
+
+Question 1:
+[COE]
+Which statement about hummingbird preferences is most strongly supported by the text?
+
+High-reward flowers that produce nectar with relatively high sugar concentrations are thought to be especially attractive to stripe-throated hermits and other hummingbird species. But when María A. Maglianesi and team monitored hummingbird visits to flowering plants, including Palicourea tormentosa, at Los Cusingos Bird Sanctuary and other sites in Costa Rica, they found that visit frequencies weren't influenced by nectar traits. Rather, physical compatibility of flower corollas (collections of petals) and hummingbird bills more strongly predicted hummingbird-plant interaction patterns.
+
+
+A. Physical compatibility between flower corollas and hummingbird bills becomes an important factor that influences hummingbird preferences when hummingbirds are uncertain about which plants produce high-reward nectar.
+B. Hummingbirds' preferences are primarily driven by trait-matching between their bills and flower corollas, though nectar qualities are a secondary factor driving their preferences.
+C. Hummingbirds consistently prefer plant species whose flowers have physical traits that are compatible with their bills but offer relatively low nectar rewards.
+D. The floral traits that most strongly influence which plant species hummingbirds prefer may result in certain hummingbird species visiting flowers with relatively low nectar rewards over those with higher nectar rewards.
+Answer: D

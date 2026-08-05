@@ -1,0 +1,151 @@
+Question 1:
+[COE]
+Which choice most effectively uses data from the graph to complete the example?
+
+**Studies of Cougar Population Density**
+
+Studies of the population density of cougars (*Puma concolor*) have yielded a range of results, which may in part reflect differences in the effectiveness of the methods that researchers have used in their studies. If, for example, the use of clustered camera trapping and GPS tracking of collars tends to lead to underestimates of cougar population density, that may explain why the study by _____
+
+
+A. P. Ian Ross and Martin G. Jalkotzy reported a maximum density of 4.70 individuals per 100 square kilometers, while the study by Richard A. Beausoleil et al., which used biopsy darting, reported a lower maximum density.
+B. Sean M. Murphy et al. reported a maximum density of only 1.65 individuals per 100 square kilometers, lower than that reported by several other studies.
+C. Richard A. Beausoleil et al. required a study area of 7,939 square kilometers, while the study by Sean M. Murphy et al. required a study area of 4,329 square kilometers.
+D. Lindsey N. Rich et al. reported a maximum density of 6.50 individuals per 100 square kilometers, higher than that reported by several other studies.
+Answer: B
+
+Question 2:
+[COE]
+Which choice most effectively uses data from the table to complete the example?
+
+**Studies of Cougar Population Density**
+
+Studies of the population density of cougars (Puma concolor) have yielded a range of results, which may in part reflect natural variations in the resources that cougars need to survive. For example, the difference between the maximum population density reported by Sean M. Murphy et al. and that reported by Robin E. Russell et al. may indicate that _____
+
+
+A. the cougar habitat in Washington can support more than 1.90 individuals per 100 square kilometers.
+B. the cougar habitat in New Mexico cannot support as many individuals as can the cougar habitat in Montana.
+C. cougar habitat makes up a greater proportion of the overall land area in Montana than is the case in New Mexico.
+D. there are more cougars overall in both Oregon and Washington than there are in New Mexico.
+Answer: B
+
+Question 3:
+[COE]
+Which choice most effectively uses data from the table to complete the example?
+
+Studies of the population density of cougars (*Puma concolor*) have yielded a range of results, which may in part reflect differences in the effectiveness of the methods that researchers have used in their studies. For example, the difference between the maximum population density reported by Linda L. Sweenor et al. and that reported by David M. Choate et al. might be artificially large if the use of ______.
+
+
+
+A. radio-collar tracking is impractical outside of New Mexico
+B. radio-collar tracking underestimates the density of cougars
+C. helicopter surveying underestimates the density of cougars
+D. helicopter surveying is more common in Utah than the use of radio-collar tracking is
+Answer: B
+
+Question 4:
+[COE]
+Which choice best describes data from the table that weaken the student's claim?
+
+**Studies of Cougar Population Density**
+
+Researchers have used several different methods to determine the population density of cougars (Puma concolor). A student claims that the use of scat-detecting dogs produces the most precise results, with the smallest difference between minimum and maximum densities.
+
+
+A. David M. Choate et al. reported a density range of 4.65 individuals per 100 square kilometers despite the use of helicopter surveying.
+B. Rahel Sollmann et al. reported a density range that was substantially smaller than that reported by David M. Choate et al.
+C. Gregory A. Davidson et al. reported a density range greater than that reported by some studies that used other methods.
+D. Gregory A. Davidson et al. reported a maximum density of 5.50 individuals per 100 square kilometers, which differed from that reported by some studies that used other methods.
+Answer: C
+
+Question 5:
+[COE]
+Which choice most effectively uses data from the graph to illustrate the researchers’ conclusion?
+
+Researchers used anonymized location data from the US and Côte d’Ivoire to document people’s daily patterns of mobility, using these results to test the efficacy of the researchers’ predictive computer model. In each country, unidirectional cycles among two, three, or four locations were empirically the most common pattern types; the graph shows each of these pattern types as a proportion of all pattern instances found for that country (e.g., the measured value for C1 3 in the graph, 0.12, indicates that the three-location pattern constituted 12% of all pattern instances in the Côte d’Ivoire data). The researchers ran their model twice under different assumptions, concluding that emphasizing the salience of local population density over personal preferences generally yielded the best results.
+
+
+
+A. Under the assumption that preferences are more salient than density, the US 2 and C1 2 proportions were predicted to be in the range of 0.3 to 0.5, placing them farther from the measured values than were those predicted under the other assumption.
+B. Under the assumption that density is more salient than preferences, the US 2 and C1 2 proportions are approximately 0.65 and 0.85, respectively, significantly higher than the values predicted under the other assumption and thus farther than those predictions from the measured values.
+C. Under the assumption that preferences are more salient than density, the two-location patterns (US 2 and C1 2) were predicted to be most frequent in the data even though neither proportion was projected to exceed 0.5, well below the proportion predicted under the other assumption.
+D. Under the assumption that preferences are more salient than density, the US 2 and C1 2 proportions were predicted to be approximately 0.45 and 0.35, respectively, both below the measured values, whereas under the other assumption, the model overestimated the proportion for US 2 and overestimated that for C1 2.
+Answer: A
+
+Question 6:
+[COE]
+Based on the information in the text and table, is the tour guide’s claim supported?
+
+In terms of tourism, a “stopover” is a stay of at least one night in a location while on the way to another location for either personal or business travel. A tour guide finds a table of records of stopover visits by Canadians in January–March (Q1) of 2024 and of 2025. The tour guide claims that out of the listed locations, Cuba experienced the greatest decrease in such visits by people who were traveling for personal reasons but was still a very popular stop in both periods.
+Percent Change in Stopover Visits from Canada (2024 to 2025)
+
+
+
+A. No, because even though the table shows that Cuba had more total stopover visits from Canada than most other locations did in both periods, it doesn’t show numbers by type of travel
+B. Yes, because the table shows that Cuba had the second highest total number of stopover visits from Canada in both Q1 2024 and Q1 2025
+C. No, because even though the table shows that Cuba had high numbers of stopover visits from Canada in both periods, that total was several hundred thousand lower than Mexico’s peak in those periods
+D. Yes, because the table shows that the percent change in stopover visits from Canada to Cuba between the two periods was negative, indicating a decline in totals for both types of travel
+Answer: A
+
+Question 7:
+[COE]
+Do the data shown in the table support the hypothesis described in the text?
+
+The factors influencing the abundance of the element uranium (U), which occurs naturally in water, rocks, and soil, in inland bodies of water have not been extensively investigated, but two studies conducted in Sambhar Lake in India found that U abundance positively correlated with salinity and total dissolved solids (TDS)—the combined amount of dissolved substances in liquid. Chen Zhao et al. hypothesized that in four lakes in China’s Qaidam Basin, U abundance is driven not only by these two factors but also by pH. To test their hypothesis, Zhao et al. analyzed data on chemical properties—including concentrations of U–238, an isotope that accounts for more than 99% of all naturally occurring U—in water samples from the four lakes.
+Chemical Properties in Water Samples from Four Lakes in the Qaidam Basin
+
+
+
+A. Yes, because the data show that the sample from Tuosu Lake has both higher levels of pH, salinity, and TDS and higher concentrations of U–238 than does the sample from Kaluka Lake.
+B. No, because while U–238 concentration consistently increases with pH, it does not consistently increase with salinity and TDS.
+C. Yes, because the data show that with the single exception of the sample from Gahai Lake, increases in pH, salinity, and TDS directly correspond to lower U–238 concentrations across the samples.
+D. No, because the data show that while pH values vary within a narrow range, the variations in TDS, salinity, and U–238 concentrations are extensive.
+Answer: B
+
+Question 8:
+[COE]
+Which choice best describes data from the table that illustrate Wang et al.'s claim?
+
+Correlations between GPP and Four SIF Data Sets, by Ecosystem Type
+
+A small amount of solar radiation absorbed by plant chlorophyll is reemitted as solar-induced chlorophyll fluorescence (SIF), which is detectable by satellites and can serve as a proxy for photosynthetic activity. The Wang et al. evaluated the potential of several SIF data sets (which vary in accuracy because of factors including variances in spatial and temporal resolution) to estimate plants' gross primary productivity (GPP), the rate of carbon uptake during photosynthesis. Based on their calculations of correlation coefficients, with higher values indicating a stronger relationship between SIF and independently collected GPP data, Wang et al. claim that researchers should consider ecosystem type when selecting the most appropriate SIF data set for inferring GPP for a particular ecosystem.
+
+
+A. CSIF and GOSIF data consistently correlated more strongly with GPP than TROPOMI and MetOpA data did except for croplands.
+B. CSIF and GOSIF data correlated more strongly with GPP than any other SIF data set did for evergreen needleleaf forests but correlated more weakly than TROPOMI data did for closed shrublands.
+C. TROPOMI data indicated that closed shrublands had the highest GPP levels, whereas MetOpA data indicated that woody savannas had the lowest GPP levels.
+D. GPP levels estimated from GOSIF data for wetlands were substantially lower than GPP levels for evergreen needleleaf forests but only moderately lower than GPP levels for croplands.
+Answer: B
+
+Question 9:
+[COE]
+Which choice most effectively uses data from the graph to complete the researcher's example?
+
+It is common for freshwater lakes near or above a latitude of 45∘north of the equator, like Lej da San Murezzan in Switzerland, to accumulate surface ice in winter. The amount and duration of ice depends on many factors, including local weather conditions as well as the lake's depth, volume, and surface area, but a climate researcher claims that some lakes in these latitudes have seen a decline in the duration of ice between the early 1980s and the mid-2000s. She cites as a typical example _____
+
+
+
+A. both Spirit Lake and Kitusjärvi, which had more than 120 days of ice in the winter of 2005-06.
+B. Kitusjärvi, which had fewer days of ice in the winter of 2005-06 than it did in the winter of 1980-81.
+C. Spirit Lake, which had more days of ice in the winter of 2005-06 than it did in the winter of 1980-81.
+D. both Spirit Lake and Kitusjärvi, which had fewer than 170 days of ice in the winter of 1980-81.
+Answer: B
+
+Question 10:
+[COE]
+Which choice best describes data from the table that support the economists’ claim?
+
+Because the face value of Denmark’s kroner coin exceeds the unit cost of issuing it, Denmark’s government makes a profit, known as seigniorage, from issuing such coins. Revenue from seigniorage can be used to support parks and other government-funded amenities. Some countries, such as Sweden, have chosen to cease issuing some coins because the cost of issuing the coins exceeded their value, creating negative seigniorage. Some US economists make the case that taking a similar approach to the five-cent coin (worth 0.05 dollars) could increase the total seigniorage obtained through issuing all US coins.
+
+
+
+
+Unit Cost in Dollars of Issuing US Coins by Denomination, 2020–2023
+
+
+
+A. In each year from 2020 to 2023, the unit cost of issuing a five-cent coin was greater than the unit cost of issuing a one-cent coin.
+B. The unit cost of issuing a five-cent coin rose more between 2022 and 2023 than the unit cost of issuing a ten-cent coin rose in that same period.
+C. From 2020 to 2023, the unit cost of issuing a five-cent coin ranged from more than 0.07 dollars to more than 0.11 dollars.
+D. In 2023, the unit cost of issuing a five-cent coin was 0.0530 dollars, greater than the face value of the coin.
+Answer: C
+

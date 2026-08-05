@@ -1,0 +1,410 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The unique subak water management system used to irrigate the rice paddy fields of the Indonesian island of Bali has a rich cultural, philosophical, and historical significance dating back to the ninth century. The many elements of subak—terraces, canals, and water temples—are ______: they are joined together into a single cohesive unit.
+
+
+A. informal
+B. optional
+C. outmoded
+D. interconnected
+Answer: D
+
+
+Question 2:
+[WIC]
+As used in the text, what does the word "constantly" most nearly mean?
+
+The following text is adapted from Willa Cather's 1912 novel Alexander's Bridge.
+For the next few days Alexander was very busy. He took a desk in the office of a [Scottish] engineering firm on Henrietta Street, and was at work almost __constantly__. He avoided the clubs and usually dined alone at his hotel.
+
+
+A. imperceptibly
+B. Fearfully
+C. Continuously
+D. Hastily
+Answer: C
+
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+When it comes to crafting policy recommendations to protect species at risk, lessons from previous declines in biodiversity can be especially ______. The factors that contributed to the extinction of the Caribbean ground sloth around 3000 BCE, for example, may be applicable to endangered species today.
+
+
+A. singular
+B. facile
+C. germane
+D. contentious
+Answer: C
+
+
+Question 4:
+[WIC]
+As used in the text, what does the word "manifest" most nearly mean?
+
+The following text is from a 1955 translation of Samuel Beckett's 1951 novel Molloy (translated by the author and Patrick Bowles). In the text, Molloy has arrived at the town ramparts, an elevated walkway atop the city walls.
+And having cleared the ramparts I had to confess the sky was clearing, prior to its winding in the other shroud, night. Yes, the great cloud was ravelling, discovering here and there a pale and dying sky, and the sun, already down, was __manifest__ in the livid tongues of fire darting towards the zenith, falling and darting again, ever more pale and languid, and doomed no sooner lit to be extinguished.
+©1955 by Grove Press, Inc.
+
+
+A. Dwindling
+B. Realized
+C. Situated
+D. Perceptible
+Answer: D
+
+
+Question 5:
+[COE]
+Which finding, if true, would most directly support the US transportation experts’ claim?
+
+As of 2023, Turkey has 1,015 kilometers of high-speed rail lines in operation and 614 kilometers under construction; in Germany, 1,630 kilometers are in operation with 3,262 kilometers under construction. In contrast, the United States has a relatively low amount of high-speed rail for its size: only 735 kilometers of high-speed rail in operation and 1,789 kilometers under construction. Many US transportation experts argue that this should change, claiming that high-speed rail is more cost-effective than highway systems are.
+
+
+A. In most locations in the United States, increasing highway capacity is more expensive relative to the volume of traffic that can be accommodated than increasing high-speed rail capacity is.
+B. In much of the United States, the existing rail infrastructure is so old that it would have to be replaced entirely in order to accommodate high-speed trains.
+C. Building successful high-speed rail infrastructure would require that the US government establish a fund to maintain the rail lines long-term.
+D. Unlike people in the United States, people in Turkey and Germany are less interested in traveling by highway than they are in traveling by high-speed rail.
+Answer: A
+
+
+Question 6:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+The Hedge Manuscript (HM) is a collection of booklets of once-unbound paper sheets on which Richard Hedge copied various texts at his fifteenth-century home between Derbyshire and Nottinghamshire in England. __Most other contemporaneous personal manuscripts like the Findern Anthology (FA) consist primarily of pieces by celebrated medieval authors like Hoccleve and other readings favored by elites,__ whereas the HM has a distinctive emphasis on the popular, including entertainments like crude comedies, and the practical, with advice about manners.
+
+
+A. To suggest that the FA is a poor point of comparison for a collection like the HM
+B. To emphasize the ubiquity of hand-copied collections like the FA and the HM in medieval England
+C. To provide context for the text’s suggestion that the HM is an outlier among collections of its time
+D. To illustrate how the discussion of the HM earlier in the text can improve historians’ understanding of the FA
+Answer: C
+
+
+Question 7:
+[Cross Text]
+Based on the texts, the author of Text 2 would most likely agree with which statement about Blackwell and colleagues' findings (Text 1)?
+
+Text 1
+In parts of New Zealand, the stoat is a major predator of the house mouse. Researcher G.L. Blackwell and colleagues found that when this predation pressure on house mice was temporarily reduced, their numbers significantly increased. This finding illustrates a foundational ecological principle: predators control prey population numbers.
+Text 2
+François Potvin and colleagues found that excluding wolves from a site in Quebec, Canada, where they typically prey on white-tailed deer had no significant effect on white-tailed deer abundance. Many other predation relief studies show an increase in prey abundance, but those studies often focus on small, rapidly reproducing prey, like birds, mice, and frogs, rather than large, slowly reproducing prey, like white-tailed deer, which could account for the difference between those results and Potvin and colleagues' results.
+
+
+A. They may have been different if the ratio of the body size of stoats to that of house mice was greater than it is.
+B. They may reflect a response that does not tend to be observed in prey species other than house mice.
+C. They may be partially explained by the fact that stoats are smaller and reproduce more rapidly than wolves.
+D. They may be partially attributable to physical characteristics of house mice that are not shared by white-tailed deer.
+Answer: D
+
+
+Question 8:
+[COE]
+The text makes which point about the people at the gathering?
+
+The following text is from Virginia Woolf's 1919 novel Night and Day. The narrator describes a gathering of artists and intellectuals.
+One person after another rose, and, as with an ill-balanced axe, attempted to hew out his conception of art a little more clearly, and sat down with the feeling that, for some reason which he could not grasp, his strokes had gone awry. As they sat down they turned almost invariably to the person sitting next them, and rectified and continued what they had just said in public.
+
+
+A. Each is contemptuous of the other attendees but strives to impress them.
+B. Each fails at presenting a wholly coherent vision of art but does not understand why.
+C. Each becomes entangled in a debate about art, and no one knows how to resolve the debate.
+D. Each delights in speaking publicly about abstract subjects but detests speaking privately about them.
+Answer: B
+
+
+Question 9:
+[COE]
+Which statement, if true, would most strongly support the claim in the underlined sentence?
+
+Philosopher Ingrid Robeyns argues for the principle of limitarianism—that there should be a limit on the wealth that a single person can amass. Critics of limitarianism respond that it is unworkable, since it would require a universal and strict individual adherence to a code of ethics as well as worldwide cooperation among governments in areas such as economic policy, both of which are extremely unlikely. __But some proponents of limitarianism hold that even if these claims have merit, they do not vitiate limitarianism’s value as a moral goal toward which we may be able to make some progress.__
+
+
+A. Successfully practicing limitarianism involves several categories of actions (structural actions, such as reforming institutions to provide a livable minimum wage; fiscal actions, such as implementing a progressive tax on wealth; and ethical actions, such as choosing to give away one’s wealth) and none of these actions will suffice alone.
+B. If one agrees that it is undesirable for a very small percentage of a society’s population to have a very large percentage of that society’s wealth, then it must therefore be desirable to place an upper limit on the wealth a person can have so that a society’s wealth is more evenly distributed.
+C. Most of our societal ideals are regulative ideals, suggesting results that we ought to aim for even if they cannot be fully realized; for example, just because strategies to reduce poverty can never be completely effective for everyone does not mean it is foolish to attempt to reduce poverty.
+D. There are reasons why a limited amount of difference in the wealth that people possess should be tolerated—if not encouraged—for example, some jobs are more dangerous than others, and those jobs should therefore earn a higher income than others.
+Answer: C
+
+
+Question 10:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+Home Video Game Systems of the 1970s and 1980s
+
+A student is writing a research paper on the global rise of the home video game industry during the 1970s and 1980s. The student is surprised by differences in the number of units sold by some systems compared to those sold by others. Most remarkably, the ______
+
+
+A. MSX sold approximately 4,000,000 units, whereas the Intellivision sold only approximately 3,000,000 units.
+B. MSX sold approximately 18,600,000 units, whereas the Intellivision sold only approximately 2,000,000 units.
+C. Game & Watch sold approximately 4,000,000 units, whereas the ColecoVision sold only approximately 3,000,000 units.
+D. Game & Watch sold approximately 18,600,000 units, whereas the ColecoVision sold only approximately 2,000,000 units.
+Answer: D
+
+
+Question 11:
+[COE]
+Which choice best describes data from the table that support the researchers' claim?
+
+A group of researchers conducted a study of four Central American nations to explore the relationship between the percentage of the population working in the agricultural sector and the percentage of the population living in urban areas. Although the percentages of those living in urban areas varied significantly, the percentages of those working in the agricultural sector did not vary as greatly. The group claimed that, for these four nations, there is not a strong correlation between where people work and where they live.
+
+
+
+A. For these four nations, Costa Rica and Panama had the lowest percentage of people working in the agricultural sector and the lowest percentage of people living in urban areas.
+B. For these four nations, the nation with the highest percentage of people in the agricultural sector also had the highest percentage of people in urban areas.
+C. Belize demonstrated a similar percentage of people in the agricultural sector to El Salvador's despite having a lower percentage of people in urban areas.
+D. El Salvador and Panama have similar percentages of people in the agricultural sector, but Panama has a higher percentage of people in urban areas than El Salvador does
+Answer: C
+
+
+Question 12:
+[Details]
+Which choice best states the function of the underlined portion in the text as a whole?
+
+Cuttlefish and toads see in three dimensions (3D) by combining two images in their brains, one from each eye. This produces a sense of depth, helping the animals judge how close or far away an object is. Researchers have investigated 3D vision in praying mantises as well. In one study, Vivek Nityananda and his team fitted mantises’ faces with two different color filters, one covering each eye, __much like the filters in 3D glasses once worn at movies__. By observing the mantises’ reaction to projected images, the team confirmed that mantises do indeed have 3D vision, but it’s unlike that of other animals.
+
+
+A. It identifies a potential problem that the researchers faced while studying the praying mantises.
+B. It offers a comparison meant to aid understanding of the praying mantis study.
+C. It emphasizes a difference between the research on praying mantis vision and research on other animals’ vision.
+D. It describes an earlier use of a tool the researchers used in the praying mantis study.
+Answer: B
+
+
+Question 13:
+[COE]
+Which choice most effectively uses data from the table to complete the text?
+
+Fiber Characteristics of Mouflon, Navajo-Churro, and Spanish Merino Sheep
+
+Domestic sheep’s wild ancestor, the mouflon, has a coarse outer coat and an inner coat of wool fiber that is finer in diameter and therefore much softer. In some domestic breeds, such as the Spanish Merino, the outer fiber is only marginally coarser than the inner, and the wool is soft overall. Thus, Merino wool is ideal for delicate garments worn against the skin. Meanwhile, the Navajo-Churro has been selected to retain the marked distinction between outer and inner fiber that the Merino has lost. Being coarser than Merino wool overall, Navajo-Churro wool yields a more durable yarn, which Diné (Navajo) weavers use in their celebrated rugs. Yet a comparison of the fiber characteristics of all three sheep reveals that ______.
+
+
+A. the Navajo-Churro more closely resembles its ancestor, the mouflon, in the uniform softness of its inner fiber, while the Merino more closely resembles the mouflon in the variable diameter of its outer fiber
+B. domestication resulted in a counterintuitive increase in the inner fiber’s minimum diameter, making the inner fiber of the Merino and the Navajo-Churro less suitable for delicate garments than the mouflon’s inner fiber is
+C. the domestication of the mouflon and the subsequent selection process that produced the Merino and the Navajo-Churro resulted in greater softness of outer and inner fiber alike
+D. the selection process that enabled the Navajo-Churro to retain its somewhat coarse outer fiber also resulted in inner fiber that, at its softest, is softer than either the mouflon’s or the Merino’s inner fiber
+Answer: D
+
+
+Question 14:
+[COE]
+Which quotation from “A Pair of Silk Stockings” most effectively illustrates the claim?
+
+"A Pair of Silk Stockings" is an 1897 short story written by Kate Chopin. In the story, Mrs. Sommers attends a play, which she experiences as a temporary escape from the circumstances of her daily life: ______.
+
+
+A. “The play was over, the music ceased, the crowd filed out. It was like a dream ended.”
+B. “But there were vacant seats here and there, and into one of them she was ushered, between brilliantly dressed women who had gone there to kill time and eat candy and display their gaudy attire.”
+C. “It was a little later when she entered the theatre, the play had begun and the house seemed to her to be packed.”
+D. “When she entered [the restaurant] her appearance created no surprise, no consternation, as she had half feared it might.”
+Answer: A
+
+
+Question 15:
+[COE]
+The text makes which point about the difference between the proportions of Quito residents and Lima residents using parks?
+
+In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Quito, Ecuador, and Lima, Peru, were surveyed about parks in their cities. Of the 618 respondents from Quito, 82.9% indicated that they use the city’s parks, and of the 663 respondents from Lima, 72.7% indicated using city parks. Given that the percentage of Quito respondents who reported living within a 10-minute walk of a park was much lower than that reported by Lima respondents, greater proximity alone can’t explain the difference in park use.
+
+
+A. It was much larger than the researchers conducting the study expected.
+B. It could be due to inaccuracies in the survey results.
+C. It was calculated using sources that predate the survey.
+D. It is caused by something other than the parks’ proximity to city residents.
+Answer: D
+
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Writing in hieroglyphs, ancient Egyptians recorded measurements using units such as the sa, a unit of ____ and the khar, a unit of volume. The sa, for instance, is written as a hieroglyph that looks like a duck or goose.
+
+
+A. area; the shesep; a unit of length;
+B. area the shesep, a unit of length
+C. area; the shesep, a unit of length;
+D. area, the shesep; a unit of length,
+Answer: C
+
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+All member nations of the North Atlantic Treaty Organization, or NATO—including Iceland, which joined in 1949; Hungary, which joined in 1999; and Bulgaria, which joined in _______are committed to NATO’s principle of collective defense, each member pledging to defend all others.
+
+
+A. 2004;
+B. 2004,
+C. 2004
+D. 2004—
+Answer: D
+
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Due to advancements in battery technology, EVs can now handle most of the daily driving needs traditionally met by gasoline-powered cars, including commuting to work, running errands, and taking short road trips. However, although highly ______ EVs still present challenges for drivers who regularly need to travel longer distances.
+
+
+A. efficient achieving an average equivalent of over 100 miles per gallon,
+B. efficient (achieving an average equivalent of over 100 miles per gallon),
+C. efficient, achieving an average equivalent of over 100 miles per gallon
+D. efficient: achieving an average equivalent of over 100 miles per gallon,
+Answer: B
+
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Kenji Tanaka, a Japanese American architect, integrates traditional Japanese design into his modern buildings. Tanaka’s 2018 residential project, *Komorebi House*, utilizes shoji screens to filter light in patterns reminiscent of sunlight through forest ______ in *The Riverstone Center*, a 2021 office complex, Tanaka features an indoor water garden whose flowing water mimics the sound of a mountain stream.
+
+
+A. leaves, for instance,
+B. leaves. For instance, while
+C. leaves; for instance,
+D. leaves, for instance, while
+Answer: D
+
+
+Question 20:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+To determine the approximate age of wooden tools excavated from an archaeological site in Spain, archaeologist Joseba Rios-Garaizar and colleagues collected samples of sediments surrounding the tools; these samples were then analyzed using a method known as optically stimulated luminescence (OSL) dating. ______ OSL dating indicated that the tools were between 50,000 and 137,000 years old.
+
+
+A. Similarly,
+B. Ultimately,
+C. In addition,
+D. By comparison,
+Answer: B
+
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+A loose confederation of cities from eleven modern-day countries, the Hanseatic League was a powerful mercantile alliance that dominated northern European trade between the 13th and 17th centuries. Hanseatic League member _________ was serendipitously located on the Warnow River in Germany, giving Rostock’s merchants access to key maritime trade routes.
+
+
+A. city Rostock,
+B. city, Rostock,
+C. city, Rostock
+D. city Rostock
+Answer: D
+
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Box modeling, used by digital artists to develop 3D assets for video games, yields objects with precise mathematical proportions. Granted, as they are formed from perfect geometric shapes, such 3D elements lack organic realism; ____ post-modeling processes such as UV surface mapping are needed to achieve the level of verisimilitude gamers expect.
+
+
+A. consequently,
+B. similarly,
+C. in sum,
+D. however,
+Answer: A
+
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Soil polluted with cadmium (a heavy metal) is harmful to many plants and animals, but the plant species Elodea canadensis, or Canadian waterweed, not only thrives in such conditions but also helps remediate them. As a metal hyperaccumulator, Elodea canadensis absorbs a large amount of cadmium and stores it safely in its roots and shoots; ____ cadmium concentrations in the soil decrease.
+
+
+A. specifically,
+B. nevertheless,
+C. in addition,
+D. accordingly,
+Answer: D
+
+
+Question 24:
+[Synthesis]
+The student wants to explain why potassium is not fully liquid in a chain melt state. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Atoms in a solid state are ordered and cannot move freely; atoms in a liquid state are disordered and can move three-dimensionally.
+• Under high pressure and heat, potassium forms an unusual dual structure: a solid lattice of atoms (the host) surrounds partially liquid atom chains (the guest).
+• This hybrid state (chain melt) was previously thought to be a transitional phase between solid and liquid states.
+• A 2019 study confirmed that even under extreme heat, the host structure remained solid while the guest structure did not become fully liquid.
+• These guest atoms exhibited disorder but were confined to one-dimensional movement by the host.
+• Chain melt was determined to be a stable, distinct state.
+
+
+A. chain-melt state involves a dual structure of a solid host lattice surrounding partially liquid chains of potassium atoms.
+B. In chain melt, some potassium atoms exhibit liquid-like disorder but remain confined by a solid lattice, preventing the free three-dimensional movement of a fully liquid state.
+C. A 2019 study confirmed that potassium atoms do not become fully liquid under high pressure and heat; instead, they enter chain melt, a transitional phase between solid and liquid states.
+D. Because potassium atoms remain disordered in chain melt even under extreme heat, they cannot reach a fully liquid state.
+Answer: B
+
+
+Question 25:
+[Synthesis]
+The student wants to emphasize the order in which the supercontinents were formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•A supercontinent is a single landmass made up of most or all of Earth’s continents.
+•Over time, continents merge together to form supercontinents, which then break apart.
+•This process is believed to take hundreds of millions of years and is known as the supercontinent cycle.
+•Ur was a supercontinent that formed about 3.1 billion years ago.
+•Pangaea was a supercontinent that formed about 300 million years ago.
+
+
+A. The supercontinent Pangaea formed long after the supercontinent Ur.
+B. Forming and breaking apart over hundreds of millions of years, supercontinents are made up of most or all of Earth’s continents.
+C. Ur and Pangaea were both supercontinents, single landmasses made up of most or all of Earth’s continents.
+D. Ur formed about 3.1 billion years ago but eventually broke apart.
+Answer: A
+
+
+Question 26:
+[Synthesis]
+The student wants to explain the scientific rationale for Pluto's current classification. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The International Astronomical Union (IAU) defines a planet as a celestial body that (1) orbits the Sun, (2) is massive enough to be made nearly round by its own gravity, and (3) has "cleared the neighborhood" around its orbit.
+• "Clearing the neighborhood" means an object's gravity has swept its orbital path clear of other sizable bodies.
+• A celestial body meeting the first two criteria but not the third is classified as a dwarf planet.
+• Pluto, discovered in 1930, was long considered the ninth planet.
+• Pluto's orbit lies within the Kuiper Belt, a region of space populated by numerous other icy objects.
+• Due to its location, Pluto has not gravitationally cleared its orbital path of these other objects.
+
+
+A. Pluto's location within the Kuiper Belt, a region filled with other icy bodies, is the primary reason it was reclassified from its original status as the ninth planet.
+B. Because it orbits the Sun and is nearly round but has not cleared its orbital path of other objects, Pluto meets the IAU's definition of a dwarf planet.
+C. A dwarf planet is a celestial body that, like Pluto, orbits the Sun but is not massive enough to be made round by its own gravity, distinguishing it from a planet.
+D. Unlike a planet, a dwarf planet such as Pluto has failed to clear its neighborhood; for example, Earth's orbital path is clear of other sizable bodies.
+Answer: B
+
+
+Question 27:
+[Synthesis]
+The student wants to refute a scientific assumption about the Leidenfrost effect. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•The Leidenfrost effect occurs when liquid touches a solid surface significantly hotter than the liquid’s boiling point, forming a vapor layer that insulates the liquid before eventually collapsing.
+•Scientists long hypothesized that the temperatures at which Leidenfrost vapor forms and collapses vary depending on molecular variations in surfaces and liquids.
+•A 2023 study confirmed that the vapor’s formation temperature varies depending on molecular variations in surfaces and liquids.
+•The study also found that the vapor’s collapse temperature was “nearly independent of material and fluid properties, contrary to previous theories.”
+•The vapor’s collapse temperature remained consistent (around 140°C).
+
+
+A. Contrary to the hypothesis that vapor layer formation temperature is dictated by molecular variation, a 2023 study confirmed that the temperature at which the vapor layer forms depends on the surface and liquid used.
+B. Though the vapor layer created by the Leidenfrost effect can be formed at a range of temperatures, the temperature at which the layer collapses varies depending on material and fluid properties.
+C. Countering previous hypotheses, a recent study found that Leidenfrost vapor’s collapse temperature does not vary depending on material and fluid properties.
+D. Scientists had hypothesized that the formation temperature of Leidenfrost vapor depends on variations in surfaces and liquids used, but a 2023 study confirmed that the collapse temperature remains consistent.
+Answer: C

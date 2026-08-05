@@ -1,0 +1,130 @@
+Question 1:
+[Details]
+Which choice best describes the function of the reference to the "wooing kestrel" (a type of bird) in the text as a whole?
+
+The following text is from Anne Spencer's 1922 poem "Translation."
+We trekked into a far country,
+My friend and I.
+Our deeper content was never spoken,
+But each knew all the other said.
+He told me how calm his soul was laid
+By the lack of anvil and strife.
+"The wooing kestrel," I said, "mutes his mating-note
+To please the harmony of this sweet silence.
+
+A. It suggests that there are some aspects of nature that will forever be mysterious to humans.
+B. It emphasizes the speaker's belief that her friend is not sharing his true feelings with her.
+C. It presents the natural world as aligning with the experience of the speaker and her friend.
+D. It illustrates the assertion that the definition of peace changes from person to person.
+Answer: C
+
+Question 2:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+Shedding light on the thermal biology of fungi, research by Radamés Cordero et al. indicates that certain mushrooms (including Amanita muscaria and species from the genus Thelephora) can achieve a hypothermic state through evaporative cooling. Effects of this thermoregulation were not limited to the fungi’s fruiting bodies and root-like hyphae: __temperature reductions were observed in the air immediately surrounding the mushrooms.__ Though slight, the reductions inspired an air-cooling device; using approximately 400 grams of mushrooms, the team’s prototype lowered the air temperature in a controlled environment by 10°C in forty minutes.
+
+A. It provides empirical evidence to bolster the claim made earlier in the text that certain fungal species maintain a hypothermic state.
+B. It identifies an unexpected observation that motivated the study of evaporative cooling in fungi that is discussed earlier in the text.
+C. It establishes a finding central to the text's discussion of a practical application resulting from the team’s study of fungal thermal biology.
+D. It presents a tangential finding about thermoregulation in certain fungal species that the experiment described later in the text was designed to explain.
+Answer: C
+
+Question 3:
+[COE]
+Which quotation from A Pair of Silk Stockingsmost effectively illustrates the claim?
+
+A Pair of Silk Stockings is a novel written by American author Kate Chopin in 1897. Within the novel, a passage delineates an individual who experiences an enhanced sense of self-positivity upon putting on an item of clothing.
+
+A. “Then she replaced her shoes, rolled the cotton stockings together and thrust them into her bag. After doing this she crossed straight over to the shoe department and took her seat to be fitted.”
+B. “Her stockings and boots and well-fitting gloves had worked marvels in her bearing—had given her a feeling of assurance, a sense of belonging to the well-dressed multitude.”
+C. “It was a long time since Mrs. Sommers had been fitted with gloves. On rare occasions when she had bought a pair they were always “bargains,” so cheap that it would have been preposterous and unreasonable to have expected them to be fitted to the hand.
+D. “Now she rested her elbow on the cushion of the glove counter, and a pretty, pleasant young creature, delicate and deft of touch, drew a long-wristed “kid” over Mrs. Sommers’ hand.”
+Answer: B
+
+Question 4:
+[COE]
+Which choice most effectively uses a quotation from a translation of The Clouds to illustrate the claim?
+
+The Clouds is a 423 BCE play by Aristophanes, originally written in ancient Greek. At the time, professional intellectuals called sophists taught customers rhetorical techniques to use in public speaking, along with providing instruction in other subjects. In the play, Aristophanes satirizes sophists as teaching students how to be persuasive without regard for what is morally good, as seen when the character _____.
+
+A. Socrates, a sophist, says that he studies astronomy while in a basket hanging a few feet off the ground because “I should not have rightly discovered things celestial if I had not suspended the intellect, and mixed the thought in a subtle form with its kindred air.”
+B. Strepsiades encourages his son to learn to be a sophist, saying, “Go, I entreat you, dearest of men, go and be taught.”
+C. Socrates, a sophist, says to a new customer, “Come now; what do you now wish to learn first of those things in none of which you have ever been instructed?”
+D. Strepsiades hires a sophist to teach his son and says to the sophist, “But see that he learns those two [styles of argument]; the better, whatever it may be; and the worse, which, by maintaining what is unjust, overturns the better. If not both, at any rate the unjust one by all means.”
+Answer: D
+
+Question 5:
+[COE]
+Which quotation from “A Pair of Silk Stockings” most effectively illustrates the claim?
+
+"A Pair of Silk Stockings" is an 1897 short story written by Kate Chopin. In the story, Mrs. Sommers attends a play, which she experiences as a temporary escape from the circumstances of her daily life: ______.
+
+A. “The play was over, the music ceased, the crowd filed out. It was like a dream ended.”
+B. “But there were vacant seats here and there, and into one of them she was ushered, between brilliantly dressed women who had gone there to kill time and eat candy and display their gaudy attire.”
+C. “It was a little later when she entered the theatre, the play had begun and the house seemed to her to be packed.”
+D. “When she entered [the restaurant] her appearance created no surprise, no consternation, as she had half feared it might.”
+Answer: A
+
+Question 6:
+[COE]
+According to the text, which choice best describes a conclusion He and colleagues drew from their study?
+
+Guojun He and colleagues studied a food-delivery phone app that is popular in China. The researchers found that having “no cutlery” automatically selected influences whether customers request disposable plastic utensils with their food orders. Based on their results, the researchers concluded that this and other small changes to the app could reduce plastic waste in China by as much as 2.36 million metric tons per year.
+
+A. Production of plastic waste in China is likely to increase in the near future.
+B. Food-delivery apps that prevent customers from requesting cutlery are becoming more popular.
+C. Customers who understand how food-delivery apps work make more environmentally friendly choices.
+D. Small changes to a food-delivery app work greatly lower plastic waste.
+Answer: D
+
+Question 7:
+[COE]
+Based on the text, which choice best expresses the narrator’s characterization of the Seine?
+
+The following text is adapted from Guy de Maupassant’s 1884 short story “A Recollection,” from the collection Guy de Maupassant Short Stories (translated by Albert M.C. McMaster et al. in 1903). The narrator is taking a boat down the Seine river from Paris, France, to the surrounding countryside.
+I took up a position in the bows , standing up and looking at the quays, the trees, the houses and the bridges disappearing behind us. And suddenly I perceived the great viaduct of Point du Jour which blocked the river. It was the end of Paris, the beginning of the country; and behind the double row of arches the Seine, suddenly spreading out as though it had regained space and liberty, became all at once the peaceful river which flows through the plains, alongside the wooded hills, amid the meadows, along the edge of the forests.
+
+A. Though the Seine is calm during most of the journey, the arches of the Point du Jour created a small area of heavy current.
+B. The Seine is beautiful but not as beautiful as Paris.
+C. As the journey progressed from Paris to the countryside, the waters of the Seine gradually cleared.
+D. The waters of the Seine are more confined and rough in Paris than they are in the countryside.
+Answer: D
+
+Question 8:
+[COE]
+Which option most logically completes the text?
+
+The sea-grass Posidonia oceanica is among various marine plant species native to the Mediterranean Sea that face the threat of extinction. The long-term survival of many such species primarily relies on fish consuming their seeds and dispersing them across different marine regions. Although many native seed-eating fish populations in the Mediterranean have drastically declined, introduced fish species such as the rabbitfish have become widespread in these waters. Recent research confirms that these non-native fish are actively dispersing seeds in the Mediterranean, implying that the fish ______.
+
+A. disperse more marine plant seeds throughout the Mediterranean Sea than native fish historically did.
+B. have a considerably stronger preference for seeds from native marine plants compared to those of introduced plant species.
+C. may play a crucial role in sustaining endangered marine plant species, including Posidonia oceanica.
+D. could also partake in additional behaviors influencing the dispersal potential of Posidonia oceanica and other at-risk marine plants.
+Answer: C
+
+Question 9:
+[COE]
+Based on the text, Lady Howard would most likely agree with which statement about Reverend Villars?
+
+The following text is adapted from Fanny Burney’s 1778 novel Evelina. The text is an excerpt from a letter by Lady Howard to Evelina’s guardian, Reverend Villars, in which Lady Howard discusses an upcoming trip to London planned by her daughter Mrs. Mirvan’s family.
+It is very earnestly [the Mirvans'] wish to enlarge and enliven their party by the addition of your amiable ward, who would share, equally with her own daughter, the care and attention of Mrs. Mirvan. Do not start at this proposal: it is time that [Evelina] should see something of the world. When young people are too rigidly sequestered from it, their lively and romantic imaginations paint to it them as a paradise of which they have been beguiled: but when they are shown it properly, and in due time, they see it such as it really is, equally shared by pain and pleasure, hope and disappointment.
+
+A. Although the manner in which he has raised Evelina is in many ways exemplary, he has been misguided in shielding her from the influence of other young people.
+B. Although his desire to guard Evelina from unscrupulous people is commendable, his general mistrust has led him to be unduly wary of the Mirvans.
+C. He is overly protective of Evelina, who would likely benefit from a greater variety of experiences than she has had thus far.
+D. He has imparted to Evelina his own idealistic view of the world, which results in her being unprepared to face inevitable disappointments.
+Answer: C
+
+Question 10:
+[COE]
+The primary purpose of the passage is to
+
+If a chronic microbial infection (the presence of a latent virus, for example) triggered a defensive cascade in the brain's immune system, and if the primary protein in that cascade evolved to trap the pathogen and subsequently aggregated, and so on, then a chain of inflammatory and neurotoxic events would result. If many such chains were initiated throughout a lifetime, the distribution of neural damage would resemble the observed pathology in a brain with Alzheimer's disease. This line of reasoning underpins a provocative new theory of Alzheimer's development. Clinical research based on this theory has accounted for the progression of the disease in many patients without assuming that spontaneous protein aggregation is the root cause, the hallmark of the most widely accepted theory of Alzheimer's pathology. That theory maintains that a specific protein spontaneously misfolds and clumps together, which in turn causes the inflammation and cell death that lead to the disease's characteristic cognitive decline.
+
+A. describe what results when a defensive cascade is triggered by a microbial infection in the brain.
+B. propose a revision to the most widely accepted theory of Alzheimer's pathology.
+C. compare and contrast the role of protein aggregation in two theories of Alzheimer's development.
+D. describe a new theory of Alzheimer's development and contrast it with the most widely accepted theory.
+Answer: D
+

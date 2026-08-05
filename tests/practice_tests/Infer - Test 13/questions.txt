@@ -1,0 +1,129 @@
+Question 7:
+[Infer]
+Which choice most logically completes the text?
+
+A social species, chickens will cry out to one another in warning if they sense a hawk or other predator nearby. But if alone, a chicken will remain silent so as not to attract the predator’s attention. Sonja Hillemacher decided to use this behavior to determine whether individual chickens possess a capacity to recognize themselves visually when reflected in a mirror (a common standard for animal intelligence). In the first condition of her study, the subject could see its reflection, but no other chickens were present. In a second condition, another chicken was visible to the subject. Hillemacher presented an image of a hawk to the subject in both conditions, reasoning that if chickens lacked a capacity for visual self-recognition, then ______.
+
+
+A. the subject likely would cry out a warning in both study conditions.
+B. the subject would fail to distinguish its reflection from the image of the hawk.
+C. neither study condition would elicit an audible response from the subject.
+D. only the first study condition would elicit an audible response from the subject.
+Answer: A
+
+Question 61:
+[Infer]
+Which choice most logically completes the text?
+
+As observed in a 2011 study by Emilio García-Robledo and Alfonso Corzo, macroalgal proliferation may have a suppressive effect on the abundance of cyanobacteria and other microphytobenthos (MPB)—chlorophyll producing microbes inhabiting marine sediment—in part by reducing the amount of sunlight available to MPB. Examining benthic chlorophyll concentrations (a widely used proxy for MPB biomass) in mudflats in Curlow Bay and other coastal sites in Virginia, Alice F. Beiserman and Michael L. Pace found that those concentrations did not negatively correlate with macroalgal proliferation. However, they noted that MPB may respond to low-light conditions by producing higher-than-normal concentrations of chlorophyll, and they thus concluded that ______.
+
+
+A. researchers ought to account for the possibility that because MPB have the capacity to compensate for reduced sunlight availability, benthic chlorophyll concentrations may not always be a reliable indicator of MPB biomass.
+B. although their finding was inconsistent with that of García-Robledo and Corzo, this discrepancy was not attributable to the ability of MPB to accelerate chlorophyll production to mitigate the negative impact of macroalgal accumulations.
+C. although elevated levels of macroalgae do not always correspond to increased levels of benthic chlorophyll, there is likely a larger trend in MPB biomass that is related to macroalgal presence but unrelated to light conditions.
+D. the effect of macroalgal concentrations on MPB abundance that García-Robledo and Corzo reported was not observed in Curlow Bay and other Virginia sites because low-light conditions likely are not generalizable across the sites in the studies.
+Answer: A
+
+Question 74:
+[Infer]
+Which choice most logically completes the text?
+
+Right-handedness is overwhelmingly prevalent in humans. Among studies of laterality in nonhuman primates, Dulce D. Shafer’s 1988 study of captive gorillas reported no tendency toward right-handedness, while Margaret E. Redishaw’s 1993 study of captive gorillas did. However, the latter study included only 12 individuals, and a meta-analysis of primate laterality studies demonstrated that a minimum sample size of 176 individuals is required to be confident that a finding of population-level handedness is not mere statistical noise. The claim of right-handedness in the 1993 study should therefore be treated skeptically given that _______ .
+
+
+A. the study that did not find right-handedness in gorillas was also based on an insufficient population size.
+B. right-handedness does not occur frequently enough among gorillas to reliably appear in a sample of only 12 individuals.
+C. the apparent difference between the two studies’ results may be partly attributable to the 1988 study using a different standard to determine handedness than the 1993 study did.
+D. the sample size on which the claim is based is far below the threshold identified in the meta-analysis.
+Answer: D
+
+Question 10:
+[Infer]
+Which choice most logically completes the text?
+
+In the early 19th, ships in the British Royal Navy were ranked based on military strength. The system considered the number of a ship's cannons and decks. “First rate” was the highest ranking, and“sixth-rate”was the lowest ranking, followed by unranked ships. This ranking deter-mined the size of a ship's crew: first-rate ships had between 850 and 875 crewmen, while lower-ranked ships had fewer. Two of the ships in the British Royal Navy from this period were the Dreadnought (98 cannons and three decks) and the Royal George(120 cannons and three decks). Of these two, only the Royal George was ranked a first-rate ship. It can therefore be concluded that_____
+
+
+A. the Dreadnought had between 850 and 875 crewmen.
+B. all ships with at least 98 cannons were ranked as first-rate ships.
+C. the Royal George needed a crew larger than 875 people in order to operate efficiently.
+D. not all ships with three decks were ranked as first-rate ships.
+Answer: D
+
+Question 53:
+[Infer]
+Which choice most logically completes the text?
+
+The Clarion-Clipperton Zone (CCZ) is an expanse of abyssal plain and seamounts (underwater mountains) between Hawai‘i and Mexico in which mining is permitted, but the area's biodiversity is poorly understood. The vast majority of invertebrate species found in a recent survey of the CCZ were hitherto unknown to scientists, and sampling for animal life has been highly concentrated in the eastern part of the zone. Some species like Ledella knudseni were identified both morphologically and molecularly (using DNA analysis), whereas Prionospio branchilucida and other species for which molecular sampling was impracticable were identified solely based on physical morphology. Since molecular analysis does not require distinguishing subtle physiological differences, it is ______.
+
+
+A. more likely to properly distinguish between morphologically similar but distinct invertebrate species than is the method used to identify Prionospio branchilucida.
+B. more frequently used for identifying species with physiological characteristics like those of Ledella knudseni than morphological analysis is.
+C. better suited to distinguishing Prionospio branchilucida from morphologically similar species than to distinguishing Ledella knudseni from morphologically similar species.
+D. capable of providing greater physiological detail about a species than is the method used for Prionospio branchilucida.
+Answer: A
+
+Question 22:
+[Infer]
+Which choice most logically completes the text?
+
+In Switzerland, the white fuzzy mountain flowers known as edelweiss are widely treated as a symbol of strength and courage. Although edelweiss can thrive in extreme conditions, they aren't notably tougher or harder to reach than other mountain flowers growing in the Swiss Alps. Historian Tobias Scheidegger has shown that the popular view of the flowers originated in the mid-1800s when mountain climbing became popular in Switzerland. Mountain climbers spread the idea that the flowers grew only in steep, icy terrains that were dangerous to climb to. Scheidegger says that these claims were self-interested. He suggests that mountain climbers presented edelweiss in this way in order to ________.
+
+
+A. share their observations about the unusual characteristics of edelweiss with scientists.
+B. encourage more flower enthusiasts to explore the Swiss Alps.
+C. make themselves appear brave and strong for being able to climb to difficult places where edelweiss supposedly grew.
+D. prove that edelweiss were more common in the Swiss Alps than in other mountain regions in Europe.
+Answer: C
+
+Question 67:
+[Infer]
+Which choice most logically completes the text?
+
+The British Bronze Age began when sophisticated techniques for making tools, weapons, and other objects from metal were introduced to the British Isles around 2500 BCE and it lasted until around 700 BCE. In Britain during this time, collections of valuable metal objects (called hoards) were sometimes buried for safekeeping. Some stayed buried for many centuries, such as the Parc-y-Meirch hoard, which was unearthed around 1868, and the Fittleworth hoard, discovered in 1995. And although the period is known as the Bronze Age, some hoards, like the Fittleworth hoard, contained decorative objects made of gold; gold was much rarer than bronze, however, and thus it is not surprising that ______
+
+
+A. some hoards contained no gold, as was the case for the Parc-y-Meirch hoard.
+B. most Bronze Age gold objects were melted down so that the gold could be reused.
+C. the skills needed to make tools and weapons from bronze were to adapt to making decorative items from gold.
+D. some hoards were found as a result of artifacts being dug up by accident.
+Answer: A
+
+Question 59:
+[Infer]
+Which choice most logically completes the text?
+
+In a 2012 study that took place in Brazil, Enelton Fagnani, José Roberto Guimarã, and Pedro Sérgio Fadini found a negative association between levels of dissolved organic carbon and mercury in bodies of fresh water. It may seem reasonable to be skeptical of this finding, since most other studies, such as research conducted in 1995 in the United States by Charles T. Driscoll and colleagues, have found that dissolved organic carbon and mercury levels rise together. Like the latter study, however, most studies of the topic have been conducted in North America, and many of those study sites have similar characteristics to one another, suggesting that _____.
+
+
+A. few of the studies conducted in North America have been able to measure dissolved organic carbon and mercury levels with the same level of precision as in Fagnani, Guimarã, and Fadini’s study.
+B. Fagnani, Guimarã, and Fadini’s finding may differ from the findings of other studies due to a difference in environmental circumstances that affects the relationship between dissolved organic carbon and mercury in fresh water.
+C. Fagnani, Guimarã, and Fadini’s study may have inadvertently measured a different characteristic of bodies of fresh water than their levels of dissolved organic carbon and mercury.
+D. the mercury levels reported in Fagnani, Guimarã, and Fadini’s study were much higher than those reported in the study by Driscoll and colleagues even though the dissolved organic carbon levels reported in the two studies were approximately the same.
+Answer: B
+
+Question 11:
+[Infer]
+Which choice most logically completes the text?
+
+Like many of Oahu’s fruit-eating birds on the Hawaiian island of Oahu, the red-whiskered bulbul helps forest plants spread by dropping seeds from the plants it eats at different spots (a process called seed dispersal). Ecologically, forest trees bearing seeds during periods with few seeds from native plants are at risk of extinction in the wild, such as the lāpālapa tree. However, the birds disperse a higher number of seeds from night-blooming jasmine shrubs and other non-native plants with large populations, likely because there are so many more of those plants for them to choose from. Therefore, it isn’t surprising that ___
+
+
+A. night-blooming jasmine shrubs and other non-native forest plants only recently began to outnumber native forest plants in the wild.
+B. on Oahu, native plants, such as the lāpālapa tree, are already growing in most spots where whiskered bulbuls would be likely to disperse seeds.
+C. on Oahu, the rate of population increase is higher for non-native plants than it is for vulnerable native forest plants like lāpālapa trees.
+D. the lāpālapa tree and the night-blooming jasmine shrub are species most in danger of going extinct in the wild.
+Answer: C
+
+Question 49:
+[Infer]
+Which choice most logically completes the text?
+
+To understand consumer loyalty to specific online retailers, Vijoleta Vrhovac and colleagues conducted a survey using 58 statements as proxy indicators of customer experience with receiving online purchases. The statements were categorized by topic—e. g., statement 13, “I am eagerly awaiting the delivery of the ordered items,” was categorized as joyful anticipation—and respondents, all of whom were from Serbia (which is characterized as having a developing economy), rated the importance of each statement to their experience. Researchers found that participants placed low importance on package aesthetics and high importance on speedy delivery and package tracking, but the researchers cautioned against applying the findings to customers generally, suggesting that ________
+
+
+A. customers in countries with higher levels of economic development than that of Serbia are likely to regard package design as relatively more important than delivery time and transparency.
+B. the greater importance assigned to delivery time and tracking than to package design may not be observed if the survey were to be given to a larger group of Serbian participants.
+C. online retailers that operate in a variety of countries are more likely to increase customer loyalty if they make their deliveries in less time and allow customers to track those deliveries than if they improve their packaging.
+D. additional research is needed with participants from countries of varying levels of economic development to determine whether delivery time and tracking are more important than package design to customers broadly.
+Answer: D

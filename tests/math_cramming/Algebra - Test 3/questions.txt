@@ -1,0 +1,81 @@
+Question 1:
+The graphs of {{MATH_1}} and {{MATH_2}} are shown. Point P (not shown) has coordinates {{MATH_3}} and lies in the shaded region. The coordinates of P satisfy which of the following inequalities?
+I. {{MATH_4}}
+II. {{MATH_5}}
+
+A. I only
+B. II only
+C. I and II
+D. Neither I nor II
+Answer: A
+
+Question 2:
+There is a linear relationship between x and y. The table shows three values of x and their corresponding values of y in terms of a constant n. What is the slope of the line that represents this relationship in the xy-plane (Dien phan so)?
+
+Answer: 24/5
+
+Question 3:
+If {{MATH_7}} , what is the value of {{MATH_8}} ?
+
+A. {{MATH_9}}
+B. {{MATH_10}}
+C. {{MATH_11}}
+D. {{MATH_12}}
+Answer: A
+
+Question 4:
+If {{MATH_13}}, which of the following is a value of {{MATH_14}} ?
+
+A. {{MATH_15}}
+B. {{MATH_16}}
+C. {{MATH_17}}
+D. {{MATH_18}}
+Answer: C
+
+Question 5:
+A book-of-the-month club charges ${{MATH_19}} for the first book purchased during the month and an additional ${{MATH_20}} for each book after the first. Which equation describes this situation, where y is the total cost, in dollars, for books purchased during a month, x is the number of books purchased during the month, and {{MATH_21}}?
+
+A. {{MATH_22}}
+B. {{MATH_23}}
+C. {{MATH_24}}
+D. {{MATH_25}}
+Answer: C
+
+Question 6:
+A company developed a plan to set the selling price of a product. The company determined that for a selling price of ${{MATH_26}}, zero products would be sold. For each ${{MATH_27}} decrease in the selling price, the number of products sold would increase by one. For a revenue of exactly ${{MATH_28}}, which of the following could be the number of products sold? (revenue = price × number of products sold)
+
+A. {{MATH_29}}
+B. {{MATH_30}}
+C. {{MATH_31}}
+D. {{MATH_32}}
+Answer: A
+
+Question 7:
+The equation of the graph shown is {{MATH_33}} , where a and b are constants. What is the value of {{MATH_34}}?
+
+Answer: 11          
+
+Question 8:
+{{MATH_36}}
+Which of the following equations is equivalent to the given equation, where b is a positive constant?
+
+A. {{MATH_37}}
+B. {{MATH_38}}
+C. {{MATH_39}}
+D. {{MATH_40}}
+Answer: A
+
+Question 9:
+The equation {{MATH_41}} gives the distance d, in feet, from a reference point on the surface of Mars to a Mars rover, where t is the number of minutes after the start of a period of observation. By how many feet does the Mars rover's distance from the reference point increase over a period of {{MATH_42}} minutes?
+
+A. {{MATH_43}}
+B. {{MATH_44}}
+C. {{MATH_45}}
+D. {{MATH_46}}
+Answer: C
+
+Question 10:
+{{MATH_47}}
+In the given equation, b is an integer. The equation has no real solutions. What is the least possible value of b?
+
+Answer: -13

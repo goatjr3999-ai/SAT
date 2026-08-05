@@ -1,0 +1,90 @@
+Question 1:
+[Synthesis]
+The student wants to contrast the two samples. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Generally, an object will heat up when twisted.
+• The twisting of an object is known as torsion.
+• A 2019 study led by Zunfeng Liu and Ray Baughman tested the torsional heating of various fibers.
+• When a 0.7-millimeter-thick sample of single-ply nickel-titanium (NiTi) wire was twisted, its average surface temperature increased by 21.3°C.
+• When a 2.2-millimeter-thick sample of ethylene propylene diene monomer (EPDM) rubber fiber was twisted, its average surface temperature increased by 12°C.
+
+A. In 2019, researchers studied the effect of torsional heating on various fibers, including samples of EPDM rubber and single-ply NiTi wire.
+B. The EPDM rubber sample used in the 2019 study was thicker than the single-ply NiTi wire sample.
+C. Twisting an object will generally cause its temperature to increase, a process known as torsional heating.
+D. When the fibers were twisted as part of the 2019 study, the surface temperature of both samples increased.
+Answer: B
+
+Question 2:
+[Synthesis]
+The student wants to emphasize a similarity between the two TV programs. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Documentary TV programs in the slow TV genre consist of uninterrupted broadcasts of ordinary events in real time.
+• Flåmsbana: Minutt for Minutt (running time: 1 hour) is a Norwegian slow TV program that aired in 2010.
+• It documented a train ride from Myrdal station down to Flåm.
+• Hihna 247 (running time: 12 hours) is a Finnish slow TV program that aired in 2017.
+• It documented a supermarket checkout aisle of the Prisma Kaari grocery store.
+
+A. While Flåmsbana: Minutt for Minutt depicts a train ride from Myrdal station down to Flåm, Hihna 247 depicts a supermarket checkout aisle of the Prisma Kaari grocery store.
+B. Documenting ordinary events in real time, Flåmsbana: Minutt for Minutt and Hihna 247 are both documentary programs in the slow TV genre.
+C. Compared to the 12-hour-long Hihna 247, the slow TV program Flåmsbana: Minutt for Minutt is relatively short, at 1 hour.
+D. A prime example of the slow TV genre can be seen in Flåmsbana: Minutt for Minutt, a 1-hour Norwegian TV documentary program documenting a train ride from Myrdal station down to Flåm.
+Answer: B
+
+Question 3:
+[Synthesis]
+The student wants to explain an advantage of the Oak Tree House dwelling site. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Oak Tree House is an Ancestral Puebloan dwelling site located in southwestern Colorado.
+• It was built under a rock overhang and inhabited from approximately 1180–1210 CE.
+• The overhanging rock ledges offered protection from heavy rain and snow.
+• Yucca House is an Ancestral Puebloan dwelling site located in southwestern Colorado.
+• It was built on relatively flat terrain and inhabited from approximately 1080–1275 CE.
+• This level surface allowed for the construction of large terraced buildings.
+
+A. The location of Oak Tree House, an Ancestral Puebloan dwelling site in southwestern Colorado, provided an advantage to its inhabitants.
+B. Located in southwestern Colorado, Oak Tree House is an Ancestral Puebloan dwelling site that was inhabited from approximately 1180–1210 CE.
+C. The relatively flat terrain on which Oak Tree House was built allowed for the construction of large terraced buildings.
+D. Since it was built under a rock overhang, Oak Tree House was naturally protected from heavy rain and snow.
+Answer: D
+
+Question 4:
+[Synthesis]
+The student wants to emphasize a similarity between the two NWRs. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The United States has designated more than 500 areas National Wildlife Refuges (NWRs).
+• Some NWRs were established specifically to protect endangered species.
+• The Crocodile Lake NWR is a 6,686-acre area in Florida.
+• It was established to protect the endangered American crocodile.
+• The Pearl Harbor NWR is a 61-acre area in Hawaii.
+• It was established to protect the endangered Hawaiian stilt.
+
+A. Both the Crocodile Lake NWR and the Pearl Harbor NWR were established to protect endangered species.
+B. Some NWRs, such as Hawaii’s Pearl Harbor, were established specifically to protect endangered species.
+C. While the Crocodile Lake NWR extends across a 6,686-acre area, the Pearl Harbor NWR encompasses only 61 acres.
+D. The US has designated more than 500 areas NWRs, including the Crocodile Lake NWR in Florida.
+Answer: A
+
+Question 5:
+[Synthesis]
+The student wants to explain why mitochondria are not considered separate organisms from their host cells. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• A eukaryotic cell is a complex cell with a nucleus and organelles; it can exist as an independent organism.
+• A prokaryotic cell (like a bacterium) is a simpler, independent organism with its own complete genome.
+• The theory of endosymbiosis posits that organelles like mitochondria originated when a free-living prokaryote was engulfed by an ancestral host cell.
+• This relationship was initially thought by some to be a form of simple, potentially reversible, mutualism.
+• Genomic studies show that over evolutionary time, the endosymbiont (the engulfed cell) transferred many of its essential genes to the host cell's nucleus.
+• Consequently, the mitochondrion lost its genetic autonomy and can no longer survive or reproduce outside the host.
+• The host cell is now critically dependent on the mitochondrion for energy production.
+• The result of this permanent integration is considered a single, composite organism.
+
+A. A. According to the theory of endosymbiosis, a single composite organism is formed when a eukaryotic host cell engulfs a prokaryotic cell.
+B. B. Although they originated as independent prokaryotes, mitochondria are no longer separate organisms because they have lost the genetic capacity for autonomous survival through the transfer of essential genes to the host's nucleus.
+C. C. Mitochondria and their host cells form a single organism because their relationship is a simple, reversible form of mutualism.
+D. D. Because the host cell has become critically dependent on the mitochondrion for its energy production, the mitochondrion is no longer a separate organism.
+Answer: B
+

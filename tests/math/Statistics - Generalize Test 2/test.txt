@@ -1,0 +1,89 @@
+Question 1:
+A transportation department wanted to estimate the average number of minutes commuters spend traveling to work each day. To collect data, the department surveyed 80 adults waiting at a downtown subway station during the morning rush hour. The average commute time for those surveyed was 47 minutes. Which of the following statements must be true?
+
+A. The average commute time for all city residents is 47 minutes.  
+B. The sampling method is likely to produce a biased estimate of the average commute time for city residents.  
+C. No conclusion can be made because the sample size is too small.  
+D. The sampling method is likely to produce an unbiased estimate of the average commute time for city residents.  
+Answer: B
+
+Question 2:
+A university randomly selected 400 undergraduate students from the list of all enrolled students and asked whether they support extending library hours during final exams. Of those surveyed, 61% responded in favor. To which of the following populations can the results of this survey be most appropriately generalized?
+
+A. All students at universities nationwide  
+B. All undergraduate students at this university  
+C. All students who use the university library  
+D. The 400 students who responded to the survey  
+Answer: B
+
+Question 3:
+A marketing firm surveyed 250 customers who had purchased a new brand of running shoes and asked whether they were satisfied with the product. Seventy percent of those surveyed reported being satisfied. Which of the following inferences is most appropriate?
+
+A. Most people who purchase athletic shoes are satisfied with this brand.  
+B. Most people who did not purchase these running shoes are dissatisfied with them.  
+C. Most customers who purchased this brand of running shoes are satisfied with them.  
+D. At least 70% of all athletes are satisfied with these running shoes.  
+Answer: C
+
+Question 4:
+To determine whether residents support building a new community park, a town council posted an online poll on the town’s official website and received 1,200 responses. A large majority of respondents supported the proposal. Which of the following best explains why the results may not represent the opinions of all town residents?
+
+A. The number of responses was too large to draw conclusions.  
+B. The poll did not allow residents to change their answers.  
+C. The respondents were not selected as a random sample of town residents.  
+D. The results did not show an equal split between support and opposition.  
+Answer: C
+
+Question 5:
+A nutritionist randomly selected 90 adults from a list of patients at a medical clinic and recorded the number of servings of vegetables each patient reported eating per day. The average number of servings was 3.8. What is the largest group to which the results can be reasonably generalized?
+
+A. All adults in the city  
+B. All patients at the medical clinic  
+C. All adults who eat vegetables  
+D. The 90 adults who were surveyed  
+Answer: B
+
+Question 6:
+A company wanted to determine whether employees prefer remote work or in-office work. A random sample of 200 employees from one regional office was surveyed. Of those surveyed, 58% said they prefer remote work. Which statement must be true?
+
+A. Fifty-eight percent of all company employees prefer remote work.  
+B. If another sample of 200 employees from the same office were surveyed, exactly 58% would prefer remote work.  
+C. The results may be used to estimate preferences of employees at that regional office.  
+D. The results may be used to estimate preferences of workers nationwide.  
+Answer: C
+
+Question 7:
+A wildlife researcher randomly selected 120 deer from a nature reserve and measured their average body mass. The researcher then applied a new dietary supplement to half of the deer to study its effects. Based on the design of the study, to which group can the results be most appropriately applied?
+
+A. All deer in the state  
+B. All deer in the nature reserve  
+C. All deer included in the study  
+D. All mammals in the reserve  
+Answer: B
+
+Question 8:
+A newspaper invited readers to submit responses to an online survey about a proposed change in national tax policy. After publishing the results, the newspaper claimed the majority of citizens oppose the proposal. Why is this conclusion questionable?
+
+A. The number of responses was too small to analyze.  
+B. The respondents may not represent a random sample of the population.  
+C. The survey did not include a neutral response option.  
+D. The percentages reported did not total 100%.  
+Answer: B
+
+Question 9:
+To estimate the average number of hours students spend studying each week, a teacher surveyed 35 students who were attending an after-school tutoring session. The average study time reported was 12 hours per week. Which statement must be true?
+
+A. All students at the school study an average of 12 hours per week.  
+B. The sample size is too small to draw any conclusion.  
+C. The sampling method may lead to a biased estimate of average study time.  
+D. The sampling method ensures an unbiased estimate of average study time.  
+Answer: C
+
+Question 10:
+A fitness company randomly selected 500 customers who had purchased an annual gym membership and asked whether they planned to renew their membership next year. Sixty-five percent said they planned to renew. Which inference is most appropriate?
+
+A. Sixty-five percent of all adults plan to renew a gym membership.  
+B. Most people who exercise regularly plan to renew a gym membership.  
+C. Most customers who purchased this gym membership plan to renew it.  
+D. Most people who do not belong to a gym do not plan to renew a membership.  
+Answer: C

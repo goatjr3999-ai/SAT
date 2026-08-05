@@ -1,0 +1,120 @@
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+It is hard for publishers and printers to create very long books that balance the requirements of readability, durability, and cost. Among some exceptionally long novels published in English, Haruki Murakami’s 1Q84 (translated from Japanese) was published in a 1,157-page edition and runs to an estimated 407,000 words, while John Sayles’s A Moment in the Sun (written originally in English) was published in a 1,100-page edition and runs to an estimated 625,000 words. This indicates that ____.
+
+A. the edition of A Moment in the Sun has more words per page than the edition of 1Q84.
+B. translating a text from Japanese to English is likely to increase the word count.
+C. page count is likely to be a more reliable indicator of how long it takes to read a book than word count.
+D. the edition of 1Q84 is printed on thinner paper than the edition of A Moment in the Sun.
+Answer: A
+
+Question 2:
+[Infer]
+Which choice most logically completes the text?
+
+Designed by Young Projects, Six Square House demonstrates the increasing focus among architects on developing eco-conscious and sustainable buildings. One way to accomplish this goal is through biophilic design, which incorporates elements that establish a coherent physical and emotional relationship among nature, human biology, and the building. Architects dedicated to this approach carefully contemplate every aspect of their projects from location characteristics and initial materials selection to ultimate interior design choices and building installation. Thus, _____.
+
+A. biophilic design considerations are exercised during both the conception and execution of a new project.
+B. architecture firms like Young Projects typically work with large crews in order to expedite the time it takes to build a new project.
+C. architecture firms like Young Projects aim to use unique building materials for each project that they design.
+D. biophilic design prioritizes the emotional effects on inhabitants rather than the physical state of the natural surroundings.
+Answer: A
+
+Question 3:
+[Infer]
+Which choice most logically completes the text?
+
+The Clarion-Clipperton Zone (CCZ) is an expanse of abyssal plain and seamounts (underwater mountains) between Hawai‘i and Mexico in which mining is permitted, but the area's biodiversity is poorly understood. The vast majority of invertebrate species found in a recent survey of the CCZ were hitherto unknown to scientists, and sampling for animal life has been highly concentrated in the eastern part of the zone. Some species like Ledella knudseni were identified both morphologically and molecularly (using DNA analysis), whereas Prionospio branchilucida and other species for which molecular sampling was impracticable were identified solely based on physical morphology. Since molecular analysis does not require distinguishing subtle physiological differences, it is ______.
+
+A. more likely to properly distinguish between morphologically similar but distinct invertebrate species than is the method used to identify Prionospio branchilucida.
+B. more frequently used for identifying species with physiological characteristics like those of Ledella knudseni than morphological analysis is.
+C. better suited to distinguishing Prionospio branchilucida from morphologically similar species than to distinguishing Ledella knudseni from morphologically similar species.
+D. capable of providing greater physiological detail about a species than is the method used for Prionospio branchilucida.
+Answer: A
+
+Question 4:
+[Infer]
+Which choice most logically completes the text?
+
+Exclusively inhabiting tropical countries such as Sierra Leone, wild chimpanzees lack adaptations to seasonal variations in ultraviolet B (UVB) irradiance from sunlight; since UVB exposure enables vertebrates to synthesize vitamin D, this raises questions about how chimpanzees in mid-latitude zoos are affected by the lower and more variable UVB irradiance in those locations. In a study of zoo chimpanzees in Sweden and other mid-latitude countries, Sophie Moittié and colleagues found not only that chimpanzees’ vitamin D levels correlate with UVB irradiance but also that vitamin D levels show no evidence of plateauing as UVB irradiance reaches its highest local levels, suggesting that ______.
+
+A. averaged across seasons, vitamin D levels in zoo chimpanzees in mid-latitude countries such as Sweden tend to be comparable to those in wild chimpanzees in tropical countries such as Sierra Leone.
+B. adaptations to seasonal variations in UVB irradiance may be emerging in zoo chimpanzees in Sweden and other mid-latitude countries.
+C. providing supplemental vitamin D to chimpanzees in zoos in Sweden and other mid-latitude countries would likely not be beneficial.
+D. zoo chimpanzees in Sweden and other mid-latitude countries tend to synthesize less vitamin D than they are inherently capable of synthesizing.
+Answer: D
+
+Question 5:
+[Infer]
+Which choice most logically completes the text?
+
+Manchester United Football Club won more than half its home matches between 1947 and 2003, helping to distinguish the team as a top British professional soccer club. Additionally, Manchester United, whose home uniform color is mainly red, was more successful in home matches than was Coventry City Football Club, whose home uniform color is not red. Research has shown that many people associate the color red with power and dominance. Past experiences with red objects such as stop signs can even cause people to respond to the color red with caution and hesitation. These findings, if applicable in the context of athletic competitions, could suggest that the uniforms worn by Manchester United’s players in their home matches may have ___
+
+A. increased Manchester United players’ sense of excitement.
+B. negatively affected the performance of players on opposing teams.
+C. led fans to perceive the team’s opponents as more dominant than they actually were.
+D. caused Manchester United’s players to play less skillfully.
+Answer: B
+
+Question 6:
+[Infer]
+Which choice most logically completes the text?
+
+Many French pastries, such as beignets and croquettes, achieve their signature flavor through deep frying in oil; some are prepared with a special starch-based coating. Food scientists Isabelle Fournier and Jacques Tremblay investigated the heat and mass transfer processes that occur when pastries are fried with coatings containing gel-forming compounds, which thicken or solidify in water. During frying, moisture inside the food evaporates, leaving pockets that oil, a pure fat, can occupy. As frying continues, water from the interior moves outward as long as the crust remains porous. However, gel-forming compounds in the coating can create barriers that slow the movement of moisture out of the food’s core. Therefore, a pastry fried without this type of coating will likely _____.
+
+A. develop a denser crust after frying compared to one fried with a coating containing gel-forming compounds.
+B. require shorter frying times at higher temperatures than it would with a coating containing gel-forming compounds.
+C. absorb more oil than it would if fried with a coating containing gel-forming compounds.
+D. need a different type of frying oil than it would if fried with a coating containing gel-forming compounds.
+Answer: C
+
+Question 7:
+[Infer]
+Which choice most logically completes the text?
+
+In Switzerland, the white fuzzy mountain flowers known as edelweiss are widely treated as a symbol of strength and courage. Although edelweiss can thrive in extreme conditions, they aren’t notably tougher or harder to reach than other mountain flowers growing in the Swiss Alps. Historian Tobias Scheidegger has shown that the popular view of the flowers originated in the mid-1800s when mountain climbing became popular in Switzerland. Mountain climbers spread the idea that the flowers grew only in steep, icy terrains that were dangerous to climb to. Scheidegger says that these claims were self-interested. He suggests that mountain climbers presented edelweiss in this way in order to ______.
+
+A. share their observations about the unusual characteristics of edelweiss with scientists.
+B. encourage more flower enthusiasts to explore the Swiss Alps.
+C. make themselves appear brave and strong for being able to climb to difficult places where edelweiss supposedly grew.
+D. prove that edelweiss were more common in the Swiss Alps than in other mountain regions in Europe.
+Answer: C
+
+Question 8:
+[Infer]
+Which choice most logically completes the text?
+
+A soil’s microbial community (the microbial taxa present in their relative abundances) is known to affect plants’ nutrient acquisition. Corrine Walsh and colleagues hypothesized that microbial communities could also affect plants’ flavor chemistry, including volatiles and secondary metabolites like glucosinolates. Recognizing that soil moisture varies by location in the wild and could influence plants’ chemistry, Walsh et al. introduced distinct microbial communities to individually potted mustard plants (Brassica juncea) growing in a controlled environment, then measured the plants’ glucosinolates, like 3-methylthiopropyl and allyl (the most prominent), that create the spicy and bitter flavors in mustard. This method thus enabled the researchers to _____.
+
+A. Distinguish variations in glucosinolates due to differences in microbial communities from those that in a natural setting may be due to differences in soil moisture.
+B. Disentangle the influence of microbial communities on soil moisture from their influence on glucosinolate content in the plants.
+C. Demonstrate that differences in plants’ flavor chemistry result from differences in the level of glucosinolates regardless of the soil moisture.
+D. Re-create the conditions of studies conducted in the wild that found links between soil microbial communities and levels of 3-methylthiopropyl in mustard plants.
+Answer: A
+
+Question 9:
+[Infer]
+Which choice most logically completes the text?
+
+As exemplified by Yi songs about the natural environment and Tlingit songs about wildlife encounters, ecological information can be transmitted in Indigenous songs, and in some instances is maintained only in this way. Kwaxsistalla Wathl'thla, a song keeper for the Kwakwaka'wakw people in Canada, collaborated with ethnologist Dana Lepofsky et al., sharing songs referencing terraced intertidal clam gardens the people implemented in the past to foster healthy development of a dietary staple. Drawing on archaeological evidence as well, Lepofsky et al. determined that the prevalence of the practice described in the songs corresponded with growth in clam size and abundance despite increased harvesting pressure—a finding that demonstrates that _____
+
+A. representation of practical applications of ecological knowledge is the defining characteristic of the music of certain Indigenous peoples.
+B. the Kwakwaka'wakw people likely would not have detailed their creation of clam gardens in songs if their efforts had not produced significantly larger clams.
+C. the clams harvested from intertidal terraces by Kwakwaka'wakw people in the past likely were a different species than the clams found in those areas today.
+D. effective methods for the cultivation of sources of sustenance are among the ecological knowledge preserved in Indigenous songs.
+Answer: D
+
+Question 10:
+[Infer]
+Which choice most logically completes the text?
+
+Exclusively inhabiting tropical countries such as Liberia, wild chimpanzees lack adaptations to seasonal variations in ultraviolet B (UVB) irradiance from sunlight; since UVB exposure enables vertebrates to synthesize vitamin D, this raises questions about how chimpanzees in mid-latitude zoos are affected by the seasonal variations in UVB irradiance that occur in those locations. In a study of zoo chimpanzees in Belgium and other mid-latitude countries, Sophie Motitie and colleagues found that vitamin D levels are lower in spring than in summer, paralleling UVB irradiance, but also that regardless of season, chimpanzees with unlimited outdoor access have higher vitamin D levels than chimpanzees with limited outdoor access. These findings suggest that ______
+
+A. adaptations to seasonal variations in UVB irradiance may be emerging in zoo chimpanzees with unlimited outdoor access in Belgium and other mid-latitude countries.
+B. the amount of outdoor access received by zoo chimpanzees in Belgium and other mid-latitude countries affects those chimpanzees' vitamin D levels more than do seasonal variations in UVB irradiance.
+C. giving zoo chimpanzees in Belgium and other mid-latitude countries unlimited outdoor access during spring may help offset the effect of reduced UVB irradiance relative to summer.
+D. in mid-latitude countries such as Belgium, zoo chimpanzees with unlimited outdoor access tend to synthesize more vitamin D per unit of UVB irradiance in summer than they do in spring.
+Answer: C
+

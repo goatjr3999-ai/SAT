@@ -1,0 +1,85 @@
+/* ===== Căn giữa toàn bộ trang tuyệt đối ===== */
+/* RESET HOÀN TOÀN BODY – CHỐNG OVERRIDE TỪ test.css */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+html body {
+  all: unset !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  height: 100vh !important;
+  width: 100vw !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: #f9fafb !important;
+  font-family: "Montserrat", system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", sans-serif;
+  user-select: none !important;
+  -webkit-user-select: none !important;
+  -ms-user-select: none !important;
+}
+
+/* ===== Wrapper chỉ cần flex-con, không cần absolute nữa ===== */
+#review-wrapper.score-center {
+  width: 100%;
+  max-width: 600px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+
+  text-align: center;
+}
+
+/* ===== Tiêu đề ===== */
+#review-title {
+  margin-bottom: 4px;
+}
+
+/* ===== Score box ===== */
+#score-box {
+  margin-bottom: 10px;
+}
+
+/* ===== 2 nút ===== */
+.score-buttons {
+  margin-top: 10px;
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+}
+
+#back-home-btn,
+#detail-btn {
+  width: 160px;        /* hai nút bằng nhau */
+  padding: 10px 0;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.15s;
+}
+
+/* Nút 1 */
+#back-home-btn {
+  background: #3b82f6;
+  color: white;
+}
+#back-home-btn:hover {
+  background: #2563eb;
+}
+
+/* Nút 2 */
+#detail-btn {
+  background: #10b981;
+  color: white;
+}
+#detail-btn:hover {
+  background: #059669;
+}
+
+#review-wrapper,
+#review-wrapper * {
+  font-family: "Montserrat", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif !important;
+}

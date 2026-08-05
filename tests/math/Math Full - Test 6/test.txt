@@ -1,0 +1,176 @@
+Question 1:
+There are two alpaca farms. Farm 𝐴 and farm 𝐵. The ratio of male alpacas to female alpacas is 1: 17 for the total number of alpacas on farms 𝐴 and 𝐵. The ratio of male alpacas on Farm 𝐴 to Farm B is 1: 10. Farm 𝐴 has 360
+total alpacas and farm 𝐵 has 234 total alpacas. How many more female alpacas are there in farm 𝐴 than farm 𝐵?
+
+Answer: 153
+
+Question 2:
+A baseball coach charges each athlete $150 for the first month and $95 for each additional month. Which of the following functions correctly represents the total revenue {{MATH_1}}(m), in dollars, for {{MATH_2}} months and {{MATH_3}} athletes, where {{MATH_2}} and {{MATH_3}} are positive integers?
+
+A. {{MATH_1}}(m) = 95{{MATH_4}} + 55
+B. {{MATH_1}}(m) = 95{{MATH_4}} + 150
+C. {{MATH_1}}(m) = 95{{MATH_4}} + 55{{MATH_3}}
+D. {{MATH_1}}(m) = 95{{MATH_4}} + 150{{MATH_3}}
+Answer: C
+
+Question 3:
+An object's speed is increasing at a rate of 4.80 meters per second squared. What is the rate in miles per minute squared, rounded to the nearest tenth? (Use 1 mile = 1609 meters.)
+
+Answer: 10.7
+
+Question 4:
+A company conducted a study concerning the time spent on extracurricular activities by students in grades 6, 7, and 8 and their level of school spirit. A total of 80 students were selected at random from all students in grades 6, 7, and 8 in a large school district in the US. The selected students were asked to report their level of school spirit as either low, medium, or high. The table summarizes the distribution of the selected students by grade.
+
+If the results of the study suggest a relationship between the self-reported level of school spirit and the amount of time spent on extracurricular activities by students in grades 6, 7, and 8, which of the following aspects of the study will prevent the results from being generalized to all students in grades 6, 7, and 8 in the US?
+
+A. The selected students are not all from the same school.
+B. The number of selected students is too small.
+C. The number of selected students from each grade is different.
+D. The students were not selected at random from all students in grades 6, 7, and 8 in the US.
+Answer: D
+
+Question 5:
+For a polynomial function f, the graph of {{MATH_5}} in the xy-plane contains the points {{MATH_6}} and {{MATH_7}}. Which of the following must be a factor of f(x)? 
+
+A. {{MATH_8}}
+B. {{MATH_9}}
+C. {{MATH_10}}
+D. {{MATH_11}}
+Answer: D
+
+Question 6:
+A circle is inscribed in a square. If the perimeter of the square is 4 cm, what is the area between circle and square, in square centimeter?
+
+A. {{MATH_12}}
+B. 4 - π
+C. {{MATH_13}}
+D. 16 - 4π
+Answer: C
+
+Question 7:
+
+The function P(x) represents the mean photosynthetic rate of a plant species in terms of the photochemical energy available, x. During a specific 2-hour period, P(300) = 10.5, and the mean photosynthetic rate increases by 0.125 micromoles per meter squared per second when the photochemical energy available increases by 5 micromoles per meter squared per second. Which equation gives the mean photosynthetic rate, in micromoles per meter squared per second, in terms of the photochemical energy available during this period?
+
+A. {{MATH_49}}
+B. {{MATH_50}}
+C. {{MATH_51}}
+D. {{MATH_52}}
+Answer: B
+
+Question 8:
+In the given equation, a and b are positive constants. The sum of the solutions to the given equation is {{MATH_14}} where kis a constant. What is the value of {{MATH_15}}? (phân số)
+{{MATH_16}}
+
+Answer: 1/12
+
+Question 9:
+Maurice is selling books from his book collection. On day 1, Maurice has 31 books in his collection. On each following day, Maurice sells 3 books. The function {{MATH_17}} represents this situation, where {{MATH_18}} is the total number of books in Maurice's collection at the end of day {{MATH_19}}when {{MATH_20}}. According to the function, what is the number of books that Maurice has sold from his collection by the end of day {{MATH_19}}?
+
+A. {{MATH_21}}
+B. {{MATH_22}}
+C. {{MATH_23}}
+D. {{MATH_24}}
+Answer: A
+
+Question 10:
+A business consultant charges $408 for the first hour and $204 for each additional hour of work. Which of the following functions give the charge C(h), in dollars, for h hours of work, where h is a positive integer? 
+
+A. C(h) = 204h + 204
+B. C(h) = 204h + 408
+C. C(h) = 408h + 204
+D. C(h) = 408h + 612
+Answer: A
+
+Question 11:
+A right circular cone has a height of 27 centimeters (cm) and a base with a diameter of 10 cm. The volume of this cone is{{MATH_25}}cm-. What is the value of {{MATH_26}}?
+
+Answer: 225
+
+Question 12:
+A 9-pound cat eats two types of canned cat food: chicken-flavored and duck-flavored. The recommended amount of chicken-flavored food is 2.25 cans per 8 pounds of a cat-s weight per day. The recommended amount of duck-flavored food is 0.75 cans per 5 pounds of a cat-s weight per day. If {{MATH_27}} is the number of chicken-flavored cans and {{MATH_28}} is the number of duck-flavored cans a 9-pound cat eats in one day, which equation describes all the possible values of {{MATH_27}} and {{MATH_28}} for the cat to eat the recommended amount of food based on its weight?
+
+A. {{MATH_29}}
+B. {{MATH_30}}
+C. {{MATH_31}}
+D. {{MATH_32}}
+Answer: D
+
+Question 13:
+According to a set of standards, pure biodiesel fuel can contain a maximum of 0.001% phosphorus by mass. If a sample of pure biodiesel fuel has a mass of 160 grams, what is the maximum mass, in grams, of phosphorus the sample can contain to meet these standards? (điền số thập phân)
+
+Answer: 0.0016
+
+Question 14:
+The quadratic function {{MATH_33}} models the depth, in meters, below the surface of the water of a Weddell seal {{MATH_34}}minutes after the seal entered the water during a dive. The function estimated that the seal reached its maximum depth of 396.8 meters 8 minutes after it entered the water and then reached the surface of the water 16 minutes after it entered the water. Based on the function, what was the estimated depth, to the nearest meter, of the seal 11 minutes after it entered the water?
+
+Answer: 341
+
+Question 15:
+In the given system of equations, c is a positive constant. Which of the following could be the point where the graphs of the equations in this system intersect in the xy-plane?
+{{MATH_35}}
+{{MATH_36}}
+
+A. {{MATH_37}}
+B. {{MATH_38}}
+C. {{MATH_39}}
+D. {{MATH_40}}
+Answer: A
+
+Question 16:
+At an athletic event, a participant-s goal is to travel at least 24.0 miles in 3.0 hours or less using a combination of running and biking. Throughout the event, this participant runs at average rate of 6.9 miles per hour and bikes at an average rate of 11.3 miles per hour. What is the minimum time, in minutes, that this participant must bike to meet their goal of traveling at least 24.0 miles in 3.0 hours or less?
+
+Answer: 45
+
+Question 17:
+The standard deviation of data set X is q, and the standard deviation of data set Y is s. Which of the following statements about the standard deviation of the data sets is true?
+
+A. q < s
+B. q > s
+C. q = s
+D. The relationship between q and s cannot be determined.
+Answer: C
+
+Question 18:
+The equation {{MATH_41}} gives the estimated height above ground. {{MATH_42}}, in meters, of a plane, where {{MATH_43}} is the number of seconds since it started a parabolic maneuver.
+If this equation is graphed in the {{MATH_44}}-plane, which of the following is the best interpretation the vertex of the graph?
+
+A. The plane reached an estimated maximum height of 8.9 meters 11,800 seconds after it started the parabolic maneuver.
+B. The plane reached an estimated maximum height of 4.9 meters 11,800 seconds after it started the parabolic maneuver.
+C. The plane reached an estimated maximum height of 11,800 meters 8.9 seconds after it started the parabolic maneuver.
+D. The plane reached an estimated maximum height of 11,800 meters 4.9 seconds after it started the parabolic maneuver.
+Answer: C
+
+Question 19:
+A cube has an edge length of 82 inches. A solid sphere with a radius of 41 inches is inside the cube, such that the sphere touches the center of each face of the cube. To the nearest cubic inch, what is the volume of the space in the cube not taken up by the sphere?
+
+A. 262,672
+B. 288,532
+C. 334,846
+D. 546,087
+Answer: A
+
+Question 20:
+
+The function g is a quadratic function. In the xy-plane, the graph of y = g(x) has a vertex at (-1, -4) and passes through the points (-2, -43) and (1, -160). What is the value of g(0) - g(2)?
+
+A. {{MATH_53}}
+B. {{MATH_54}}
+C. {{MATH_55}}
+D. {{MATH_56}}
+Answer: D
+
+Question 21:
+For what value of {{MATH_45}} is the given expression equivalent to {{MATH_46}}, where {{MATH_47}}? (phân số)
+{{MATH_48}}
+
+Answer: 4/225
+
+Question 22:
+
+In the figure, LQ intersects MP at point R, and LM is parallel to PQ. The lengths of MR, LR, and RP are 9, 10, and 19, respectively. What is the length of LQ?
+
+A. {{MATH_57}}
+B. {{MATH_58}}
+C. {{MATH_59}}
+D. {{MATH_60}}
+Answer: D

@@ -1,0 +1,82 @@
+Question 1:
+The function {{MATH_1}} is defined by{{MATH_2}} , where a, b, and c are constants. The graph of {{MATH_3}} in the xy-plane passes through the points {{MATH_4}} and{{MATH_5}}. If a is an integer greater than 1, which of the following could be the value of a+b?
+
+A. {{MATH_6}}
+B. {{MATH_7}}
+C. {{MATH_8}}
+D. {{MATH_9}}
+Answer: D
+
+Question 2:
+If {{MATH_10}} , what is the value of {{MATH_11}} ?
+
+A. {{MATH_12}}
+B. {{MATH_13}}
+C. {{MATH_14}}
+D. {{MATH_15}}
+Answer: D
+
+Question 3:
+In the xy-plane, which of the following does NOT contain any points that are part of the solution set to {{MATH_16}} ?
+
+A. The region where {{MATH_17}} and {{MATH_18}}
+B. The region where{{MATH_19}} and {{MATH_20}}
+C. The region where {{MATH_21}} and {{MATH_22}}
+D. The x-axis
+Answer: A
+
+Question 4:
+Which equation defines the linear function f ?
+
+A. {{MATH_23}}
+B. {{MATH_24}}
+C. {{MATH_25}}
+D. {{MATH_26}}
+Answer: B
+
+Question 5:
+{{MATH_27}}
+{{MATH_28}}
+The solution to the given system of equations is (x, y). What is the value of {{MATH_29}} ?
+
+A. {{MATH_30}}
+B. {{MATH_31}}
+C. {{MATH_33}}
+D. {{MATH_34}}
+Answer: D
+
+Question 6:
+An exponential function f is defined by {{MATH_35}}, where c is a constant greater than {{MATH_36}}. If {{MATH_37}}, what is the value of c ?
+
+Answer: 3   
+
+Question 7:
+{{MATH_39}}
+{{MATH_40}}
+In the given system of equations, w is a constant. In the xy-plane, the graphs of these equations intersect at the point (q, {{MATH_41}}), where q is a constant. What is the value of w?
+
+Answer: 11
+
+Question 8:
+A beaker containing a liquid is placed on a table. The function {{MATH_43}} gives the approximate temperature, in kelvins, of the liquid t minutes after the beaker was placed on the table. According to this function, what was the approximate temperature, in kelvins, of the liquid when the beaker was placed on the table?
+
+Answer: 361
+
+Question 9:
+For the exponential function f, the value of f ({{MATH_45}}) is k, where k is a constant. Which of the following equivalent forms of the function f shows the value of k as the coefficient or the base?
+
+A. {{MATH_46}}
+B. {{MATH_47}}
+C. {{MATH_48}}
+D. {{MATH_49}}
+Answer: C
+
+Question 10:
+{{MATH_50}}
+How many times does the graph of the given equation in the xy-plane cross the x-axis, where a, b, and c are positive constants such that {{MATH_51}} and{{MATH_52}} ?
+
+A. Zero
+B. One
+C. Two
+D. Three
+Answer: B

@@ -1,0 +1,96 @@
+Question 1:
+A market analyst randomly sampled 180 rewards-program members from one specific bookstore location and asked them whether they prefer hardcover books or paperbacks. In the sample, 112 members said they prefer hardcovers. What is the largest population to which the survey results can be generalized?
+
+A. All customers at that specific bookstore location  
+B. All rewards-program members of the bookstore chain nationwide  
+C. All rewards-program members at that specific bookstore location  
+D. The 180 rewards-program members who were surveyed  
+Answer: C
+
+Question 2:
+Members of a citywide public library system were surveyed to determine whether they support extending weekend opening hours. A random sample of 500 library members was selected, and all responded. Of those surveyed, 62% said they support extending the weekend hours. Based on this information, which of the following statements must be true?
+
+I. Of all members in the library system, 62% support extending weekend hours.  
+II. If another random sample of 500 library members were surveyed, exactly 62% would indicate support for extending weekend hours.
+
+A. I only  
+B. II only  
+C. I and II  
+D. Neither  
+Answer: D
+
+Question 3:
+A study was conducted using a random sample of data analysts working at finance companies in Chicago. The analysts surveyed were asked to report which data visualization tool they most often use for professional projects. To which of the following populations can the results of this study be most appropriately generalized?
+
+A. All employees working at finance companies in Chicago  
+B. All data analysts working at finance companies in the United States  
+C. All employees working at finance companies in the United States  
+D. All data analysts working at finance companies in Chicago  
+Answer: D
+
+Question 4:
+The city council of a coastal town wanted to determine the opinions of all town residents about a proposal to restrict fishing in a nearby marine area. To gather data, the council surveyed 280 town residents who were members of a local environmental advocacy group. The survey results showed that a large majority of those surveyed supported the proposal. Which of the following statements is true about the city council’s survey?
+
+A. It shows that most town residents support restricting fishing in the marine area.  
+B. The survey should have included a larger number of members of the environmental group.  
+C. The survey sample should have consisted entirely of residents who work in the fishing industry.  
+D. The survey sample is biased because it is not representative of all town residents.  
+Answer: D
+
+Question 5:
+A workplace researcher conducted a study to examine whether flexible scheduling is associated with higher employee morale. For the study, the researcher randomly selected 150 employees from the full employee roster of a single regional office of a multinational consulting company. The results showed a strong positive relationship between the number of flexible work hours and reported morale. To which of the following groups can the results of this study be most appropriately generalized?
+
+A. The 150 employees who participated in the study  
+B. All employees working at the same regional office of the company  
+C. All employees of the multinational consulting company  
+D. All employees working in the consulting industry  
+Answer: B
+
+Question 6:
+A polling organization surveyed 2,100 registered voters who were selected at random from a particular state and asked each voter, “Do you support the proposed law to increase funding for public transportation?” Of those surveyed, 54 percent said they supported the proposal. Based on the results of the survey, which of the following statements must be true?
+
+I. Of all registered voters in the state, 54 percent support the proposed law.  
+II. If another 2,100 registered voters selected at random from the state were surveyed, 54 percent of them would say they support the proposed law.  
+III. If 2,100 registered voters selected at random from a neighboring state were surveyed, 54 percent of them would say they support the proposed law.
+
+A. I only  
+B. II only  
+C. II and III only  
+D. None  
+Answer: D
+
+Question 7:
+A mobile app company randomly selected 750 customers from a list of users who had purchased a premium fitness-tracking application. The selected users were given early access to a redesigned version of the app and were later asked whether they were satisfied with the update’s features. Of those surveyed, 68% reported that they were satisfied with the update. Which of the following inferences can appropriately be drawn from this survey result?
+
+A. At least 68% of all smartphone users will be satisfied with this update.  
+B. At least 68% of people who purchase mobile applications will be satisfied with this update.  
+C. Most people who did not purchase this fitness-tracking application will be dissatisfied with this update.  
+D. Most people who purchased this fitness-tracking application will be satisfied with this update.  
+Answer: D
+
+Question 8:
+During a livestream hosted by a well-known gaming channel, viewers were invited to vote in an online poll on the channel’s website about a proposed national policy on digital privacy. Later, the host reported that 19% of respondents voted “Support” and 76% voted “Oppose.” Which of the following best explains why these results are unlikely to represent the views of the entire United States population?
+
+A. The reported percentages do not add to 100%, so the results are automatically invalid.  
+B. The people who responded to the poll were not selected as a random sample of the United States population.  
+C. The results do not show a 50%–50% split between “Support” and “Oppose.”  
+D. The host did not provide enough time for viewers to respond to the poll.  
+Answer: B
+
+Question 9:
+To estimate the average number of movies watched per year by residents of a town, Lina surveyed 50 adults who were visiting the town’s largest movie theater. For the 50 adults surveyed, the mean number of movies watched per year was 18. Which of the following statements must be true?
+
+A. The mean number of movies watched per year by all residents of the town is 18.  
+B. No conclusion about the mean number of movies watched per year by town residents should be made because the sample size is too small.  
+C. The sampling method is flawed and may result in a biased estimate of the mean number of movies watched per year by residents of the town.  
+D. The sampling method is not flawed and is likely to produce an unbiased estimate of the mean number of movies watched per year by residents of the town.  
+Answer: C
+
+Question 10:
+In a study conducted in a wildlife reserve in California, a researcher randomly selected 90 pine trees that were 15 years old and randomly assigned them to two groups. Each group was treated with a different fertilizer for 3 consecutive years to study the effect on needle growth. Based on the design of the study, what is the largest group to which the results can be appropriately applied?
+
+A. All pine trees that are 15 years old in California  
+B. All pine trees that are 15 years old in this wildlife reserve  
+C. All 90 pine trees that were included in the study  
+D. All pine trees that are 18 years old in this wildlife reserve  
+Answer: B

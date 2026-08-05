@@ -1,0 +1,140 @@
+Question 1:
+[COE]
+Which choice best describes data from the graph that weaken the team’s hypothesis?
+
+In the United States, firms often seek incentives from municipal governments to expand to those municipalities. A team of political scientists hypothesized that municipalities are much more likely to respond to firms and offer incentives if expansions can be announced in time to benefit local elected officials than if they can't. The team contacted officials in thousands of municipalities, inquiring about incentives for a firm looking to expand and indicating that the firm would announce its expansion on a date either just before or just after the next election.
+
+
+
+A. A large majority of the municipalities that received an inquiry mentioning plans for an announcement before the next election didn’t respond to the inquiry.
+B. The proportion of municipalities that responded to the inquiry or offered incentives didn’t substantially differ across the announcement timing conditions.
+C. Only around half the municipalities that responded to inquiries mentioning plans for an announcement before the next election offered incentives.
+D. Of the municipalities that received an inquiry mentioning plans for an announcement date after the next election, more than 1,200 didn’t respond and only around 100 offered incentives.
+Answer: B
+
+Question 2:
+[COE]
+Which choice most effectively uses data from the graph to illustrate the claim?
+
+High levels of public uncertainty about which economic policies a country will adopt can make planning difficult for businesses, but measures of such uncertainty have not tended to be very detailed. Recently, however, economist Sandile Hlatshwayo analyzed trends in news reports to derive measures not only for general economic policy uncertainty but also for uncertainty related to specific areas of economic policy, like tax or trade policy. One revelation of her work is that a general measure may not fully reflect uncertainty about specific areas of policy, as in the case of the United Kingdom, where general economic policy uncertainty ______
+
+
+
+A. Aligned closely with uncertainty about tax and public spending policy in 2005 but differed from uncertainty about tax and public spending policy by a large amount in 2009.
+B. Was substantially lower than uncertainty about tax and public spending policy each year from 2005 to 2010.
+C. Reached its highest level between 2005 and 2010 in the same year that uncertainty about trade policy and tax and public spending policy reached their lowest levels.
+D. Was substantially lower than uncertainty about trade policy in 2005 and substantially higher than uncertainty about trade policy in 2010.
+Answer: D
+
+Question 3:
+[COE]
+Which choice most effectively uses data from the graph to complete the example?
+
+Geographer Adebayo Oluwole Eludoyin and his colleagues surveyed small-scale farmers in three locations in Ondo State, Nigeria—which has mountainous terrain in the north, an urbanized center, and coastal terrain in the south—to learn more about their practices, like the types of crops they mainly cultivated. In some regions, female farmers were found to be especially prominent in the cultivation of specific types of crops and even constituted the majority of farmers who cultivated those crops; for instance, _____
+
+
+
+A. Most of the farmers who mainly cultivated cereals and most of the farmers who mainly cultivated non-root vegetables in south Ondo were women.
+B. More women in central Ondo mainly cultivated root crops than mainly cultivated cereals.
+C. Most of the farmers who mainly cultivated non-root vegetables in north and south Ondo were women.
+D. A relatively equal proportion of women across the three regions of Ondo mainly cultivated cereals.
+Answer: C
+
+Question 4:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+In 2006, Nitya Kallivayalil and colleagues calculated the most accurate estimate yet of the average velocity (in kilometers per second) of the Large Magellanic Cloud (LMC) galaxy. Before the 2006 study, estimates of the average velocity were low enough for the LMC to maintain an orbit around the Milky Way galaxy, but according to an analysis by Gurtina Besla and colleagues, the estimated velocity from the 2006 study is too high for the LMC to maintain such an orbit. Therefore, if Besla and colleagues are correct, the maximum average velocity for the LMC that would allow it to maintain orbit around the Milky Way is likely _____
+
+
+
+A. Above 344 km/s but below 378 km/s.
+B. Above 297 km/s but below 344 km/s.
+C. Above 378 km/s.
+D. Below 297 km/s.
+Answer: A
+
+Question 5:
+[COE]
+Which choice most effectively uses data from the table to support the research team’s conclusion?
+
+Studying tools unearthed at a cave site on the western coast of Italy, archaeologist Paola Villa and colleagues have determined that prehistoric Neanderthal groups fashioned them from shells of clams that they harvested from the seafloor while wading or diving or that washed up on the beach. Clamshells become thin and eroded as they wash up on the beach, while those on the seafloor are smooth and sturdy, so the research team suspects that Neanderthals prized the tools made with seafloor shells. However, the team also concluded that those tools were likely more challenging to obtain, noting that _____
+
+
+
+A. At each depth below the surface in the cave, the difference in the numbers of tools of each type suggests that shells were easier to collect from the beach than to harvest from the seafloor.
+B. The highest number of tools were at a depth of 3-4 meters below the surface, which suggests that the Neanderthal population at the site was highest during the related period of time.
+C. At each depth below the surface in the cave, the difference in the numbers of tools of each type suggests that Neanderthals preferred to use clamshells from the beach because of their durability.
+D. The higher number of tools at depths of 5-6 meters below the surface in the cave than at depths of 4-5 meters below the surface suggests that the size of clam populations changed over time.
+Answer: A
+
+Question 6:
+[COE]
+Which choice most effectively uses data from the graph to complete the text?
+
+Research suggests that REM sleep in animals is homeostatically regulated: animals compensate for periods of REM sleep deprivation by increasing subsequent REM sleep. When on land, fur seals get enough REM sleep, but during the weeks they’re in the water, they get almost none. In a study of fur seals’ sleep habits, researchers recorded the REM sleep (as a percentage of baseline) of fur seals once they had returned to land. They concluded that REM sleep may not be homeostatically regulated in fur seals, citing as evidence the fact that the seals in the study _____.
+
+
+
+A. Didn’t show significantly less REM sleep during the second day after returning to land than they did during the first day.
+B. Showed no significant differences from one another in baseline levels of REM sleep.
+C. Didn’t consistently demonstrate a significant increase in REM sleep after their period of deprivation in the water.
+D. Showed no significant difference between REM sleep after returning to land and REM sleep while in the water.
+Answer: C
+
+Question 7:
+[COE]
+Which choice best describes data from the graph that support the researchers’ conclusion?
+
+Considering a large sample of companies, economics experts Maria Guadalupe, Julie Wulf, and Raghuram Rajan assessed the number of managers and leaders from different departments who reported directly to a chief executive officer (CEO). According to the researchers, the findings suggest that across the years analyzed, there was a growing interest among CEOs in connecting with more departments in their companies.
+
+
+
+A. The average numbers of managers and department leaders reporting directly to their CEO didn’t fluctuate from the 1991–1995 period to the 2001–2008 period.
+B. The average number of managers reporting directly to their CEO was highest in the 1996–2001 period.
+C. The average number of department leaders reporting directly to their CEO was greater than the average number of managers reporting directly to their CEO in each of the three periods studied.
+D. The average number of department leaders reporting directly to their CEO rose over the three periods studied.
+Answer: D
+
+Question 8:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+Over the past two hundred years, the percentage of the population employed in the agricultural sector has declined in both France and the United States, while employment in the service sector (which includes jobs in retail, consulting, real estate, etc.) has risen. However, this transition happened at very different rates in the two countries. This can be seen most clearly by comparing the employment by sector in both countries in ______
+
+
+
+A. 1900 with the employment by sector in 1950.
+B. 1800 with the employment by sector in 2012.
+C. 1900 with the employment by sector in 2012.
+D. 1800 with the employment by sector in 1900.
+Answer: A
+
+Question 9:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+Mycorrhizal fungi in soil benefit many plants, substantially increasing the mass of some. A student conducted an experiment to illustrate this effect. The student chose three plant species for the experiment, including two that are mycorrhizal hosts (species known to benefit from mycorrhizal fungi) and one nonmycorrhizal species (a species that doesn’t benefit from and may even be harmed by mycorrhizal fungi). The student then grew several plants from each species both in soil containing mycorrhizal fungi and in soil that had been treated to kill mycorrhizal and other fungi. After several weeks, the student measured the plants’ average mass and was surprised to discover that ______
+
+
+
+A. Broccoli grown in soil containing mycorrhizal fungi had a slightly higher average mass than broccoli grown in soil that had been treated to kill fungi.
+B. Corn grown in soil containing mycorrhizal fungi had a higher average mass than broccoli grown in soil containing mycorrhizal fungi.
+C. Marigolds grown in soil containing mycorrhizal fungi had a much higher average mass than marigolds grown in soil that had been treated to kill fungi.
+D. Corn had the highest average mass of all three species grown in soil that had been treated to kill fungi, while marigolds had the lowest.
+Answer: A
+
+Question 10:
+[COE]
+Which choice best describes data from the graph that support Taylor and colleagues’ conclusion?
+
+Perovskite solar cells convert light into electricity more efficiently than earlier kinds of solar cells, and manufacturing advances have recently made them commercially attractive. One limitation of the cells, however, has to do with their electron transport layer (ETL), through which absorbed electrons must pass. Often the ETL is applied through a process called spin coating, but such ETLs are fairly inefficient at converting input power to output power. André Taylor and colleagues tested a novel spray coating method for applying the ETL. The team produced ETLs of various thicknesses and concluded that spray coating holds promise for improving the power conversion efficiency of ETLs in perovskite solar cells.
+
+
+
+A. Both the ETL applied through spin coating and the ETL applied through spray coating showed a power conversion efficiency greater than 10% at their lowest performing thickness.
+B. The lowest performing ETL applied through spray coating had a higher power conversion efficiency than the highest performing ETL applied through spin coating.
+C. The highest performing ETL applied through spray coating showed a power conversion efficiency of approximately 13%, while the highest performing ETL applied through spin coating showed a power conversion efficiency of approximately 11%.
+D. There was a substantial difference in power conversion efficiency between the lowest and highest performing ETLs applied through spray coating.
+Answer: B
+

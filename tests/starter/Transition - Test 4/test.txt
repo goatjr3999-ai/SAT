@@ -1,0 +1,91 @@
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+Soursop is a popular fruit in Brazil, where it is eaten fresh or used in drinks and desserts. The fruit is high in antioxidants and vitamin C, which are known to have a variety of health benefits. ______ soursop is often recommended by doctors in Brazil to patients concerned about their health.
+
+
+A. Thus,
+B. Instead,
+C. Furthermore,
+D. For instance,
+Answer: A
+
+Question 2:
+[Infer]
+Which choice most logically completes the text?
+
+Though the musical groups Los Palominos and Banda Los Recoditos are often categorized under the catchall "regional Mexican music" label, they each adhere to distinct musical traditions. The former works within the tejano tradition, which originated in mid-twentieth-century Texas and northern Mexico. The latter, _____ follows the banda tradition, with roots in mid-nineteenth-century southern and central Mexico.
+
+
+A. therefore,
+B. to this end,
+C. however,
+D. in other words,
+Answer: C
+
+Question 3:
+[Infer]
+Which choice most logically completes the text?
+
+The Sun and other stars are powered by nuclear fusion reactions, in which two atoms collide to form a single heavier atom, releasing energy. Scientists have long believed that fusion has the potential to meet humanity’s clean energy needs. _____ prior to December 2022, no fusion reaction in a laboratory setting had ever generated a net energy gain.
+
+
+A. Specifically,
+B. For this reason,
+C. That said,
+D. Moreover,
+Answer: C
+
+Question 4:
+[Infer]
+Which choice most logically completes the text?
+
+Arkansas aviator Louise Thaden was already a record breaker when she won the inaugural National Women’s Air Derby, a race from California to Ohio, in August of 1929._____in December of 1928, Thaden had set an aviation record when she reached an altitude of 20,269 feet in a Travel Air biplane.
+
+
+A. Earlier,
+B. As a result,
+C. Next,
+D. However,
+Answer: A
+
+Question 5:
+[Infer]
+Which choice most logically completes the text?
+
+Most of the plant species newly cataloged in the high-altitude regions of the Andes are diminutive shrubs or mosses. In 2021, ____ botanists documented a towering tree-like specimen reaching over thirty feet in height. Dubbed the Andean Redwood, it is one of the tallest plants ever discovered in those mountains.
+
+
+A. Similarly,
+B. Still,
+C. Thus,
+D. For instance,
+Answer: B
+
+Question 6:
+[Infer]
+Which choice most logically completes the text?
+
+Jhumpa Lahiri’s story collection *Interpreter of Maladies* features multiple stories about romantic relationships. In “This Blessed House,” newlyweds argue over whether to replace items left by the previous owners of their new home. _____ in “A Temporary Matter,” a husband and wife attempt to rekindle their relationship during a four-night blackout.
+
+
+A. For example,
+B. Hence,
+C. Likewise,
+D. Granted,
+Answer: C
+
+Question 7:
+[Infer]
+Which choice most logically completes the text?
+
+In a lively debate in cryptography, experts are split between “encryption maximalists” and “key minimization advocates.” ______ some argue that robust encryption is the primary determinant of secure digital communication, while others maintain that streamlined key management is crucial. Researcher Alicia Ferrer sides with neither.
+
+
+A. In addition,
+B. Conversely,
+C. Likewise,
+D. That is,
+Answer: D
+

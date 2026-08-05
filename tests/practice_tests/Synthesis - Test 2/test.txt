@@ -1,0 +1,259 @@
+Question 1:
+[Synthesis]
+The student wants to create and support a generalization about sculpture. Which option most effectively uses relevant information from the notes to achieve this goal?
+
+While gathering information on a topic, a student made the following notes:
+• Solar Symphony is a 2010 sculpture by Mexican American artist Alejandro Ortega, showcasing an everyday moment (a person reading under sunlight).
+• Revolution’s Shadow is a 1995 sculpture by African American artist Ayanna Harris, conveying a political message (a protester holding a sign for justice).
+• Sculpting involves shaping materials like clay, metal, or stone to create three-dimensional art.
+• Artist Sarah Reynolds described sculpture as "accessible art," noting its ability to represent diverse themes.
+
+A. Sculptures can represent both ordinary moments, like a person reading under sunlight, and politically charged ones, like a protester holding a justice sign.
+B. Artist Sarah Reynolds described sculpture as “accessible art,” as it uses techniques to shape materials such as clay, metal, or stone into three-dimensional pieces.
+C. Ortega completed Solar Symphony in 2010, whereas Harris created Revolution’s Shadow earlier, in 1995.
+D. Instead of presenting an overt political statement, the sculpture Solar Symphony captures a serene, everyday moment of someone reading under sunlight.
+Answer: A
+
+Question 2:
+[Synthesis]
+The student wants to emphasize a difference between the two plants. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Most of the plant and bird species in Oahu, Hawaii, are non-native.
+• In a 2019 study, researchers wanted to know what role non-native birds play in dispersing plant seeds in Oahu.
+• Researchers catalogued plant seeds found in fecal samples from non-native birds.
+• Pipturus albidus, a flowering shrub, was one of fifteen native species catalogued.
+• Psidium cattleianum, a fruit tree, was one of twenty-nine non-native species catalogued.
+• Researchers concluded that non-native birds play a vital role in dispersing the seeds of native and non-native plants.
+
+A. Most plant species found in Oahu, Hawaii, like Psidium cattleianum, are non-native.
+B. Though Pipturus albidus and Psidium cattleianum can both be found in Oahu, Hawaii, only the former plant is native.
+C. A 2019 study catalogued plant seeds found in bird fecal samples in Oahu, Hawaii, to determine what role non-native birds play in seed dispersal.
+D. Seeds from Pipturus albidus and Psidium cattleianum plants were found in the fecal samples of non-native Hawaiian birds, according to a 2019 study.
+Answer: B
+
+Question 3:
+[Synthesis]
+The student wants to explain wind farms to a new audience. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Wind is a renewable energy source.
+• A wind farm uses turbines to convert wind into electrical power.
+• A wind farm’s maximum electrical output is called its nameplate capacity.
+• Hornsdale Wind Farm is located in Hornsdale, Australia.
+• Its nameplate capacity is 316 megawatts.
+
+A. Nameplate capacity is another name for a wind farm’s maximum electrical output.
+B. Hornsdale, Australia, is home to Hornsdale Wind Farm.
+C. Hornsdale Wind Farm, located in Hornsdale, Australia, has a nameplate capacity of 316 megawatts.
+D. Wind farms use turbines to generate electricity from a renewable energy source: the wind.
+Answer: D
+
+Question 4:
+[COE]
+Which choice most effectively uses information from the given sentences to explain plosive phonemes?
+
+• Linguists use phonemes to represent the smallest possible units of sound within a word.
+• In English, the phoneme /p/ has labial articulation, meaning it is produced with one or both lips, as in the word *pan*.
+• The phoneme /z/ has alveolar articulation, produced by placing the tongue against or near the roof of the mouth, as in the word *zoo*.
+• /p/ is *plosive*, a term for sounds in which air flow is at first fully blocked.
+• /z/ is *fricative*, a term for sounds in which air flow is partially blocked.
+
+A. The phoneme /p/, a unit of sound in which air flow is at first fully blocked, has labial articulation.
+B. The phoneme /p/ in the word pan is plosive and is produced using both lips.
+C. The linguistic term fricative is used for units of sound in which air flow is partially blocked.
+D. In linguistics, plosive is a term used for units of sound in which air flow is at first fully blocked.
+Answer: D
+
+Question 5:
+[Synthesis]
+The student wants to describe the process of relief printing. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Bread is a 1968 black-and-white linocut print by Black American artist Elizabeth Catlett.
+• It features a young girl eating a slice of bread.
+• Relief printing is a technique in which an image is first carved onto a printing block made of wood, rubber, or other materials.
+• The block is then painted and stamped onto a print surface.
+• Lino cutting is a type of relief printing that uses linoleum tile as the printing block.
+
+A. Relief printing is a technique that can use wood, rubber, and other materials as the printing block, not just linoleum tile.
+B. Catlett used a relief printing technique called lino cutting, carving an image onto linoleum tile.
+C. Catlett used relief printing to create the 1968 linocut Bread.
+D. In relief printing, an image is carved onto a printing block, which is then painted and pressed onto a print surface.
+Answer: D
+
+Question 6:
+[Synthesis]
+The student wants to contrast intaglio and relief printing. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Sheepshead Bay is a 1935 color relief print by Japanese American artist Isami Doi.
+• It features boats approaching a dock.
+• Intaglio and relief are printmaking techniques in which an image is carved onto a printing block, covered in ink, and stamped onto paper.
+• In intaglio printing, ink is applied to the grooved, carved portions of the block.
+• In relief printing, ink is applied to the raised, uncarved portions of the block.
+
+A. Relief printing is intaglio’s reverse: the ink is applied not to the carved grooves of the printing block but to its raised, uncarved portions.
+B. Relief printing, rather than intaglio, is the technique Doi used to depict boats approaching a dock in the 1935 work Sheepshead Bay.
+C. In contrast to relief printing, in which ink is applied to the uncarved portions of the block, intaglio printing uses the printing block to stamp the image onto paper.
+D. In both relief printing and intaglio, an image is carved onto a printing block, leaving grooves onto which ink is applied.
+Answer: A
+
+Question 7:
+[Synthesis]
+The student wants to emphasize a similarity between the two locations. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Sandvikens Gymnasieskola is in Sandviken, Sweden.
+• It is home to a Foucault pendulum.
+• The University of Oradea is in Oradea, Romania.
+• It is home to a Foucault pendulum.
+• A Foucault pendulum dangles from a fixed point that ensures the swing path of the pendulum doesn’t change.
+• To an observer, the swing path of a Foucault pendulum appears to change over time because Earth rotates beneath it.
+
+A. Sandvikens Gymnasieskola in Sandviken, Sweden, and the University of Oradea in Oradea, Romania, both house Foucault pendulums.
+B. Sandvikens Gymnasieskola, which is home to a Foucault pendulum, is in Sweden, not Romania.
+C. One Foucault pendulum is in Sweden, and the other is in Romania.
+D. Because Earth rotates beneath it, the swing path of the Foucault pendulum at Sandvikens Gymnasieskola appears to change over time.
+Answer: A
+
+Question 8:
+[Synthesis]
+The student wants to provide an example of a public service that Ixmiquilpan is responsible for. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Ixmiquilpan is a municipality in the state of Hidalgo, Mexico.
+• Municipalities are governmental regions responsible for providing many public services to their residents.
+• One service they provide is water treatment.
+• Ixmiquilpan’s population was 98,654 in 2020.
+• Hidalgo is divided into 84 municipalities.
+
+A. Ixmiquilpan is one of 84 municipalities in Hidalgo providing public services to their communities.
+B. Ixmiquilpan—a governmental region in the state of Hidalgo, Mexico—provides public services to its residents.
+C. As a municipality, Ixmiquilpan is responsible for providing water treatment to its residents.
+D. In 2020, the municipality of Ixmiquilpan had a population of 98,654.
+Answer: C
+
+Question 9:
+[Synthesis]
+The student wants to explain an advantage of the Spruce Tree House dwelling site. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Spruce Tree House is an Ancestral Puebloan dwelling site located in southwestern Colorado.
+• It was built under a rock overhang and inhabited from approximately 1200–1280 CE.
+• The overhanging rock ledges offered protection from heavy rain and snow.
+• Ansel Hall is an Ancestral Puebloan dwelling site located in southwestern Colorado.
+• It was built on relatively flat terrain and inhabited from approximately 1050–1160 CE.
+• This level surface allowed for the construction of large terraced buildings.
+
+A. Since it was built under a rock overhang, Spruce Tree House was naturally protected from heavy rain and snow.
+B. The location of Spruce Tree House, an Ancestral Puebloan dwelling site in southwestern Colorado, provided an advantage to its inhabitants.
+C. Located in southwestern Colorado, Spruce Tree House is an Ancestral Puebloan dwelling site that was inhabited from approximately 1200–1280 CE.
+D. The relatively flat terrain on which Spruce Tree House was built allowed for the construction of large terraced buildings.
+Answer: A
+
+Question 10:
+[Synthesis]
+The student wants to explain the implications of the discovery at the Saltville site. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The Clovis First hypothesis proposes that ancient humans known as Clovis were the first to populate North America.
+• The Clovis arrived around 13,000 years ago.
+• Stone tools found at the Saltville site in Virginia date to approximately 16,000 years ago.
+• These items support the idea that humans were present in North America before the Clovis population arrived.
+• More than a dozen North American sites containing pre-Clovis items have been identified.
+
+A. It is the contention of the Clovis First hypothesis that the Clovis, an ancient human population, were the first to inhabit North America, arriving around 13,000 years ago.
+B. Located in Virginia, Saltville is one of more than a dozen North American sites where pre-Clovis items have been discovered.
+C. The approximately 16,000-year-old stone tools found at Saltville, a site in Virginia, should not be overlooked; they have important implications for the Clovis First hypothesis.
+D. Contrary to the Clovis First hypothesis, the approximately 16,000-year-old stone tools found at Saltville suggest that humans were in North America before the Clovis arrived.
+Answer: D
+
+Question 11:
+[Synthesis]
+The student wants to specify the parts of a Foucault pendulum. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The Polytechnic in Gdańsk, Poland, is home to a Foucault pendulum.
+• The pendulum consists of a weighted ball that swings at the end of a roughly 26-meter-long cable.
+• Like all Foucault pendulums, it dangles from a fixed point that ensures the swing path of the pendulum doesn’t change.
+• To an observer, the swing path of a Foucault pendulum appears to change over time because Earth rotates beneath it.
+• Foucault pendulums are used as a simple way to provide evidence of Earth’s rotation.
+
+A. The Foucault pendulum at the Polytechnic in Gdańsk, Poland, includes a cable that is roughly 26 meters long.
+B. With a swing path that appears to change over time, a Foucault pendulum provides evidence of Earth’s rotation.
+C. Dangling from a fixed point, the Foucault pendulum at the Polytechnic consists of a cable with a weighted ball at the end.
+D. The swing path of the Foucault pendulum at the Polytechnic appears to change over time.
+Answer: C
+
+Question 12:
+[Synthesis]
+The student wants to emphasize a difference between the two sculptures. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Use the Future is a 1992 sculpture by Italian artist Maurizio Nannucci.
+• It consists of a yellow neon sign that spells out the title phrase.
+• Ginger is a 2023 sculpture by Japanese artist Rikako Kawauchi.
+• It consists of a pink neon sign that forms an abstract squiggle shape.
+• Neon signs became popular with advertisers in the 1920s and began to decline in popularity in the 1960s.
+• Neon signs became popular with artists in the 1960s and continue to be popular today.
+
+A. While the sculptures share a common material, one spells out a phrase while the other is decidedly more abstract.
+B. Molded into an evocative phrase in Use the Future (1992), an abstract form in Ginger (2023), and an advertising tool in decades past, neon lighting has a number of different applications.
+C. Italian artist Maurizio Nannucci's and Japanese artist Rikako Kawauchi's sculptures have employed neon signs in different ways, demonstrating the versatility of the popular material.
+D. Nannucci's sculpture was made in 1992 and Kawauchi's in 2023, both well after the advertising heyday of neon signs had ended.
+Answer: A
+
+Question 13:
+[Synthesis]
+The student wants to explain what a merchant vessel is and provide examples. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• A merchant vessel is any ship hired to carry cargo or passengers.
+• Common merchant vessels include bulk carriers, cruise liners, and oil tankers.
+• A vessel's carrying capacity is also known as its deadweight tonnage (DWT).
+• In 2021, there were a total of 1,236 merchant vessels registered in Greece.
+• The combined DWT of these vessels was 64.9 million tons.
+
+A. There were a total of 1,236 ships hired to carry cargo or passengers registered in Greece in 2021.
+B. The carrying capacity of bulk carriers, cruise liners, and oil tankers is measured in deadweight tonnage.
+C. A merchant vessel is any ship hired to carry cargo or passengers—like bulk carriers, cruise liners, and oil tankers.
+D. In total, Greece's 1,236 merchant vessels had a carrying capacity of 64.9 million tons in 2021.
+Answer: C
+
+Question 14:
+[Synthesis]
+The student wants to emphasize a similarity between the two NWRs. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The United States has designated more than 500 areas National Wildlife Refuges (NWRs).
+• Some NWRs were established specifically to protect endangered species.
+• The Bear Valley NWR is a 4,200-acre area in Oregon.
+• It was established to protect the endangered bald eagle.
+• The Ellicott Slough NWR is a 139-acre area in California.
+• It was established to protect the endangered Santa Cruz long-toed salamander.
+
+A. The US has designated more than 500 areas NWRs, including the Bear Valley NWR in Oregon.
+B. While the Bear Valley NWR extends across a 4,200-acre area, the Ellicott Slough NWR encompasses only 139 acres.
+C. Some NWRs, such as California’s Ellicott Slough, were established specifically to protect endangered species.
+D. Both the Bear Valley NWR and the Ellicott Slough NWR were established to protect endangered species.
+Answer: D
+
+Question 15:
+[Synthesis]
+The student wants to use a quotation to refute the claim that slow TV programs are boring. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Documentary TV programs in the slow TV genre consist of uninterrupted broadcasts of ordinary events in real time.
+• Reintyfing is a Norwegian slow TV program.
+• The 9-day-long program documented a wild reindeer migration from their winter to summer pastures.
+• 1st TV aired in 2017.
+• Slow TV has been called “the world’s most boring television.”
+• American journalist Nathan Heller praises it, writing that “it affords a visceral kind of armchair tourism.”
+
+A. While some have praised slow TV for affording “a visceral kind of armchair tourism,” others have called it “the world’s most boring television.”
+B. “Far from boring, slow TV programs can provide a visceral kind of armchair tourism,” as Heller puts it, whereby viewers can watch reindeer migrations in real time.
+C. With broadcasts of ordinary events, like reindeer migrations, occurring in real time, slow TV just might be “the world’s most boring television.”
+D. Reintyfing can afford a “visceral kind of armchair tourism,” as Heller puts it.
+Answer: B
+

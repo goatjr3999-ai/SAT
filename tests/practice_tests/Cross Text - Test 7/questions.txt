@@ -1,0 +1,269 @@
+Question 14:
+Based on the texts, both authors would most likely agree with which statement?
+
+Text 1
+According to a study by a conservation group representing 11 tribal nations in the Great Lakes region, the northern wild rice (manoomin in the Ojibwe language) will have significantly worse outcomes over the next 50 years if temperatures increase as much as some models suggest. By contrast, the white-tailed deer (waawaashkeshi in Ojibwe) should be able to withstand the highest predicted warming without much harm and so likely won’t require the conservation efforts that the northern wild rice will.
+Text 2
+US government agencies involved in conservation are unfortunately not able to address every possible threat to natural resources. They must use the best information available to decide which species are most threatened and therefore most in need of conservation efforts.
+
+
+A. State, federal, and tribal groups involved in natural-resource management in the Great Lakes region should immediately begin conservation programs for both the northern wild rice and white-tailed deer.
+B. Agencies involved in natural-resource management in the Great Lakes region should focus their conservation efforts more on the northern wild rice than on the white-tailed deer.
+C. A collaborative approach is necessary to keep temperatures in the Great Lakes region from increasing to the highest predicted levels.
+D. Conservation efforts focused on the northern wild rice are more likely to be successful if they incorporate state and federal agency resources with the knowledge of tribal groups in those efforts.
+Answer: B
+
+Question 43:
+Which choice best describes a difference in what the author of Text 1 and the author of Text 2 believe about female birdsong?
+
+**Text 1** 
+For decades, ornithologists assumed that if they saw a singing Cassin’s finch—a bird species found in temperate North America—they must be observing a male trying to attract a mate or claim territory. As Peter J. B. Slater and Nigel I. Mann have emphasized, however, a similar assumption can’t be made about birds in the tropics, where females sing as often as males do. Slater and Mann call for more research on this discrepancy between tropical and temperate female birdsong.
+**Text 2** 
+Recent evidence shows that a female Cassin’s finch is as capable of song as a male is. In fact, female birdsong is more common among temperate species than currently assumed, claim Evangeline Rose and colleagues. These female songbirds sing less frequently than males do, and in duller tones, making it “easy for researchers to miss the quiet and hidden females and focus on the loud and colorful males,” says Rose.
+
+
+A. The author of Text 2 thinks that among tropical species, females sing less frequently than males do, whereas the author of Text 1 thinks that females sing as frequently as males do.
+B. The author of Text 2 would likely disagree with the author of Text 1 about whether it can be assumed that females of temperate species don’t sing.
+C. The author of Text 2 believes that female birdsong is much more common among tropical species than the author of Text 1 believes.
+D. The author of Text 2 would likely reject the claim by the author of Text 1 that among tropical birds, females sing as frequently as males do.
+Answer: B
+
+Question 52:
+The author of Text 1 and the author of Text 2 both discuss which topic?
+
+Text 1:
+Scientists can learn a lot about the Hispaniolan ground sloth and other prehistoric sloths from their fossils. But it can be hard to study sloths alive today. In the wild, the Linnaeus’s two-toed sloth and other sloths spend most of their time in trees. They’re difficult to observe because of their excellent camouflage and slow movements.
+Text 2:
+Rebecca Cliffe and other scientists can now record the previously hidden activities of tree-dwelling sloths by using a backpack monitor. Such monitors can provide information to correct misconceptions. It was long believed that sloths are slow because of laziness. But, in fact, sloths’ slow movements are useful. Being slow protects them from predators with keen eyesight.
+
+
+A. The scientific study of sloths.
+B. How climate change affects sloths.
+C. The techniques scientists use to care for sloths.
+D. The differences between prehistoric and living sloths.
+Answer: A
+
+Question 3:
+Which choice best describes a difference in how the authors of the texts view the benefits of being named a City of Gastronomy?
+
+Text 1:
+In 2015 Parma, Italy, was named a City of Gastronomy by UNESCO in recognition of the city’s unique food culture. The honor is well known among both residents of the city and tourists who visit. Simply by selecting Parma, UNESCO has helped bring awareness to local recipes, cooking practices, and chefs and has provided a significant boost to the city’s tourism industry.
+Text 2:
+Many people in Parma’s restaurant industry hoped that food tourism would increase after the city was chosen as a City of Gastronomy in 2015. However, as researcher Leang Park and colleagues argue, cities must still create effective marketing strategies to benefit fully from being named a City of Gastronomy. Without the intentional effort that was made to promote the city’s food scene, many current and potential visitors to Parma would not even be aware that it’s home to uniquely delicious food.
+
+
+A. The author of Text 1 considers the effects of Parma’s City of Gastronomy status to be less permanent than the author of Text 2 considers them to be.
+B. The author of Text 1 assumes that a city’s restaurant owners and chefs are most likely to benefit from a city being named a City of Gastronomy, but the author of Text 2 states that the honor most benefits tour guides and tour operators.
+C. The author of Text 1 states that the benefits are automatic, while the author of Text 2 states that effort is required to fully achieve the benefits.
+D. The author of Text 1 views Parma’s status as a City of Gastronomy as having been beneficial for the city, but the author of Text 2 questions whether there’s been a benefit.
+Answer: C
+
+Question 28:
+Based on the texts, how would the author of Text 2 most likely answer the underlined question in Text 1?
+
+Text 1
+ Yale University and the investment bank JPMorgan Chase are two of the many institutions offering training programs in entrepreneurship. __But what results do such programs produce?__ In a study of college students in Sweden, researcher Ove Hansemark addressed this question and found that participants showed strong belief in their entrepreneurial capabilities after receiving entrepreneurial training.
+Text 2
+ While studies of entrepreneurial training typically report positive results, a close look at these studies reveals widespread methodological shortcomings. For instance, a 1998 study by Ove Hansemark found benefits of entrepreneurial education for Swedish college students, but the study used a very small sample of only 19 students, making it difficult to say whether the training actually had an effect.
+
+
+A. Although the programs may seem to produce positive results, close analysis of studies of the programs shows that they produce negative results just as frequently.
+B. It is unknown what results the programs produce because studies of them are often designed in ways that do not allow for definitive conclusions.
+C. Most of the programs do not actually produce positive results even though program participants tend to regard them as beneficial.
+D. The programs tend to produce inconsistent results because they vary substantially in their methods and aims.
+Answer: B
+
+Question 38:
+Based on the texts, Malone et al. (Text 2) would most likely agree with which statement about the "approach" described in Text 1?
+
+Text 1
+ Livestock farming and other human activities are significant sources of atmospheric methane (CH₄), but, as Wenxue Ding and colleagues have shown, so too are naturally occurring emissions from sources like peatlands. The team found that a "bottom-up" approach to monitor given natural sources' variability and spatial diffusion, but one promising __approach__ is to use CH₄ flux data from extant monitoring infrastructure as proxies for CH₄ fluxes in unmonitored areas.
+Text 2
+ Sparkle Malone and colleagues examined the United States' network of eddy covariance (EC) towers—the equipment used to track CH₄ fluxes—to evaluate the utility of network data for quantifying biogenic CH₄. Malone et al. found that EC towers are disproportionately concentrated in areas where biogenic CH₄ emissions are known to be elevated, a pattern that seriously compromises the representativeness of network data.
+
+
+A. It could compromise the accuracy of the biogenic CH₄ emissions data that EC towers collect in areas with elevated emissions.
+B. It may suggest that biogenic CH₄ emissions in unmonitored areas are higher than they actually are.
+C. It would only be viable if the EC towers monitoring biogenic CH₄ emissions could detect smaller fluxes than they can at present.
+D. It is likely to be useful for determining biogenic CH₄ emissions in unmonitored areas of some regions but not of most regions.
+Answer: B
+
+Question 6:
+Based on the texts, how would the author of Text 2 most likely respond to the underlined claim in Text 1?
+
+Text 1
+In 1995, James Cameron directed *Titanic*, a movie depicting the tragic sinking of the RMS Titanic. Since its release, *Titanic* has become a staple of film history and is frequently re-released in theaters. __However, the movie feels outdated, with an old-fashioned narrative and themes that no longer resonate with modern audiences__. For cinema to maintain its relevance, filmmakers need to create new classics instead of relying on dated productions.
+Text 2
+ While *Titanic* may seem antiquated, it remains a beloved film that continues to attract audiences and generate significant revenue for theaters. Even if the movie’s story feels dated, there are innovative ways to revitalize its appeal. For instance, Baz Luhrmann successfully reimagined classic narratives in his unique style. A modern adaptation of *Titanic*, incorporating updated perspectives and cinematic techniques, could similarly appeal to contemporary viewers.
+
+
+A. By challenging the notion that Titanic is outdated and disagreeing with the claim that reimagined versions wouldn’t appeal to today’s viewers.
+B. By agreeing that modern audiences have mostly lost interest in Titanic because it is too old-fashioned.
+C. By arguing that modernized versions of Titanic could help theaters increase their revenue while maintaining the film’s appeal.
+D. By suggesting that filmmakers should focus on reimagining Titanic for current audiences rather than discarding the film entirely.
+Answer: D
+
+Question 35:
+Based on the texts, how would Lorde (Text 1) most likely respond to the argument presented in Text 2?
+
+Text 1
+ The poet Audre Lorde once claimed that poetry is the most inexpensive of art forms to practice. While people who pursue other art forms—sculpture, film, long-form prose—require large blocks of uninterrupted time as well as money to complete their work, poets can write, as Lorde said, “between shifts, in the hospital pantry, on the subway, and on scraps of surplus paper.” So poets can practice their art even if they must earn their living in another way.
+Text 2
+ Any assessment of the state of contemporary poetry must reckon with the professionalization of the field. While it is possible in theory for anyone to publish in *AGNI*, *Ploughshares*, or a similar major poetry outlet, many people who do so have professional training in poetry and extensive practice writing it, which requires time not often available to those who must also work full-time jobs. Thus, financial security indirectly affects which people become poets.
+
+
+A. By indicating that those artists who specialize in more financially rewarding artistic forms are unlikely to also be successful as poets
+B. By suggesting that those poets who publish in major poetry journals are most likely to be able to earn a living by writing poetry
+C. By pointing out that people can gain experience writing poetry while also working full-time jobs
+D. By mentioning that people often work full-time jobs in order to afford professional training in writing poetry
+Answer: C
+
+Question 44:
+Taken together, Text 1 and Text 2 best support which statement about the clades of leaf beetles and Pycnandraplants on Grande Terre?
+
+Text 1
+The land that became Grande Terre island split from remnants of the former supercontinent Gondwana approximately 80 million years ago, carrying Gondwanan biota with it and experienced periodic submersion until 37 million years ago. Some researchers posit that the island’s current biota includes members of Gondwanan clades (i.e., clades predating the split) that persisted by seeking temporary refuge on nearby islands during submergence events.
+Text 2
+In a recent study, Anna Papadopoulou et al. found that the crown age—the age of the most recent common ancestor of all species in the clade (i.e., the clade’s founder)—is 59.9 million years for Grande Terre’s clade of leaf beetles. Most of the island’s extant biota belong to clades with younger crown ages, however: Igor V. Bartish et al. found that the crown age of Grande Terre’s clade of *Pycnandra* plants is 22.9 million years, for example.
+
+
+A. The clade of leaf beetles originated before Grande Terre split from Gondwana, whereas the clade of Pycnandra plants originated after the split but before the periodic submergence events began.
+B. The clade of leaf beetles must have originated on Gondwana, but the clade of Pycnandra plants may or may not have.
+C. Neither the clade of leaf beetles nor the clade of Pycnandra plants originated on Gondwana.
+D. Both the clade of leaf beetles and the clade of Pycnandra plants originated elsewhere and colonized Grande Terre.
+Answer: C
+
+Question 7:
+Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree with which statement?
+
+Text 1
+In separate studies, Stephen Meding and Robert J. Zasoski and Xinhua He and colleagues examined whether plants transfer nutrients to one another using a common mycorrhizal network (CMN)—a lattice of fungal strands in the soil. Meding and Zasoski excluded all pathways other than the CMN by using barriers to keep the plants’ root systems separate while allowing mycorrhizal strands through—a crucial step He and colleagues’ study did not take.
+Text 2
+ Meding and Zasoski took the necessary precaution of separating the plants’ root systems (thereby excluding root-to-root transmission). However, any barrier used must allow the thread-like hyphae of a CMN to pass through, and this permeability would also allow liquids through. Thus, the researchers’ experimental design cannot ensure that any nutrient transfer observed can be attributed to a CMN and not to some other pathway.
+
+
+A. The barriers used in Meding and Zasoski’s study effectively excluded root-to-root transmission of nutrients.
+B. A barrier that is impervious to both roots and fungal strands is necessary to evaluate nutrient transfer via a CMN.
+C. Excluding root-to-root transfer of nutrients between plants is sufficient to ensure that any observed nutrient transfer must involve a CMN.
+D. He and colleagues’ study did not find convincing evidence of nutrient transfer between individual plants.
+Answer: A
+
+Question 9:
+Based on the texts, both authors would most likely agree with which statement?
+
+Text 1
+A conservation group representing 11 tribal nations in the Great Lakes region reported to various state and federal natural resources agencies operating in the region that the northern wild rice plant (manoomin in the Ojibwe language) will likely fare significantly worse than the American crow (aanagé in Ojibwe) due to rising temperatures over the next 50 years. This collaborative approach has helped build trust between government and tribal groups, which will likely improve the quality of any joint conservation projects.
+Text 2
+State and federal natural resources agencies are increasingly incorporating traditional ecological knowledge from tribal groups in the agencies' plans to address threats to natural resources due to increasing temperatures. This approach has helped build positive relationships between tribal groups and these agencies and furthermore tends to lead to better conservation outcomes.
+
+
+A. A collaborative approach to conservation is likely to help reduce the predicted temperature increases in the Great Lakes region.
+B. In the Great Lakes region, conservation efforts focused on the northern wild rice plant are likely to be more effective than those focused on the American crow.
+C. Natural resources conservation projects are likely to benefit from collaboration between tribal and government groups.
+D. In the Great Lakes region, it is more important to focus conservation efforts on the northern wild rice plant than it is to focus on the American crow.
+Answer: C
+
+Question 15:
+Based on the texts, both authors would most likely agree with which statement?
+
+Text 1
+In 2015 Rasht, Iran, was named a City of Gastronomy by UNESCO in recognition of the city’s unique food culture. The honor is well known among residents of the city as well as tourists who visit. It’s obvious that the selection of Rasht by UNESCO has brought awareness to local recipes, cooking practices, and chefs and has provided a boost to the city’s tourism industry.
+Text 2
+Many people in Rasht’s restaurant industry hoped that food tourism would increase after the city was chosen as a City of Gastronomy in 2015. However, as researcher Eerang Park and colleagues argue, cities must still create effective marketing strategies to benefit fully from being named a City of Gastronomy. Without an intentional effort to promote the city’s food scene, many current and potential visitors to Rasht may not even be aware that it’s home to uniquely delicious food.
+
+
+A. The benefits of Rasht having been named a City of Gastronomy extend well beyond increased tourism.
+B. Increased tourism isn’t guaranteed after a city has been named a City of Gastronomy.
+C. A city’s food scene can benefit from the city being named a City of Gastronomy.
+D. A significant number of visitors to Rasht may not know that it was named a City of Gastronomy.
+Answer: C
+
+Question 16:
+Based on the texts, the author of Text 2 would most likely agree with which statement about the description of the first showing of The Digital Sphere in Text 1?
+
+Text 1: 
+When the groundbreaking computer animation *The Digital Sphere*, which showcases a vividly rendered 3D object spinning in space, was first shown publicly in 1995, audiences, unfamiliar with such hyper-realistic digital effects, reportedly gasped in amazement, some even shielding their eyes from the dazzling visuals. This moment marked a significant cultural shift: a revolutionary form of visual storytelling had arrived, changing the way we perceive technology and art forever.
+Text 2: 
+There is little concrete evidence to suggest that early audiences of *The Digital Sphere* reacted as dramatically as the popular story claims. However, this narrative persists, even among media historians, as it reflects a broader belief in the transformative power of digital technology. The enduring myth underscores a tendency to divide technological history into a simplistic “before” and “after,” reinforcing the idea that early digital creations shocked and awed an unsuspecting world.
+
+
+A. It is not supported by evidence and reflects media historians’ belief in their intellectual superiority over modern audiences.
+B. It portrays an exaggerated view of the impact of digital technology that media historians often find simplistic.
+C. It stems more from the perception of digital media’s importance than from verifiable historical facts.
+D. It perpetuates a misunderstanding widely accepted because it captures the astonishment early audiences felt toward emerging digital effects.
+Answer: C
+
+Question 18:
+Based on the texts, the author of Text 2 would most like to know the answer to which question about Galloway and Brown's study that is not addressed in Text 1?
+
+Text 1:
+The University of Pennsylvania and the investment bank Barclays are two of the many institutions offering training programs in entrepreneurship. But what results do such programs produce? In a study of business students and graduates in Scotland, researchers Laura Galloway and Wendy Brown addressed this question and reported that participants who received entrepreneurial training showed strong intentions to become entrepreneurs.
+Text 2:
+While studies of entrepreneurial training typically report positive results, a close look at these studies reveals widespread methodological shortcomings. This research literature is plagued by unclear hypotheses, insufficient sample sizes, a lack of control groups, and failures to establish pretraining baselines for the measured attributes of participants.
+
+
+A. Did the participants that Galloway and Brown included in the study share any characteristics or life circumstances?
+B. How many Scottish business students and graduates did Galloway and Brown include in the study?
+C. Did Galloway and Brown measure any attributes of the participants in the study after they had received the training?
+D. Did Galloway and Brown compare Scottish business students and graduates who received the training with a group of successful entrepreneurs who did not receive the training?
+Answer: B
+
+Question 48:
+Based on the texts, the author of Text 1 and the author of Text 2 would most likely disagree about the answer to which question?
+
+Text 1
+Brown University and the investment bank Barclays are two of the many institutions offering training programs in entrepreneurship. But what results do such programs produce? In a study of business school graduates in Norway, researchers Lars Kolvereid and Øystein Moen addressed this question and convincingly demonstrated that participants showed strong intentions to become entrepreneurs as a result of receiving entrepreneurial training.
+Text 2
+While studies of entrepreneurial training typically report positive results, a close look at these studies reveals widespread methodological shortcomings. For instance, a 1997 study by Lars Kolvereid and Øystein Moen found benefits of entrepreneurial education for graduates of Norwegian business schools, but the study only collected data on subjects after the training, not before, making it unclear whether the training actually had an effect.
+
+
+A. Is the cost of conducting entrepreneurial training programs typically offset by the programs’ benefits?
+B. Did Kolvereid and Moen’s study provide persuasive evidence that its results are attributable to the entrepreneurial training participants received?
+C. Did Kolvereid and Moen report that participants who received the entrepreneurial training showed strong intentions to become entrepreneurs?
+D. Are there convincing experimental results showing that different types of entrepreneurial training programs are associated with different outcomes?
+Answer: B
+
+Question 2:
+Based on the texts, how would Rubayet Bin Mostafiz and colleagues (Text 2) most likely respond to the information presented in Text 1?
+
+Text 1:
+In northern and western Nebraska, many buildings and other structures rest on soil that is expansive, meaning that it swells or shrinks as its moisture level changes. Civil engineer Jay X. Wang has noted that the effects of expansive soil appear slowly in the form of gradually growing cracks in foundations, walls, and pavements. Because these effects are incremental and can generally be repaired (though at some cost), structures in northern and western Nebraska are typically not built to resist them.
+Text 2:
+In a 2021 study, Rubayet Bin Mostafiz and colleagues calculated that in the state of Louisiana alone, the annual cost of damage caused by expansive soils reaches nearly $90 million. But they note that this damage can be mitigated: building structures on pile supports can significantly reduce the effects of soil swelling and shrinking.
+
+
+A. They would recommend that engineers in northern and western Nebraska measure the moisture level in the soil beneath proposed structures before beginning construction.
+B. They would argue that engineers in northern and western Nebraska have misjudged the effectiveness of the techniques they use to reduce the effects of expansive soil.
+C. They would encourage engineers in northern and western Nebraska to use pile supports when building new structures.
+D. They would suggest that engineers in northern and western Nebraska consider the cost of replacing the pile supports on which existing structures rest.
+Answer: C
+
+Question 8:
+Based on the texts, how would the author of Text 2 most likely respond to the evaluation of Asimov's writing style in the underlined claim in Text 1?
+
+Text 1
+__Isaac Asimov, author of The Naked Sun and The Stars, Like Dust, is highly regarded despite his mediocre writing style. His prose is workmanlike; his characters are flat and discuss ideas rather than emotions__. That his work is enjoyable despite this is a testament to his prodigious imagination—even if people read his books only for the ideas, they will have plenty to consider.
+Text 2
+Asimov is critiqued for his style, but it is wrong to fault a writer for failing to do what he never intended to do. For example, Asimov's foundational novel Foundation consists of people discussing science and politics and we find out little about his characters' lives. Asimov wanted to convey the vast sweep of human history over centuries, and one of his points is that at such a timescale, individuals don't matter. Thus his lack of characterization is central to Asimov's thematic aims.
+
+
+A. By pointing out that the flatness of Asimov's characters is a feature of The Naked Sun and The Stars, Like Dust but not of Foundation
+B. By arguing that Asimov's writing style should be judged against the styles of historians rather than those of fiction writers
+C. By agreeing that Asimov's prose is flawed but disagreeing about the quality of his characters
+D. By asserting that Asimov's minimal characterization is likely a conscious choice that helps him convey an important idea
+Answer: D
+
+Question 41:
+Based on the texts, how would the author of Text 2 respond to the analysis of cognitive theories presented in Text 1?
+
+Text 1
+ Cognitive theories of psychology are focused on internal states such as motivation, problem-solving, decision-making, thinking, and attention. Such theories strive to explain different mental processes, including how the mind processes information and how our thoughts lead to certain emotions and behaviors. In other words, cognitive theory suggests that the human mind is like a computer that is constantly processing and encoding data.
+Text 2
+ While cognitive theories of psychology have revealed valuable insights into how the mind works, cognitive psychologists posit and require that cognitive states are necessarily subjective and not amenable to scientific study. This restriction from empirical observation, a quintessential element of scientific study, poses a serious impediment to any trained scientist. Further, as researchers within cognitive psychology often conduct their settings in a “false” setting, their studies lack ecological validity. That is, the environment of their study is not reflective of the real world.
+
+
+A. By accepting the usefulness of cognitive theories and illustrating this premise with an example
+B. By admitting a merit of cognitive theories as well as highlighting their limitations
+C. By asserting cognitive theories are completely unsupported by scientific evidence and offer no benefits
+D. By appreciating the usefulness of cognitive theories and criticizing the critiques of these theories
+Answer: B

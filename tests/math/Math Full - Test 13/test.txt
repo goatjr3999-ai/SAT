@@ -1,0 +1,178 @@
+Question 1:
+In triangle DEF, the measure of angle D is 30* and the measure of angle E is 115. In triangle RST, the measure of angle R is 30* and the measure of angle S is 115. Which of the following additional pieces of information is needed to determine whether triangle DEF is similar to triangle RST?
+
+A. The measure of angle F
+B. The measure of angle T
+C. The measure of angle F and the measure of angle T
+D. No additional information is needed.
+Answer: D
+
+Question 2:
+A set designer is hammering nails along the top edge of a wall with a length of 3x feet, where x is an integer, that will be used to hang garland. The designer hammers the first nail at the left edge of the wall. The designer then hammers an additional nail every {{MATH_1}} feet along the entire length of the wall, starting from the first nail and with the last nail being hammered at the right edge of the wall. Which equation best represents this situation, where y is the number of nails the designer hammers along the entire length of the wall?
+
+A. {{MATH_2}}
+B. {{MATH_3}}
+C. {{MATH_4}}
+D. {{MATH_5}}
+Answer: D
+
+Question 3:
+
+A chemist combines water and isopropanol to make a mixture with a volume of 45 milliliters (mL). The volume of isopropanol in the mixture is 10 mL. What is the volume of water, in mL, in the mixture? (Assume that the volume of the mixture is the sum of the volumes of water and isopropanol before they were mixed.)
+
+Answer: 35
+
+Question 4:
+The scatterplot shows the relationship between {{MATH_6}}and {{MATH_7}} for the 9 data points in data set A. A quadratic model for the data in data set A can be written as {{MATH_8}}The graph of this model is shown in the {{MATH_9}}plane. The data point at {{MATH_10}} was found to be the result of a recording error and was removed from data set A to create data set B, consisting of the remaining 8 data points. A quadratic model for the data in data set B can be written as {{MATH_11}} where {{MATH_12}} and {{MATH_13}} are constants. If the quadratic models for data sets A and B are calculated in the same way, which of the following statements must be true?
+I.{{MATH_14}}
+II. {{MATH_15}}
+
+A. I only
+B. II only
+C. I and II
+D. Neither I nor II
+Answer: C
+
+Question 5:
+The function {{MATH_16}} is defined by {{MATH_17}} where {{MATH_12}} and {{MATH_13}} are constants, {{MATH_18}} and {{MATH_19}} The graph of {{MATH_20}}in the {{MATH_21}}-plane passes through the points {{MATH_22}} and {{MATH_23}}and has a {{MATH_7}}-intercept of 66. For all real values of {{MATH_6}}, {{MATH_24}}, where {{MATH_25}} is a constant. What is the greatest possible value of {{MATH_26}}
+
+Answer: 12
+
+Question 6:
+For a certain type of rope, the equation {{MATH_27}} gives the estimated breaking strength {{MATH_28}}, in pounds, of a rope with a circumference of {{MATH_29}} inches. Based on this equation, if a rope of this type has a circumference of {{MATH_30}} inches, it has an estimated breaking strength of {{MATH_31}} pounds. What is the estimated breaking strength, in pounds, of a rope of this type that has a circumference of {{MATH_32}} inches?
+
+Answer: 50700
+
+Question 7:
+The function {{MATH_33}} gives a toy car-s height above the ground f(x), in inches, x seconds after it started moving on an elevated track, where {{MATH_34}}. Which of the following is the best interpretation of the vertex of the graph of {{MATH_20}} in the xy-plane?
+
+A. The toy car-s minimum height was 4 inches above the ground.
+B. The toy car-s minimum height was 6 inches above the ground.
+C. The toy car-s height was 4 inches above the ground when it started moving.
+D. The toy car-s height was 6 inches above the ground when it started moving.
+Answer: A
+
+Question 8:
+The dot plot shows the distribution of capacity for a set of capacitors, set A, which a researcher used for a certain experiment. For another experiment, the researcher used a different set of capacitors, set B. Set B has the same number of capacitors as set A but the capacity of each capacitor of set B is 14 microfarads (uF) greater than the capacity of each respective capacitor in set A. Which of the following is true about the capacities of the capacitors in set B?
+
+A. The mean capacity is 10 uF, and the range of capacities is 12 uF.
+B. The mean capacity is 10 uF, and the range of capacities is 26 uF
+C. The mean capacity is 24 uF, and the range of capacities is 12 uF.
+D. The mean capacity is 24 uF, and the range of capacities is 26 uF.
+Answer: C
+
+Question 9:
+The graph shows the total amount of rainfall y, in centimeters, from the start of a 10-hour period, where x is the number of hours after the start of the period. What was the average rate of change of the total amount of rainfall over time, in centimeters per hour, from x = 0 to x = 5 (điền đ-p -n dạng ph-n số)?
+
+Answer: 3/5
+
+Question 10:
+
+A cube has a volume of 79,507 cubic units. What is the surface area, in square units, of the cube?
+
+Answer: 11094
+
+Question 11:
+
+A circle is inscribed in a square such that the circumference of the circle touches the midpoint of each side of the square. The length of the diagonal of the square is 176 units. What is the area, in square units, of the circle?
+
+A. 3,872{{MATH_70}}
+B. 7,744{{MATH_70}}
+C. 15,488{{MATH_70}}
+D. 30,976{{MATH_70}}
+Answer: A
+
+Question 12:
+A researcher is modeling the population of a certain species of bacteria. The population, P, in thousands, after t hours of observation in a controlled environment is given by the logistic function: P(t) = 200 / (1 + 3 * e^{-0.25t}) where the carrying capacity of the environment is 200,000 bacteria.
+Which of the following is the best interpretation of the number 50 in this context?
+
+A. 50 is the initial population of the bacteria, in thousands.
+B. 50 is the time, in hours, it takes for the population to reach the carrying capacity.
+C. 50 is the population of the bacteria, in thousands, after 4 hours.
+D. 50 is the rate of growth of the bacteria population, in thousands per hour.
+Answer: A
+
+Question 13:
+In the xy-plane, a parabola has its vertex at (6, -10) and a y-intercept at (0, 8). If the parabola intersects the x-axis at two distinct points, (x₁, 0) and (x₂, 0), what is the distance between these two x-intercepts?
+
+A. 2{{MATH_35}}
+B. 10
+C. 3{{MATH_36}}
+D. 4{{MATH_35}}
+Answer: D
+
+Question 14:
+When the quadratic function 𝑓 is graphed in the 𝑥𝑦-plane, where 𝑦 = 𝑓(𝑥), its vertex is (8.5,−20.25), one of the 𝑥-intercepts of this graph is (4, 0). If 𝑔(𝑥) = 𝑓(𝑥) − 17, what is the 𝑦-intercept of 𝑔(𝑥)? (Dùng desmos)
+
+Answer: 35
+
+Question 15:
+The graph of the quadratic function y=f(x) in the xy-plane has its maximum value at the point (c,18), where c is a constant. The graph intersects the x-axis at the points (p,0) and (q,0). If q−p=6 and the y-intercept of the graph is (0,−14), what is the positive value of c?
+
+Answer: 4
+
+Question 16:
+A group of x Rosa sericea flowers and y Rosa carolina flowers has a total of 71 petals. In this group, each Rosa sericea flower has 4 petals and each Rosa carolina flower has 5 petals. The equation 4x + 5y = 71 represents this situation. If there are 9 Rosa sericea flowers in this group, how many Rosa carolina flowers are in this group?
+
+A. 7
+B. 35
+C. 36
+D. 62
+Answer: A
+
+Question 17:
+How many times does the graph of the given equation in the {{MATH_37}}-plane cross the x-axis, where a, b, and e are positive constants such that {{MATH_38}} and {{MATH_39}}? 
+{{MATH_40}}
+
+A. Zero
+B. One
+C. Two
+D. Three
+Answer: B
+
+Question 18:
+An employee earns $30 per hour for the first 40 hours worked in a week. For each hour worked over 40 hours, the employee earns $45 per hour. What is the least number of whole hours that the employee must work in a week to earn at least $1,610?
+
+A. 50
+B. 49
+C. 10
+D. 9
+Answer: A
+
+Question 19:
+Which expression is equivalent to
+{{MATH_41}}?
+
+A. {{MATH_42}}
+B. {{MATH_43}}
+C. {{MATH_44}}
+D. {{MATH_45}}
+Answer: C
+
+Question 20:
+The graph of the quadratic function {{MATH_46}} in the {{MATH_47}}plane has a maximum value of 14 at {{MATH_48}}The line{{MATH_49}} intersects the graph of {{MATH_46}} at two distinct points, and the distance between these two points is 6. The graph of {{MATH_50}}has a {{MATH_51}}intercept at {{MATH_52}} The function {{MATH_53}}is defined by {{MATH_54}}and its graph has a {{MATH_51}}intercept at {{MATH_55}}What is the positive difference between {{MATH_56}} and {{MATH_57}}
+
+A. 577
+B. 579
+C. 581
+D. 583
+Answer: C
+
+Question 21:
+In the given equation, b and c are positive constants. The equation has more than one real solution. Which of the following describes the relationship between b and c?
+{{MATH_58}}
+
+A. {{MATH_59}}
+B. {{MATH_60}}
+C. {{MATH_61}}
+D. {{MATH_62}}
+Answer: B
+
+Question 22:
+In the figure, parallel lines a and b are intersected by lines c, d, and e. If {{MATH_63}}, {{MATH_64}}, and {{MATH_65}}, which statement about x and w must be true?
+
+A. {{MATH_66}}
+B. {{MATH_67}}
+C. {{MATH_68}}
+D. {{MATH_69}}
+Answer: A

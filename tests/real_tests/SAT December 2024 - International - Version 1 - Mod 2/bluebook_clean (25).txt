@@ -1,0 +1,349 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Possessing an outstanding collection of public art, Chicago has everything from monumental mosaics like Marc Chagall's *Four Seasons* at sites like Chase Tower to innovative street art like Kashink's mural *Be The Change You Wish To See* located on South Wabash Avenue. The ______ public art on display in the city can thus satisfy any art lover.
+
+A. breadth of
+B. controversy over
+C. confusion about
+D. apathy toward
+Answer: A
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+In a 2018 article about films depicting the experiences of Black Americans, critics for the New York Times praise Madeline Anderson's 1970 film *I Am Somebody* as "galvanizing" and Carl Franklin's 1995 film *Devil in a Blue Dress* as "picture perfect." Fans of the two films hope that such ______ will attract new audiences to these works.
+
+A. ambivalence
+B. acclaim
+C. foresight
+D. impartiality
+Answer: B
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The fossil remains of the individual known as Misliya-1, discovered in Israel in 2002, can help paleoanthropologists not only ______ steps in the evolution of hominids but also illuminate the Pleistocene epoch generally, revealing important details about the time in which Misliya-1 lived.
+
+A. exploit
+B. yield
+C. prioritize
+D. discern
+Answer: D
+
+Question 4:
+[COE]
+Which finding from the model tests, if true, would support the researchers' hypothesis?
+
+Throughout history, tall structures such as Gonbad-e Qabus in Iran or Hwangnyongsa in South Korea have posed a challenge to their architects, since these structures are more susceptible to physical forces than smaller structures. For example, the lower floors of a building must be able to support the enormous weight of the upper floors. To test a hypothesis that steel is more suitable than concrete for construction of a tall building's lower floors, researchers created a computer model of two buildings that were identical except that one had concrete lower floors while one had steel lower floors, and simulated the effects of the forces of wind and gravity on those structures over the course of a century.
+
+A. During the simulation, the structure with steel lower floors bent in high wind to a greater degree than did the structure with concrete lower floors.
+B. At the end of the simulation, the structure with concrete lower floors was several inches shorter than the structure with steel lower floors.
+C. During the simulation, when sudden forces caused vibrations in the structures, those vibrations took longer to disappear in the structure with steel lower floors than in the structure with concrete lower floors.
+D. At the end of the simulation, the structure with steel lower floors had slightly larger dimensions at its base than it did at the beginning of the simulation.
+Answer: B
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined portion in the text as a whole?
+
+*HMS Surprise*, first published in 1973, is a novel in Patrick O'Brian's Aubrey/Maturin series, which includes twenty completed books. Some critics have found fault with the abrupt endings of *HMS Surprise* and other books in the series, saying that they do not finish conclusively but arbitrarily stop. __But other critics argue that the books should not be thought of as discrete texts with traditional beginnings and endings but as a single incredibly long work, similar to other multivolume stories, such as John Galsworthy's *The Forsyte Saga*.__
+
+A. It presents a reason most critics think the Aubrey/Maturin series should have the literary renown of similar works like *The Forsyte Saga*.
+B. It summarizes a positive assessment of a particular characteristic of the Aubrey/Maturin novels.
+C. It explains why many critics find the Aubrey/Maturin novels to be entertaining despite flaws in the novels' structures.
+D. It argues that the unusual structure that O'Brian uses for *HMS Surprise* makes it one of his most entertaining books.
+Answer: B
+
+Question 6:
+[Details]
+Which choice best states the function of the underlined sentence in the text as a whole?
+
+Vertical gene transfer involves the transmission of genetic material from a parent to offspring; horizontal gene transfer, on the other hand, involves the exchange of genetic material between organisms not in a parent-offspring relationship. __While horizontal gene transfer is common among prokaryotes—single-celled organisms, such as the bacteria *Brevibacillus borstelensis* and *Lactococcus lactis*—it has rarely been observed among eukaryotes (multicellular organisms).__ However, new studies suggest that horizontal gene transfer is more common in eukaryotes than originally thought.
+
+A. It indicates a distinction between the mechanics of two kinds of biological processes.
+B. It contrasts the frequency with which a biological phenomenon has been detected in two categories of organisms.
+C. It explains why a common perception of a biological process is flawed.
+D. It argues that two biological phenomena are more similar than they may initially appear to be.
+Answer: B
+
+Question 7:
+[Cross Text]
+Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree with which statement?
+
+**Text 1**
+
+In separate studies, Stephen Meding and Robert J. Zasoski and Xinhua He and colleagues examined whether plants transfer nutrients to one another using a common mycorrhizal network (CMN)—a lattice of fungal strands in the soil. Meding and Zasoski excluded all pathways other than the CMN by using barriers to keep the plants' root systems separate while allowing mycorrhizal strands through—a crucial step He and colleagues' study did not take.
+
+**Text 2**
+
+Meding and Zasoski took the necessary precaution of separating the plants' root systems (thereby excluding root-to-root transmission). However, any barrier used must allow the thread-like hyphae of a CMN to pass through, and this permeability would also allow liquids through. Thus, the researchers' experimental design cannot ensure that any nutrient transfer observed can be attributed to a CMN and not to some other pathway.
+
+A. The barriers used in Meding and Zasoski's study effectively excluded root-to-root transmission of nutrients.
+B. A barrier that is impervious to both roots and fungal strands is necessary to evaluate nutrient transfer via a CMN.
+C. Excluding root-to-root transfer of nutrients between plants is sufficient to ensure that any observed nutrient transfer must involve a CMN.
+D. He and colleagues' study did not find convincing evidence of nutrient transfer between individual plants.
+Answer: A
+
+Question 8:
+[COE]
+Which choice best describes the finding made by Curtis and colleagues, as presented in the text?
+
+Optimal foraging theory (OFT) holds that animals' foraging behaviors reflect cost-benefit trade-offs that vary by species and with dynamic ecological circumstances. One such circumstance is lunar intensity, which Joel Brown and colleagues found to be negatively associated with foraging by Arizona pocket mice but Deborah J. Curtis and colleagues found to be positively associated with foraging by mongoose lemurs. This discrepancy is explicable in terms of OFT: the lemurs' greater reliance on vision means that higher lunar intensity benefits them more than it benefits the mice.
+
+A. Increased lunar intensity is more beneficial for mongoose lemurs than it is for Arizona pocket mice.
+B. As lunar intensity increases, mongoose lemurs increase their foraging activity.
+C. During periods of high lunar intensity, mongoose lemurs increase their reliance on vision.
+D. As lunar intensity increases, Arizona pocket mice reduce their foraging activity.
+Answer: B
+
+Question 9:
+[COE]
+According to the text, which factors seemed to be linked to the behavior of butterflies in Grace Herzel and colleagues' study?
+
+Biologist Grace Herzel and colleagues conducted a study of how butterfly color and weather conditions relate to butterfly behavior, which wouldn't have been possible without data gathered by students and other amateur science enthusiasts in the community. Considering over three years' worth of data, the researchers found that white butterflies were observed on green flowers more often than any other butterflies were, and that butterflies were observed to feed more often on cloudy days than on other days.
+
+A. Weather conditions but not butterfly color
+B. Butterfly color but not weather conditions
+C. Neither butterfly color nor weather conditions
+D. Both butterfly color and weather conditions
+Answer: D
+
+Question 10:
+[COE]
+Which finding, if true, would most directly support Martinez and colleagues' conclusion?
+
+The bird species *Myiobius barbatus* (the bearded flycatcher) shares some territory in French Guiana with *Thamnomanes caesius* (the cinereous antshrike), which emits a loud alarm call when it detects predators. Biologist Ari Martinez and colleagues recorded *T. caesius* alarm calls and played them in the vicinity of wild *M. barbatus*. Finding that the birds often froze in place or scattered into vegetation upon hearing the calls, they concluded that *M. barbatus* associates *T. caesius* alarm calls with danger.
+
+A. Other bird species than *M. barbatus* also showed a tendency to freeze in place or scatter into vegetation when Martinez and colleagues played *T. caesius* alarm calls.
+B. Martinez and colleagues played alarm calls from different *T. caesius* individuals and observed no significant variation in the responses of *M. barbatus*.
+C. In some instances, *M. barbatus* froze in place or scattered into vegetation when Martinez and colleagues approached but before they began playing sounds.
+D. When Martinez and colleagues played control sounds of random noise in the vicinity of *M. barbatus*, the birds displayed no reaction.
+Answer: D
+
+Question 11:
+[COE]
+Which choice best describes data from the table that weaken the student's claim?
+
+Researchers have used several different methods to determine the population density of cougars (*Puma concolor*). A student claims that the use of scat-detecting dogs produces the most precise results, with the smallest difference between minimum and maximum densities.
+
+A. David M. Choate et al, reported a density range of 4.65 individuals per 100 square kilometers despite the use of helicopter surveying.
+B. Rahel Sollmann et al. reported a density range that was substantially smaller than that reported by David M. Choate et al.
+C. Gregory A. Davidson et al. reported a density range greater than that reported by some studies that used other methods.
+D. Gregory A. Davidson et al. reported a maximum density of 5.50 individuals per 100 square kilometers, which differed from that reported by some studies that used other methods.
+Answer: C
+
+Question 12:
+[COE]
+Which finding, if true, would most directly support Shcherbakova and colleagues' claim?
+
+The linguistic niche hypothesis (LNH) posits that the exotericity of languages (how prevalent non-native speakers are) and grammatical complexity are inversely related, which the LNH ascribes to attrition of complex grammatical rules as more non-native speakers adopt the language but fail to acquire those rules. Focusing on two characteristics that are positive indices of grammatical complexity, fusion (when new phonemes arise from the merger of previously distinct ones) and informativity (languages' capacity for meaningful variation), Olena Shcherbakova and colleagues conducted a quantitative analysis for more than 1,300 languages and claim the outcome is inconsistent with the LNH.
+
+A. Shcherbakova and colleagues' analysis showed a slightly positive correlation between grammatical complexity and fusion.
+B. Shcherbakova and colleagues' analysis showed a slightly negative correlation between grammatical complexity and exotericity.
+C. Shcherbakova and colleagues' analysis showed a slightly positive correlation between fusion and exotericity and between informativity and exotericity.
+D. Shcherbakova and colleagues' analysis showed a slightly negative correlation between grammatical complexity and fusion and between grammatical complexity and informativity.
+Answer: C
+
+Question 13:
+[COE]
+Which choice most effectively uses data from the graph to complete the statement?
+
+Neuroscientist Kiyohito ligaya and colleagues developed a computational model to predict how much a person will enjoy a particular work of art on a scale from 1 (not at all) to 4 (very much). They then recruited participants to use the same scale to rate several sets of paintings in various styles and calculated the correlation between the ratings predicted by the model and those reported by the participants. Assuming participant P7 gave equal ratings to the impressionist and color-field paintings, the data in the graph suggest that the model predicted that ______
+
+A. P7's ratings for impressionist and color-field paintings would differ from one another.
+B. P7 would derive more aesthetic pleasure from impressionist paintings than from color-field paintings.
+C. P7's ratings for impressionist and color-field paintings would equal one another.
+D. P7 would derive less aesthetic pleasure from impressionist paintings than from color-field paintings.
+Answer: A
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Arthurian legends (tales related to the character of King Arthur) derive from many often contradictory sources, such as *Vita Sancti Cadoci*, composed in the 11th century, and *Culhwch* and *Olwen* from the second half of the 12th century. Sir Thomas Malory's 15th-century text *Le Morte d'Arthur* was an attempt to compile these stories into a coherent narrative. Many of Malory's sources derive from Geoffrey of Monmouth's *History of the Kings of Britain*, written in the 1130s. While neither *History* nor any works that predate it mention Arthur's famous Round Table at which his knights assembled, *Le Morte d'Arthur* does, suggesting that ______
+
+A. Geoffrey of Monmouth's accounts of Arthurian legends in *History* are more similar overall in content to the accounts in *Culhwch* and *Olwen* than they are to the accounts in *Le Morte d'Arthur*.
+B. when a version of an Arthurian legend contradicted the version in *History*, Malory preferred to include Geoffrey of Monmouth's version in *Le Morte d'Arthur*.
+C. *Le Morte d'Arthur* is more historically accurate than *History* because *Culhwch* and *Olwen* had not been written when Geoffrey of Monmouth was writing his work.
+D. Malory encountered the Round Table in a source that Geoffrey of Monmouth was not familiar with when writing his *History*.
+Answer: D
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+Prolonged exposure to anthropogenic noise (sounds from human sources like traffic or mining) can affect animals, as Graeme Shannon and colleagues found in a 2016 study of black-tailed prairie dogs. Researchers conducted a meta-analysis of studies of how such noise affects animals and found that, for every study, relevant traits or behaviors of the animals were observably different between the exposed group and the otherwise similar but unexposed group. Although, on average, studies of mammals showed larger differences than studies of amphibians did, for every class of animals examined, there were individual studies showing differences well above the average for mammals. Therefore, the results of the meta analysis suggest that ______
+
+A. the differences that studies attribute to exposure to anthropogenic noise are likely to be more pronounced for amphibians than they are for mammals.
+B. some studies of amphibians found larger effects of exposure to anthropogenic noise than some studies of mammals did.
+C. the difference found in the study conducted by Graeme Shannon and colleagues was likely larger than the average difference for studies of black-tailed prairie dogs included in the meta-analysis.
+D. the studies in the meta-analysis that examined mammals were more likely than those that examined amphibians to specify whether the observed effects were detrimental.
+Answer: B
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The term "retroflex" derives from Latin and means "bent back," an apt descriptor for the branch of consonants—retroflex consonants—pronounced with the tongue curling up and back in the mouth. In many languages, including English, these consonants are ______ in some dialects of Mandarin, however, four such consonants ("ch," "sh," "zh," and "r") are relatively common.
+
+A. rare,
+B. rare
+C. rare;
+D. rare and
+Answer: C
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Along with carbon dioxide concentration and temperature, light intensity affects the chemical reaction rate of ______ as light intensity increases, so does the rate at which the reactants (water and carbon dioxide) are converted into their products (glucose and oxygen).
+
+A. photosynthesis
+B. photosynthesis:
+C. photosynthesis and
+D. photosynthesis,
+Answer: B
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The fungus *Tricholoma matsutake*, commonly referred to as matsutake, is known to establish ectomycorrhizal bonds with certain pine tree species; in many cases, such symbiotic relationships, wherein fungal hyphae make contact with the pine's root system, ______ extensive networks, which can be used to transport nutrients between trees.
+
+A. forming
+B. to form
+C. having formed
+D. form
+Answer: D
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Though he would go on to work with many respected bands, including CAB on their album *CAB 2*, American ______ may be best known for his time with Sugar Hill Records, where he helped craft the sound of early hip-hop music.
+
+A. drummer, Dennis Chambers,
+B. drummer Dennis Chambers
+C. drummer, Dennis Chambers
+D. drummer Dennis Chambers,
+Answer: B
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Gretchen Legler's short essay on "sound," a word referring to a large inlet or channel of a sea or ocean, is included in the collection *Home Ground: A Guide to the American Landscape*. The book wasn't written solely by ______ other authors, such as Stephen Graham Jones and Barry Lopez, also contributed essays.
+
+A. Legler, however,
+B. Legler; however,
+C. Legler. However,
+D. Legler, however;
+Answer: D
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+The Organisation for Economic Co-operation and Development (OECD) tracks comparative price list data for its thirty eight member countries. According to this data, in July 2021, a "basket" of goods and services priced at 100 US dollars (USD) in the United States would have cost 66 USD in fellow OECD member ______
+
+A. nation Latvia.
+B. nation: Latvia.
+C. nation, Latvia.
+D. nation—Latvia.
+Answer: A
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In his painting *At the Cycle Race Track*, Jean Metzinger aims to depict a bike race in four-dimensional space. Of course, Metzinger's painting doesn't technically represent a fourth dimension; humans can only see in three dimensions. ______ by depicting the race through multiple, simultaneous perspectives, Metzinger offers a fascinating glimpse at what this other universe might look like.
+
+A. For example,
+B. In other words,
+C. Moreover,
+D. That said,
+Answer: D
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In 2015, geologist Peter Rogerson recalculated the geographic center of Nebraska, which had previously been determined in 1920 by the US Geological Survey (USGS). The USGS, Rogerson contended, had omitted important considerations, not least the curvature of the earth. ______ the state's USGS-determined center—a point 10 miles northwest of the municipality of Broken Bow—was inaccurate.
+
+A. Next,
+B. That being said,
+C. Hence,
+D. However,
+Answer: C
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+On August 5, 1938, aviator Douglas Corrigan received a ticker-tape parade in New York City in recognition of his transatlantic flight. Of the 206 ticker-tape parades held between 1886 and 2022, a number were for achievements in aviation. ______ Corrigan's parade was just one of 16 honoring pilots.
+
+A. In addition,
+B. Therefore,
+C. Indeed,
+D. Nevertheless,
+Answer: C
+
+Question 25:
+[Synthesis]
+The student wants to emphasize the order in which the two students attended the Bauhaus. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• The Bauhaus was an influential German art and design school founded in 1919 by Walter Gropius.
+• Gropius was the school's director from 1919 to 1928.
+• Hannes Meyer was its director from 1928 to 1930.
+• Ludwig Mies van der Rohe was its director from 1930 to 1933.
+• Josef Albers was a painter and educator who began attending the Bauhaus in 1920.
+• Stella Steyn was a painter and illustrator who began attending the Bauhaus in 1931.
+
+A. Founded in 1919, the Bauhaus was a German art and design school whose past students include Josef Albers and Stella Steyn.
+B. The Bauhaus was founded in 1919, and Stella Steyn began attending in 1931.
+C. Josef Albers and Stella Steyn were both Bauhaus students, but Albers, who began attending in 1920, preceded Steyn.
+D. Walter Gropius founded the Bauhaus in 1919 and acted as its director until 1928, at which point Hannes Meyer succeeded him in the role.
+Answer: C
+
+Question 26:
+[Synthesis]
+The student wants to contrast the two samples. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Generally, an object will heat up when twisted.
+• The twisting of an object is known as torsion.
+• A 2019 study led by Zunfeng Liu and Ray Baughman tested the torsional heating of various fibers.
+• When a 0.7-millimeter thick sample of single-ply nickel-titanium (NiTi) wire was twisted, its average surface temperature increased by 21.3°C.
+• When a 2-millimeter-thick sample of ethylene propylene diene monomer (EPDM) rubber fiber was twisted, its average surface temperature increased by 12°C.
+
+A. In 2019, researchers studied the effect of torsional heating on various fibers, including samples of EPDM rubber and single-ply NiTi wire.
+B. The EPDM rubber sample used in the 2019 study was thicker than the single ply NiTi wire sample.
+C. Twisting an object will generally cause its temperature to increase, a process known as torsional heating.
+D. When the fibers were twisted as part of the 2019 study, the surface temperature of both samples increased.
+Answer: B
+
+Question 27:
+[Synthesis]
+The student wants to specify the total mass of Earth's magnesium relative to that of all elements. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+
+• Element abundance is a relative measure of the amount of a chemical element in a given environment.
+• Abundance can be expressed as a mass fraction.
+• A mass fraction is the ratio of the total mass of an element to the combined mass of all elements in a given environment.
+• The mass fraction of magnesium (Mg) on Earth is 154,000 parts per million (ppm).
+• The mass fraction of zinc (Zn) on Earth is 40 ppm.
+
+A. Magnesium's abundance on Earth is greater than zinc's, as reflected by magnesium's higher mass fraction.
+B. Magnesium's abundance can be expressed by a mass fraction, a measure of the element's mass relative to that of all elements on Earth.
+C. The mass fraction of magnesium on Earth is 154,000 ppm.
+D. Magnesium's mass relative to the combined mass of all elements on Earth is 40 ppm.
+Answer: C
+

@@ -1,0 +1,368 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+As a defense mechanism, the monarch butterfly ______ toxic compounds from milkweed plants. On ingesting a piece of milkweed, the monarch selectively absorbs toxic cardenolides from the plant in its gut and stores them in the tissues throughout its body, rendering the butterfly unpalatable to predators.
+
+
+A. neutralizes
+B. exploits
+C. impedes
+D. secretes
+Answer: B
+
+Question 2:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Mastering 'ajami, a Syrian art of creating intricately painted wood panels, demands a skill set that ______ innate talent: crafting the panels requires not just the ability to draw but also an understanding of traditional techniques, materials, and design elements, necessitating expertise gained through dedicated guidance from experienced artisans.
+
+
+A. replicates
+B. transcends
+C. characterizes
+D. restrains
+Answer: B
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Writer Lydia Davis observed that while ______ literary forms, such as the short story, are recognizable as such even as they evolve, there are pathbreaking "intergeneric" forms that might, for example, use elements of both fiction and essays to create something unclassifiable. Anne Carson's collection *Float* arguably fits in this category, since it straddles the line between prose and poetry.
+
+
+A. elusive
+B. ambiguous
+C. innovative
+D. established
+Answer: D
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Although *Mistress and Maid*, which depicts two women perusing a letter, is atypical of Johannes Vermeer's genre paintings (scenes of everyday life) in that its subjects are set against a plain background instead of --- as in *Woman Writing a Letter, with Her Maid* --- a richly detailed one, the painting nonetheless ______ many signature traits of Vermeer's art, including prominent use of yellow pigments.
+
+
+A. eschews
+B. repudiates
+C. predates
+D. evinces
+Answer: D
+
+Question 5:
+[Details]
+Which choice best describes the function of the underlined sentence in the text as a whole?
+
+Technological advances have prompted companies to increasingly rely on automation to streamline production. Armin Granulo and colleagues, however, found that for products with higher symbolic value (those viewed as contributing to individual self-expression), consumers prefer products made by humans rather than by robots, likely because human-made products are more strongly associated with uniqueness. __When considering automation, therefore, companies --- especially those specializing in products of symbolic value --- should weigh trade-offs between efficiency gains and consumer preferences.__
+
+
+A. It refers to a finding presented in the previous sentence to recommend that companies that value product quality reconsider automating their production processes.
+B. It emphasizes that a research finding discussed in the text has practical implications that are particularly relevant for businesses making a certain class of product.
+C. It presents evidence supporting the text's argument that consumers prefer products with high symbolic value over products with low symbolic value.
+D. It illustrates the need for additional research to evaluate the claim in the previous sentence that automation affects how consumers prefer products.
+Answer: B
+
+Question 6:
+[COE]
+Which statement about the prints by Kano and Kawaguchi in Images of Autonomous Matter is best supported by the text?
+
+The prints in Images of Autonomous Matter, part of a traveling exhibition of innovative Japanese art from the 1960s and 1970s, exemplify the interest in creating minimalist images of stark materials, such as steel, that first emerged among Japanese printmakers in the mid-to-late twentieth century. Mitsuo Kano’s close-up of a serrated metal fragment, Soldered Blue, and Tatsuo Kawaguchi’s image of a single corroded staple, which belongs to his Relation Quality series, are two such works in the exhibit. In their emphasis on the innate qualities of manufactured materials, both prints push traditional boundaries for figurative art.
+
+
+A. The portrayal of imperfection in the prints illustrates that the artists’goal was to disrupt the carefully curated nature of most art exhibitions.
+B. The objects depicted and the manner of depiction render the prints distinct from more conventional works of art.
+C. The prints showcase how different methods for printing images can offer unique perspectives on stark materials.
+D. The prints emulate the style of an earlier artistic movement that used simplistic compositions and featured industrial objects.
+Answer: B
+
+Question 7:
+[Cross Text]
+Which choice best describes a difference in how the author of Text 1 and the author of Text 2 view the painting The Lackawanna Valley?
+
+Text 1
+To many artists in the mid-nineteenth-century United States, the American wilderness symbolized innocence and untouched beauty. So George Inness’s decision to foreground a railroad in his 1855 painting The Lackawanna Valley is notable, since images of railroads often alluded to the destruction of wilderness in the name of progress. In fact, art historian Nicolai Cikovsky Tr, argues that Inness glorifies the subject of the railroad by painting a scene that suggests hopefulness rather than devastation.
+Text 2
+It is impossible to deduce anything about George Inness’s attitude toward his subject in the painting The Lackawanna Valley, primarily because it is a commissioned work. Inness was restricted in how he could portray the Delaware, Lackawanna and Western Railroad Company: his client was the company’s first president, who had requested the painting possibly as a way to promote the company’s rail network.
+
+
+A. The author of Text 1 claims that the painting is an accurate representation of a physical place, whereas the author of Text 2 identifies several embellishments that Inness made to alter the scene.
+B. The author of Text 1 implies that the styles and themes of the painting are atypical of Inness’s body of work, whereas the author of Text 2 claims that the painting is representative of Inness as a painter.
+C. The author of Text 1 suggests that the painting can reveal information about Inness’s opinions, whereas the author of Text 2 believes that the circumstances of the painting’s production prohibit such an interpretation.
+Answer: C
+
+Question 8:
+[COE]
+According to the text, which factors seemed to be linked to the behavior of butterflies in Grace Herzel and colleagues’ study?
+
+Biological Grace Herzel and colleagues conducted a study of how butterfly color and weather conditions relate to butterfly behavior, which wouldn’t have been possible without data gathered by students and other amateur science enthusiasts in the community. Considering over three years’ worth of data, the researchers found that butterfly color might influence behavior more than butterfly size does, and that butterflies tended to prefer orange and red flowers on cloudy days and multicolor flowers on partly cloudy days.
+
+
+A. Weather conditions but not butterfly color
+B. Neither butterfly color nor weather conditions
+C. Butterfly color but not weather conditions
+D. Both butterfly color and weather conditions
+Answer: D
+
+Question 9:
+[Structure]
+Which choice best states the main idea of the text?
+
+Research by economists Wei Feng and Jinzhe Yan indicates that the degree of linguistic abstraction in negative reviews influences how consumers perceive businesses: reviews with concrete details were more likely to result in stronger attributions of fault to companies than vague reviews were. They also found that varying levels of linguistic abstraction in reviews require different types of responses to mitigate their effects. Conciliatory responses were most effective at mitigating the impact of concrete reviews, whereas more defensive responses were more useful when reviews were relatively abstract.
+
+
+A. When negative reviews provide specific details, they are more likely to damage companies public perception, and efforts by companies to mitigate this damage are less likely to be successful than when negative reviews are vague.
+B. Given its implications for companies’ reputation among consumers, the level of linguistic abstraction in negative reviews is an important consideration when companies devise a response strategy
+C. Increasing linguistic abstraction in negative reviews correlates with the degree to which consumers hold companies accountable for negative experiences, but companies can mitigate this effect by responding to such reviews promptly.
+D. Consumers are more likely to find companies blameworthy for negative consumer experiences if the companies are overly defensive and linguistically abstract in their responses to negative reviews than if their responses are accommodating and linguistically concrete.
+Answer: B
+
+Question 10:
+[COE]
+Which statement about the mycelium of the twenty mushroom species is best supported by the text?
+
+Arturo Casadevall et al. have confirmed that twenty mushroom species (including Amanita muscaria and species from the genus Hortiboletus) maintain subambient temperatures in both their fruited bodies and their mycelium (the root-like hyphae from which the fruited bodies grow), though the benefits of this hypothermic behavior are unclear. Noting that relative coldness was more pronounced in fruiting than in nonfruiting sites of the mycelium - a difference that persisted even after fruited bodies were detached - the researchers speculate that thermoregulation in the mycelium may influence reproductive success.
+
+
+A. Temperatures in the fruiting areas of the mycelium are lower than in the nonfruiting areas due to differences in the depth and spread of the mycelium within soil or other organic matter.
+B. Variation in thermoregulation across the mycelium may occur independent of the presence or absence of fruited bodies.
+C. The mycelium generally maintains temperatures lower than those of the fruited bodies even when considering temperature variations between fruiting and nonfruiting sites.
+D. The correlation between higher mycelium temperature and greater fruit productivity indicates that successful reproduction may be dependent on thermoregulation in the mycelium.
+Answer: B
+
+Question 11:
+[COE]
+What does the text most strongly suggest about Poe’s work and American readers?
+
+The following text is from William Carlos Williams’s 1925 creative nonfiction book in the American Grain. Williams is discussing how works by nineteenth-century Us poet and fiction writer Edgar Allan Poe were received by American readers.
+Poe must suffer by his originality, invent that which is new, even if it be made of pine from your own yard, and there’s none to know what you have done. It is because there’s no name. This is the cause of Poe’s lack of recognition. He was American. He was the astounding, inconceivable growth of his locality. Gape at him they did, and heat them in amazement. Afterward with mutual hatred; he in disgust, they in mistrust. It is only that which is under your nose which seems inexplicable.
+
+
+A. Poe’s work was so innovative that there was not even terminology to describe it, which led American readers to regard both the work and Poe himself as strange but quintessentially American.
+B. American readers largely ignored Poe’s work because its tone and subject matter were out of keeping with mainstream literature.
+C. American readers failed to appreciate Poe’s work because of its novelty and the fact that it reflected aspects of the American character too ingrained in those readers for them to comprehend.
+D. Poe’s work had few defenders among American readers because it tended to present a negative image of American life and institutions.
+Answer: C
+
+Question 12:
+[COE]
+Which choice most effectively uses data from the table to support Macqueen et al.'s conclusion?
+
+Myoglobin (Mb) Levels in the Cardiac Tissue of Three Teleost Species
+
+Myoglobin (Mb) is a protein that primarily aids in oxygen storage and diffusion across the mitochondrial membrane in cardiac muscle cells, these are necessary functions in aerobic organisms, including teleost fish. Carrying out these functions typically requires Mb to be expressed at high levels, evidenced by red heart tissue. The table shows the average Mb levels and their standard deviations (indicating how dispersed the Mb levels of individual fish are in relation to the average) of three teleost fish species, as calculated by Daniel J. Macqueen et al. Based on the data, the researchers concluded that for some teleost species, oxygen storage and diffusion may occur with negligible assistance from Mb.
+
+
+A. On average, A. anguilla had higher Mb levels in their cardiac tissue than S.salar and P. buchholzi had.
+B. Greater average Mb levels in a certain species were associated with greater variance in Mb levels among individuals of that species.
+C. Less variation in Mb levels was observed among P. buchholzi individuals than among A. anguilla and S. salar individuals
+D. P. buchholzi had very low Mb levels in their cardiac tissue.
+Answer: D
+
+Question 13:
+[COE]
+Which choice most effectively uses data from the table to complete the text?
+
+Persistence of Settlements and Compound Average Annual Population Growth Rate in the Yautepec Valley
+
+The percent of cities and towns in a given period that persist from a prior period (backward continuity) and the percent that persist into a later period (forward continuity) are known to correlate positively with economic and political stability in a region. Researchers studying demographic trends in the Indigenous societies of ancient Mexico determined both continuity measures for the Yautepec Valley, which lay within the macroregional hegemony of the city-state of Teotihuacan from roughly 100 BCE until roughly 450 CE, after which point Teotihuacan declined. The team concluded that ______.
+
+
+A. the marginal decrease in the compound average annual growth rate of the Yautepec Valley’s population in the Early Classic was likely associated with the widespread abandonment of cities and towns established in the Terminal Formative.
+B. values for both backward and forward continuity in the Yautepec Valley were consistently higher during the centuries of Teotihuacan’s hegemony than they were in the period following the collapse of the hegemony.
+C. although the forward continuity data suggest that the decline of Teotihuacan occasioned economic and political instability in the Yautepec Valley, these developments were nonetheless associated with a net increase in the valley’s population.
+D. Teotihuacan’s hegemony imposed stability on the Yautepec Valley, mitigating the decrease in the compound average annual growth rate of the valley’s population as well as the decrease in the number of cities and towns there in the Early Classic and Middle Classic.
+Answer: C
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+Studying animals in a laboratory allows variables to be systematically controlled, but removing animals from their wild habitats can affect their behavior and biology in unforeseen ways. Given this, biologists Rebecca M, Calisi-Rodriguez and George E. Bentley examined research on brown-throated three-toed sloths and white-throated sparrows to see whether results from studies in the wild were consistent with the results of studies in the laboratory. Therefore, data showing that brown-throated three-toed sloths tend to sleep fewer than 10 hours per day in the wild would be irrelevant to Calisi-Rodriguez and Bentley’s investigation if ______.
+
+
+A. they tend to sleep more than 15 hours per day in the lab.
+B. white-throated sparrows have low levels of corticosterone hormones outside of the breeding season in the wild.
+C. this behavior pattern has not been studied in the lab.
+D. such data have been collected for white-throated sparrows in laboratory settings but not in the wild.
+Answer: C
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+In an analysis of medieval urbanization in Florence, Greifswald, and other European settlements, researchers drew on modern urban scaling theory, which posits that population density in core urban areas increases as a city grows larger. Hypothesizing that this typical relationship would have differed in medieval settlements because of the constraining influence of strong hierarchical social structures (which are much less pronounced in modern cities) on social networking and economic integration --- drivers of urban agglomeration --- the team created a model that accounted for the presence of restrictive institutions. They found that the typically expected density-size relationship held for each of the 173 medieval settlements whose growth they analyzed, suggesting that ______.
+
+
+A. the constraining influence of hierarchical medieval institutions likely had a significant effect on individuals in some social groupings but little to no effect on members of other social groupings.
+B. although there tends to be a positive relationship between population size and development of core urban areas for both medieval settlements and modern cities, social institutions likely limited the rate at which population density increased in medieval settlements.
+C. despite a change in the role of social structures over time, there is likely a notable consistency between medieval settlements and modern cities in underlying elements of the social and economic interactions among individuals that shape the development of core urban areas.
+D. the social and economic dynamics that affect urban agglomeration were likely much different in medieval settlements than in modern cities, despite the similarity across time in population density patterns.
+Answer: C
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+As jazz singer Sarah Vaughan honed her vocal abilities - acquiring a sophisticated timbre and precise control over pitch, dynamics, and ______ she earned comparisons to opera icon Leontyne Price, one of her personal heroes. The comparisons highlight how Vaughan, a jazz star, had transcended genre boundaries with her singing prowess.
+
+
+A. vibrato -
+B. vibrato:
+C. vibrato
+D. vibrato,
+Answer: A
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+In her Silueta sculpture series, the Cuban American artist Ana ______ to access what she called an “omnipresent female force,” utilized a variety of natural materials to create outlines-or silhouettes of her own body.
+
+
+A. Mendieta had hoped
+B. Mendieta, hoping
+C. Mendieta was hoping
+D. Mendieta hoped
+Answer: B
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Los Angeles-based artist Henry Taylor's large, vibrant paintings of prominent Black figures such as Olympian Alice Coachman (See Alice Jump, 2011) and artist David Hammons(Hammons meets a hyena on holiday, ______ celebrated by admirers of twenty-first-century portraiture, attracted legions of new fans in 2024 when they were included in a popular Taylor retrospective at the Whitney Museum.
+
+
+A. 2016), had long been
+B. 2016) were long
+C. 2016) have long been
+D. 2016), long
+Answer: D
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Among the small magazines animating Boston’s vibrant literary scene in the early twentieth century was ______ by William Stanley Braithwaite and featuring poetry by John Gould Fletcher, Louis Untermeyer, and Richard Aldington; essays by Amy Lowell and Jeanette Marks; and reviews of recent books, this magazine publicized the work of influential avant-garde writers and artists of the day.
+
+
+A. the Poetry Review of America; edited
+B. the Poetry Review of America edited
+C. the Poetry Review of America, edited
+D. the Poetry Review of America. Edited
+Answer: D
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Reena Esmail's classical composition "E Safar" incorporates a raag, a melodic framework used in Hindustani classical music, called Raag Malkauns. Often, interplay between the raag's designated vadi and samvadi (the first- and second-most important notes, respectively) and its prescribed melodic sequences ______ a mood of longing.
+
+
+A. evoking
+B. evokes
+C. evoke
+D. have evoked
+Answer: B
+
+Question 21:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Archived within the storied libraries of Timbuktu, a West African city prominent during the Songhai Empire, is The Pearls Leading to Accepted Guidance, one of the city’s hundreds of thousands of historical manuscripts, each of which ______ researchers insight into Timbuktu’s tenure as a center of trade and education.
+
+
+A. offering
+B. are offering
+C. offer
+D. offers
+Answer: D
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+The moon Carpo orbits Jupiter in the same direction that the planet rotates. ______ Carpo’s orbit is described as prograde. Erinome, another of Jupiter’s moons, orbits in the opposite direction, so its orbit is described with the opposite term: retrograde.
+
+
+A. In reality,
+B. Hence,
+C. Next,
+D. Nevertheless,
+Answer: B
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+lodine and beryllium are among the elements contained in the salty, concentrated brine that remains after seawater is desalinated. Elements can be extracted from this brine in much the same way that materials are mined from the earth. ______ recovering materials from desalination by-products is known as brine mining.
+
+
+A. Rather,
+B. Fittingly,
+C. Granted,
+D. Next,
+Answer: B
+
+Question 24:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+Born in Port Gibson, Mississippi, in 1902, musician J.D. Short is best known as a key figure in the development of the Delta blues, a variant of blues that originated in the Mississippi Delta region. ______________ steeped in the fertile music scene that sprung up in the alluvial delta between the Mississippi and Yazoo Rivers, Short and his peers developed their distinctive stripped-down, guitar-driven style.
+
+
+A. Thus,
+B. Nevertheless,
+C. Moreover,
+D. There,
+Answer: D
+
+Question 25:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+According to climate envelope models, individual organisms that inhabit the coolest areas of their species' geographic distribution are expected to benefit from a warming climate while individuals in the warmest areas will struggle. A 2024 University of Arizona study, ______ found that warmer-than-average temperatures resulted in a decrease in growth across all areas of the common pinon tree's distribution range.
+
+
+A. though,
+B. therefore,
+C. for example,
+D. moreover,
+Answer: A
+
+Question 26:
+[Synthesis]
+The student wants to provide an example of a particle physicist whose research focuses on neutrinos. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•GrigoryV. Domogatsky is a Russian particle physicist.
+•Particle physicists study subatomic particles.
+•Neutrinos are some of the least understood subatomic particles.
+•Neutrinos were first discovered in the mid-twentieth century.
+•Domogatsky is known for his research on high-energy astrophysical neutrinos.
+
+
+A. Particle physicist Grigory V. Domogatsky is known for his research on high-energy astrophysical neutrinos.
+B. Neutrinos are a type of subatomic particle that particle physicists are still trying to understand.
+C. The research done on high-energy astrophysical neutrinos exemplifies the work particle physicists do to advance our understanding of subatomic particles.
+D. By studying high-energy astrophysical neutrinos to name just one example particle physicists can learn more about neutrinos.
+Answer: A
+
+Question 27:
+[Synthesis]
+The student wants to contrast ukiyo-e and sosaku-hanga production methods. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Ukiyo-e woodblock prints were a popular artistic form in Japan from the 1600sthrough the 1800s.
+•Ukiyo-e prints were produced by teams of artisans that included artists, wood-carvers, printers, and publishers.
+•Sosaku-hanga was a popular Japanese printmaking movement that emerged in the early 1900s.
+•Sosaku-hanga prioritized individual artistic expression.
+•An artist working in this style typically handled all aspects of print creation, from drawing to wood carving to printing.
+
+
+A. Teams of artisans produced ukiyo-e prints, whereas individual artists typically handled all aspects of sosaku-hanga printmaking themselves.
+B. One notable distinction between ukiyo-e and sosaku-hanga prints is sosaku-hanga’s emphasis on individual artistic expression.
+C. Ukiyo-e prints were popular in Japan from the 1600s through the 1800s, while sosaku-hanga prints emerged later, in the early 1900s.
+D. In contrast to ukiyo-e prints, sosaku-hanga prints were produced using methods such as drawing and wood carving.
+Answer: A
+

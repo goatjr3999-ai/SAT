@@ -1,0 +1,307 @@
+Question 14:
+The student wants to use a quotation to refute the claim that slow TV programs are boring. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Documentary TV programs in the slow TV genre consist of uninterrupted broadcasts of ordinary events in real time.
+• MORA: Zeichner is a German slow TV program.
+• The 45-minute-long program documented an artist making a pencil drawing during a train journey.
+• It first aired in 2016.
+• Slow TV has been called “the world’s most boring television.”
+• American journalist Nathan Heller praises it, writing that “it affords a visceral kind of armchair tourism.”
+
+
+A. MORA: Zeichner can afford a “visceral kind of armchair tourism,” as Heller puts it.
+B. While some have praised slow TV for affording “a visceral kind of armchair tourism,” others have called it “the world’s most boring television.”
+C. Far from boring, slow TV programs can provide a “visceral kind of armchair tourism,” as Heller puts it, whereby viewers can watch artists at work in real time.
+D. With broadcasts of ordinary events, like artists at work, occurring in real time, slow TV just might be “the world’s most boring television.”
+Answer: C
+
+Question 43:
+The student wants to provide a detailed overview of the structures at Long House. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Modern Pueblo tribal nations were preceded by the Ancestral Puebloan civilization, which occupied parts of the southwestern US until approximately 1600 CE.
+• Long House in southwestern Colorado is a former Ancestral Puebloan settlement inhabited from approximately 1200–1280 CE.
+• It was constructed in a natural cliff alcove and had multistory adobe and stone buildings.
+• These buildings had cube-shaped, contiguous rooms that surrounded kivas.
+• Kivas are round rooms typically used for ceremonial purposes and as gathering spaces.
+
+
+A. Constructed in a natural cliff alcove, Long House’s multistory adobe and stone buildings featured round rooms called kivas surrounded by cube-shaped, contiguous rooms.
+B. Long House, whose structures were built by Ancestral Puebloans in southwestern Colorado, was inhabited from approximately 1200–1280 CE.
+C. Located in southwestern Colorado, Long House was designed with kivas, round rooms that were typically used for ceremonial purposes and as gathering spaces.
+D. The Ancestral Puebloans used adobe and stone in the construction of Long House in southwestern Colorado.
+Answer: A
+
+Question 52:
+The student wants to explain euhemerism using an example. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•In Greek mythology, Metis was the goddess of advice and planning.
+•In Greek mythology, Zeus was the king of the gods.
+•The writer Euhemerus (fourth century BCE) argued that mythological figures like Metis and Zeus were based on real people from history.
+•Euhemerus noted that Zeus’s tomb had reportedly been found on Crete.
+•The theory that myths are exaggerated versions of events that happened to real people is known as euhemerism.
+
+
+A. Zeus, the king of the gods in Greek mythology, is an example of euhemerism.
+B. According to the theory of euhemerism, Greek mythological figures were based on real people from history; for example, Metis, the goddess of advice and planning, was based on a person whose tomb was found on Crete.
+C. The writer Euhemerus believed that Zeus, the king of the gods in Greek mythology, was based on a real person from history.
+D. The claim that the mythological figure Metis was based on a real person exemplifies euhemerism, the theory that myths are exaggerated versions of events that happened to real people.
+Answer: D
+
+Question 3:
+The student wants to connect the quotation from Browner with information about Ballard’s composition. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Louis Ballard was a classical composer and citizen of the Quapaw Tribe.
+• He sought to synthesize Western classical music with elements of various Native musical traditions.
+• Ballard’s composition Pan Indian Rhythms incorporates Ute notched sticks, a traditional Native instrument.
+• Ethnomusicologist Tara Browner writes that Ballard’s classical music “relies on Indigenous instruments, rhythms, forms,...and other musical elements.”
+
+
+A. Discussing Ballard’s body of works, Browner observes that it relies on elements of various Native musical traditions.
+B. Browner notes that Ballard’s music “relies on Indigenous instruments, rhythms, forms,...and other musical elements,” further indicating that it synthesizes Western classical music with elements of various Native music traditions.
+C. Consistent with Browner’s observation that Ballard’s music “relies on Indigenous instruments, rhythms, forms,...and other musical elements,” Pan Indian Rhythms incorporates Ute notched sticks.
+D. Browner’s writing discusses Ballard, the classical music composer responsible for Pan Indian Rhythms.
+Answer: C
+
+Question 28:
+The student wants to provide an explanation and example of Kepler's first law of planetary motion. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Kepler's first law of planetary motion states that the orbit of a planet around the Sun is an ellipse.
+•The law also states that, in an elliptical orbit, the object being orbited is one of the ellipse’s foci.
+•Kepler’s laws of planetary motion also apply to natural satellites (e.g., moons).
+•Tethys is a moon of Saturn that orbits the planet in 1.89 Earth days on average.
+•Tethys’s orbit is elliptical.
+
+
+A. Saturn’s moon Tethys completes an orbit in 1.89 Earth days on average, a clear example of Kepler’s first law of planetary motion, which describes the elliptical orbit of planets.
+B. Tethys’s orbit of Saturn is elliptical, demonstrating Kepler’s first law of planetary motion, which describes the elliptical orbits of planets but applies to moons as well.
+C. Kepler’s first law of planetary motion, which describes the orbits of Saturn and other planets in the solar system, states that the object being orbited is one of the ellipse’s foci.
+D. Kepler's first law of planetary motion states that the orbit of a planet around the Sun is an ellipse; for example, planetary orbits. ​​
+Answer: B
+
+Question 38:
+The student wants to describe how DLS cures 3D objects. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Digital Light Synthesis (DLS) is a form of additive manufacturing that utilizes light to rapidly cure liquid resin into high-quality, 3D objects.
+• Step 1: Ultraviolet (UV) light images are projected up into a pool of liquid resin, where the object’s first layer takes shape.
+• Step 2: The partially cured resin object is raised, leaving a thin space (a “dead zone”) beneath it for oxygen and liquid resin to flow through.
+• Step 3: The UV light passes through the dead zone—maintaining the flow of resin—and partially cures additional layers of the object.
+• Step 4: When the resin object is complete, it is baked in an oven to complete the curing.
+
+
+A. DLS cures 3D objects by passing through a “dead zone,” adding layers to the object, then curing the object in an oven.
+B. In DLS, UV light is projected into layers of liquid resin until the resin solidifies and passes through a “dead zone,” wherein the curing is completed.
+C. In DLS, UV light images are projected into a liquid resin pool to cure a 3D object layer by layer; once solidified, the object is baked in an oven.
+D. DLS is a form of additive manufacturing that creates a “dead zone” in which UV light solidifies layer by layer before being baked in an oven, creating a high-quality, 3D object.
+Answer: C
+
+Question 6:
+The student wants to emphasize a similarity between the two sculptures. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Elizabeth Catlett's sculpture Recognition (1970) shows two African American figures with rounded, indistinct features.
+• The figures reach out to each other in a pose that symbolizes a close, supportive relationship.
+• Her sculpture Students Aspire (1978) shows two African American figures with sharply defined features.
+• The figures hold an equal sign above their heads with one hand and embrace each other with the other hand.
+• This pose symbolizes their support for each other in the pursuit of equality.
+
+
+A. Catlett’s Students Aspire depicts two figures supporting each other in the pursuit of equality.
+B. Recognition and Students Aspire both show African American figures in poses that symbolize supportive relationships.
+C. Catlett completed Recognition in 1970 and Students Aspire in 1978.
+D. The figures in Recognition have features that are rounded and indistinct, while the figures in Students Aspire have sharply defined features.
+Answer: B
+
+Question 35:
+The student wants to emphasize the significance of a similarity between two of the kits. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+Producing the nutrient-rich cyanobacterium *L. maxima* at industrial scale requires high-quality samples of *L. maxima* DNA.
+Yirlis Yadeth Pineda-Rodríguez and a team of researchers at the University of Córdoba, Colombia, evaluated the quantity and purity of *L. maxima* DNA extracted using three different DNA extraction kits.
+CTAB 2X (kit 1) had a DNA yield of 2,134 nanograms per microliter (ng/μL) and a purity ratio of 2.2.
+Pbact (kit 2) had a DNA yield of 157 ng/μL and a purity ratio of 1.6.
+Pplant (kit 3) had a DNA yield of 12.5 ng/μL and a purity ratio of 1.5.
+According to the researchers, Pbact was the most effective because it was the only one with both a sufficiently high yield and a purity rate close to the ideal of 1.8.
+
+
+A. Due to their insufficient yield or purity, CTAB 2X and Pplant were deemed by the researchers to be less effective than Pbact.
+B. CTAB 2X and Pplant both had a DNA yield above 10 and a purity ratio above 1.4.
+C. Compared to CTAB 2X, which had a DNA yield of 2,134 ng/μL, both Pbact and Pplant had insufficient yields; Pplant, in particular, was ineffective due to its low yield.
+D. With the ideal purity ratio being 1.8, CTAB 2X and Pbact were equal in purity, according to the researchers.
+Answer: A
+
+Question 44:
+The student wants to emphasize how the French Republican calendar honored rural life. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•The French Republican calendar was used in France from 1793 to 1805.
+•Each month was divided into three weeks of ten days each, followed by five supplemental days.
+•Each day was named after a plant, animal, agricultural tool, or mineral as a way of honoring an aspect of rural life.
+•Brumaire is the second month in the calendar.
+•The fifth day of Brumaire is named Ole, which means "goose."
+
+
+A. Each day in the French Republican calendar was given a name honoring an aspect of rural life; for example, a day in Brumaire was named for an animal, the goose.
+B. The second month in the French Republican calendar, Brumaire, had three weeks that were divided into ten days each.
+C. Each day in the French Republican calendar was given a unique name; the fifth day of Brumaire was no exception.
+D. Each day in the French Republican calendar's month of Brumaire had a unique name.
+Answer: A
+
+Question 7:
+Which choice most effectively uses information from the given sentences to make and support a generalization about symbols on flags?
+
+While researching a topic, a student has taken the following notes:
+•Vexillology is the study of flags.
+•The flags of many countries include symbols like animals, plants, or landforms.
+• These symbols often represent an aspect of the region’s history, culture, or landscape.
+• The flag of Kazakhstan includes an eagle.
+• The flag of Slovenia includes Triglav mountain.
+
+
+A. Many countries feature symbols on their flags, and the study of these designs is known as vexillology.
+B. Kazakhstan’s flag includes an eagle, a symbol that is important to that country’s national identity.
+C. Vexillology is the study of flags; accordingly, vexillologists are interested in flags from around the world.
+D. The flags of some countries include symbols of animals; Kazakhstan’s, for example, includes an eagle.
+Answer: D
+
+Question 9:
+The student wants to emphasize how hard orthoclase is in relation to other minerals. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.
+• Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.
+• Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.
+• The mineral calcite has a Mohs scale number of 3.
+• The mineral orthoclase has a Mohs scale number of 6.
+• The mineral topaz has a Mohs scale number of 8.
+
+
+A. Topaz, calcite, and orthoclase can be ordered by hardness based on their ability to scratch other minerals.
+B. Orthoclase is hard enough to scratch calcite but not hard enough to scratch topaz.
+C. In the Mohs scale of mineral hardness, topaz (8) is ranked higher than calcite (3).
+D. Topaz is hard enough to scratch both calcite and orthoclase.
+Answer: B
+
+Question 15:
+The student wants to provide an overview of the matsutake commodity chain. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• A commodity chain is the series of links connecting the production and purchase of a commodity on the world market.
+• Chinese American anthropologist Anna Tsing studies the contemporary commodity chain of matsutake mushrooms.
+• At one end of the matsutake chain are mushroom pickers in Oregon.
+• At the other end are wealthy consumers who buy the costly matsutake in Japan.
+• According to Tsing, “Japanese traders began importing matsutake in the 1980s, when the scarcity of matsutake in Japan first became clear.”
+
+
+A. The contemporary matsutake commodity chain has its origins in the 1980s when, according to Tsing, “the scarcity of matsutake in Japan first became clear.”
+B. Commodity chains include the linked production and purchase of commodities, such as the matsutake mushroom, on the world market.
+C. Decades after the Japanese import of matsutake began, a commodity chain now links matsutake pickers in Oregon with wealthy consumers of the costly mushrooms in Japan.
+D. Wealthy consumers who buy the costly mushrooms in Japan are at one end of the matsutake commodity chain.
+Answer: C
+
+Question 16:
+The student wants to explain the implications of the discovery at the Saltville site. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The Clovis First hypothesis proposes that ancient humans known as Clovis were the first to populate North America.
+• The Clovis arrived around 13,000 years ago.
+• Stone tools found at the Saltville site in Virginia date to approximately 16,000 years ago.
+• These items support the idea that humans were present in North America before the Clovis population arrived.
+• More than a dozen North American sites containing pre-Clovis items have been identified.
+
+
+A. It is the contention of the Clovis First hypothesis that the Clovis, an ancient human population, were the first to inhabit North America, arriving around 13,000 years ago.
+B. Located in Virginia, Saltville is one of more than a dozen North American sites where pre-Clovis items have been discovered.
+C. The approximately 16,000-year-old stone tools found at Saltville, a site in Virginia, should not be overlooked; they have important implications for the Clovis First hypothesis.
+D. Contrary to the Clovis First hypothesis, the approximately 16,000-year-old stone tools found at Saltville suggest that humans were in North America before the Clovis arrived.
+Answer: D
+
+Question 18:
+The student wants to refute a claim that malapportionment in the Storting favors small urban districts. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• Malapportionment is the over- or underrepresentation (relative to population size) of electoral districts in a governing body.
+• It is a common feature of representative governments.
+• There are 169 seats in Norway’s supreme legislature (the Storting).
+• Seats are distributed by a formula that awards 1 point per resident and 1.8 points per unit of land.
+• Less populated rural districts with large tracts of land receive a disproportionate number of seats compared to smaller but more populated urban districts.
+
+
+A. Awarding more points per unit of land than points per resident, the formula for distributing Storting seats overrepresents less populated rural districts with large tracts of land.
+B. A common feature of representative governments, malapportionment occurs when electoral districts are over- or underrepresented.
+C. Less populated rural districts are disproportionally underrepresented in the Storting, creating an unfair advantage for smaller but more populated urban districts.
+D. It’s untrue that malapportionment in the 169-seat Storting favors small urban districts; rather, the formula for distributing seats overrepresents more populated district
+Answer: A
+
+Question 48:
+The student wants to contrast the philosophical origins of the sublime as defined by Burke and Kant. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• In aesthetics, the sublime refers to an experience of awe, vastness, or terror that transcends mere beauty.
+• In his 1757 treatise, philosopher Edmund Burke's conception of the sublime is fundamentally empirical; he argues it originates from sensory experiences that provoke terror and pain, such as observing a powerful storm from a safe distance.
+• Philosopher Immanuel Kant, in his *Critique of Judgment* (1790), offers a rationalist counterpoint.
+• For Kant, the sublime is not located in the object itself but is a feeling arising from the mind's inability to comprehend the object's magnitude, leading to an awareness of its own rational power.
+• Caspar David Friedrich's 1818 painting *Wanderer above the Sea of Fog* is often cited as a prime visual representation of the sublime.
+
+
+A. The sublime, as represented in art like Wanderer above the Sea of Fog, is conceived by Burke as a feeling produced when the mind fails to comprehend the scene's magnitude.
+B. The sublime is an aesthetic experience, distinct from beauty, that is often associated with feelings of awe, vastness, and terror.
+C. Burke posits that the sublime originates from sensory experiences of terror, whereas Kant argues that it arises from the mind's confrontation with its own rational limits.
+D. Both Burke and Kant engaged with the concept of the sublime, using it to explain experiences that go beyond simple beauty.
+Answer: C
+
+Question 2:
+Which choice most effectively uses information from the given sentences to begin a narrative about Merle Oberon’s life?
+
+While researching a topic, a student has taken the following notes:
+• Merle Oberon (1911–1979) was an actress born in Mumbai (then known as Bombay), India.
+• She was of Indian, Maori, and Irish heritage.
+• She was the first Indian-born actress to be nominated for an Academy Award.
+• Early in her career, she played many nameless, uncredited roles, such as her role in The Three Passions (1928).
+• Later, she played many named, credited roles, such as Empress Josephine in Désirée (1954).
+
+
+A. In 1954, Merle Oberon played the role of Empress Josephine in the film Désirée.
+B. Merle Oberon appeared in many films, including The Three Passions (1928) and Désirée (1954), and was the first Indian-born actress to be nominated for an Academy Award.
+C. Though she would go on to receive credit in many films, Merle Oberon also played nameless, uncredited roles in many films, such as in the movie The Three Passions (1928).
+D. Merle Oberon’s story begins in Mumbai (then known as Bombay), India, in 1911.
+Answer: D
+
+Question 8:
+The student wants to explain how a Foucault pendulum provides evidence of Earth's rotation. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•Czech Technical University in Prague, the Czech Republic, is home to a Foucault pendulum
+•The pendulum consists of a weighted ball that swings at the end of a roughly 21-meter-long cable.
+•Like all Foucault pendulums, it dangles from a fixed point that ensures the swing path of the pendulum doesn't change.
+•To an observer, the swing path of a Foucault pendulum appears to change over time because Earth rotates beneath it.
+•Foucault pendulums are used as a simple way to provide evidence of Earth's rotation.
+
+
+A. In Prague, the Czech Republic, a Foucault pendulum at Czech Technical University provides evidence of Earth's rotation
+B. Though it swings on an unchanging path, a Foucault pendulum appears to change its swing path over time because Earth rotates beneath it.
+C. A Foucault pendulum, which consists of a weighted ball at the end of a long cable, provides evidence of Earth's rotation.
+D. The Foucault pendulum at Czech Technical University in Prague, the Czech Republic, swings on an unchanging path, but Earth rotates beneath it.
+Answer: B
+
+Question 41:
+The student wants to refute a scientific assumption about the Leidenfrost effect. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+•The Leidenfrost effect occurs when liquid touches a solid surface significantly hotter than the liquid’s boiling point, forming a vapor layer that insulates the liquid before eventually collapsing.
+•Scientists long hypothesized that the temperatures at which Leidenfrost vapor forms and collapses vary depending on molecular variations in surfaces and liquids.
+•A 2023 study confirmed that the vapor’s formation temperature varies depending on molecular variations in surfaces and liquids.
+•The study also found that the vapor’s collapse temperature was “nearly independent of material and fluid properties, contrary to previous theories.”
+•The vapor’s collapse temperature remained consistent (around 140°C).
+
+
+A. Contrary to the hypothesis that vapor layer formation temperature is dictated by molecular variation, a 2023 study confirmed that the temperature at which the vapor layer forms depends on the surface and liquid used.
+B. Though the vapor layer created by the Leidenfrost effect can be formed at a range of temperatures, the temperature at which the layer collapses varies depending on material and fluid properties.
+C. Countering previous hypotheses, a recent study found that Leidenfrost vapor’s collapse temperature does not vary depending on material and fluid properties.
+D. Scientists had hypothesized that the formation temperature of Leidenfrost vapor depends on variations in surfaces and liquids used, but a 2023 study confirmed that the collapse temperature remains consistent.
+Answer: C

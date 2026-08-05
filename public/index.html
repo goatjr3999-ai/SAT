@@ -1,0 +1,1109 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8" />
+  <title>GlorySAT – Trang chủ</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <script src="lockdown.js"></script>
+  <link rel="icon" type="image/png" href="/images/logo.webp" />
+</head>
+
+<body class="home-page">
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar" id="home-sidebar">
+    <a href="index.html" class="sigma-logo-top">
+      <img src="/images/logo.webp" alt="GlorySAT logo" class="sigma-logo-img" />
+      <span class="sigma-logo-text">GlorySAT</span>
+    </a>
+
+    <nav class="sidebar-nav">
+      <a href="index.html" class="sidebar-item active"><img src="/images/home.webp" class="sidebar-icon" alt="home"> Trang chủ</a>
+      <div class="sidebar-item collapsible" id="practice-toggle">
+        <span><img src="/images/luyende.webp" class="sidebar-icon" alt="luyende"> Luyện đề</span>
+        <span class="chevron"><img src="/images/down.webp" class="sidebar-chevron" alt="open"></span>
+      </div>
+      <div class="sidebar-submenu" id="practice-submenu">
+        <a
+          href="practice.html?category=starter"
+          class="sidebar-subitem"
+          data-category="starter"
+        >Starter</a>
+        <a
+          href="practice.html?category=real_tests"
+          class="sidebar-subitem"
+          data-category="real_tests"
+        >Đề thi thật</a>
+        <a
+          href="practice.html?category=practice_tests"
+          class="sidebar-subitem"
+          data-category="practice_tests"
+        >Đề luyện</a>
+        <a
+          href="practice.html?category=cramming"
+          class="sidebar-subitem"
+          data-category="cramming"
+        >Cramming</a>
+        <a
+          href="practice.html?category=math"
+          class="sidebar-subitem"
+          data-category="math"
+        >Math</a>
+         <a
+          href="practice.html?category=math_cramming"
+          class="sidebar-subitem"
+          data-category="math_cramming"
+        >Math Cramming</a>
+      </div>
+      <a href="wrong_answers.html" class="sidebar-item"><img src="/images/history.webp" class="sidebar-icon" alt="wrong"> Kho câu sai</a>
+      <a href="theory.html" class="sidebar-item"><img src="/images/lithuyet.webp" class="sidebar-icon" alt="lithuyet"> Lí thuyết</a>
+    </nav>
+
+    <div class="sidebar-footer">
+      
+      
+      <a href="/logout" class="logout-bottom">Đăng xuất</a>
+    </div>
+  </aside>
+
+    <button
+    class="mobile-sidebar-toggle"
+    id="mobile-sidebar-toggle"
+    type="button"
+    aria-label="Mở menu"
+    aria-expanded="false"
+    aria-controls="home-sidebar"
+  >☰</button>
+  <div class="mobile-sidebar-backdrop" id="mobile-sidebar-backdrop" hidden></div>
+
+  <!-- MAIN -->
+  <main class="main-content">
+    <div class="home-container">
+
+      <section class="home-section countdown-section">
+  <div class="countdown-row">
+    <!-- LEFT: Countdown -->
+    <div class="sat-countdown" aria-live="polite">
+      <div class="sat-countdown-body">
+        <div class="sat-countdown-head">
+          <div class="sat-title-wrap">
+            <span class="sat-dot" aria-hidden="true"></span>
+            <div class="sat-title">Ngày thi</div>
+          </div>
+          <div class="sat-date" id="sat-date">March 2026</div>
+        </div>
+
+        <div class="sat-progress" aria-hidden="true">
+          <div class="sat-progress-fill" id="sat-progress-fill" style="width: 40%;"></div>
+        </div>
+
+        <div class="sat-countdown-time">
+          <div class="sat-countdown-unit">
+            <div class="sat-countdown-value" id="sat-days">0</div>
+            <div class="sat-countdown-label">Ngày</div>
+          </div>
+
+          <span class="sat-countdown-sep">:</span>
+
+          <div class="sat-countdown-unit">
+            <div class="sat-countdown-value" id="sat-hours">00</div>
+            <div class="sat-countdown-label">Giờ</div>
+          </div>
+
+          <span class="sat-countdown-sep">:</span>
+
+          <div class="sat-countdown-unit">
+            <div class="sat-countdown-value" id="sat-minutes">00</div>
+            <div class="sat-countdown-label">Phút</div>
+          </div>
+
+          <span class="sat-countdown-sep">:</span>
+
+          <div class="sat-countdown-unit">
+            <div class="sat-countdown-value" id="sat-seconds">00</div>
+            <div class="sat-countdown-label">Giây</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="streak-card" aria-live="polite">
+  <!-- LEFT: Flame -->
+  <div class="streak-flame">
+    <img src="/images/streak.webp" alt="Streak" />
+  </div>
+
+  <!-- RIGHT: Content -->
+  <div class="streak-right">
+    <div class="streak-topline">
+      <div class="streak-days">
+        <span class="streak-days-num" id="streak-current">0</span>
+        <span class="streak-days-unit">days</span>
+      </div>
+      <div class="streak-label">Streak <span class="streak-trophy"> | 🏆</span> <span id="streak-max">12</span> days </div>
+    </div>
+
+    <div class="streak-today">
+      <span class="streak-today-done" id="streak-today-done">0</span>
+      <span class="streak-today-sep">/</span>
+      <span class="streak-today-total" id="streak-today-total">6</span>
+      <span class="streak-today-text">bài hôm nay</span>
+    </div>
+
+    <div class="streak-progress" id="streak-progress" role="progressbar" aria-valuemin="0" aria-valuemax="6" aria-valuenow="0">
+      <span class="streak-progress-seg"></span>
+      <span class="streak-progress-seg"></span>
+      <span class="streak-progress-seg"></span>
+      <span class="streak-progress-seg"></span>
+      <span class="streak-progress-seg"></span>
+      <span class="streak-progress-seg"></span>
+    </div>
+  </div>
+</div>
+  </div>
+</section>
+    <section class="home-section heatmap-section">
+      <div class="heatmap-content">
+        <div class="heatmap-main">
+          <div class="heatmap-wrapper heatmap-unified"> 
+            <div class="heatmap-calendar">
+              <div class="heatmap-months" id="heatmap-months"></div>
+              <div class="heatmap-body">
+                <div class="heatmap-weekdays" aria-hidden="true">
+                  <span>Tue</span>
+                  <span></span>
+                  <span>Thurs</span>
+                  <span></span>
+                  <span>Sat</span>
+                  <span></span>
+                  <span></span>
+                </div>
+                <div class="heatmap-grid">
+                  <div id="heatmap"></div>
+                </div>
+              </div>
+            </div>
+          <div class="heatmap-inline-divider" aria-hidden="true"></div>
+            <div class="heatmap-bottom-row" aria-hidden="true">
+              <div class="heatmap-legend">
+                <span>Beta</span>
+                <div class="heatmap-legend-scale">
+                  <i class="hm-0"></i><i class="hm-1"></i><i class="hm-2"></i><i class="hm-3"></i><i class="hm-5"></i>
+                </div>
+                <span>Sigma</span>
+              </div>
+            </div>
+          </div>
+           
+          
+
+        </div>
+        
+        <div class="pie-grid heatmap-pies">
+          
+          <div class="pie-card">
+            <div class="pie-chart" id="real-pie">
+              <span class="pie-value" id="real-percent">0%</span>
+            </div>
+            <div class="pie-info">
+              <div class="pie-label">Đề thi thật</div>
+              <div class="pie-count" id="real-count">0/0</div>
+              <div class="pie-accuracy" id="real-accuracy">Tỉ lệ đúng: 0%</div>
+            </div>
+          </div>
+           <div class="pie-card">
+            <div class="pie-chart" id="math-cramming-pie">
+              <span class="pie-value" id="math-cramming-percent">0%</span>
+            </div>
+            <div class="pie-info">
+              <div class="pie-label">Math Cramming</div>
+              <div class="pie-count" id="math-cramming-count">0/0</div>
+              <div class="pie-accuracy" id="math-cramming-accuracy">Tỉ lệ đúng: 0%</div>
+            </div>
+          </div>          
+          <div class="pie-card">
+            <div class="pie-chart" id="practice-pie">
+              <span class="pie-value" id="practice-percent">0%</span>
+            </div>
+            <div class="pie-info">
+              <div class="pie-label">Đề luyện</div>
+              <div class="pie-count" id="practice-count">0/0</div>
+              <div class="pie-accuracy" id="practice-accuracy">Tỉ lệ đúng: 0%</div>
+            </div>
+          </div>
+
+          <div class="pie-card">
+            <div class="pie-chart" id="starter-pie">
+              <span class="pie-value" id="starter-percent">0%</span>
+            </div>
+            <div class="pie-info">
+              <div class="pie-label">Starter</div>
+              <div class="pie-count" id="starter-count">0/0</div>
+              <div class="pie-accuracy" id="starter-accuracy">Tỉ lệ đúng: 0%</div>
+            </div>
+          </div>
+
+          <div class="pie-card">
+            <div class="pie-chart" id="cramming-pie">
+              <span class="pie-value" id="cramming-percent">0%</span>
+            </div>
+            <div class="pie-info">
+              <div class="pie-label">Cramming</div>
+              <div class="pie-count" id="cramming-count">0/0</div>
+              <div class="pie-accuracy" id="cramming-accuracy">Tỉ lệ đúng: 0%</div>
+            </div>
+          </div>
+
+          <div class="pie-card">
+            <div class="pie-chart" id="math-pie">
+              <span class="pie-value" id="math-percent">0%</span>
+            </div>
+            <div class="pie-info">
+              <div class="pie-label">Math</div>
+              <div class="pie-count" id="math-count">0/0</div>
+              <div class="pie-accuracy" id="math-accuracy">Tỉ lệ đúng: 0%</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      
+    </section>
+
+    <section class="home-section plan-section" id="plan-panel">
+      <div class="section-heading">Tính năng</div>
+
+      <div class="plan-panels">
+        <div class="feature-panel">
+          <div class="plan-panel-title feature-panel-title-row">
+            <img src="/images/luyentap.png" alt="Luyện tập" class="feature-panel-title-icon" onerror="this.onerror=null;this.src='/images/luyende.webp';">
+            <span class = "luyentap" >Luyện tập</span>
+          </div>
+          <div class="feature-list">
+            <div class="feature-item">
+              Làm đề theo dạng :
+              <a class="task-link-2" href="practice.html?category=starter">Starter</a>
+              hoặc
+              <a class="task-link-2" href="practice.html?category=practice_tests">Đề Luyện</a>
+            </div>
+            <div class="feature-item">
+              Làm đề thi thật :
+              <a class="task-link-2" href="practice.html?category=real_tests">Đề thi thật</a>
+            </div>
+            <div class="feature-item">
+              Cramming 2 tuần cuối và các chủ đề khó gần đây:
+              <a class="task-link-2" href="practice.html?category=cramming">Cramming</a>
+            </div>
+            <div class="feature-item">
+              Làm đề toán :
+              <a class="task-link-2" href="practice.html?category=math">Math</a>
+              hoặc
+              <a class="task-link-2" href="practice.html?category=math_cramming">Math Cramming</a>
+            </div>
+            <div class="feature-item">
+              Thi tháng 3: Ưu tiên Theme, Real Test, Cramming. 
+            </div>
+            <div class="feature-item">
+              Tổng hợp tất cả câu toán khó các tháng gần đây : Full Test trong Math. Phần này sẽ hơi khó hơn thi thật vì chúng mình bỏ hết những câu easy, chỉ để lại các câu khó
+          </div>
+            </div>
+            
+        </div>
+
+        <div class="deadline-panel">
+          <div class="plan-panel-title deadline-title">
+            <img src="/images/deadline.png" alt="Deadline" class="deadline-title-icon">
+            <span>Nhiệm vụ hôm nay</span>
+          </div>
+          <div class="plan-content-area" id="plan-content-area">
+            <div class="plan-loader">Đang tải kế hoạch luyện tập...</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SOCIAL LINKS -->
+    <div class="social-links">
+  <div class="social-inner">
+    <a class="social-link" href="https://www.threads.com/@glory.sat?igshid=NTc4MTIwNjQ2YQ==" target="_blank" rel="noopener noreferrer">
+      <span class="social-link-text">Threads</span>
+      <img class="social-link-icon" src="/images/threads.png" alt="Threads">
+    </a>
+
+    <a class="social-link" href="https://www.tiktok.com/@glory.sat?_r=1&_t=ZS-93fpLWJQkXo" target="_blank" rel="noopener noreferrer">
+      <span class="social-link-text">TikTok</span>
+      <img class="social-link-icon" src="/images/tiktok.webp" alt="TikTok">
+    </a>
+  </div>
+</div>
+    <!-- ▲▲▲ HEATMAP END ▲▲▲ -->
+     
+
+  </main>
+
+  <script src="notification.js"></script>
+          <div class="plan-modal-backdrop" id="plan-modal">
+  <div class="plan-modal">
+
+    <button class="plan-close" id="plan-close">X</button>
+
+    <!-- Title ở giữa -->
+    <div class="plan-header-center">
+      <div class="plan-title-top">NÂNG CẤP GLORY</div>
+      <div class="plan-subtitle plan-subtitle-center">
+        Gói Glory 1 tháng : 79.000 VNĐ
+      </div>
+    </div>
+
+    <!-- 2 COLUMN LAYOUT -->
+    <div class="plan-grid plan-grid-row">
+
+
+      <!-- RIGHT -->
+      <div class="plan-right">
+
+        <!-- Description vẫn nằm bên phải -->
+
+
+        <ul class="plan-benefits">
+  <li>
+    Thông tin về Web chúng mình sẽ có trong 
+    <a href="aboutus.html" class="underline-link">About Us</a>. 
+    Mọi người đọc kĩ phần này trước khi đăng kí nhé ^^
+  </li>
+</ul>
+        
+        <p class="plan-footer-text">
+          Mọi người muốn đăng kí hoặc tư vấn có thể inbox trực tiếp qua Threads/Instagram glory.sat của chúng mình nhé!
+        </p>
+        
+
+      </div>
+
+    </div>
+
+    <!-- Button căn giữa -->
+    <div class="plan-upgrade-center">
+      <button class="upgrade-btn" id="upgrade-btn">Nâng cấp ngay</button>
+    </div>
+
+  </div>
+</div>
+
+<div class="upgrade-success-popup" id="upgrade-success-popup" aria-hidden="true">
+  <div class="upgrade-success-card" role="dialog" aria-modal="false" aria-labelledby="upgrade-success-title">
+    <button class="upgrade-success-close" id="upgrade-success-close" type="button" aria-label="Đóng thông báo">×</button>
+    <div class="upgrade-success-icon" aria-hidden="true">✓</div>
+    <div class="upgrade-success-title" id="upgrade-success-title">Tài khoản của bạn đã được nâng cấp nhanh công</div>
+  </div>
+</div>
+
+
+  <script>
+  const accountStatus = document.getElementById("account-status");
+  const classChip = document.getElementById("class-chip");
+  const classChipText = document.getElementById("class-chip-text");
+  const planModal = document.getElementById("plan-modal");
+  const closePlanBtn = document.getElementById("plan-close");
+  const upgradeBtn = document.getElementById("upgrade-btn");
+  const planPanel = document.getElementById("plan-panel");
+  const planContentArea = document.getElementById("plan-content-area");
+  const planExamLabel = document.getElementById("plan-exam-label");
+  const planSubtitle = document.getElementById("plan-subtitle");
+  const upgradeSuccessPopup = document.getElementById("upgrade-success-popup");
+  const upgradeSuccessClose = document.getElementById("upgrade-success-close");
+  let isProAccount = false;
+
+  function closeUpgradeSuccessPopup() {
+    if (!upgradeSuccessPopup) return;
+    upgradeSuccessPopup.classList.remove("open");
+    upgradeSuccessPopup.setAttribute("aria-hidden", "true");
+  }
+
+  function openUpgradeSuccessPopup() {
+    if (!upgradeSuccessPopup) return;
+    upgradeSuccessPopup.classList.add("open");
+    upgradeSuccessPopup.setAttribute("aria-hidden", "false");
+  }
+
+  function openPlanModal() {
+    if (!planModal) return;
+    planModal.classList.add("open");
+    document.body.classList.add("modal-open");
+  }
+
+  function closePlanModal() {
+    if (!planModal) return;
+    planModal.classList.remove("open");
+    document.body.classList.remove("modal-open");
+  }
+
+  function getSelectedPlan() {
+    return "month";
+  }
+
+  function setPlanStatus(text) {
+    if (planSubtitle) planSubtitle.textContent = text;
+  }
+
+  function setExamLabel(text) {
+    if (planExamLabel) {
+      planExamLabel.textContent = text || "";
+      planExamLabel.classList.toggle("visible", !!text);
+    }
+  }
+function setClassLabel(className) {
+    if (!classChip || !classChipText) return;
+
+    if (className) {
+      classChipText.textContent = `Lớp ${className}`;
+      classChip.style.display = "inline-flex";
+    } else {
+      classChipText.textContent = "";
+      classChip.style.display = "none";
+    }
+  }
+
+  function renderPlanMessage({ title, description, action }) {
+    if (!planContentArea) return;
+
+    planContentArea.innerHTML = `
+      <div class="plan-message">
+        <div>
+          <div class="plan-message-title">${title}</div>
+          <p class="plan-message-desc">${description || ""}</p>
+        </div>
+        ${
+          action
+            ? `<button class="plan-action-btn" id="plan-action-btn">${action.label}</button>`
+            : ""
+        }
+      </div>
+    `;
+
+    if (action?.onClick) {
+      const btn = document.getElementById("plan-action-btn");
+      btn?.addEventListener("click", action.onClick);
+    }
+  }
+
+  const categoryLabels = {
+    starter: "Starter",
+    real_tests: "Đề thi thật",
+    practice_tests: "Đề luyện",
+    cramming: "Cramming",
+    math: "Math",
+    math_cramming: "Math Cramming",
+  };
+
+  function formatAssignmentLabel(testFile) {
+    const parts = (testFile || "").split("/");
+    const name = parts[parts.length - 1] || testFile;
+    return name.replace(/[_-]+/g, " ");
+  }
+
+  function formatAssignedAt(value) {
+    if (!value) return "";
+    const date = new Date(value);
+    return date.toLocaleString("vi-VN", { timeZone: "Asia/Ho_Chi_Minh" });
+  }
+
+  function getDeadlineDate(value) {
+    if (!value) return null;
+    const raw = String(value).trim();
+    if (!raw) return null;
+     const dateOnlyMatch = raw.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+    if (dateOnlyMatch) {
+      const year = Number(dateOnlyMatch[1]);
+      const month = Number(dateOnlyMatch[2]) - 1;
+      const day = Number(dateOnlyMatch[3]);
+      return new Date(year, month, day);
+    }
+
+    const parsed = new Date(raw);
+    return Number.isNaN(parsed.getTime()) ? null : parsed;
+  }
+
+  function toDateKey(date) {
+    if (!(date instanceof Date) || Number.isNaN(date.getTime())) return "";
+    const year = date.getFullYear();
+    const month = String(date.getMonth() + 1).padStart(2, "0");
+    const day = String(date.getDate()).padStart(2, "0");
+    return `${year}-${month}-${day}`;
+  }
+
+  function formatDeadlineLabel(deadline) {
+    const parsed = getDeadlineDate(deadline);
+    if (!parsed) return "";
+    return parsed.toLocaleDateString("vi-VN", { timeZone: "Asia/Ho_Chi_Minh" });
+  }
+
+  function sortAssignments(assignments = []) {
+    return [...assignments].sort((a, b) => {
+      const aDeadline = getDeadlineDate(a.deadline);
+      const bDeadline = getDeadlineDate(b.deadline);
+
+      if (aDeadline && bDeadline) {
+        const deadlineDiff = aDeadline.getTime() - bDeadline.getTime();
+        if (deadlineDiff !== 0) return deadlineDiff;
+      } else if (aDeadline || bDeadline) {
+        return aDeadline ? -1 : 1;
+      }
+
+      const aAssigned = new Date(a.assigned_at || 0).getTime();
+      const bAssigned = new Date(b.assigned_at || 0).getTime();
+      return bAssigned - aAssigned;
+    });
+  }
+
+  function renderAssignmentList(assignments = []) {
+
+    if (!planContentArea) return;
+    if (!assignments.length) {
+      planContentArea.innerHTML =
+        '<div class="plan-empty">Bạn thật Sigma khi đã hoàn thành hết deadline</div>';
+      return;
+    }
+
+    const list = document.createElement("div");
+    list.className = "plan-task-list";
+
+    const todayKey = toDateKey(new Date());
+    const sortedAssignments = sortAssignments(assignments);
+
+    sortedAssignments.forEach((item) => {
+      const card = document.createElement("div");
+      card.className = "plan-task-card";
+
+      const deadlineLabel = formatDeadlineLabel(item.deadline);
+      const deadlineDate = getDeadlineDate(item.deadline);
+      const isDeadlineToday = deadlineDate && toDateKey(deadlineDate) === todayKey;
+
+      const meta = document.createElement("div");
+      const startLink = `<a class="task-link" href="test.html?file=${encodeURIComponent(
+        item.test_file
+      )}">Làm bài ngay</a>`;
+      meta.innerHTML = `
+        <div class="task-title">${formatAssignmentLabel(item.test_file)}</div>
+        ${
+          deadlineLabel
+            ? `<div class="task-deadline${isDeadlineToday ? " deadline-today" : ""}">Deadline: ${deadlineLabel}</div>${startLink}`
+            : startLink
+        }
+      `;
+
+      card.appendChild(meta);
+      list.appendChild(card);
+    });
+
+    planContentArea.innerHTML = "";
+    planContentArea.appendChild(list);
+   
+
+  }
+
+  function renderNoClassMessage() {
+    setPlanStatus("Tính năng");
+    setExamLabel("");
+    renderPlanMessage({
+      title: "Chưa có lớp được gán",
+      description:
+        "Tính năng này chỉ dành cho các Lớp Tutor",
+    });
+  }
+
+  async function loadAssignmentsPanel() {
+    if (!planPanel || !planContentArea) return;
+
+    planContentArea.innerHTML =
+      '<div class="plan-loader">Đang tải bài tập được giao...</div>';
+
+  try {
+      const res = await fetch("/api/class-assignments");
+      if (!res.ok) {
+        renderPlanMessage({
+          title: "Không tải được bài tập",
+          description: "Vui lòng thử lại sau ít phút nữa.",
+        });
+        return;
+      }
+
+    const payload = await res.json();
+
+      if (!payload.classId) {
+        renderNoClassMessage();
+        return;
+      }
+
+      setPlanStatus("Tính năng");
+      setExamLabel(payload.className ? `Lớp ${payload.className}` : "");
+      renderAssignmentList(payload.assignments || []);
+    } catch (error) {
+      console.error("loadAssignmentsPanel error", error);
+      renderPlanMessage({
+        title: "Không tải được bài tập",
+        description: "Có lỗi xảy ra khi tải bài tập được giao.",
+      });
+    }
+  }
+
+    function initPlanWidget() {
+    if (!planPanel) return;
+    loadAssignmentsPanel();
+  }
+
+  if (planModal) {
+    planModal.addEventListener("click", (event) => {
+      if (event.target === planModal) closePlanModal();
+    });
+  }
+
+  if (closePlanBtn) {
+    closePlanBtn.addEventListener("click", closePlanModal);
+  }
+
+  if (upgradeBtn) {
+    upgradeBtn.addEventListener("click", () => {
+      const plan = getSelectedPlan();
+      window.location.href = `/payment.html?plan=${plan}`;
+    });
+  }
+
+  if (accountStatus) {
+    accountStatus.addEventListener("click", () => {
+      if (!isProAccount) openPlanModal();
+    });
+  }
+
+  if (upgradeSuccessPopup) {
+    upgradeSuccessPopup.addEventListener("click", (event) => {
+      if (event.target === upgradeSuccessPopup) closeUpgradeSuccessPopup();
+    });
+  }
+
+  if (upgradeSuccessClose) {
+    upgradeSuccessClose.addEventListener("click", closeUpgradeSuccessPopup);
+  }
+
+  if (sessionStorage.getItem("show-upgrade-success-popup") === "1") {
+    sessionStorage.removeItem("show-upgrade-success-popup");
+    openUpgradeSuccessPopup();
+  }
+  
+  async function loadAccountStatus() {
+    const el = document.getElementById("account-status");
+    if (!el) return false;
+
+    const dot = el.querySelector(".status-dot");
+    const text = el.querySelector(".status-text");
+
+    const setState = (isPro) => {
+      isProAccount = !!isPro;
+      const isClickable = !isProAccount;
+      el.classList.toggle("pro", isProAccount);
+      if (dot) dot.classList.toggle("pro", !!isPro);
+      if (text) text.textContent = isPro ? "Tài khoản Pro" : "Tài khoản thường";
+      el.classList.toggle("clickable", isClickable);
+    };
+
+    try {
+      const res = await fetch("/api/me");
+      if (!res.ok) throw new Error("Session not available");
+      const me = await res.json();
+      setState(!!me?.isPro);
+      setClassLabel(me?.className || null);
+      return !!me?.isPro;
+    } catch (err) {
+      if (text) text.textContent = "Không lấy được trạng thái";
+      setClassLabel(null);
+      el.classList.remove("clickable");
+      console.error("Không thể lấy trạng thái tài khoản", err);
+      return false;
+    }
+  }
+
+  async function loadHomeStats() {
+    const updateChart = (key, done, total, accuracyRatio) => {
+      const percent = total > 0 ? Math.round((done / total) * 100) : 0;
+      const accuracy = Math.round((accuracyRatio || 0) * 100);
+
+      const pie = document.getElementById(`${key}-pie`);
+      const percentEl = document.getElementById(`${key}-percent`);
+      const countEl = document.getElementById(`${key}-count`);
+      const accuracyEl = document.getElementById(`${key}-accuracy`);
+
+      if (pie) pie.style.setProperty("--percent", percent);
+      if (percentEl) percentEl.textContent = `${percent}%`;
+      if (countEl) countEl.textContent = `${done}/${total}`;
+      if (accuracyEl) accuracyEl.textContent = `Tỉ lệ đúng: ${accuracy}%`;
+    };
+
+    try {
+      const res = await fetch("/api/home-stats");
+      const data = await res.json();
+      const totals = data.totals || {};
+      const completed = data.completed || {};
+      const accuracy = data.accuracy || {};
+
+      updateChart(
+        "real",
+        completed.real_tests || 0,
+        totals.real_tests || 0,
+        accuracy.real_tests || 0
+      );
+      updateChart(
+        "practice",
+        completed.practice_tests || 0,
+        totals.practice_tests || 0,
+        accuracy.practice_tests || 0
+      );
+      updateChart(
+        "starter",
+        completed.starter || 0,
+        totals.starter || 0,
+        accuracy.starter || 0
+      );
+      updateChart(
+        "cramming",
+        completed.cramming || 0,
+        totals.cramming || 0,
+        accuracy.cramming || 0
+      );
+      updateChart(
+        "math",
+        completed.math || 0,
+        totals.math || 0,
+        accuracy.math || 0
+      );
+      updateChart(
+        "math-cramming",
+        completed.math_cramming || 0,
+        totals.math_cramming || 0,
+        accuracy.math_cramming || 0
+      );
+    } catch (err) {
+      console.error("Không thể tải thống kê trang chủ", err);
+    }
+  }
+
+  loadHomeStats();
+  loadAccountStatus().then(initPlanWidget);
+  </script>
+
+  <!-- ▼▼▼ HEATMAP JS (đã sửa phần tính toán text) ▼▼▼ -->
+
+  
+<script>
+async function loadHeatmap() {
+  // LUÔN LẤY DATA MỚI, KHÔNG CACHE
+  const res = await fetch("/api/heatmap?ts=" + Date.now(), {
+    cache: "no-store"
+  });
+  const data = await res.json();
+
+  const daysToShow = 150;
+
+  const map = {};
+  let earliestActivity = null;
+  (data.activity || []).forEach(row => {
+    // row.date dạng "YYYY-MM-DD" từ server (giờ VN)
+    map[row.date] = Number(row.problems_solved) || 0;
+    if (!earliestActivity || row.date < earliestActivity) {
+      earliestActivity = row.date;
+    }
+  });
+
+  const heatmap = document.getElementById("heatmap");
+  const heatmapMonths = document.getElementById("heatmap-months");
+  heatmap.innerHTML = ""; // xoá cell cũ nếu có
+  if (heatmapMonths) {
+    heatmapMonths.innerHTML = "";
+  }
+
+  const tooltip = document.createElement("div");
+  tooltip.className = "hm-tooltip";
+  document.body.appendChild(tooltip);
+
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+
+  // ngày bắt đầu: 180 ngày trước (dùng giờ local)
+  const startDate = new Date(today);
+  startDate.setDate(startDate.getDate() - daysToShow + 1);
+  startDate.setHours(0, 0, 0, 0);
+
+  const dayIndex = (startDate.getDay() + 6) % 7; // Monday = 0
+  const gridStart = new Date(startDate);
+  gridStart.setDate(gridStart.getDate() - dayIndex);
+
+  // Hàm format ngày local thành "YYYY-MM-DD"
+  const toKey = (d) => d.toLocaleDateString("sv-SE"); // ví dụ: 2025-11-17
+   const diffDays = (a, b) => Math.floor((b - a) / 86400000);
+
+  const totalGridDays = diffDays(gridStart, today) + 1;
+  const columns = Math.ceil(totalGridDays / 7);
+  heatmap.style.setProperty("--hm-columns", columns);
+  if (heatmapMonths) {
+    heatmapMonths.style.setProperty("--hm-columns", columns);
+  }
+
+  const monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
+  // =======================
+  // THỐNG KÊ
+  // =======================
+  let totalAll = 0;
+  let totalYear = 0;
+  let totalMonth = 0;
+  let totalWeek = 0;
+
+  // Tính max streak + tổng
+  totalAll = Object.values(map).reduce((sum, value) => sum + Number(value || 0), 0);
+
+    const startOfYear = new Date(today.getFullYear(), 0, 1);
+  const startOfMonth = new Date(today.getFullYear(), today.getMonth(), 1);
+  const startOfWeek = new Date(today);
+  const weekIndex = (today.getDay() + 6) % 7;
+  startOfWeek.setDate(today.getDate() - weekIndex);
+
+  for (let d = new Date(startOfYear); d <= today; d.setDate(d.getDate() + 1)) {
+    const solved = Number(map[toKey(d)] || 0);
+    totalYear += solved;
+  }
+
+
+    for (let d = new Date(startOfMonth); d <= today; d.setDate(d.getDate() + 1)) {
+    const solved = Number(map[toKey(d)] || 0);
+    totalMonth += solved;
+  }
+
+  for (let d = new Date(startOfWeek); d <= today; d.setDate(d.getDate() + 1)) {
+    const solved = Number(map[toKey(d)] || 0);
+    totalWeek += solved;
+  }
+
+  // Tính streak hiện tại (từ hôm nay lùi lại)
+  let streak = 0;
+  let cur = new Date(today);
+  while (true) {
+    const key = toKey(cur);
+    const solved = Number(map[key] || 0);
+
+    if (solved > 0) streak++;
+    else break;
+
+    cur.setDate(cur.getDate() - 1);
+  }
+  // Tính max streak (từ trước tới giờ)
+  let maxStreak = 0;
+  let running = 0;
+  let maxStart = earliestActivity ? new Date(`${earliestActivity}T00:00:00`) : startDate;
+  maxStart.setHours(0, 0, 0, 0);
+
+  for (let d = new Date(maxStart); d <= today; d.setDate(d.getDate() + 1)) {
+    const solved = Number(map[toKey(d)] || 0);
+    if (solved > 0) {
+      running += 1;
+      if (running > maxStreak) maxStreak = running;
+    } else {
+      running = 0;
+    }
+  }
+
+  // =======================
+  // VẼ HEATMAP
+  // =======================
+  for (let d = new Date(gridStart); d <= today; d.setDate(d.getDate() + 1)) {
+    const key = toKey(d);
+    const inRange = d >= startDate;
+    const solved = inRange ? Number(map[key] || 0) : 0;
+
+    const cell = document.createElement("div");
+    cell.classList.add("hm-cell");
+
+    if (!inRange) {
+      cell.classList.add("hm-outside");
+    } else {
+      const level = Math.min(solved, 5);
+      cell.classList.add(`hm-${level}`);
+    }
+
+    // Fallback: set inline background color so heatmap still shows
+    // even if CSS classes are missing or overridden.
+    const hmColors = ['#e5e7eb', '#d1fae5', '#a7f3d0', '#6ee7b7', '#34d399', '#059669'];
+    if (inRange) {
+      const level = Math.min(solved, 5);
+      const color = hmColors[level] || hmColors[0];
+      cell.style.backgroundColor = color;
+      cell.setAttribute('data-solved', String(solved));
+    }
+
+    // tooltip
+    if (inRange) {
+      cell.addEventListener("mouseenter", (ev) => {
+        tooltip.innerText = `${key} – ${solved} bài test`;
+        tooltip.style.left = ev.pageX + "px";
+        tooltip.style.top = ev.pageY + "px";
+        tooltip.style.opacity = 1;
+      });
+
+    cell.addEventListener("mousemove", (ev) => {
+        tooltip.style.left = ev.pageX + "px";
+        tooltip.style.top = ev.pageY + "px";
+      });
+
+    cell.addEventListener("mouseleave", () => {
+        tooltip.style.opacity = 0;
+      });
+    }
+
+    heatmap.appendChild(cell);
+  }
+
+  if (heatmapMonths) {
+    const monthAnchors = [];
+    for (let d = new Date(startDate); d <= today; d.setDate(d.getDate() + 1)) {
+      if (d.getDate() === 1 || d.getTime() === startDate.getTime()) {
+        const weekCol = Math.floor(diffDays(gridStart, d) / 7);
+        monthAnchors.push({ label: monthNames[d.getMonth()], col: weekCol + 1 });
+      }
+    }
+
+    monthAnchors.forEach((month) => {
+      const label = document.createElement("span");
+      label.textContent = month.label;
+      label.style.gridColumn = String(month.col);
+      heatmapMonths.appendChild(label);
+    });
+  }
+
+  // =======================
+  // CẬP NHẬT TEXT
+  // =======================
+  const streakCurrent = document.getElementById("streak-current");
+  if (streakCurrent) streakCurrent.innerText = streak;
+  const streakMax = document.getElementById("streak-max");
+  if (streakMax) streakMax.innerText = maxStreak;
+
+  const dailyGoal = 6;
+  const todaySolved = Number(map[toKey(today)] || 0);
+  const solvedForProgress = Math.min(Math.max(todaySolved, 0), dailyGoal);
+
+  const streakTodayDone = document.getElementById("streak-today-done");
+  if (streakTodayDone) streakTodayDone.innerText = solvedForProgress;
+
+  const streakTodayTotal = document.getElementById("streak-today-total");
+  if (streakTodayTotal) streakTodayTotal.innerText = dailyGoal;
+
+  const streakProgress = document.getElementById("streak-progress");
+  if (streakProgress) {
+    streakProgress.setAttribute("aria-valuenow", String(solvedForProgress));
+    const segments = streakProgress.querySelectorAll(".streak-progress-seg");
+    segments.forEach((segment, index) => {
+      segment.classList.toggle("is-filled", index < solvedForProgress);
+    });
+  }
+  
+  if (heatmapYear) {
+    heatmapYear.innerText = today.getFullYear();
+  }
+}
+
+loadHeatmap();
+</script>
+<script>
+  (function initSatCountdown() {
+    const targetTime = Date.UTC(2026, 2, 14, 1, 0, 0);
+    const daysEl = document.getElementById("sat-days");
+    const hoursEl = document.getElementById("sat-hours");
+    const minutesEl = document.getElementById("sat-minutes");
+    const secondsEl = document.getElementById("sat-seconds");
+
+    if (!daysEl || !hoursEl || !minutesEl || !secondsEl) return;
+
+    const pad = (value) => String(value).padStart(2, "0");
+
+    const updateCountdown = () => {
+      const now = Date.now();
+      const diff = Math.max(targetTime - now, 0);
+      const totalSeconds = Math.floor(diff / 1000);
+
+      const days = Math.floor(totalSeconds / 86400);
+      const hours = Math.floor((totalSeconds % 86400) / 3600);
+      const minutes = Math.floor((totalSeconds % 3600) / 60);
+      const seconds = totalSeconds % 60;
+
+      daysEl.textContent = String(days);
+      hoursEl.textContent = pad(hours);
+      minutesEl.textContent = pad(minutes);
+      secondsEl.textContent = pad(seconds);
+
+      if (diff === 0) {
+        clearInterval(timer);
+      }
+    };
+
+    updateCountdown();
+    const timer = setInterval(updateCountdown, 1000);
+  })();
+</script>
+<script>
+  // Toggle submenu trên sidebar trang chủ
+  (function initPracticeMenu() {
+    const submenu = document.getElementById("practice-submenu");
+    const toggle = document.getElementById("practice-toggle");
+    const chevron = toggle?.querySelector(".chevron");
+
+    function setOpen(open) {
+      if (!submenu || !toggle) return;
+      submenu.classList.toggle("open", open);
+      toggle.classList.toggle("active", open);
+      if (chevron) {
+        const img = chevron.querySelector('img');
+        if (img) img.src = open ? '/images/up.webp' : '/images/down.webp';
+      }
+    }
+
+    if (toggle) {
+      toggle.addEventListener("click", () => setOpen(!submenu?.classList.contains("open")));
+    }
+
+    setOpen(false);
+  })();
+</script>
+<script>
+  (function initMobileSidebar() {
+    const sidebar = document.querySelector(".sidebar");
+    const toggleBtn = document.getElementById("mobile-sidebar-toggle");
+    const backdrop = document.getElementById("mobile-sidebar-backdrop");
+
+    if (!sidebar || !toggleBtn || !backdrop) return;
+
+    function setSidebarState(isOpen) {
+      sidebar.classList.toggle("open", isOpen);
+      backdrop.hidden = !isOpen;
+      toggleBtn.setAttribute("aria-expanded", String(isOpen));
+      document.body.classList.toggle("sidebar-open", isOpen);
+    }
+
+    toggleBtn.addEventListener("click", () => {
+      setSidebarState(!sidebar.classList.contains("open"));
+    });
+
+    backdrop.addEventListener("click", () => setSidebarState(false));
+
+    window.addEventListener("resize", () => {
+      if (window.innerWidth > 900) {
+        setSidebarState(false);
+      }
+    });
+  })();
+</script>
+
+  <!-- ▲▲▲ HEATMAP JS END ▲▲▲ -->
+
+  <script src="pro-account-popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,120 @@
+Question 1:
+[COE]
+Information in the text best supports which statement about the finding made by Altınışık et al.?
+
+Archaeologists have observed similarities in the tools, such as bidirectional blades, uncovered at the Neolithic-period Mesopotamian settlement of Çayönü Tepesi and those uncovered at roughly contemporaneous settlements elsewhere in Southwest Asia, including those in the South Levant, Central Anatolia, and Central Zagros. Although similarities in tools could be attributed to imitative behavior or trade, Nefize Ezgi Altınışık et al. found evidence of genetic affinity among the populations of Çayönü Tepesi, Central Anatolia, the South Levant, and—to a lesser extent—Central Zagros.
+
+A. It suggests that in the Neolithic period, people in the South Levant and Central Anatolia imitated tool designs originating in Çayönü Tepesi more frequently than people in Central Zagros did.
+B. It helps explain why contemporaneous Neolithic peoples in Southwest Asia had similar tools but lacked other obvious cultural similarities.
+C. It raises the possibility that similarities in the design of tools found at Neolithic settlements in Southwest Asia emerged due to population blending between those settlements.
+D. It implies that people and tools likely arrived in Çayönü Tepesi from settlements in Central Anatolia and the South Levant at an earlier time than they did from settlements in Central Zagros.
+Answer: C
+
+Question 2:
+[COE]
+Which statement about Namasenda is best supported by the text?
+
+Many artists associated with hyperpop, a movement in electronic music that emerged in the 2010s, conform to the model perfected by the American duo 100 gecs: bold synthesizer arrangements, propulsive beats, and electronically manipulated vocals. Yet the movement is hardly uniform: Swedish recording artist Namasenda incorporates hip-hop rhythms into the hyperpop sound, for example. Such stylistic diversity is encouraged in part by the music-streaming app Spotify, whose curated playlist of hyperpop songs balances cohesion with variety.
+
+A. While some of her recordings conform to the model perfected by 100 gecs, others reject it outright.
+B. Her music diverges from the typical hyperpop sound but doesn’t abandon it.
+C. She developed her unique sound without being influenced by other artists on Spotify’s hyperpop playlist.
+D. Her inclusion on Spotify’s hyperpop playlist inspired established artists to embrace stylistic experimentation.
+Answer: B
+
+Question 3:
+[COE]
+Which finding from the study, if true, would most directly support the team’s conclusion?
+
+Neurobiologists Laura Cuaya, Raúl Hernández-Pérez, and colleagues investigated the language detection abilities of eighteen dogs of various ages. The researchers monitored the brain activity of Odin (a 54-month-old border collie), Bingo (a 37-month-old mixed breed), and other dogs while the animals listened to three recordings: one of The Little Prince being read in Spanish, the second in Hungarian, and a third made up of short, randomly selected fragments of the first two, scrambled so that they didn’t resemble human speech. Each of the dogs was familiar with either Spanish or Hungarian, but not both. The team concluded that the younger the dog, the worse it may be at differentiating between familiar and unfamiliar languages.
+
+A. Although the dogs’ general hearing sensitivity declined with age, dogs of all ages showed more brain activity in response to hearing the language they were accustomed to than in response to hearing the other language.
+B. As the age of the dog scanned decreased, so did the amount of brain activity in response to hearing the language the dog was accustomed to or the other language, but not in response to hearing the scrambled recording.
+C. Dogs showed a different pattern of brain activity when hearing the language they were accustomed to than when hearing the other language, and the difference in brain activity decreased as the age of the dog scanned decreased.
+D. The similarity between the pattern of brain activity a dog showed in response to hearing the scrambled recording and the pattern it showed in response to hearing the language it was not accustomed to was lowest among younger dogs.
+Answer: C
+
+Question 4:
+[COE]
+Which statement, if true, would most strongly support Wade’s argument?
+
+In medieval England, singers and minstrels made livings as traveling performers, but the pieces they performed have been a mystery, thought to be lost or never committed to paper at all. Recently, however, James Wade has argued that a manuscript collection compiled in the fifteenth century by Richard Heege contains three pieces likely copied from a repertoire book belonging to a minstrel working in the area around Heege’s home. Wade cites features of the texts indicative of live performance, such as chastising the audience, extensive use of simple structures (allowing for easy memorization), and requests for tips (payment) from listeners.
+
+A. Heege’s collection contains the earliest examples of the three pieces in question, but each of those pieces occurs in other manuscript collections compiled after Heege’s.
+B. The three pieces in question contain references that presume that the audience is familiar with Brackonwet and other small villages near where Heege lived.
+C. Features like simple structures also occur in other texts from the period that were widely read but are not known to have been performed for live audiences.
+D. Traveling minstrels are thought to have performed mainly for elite audiences, and other parts of Heege’s collection reflect his interest in works with popular appeal.
+Answer: B
+
+Question 5:
+[COE]
+Which finding, if true, would most directly support the second research team's hypothesis?
+
+Water flowing around an obstruction creates vortices (patterns of swirls) of varying size; by detecting the vortices, fish can determine the size and position of the obstruction. Testing by Yuzo R. Yanagisuru, Otar Akanyeti, and James C. Liao using models of three head shapes—narrow (low ratio of width to length), intermediate, and wide (high ratio of width to length)—showed that for large vortices, fish with intermediate heads would be better able than narrow-headed fish to distinguish between vortices and general turbulence in the water. A second research team has therefore hypothesized that in low-visibility conditions, intermediate-headed fish will be more likely than narrow-headed fish to detect obstructions that create large vortices.
+
+A. A study using obstructions that created large vortices in low-visibility conditions found that the intermediate-headed rainbow trout (Oncorhynchus mykiss) bumped into the obstructions just as often as the narrow-headed lookdown (Selene vomer) did.
+B. A study using obstructions that created large vortices in low-visibility conditions found that some specimens of the intermediate-headed rainbow trout (Oncorhynchus mykiss) bumped into the obstructions more often than other specimens of the same fish did.
+C. A study using obstructions that created large vortices in low-visibility conditions found that the narrow-headed lookdown (Selene vomer) bumped into obstructions more often than the intermediate-headed rainbow trout (Oncorhynchus mykiss) did.
+D. A study using obstructions that created large vortices in low-visibility conditions found that the lookdown (Selene vomer), which has a relatively narrow head, bumped into more than half of the obstructions.
+Answer: C
+
+Question 6:
+[COE]
+Which finding, if true, would most directly support the second research team’s hypothesis?
+
+To detect information about water flow, fish have sensors running from the snout tip down the sides of the head. Yuzo R. Yanagitsuru, Onur Akanyeti, and James C. Liao conducted tests to find where the difference in pressure is greatest between two adjacent sensors because, according to the researchers, as these pressure differences increase, so does the amount of information available to the fish. Using the ratio of head width to length, they found that the greatest pressure difference is closer to the snout for narrower heads (lower ratio of width to length) and farther from the snout for wider heads (higher ratio of width to length). Based on this finding, a second team of researchers has hypothesized that the sensors where information is greatest are likely more sensitive than the rest.
+
+A. The longnose gar (Lepisosteus osseus) has a much narrower head than the devil catfish (Bagarius bagarius), and the most sensitive sensors of the longnose gar are closer to the snout than are those of the devil catfish.
+B. The longnose gar has a much narrower head than the devil catfish, and the most sensitive sensors for both are very close to their snouts.
+C. The longnose gar has a much narrower head than the devil catfish, and while the sensors nearest the snout for the longnose gar are more sensitive than the others, for the devil catfish all sensors are equally sensitive.
+D. The longnose gar has a much narrower head than the devil catfish, and the most sensitive sensors for the devil catfish are closer to the snout than are those for the longnose gar.
+Answer: A
+
+Question 7:
+[COE]
+Which statement about the view put forward by "some researchers" is best supported by information in the text?
+
+Some researchers have proposed that the extinction of megafauna across the Americas was caused by a single catastrophic event: a comet impact that initiated the Younger Dryas climate shift approximately 12,900 years ago. The disappearance of mainland woolly mammoths is largely contemporaneous with this proposed event. In contrast, Alan Cooper et al. demonstrated through their research that some populations of South American ground sloths persisted until at least 10,500 years ago.
+
+A. The hypothesis might account for the extinction of mainland woolly mammoths but does not account for the later survival of South American ground sloths.
+B. The hypothesis is supported by the findings of Cooper et al. but is challenged by the extinction timeline of woolly mammoths.
+C. The hypothesis implies that the comet impact must have occurred later than 12,900 years ago.
+D. The hypothesis is based on a misunderstanding of the extinction timelines for both woolly mammoths and ground sloths.
+Answer: A
+
+Question 8:
+[COE]
+Which finding, if true, would most directly support the researchers' conclusion?
+
+Anna Linderholm and other researchers probed the evolutionary history of size variation in canids (wolves, foxes, dogs, and their close relatives). The researchers found that small domestic dogs (e.g., Pomeranians) as well as small wild canids (e.g., foxes) tend to have a particular variant, known as the C allele, of the gene IGF1, a growth-related gene found in all mammals. Large canids (e.g., gray wolves, German shepherds), however, tend to have a different variant, known as the T allele, of IGF1. The researchers concluded that the T allele is the more recent of the two alleles to emerge.
+
+A. The T allele is more common among wild canids native to cold regions, whereas the C allele is more common among wild canids native to warm regions.
+B. Many domestic dogs and wild canids are heterozygous with regard to IGF1, meaning that they carry both the C and T alleles.
+C. The C allele but not the T allele is found in both bears and ferrets, which share a relatively recent common ancestor with canids.
+D. Domestic dogs are descended from populations of wild canids in which the C allele was more prevalent than the T allele.
+Answer: C
+
+Question 9:
+[COE]
+Which finding, if true, would most directly weaken the student’s claim?
+
+Isabel Núñez and colleagues studied how members of the Yupno, an Indigenous group in Papua New Guinea, conceptualize time. The researchers recorded Yupno speakers explaining certain temporal words and phrases, such as katip si ngan, a past-oriented expression that translates to “a long time ago,” and coded each speaker’s manual gestures. Previous research has found a tendency in many cultures to make temporal distinctions using spatial concepts and gestures, particularly along egocentric axes (i.e., relative to the orientation of the speaker): for instance, English speakers often refer to the front/back axis to describe events in time. In an anthropology paper, a student claims that the tendency toward ego-based conceptualizations of time is universal.
+
+A. Some Yupno grammatical structures used when talking about time are also used in English.
+B. When Yupno speakers who are outdoors use gestures to refer to the future, they point uphill from their current location regardless of which way they are facing.
+C. A Yupno speaker points in opposite directions when indicating a past event versus a future event.
+D. Although Yupno speakers and English speakers both use gestures to indicate orientation in time, Yupno speakers tend to use fewer gestures overall when speaking than English speakers do.
+Answer: B
+
+Question 10:
+[COE]
+Which finding from Chen and Li's research, if true, would most directly support their assertion?
+
+Low-grade iron ore is an abundant resource, but it is challenging to process for steel production, partly because of its high concentration of impurities like silica and phosphorus. It also often has high porosity, which compromises its structural integrity in a blast furnace. In a recent study, metallurgical engineers Chen and Li assert that treating low-grade ore with a bioleaching process using acid-producing microbes improves the ore's quality by making it purer and more structurally sound.
+
+A. When smelted, bioleached ore contained significantly more silica and phosphorus but had significantly lower porosity than untreated ore.
+B. Bioleached ore contained significantly less silica and phosphorus than untreated ore, and when heated, the bioleached ore also showed a significant reduction in porosity.
+C. When the bioleached ore was analyzed, it was found to contain two microbes, Acidithiobacillus ferrooxidans and Leptospirillum ferrooxidans, which are theorized to accelerate the removal of impurities during smelting.
+D. Both bioleached and untreated ore contained significantly less phosphorus after being roasted at a high temperature.
+Answer: B
+

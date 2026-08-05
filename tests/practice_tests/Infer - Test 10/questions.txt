@@ -1,0 +1,129 @@
+Question 16:
+[Infer]
+Which choice most logically completes the text?
+
+The ancient city of Petra, located in modern-day Jordan, boasts a remarkable water management system that allowed its inhabitants to thrive in an arid desert environment. Despite the scarcity of water sources in the region, Petra’s residents developed sophisticated methods for collecting and sorting water, which sustained the city’s population for centuries. Archaeologist Maria Gomez and her team recently conducted a comprehensive analysis of Petra’s water infrastructure, revealing that the technology used in the city’s water management system predates similar systems found in neighboring regions by several hundred years. Given that Petra was established over two millennia ago, the team concluded that _______
+
+
+A. Petra’s inhabitants likely migrated from neighboring regions with similar water management systems.
+B. The scarcity of water sources likely led to the eventual decline of Petra as a thriving urban center.
+C. The water management technology in Petra likely influenced the development of similar systems in neighboring regions.
+D. Petra’s water management system likely relied solely on natural geological features rather than human-engineered structures.
+Answer: C
+
+Question 73:
+[Infer]
+Which choice most logically completes the text?
+
+As exemplified by Temiar songs about landforms and landmarks and Lakota songs about gathering mouse beans, ecological information can be transmitted in Indigenous songs, and in some instances is maintained only in this way. Kwaxsistalla Wathl’thla, a song keeper for the Kwakwaka’wakw people in Canada, collaborated with ethnobiologist Dana Lepofsky et al., sharing songs referencing terraced intertidal clam gardens the people implemented in the past to foster healthy development of a dietary staple. Drawing on archaeological evidence as well, Lepofsky et al. determined that the prevalence of the practice described in the songs corresponded with growth in clam size and abundance despite increased harvesting pressure—a finding that demonstrates that ______.
+
+
+A. representation of practical applications of ecological knowledge is the defining characteristic of the music of certain Indigenous peoples
+B. the Kwakwaka’wakw people likely would not have detailed their creation of clam gardens in songs if their efforts had not produced significantly larger clams
+C. the clams harvested from intertidal terraces by Kwakwaka’wakw people in the past likely were a different species than the clams found in those areas today
+D. effective methods for the cultivation of sources of sustenance are among the ecological knowledge preserved in Indigenous songs
+Answer: D
+
+Question 60:
+[Infer]
+Which choice most logically completes the text?
+
+All stainless steel contains varying amounts of iron, carbon, and corrosion-inhibiting chromium. However, ferritic stainless steel, often used for induction cookers, contains a higher percentage of chromium (at least 10.5%) than does austenitic stainless steel and a higher concentration of iron, which is responsible for its magnetic properties. Unlike ferritic stainless steel, austenitic stainless steel has a face-centered cubic crystalline structure resulting from the addition of nickel to the alloy. Austenitic stainless steel has two subtypes: the 300 series, often used for storage containers, and the 200 series, which has less nickel and more nitrogen than the 300 series and is used for home water tanks. Thus, stainless steel used to manufacture storage containers will have _____.
+
+
+A. similar magnetic properties to stainless steel used to manufacture induction cookers.
+B. a lower percentage of nickel in its composition than stainless steel used to manufacture induction cookers will.
+C. a face-centered cubic crystalline structure, while stainless steel used to manufacture induction cookers will not.
+D. a concentration of nitrogen greater than 10.5%, while stainless steel used to manufacture home water tanks will not.
+Answer: C
+
+Question 39:
+[Infer]
+Which choice most logically completes the text?
+
+Consumers increasingly expect that goods they purchase online will be delivered rapidly, even as soon as the day of purchase. Although efficiencies in long-distance transport of parcels have greatly improved delivery times, last-mile logistics (the final step in delivery to consumers) present a bottleneck for delivery companies. Time pressure resulting from consumer expectations is not the only challenge; other obstacles, such as high personnel costs associated with more deliveries, persist. While innovations to mitigate these challenges have been emerging—the use of cargo bikes, for instance—success has been constrained due to the additional complications that arise (e.g., cargo bikes must frequently return to depots to pick up new parcels). Accordingly, researchers suggest that ___.
+
+
+A. even with a substantial decrease in consumer expectations for rapid delivery, the bottleneck of parcels at the last-mile delivery stage will continue to grow.
+B. solving the problem of last-mile logistics is likely to require further breakthroughs related to delivery methods.
+C. speedy last-mile delivery is a leading factor in customer satisfaction, and thus delivery companies should work to improve the current inefficiencies that exist there.
+D. delivery companies should invest more heavily in proven long-distance parcel transport solutions than in untested last-mile delivery solutions.
+Answer: B
+
+Question 43:
+[Infer]
+Which choice most logically completes the text?
+
+As complex life cycle parasites, Anisakis sp. and Cucullanellus kanabus require multiple host species throughout their development. Extrapolating from parasite counts on spotted ratfish and seven other fish species collected from Puget Sound from 1880 to 2019, Chelsea Wood et al. found that the abundance of three-host parasites, such as Anisakis sp., negatively correlated with rising average annual sea temperatures; the abundance of two-host parasites, such as C. kanabus, was largely stable. Noting that fish and other marine vertebrates are especially vulnerable to climate change, Wood et al. observed that all three-host parasites in the study depend on at least two vertebrate species, while all two-host parasites depend on only one, suggesting that _____.
+
+
+A. although Anisakis sp. and C. kanabus both require spotted ratfish as a host, C. kanabus was more adversely affected by warming-driven changes in the spotted ratfish population than Anisakis sp. was.
+B. warming-induced population changes among Puget Sound vertebrates may have suppressed some parasite populations, but there were no changes among the eight studied host species that affected two-host parasite abundance.
+C. population size and density of the eight fish species examined in the study were likely largely unaffected by rising sea temperatures.
+D. a parasite’s sensitivity to warming temperatures is negatively correlated with the number of unique vertebrate species it depends on throughout its life cycle.
+Answer: B
+
+Question 63:
+[Infer]
+Which choice most logically completes the text?
+
+A study by sociologist Rina Shah and her team involved the use of sentiment analysis tools to assess user feedback on thousands of online courses. The analysis revealed that courses affiliated with universities received a comparatively low percentage of negative feedback, while a significantly higher percentage of negative feedback was found for courses from standalone for-profit platforms. Furthermore, a requirement for full tuition payment is common for the for-profit courses, whereas university-affiliated courses frequently have their costs subsidized or covered by financial aid. Given the assumption that the instructional quality across these platforms is roughly equivalent, the findings suggest that ______
+
+
+A. Students are generally not informed about the tuition costs before enrolling in online courses.
+B. Learners show a stronger preference for enrolling in university-affiliated courses than in courses from for-profit platforms.
+C. For-profit platforms for professional certification have higher enrollment numbers than university-affiliated online courses.
+D. the expectations for course quality are lower among learners whose fees are subsidized than among those who pay full price.
+Answer: D
+
+Question 26:
+[Infer]
+Which choice most logically completes the text?
+
+Conceived by Kiltro Polaris Arquitectura, the design of Huauchinango 36 Building exemplifies the heightened focus in the field of architecture on developing eco-conscious and sustainable buildings through the principle of biophilic design, which seeks to augment occupants’ emotional and physical well-being by establishing a coherent relationship among the building, nature and human biology. Effective biophilic design is smoothly integrated into its surroundings in order to harmonize with nature. Therefore, if architects choose to incorporate greenery into their biophilic design, they tend to select plants that are ______
+
+
+A. native to different regions of the world in order to promote biodiversity and establish a unique design aesthetic.
+B. consistent with the overall design aesthetic of the building rather than with the typical ecology of the surrounding location.
+C. low maintenance in case the building has limited exposure to natural light or will be unoccupied for extended periods of time.
+D. locally available and well suited to the climate and geographic characteristics of the site to ensure that the building is aligned with the immediate environment.
+Answer: D
+
+Question 57:
+[Infer]
+Which choice most logically completes the text?
+
+To combat predation by Arizona myotis and other insectivorous bats, many moth species, including Cycina tenera, emit ultrasonic pulses that, in some cases, disrupt the echolocation bats rely on for foraging. Some scientists have hypothesized that this capability evolved because it imposes a lower metabolic cost than does the alternative mechanism of producing chemicals that render moths noxious to bats. Nicholas T. Homziak et al. investigated the acoustic properties of moths’ ultrasonic responses to audio of bat echolocation and then assessed the palatability of the ultrasound-producing moths. They found that several moth genera that emit ultrasonic pulses capable of disrupting bat echolocation are unpalatable to bats, suggesting that ______.
+
+
+A. most genera of moths that produce ultrasound capable of disrupting bat echolocation do so primarily for purposes other than evading capture by Arizona myotis and other predators.
+B. the hypothesis about the development of this ultrasonic defense likely does not account for all instances of the trait in moths.
+C. although previous findings about Cycina tenera are consistent with the hypothesis about the low metabolic cost of producing noxious chemicals, the ability to disrupt bat echolocation and unpalatability are not mutually exclusive traits.
+D. further investigations into moths’ ability to protect themselves by disrupting bat echolocation will likely find that moth genera relying on this mechanism are also generally inedible to bats.
+Answer: B
+
+Question 77:
+[Infer]
+Which choice most logically completes the text?
+
+The Mammillaria cactus M. guerreronis occurs naturally only in the state of Guerrero in Mexico, and the smallness of its range makes it especially vulnerable to extinction. The traditional single-species approach to conservation emphasizes the need to focus on individual species most at risk, like M. guerreronis, but recently, conservationists have argued that an ecosystem-based approach that incorporates the many interactions between the climate, terrain, and various species of a given geographical area may lead to better outcomes for all the species in a given location. An ecosystem-based approach to the conservation of M. guerreronis could thus ______ .
+
+
+A. allow conservationists to better consider how climatic changes affecting Guerrero may reduce the number of species competing with M. guerreronis.
+B. identify conservation strategies that may not be exclusively aimed at protecting M. guerreronis but that benefit the species nonetheless.
+C. lead to a better understanding of how the distribution of Mammillaria species throughout Mexico has affected their survival.
+D. be unable to evaluate whether M. guerreronis would be capable of surviving in habitats outside of Guerrero.
+Answer: B
+
+Question 2:
+[Infer]
+Which choice most logically completes the text?
+
+Previous research has shown that plant species with a narrow geographical range tend to be more genetically homogeneous than plant species with extensive ranges are. Based on these findings, researchers recently ran simulations to predict how the genetic variation of several species of Mammillaria, a genus of cactus found throughout the Americas, might change in different distribution conditions. One of these species, M. klissingiana, is found only in the state of Tamaulipas. The researchers simulated what would happen if M. klissingiana spread to new habitats outside Tamaulipas, and, consistent with previous findings, the results showed that __         __
+
+
+A. several other Mammillaria species could survive in Tamaulipas in the future.
+B. the genetic homogeneity of M.klissingiana decreased over time.
+C. there was a gradual increase in the genetic homogeneity of Maminillaria species in states neighboring Tamaulipas.
+D. Marnmillaria species other than M.Klissingian a would become more common in Tamaulipas.
+Answer: B

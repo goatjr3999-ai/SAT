@@ -1,0 +1,103 @@
+Question 280:
+[COE]
+Which choice completes the text with most logical and precise word or phrase?
+
+Maryam Hosseini and her team used aerial images of well-mapped areas of Manhattan to train a computer program to identify sidewalks. When it was tested on images of Brooklyn, it _____ identified sidewalks in the vast majority of cases and even whether sidewalks were concrete or cobblestone. Hosseini believes the program will improve on this already-strong performance as it gets used more.
+
+
+A. reliably
+B. clumsily
+C. rarely
+D. slowly
+Answer: A
+
+Question 53:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Istiqlal Mosque in Jakarta, Indonesia, is a massive mosque that can accommodate approximately 200,000 people at once, making it an _________ sight to behold.
+
+
+A. idealized
+B. intricate
+C. imposing
+D. illusory
+Answer: C
+
+Question 72:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Jane Goodall has worked tirelessly to _____ the effects of climate change on chimpanzees in Tanzania: her research has shown that government commitments to reforestation efforts can help soften the negative impacts of warming temperatures on chimpanzee populations in Tanzania as well as other African countries.
+
+
+A. insulate
+B. downplay
+C. tolerate
+D. mitigate
+Answer: D
+
+Question 115:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Though not closely related, the hedgehog tenrecs of Madagascar share basic ______ true hedgehogs, including protective spines, pointed snouts, and small body size—traits the two groups of mammals independently developed in response to equivalent roles in their respective habitats.
+
+
+A. examples of
+B. concerns about
+C. indications of
+D. similarities with
+Answer: D
+
+Question 126:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The Apollo Moon landings (1969–1972) brought charged particle detectors and equipment too heavy for liftoff to the Moon and produced large amounts of data, much of which was stored on outdated technologies. A data-transfer project is making the data available again, thereby _____ the Apollo data’s usefulness, as the data are used to study the long-term effects of being on the Moon.
+
+
+A. renewing
+B. persisting
+C. exceeding
+D. installing
+Answer: A
+
+Question 141:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Whether the reign of a French monarch such as Louis VII or Henry V was historically consequential or relatively uneventful, its trajectory was shaped by questions of legitimacy and therefore cannot be understood without a corollary understanding of the characteristics without the monarch would have been forced to _____the throne.
+
+
+A. reciprocate
+B. annotate
+C. abandon
+D. equalize
+Answer: C
+
+Question 13:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Becoming a member of the organization Indigenous Photograph has helped Sara Aliaga Ticona (Aymara) to____ her work with an audience beyond Bolivia, where she's from. The organization's database of members is used by photography editors and others in the media industry around the world.
+
+
+A. share
+B. split
+C. challenge
+D. examine
+Answer: A
+
+Question 58:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+Some cities estimate where sidewalks are located using road maps, which is not very accurate. Maryam Hosseini and her team trained a computer program to identify sidewalks in aerial images of Manhattan and used it on images of Chicago. The program’s performance was ______ to that of the road-map method: it more accurately identified sidewalks, and it even distinguished between concrete and brick.
+
+
+A. changed
+B. supportive
+C. similar
+D. superior
+Answer: D

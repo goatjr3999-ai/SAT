@@ -1,0 +1,122 @@
+Question 1:
+[Structure]
+Which choice best states the main idea of the text?
+
+The following text is adapted from Guy de Maupassant’s 1884 short story “A Recollection,” from the collection Guy de Maupassant Short Stories (translated by Albert M.C. McMaster et al. in 1903). The narrator is taking a boat down the Seine river from Paris, France, to the surrounding countryside.
+"I took up a position in the bows , standing up and looking at the quays, the trees, the houses, and the bridges disappearing behind us. And suddenly I perceived the great viaduct of Point du Jour which blocked the river. It was the end of Paris, the beginning of the country, and behind the double row of arches the Seine, suddenly spreading out as though it had regained space and liberty, became all at once the peaceful river which flows through the plains, alongside the wooded hills, amid the meadows, along the edge of the forests."
+
+A. The narrator contrasts his feelings of apprehension with the apparent tranquility of the river as the boat enters the countryside.
+B. The narrator is anxious for the trip to the countryside to be over as quickly as possible and is frustrated that it is taking so long.
+C. Though the narrator did not expect to be leaving the city on this trip, he is nonetheless excited to undertake this new adventure.
+D. The narrator perceives a parallel between the shift from the urban environment to the countryside and the changes in the features of the river itself.
+Answer: D
+
+Question 2:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Scientists who study celestial objects can determine the radial velocity of any particular star by analyzing its spectrum—the dispersion of its light into various wavelengths. Should a star (or other body) move toward us, its spectral lines shift toward shorter wavelengths. The faster the object is traveling, the more pronounced this shift becomes. Although this type of spectroscopic examination is relatively straightforward when studying stars in our cosmic neighborhood, it becomes markedly more complicated for those located in the far reaches of the Milky Way’s outer halo. Even powerful telescopes struggle to collect sufficient light from such distant objects. As a result, astronomer Ulrich Heber hypothesizes that numerous low-mass hypervelocity stars remain undetected. While these small stars have longer lifespans than the very bright, blue B-type stars, they emit substantially less light.
+
+A. A specific astronomical event is explained, followed by an irregularity related to that event.
+B. A procedure for gathering data is presented, and then questions are raised about its reliability.
+C. A new analytical method is introduced, and subsequent discoveries using that method are summarized.
+D. A particular technique, along with its drawbacks, is examined, and afterward a projection is put forth.
+Answer: D
+
+Question 3:
+[Structure]
+Which choice best states the main idea of the text?
+
+“Tomato” is an example of a loanword—that is, a word that originated in one language and was later adopted by another. The word came to English indirectly from tomate, the Spanish word for the widely cultivated plant. Spanish had borrowed it from Nahuatl, an Indigenous language of Central Mexico, in which the word’s original form is tomatl. “Maize” also has an Indigenous origin and entered English through Spanish. But in this case, the original source was Taíno, a language of the Caribbean islands, in which the word for the corn plant is mahiz.
+
+A. Many Spanish words with Indigenous origins first passed through English before entering Spanish.
+B. When borrowing from Indigenous languages, Spanish adopted roughly as many words from Nahuatl as from Taíno.
+C. When non-Indigenous languages borrowed from Indigenous languages, the words often underwent a significant change in meaning.
+D. The English words “tomato” and “maize” are both examples of loanwords from Indigenous languages.
+Answer: D
+
+Question 4:
+[Structure]
+Which choice best states the main idea of the text?
+
+The following text is from Jerome K. Jerome’s 1889 novel Three Men in a Boat (To Say Nothing of the Dog). The narrator and two friends are taking a boat down the River Thames in England.
+In a boat, I have always noticed that it is the fixed idea of each member of the crew that he is doing everything. Harris’s notion was, that it was he alone who had been working, and that both George and I had been imposing upon him. George, on the other hand, ridiculed the idea of Harris’s having done anything more than eat and sleep, and had a cast-iron opinion that it was he—George himself—who had done all the labour worth speaking of.
+
+A. The narrator recognizes that Harris’s and George’s attitudes are typical of how crew members view their own contributions on boats.
+B. The narrator has recognized that Harris spends most of his time eating and sleeping.
+C. Everyone in the group has been given tasks to do, but the narrator hasn’t been willing to complete his.
+D. The amount of work that needs to be done on the boat is likely more than the narrator, George, and Harris can handle.
+Answer: A
+
+Question 5:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Like all species of baleen whales, the humpback whale feeds on tiny creatures known as krill by filtering water through bristle-like keratin structures called baleen plates. In this way, baleen whales can eat up to 30 percent of their total mass per day. And while no one would call the humpback whale small—it can have a mass as high as 30,000 kg—it is one of the smaller baleen whales and is much smaller than the northern right whale, which can weigh a whopping 80,000 kg and consume as much as 24,000 kg of krill per day.
+
+A. It describes a characteristic shared by all baleen whales and then illustrates a difference between the humpback whale and the northern right whale that is relevant to that characteristic.
+B. It discusses a unique feature of the humpback whale and how the lack of that feature in the northern right whale explains differences in the two species’ behavior.
+C. It draws a distinction between the sizes of the humpback whale and the northern right whale and then presents a feature that they have in common.
+D. It details a relationship between humpback and northern right whales and krill and then discusses an unexpected consequence of a change in baleen whale populations.
+Answer: A
+
+Question 6:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+With a shell that measured 1.7 meters, the extinct mollusk Parapuzosia seppenradensis is the largest ammonite in the fossil record. Ever since fossilized remains of this species were discovered in 1895, scientists have been perplexed by its size. After examining 154 ammonite fossils including some of P. seppenradensis from Montana and Parapuzosia leptophylla (a smaller ammonite species) from England, paleontologist Christina Ifrim, Andrew S. Gale, and colleagues concluded that P. seppenradensis may have evolved from P. leptophylla and gradually increased in size as larger ammonites were better able to escape being preyed on by mosasaurs.
+
+A. It states a long-standing scientific assumption and then shows how recent research has overturned that assumption.
+B. It describes a scientific mystery and then discusses a research team’s attempt to solve that mystery.
+C. It compares fossils found in Montana and England and then points out which of those fossils provides more information.
+D. It notes the discovery of a new ammonite species and then remarks on the importance of that discovery.
+Answer: B
+
+Question 7:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Yingguang Frank Chan and colleagues have explored how convergent evolution—a phenomenon that occurs when the same trait evolves independently in two reproductively separate lineages—can result from a genetic mechanism shared by both lineages. Meanwhile, Patricia J. Wittkopp and colleagues have investigated how convergence occurs through different genetic mechanisms, but the relative prevalence of convergence through shared and different genetic processes is still poorly understood. This motivated biologists Delbert A. Green II and Cassandra G. Extavour to evaluate both types of convergence in a single study for their 2012 paper.
+
+A. To summarize Green and Extavour’s criticism of the study by Chan and colleagues
+B. To suggest that Green and Extavour’s conclusions would be more persuasive if they incorporated findings from the studies by Chan and colleagues and Wittkopp and colleagues
+C. To situate Green and Extavour’s study in the context of their field
+D. To argue that Green and Extavour’s study revealed a previously unrecognized issue that evolutionary biologists need to address
+Answer: C
+
+Question 8:
+[Structure]
+Which choice best states the main purpose of the text?
+
+Can field mustard plants grow on Mars? Can pea plants? You might think the answer to these questions is obviously no, but researchers in the Netherlands recently showed that the seeds of many common plant species can germinate in soil designed to simulate Martian conditions, as long as water is supplied. In fact, some species actually did better in Martian soil than in Earth soil: 30 percent of field mustard seeds sprouted when planted in simulated Martian soil, compared with 4 percent that did when planted in soil from their home planet.
+
+A. To answer long-standing questions about how Martian soil conditions can be simulated on Earth
+B. To present a surprising finding about plants grown in soil intended to be similar to Martian soil
+C. To discuss an unexpected result about the role of water in plants grown in simulated Martian soil
+D. To explain an important study of differences in the composition of Martian soil and the composition of Earth soil
+Answer: B
+
+Question 9:
+[Structure]
+Which choice best states the main idea of the text?
+
+Philosophers note that many people have an intuitive sense that while we ought not to lie, there may be circumstances in which lying is permissible. If this intuition is correct and we lack an inviolable duty to speak truthfully, what grounds opposition to lying in the first place? Japa Pallikkathayil has advanced one answer by appealing to a duty to respect others’ agential interests: the possession of false beliefs constrains agency, and thus we ought not to impede the formation of true beliefs unless doing so prevents a greater constraint on someone’s agency or an otherwise impermissible end.
+
+A. Pallikkathayil’s argument suggests that if we have a duty to respect other people’s agential interests and if possession of false beliefs constrains agency, then we have an inviolable duty to speak truthfully.
+B. Pallikkathayil’s argument shows that if our intuition that circumstances may make lying permissible is correct, then it is unclear whether there are any grounds for an opposition to lying in the first place.
+C. One potential means of justifying opposition to lying is Pallikkathayil’s argument that we have an obligation to respect other people’s agency that entails a commitment to truthfulness except in certain circumstances.
+D. Many people have an intuitive sense that lying is permissible in some circumstances but lack a principled way to identify those circumstances, and Pallikkathayil’s argument may provide a means of resolving that problem.
+Answer: C
+
+Question 10:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+Though John Crowley, author of Endless Things, is not as well known as the most widely read American writers of the past fifty years, his work has had several influential champions, including the poet James Merrill and the literary critic Harold Bloom. In his afterword to Crowley’s book Little, Big, Bloom argues that the novel adroitly blends what playwright Friedrich Schiller termed the naive and sentimental modes—while Schiller thought works could be classified as either naive (seeking to describe reality) or sentimental (seeking to develop ideas), Little, Big fuses both modes of writing.
+
+A. It accounts for a writer's lack of popular appeal, cites a literary figure who appreciates that writer, and summarizes the qualities that make the writer's work unique.
+B. It describes a writer's successful career, presents two literary figures who were supporters of that writer's career, and explains why the writer was able to achieve what he did.
+C. It mentions a writer whose work is not widely known, presents two people who hold a positive opinion of that writer, and gives a reason why one of those people holds that opinion.
+D. It identifies a writer whose work is regarded as difficult to read, brings up two admirers of that writer's work, and gives information that may make the writer's work more accessible to new readers.
+Answer: C
+

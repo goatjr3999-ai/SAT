@@ -1,0 +1,129 @@
+Question 50:
+[Infer]
+Which choice most logically completes the text?
+
+The jade hawkmoth, a large-bodied moth, defends itself against the eastern red bat and other insect-eating bats, which use echolocation to hunt, by emitting ultrasonic clicks that can, for instance, disrupt the bats' echolocation signals. To investigate moths' defensive ultrasound—which researchers had thought was exclusive to tiger moths, hawkmoths, and one species of geometer moths—Akito Y. Kawahara et al. recorded the responses of moths from 252 genera, representing most families of large-bodied moths, to audio playback of bat echolocation. The researchers found that 52 of the genera, including several genera belonging to the geometer family, produced defensive ultrasonic clicks. This result suggests that ____
+
+
+A. ultrasound production is only one of a diverse range of effective strategies moths employ to evade bat attacks
+B. unlike the 52 moth genera that emit ultrasonic clicks, most moth genera have likely not developed defenses specifically against bat attacks.
+C. the production of ultrasound as a defense against bat echolocation is far more common among large-bodied moths than earlier research had indicated.
+D. some genera of large-bodied moths may use ultrasonic signaling for purposes other than avoiding capture by predators such as the eastern red bat.
+Answer: C
+
+Question 64:
+[Infer]
+Which choice most logically completes the text?
+
+Many French pastries, such as beignets and croquettes, achieve their signature flavor through deep frying in oil; some are prepared with a special starch-based coating. Food scientists Isabelle Fournier and Jacques Tremblay investigated the heat and mass transfer processes that occur when pastries are fried with coatings containing gel-forming compounds, which thicken or solidify in water. During frying, moisture inside the food evaporates, leaving pockets that oil, a pure fat, can occupy. As frying continues, water from the interior moves outward as long as the crust remains porous. However, gel-forming compounds in the coating can create barriers that slow the movement of moisture out of the food’s core. Therefore, a pastry fried without this type of coating will likely _____.
+
+
+A. develop a denser crust after frying compared to one fried with a coating containing gel-forming compounds.
+B. require shorter frying times at higher temperatures than it would with a coating containing gel-forming compounds.
+C. absorb more oil than it would if fried with a coating containing gel-forming compounds.
+D. need a different type of frying oil than it would if fried with a coating containing gel-forming compounds.
+Answer: C
+
+Question 24:
+[Infer]
+Which choice most logically completes the text?
+
+Scientists looking for signs of ancient life in Asia have found many examples of fossilized hominins, including in a geological formation at the Minatogawa Limestone Quarry. However, to find even older specimens like early multicellular organisms from the Ediacaran period, scientists must look elsewhere, such as in the Ediacaran geological formation at Mistaken Point in North America, because ______.
+
+
+A. North America has sites with hominins but not sites with early multicellular organisms.
+B. Early multicellular organisms are found at more sites around the world than hominins.
+C. That formation is from an earlier time than the formation with the hominins.
+D. The hominins at Mistaken Point are better preserved than the hominins at the Minatogawa Limestone Quarry.
+Answer: C
+
+Question 51:
+[Infer]
+Which choice most logically completes the text?
+
+Over 600 languages are spoken in New York City in addition to English—one can find Acehnese spoken in the neighborhood of Astoria, or Ilocano in Woodside. Most speakers of Chinese languages reside in the neighborhood of Flushing (part of New York City's borough of Queens), where the dominant Chinese language is Mandarin, and in Chinatown, in the borough of Manhattan, where the dominant Chinese languages are Cantonese and Fuzhounese. Mandarin is widely spoken in north China, while Cantonese and Fuzhounese are widely spoken in south China. It can therefore be inferred that ________.
+
+
+A. people who emigrate from north China tend to settle in Flushing, while people who emigrate from south China tend to settle in Chinatown.
+B. Chinese immigrants regularly change their residences between Queens and Manhattan after they emigrate, rather than staying in one borough.
+C. hinese immigrants who emigrated to New York City many years ago are more likely to speak several Chinese languages than are more recent Chinese immigrants.
+D. taken together, there are more Cantonese and Fuzhounese speakers among Chinese immigrants in New York than there are Mandarin speakers.
+Answer: A
+
+Question 31:
+[Infer]
+Which choice most logically completes the text?
+
+Ethnographers have spent decades analyzing the traditional songs of Indigenous peoples around the world. Only recently, however, have ethnographers started to recognize that many Indigenous songs encode and transmit valuable ecological knowledge—citing, for instance, songs of the Kwakwaka’ wakw people in British Columbia, Canada, that share vital information about clam gardens, and those of the Sakha people in Siberia, Russia, that address the effects of climate change on local ecosystems. It seems likely, therefore, that ethnographers may want to ________
+
+
+A. reconsider their view that the transmission of ecological knowledge is an important function of some Indigenous songs.
+B. reexamine some of their earlier analyses of Indigenous peoples' songs in light of this new perspective.
+C. explore the possibility that the Kwakwaka’ wakw people were influenced by the songs of the Sakha.
+D. place greater emphasis on the use of Indigenous songs by individuals than on the songs' roles in society.
+Answer: B
+
+Question 56:
+[Infer]
+Which choice most logically completes the text?
+
+Humans have a very strong bias toward right-handedness, with approximately 85–90% having right as their dominant hand. Among studies of nonhuman primates, James Welles’s 1976 study of captive chimpanzees and catarrhine monkeys reported more right-handed individuals than left-handed ones, but William C. McGrew and colleagues’ 1999 study of wild chimpanzees did not find a tendency toward right-handedness. It’s important to note, however, that captive animals spend significantly more time with humans than wild animals do, and therefore ____.
+
+
+A. the apparent difference between the two studies’ results may be partly attributable to the 1976 study using a different standard to determine handedness than the 1999 study did.
+B. the right-handedness exhibited by the captive chimpanzees and catarrhine monkeys might be, in part, an effect of extended contact with humans.
+C. the number of individuals in the study of captive chimpanzees and catarrhine monkeys is likely too small to support the claim that the species tends toward right-handedness.
+D. the number of individuals in the study of wild chimpanzees is probably too small to support the claim that no tendency toward right-handedness was found in that population.
+Answer: B
+
+Question 9:
+[Infer]
+Which choice most logically completes the text?
+
+To better understand consumer loyalty to specific online retailers, Marina Žižakov and colleagues created a survey using 58 statements as proxy indicators of customer experience with receiving goods purchased online. The statements are categorized as relevant to one of six topics—e.g., statement 10, “I check the status of the shipment as it travels toward me,” is categorized as relevant to the topic of parcel tracking—and respondents rate the importance of each statement to their experience. The researchers propose that the survey can be adapted for use by companies and other researchers, and they note that same-category responses show very low same-participant heterogeneity, which suggests that ______
+
+
+A. it may be possible to collect meaningful data about all six customer experience topics without using all 58 of the original statements.
+B. the six topics into which the 58 statements are grouped may actually represent more than six different topics.
+C. responses to statements in the parcel tracking topic are highly predictive of responses in the other five topics.
+D. the reliability of the survey data for each topic would be largely unaffected by the number of survey respondents.
+Answer: A
+
+Question 47:
+[Infer]
+Which choice most logically completes the text?
+
+In the early nineteenth century, several botanical gardens in Northern Europe were found to have cultivated orchid hybrids that closely resembled those produced in lesser-known experiments from Southeast Asian botanical societies decades earlier, but there is little evidence that these Northern European horticulturists worked collaboratively on the Southeast Asian experiments. Excluding the possibility of multiple horticulturists coincidentally cultivating hybrids identical to those already bred by the Southeast Asian botanical societies, these facts most strongly suggest that _____
+
+
+A. the horticulturists learned about these hybrids through secondary sources that documented the Southeast Asian experiments.
+B. the cultivation techniques preferred by Northern European horticulturists were fundamentally different from those used in Southeast Asian botanical experiments.
+C. Southeast Asian orchid hybrids were predominantly applied in areas unrelated to those pursued by Northern European botanical gardens.
+D. Northern European botanical gardens acknowledged the influence of Southeast Asian botanical experiments only after significant horticultural achievements had been made.
+Answer: A
+
+Question 58:
+[Infer]
+Which choice most logically completes the text?
+
+Indigenous songs are an important resource for ecological information. Songs of the Warlpiri people in Yuendumu, Australia, convey information about wild edible seeds, and the songs of the Karen (hta) Hin Lad Nai people in Thailand offer detailed information about bees. There have been efforts made to preserve Indigenous languages over the years—e.g., the United Nation’s International Decade of Indigenous Languages (2022–2032). However, such attempts have typically focused on spoken language despite the fact that some expressions in these languages appear only in songs. Therefore, if those involved in such efforts want to ensure that a comprehensive range of information is secured, they must _____.
+
+
+A. analyze musical similarities in the songs of the Warlpiri and Karen (hta) Hin Lad Nai people.
+B. acknowledge that Indigenous songs are largely but not entirely composed using phrases taken from spoken language.
+C. incorporate the preservation of songs into their broader efforts to protect Indigenous languages.
+D. recognize that Indigenous languages likely have more unique expressions that represent ecological knowledge than represent other types of information.
+Answer: C
+
+Question 40:
+[Infer]
+Which choice most logically completes the text?
+
+To measure changes in parasite abundance over time, Chelsea Wood and colleagues counted parasite individuals preserved on specimens of Pacific herring, spotted ratfish, and six other fish species collected from Puget Sound between 1880 and 2019. Using statistical models to estimate historical populations, the researchers determined that for every 1°C increase in annual average sea surface temperature, the abundance of complex life cycle parasites like Lepeophtheirus salmonis that require at least three unique host species throughout their life cycle decreased by 38%. However, the abundance of Gyrodactylus sp. and other directly transmitted parasites, which require only one host species, was essentially unchanged. These findings suggest that ___.
+
+
+A. as the number of hosts that complex life cycle parasites require increases, the parasites’ tolerance for rising sea surface temperatures decreases proportionally.
+B. Lepeophtheirus sp. abundance decreased by 38% over the period studied, whereas Gyrodactylus sp. abundance did not.
+C. parasites that rely exclusively on either Pacific herring or spotted ratfish are more sensitive to rising temperatures than are parasites that can infect both species throughout their life cycles.
+D. dependency on only a single host species may confer on parasites some resilience to rising sea surface temperatures.
+Answer: D

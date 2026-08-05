@@ -1,0 +1,90 @@
+Question 1:
+[Infer]
+Which choice most logically completes the text?
+
+The first documented use of the English word “session” is attributed to poet Geoffrey Chaucer's 1386 work “Canterbury Prologue." However, Chaucer didn't write in Modem English, _____ he wrote in what we now call Middle English, which was commonly used during the period.
+
+
+A. rather,
+B. as a result,
+C. similarly,
+D. finally,
+Answer: A
+
+Question 2:
+[Infer]
+Which choice most logically completes the text?
+
+The city of Jinan, China, expanded its rapid transit system, the Jinan Metro, as recently as 2020. _____ the system will likely need to undergo further expansions as the size and needs of the city's population shift.
+
+
+A. Still,
+B. By contrast,
+C. For example,
+D. Instead,
+Answer: A
+
+Question 3:
+[Infer]
+Which choice most logically completes the text?
+
+In the 1850s, William Still was instrumental in helping nearly 1,000 people escape from slavery, earning him the moniker “the Father of the Underground Railroad.”_____ despite the fame of his contributions during his lifetime, Still is discussed far less today than other prominent Black abolitionists from his era, such as Frederick Douglass and Harriet Tubman.
+
+A. Similarly,
+B. Specifically,
+C. For example,
+D. However,
+Answer: D
+
+Question 4:
+[Infer]
+Which choice most logically completes the text?
+
+Though its onboard laboratory allowed it to analyze rock samples on-site, the 2011 Mars Curiosity raver was unable to preserve samples for future analysis. _____ when creating the 2020 Mars *Perseverance rover*, robotics mechanical engineer Arash Kalantari and other members of NASA's Jet Propulsion Laboratory sought to implement a mechanism that could do exactly that.
+
+
+A. Previously,
+B. Specifically,
+C. Likewise,
+D. Thus,
+Answer: D
+
+Question 5:
+[Infer]
+Which choice most logically completes the text?
+
+Some members of the city council have resisted proposals to livestream budget meetings, concerned that participants might posture for the cameras. ____ they also fear that soundbites could be taken out of context, potentially misleading the public about the city’s financial priorities.
+
+
+A. Nonetheless,
+B. Furthermore,
+C. In contrast,
+D. For instance,
+Answer: B
+
+Question 6:
+[Infer]
+Which choice most logically completes the text?
+
+Magnetic levitation (maglev) trains are suspended above a track by powerful electromagnets, reducing friction and thus allowing for much faster speeds. Though maglev advocates in the US have long imagined these trains crisscrossing the country, their dream remains unrealized.______ of the handful of maglev trains currently in operation, all are in Asia.
+
+
+A. To that end,
+B. Nevertheless,
+C. In fact,
+D. That said,
+Answer: C
+
+Question 7:
+[Infer]
+Which choice most logically completes the text?
+
+The chemical trimethylamine N-oxide not only gives fish their fishy smell but also protects them from crushing hydrostatic pressure in deep waters. Trimethylamine N-oxide strengthens the bonds between water molecules in a fish’s body. _____ these water molecules maintain their linked structure at extreme depths, thus preventing pressure-related damage.
+
+
+A. However,
+B. As a result,
+C. For instance,
+D. Nevertheless,
+Answer: B
+

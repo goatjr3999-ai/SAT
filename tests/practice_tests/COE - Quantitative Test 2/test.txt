@@ -1,0 +1,133 @@
+Question 1:
+[COE]
+Which choice most effectively uses data from the graph to complete the researcher’s example?
+
+It is common for freshwater lakes near or above a latitude of 45° north of the equator, like Opeongo Lake in Canada, to accumulate surface ice in winter. A study from 1980 to 2006 showed that, in general, the number of days per winter that such lakes have measurable amounts of surface ice is declining. However, a researcher claimed that some lakes have instead seen an increase in the duration of ice, citing as an example _____
+
+
+A. both Lake Mendota and Kalmarinjävi, which had more days of ice in the winter of 2005–06 than they did in the winter of 1980–81.
+B. Lake Baikal, which had more days of ice in the winter of 2005–06 than it did in the winter of 1980–81.
+C. both Lake Baikal and Kalmarinjävi, which had fewer than 200 days of ice in the winter of 1980–81.
+D. both Lake Baikal and Kalmarinjävi, which had more than 95 days of ice in the winter of 2005–06.
+Answer: B
+
+Question 2:
+[COE]
+Which choice most effectively uses data from the graph to complete the researcher’s example?
+
+It is common for freshwater lakes near or above a latitude of 45° north of the equator, like Opeongo Lake in Canada, to accumulate surface ice in winter. The amount and duration of ice depends on many factors, including local weather conditions as well as the lake’s depth, volume, and surface area, but a climate researcher claims that some lakes in these latitudes have seen a decline in the duration of ice between the early 1980s and the mid-2000s. She cites as a typical example ______.
+
+
+A. both Lake Neusiedl and Oulujärvi, which had fewer than 195 days of ice in the winter of 1980–81.
+B. Oulujärvi, which had fewer days of ice in the winter of 2005–06 than it did in the winter of 1980–81.
+C. Lake Neusiedl, which had more days of ice in the winter of 2005–06 than it did in the winter of 1980–81.
+D. both Lake Neusiedl and Oulujärvi, which had more than 100 days of ice in the winter of 2005–06.
+Answer: B
+
+Question 3:
+[COE]
+Which choice best describes data in the table that support the researcher's claim?
+
+It is common for freshwater lakes near or above a latitude of 45° north of the equator, like Lake Spirit in Germany, to accumulate surface ice in winter. The amount and duration of ice depends on many factors, including local weather conditions as well as the lake's depth, volume, and surface area, but a climate researcher claims that the higher a lake's latitude, the more days per winter it will typically have measurable amounts of surface ice.
+
+
+A. Nöckten is at a higher latitude than Lake Kegonsa and typically had fewer days of ice per winter than Lake Kegonsa did.
+B. Spirit Lake had 102 days of ice in the winter of 1980-81 and 126 days of ice in the winter of 2005-06.
+C. Nöckten had 177 days of ice in the winter of 1980-81 and 134 days of ice in the winter of 2005-06.
+D. Nöckten is at a higher latitude than Lake Kegonsa and typically had more days of ice per winter than Lake Kegonsa did.
+Answer: D
+
+Question 4:
+[COE]
+Which choice best describes data in the table that support the researcher's claim?
+
+It is common for freshwater lakes near or above a latitude of 45° north of the equator, like Lake Stechlin in Germany, to accumulate surface ice in winter. A study from 1980 to 2006 showed that, in general, the number of days per winter that lakes have measurable amounts of surface ice is declining. However, a researcher claimed that some lakes have instead seen an increase in the duration of ice.
+
+
+A. Kitsujarvi is at a higher latitude than Mirror Lake and typically had fewer days of ice per winter than Mirror Lake did.
+B. Lake Baikal had fewer days of ice in the winter of 1980-81 than it did in the winter of 2005-06.
+C. Kitsujarvi had more days of ice in the winter of 1980-81 than it did in the winter of 2005-06.
+D. Kitsujarvi is at a higher latitude than Mirror Lake and typically had more days of ice per winter than Mirror Lake did.
+Answer: B
+
+Question 5:
+[COE]
+Which choice best describes data from the graph that support the researcher's claim?
+
+It is common for freshwater lakes near or above a latitude of 45° north of the equator, like Lake Stechlin in Germany, to accumulate surface ice in the winter. The amount and duration of ice depends on many factors, including local weather conditions as well as the lake's depth, volume, and surface area, but a climate researcher claims that some lakes in these latitudes have seen a decline in the duration of ice between the early 1980s and the mid-2000s.
+
+
+A. Spirit Lake had approximately 100 days of ice in the winter of 1980–81 and approximately 125 days of ice in the winter of 2005–06.
+B. Lake Kallavesi had approximately 175 days of ice in the winter of 1980–81 and approximately 145 days of ice in the winter of 2005–06.
+C. The highest number of days of ice a lake in the graph had in the winter of 2005–06 was approximately 145.
+D. None of the three lakes had fewer days of ice in the winter of 1980–81 than they did in the winter of 2005–06.
+Answer: B
+
+Question 6:
+[COE]
+Which choice most effectively uses data from the graph to complete the example?
+
+Number of Women Judges on Highest Courts in Selected Countries (2009-2013)
+A report from an international organization that monitors the numbers of women serving as judges or magistrates on various nations’ highest courts, such as the Supreme Court in Sweden and the Supreme Court of Justice in Uruguay, indicates that among the countries that had a different number of women on these courts in 2013 than they had in 2009, the number increased in some countries but decreased in others. For instance, the number of women judges and magistrates on high courts in _____.
+
+
+A. Sri Lanka was greater in 2013 than in 2009, whereas the number in Sweden was the same in 2013 as in 2009.
+B. Uruguay was lower in 2013 than in 2009, whereas the number in Sweden was the same in 2013 as in 2009.
+C. Sri Lanka was greater in 2013 than in 2009, whereas the number in Uruguay was lower in 2013 than in 2009.
+D. Sweden was the same in 2013 as in 2009, but it had more women on its high courts than either Sri Lanka or Uruguay did in 2013.
+Answer: C
+
+Question 7:
+[COE]
+Which choice most effectively uses data from the table to complete the excample?
+
+A report from an international organization that monitors the numbers of women serving as judges or magistrates on various nations’ highest courts, such as the Supreme Court of Justice in Mexico and the Supreme Court in the Philippines, found that the overall trend is toward more women serving on the high courts in 2010 than in 1980. For example, none of the countries in the graph had more than 2 women in these positions in 1980, but ______
+
+
+A. in 2010, Singapore had 3 women on its high courts, the Philippines had 3, and Mexico had 3.
+B. neither Singapore nor the Philippines saw a reduction in the women on their high courts in any of the years shown on the graph, but Mexico did after 1990.
+C. the increase in the number of women on the high courts from 1980 to 2010 in Singapore was greater than that in either the Philippines or Mexico.
+D. Mexico had 2 women on its high courts in 1980 and 3 in 2010.
+Answer: A
+
+Question 8:
+[COE]
+Which choice most effectively uses data from the graph to complete the example?
+
+A report from an international organization that monitors the numbers of women serving as judges or magistrates on various nations' highest courts, such as the Supreme court in Finland and the Supreme Court in the Dominican republic. From 2009 to 2013, the number of women serving as justices or magistrates on highest courts in most countries increased. However, there are also countries where the number decreased or remained unchanged; for example, _____
+
+
+A. Slovenia was greater in 2013 than in 2009, whereas the number in the Dominican Republic was lower in 2013 than in 2009.
+B. Slovenia was greater in 2013 than in 2009, whereas the number in Finland was the same in 2013 as in 2009.
+C. Finland was the same in 2013 as in 2009, but it had more women on its high courts than either Slovenia or the Dominican republic did in 2013.
+D. the Dominican Republic was lower in 2013 than in 2009, whereas the number in Finland was the same in 2013 as in 2009.
+Answer: D
+
+Question 9:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+**Minimum and Maximum Depths of Stony Coral Species in Caribbean and Indo-Pacific Waters**
+
+Some scientists have suggested that as ocean temperatures rise, many fish and corals found in the shallow zone (less than 30 meters below the surface) could take refuge in the cooler, darker mesophotic zone (30 to 150 meters below the surface). However, it isn’t clear that all such species will be able to tolerate mesophotic conditions. In 2018, Luiz Rocha and colleagues studied stony corals in the two zones in Caribbean and Indo-Pacific waters. Based on the depths at which those corals are now found, the species that seems best suited to a full migration to the mesophotic zone is ______.
+
+
+A. Agaricia undata, because its minimum depth of 20 meters is within the shallow zone.
+B. Plerogyra sinuosa, because its maximum depth of 15 meters is furthest from the mesophotic zone.
+C. Acropora echinata, because its maximum depth of 25 meters is close to but doesn’t reach the mesophotic zone.
+D. Psammocora albopicta, because its maximum depth of 35 meters already extends into the mesophotic zone.
+Answer: D
+
+Question 10:
+[COE]
+Which choice most effectively uses data from the table to complete the statement?
+
+Some scientists have suggested that as ocean temperatures rise, many fish and corals found in the shallow zone (less than 30 meters below the surface) could take refuge in the cooler, darker mesophotic zone (30 to 150 meters below the surface). However, it isn't clear that all such species will be able to tolerate mesophotic conditions. In 2018, Luiz Rocha and colleagues studied stony corals in the two zones in Caribbean and Indo-Pacific waters. Based on the depths at which those corals are now found, the species that seems least suited to a full migration to the mesophotic zone is ___.
+
+
+A. Agaricia undata, because its minimum depth of 20 meters is within the shallow zone.
+B. Plerogyra sinuosa, because its maximum depth of 15 meters is furthest from the mesophotic zone.
+C. Acropora echinata, because its maximum depth of 25 meters is close to but doesn't reach the mesophotic zone.
+D. Psammocora albopicta, because its minimum depth of 1 meter is the shallowest of those listed.
+Answer: B
+

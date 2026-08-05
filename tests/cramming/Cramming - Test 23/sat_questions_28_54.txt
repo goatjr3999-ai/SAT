@@ -1,0 +1,395 @@
+Question 1:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+While the study of cicada wings for new water-repellant materials held promise, the project was ultimately hampered. The intense ______ between the engineering and entomology experts, with each group vying for primary credit, led to duplicated efforts and a less comprehensive outcome than what a unified approach might have achieved.
+
+
+A. concordance
+B. prognostication
+C. verisimilitude
+D. rivalry
+Answer: D
+
+
+Question 2:
+[COE]
+Which choice best completes the text with the most logical and precise word or phrase?
+
+A speaker at a recent children’s book publishing conference noted that, while many illustrators do excellent work, in her mind, no one has ever _____ Amos Ferguson’s work as the illustrator of Under the Sunday Tree: there is no better example of the form, according to the speaker.
+
+
+A. convened
+B. augmented
+C. eclipsed
+D. cited
+Answer: C
+
+
+Question 3:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The dates that archaeologists assign to most of the colossal sculptures of human heads produced by the Olmec civilization of Mesoamerica are necessarily ______. The majority of the sculptures have been moved from their original context, making precise dating impossible.
+
+
+A. uncontroversial
+B. irrelevant
+C. applicable
+D. approximate
+Answer: D
+
+
+Question 4:
+[WIC]
+Which choice completes the text with the most logical and precise word or phrase?
+
+The new hypothesis was first presented in a 2018 journal article, and—though the concept was far from ______, based more on theoretical modeling than on verifiable evidence—the idea has been debated fervently ever since.
+
+
+A. tenuous
+B. controversial
+C. irrefutable
+D. esoteric
+Answer: C
+
+
+Question 5:
+[Structure]
+Which choice best describes the overall structure of the text?
+
+The Reckoning and Resilience (2022) exhibition at Duke University’s Nasher Museum of Art in Durham, North Carolina, was curated to feature the work of thirty North Carolina artists. The included artists represent a wide variety of artistic disciplines, from painters such as Juan Logan to the sculptor Stephen Hayes. In its inclusion of many borrowed works, the exhibition is atypical for the Nasher Museum, which tends to curate its exhibitions around the permanent collection of contemporary art that it owns.
+
+
+A. It explains how an art exhibition differs from many other exhibitions, then analyzes the significance of that difference.
+B. It presents the unusual goals curators had for an art exhibition, then evaluates whether the curators achieved those goals.
+C. It provides an overview of an art exhibition, then explains what makes the exhibition unusual for the institution that organized it.
+D. It discusses the wide range of disciplines represented in an art exhibition, then explains why curators included works in those disciplines.
+Answer: C
+
+
+Question 6:
+[COE]
+Which choice best describes the main purpose of the text?
+
+The following text is from Reyna Grande's 2012 memoir The Distance Between Us. In the text, Grande is reflecting on experiences she had as a child. Abuela Evila is her grandmother, Elida is her cousin, and Mago and Carlos are her siblings.
+Every few days, Abuela Evila washed Elida's hair with lemon water because, according to her, lemon juice cleans the impurities of the hair and makes it shiny and healthy. In the afternoons, she would fill up a bucket from the water tank, pick a few lemons from the tree, and squeeze the juice into the water. Mago, Carlos, and I would hide behind a pink oleander bush and watch their ritual through the narrow leaves. Abuela Evila washed Elida's hair as if she were washing an expensive silk rebozo.
+
+
+A. To give an example of a typical interaction between Grande's siblings
+B. To describe a regular occurrence from Grande's childhood
+C. To illustrate how Grande's relationship with Elida grew over time
+D. To explain how Grande felt about a location where she spent time as a child
+Answer: B
+
+
+Question 7:
+[Structure]
+Which choice best states the main idea of the text?
+
+Women like Dorothy T. Blum made important early contributions to the history of US cryptology, a field concerned with secure data communication and storage. Blum provided cryptological services for the US Army in the 1940s and then joined the National Security Agency (NSA). She was a pioneer in transitioning the NSA to using computers for cryptoanalysis. In this way, Blum and others like her helped make it possible for more women—such as Maureen Baginski, who currently works in intelligence and supports the FBI—to enter the field of cryptology.
+
+
+A. Cryptology is a field that focuses primarily on securely managing data.
+B. Women such as Dorothy T. Blum and Maureen Baginski have contributed to the field of cryptology.
+C. Dorothy T. Blum and Maureen Baginski worked together on an important project in the field of cryptology.
+D. Cryptology should be taught more often in schools to encourage more women to enter the field.
+Answer: B
+
+
+Question 8:
+[COE]
+Based on the text, what is one reason why simulants are valuable for scientists?
+
+The soil on Mars can make missions to explore the planet challenging, as the sand and dust are known to clog filters and lock moving parts on robotic rovers and other exploration devices. Using simulants, which are materials designed to simulate different planetary surfaces, scientists are able to study the characteristics of Mars’s surface. Simulants like the Mars Mojave simulant—which was developed using lava deposits from California’s Mojave Desert—help scientists evaluate how well their devices will handle the surface when operated on Mars.
+
+
+A. Simulants allow scientists to test the ability of research equipment to withstand some of the conditions it will encounter during a mission.
+B. Scientists use simulants to track how the chemical properties of planetary soils have changed over time.
+C. Simulants can be mixed with soil from Earth to explore how research equipment will handle extreme terrains on Earth.
+D. Scientists use simulants to compare the physical properties of Mars’s surface to those of Earth’s surface.
+Answer: A
+
+
+Question 9:
+[Structure]
+Which choice best states the main idea of the text?
+
+Although notorious for its strict formal requirements, the sonnet is nevertheless represented by such wide-ranging examples as Maggie Anderson’s “Sonnet for Her Labor” and Tyehimba Jess’s “Millie and Christine McCoy”—poems that differ remarkably in subject, rhythm, and structure. It may seem counterintuitive that the sonnet—ostensibly rigid and timeworn—could accommodate such variety, but poet Carl Phillips contends that the form invites experimentation: when a genre’s conventions are as recognizable as those of the sonnet, the opportunity to subvert them is especially irresistible.
+
+
+A. Although Anderson’s and Jess’s sonnets are both widely celebrated for their striking originality, most modern examples of the form are generally regarded as conventional.
+B. As a form, the sonnet encourages a surprising amount of variety, even though certain characteristics associated with it suggest this would be unlikely.
+C. That the sonnet remains as popular as it is today is unexpected, given that many of the features associated with the form have long since seemed antiquated to readers.
+D. Although the sonnet is now recognized for the way it facilitates experimentation, there was a long period in its history in which very little innovation occurred.
+Answer: B
+
+
+Question 10:
+[COE]
+Which finding, if true, would most strongly support the underlined claim?
+
+Olms are salamanders that live in underwater caves. Scientists once thought that olms stay in their caves all their lives. However, Raoul Manenti and team claim that __olms regularly come to the surface to perform important activities such as finding food.__
+
+
+A. Researchers discover that earthworms from surface soils are a major part of olms’ diet.
+B. Researchers learn that olms’ brains differ from other salamanders’ brains.
+C. Researchers confirm that olms live in only a few cave systems.
+D. Researchers determine that olms don’t breed often.
+Answer: A
+
+
+Question 11:
+[COE]
+Which of the following statements, if true, would most strongly support Nichols and her team’s hypothesis about the source of Zoraxa’s acceleration?
+
+First detected in 2019, the interstellar body named Zoraxa is the first of its kind discovered in our solar system. Scientists have been puzzled because its acceleration cannot be fully attributed to gravitational forces from nearby celestial objects, indicating that an additional nongravitational factor is influencing its speed and trajectory. Some earlier theories to explain this nongravitational acceleration involved unlikely mechanisms, such as the idea that Zoraxa might consist of multiple separated parts, creating unusual geometric effects. Recently, Dr. Avery Nichols and her team have proposed that the acceleration may be due to the release of trapped helium gas from Zoraxa’s ammonia-rich, icy surface.
+
+
+A. Some existing models of gas release from Zoraxa propose the direct sublimation of methane or oxygen from solid to gas without a liquid phase, but these models have theoretical or observational inconsistencies.
+B. Zoraxa’s trajectory does not align with nongravitational acceleration that would result from the release of helium gas due to ammonia ice processing, although its observed characteristics could be explained if it contains a substantial amount of molecular nitrogen ice (N2).
+C. Nongravitational forces acting on interstellar objects are typically several magnitudes weaker than gravitational forces, and deviations from purely gravitational behavior have only been noted in a few objects similar to Zoraxa.
+D. Exposure to cosmic particles in interstellar space can create pockets of trapped helium gas within ammonia ice, and as Zoraxa traveled through the solar system, it encountered enough heat to change its icy structure, facilitating gas release.
+Answer: D
+
+
+Question 12:
+[COE]
+Which quotation from a psychologist not involved in the team’s study would most directly weaken the team’s conclusion?
+
+Psychologists Gregory Bryant, Dorsa Amir, and colleagues investigated cross-cultural perceptions of spontaneous (real) laughter and volitional (fake or forced) laughter. Study participants from 21 societies, including those in Japan and South Africa, listened to randomized recordings of 18 spontaneous laughs taken from natural conversations between pairs of women and 18 volitional laughs produced separately by 18 different women in response to an experimenter’s instruction to laugh. Analysis of the participants’ evaluations of the laughs prompted the team to conclude that the ability to distinguish between spontaneous and volitional laughter appears to be universal across cultures.
+
+
+A. Although the team considered the average size of communities in each society in the study, that demographic factor was found to have no effect on listeners’ identifications of laughter as spontaneous or volitional.
+B. When an individual chooses to produce volitional laughter in a natural social context, the laughter often shares certain acoustic qualities, such as pitch and fluctuation of intensity, with spontaneous laughter.
+C. Recent studies in communications have shown that certain acoustic features of spontaneous laughter, such as pitch and intensity, are consistent both within and across societies.
+D. Judgments of spontaneous laughter are often associated with acoustic features such as greater intensity variability and higher pitch.
+Answer: B
+
+
+Question 13:
+[Infer]
+Which choice most logically completes the text?
+
+Certain songs of the Tlingit people in the extreme northwestern United States tell stories of encounters with wolves and other wildlife, and those of the Kaluli people in Papua New Guinea sometimes replicate rainforest sounds to evoke specific locations. Ethnomusicologists have long studied the cultural meaning of music within societies but have only recently begun to recognize the critical role —particularly for languages known by fewer and fewer contemporary speakers— of indigenous songs such as these as a unique repository of historical ecological knowledge. This shift in perspective is important because it enables ethnographers to ______.
+
+
+A. determine the frequency of unique linguistic patterns in the songs of the Tlingit people and the Kaluli people that describe natural environments.
+B. encourage researchers across a variety of fields to join efforts to determine which indigenous languages are at the highest risk of falling into disuse.
+C. bring greater scholarly attention to the idea that music has reinforced a sense of cultural identity among the Tlingit people and Kaluli people over time.
+D. develop and preserve a more complete understanding of how Indigenous peoples have traditionally perceived and interacted with their environments.
+Answer: D
+
+
+Question 14:
+[Infer]
+Which choice most logically completes the text?
+
+As exemplified by Temiar songs about landforms and landmarks and Lakota songs about gathering mouse beans, ecological information can be transmitted in Indigenous songs, and in some instances is maintained only in this way. Kwaxsistalla WathI'thla, a song keeper for the Kwakwaka’wakw people in Canada, collaborated with ethnobiologist Dana Lepofsky et al., sharing songs referencing terraced intertidal clam gardens the people implemented in the past to foster healthy development of a dietary staple. Drawing on archaeological evidence as well, Lepofsky et al. determined that the prevalence of the practice described in the songs corresponded with growth in clam size and abundance despite increased harvesting pressure—a finding that demonstrates that ____.
+
+
+A. representation of practical applications of ecological knowledge is the defining characteristic of the music of certain Indigenous peoples
+B. the Kwakwaka’wakw people likely would not have detailed their creation of clam gardens in songs if their efforts had not produced significantly larger clams
+C. the clams harvested from intertidal terraces by Kwakwaka’wakw people in the past likely were a different species than the clams found in those areas today
+D. effective methods for the cultivation of sources of sustenance are among the ecological knowledge preserved in Indigenous songs
+Answer: D
+
+
+Question 15:
+[Infer]
+Which choice most logically completes the text?
+
+In the world’s democracies, proportionally few elected representatives are young adults. While some philosophers argue that certain types of underrepresentation (of women, for example) are unfair in principle and should be remediated via quotas, there is broad agreement that youth underrepresentation is not inherently unfair since it is universal (all people are underrepresented when young), temporary (underrepresented young people become overrepresented older people), and reflective of a legitimate concern (lack of relevant experience). Accordingly, when philosopher Juliana Uhuru Bidadanure advocates for youth quotas for elected representatives, she does so on the basis of their instrumental value for promoting youth interests, arguing that ______
+
+
+A. young adults may lack certain kinds of experience but those experiences are not relevant to the question of whether youth underrepresentation is fair in principle.
+B. age-related quotas would alleviate the inherently unfair overrepresentation of older people that tends to occur in the world’s democracies.
+C. youth underrepresentation may be fair in principle but leads to worse outcomes for young adults than could be achieved with more proportionate youth representation.
+D. it does not matter that youth underrepresentation is universal, temporary, and reflective of a legitimate concern since it is inherently unfair.
+Answer: C
+
+
+Question 16:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Frank Lloyd Wright's 1935 design is the plan for Fallingwater, an architectural integration of the features of the natural _______ stands as a prime example for architects hoping to study how the concept of organic building design has been applied in twentieth-century construction.
+
+
+A. landscape, and
+B. landscape and
+C. landscape,
+D. landscape
+Answer: A
+
+
+Question 17:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Integrating insights from economics and psychology, researchers in the field of behavioral economics explore a variety of topics. Olga Shurchkov of Wellesley College studies worker _____other researchers investigate areas such as market behavior and consumer behavior.
+
+
+A. productivity for instance;
+B. productivity, for instance;
+C. productivity; for instance,
+D. productivity, for instance,
+Answer: B
+
+
+Question 18:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+Water boils at around 212°F at sea level, but in Superior, Colorado (elevation: 5,495 feet above sea level), it boils at around 202°F. Food writer J. Kenji López-Alt, who explores the science behind cooking, ______ that lower boiling points at higher elevations "can wreak all sorts of havoc on recipes."
+
+
+A. explain
+B. explains
+C. have explained
+D. are explaining
+Answer: B
+
+
+Question 19:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+When the electrons of a chemical element change energy states, they release certain wavelengths of light that are unique to that element. This means that the emission of light with a wavelength of 516.7 nanometers (nm), which falls in the 500-570 nm range defining the green portion of the visible spectrum, ______ the element iron as the source of the light.
+
+
+A. identifying
+B. identifies
+C. to identify
+D. having identified
+Answer: B
+
+
+Question 20:
+[Grammar]
+Which choice completes the text so that it conforms to the conventions of Standard English?
+
+On most of the world’s beaches, sand is a predictable cream or beige color. The sand at Vermelha Beach in Brazil is a strikingly different _____ sand gets its shade from deposits of gray- and tan-hued quartz and feldspar; deposits of iron oxide and other organic matter lend the sand at Vermelha Beach a colorful red tint.
+
+
+A. shade, though, most
+B. shade, though most
+C. shade: though most
+D. shade, though. Most
+Answer: D
+
+
+Question 21:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+A team led by Portuguese researcher Isabel C. F. R. Ferreira found that many species of mushrooms contain chemicals called phenolic compounds, such as cinnamic acid and catechin. _________  Ferreira detected cinnamic acid in *Agaricus blazei* mushrooms and catechin in *Lentinus edodes* mushrooms.
+
+
+A. For this reason,
+B. However,
+C. Nevertheless,
+D. For example,
+Answer: D
+
+
+Question 22:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+At the Marie Hitchcock Puppet Theater in San Diego, California, audiences sit down to enjoy a live puppet show. ______ they will experience puppetry in its highest form. The theater’s professional puppeteers are experts in any number of dozens of puppetry styles, from bunraku puppetry to marionette puppetry.
+
+
+A. To that end,
+B. However,
+C. Conversely,
+D. There,
+Answer: D
+
+
+Question 23:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+In her 2015 poem Migration, Lyrae Van Clief-Stefanon contemplates Jacob Lawrence's painting The Migration Series, presenting a nuanced imaginative response to Lawrence's piece that goes beyond mere description. ________ rather than simply presenting the painting's elements in a straightforward way, Van Clief-Stefanon uses the painting's bold colors and exaggerated shapes as a vehicle for exploring themes of community and cultural identity.
+
+
+A. Nevertheless,
+B. However,
+C. Specifically,
+D. In addition,
+Answer: C
+
+
+Question 24:
+[Synthesis]
+The student wants to specify when Ur formed. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• A supercontinent is a single landmass made up of most or all of Earth's continents.
+• Over time, continents merge together to form supercontinents, which then break apart.
+• This process is believed to take hundreds of millions of years and is known as the supercontinent cycle.
+• Ur and Columbia were supercontinents.
+• Ur formed about 3.1 billion years ago.
+• Columbia formed about 1.8 billion years ago.
+
+
+A. Ur was a supercontinent, a single landmass made up of most or all of Earth's continents.
+B. The supercontinent Ur formed about 3.1 billion years ago.
+C. Long ago, the Earth was home to supercontinents like Ur and Columbia.
+D. Over hundreds of millions of years, the supercontinent cycle results in supercontinents forming and breaking apart.
+Answer: B
+
+
+Question 25:
+[Transition]
+Which choice completes the text with the most logical transition?
+
+As genetic engineering has advanced, many corporations have sought to gain an advantage in, or even patent, the genetic code of essential food crops. ______ it is the 2001 International Treaty on Plant Genetic Resources—signed by the European Union, Brazil, and over 140 other nations—that curtails these commercial ambitions and ensures that access to these genetic resources remains open for the international community.
+
+
+A. Consequently,
+B. Specifically,
+C. Alternatively,
+D. Ultimately,
+Answer: D
+
+
+Question 26:
+[Synthesis]
+The student wants to explain the scientific rationale for Pluto's current classification. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The International Astronomical Union (IAU) defines a planet as a celestial body that (1) orbits the Sun, (2) is massive enough to be made nearly round by its own gravity, and (3) has "cleared the neighborhood" around its orbit.
+• "Clearing the neighborhood" means an object's gravity has swept its orbital path clear of other sizable bodies.
+• A celestial body meeting the first two criteria but not the third is classified as a dwarf planet.
+• Pluto, discovered in 1930, was long considered the ninth planet.
+• Pluto's orbit lies within the Kuiper Belt, a region of space populated by numerous other icy objects.
+• Due to its location, Pluto has not gravitationally cleared its orbital path of these other objects.
+
+
+A. Pluto's location within the Kuiper Belt, a region filled with other icy bodies, is the primary reason it was reclassified from its original status as the ninth planet.
+B. Because it orbits the Sun and is nearly round but has not cleared its orbital path of other objects, Pluto meets the IAU's definition of a dwarf planet.
+C. A dwarf planet is a celestial body that, like Pluto, orbits the Sun but is not massive enough to be made round by its own gravity, distinguishing it from a planet.
+D. Unlike a planet, a dwarf planet such as Pluto has failed to clear its neighborhood; for example, Earth's orbital path is clear of other sizable bodies.
+Answer: B
+
+
+Question 27:
+[Synthesis]
+The student wants to make a generalization about minerals. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+
+While researching a topic, a student has taken the following notes:
+• The Mohs scale of mineral hardness is a ten-point scale that orders minerals by hardness based on their ability to scratch other minerals.
+• Minerals with larger numbers are harder than minerals with smaller numbers and can leave visible scratches on them.
+• Minerals with smaller numbers are softer than minerals with larger numbers and cannot leave visible scratches on them.
+• The mineral calcite has a Mohs scale number of 3.
+• The mineral apatite has a Mohs scale number of 5.
+• The mineral corundum has a Mohs scale number of 9.
+
+
+A. Based on their Mohs scale numbers, corundum (9) is harder than apatite (5), and apatite is harder than calcite (3).
+B. Corundum can leave visible scratches on calcite, which is why corundum has a higher number than calcite on the Mohs scale of mineral hardness.
+C. Any mineral with a Mohs number of 9, like corundum, can scratch a mineral with a Mohs number of 5, like apatite.
+D. The Mohs scale can be used to order calcite, corundum, and apatite by their ability to scratch other minerals.
+Answer: C
